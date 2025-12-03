@@ -3,11 +3,10 @@
 Toku - Unified CLI for toy manual translation system.
 
 Commands:
-  worker    Start Temporal workers
-  translate Translate a PDF manual
-  serve     Start web viewer server
+  translate Translate a PDF manual (auto-manages workers)
   add-url   Add source URL to a manual
   reindex   Regenerate main index
+  list      List all translated manuals
 """
 
 import asyncio
@@ -27,41 +26,6 @@ TASK_QUEUE = "pdf-translation"
 def cli():
     """Toku - Toy manual translation system."""
     pass
-
-
-@cli.command()
-@click.option(
-    "--count", "-c", default=3, help="Number of workers to start (default: 3)"
-)
-def worker(count):
-    """Start Temporal worker(s)."""
-    from worker import main as worker_main
-
-    if count == 1:
-        click.echo("Starting 1 worker...")
-        asyncio.run(worker_main())
-    else:
-        import subprocess
-
-        click.echo(f"Starting {count} workers...")
-        processes = []
-        for i in range(count):
-            proc = subprocess.Popen(
-                [sys.executable, "worker.py"],
-                stdout=subprocess.PIPE,
-                stderr=subprocess.PIPE,
-            )
-            processes.append(proc)
-            click.echo(f"  Worker {i+1} started (PID: {proc.pid})")
-
-        click.echo("\nPress Ctrl+C to stop all workers...")
-        try:
-            for proc in processes:
-                proc.wait()
-        except KeyboardInterrupt:
-            click.echo("\nStopping workers...")
-            for proc in processes:
-                proc.terminate()
 
 
 @cli.command()
@@ -154,22 +118,6 @@ def translate(pdf_path, source_lang, target_lang, workers):
                 pass
 
         click.echo("✓ Workers stopped")
-
-
-@cli.command()
-@click.option(
-    "--port", "-p", default=5000, help="Port to run server on (default: 5000)"
-)
-@click.option(
-    "--host", "-h", default="127.0.0.1", help="Host to bind to (default: 127.0.0.1)"
-)
-def serve(port, host):
-    """Start the web viewer server."""
-    from server import app
-
-    click.echo(f"Starting web server at http://{host}:{port}")
-    click.echo("Press Ctrl+C to stop")
-    app.run(host=host, port=port)
 
 
 @cli.command()

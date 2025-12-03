@@ -46,10 +46,8 @@ OCR and translation system for Japanese toy instruction manuals using Google Clo
    ```
 
 6. **View results**
-   ```bash
-   uv run python tokuSolutions.py serve
-   # Open http://localhost:5000
-   ```
+   - Open [output/index.html](output/index.html) in your browser
+   - Or use any static file server (e.g., `python -m http.server -d output`)
 
 ## CLI Reference
 
@@ -59,10 +57,6 @@ All commands use the unified `tokuSolutions.py` CLI:
 # Translate a PDF (workers start/stop automatically)
 uv run python tokuSolutions.py translate Documents/Manual.pdf
 uv run python tokuSolutions.py translate Documents/Manual.pdf -w 5  # Use 5 workers
-
-# Start web viewer
-uv run python tokuSolutions.py serve              # Default: http://127.0.0.1:5000
-uv run python tokuSolutions.py serve -p 8080      # Custom port
 
 # List translated manuals
 uv run python tokuSolutions.py list
@@ -87,8 +81,7 @@ uv run python tokuSolutions.py translate --help
 - **[tokuSolutions.py](tokuSolutions.py)** - Unified CLI tool (use this!)
 - [docai_activities.py](docai_activities.py) - Temporal activities for OCR, translation, and output generation
 - [docai_workflow.py](docai_workflow.py) - Temporal workflow orchestrating the translation pipeline
-- [worker.py](worker.py) - Temporal worker (called by tokuSolutions.py)
-- [server.py](server.py) - Flask server (called by tokuSolutions.py)
+- [worker.py](worker.py) - Temporal worker (auto-managed by CLI)
 
 ### Configuration
 - `.env` - Environment variables (not in git)
