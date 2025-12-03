@@ -1,0 +1,5810 @@
+{
+  "meta": {
+    "source": "Ridewatch.pdf",
+    "source_lang": "ja",
+    "target_lang": "en",
+    "source_url": "https://toy.bandai.co.jp/manuals/?prod_name=&p_id=1&release_date=&t_id=&jan_code="
+  },
+  "pages": [
+    {
+      "image": "pages/page-0.webp",
+      "blocks": [
+        {
+          "original": "RIDER TIME\n仮面ライダー",
+          "translated": "RIDER TIME\nKamen Rider",
+          "bounds": {
+            "x": 0.0363,
+            "y": 0.0415,
+            "w": 0.0562,
+            "h": 0.0124
+          }
+        },
+        {
+          "original": "―7人のシオウ!―",
+          "translated": "-Seven Shiou!-",
+          "bounds": {
+            "x": 0.0484,
+            "y": 0.0787,
+            "w": 0.0877,
+            "h": 0.0073
+          }
+        },
+        {
+          "original": "©石森プロ・テレビ朝日・ADK EM・東映",
+          "translated": "© Ishimori Productions, TV Asahi, ADK EM, Toei",
+          "bounds": {
+            "x": 0.1638,
+            "y": 0.0633,
+            "w": 0.1149,
+            "h": 0.0047
+          }
+        },
+        {
+          "original": "DXセイバーライドウォッチ\n&ディライトコンプリートフォームライドウィッチの遊び方\nSABER RIDEWATCH & DECADE COMPLETE FORMI RIDEWATCH",
+          "translated": "How to play the DX Saber Ridewatch and Delight Complete Form Ridewitch\nSABER RIDEWATCH & DECADE COMPLETE FORMI RIDEWATCH",
+          "bounds": {
+            "x": 0.049,
+            "y": 0.109,
+            "w": 0.899,
+            "h": 0.0787
+          }
+        },
+        {
+          "original": "ないよう",
+          "translated": "Not so",
+          "bounds": {
+            "x": 0.1131,
+            "y": 0.2176,
+            "w": 0.0466,
+            "h": 0.0077
+          }
+        },
+        {
+          "original": "セット内容",
+          "translated": "Set contents",
+          "bounds": {
+            "x": 0.0472,
+            "y": 0.2266,
+            "w": 0.1131,
+            "h": 0.0175
+          }
+        },
+        {
+          "original": "とりあつかいせつめいしょ",
+          "translated": "Handling instructions",
+          "bounds": {
+            "x": 0.2092,
+            "y": 0.2283,
+            "w": 0.0659,
+            "h": 0.0051
+          }
+        },
+        {
+          "original": "取扱説明書･･･1",
+          "translated": "Instruction manual...1",
+          "bounds": {
+            "x": 0.2098,
+            "y": 0.2347,
+            "w": 0.0865,
+            "h": 0.009
+          }
+        },
+        {
+          "original": "デラックス",
+          "translated": "Deluxe",
+          "bounds": {
+            "x": 0.2672,
+            "y": 0.3617,
+            "w": 0.0278,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "デラックス",
+          "translated": "Deluxe",
+          "bounds": {
+            "x": 0.5333,
+            "y": 0.3617,
+            "w": 0.0284,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "DXセイバーライドウォッチ...1",
+          "translated": "DX Saber Ridewatch...1",
+          "bounds": {
+            "x": 0.2684,
+            "y": 0.3638,
+            "w": 0.1814,
+            "h": 0.0115
+          }
+        },
+        {
+          "original": "DXディケイドコンプリートフォーム21ライドウォッチ... 1",
+          "translated": "DX Decade Complete Form 21 Ridewatch... 1",
+          "bounds": {
+            "x": 0.5357,
+            "y": 0.3664,
+            "w": 0.3337,
+            "h": 0.009
+          }
+        },
+        {
+          "original": "しょう ぶ ひん しょうきゅう",
+          "translated": "Iris product consumption",
+          "bounds": {
+            "x": 0.0617,
+            "y": 0.4463,
+            "w": 0.0852,
+            "h": 0.0047
+          }
+        },
+        {
+          "original": "ごいん ちっそく",
+          "translated": "Goin Chissoku",
+          "bounds": {
+            "x": 0.217,
+            "y": 0.4468,
+            "w": 0.058,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "き けん",
+          "translated": "Kiken",
+          "bounds": {
+            "x": 0.2956,
+            "y": 0.4468,
+            "w": 0.0218,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "△ 警告 (けいこく)",
+          "translated": "△ Warning",
+          "bounds": {
+            "x": 0.364,
+            "y": 0.404,
+            "w": 0.185,
+            "h": 0.0158
+          }
+        },
+        {
+          "original": "ほごしゃ",
+          "translated": "caregiver",
+          "bounds": {
+            "x": 0.3495,
+            "y": 0.4237,
+            "w": 0.0369,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "かた",
+          "translated": "shoulder",
+          "bounds": {
+            "x": 0.4045,
+            "y": 0.4241,
+            "w": 0.0109,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "かなら",
+          "translated": "Kanara",
+          "bounds": {
+            "x": 0.4395,
+            "y": 0.4245,
+            "w": 0.0151,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "保護者の方へ 必ずお読みください。",
+          "translated": "To parents: Please be sure to read this.",
+          "bounds": {
+            "x": 0.3428,
+            "y": 0.4292,
+            "w": 0.2322,
+            "h": 0.0098
+          }
+        },
+        {
+          "original": "さいみまん",
+          "translated": "Saiminman",
+          "bounds": {
+            "x": 0.4226,
+            "y": 0.4459,
+            "w": 0.0405,
+            "h": 0.006
+          }
+        },
+        {
+          "original": "こさま",
+          "translated": "Kosama",
+          "bounds": {
+            "x": 0.4946,
+            "y": 0.4472,
+            "w": 0.0224,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "ぜったい",
+          "translated": "Absolutely",
+          "bounds": {
+            "x": 0.5459,
+            "y": 0.4476,
+            "w": 0.0266,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "あた",
+          "translated": "Atata",
+          "bounds": {
+            "x": 0.5877,
+            "y": 0.4472,
+            "w": 0.0121,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "●小部品や小球があります。 誤飲・窒息の危険がありますので、3才未満のお子様には絶対に与えないでください。",
+          "translated": "Contains small parts and balls. Do not give to children under 3 years old to prevent accidental ingestion or choking hazard.",
+          "bounds": {
+            "x": 0.0568,
+            "y": 0.4519,
+            "w": 0.6439,
+            "h": 0.0094
+          }
+        },
+        {
+          "original": "△ 注意 (ちゅうい )",
+          "translated": "△ Caution",
+          "bounds": {
+            "x": 0.3652,
+            "y": 0.4673,
+            "w": 0.1844,
+            "h": 0.015
+          }
+        },
+        {
+          "original": "でん しぶ ひん しよう",
+          "translated": "Electrical Substation",
+          "bounds": {
+            "x": 0.4843,
+            "y": 0.4895,
+            "w": 0.0925,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "ほんしょうひん しんたい ちか",
+          "translated": "Product listing near the center",
+          "bounds": {
+            "x": 0.0484,
+            "y": 0.5049,
+            "w": 0.1052,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "らんぽう [あそ]",
+          "translated": "Ranpo [Aso]",
+          "bounds": {
+            "x": 0.2195,
+            "y": 0.4891,
+            "w": 0.0514,
+            "h": 0.0051
+          }
+        },
+        {
+          "original": "ちゅうい",
+          "translated": "caution",
+          "bounds": {
+            "x": 0.2346,
+            "y": 0.5049,
+            "w": 0.0248,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "ほんしょうひん",
+          "translated": "Product",
+          "bounds": {
+            "x": 0.4141,
+            "y": 0.49,
+            "w": 0.0411,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "ひかり てんめつ みつづ",
+          "translated": "Three Lights",
+          "bounds": {
+            "x": 0.367,
+            "y": 0.5049,
+            "w": 0.0967,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "きぶん",
+          "translated": "Mood",
+          "bounds": {
+            "x": 0.5677,
+            "y": 0.5049,
+            "w": 0.0206,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "わる",
+          "translated": "Bad",
+          "bounds": {
+            "x": 0.6034,
+            "y": 0.5049,
+            "w": 0.0115,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "で",
+          "translated": "in",
+          "bounds": {
+            "x": 0.7914,
+            "y": 0.5058,
+            "w": 0.006,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "しよう",
+          "translated": "let's",
+          "bounds": {
+            "x": 0.7981,
+            "y": 0.49,
+            "w": 0.0218,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "かた",
+          "translated": "shoulder",
+          "bounds": {
+            "x": 0.8368,
+            "y": 0.4904,
+            "w": 0.0115,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "ごしょう",
+          "translated": "Gosho",
+          "bounds": {
+            "x": 0.8337,
+            "y": 0.5049,
+            "w": 0.0363,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "●ぶつけたり、ふりまわすなど乱暴な遊びをしないでください。●本商品には電子部品を使用しておりますので、ペースメーカーをご使用の方は、\n本商品を身体に近づけないようご注意ください。 LEDの光の点滅を見続けないでください。気分が悪くなったりする恐れがあります。《電池を誤使用\nすると発熱・破裂・液漏れの恐れがあります。 下記に注意してください》 ●万一、ボタン電池を飲み込んだとき、ボタン電池から漏れた液が目に入った",
+          "translated": "●Do not play roughly with the product, such as hitting it or swinging it around. ●This product contains electronic components, so if you use a pacemaker, please keep it away from your body. Do not stare at the flashing LED light for long periods of time. It may make you feel unwell. {Misuse of the battery may cause it to overheat, explode, or leak. Please take the following precautions:} ●If a button battery is swallowed, or if liquid leaking from the button battery gets into your eyes,",
+          "bounds": {
+            "x": 0.0478,
+            "y": 0.4951,
+            "w": 0.8222,
+            "h": 0.0398
+          }
+        },
+        {
+          "original": "はつねつ はれつ えきも",
+          "translated": "Hot and steamy station",
+          "bounds": {
+            "x": 0.0828,
+            "y": 0.5195,
+            "w": 0.0919,
+            "h": 0.0056
+          }
+        },
+        {
+          "original": "いし",
+          "translated": "stone",
+          "bounds": {
+            "x": 0.1215,
+            "y": 0.5353,
+            "w": 0.0206,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "そうだ",
+          "translated": "Yes.",
+          "bounds": {
+            "x": 0.1596,
+            "y": 0.5361,
+            "w": 0.02,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "おそ",
+          "translated": "Late",
+          "bounds": {
+            "x": 0.2056,
+            "y": 0.5203,
+            "w": 0.0133,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "も",
+          "translated": "too",
+          "bounds": {
+            "x": 0.263,
+            "y": 0.5366,
+            "w": 0.006,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "かき ちゅうい",
+          "translated": "Oysters",
+          "bounds": {
+            "x": 0.3005,
+            "y": 0.5212,
+            "w": 0.0611,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "えき",
+          "translated": "at",
+          "bounds": {
+            "x": 0.2981,
+            "y": 0.5366,
+            "w": 0.0115,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "ひふ",
+          "translated": "Skin",
+          "bounds": {
+            "x": 0.3277,
+            "y": 0.5357,
+            "w": 0.0206,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "ふく",
+          "translated": "wipe",
+          "bounds": {
+            "x": 0.3664,
+            "y": 0.5361,
+            "w": 0.0121,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "つ",
+          "translated": "t",
+          "bounds": {
+            "x": 0.3954,
+            "y": 0.5366,
+            "w": 0.006,
+            "h": 0.0026
+          }
+        },
+        {
+          "original": "まんいち",
+          "translated": "Manichi",
+          "bounds": {
+            "x": 0.4547,
+            "y": 0.5203,
+            "w": 0.0254,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "とき みず あら",
+          "translated": "Time water storm",
+          "bounds": {
+            "x": 0.4329,
+            "y": 0.5357,
+            "w": 0.0629,
+            "h": 0.0047
+          }
+        },
+        {
+          "original": "でんち",
+          "translated": "Electricity",
+          "bounds": {
+            "x": 0.5254,
+            "y": 0.5203,
+            "w": 0.0206,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "の",
+          "translated": "of",
+          "bounds": {
+            "x": 0.5665,
+            "y": 0.5212,
+            "w": 0.0079,
+            "h": 0.0026
+          }
+        },
+        {
+          "original": "でんち",
+          "translated": "Electricity",
+          "bounds": {
+            "x": 0.6215,
+            "y": 0.5361,
+            "w": 0.0206,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "こうかん",
+          "translated": "Exchange",
+          "bounds": {
+            "x": 0.6632,
+            "y": 0.5357,
+            "w": 0.0248,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "でんち",
+          "translated": "Electricity",
+          "bounds": {
+            "x": 0.6923,
+            "y": 0.5207,
+            "w": 0.023,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "も",
+          "translated": "too",
+          "bounds": {
+            "x": 0.7473,
+            "y": 0.5207,
+            "w": 0.006,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "えき",
+          "translated": "at",
+          "bounds": {
+            "x": 0.783,
+            "y": 0.5207,
+            "w": 0.0109,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "ほごしゃ かた おこな",
+          "translated": "Parenting",
+          "bounds": {
+            "x": 0.7056,
+            "y": 0.5357,
+            "w": 0.0937,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "め はい",
+          "translated": "Yes",
+          "bounds": {
+            "x": 0.8114,
+            "y": 0.5212,
+            "w": 0.0363,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "ときはすぐに医師に相談してください。 漏れた液が皮膚や服に付いた時は水で洗ってください。 ●ボタン電池の交換は保護者の方が行ってください。",
+          "translated": "If this happens, consult a doctor immediately. If the leaked liquid comes into contact with your skin or clothes, wash it off with water. ●A parent or guardian should replace the button battery.",
+          "bounds": {
+            "x": 0.0484,
+            "y": 0.5413,
+            "w": 0.821,
+            "h": 0.009
+          }
+        },
+        {
+          "original": "でんち",
+          "translated": "Electricity",
+          "bounds": {
+            "x": 0.0998,
+            "y": 0.5511,
+            "w": 0.0218,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "の",
+          "translated": "of",
+          "bounds": {
+            "x": 0.1439,
+            "y": 0.5519,
+            "w": 0.0067,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "こ",
+          "translated": "child",
+          "bounds": {
+            "x": 0.1735,
+            "y": 0.5519,
+            "w": 0.0048,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "き けん",
+          "translated": "Kiken",
+          "bounds": {
+            "x": 0.2104,
+            "y": 0.5515,
+            "w": 0.023,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "こさま",
+          "translated": "Kosama",
+          "bounds": {
+            "x": 0.2848,
+            "y": 0.5515,
+            "w": 0.0218,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "とど",
+          "translated": "Todo",
+          "bounds": {
+            "x": 0.3513,
+            "y": 0.5511,
+            "w": 0.0103,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "ところ",
+          "translated": "place",
+          "bounds": {
+            "x": 0.4015,
+            "y": 0.5515,
+            "w": 0.0157,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "ほかん",
+          "translated": "Hokan",
+          "bounds": {
+            "x": 0.4347,
+            "y": 0.5519,
+            "w": 0.0224,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "まんいち のこ",
+          "translated": "Manichi Noko",
+          "bounds": {
+            "x": 0.5363,
+            "y": 0.5511,
+            "w": 0.0719,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "ばあい",
+          "translated": "In case",
+          "bounds": {
+            "x": 0.6415,
+            "y": 0.5511,
+            "w": 0.0236,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "いし",
+          "translated": "stone",
+          "bounds": {
+            "x": 0.7279,
+            "y": 0.5519,
+            "w": 0.02,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "そう だん",
+          "translated": "Yes",
+          "bounds": {
+            "x": 0.7672,
+            "y": 0.5511,
+            "w": 0.0254,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "●ボタン電池は飲み込むと危険です。 お子様の手の届かない所に保管してください。 万一、飲み込んだ場合は、すぐに医師に相談してください。",
+          "translated": "●Button batteries are dangerous if swallowed. Keep them out of the reach of children. If swallowed, consult a doctor immediately.",
+          "bounds": {
+            "x": 0.0556,
+            "y": 0.5566,
+            "w": 0.8144,
+            "h": 0.0094
+          }
+        },
+        {
+          "original": "ふる でんち あたら",
+          "translated": "Old electricity hit",
+          "bounds": {
+            "x": 0.0623,
+            "y": 0.5669,
+            "w": 0.0798,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "ぶんかい かねつ ひ なか",
+          "translated": "Cultural exchange financial year",
+          "bounds": {
+            "x": 0.0484,
+            "y": 0.5819,
+            "w": 0.1131,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "ち",
+          "translated": "Chi",
+          "bounds": {
+            "x": 0.182,
+            "y": 0.5669,
+            "w": 0.006,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "でんち",
+          "translated": "Electricity",
+          "bounds": {
+            "x": 0.26,
+            "y": 0.5669,
+            "w": 0.0212,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "つか",
+          "translated": "burial mound",
+          "bounds": {
+            "x": 0.3343,
+            "y": 0.5673,
+            "w": 0.0127,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "ただ",
+          "translated": "just",
+          "bounds": {
+            "x": 0.5961,
+            "y": 0.5673,
+            "w": 0.0121,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "じゅうでん",
+          "translated": "10",
+          "bounds": {
+            "x": 0.8349,
+            "y": 0.5665,
+            "w": 0.0278,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "●古い電池と新しい電池、いろいろな電池をまぜて使わないでください。 +-(プラスマイナス) を正しくセットしてください。 ●ショートさせたり充電、\n分解、加熱、火の中に入れたりしないでください。 廃棄するときは、自治体の廃棄処理の指示に従ってください。 ボタン電池はなめたり、口に",
+          "translated": "●Do not mix old and new batteries or different types of batteries. Make sure the +- (plus and minus) terminals are correctly set. ●Do not short-circuit, charge,\ndisassemble, heat, or put in fire. When disposing of the battery, follow the disposal instructions of your local government. Do not lick or put button batteries in your mouth.",
+          "bounds": {
+            "x": 0.0472,
+            "y": 0.5716,
+            "w": 0.8229,
+            "h": 0.0248
+          }
+        },
+        {
+          "original": "い",
+          "translated": "stomach",
+          "bounds": {
+            "x": 0.0514,
+            "y": 0.5981,
+            "w": 0.0073,
+            "h": 0.0026
+          }
+        },
+        {
+          "original": "い",
+          "translated": "stomach",
+          "bounds": {
+            "x": 0.1784,
+            "y": 0.5832,
+            "w": 0.0073,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "はいき",
+          "translated": "Yes",
+          "bounds": {
+            "x": 0.3416,
+            "y": 0.5819,
+            "w": 0.0224,
+            "h": 0.0047
+          }
+        },
+        {
+          "original": "じちたい はい き しょり",
+          "translated": "Local government housing",
+          "bounds": {
+            "x": 0.4401,
+            "y": 0.5819,
+            "w": 0.1034,
+            "h": 0.0047
+          }
+        },
+        {
+          "original": "しじ したが",
+          "translated": "Shijishita",
+          "bounds": {
+            "x": 0.5653,
+            "y": 0.5823,
+            "w": 0.0538,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "でんち",
+          "translated": "Electricity",
+          "bounds": {
+            "x": 0.7467,
+            "y": 0.5823,
+            "w": 0.0218,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "くち",
+          "translated": "mouth",
+          "bounds": {
+            "x": 0.8452,
+            "y": 0.5819,
+            "w": 0.0091,
+            "h": 0.0047
+          }
+        },
+        {
+          "original": "入れたりしないでください。",
+          "translated": "Do not put it in.",
+          "bounds": {
+            "x": 0.0478,
+            "y": 0.6037,
+            "w": 0.1493,
+            "h": 0.0077
+          }
+        },
+        {
+          "original": "しようじょう ちゅうい",
+          "translated": "Caution",
+          "bounds": {
+            "x": 0.0447,
+            "y": 0.6315,
+            "w": 0.0768,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "<使用上の注意>",
+          "translated": "<Precautions for use>",
+          "bounds": {
+            "x": 0.0345,
+            "y": 0.637,
+            "w": 0.0985,
+            "h": 0.0094
+          }
+        },
+        {
+          "original": "でんち",
+          "translated": "Electricity",
+          "bounds": {
+            "x": 0.1765,
+            "y": 0.6481,
+            "w": 0.0224,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "よう",
+          "translated": "Hello",
+          "bounds": {
+            "x": 0.2527,
+            "y": 0.6486,
+            "w": 0.0103,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "おんせい ちい",
+          "translated": "Small Onsei",
+          "bounds": {
+            "x": 0.3005,
+            "y": 0.6486,
+            "w": 0.0556,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "おな",
+          "translated": "Ona",
+          "bounds": {
+            "x": 0.4093,
+            "y": 0.649,
+            "w": 0.0127,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "かえ",
+          "translated": "change",
+          "bounds": {
+            "x": 0.4843,
+            "y": 0.649,
+            "w": 0.0139,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "どうさ",
+          "translated": "How about it?",
+          "bounds": {
+            "x": 0.5532,
+            "y": 0.6481,
+            "w": 0.023,
+            "h": 0.0051
+          }
+        },
+        {
+          "original": "ばあい",
+          "translated": "In case",
+          "bounds": {
+            "x": 0.6215,
+            "y": 0.6481,
+            "w": 0.0242,
+            "h": 0.0051
+          }
+        },
+        {
+          "original": "でんち",
+          "translated": "Electricity",
+          "bounds": {
+            "x": 0.7031,
+            "y": 0.6481,
+            "w": 0.023,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "あたら",
+          "translated": "new",
+          "bounds": {
+            "x": 0.783,
+            "y": 0.6486,
+            "w": 0.0181,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "こうかん",
+          "translated": "Exchange",
+          "bounds": {
+            "x": 0.8622,
+            "y": 0.6481,
+            "w": 0.026,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "くちにいれない",
+          "translated": "Can't put it in my mouth",
+          "bounds": {
+            "x": 0.893,
+            "y": 0.5331,
+            "w": 0.0599,
+            "h": 0.0051
+          }
+        },
+        {
+          "original": "●セットされているボタン電池はテスト用です。 音声が小さくなる、 同じ音を繰り返すなど誤動作をする場合は、 ボタン電池をすべて新しいものに交換してください。",
+          "translated": "●The button batteries installed are for testing purposes. If you experience malfunctions such as low volume or the same sound being repeated, replace all the button batteries with new ones.",
+          "bounds": {
+            "x": 0.0429,
+            "y": 0.6537,
+            "w": 0.9232,
+            "h": 0.0094
+          }
+        },
+        {
+          "original": "ほんしょうひん せいみつ でん しぶ ひん こうせい",
+          "translated": "Product quality assurance",
+          "bounds": {
+            "x": 0.0484,
+            "y": 0.6644,
+            "w": 0.1983,
+            "h": 0.0051
+          }
+        },
+        {
+          "original": "お",
+          "translated": "oh",
+          "bounds": {
+            "x": 0.3349,
+            "y": 0.6657,
+            "w": 0.0067,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "みず",
+          "translated": "water",
+          "bounds": {
+            "x": 0.3966,
+            "y": 0.6648,
+            "w": 0.0151,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "ぶんかい",
+          "translated": "Culture",
+          "bounds": {
+            "x": 0.5459,
+            "y": 0.6652,
+            "w": 0.029,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "こう おん ていおん",
+          "translated": "High sound level",
+          "bounds": {
+            "x": 0.7461,
+            "y": 0.6648,
+            "w": 0.0629,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "ところ",
+          "translated": "place",
+          "bounds": {
+            "x": 0.8452,
+            "y": 0.6657,
+            "w": 0.0163,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "しよう ほかん",
+          "translated": "Let's try",
+          "bounds": {
+            "x": 0.8918,
+            "y": 0.664,
+            "w": 0.0605,
+            "h": 0.0064
+          }
+        },
+        {
+          "original": "●本商品は精密な電子部品で構成されています。 落としたり、水にぬらしたり、汚したり、 分解したりしないでください。 また、 高温・低温になる所での使用、保管は",
+          "translated": "This product is made up of precision electronic components. Do not drop it, get it wet, soil it, or disassemble it. Also, do not use or store it in places subject to high or low temperatures.",
+          "bounds": {
+            "x": 0.0441,
+            "y": 0.6699,
+            "w": 0.922,
+            "h": 0.0098
+          }
+        },
+        {
+          "original": "こんぼうざい かいふうご",
+          "translated": "Concealer",
+          "bounds": {
+            "x": 0.214,
+            "y": 0.6815,
+            "w": 0.0961,
+            "h": 0.0051
+          }
+        },
+        {
+          "original": "す",
+          "translated": "vinegar",
+          "bounds": {
+            "x": 0.3718,
+            "y": 0.6815,
+            "w": 0.0073,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "かどう ぶぶん とりつけ ぶぶんむり",
+          "translated": "It's impossible to attach the part",
+          "bounds": {
+            "x": 0.4831,
+            "y": 0.6811,
+            "w": 0.1596,
+            "h": 0.0051
+          }
+        },
+        {
+          "original": "ほうこう つよ ひ",
+          "translated": "Strong direction",
+          "bounds": {
+            "x": 0.662,
+            "y": 0.6811,
+            "w": 0.0738,
+            "h": 0.006
+          }
+        },
+        {
+          "original": "ま",
+          "translated": "Ma",
+          "bounds": {
+            "x": 0.8132,
+            "y": 0.6819,
+            "w": 0.0054,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "さけてください。●プラスチック梱包材は開封後はすぐに捨ててください。●可動部分・取付部分を無理な方向に強く引っ張ったり、曲げたりしないでください。",
+          "translated": "●Please dispose of the plastic packaging immediately after opening. ●Do not pull or bend the moving or mounting parts in an unnatural direction.",
+          "bounds": {
+            "x": 0.0333,
+            "y": 0.6862,
+            "w": 0.9323,
+            "h": 0.0107
+          }
+        },
+        {
+          "original": "はつおん いちぶ",
+          "translated": "First section",
+          "bounds": {
+            "x": 0.0484,
+            "y": 0.6982,
+            "w": 0.0665,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "ちが",
+          "translated": "Wrong",
+          "bounds": {
+            "x": 0.2346,
+            "y": 0.6982,
+            "w": 0.0133,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "しょうひん とくせいじょうき",
+          "translated": "Product special conditions",
+          "bounds": {
+            "x": 0.3162,
+            "y": 0.6982,
+            "w": 0.0967,
+            "h": 0.0047
+          }
+        },
+        {
+          "original": "と",
+          "translated": "and",
+          "bounds": {
+            "x": 0.4311,
+            "y": 0.699,
+            "w": 0.0067,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "りょうしょう",
+          "translated": "Ryousho",
+          "bounds": {
+            "x": 0.6058,
+            "y": 0.6977,
+            "w": 0.0278,
+            "h": 0.0051
+          }
+        },
+        {
+          "original": "どうさ",
+          "translated": "How about it?",
+          "bounds": {
+            "x": 0.7189,
+            "y": 0.6977,
+            "w": 0.023,
+            "h": 0.0047
+          }
+        },
+        {
+          "original": "ばあい",
+          "translated": "In case",
+          "bounds": {
+            "x": 0.7745,
+            "y": 0.6982,
+            "w": 0.0248,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "お でんげん",
+          "translated": "Power",
+          "bounds": {
+            "x": 0.9039,
+            "y": 0.6977,
+            "w": 0.0496,
+            "h": 0.0047
+          }
+        },
+        {
+          "original": "●発音の一部にイントネーションが違っていたり、 商品の特性上聞き取りにくいものがありますが、ご了承ください。●誤動作した場合はリセットボタンを押し電源を\n入れ直してください。背面のQRコードが剥がれたり、傷がついた場合や、汚れが付着している場合にQRコードを読みとれないことがありますのでご注意ください。",
+          "translated": "Please note that some of the pronunciation may be difficult to hear due to the intonation or characteristics of the product. If the device malfunctions, press the reset button and turn the power back on. Please note that the QR code on the back may not be readable if it is peeled off, scratched, or dirty.",
+          "bounds": {
+            "x": 0.0326,
+            "y": 0.7033,
+            "w": 0.9341,
+            "h": 0.0265
+          }
+        },
+        {
+          "original": "い",
+          "translated": "stomach",
+          "bounds": {
+            "x": 0.0363,
+            "y": 0.7157,
+            "w": 0.0079,
+            "h": 0.0026
+          }
+        },
+        {
+          "original": "なお",
+          "translated": "In addition",
+          "bounds": {
+            "x": 0.0617,
+            "y": 0.7148,
+            "w": 0.0121,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "はいめん",
+          "translated": "Haimen",
+          "bounds": {
+            "x": 0.1663,
+            "y": 0.7148,
+            "w": 0.0266,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "は",
+          "translated": "teeth",
+          "bounds": {
+            "x": 0.2787,
+            "y": 0.7148,
+            "w": 0.0067,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "きず",
+          "translated": "Flaw",
+          "bounds": {
+            "x": 0.3452,
+            "y": 0.7144,
+            "w": 0.0139,
+            "h": 0.0047
+          }
+        },
+        {
+          "original": "ばあい",
+          "translated": "In case",
+          "bounds": {
+            "x": 0.4172,
+            "y": 0.714,
+            "w": 0.0236,
+            "h": 0.0056
+          }
+        },
+        {
+          "original": "ご",
+          "translated": "Go",
+          "bounds": {
+            "x": 0.4686,
+            "y": 0.7148,
+            "w": 0.0079,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "ふちゃく",
+          "translated": "Fuchaku",
+          "bounds": {
+            "x": 0.5073,
+            "y": 0.7144,
+            "w": 0.0266,
+            "h": 0.0047
+          }
+        },
+        {
+          "original": "ばあい",
+          "translated": "In case",
+          "bounds": {
+            "x": 0.5846,
+            "y": 0.7144,
+            "w": 0.0236,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "かぶしきがいしゃ",
+          "translated": "Kabushikigaisha",
+          "bounds": {
+            "x": 0.7551,
+            "y": 0.7341,
+            "w": 0.0429,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "ちゅうい",
+          "translated": "caution",
+          "bounds": {
+            "x": 0.8827,
+            "y": 0.7148,
+            "w": 0.0266,
+            "h": 0.0047
+          }
+        },
+        {
+          "original": "とうろくしょうひょう",
+          "translated": "Registration",
+          "bounds": {
+            "x": 0.893,
+            "y": 0.7341,
+            "w": 0.0447,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "※QRコードは株式会社デンソーウェーブの登録商標です。",
+          "translated": "*QR Code is a registered trademark of DENSO WAVE INCORPORATED.",
+          "bounds": {
+            "x": 0.688,
+            "y": 0.7388,
+            "w": 0.2763,
+            "h": 0.0077
+          }
+        },
+        {
+          "original": "ほん しょ",
+          "translated": "Honsho",
+          "bounds": {
+            "x": 0.0611,
+            "y": 0.761,
+            "w": 0.0296,
+            "h": 0.0056
+          }
+        },
+        {
+          "original": "デラックス",
+          "translated": "Deluxe",
+          "bounds": {
+            "x": 0.1161,
+            "y": 0.761,
+            "w": 0.0351,
+            "h": 0.0051
+          }
+        },
+        {
+          "original": "れい せつめい",
+          "translated": "Explanation",
+          "bounds": {
+            "x": 0.3362,
+            "y": 0.761,
+            "w": 0.0653,
+            "h": 0.0056
+          }
+        },
+        {
+          "original": "※本書は、DXセイバーライドウォッチを例に説明します。",
+          "translated": "*This manual uses the DX Saber Ridewatch as an example.",
+          "bounds": {
+            "x": 0.0447,
+            "y": 0.7674,
+            "w": 0.4129,
+            "h": 0.012
+          }
+        },
+        {
+          "original": "かくぶめい しょう",
+          "translated": "Group name",
+          "bounds": {
+            "x": 0.0526,
+            "y": 0.7986,
+            "w": 0.0949,
+            "h": 0.0064
+          }
+        },
+        {
+          "original": "各部名称",
+          "translated": "Part names",
+          "bounds": {
+            "x": 0.049,
+            "y": 0.8076,
+            "w": 0.1004,
+            "h": 0.0162
+          }
+        },
+        {
+          "original": "しょうめん",
+          "translated": "Showmen",
+          "bounds": {
+            "x": 0.1838,
+            "y": 0.8187,
+            "w": 0.0212,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "みず",
+          "translated": "water",
+          "bounds": {
+            "x": 0.2285,
+            "y": 0.8183,
+            "w": 0.029,
+            "h": 0.0047
+          }
+        },
+        {
+          "original": "【正面から見た図】",
+          "translated": "[Front view]",
+          "bounds": {
+            "x": 0.1796,
+            "y": 0.8221,
+            "w": 0.084,
+            "h": 0.0086
+          }
+        },
+        {
+          "original": "カバー",
+          "translated": "cover",
+          "bounds": {
+            "x": 0.1765,
+            "y": 0.9282,
+            "w": 0.0339,
+            "h": 0.0068
+          }
+        },
+        {
+          "original": "はいめん",
+          "translated": "Haimen",
+          "bounds": {
+            "x": 0.7872,
+            "y": 0.8192,
+            "w": 0.02,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "・ボタン",
+          "translated": "·button",
+          "bounds": {
+            "x": 0.4238,
+            "y": 0.8251,
+            "w": 0.0381,
+            "h": 0.0068
+          }
+        },
+        {
+          "original": "ボタン",
+          "translated": "button",
+          "bounds": {
+            "x": 0.5834,
+            "y": 0.8251,
+            "w": 0.0339,
+            "h": 0.0068
+          }
+        },
+        {
+          "original": "【背面から見た図】",
+          "translated": "[View from the back]",
+          "bounds": {
+            "x": 0.783,
+            "y": 0.823,
+            "w": 0.084,
+            "h": 0.0077
+          }
+        },
+        {
+          "original": "ほんたい",
+          "translated": "Honestly",
+          "bounds": {
+            "x": 0.4359,
+            "y": 0.8418,
+            "w": 0.0224,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "・本体",
+          "translated": "・Main unit",
+          "bounds": {
+            "x": 0.4317,
+            "y": 0.8457,
+            "w": 0.0278,
+            "h": 0.0086
+          }
+        },
+        {
+          "original": "ほんたい\n本体",
+          "translated": "Hontai (main body)",
+          "bounds": {
+            "x": 0.5901,
+            "y": 0.8418,
+            "w": 0.0242,
+            "h": 0.0124
+          }
+        },
+        {
+          "original": "レール",
+          "translated": "rail",
+          "bounds": {
+            "x": 0.5762,
+            "y": 0.8888,
+            "w": 0.0351,
+            "h": 0.006
+          }
+        },
+        {
+          "original": "QRコード",
+          "translated": "QR code",
+          "bounds": {
+            "x": 0.5774,
+            "y": 0.9483,
+            "w": 0.0532,
+            "h": 0.0073
+          }
+        },
+        {
+          "original": "けんしゅつ",
+          "translated": "Examination",
+          "bounds": {
+            "x": 0.7721,
+            "y": 0.9504,
+            "w": 0.023,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "リセットボタン",
+          "translated": "Reset button",
+          "bounds": {
+            "x": 0.8017,
+            "y": 0.8418,
+            "w": 0.0744,
+            "h": 0.0081
+          }
+        },
+        {
+          "original": "検出スイッチ (2種)",
+          "translated": "Detection switch (2 types)",
+          "bounds": {
+            "x": 0.7703,
+            "y": 0.9538,
+            "w": 0.101,
+            "h": 0.0086
+          }
+        }
+      ]
+    },
+    {
+      "image": "pages/page-1.webp",
+      "blocks": [
+        {
+          "original": "はじ",
+          "translated": "Beginning",
+          "bounds": {
+            "x": 0.0447,
+            "y": 0.0308,
+            "w": 0.0139,
+            "h": 0.0047
+          }
+        },
+        {
+          "original": "あそ",
+          "translated": "Aso",
+          "bounds": {
+            "x": 0.0949,
+            "y": 0.0312,
+            "w": 0.0145,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "まえ",
+          "translated": "front",
+          "bounds": {
+            "x": 0.1288,
+            "y": 0.0308,
+            "w": 0.0145,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "初めて遊ぶ前に･･",
+          "translated": "Before you play for the first time...",
+          "bounds": {
+            "x": 0.0429,
+            "y": 0.0368,
+            "w": 0.1336,
+            "h": 0.0115
+          }
+        },
+        {
+          "original": "デラックス",
+          "translated": "Deluxe",
+          "bounds": {
+            "x": 0.0459,
+            "y": 0.0526,
+            "w": 0.0308,
+            "h": 0.0051
+          }
+        },
+        {
+          "original": "DXセイバーライドウォッチ&ディケイドコンプリートフォーム21ライドウォッチの",
+          "translated": "DX Saber Ridewatch & Decade Complete Form 21 Ridewatch",
+          "bounds": {
+            "x": 0.0447,
+            "y": 0.059,
+            "w": 0.7733,
+            "h": 0.0158
+          }
+        },
+        {
+          "original": "ぜつえん",
+          "translated": "Zero",
+          "bounds": {
+            "x": 0.0466,
+            "y": 0.0761,
+            "w": 0.0369,
+            "h": 0.0051
+          }
+        },
+        {
+          "original": "と",
+          "translated": "and",
+          "bounds": {
+            "x": 0.1765,
+            "y": 0.077,
+            "w": 0.0073,
+            "h": 0.0047
+          }
+        },
+        {
+          "original": "はず",
+          "translated": "Should",
+          "bounds": {
+            "x": 0.214,
+            "y": 0.0765,
+            "w": 0.0145,
+            "h": 0.0047
+          }
+        },
+        {
+          "original": "かた",
+          "translated": "shoulder",
+          "bounds": {
+            "x": 0.2551,
+            "y": 0.0761,
+            "w": 0.0157,
+            "h": 0.0051
+          }
+        },
+        {
+          "original": "絶縁シートの取り外し方",
+          "translated": "How to remove the insulation sheet",
+          "bounds": {
+            "x": 0.0435,
+            "y": 0.0829,
+            "w": 0.2297,
+            "h": 0.0154
+          }
+        },
+        {
+          "original": "ほんたいかぶ",
+          "translated": "Real turnip",
+          "bounds": {
+            "x": 0.0593,
+            "y": 0.1073,
+            "w": 0.0435,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "で",
+          "translated": "in",
+          "bounds": {
+            "x": 0.13,
+            "y": 0.1077,
+            "w": 0.0048,
+            "h": 0.0026
+          }
+        },
+        {
+          "original": "ぜつえん",
+          "translated": "Zero",
+          "bounds": {
+            "x": 0.1735,
+            "y": 0.1069,
+            "w": 0.0218,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "①本体下部から出ている絶縁シートを",
+          "translated": "① Remove the insulating sheet coming out from the bottom of the unit.",
+          "bounds": {
+            "x": 0.0466,
+            "y": 0.1116,
+            "w": 0.1971,
+            "h": 0.0086
+          }
+        },
+        {
+          "original": "やじるし ほうこうひ",
+          "translated": "Arrow Direction Day",
+          "bounds": {
+            "x": 0.0617,
+            "y": 0.1218,
+            "w": 0.0756,
+            "h": 0.0051
+          }
+        },
+        {
+          "original": "矢印の方向に引き抜きます。",
+          "translated": "Pull it out in the direction of the arrow.",
+          "bounds": {
+            "x": 0.058,
+            "y": 0.1274,
+            "w": 0.1433,
+            "h": 0.0077
+          }
+        },
+        {
+          "original": "はいめん",
+          "translated": "Haimen",
+          "bounds": {
+            "x": 0.1898,
+            "y": 0.2441,
+            "w": 0.0218,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "み",
+          "translated": "fruit",
+          "bounds": {
+            "x": 0.2382,
+            "y": 0.2441,
+            "w": 0.006,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "【背面から見た図】",
+          "translated": "[View from the back]",
+          "bounds": {
+            "x": 0.1856,
+            "y": 0.2484,
+            "w": 0.0907,
+            "h": 0.009
+          }
+        },
+        {
+          "original": "ぜつえん",
+          "translated": "Zero",
+          "bounds": {
+            "x": 0.4407,
+            "y": 0.2514,
+            "w": 0.0193,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "・絶縁シート",
+          "translated": "・Insulation sheet",
+          "bounds": {
+            "x": 0.4365,
+            "y": 0.2548,
+            "w": 0.0526,
+            "h": 0.0064
+          }
+        },
+        {
+          "original": "さき ほそ",
+          "translated": "Saki Hoso",
+          "bounds": {
+            "x": 0.6197,
+            "y": 0.1069,
+            "w": 0.0333,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "②リセットボタンを先の細い",
+          "translated": "② Press the reset button with a thin",
+          "bounds": {
+            "x": 0.5236,
+            "y": 0.1103,
+            "w": 0.1427,
+            "h": 0.0098
+          }
+        },
+        {
+          "original": "べつかくど",
+          "translated": "Betsukudo",
+          "bounds": {
+            "x": 0.6977,
+            "y": 0.1197,
+            "w": 0.0308,
+            "h": -0.0043
+          }
+        },
+        {
+          "original": "ぼう",
+          "translated": "stick",
+          "bounds": {
+            "x": 0.5369,
+            "y": 0.1223,
+            "w": 0.0091,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "かるお",
+          "translated": "Karuo",
+          "bounds": {
+            "x": 0.5816,
+            "y": 0.1227,
+            "w": 0.0296,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "【別角度】",
+          "translated": "[Another angle]",
+          "bounds": {
+            "x": 0.6941,
+            "y": 0.1201,
+            "w": 0.0435,
+            "h": 0.0081
+          }
+        },
+        {
+          "original": "棒などで軽く押します。",
+          "translated": "Press gently with a stick or something similar.",
+          "bounds": {
+            "x": 0.5357,
+            "y": 0.127,
+            "w": 0.1161,
+            "h": 0.0077
+          }
+        },
+        {
+          "original": "でんち",
+          "translated": "Electricity",
+          "bounds": {
+            "x": 0.1094,
+            "y": 0.289,
+            "w": 0.0345,
+            "h": 0.006
+          }
+        },
+        {
+          "original": "こうかん",
+          "translated": "Exchange",
+          "bounds": {
+            "x": 0.1765,
+            "y": 0.289,
+            "w": 0.0393,
+            "h": 0.006
+          }
+        },
+        {
+          "original": "ボタン電池の交換",
+          "translated": "Replacing the button battery",
+          "bounds": {
+            "x": 0.0447,
+            "y": 0.2967,
+            "w": 0.1729,
+            "h": 0.015
+          }
+        },
+        {
+          "original": "おと",
+          "translated": "sound",
+          "bounds": {
+            "x": 0.0556,
+            "y": 0.3232,
+            "w": 0.0121,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "ちい",
+          "translated": "Small",
+          "bounds": {
+            "x": 0.0804,
+            "y": 0.3228,
+            "w": 0.0109,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "かなら ほごしゃ かた おこな\n※必ず保護者の方が行ってください。",
+          "translated": "Please be sure to have a parent or guardian present during this process.",
+          "bounds": {
+            "x": 0.2449,
+            "y": 0.2971,
+            "w": 0.2152,
+            "h": 0.0145
+          }
+        },
+        {
+          "original": "おと",
+          "translated": "sound",
+          "bounds": {
+            "x": 0.2823,
+            "y": 0.3202,
+            "w": 0.0097,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "どうさ",
+          "translated": "How about it?",
+          "bounds": {
+            "x": 0.4081,
+            "y": 0.3228,
+            "w": 0.0193,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "ばあい",
+          "translated": "In case",
+          "bounds": {
+            "x": 0.471,
+            "y": 0.3224,
+            "w": 0.02,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "※音が小さくなって聞きとりにくくなったり、 音が止まるなどの誤動作をする場合や、",
+          "translated": "*If the sound becomes too quiet to hear, or if the sound stops, or if there are other malfunctions,",
+          "bounds": {
+            "x": 0.0441,
+            "y": 0.3254,
+            "w": 0.4661,
+            "h": 0.0103
+          }
+        },
+        {
+          "original": "はっこう",
+          "translated": "Hakko",
+          "bounds": {
+            "x": 0.1149,
+            "y": 0.3399,
+            "w": 0.0254,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "よわ",
+          "translated": "Weak",
+          "bounds": {
+            "x": 0.162,
+            "y": 0.3403,
+            "w": 0.0109,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "あたら",
+          "translated": "new",
+          "bounds": {
+            "x": 0.3029,
+            "y": 0.3425,
+            "w": 0.0139,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "でんち",
+          "translated": "Electricity",
+          "bounds": {
+            "x": 0.3398,
+            "y": 0.3416,
+            "w": 0.0187,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "こうかん",
+          "translated": "Exchange",
+          "bounds": {
+            "x": 0.3767,
+            "y": 0.3425,
+            "w": 0.0224,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "LEDの発光が弱くなった場合は、すべて新しい電池に交換してください。",
+          "translated": "If the LED light becomes weak, replace all batteries with new ones.",
+          "bounds": {
+            "x": 0.0599,
+            "y": 0.3433,
+            "w": 0.416,
+            "h": 0.0133
+          }
+        },
+        {
+          "original": "と",
+          "translated": "and",
+          "bounds": {
+            "x": 0.1034,
+            "y": 0.3677,
+            "w": 0.0067,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "はず",
+          "translated": "Should",
+          "bounds": {
+            "x": 0.1233,
+            "y": 0.3677,
+            "w": 0.0103,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "①カバーを取り外します。",
+          "translated": "①Remove the cover.",
+          "bounds": {
+            "x": 0.0423,
+            "y": 0.3715,
+            "w": 0.1306,
+            "h": 0.0086
+          }
+        },
+        {
+          "original": "やじるし ほうこう まわ",
+          "translated": "Arrow direction",
+          "bounds": {
+            "x": 0.1312,
+            "y": 0.3809,
+            "w": 0.078,
+            "h": 0.0051
+          }
+        },
+        {
+          "original": "①-1 カバーを矢印の方向に回して、",
+          "translated": "①-1 Turn the cover in the direction of the arrow,",
+          "bounds": {
+            "x": 0.0544,
+            "y": 0.3861,
+            "w": 0.182,
+            "h": 0.0081
+          }
+        },
+        {
+          "original": "ほんたい",
+          "translated": "Honestly",
+          "bounds": {
+            "x": 0.1505,
+            "y": 0.3959,
+            "w": 0.0224,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "いち",
+          "translated": "one",
+          "bounds": {
+            "x": 0.2116,
+            "y": 0.3955,
+            "w": 0.0169,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "カバーの△と本体の△の位置を合わせます。",
+          "translated": "Align the △ on the cover with the △ on the main body.",
+          "bounds": {
+            "x": 0.0822,
+            "y": 0.3997,
+            "w": 0.2243,
+            "h": 0.0086
+          }
+        },
+        {
+          "original": "やじるし ほうこう",
+          "translated": "Arrow Direction",
+          "bounds": {
+            "x": 0.1312,
+            "y": 0.41,
+            "w": 0.0544,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "はず",
+          "translated": "Should",
+          "bounds": {
+            "x": 0.2751,
+            "y": 0.4104,
+            "w": 0.0109,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "①-2カバーを矢印の方向にスライドさせて外します。",
+          "translated": "①-2 Slide the cover in the direction of the arrow to remove it.",
+          "bounds": {
+            "x": 0.0538,
+            "y": 0.4134,
+            "w": 0.2709,
+            "h": 0.0094
+          }
+        },
+        {
+          "original": "でんち",
+          "translated": "Electricity",
+          "bounds": {
+            "x": 0.055,
+            "y": 0.4245,
+            "w": 0.0193,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "とはず",
+          "translated": "Tohad",
+          "bounds": {
+            "x": 0.1167,
+            "y": 0.4245,
+            "w": 0.0302,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "②電池ぶたを取り外します。",
+          "translated": "②Remove the battery cover.",
+          "bounds": {
+            "x": 0.0423,
+            "y": 0.4292,
+            "w": 0.1433,
+            "h": 0.0081
+          }
+        },
+        {
+          "original": "デラックス",
+          "translated": "Deluxe",
+          "bounds": {
+            "x": 0.0804,
+            "y": 0.4378,
+            "w": 0.0212,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "しょうめん",
+          "translated": "Showmen",
+          "bounds": {
+            "x": 0.2189,
+            "y": 0.4386,
+            "w": 0.0224,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "②-1 DXセイバーライドウォッチ正面の",
+          "translated": "②-1 DX Saber Ridewatch Front",
+          "bounds": {
+            "x": 0.0544,
+            "y": 0.4429,
+            "w": 0.1995,
+            "h": 0.0081
+          }
+        },
+        {
+          "original": "でんち",
+          "translated": "Electricity",
+          "bounds": {
+            "x": 0.0822,
+            "y": 0.4528,
+            "w": 0.0193,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "みぎがわ あな さき ほそ",
+          "translated": "Right side hole narrow",
+          "bounds": {
+            "x": 0.1403,
+            "y": 0.4528,
+            "w": 0.0925,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "ぼう",
+          "translated": "stick",
+          "bounds": {
+            "x": 0.2467,
+            "y": 0.4532,
+            "w": 0.0103,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "電池ぶたの右側の穴を先の細い棒などで押し、",
+          "translated": "Press the hole on the right side of the battery cover with a thin stick,",
+          "bounds": {
+            "x": 0.0822,
+            "y": 0.4575,
+            "w": 0.2352,
+            "h": 0.0081
+          }
+        },
+        {
+          "original": "でんち",
+          "translated": "Electricity",
+          "bounds": {
+            "x": 0.0834,
+            "y": 0.4664,
+            "w": 0.0193,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "やじるし ほうこう",
+          "translated": "Arrow Direction",
+          "bounds": {
+            "x": 0.1433,
+            "y": 0.4673,
+            "w": 0.055,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "はず",
+          "translated": "Should",
+          "bounds": {
+            "x": 0.3083,
+            "y": 0.4673,
+            "w": 0.0115,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "②-2 電池ぶたを矢印の方向にスライドさせて取り外します。",
+          "translated": "②-2 Slide the battery cover in the direction of the arrow to remove it.",
+          "bounds": {
+            "x": 0.0544,
+            "y": 0.4716,
+            "w": 0.3029,
+            "h": 0.0086
+          }
+        },
+        {
+          "original": "でん ち",
+          "translated": "Electricity",
+          "bounds": {
+            "x": 0.0889,
+            "y": 0.4814,
+            "w": 0.0187,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "い",
+          "translated": "stomach",
+          "bounds": {
+            "x": 0.1264,
+            "y": 0.4818,
+            "w": 0.0067,
+            "h": 0.0026
+          }
+        },
+        {
+          "original": "③ボタン電池を入れます。",
+          "translated": "③Insert the button battery.",
+          "bounds": {
+            "x": 0.0423,
+            "y": 0.4861,
+            "w": 0.1336,
+            "h": 0.0077
+          }
+        },
+        {
+          "original": "ふる",
+          "translated": "Fall",
+          "bounds": {
+            "x": 0.055,
+            "y": 0.4959,
+            "w": 0.0109,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "でんちと はず",
+          "translated": "Electricity",
+          "bounds": {
+            "x": 0.1119,
+            "y": 0.4955,
+            "w": 0.0659,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "あたら",
+          "translated": "new",
+          "bounds": {
+            "x": 0.205,
+            "y": 0.4959,
+            "w": 0.0151,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "でんち",
+          "translated": "Electricity",
+          "bounds": {
+            "x": 0.2745,
+            "y": 0.4959,
+            "w": 0.0187,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "古いボタン電池を取り外して、 新しいボタン電池",
+          "translated": "Remove the old button battery and insert a new button battery",
+          "bounds": {
+            "x": 0.055,
+            "y": 0.5002,
+            "w": 0.2424,
+            "h": 0.0081
+          }
+        },
+        {
+          "original": "べつ",
+          "translated": "different",
+          "bounds": {
+            "x": 0.1209,
+            "y": 0.5118,
+            "w": 0.0109,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "プラスマイナス ちゅうい",
+          "translated": "Plus Minus Caution",
+          "bounds": {
+            "x": 0.1675,
+            "y": 0.5113,
+            "w": 0.0605,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "3個(LR44・別売り)を十に注意してセットします。",
+          "translated": "Set three pieces (LR44, sold separately) carefully.",
+          "bounds": {
+            "x": 0.055,
+            "y": 0.5156,
+            "w": 0.2636,
+            "h": 0.0086
+          }
+        },
+        {
+          "original": "でんち",
+          "translated": "Electricity",
+          "bounds": {
+            "x": 0.055,
+            "y": 0.5259,
+            "w": 0.0187,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "④電池ぶたを戻します。",
+          "translated": "④Replace the battery cover.",
+          "bounds": {
+            "x": 0.0423,
+            "y": 0.5293,
+            "w": 0.1215,
+            "h": 0.0086
+          }
+        },
+        {
+          "original": "でんち",
+          "translated": "Electricity",
+          "bounds": {
+            "x": 0.055,
+            "y": 0.5395,
+            "w": 0.0187,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "とっき デラックス",
+          "translated": "Tokki Deluxe",
+          "bounds": {
+            "x": 0.1137,
+            "y": 0.54,
+            "w": 0.052,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "しょうめん",
+          "translated": "Showmen",
+          "bounds": {
+            "x": 0.2817,
+            "y": 0.5395,
+            "w": 0.0236,
+            "h": 0.0047
+          }
+        },
+        {
+          "original": "電池ぶたの突起とDXセイバーライドウォッチ正面の",
+          "translated": "The protrusion on the battery cover and the front of the DX Saber Ride Watch",
+          "bounds": {
+            "x": 0.0544,
+            "y": 0.5438,
+            "w": 0.2636,
+            "h": 0.0081
+          }
+        },
+        {
+          "original": "でんち",
+          "translated": "Electricity",
+          "bounds": {
+            "x": 0.1282,
+            "y": 0.5541,
+            "w": 0.0193,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "と",
+          "translated": "and",
+          "bounds": {
+            "x": 0.1886,
+            "y": 0.5549,
+            "w": 0.0054,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "ミゾを合わせ、 電池ぶたを閉じます。",
+          "translated": "Align the grooves and close the battery cover.",
+          "bounds": {
+            "x": 0.055,
+            "y": 0.5566,
+            "w": 0.1796,
+            "h": 0.0107
+          }
+        },
+        {
+          "original": "もど",
+          "translated": "Back",
+          "bounds": {
+            "x": 0.1016,
+            "y": 0.5682,
+            "w": 0.0091,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "⑤カバーを戻します。",
+          "translated": "⑤Replace the cover.",
+          "bounds": {
+            "x": 0.0423,
+            "y": 0.5716,
+            "w": 0.1082,
+            "h": 0.009
+          }
+        },
+        {
+          "original": "ほんたい",
+          "translated": "Honestly",
+          "bounds": {
+            "x": 0.1233,
+            "y": 0.5827,
+            "w": 0.0212,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "いち",
+          "translated": "one",
+          "bounds": {
+            "x": 0.185,
+            "y": 0.5827,
+            "w": 0.0163,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "カバーの△と本体の△の位置を合わせてはめこみ、",
+          "translated": "Align the △ on the cover with the △ on the main body and insert it.",
+          "bounds": {
+            "x": 0.0544,
+            "y": 0.5861,
+            "w": 0.2582,
+            "h": 0.0086
+          }
+        },
+        {
+          "original": "1-1",
+          "translated": "1-1",
+          "bounds": {
+            "x": 0.4353,
+            "y": 0.4002,
+            "w": 0.0266,
+            "h": 0.0098
+          }
+        },
+        {
+          "original": "カバー",
+          "translated": "cover",
+          "bounds": {
+            "x": 0.4335,
+            "y": 0.4895,
+            "w": 0.0302,
+            "h": 0.0056
+          }
+        },
+        {
+          "original": "いち",
+          "translated": "one",
+          "bounds": {
+            "x": 0.6028,
+            "y": 0.46,
+            "w": 0.0163,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "△位置",
+          "translated": "△Position",
+          "bounds": {
+            "x": 0.5877,
+            "y": 0.4643,
+            "w": 0.0351,
+            "h": 0.0077
+          }
+        },
+        {
+          "original": "ほんたい",
+          "translated": "Honestly",
+          "bounds": {
+            "x": 0.6155,
+            "y": 0.4874,
+            "w": 0.0181,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "1-2",
+          "translated": "1-2",
+          "bounds": {
+            "x": 0.494,
+            "y": 0.5109,
+            "w": 0.0308,
+            "h": 0.0098
+          }
+        },
+        {
+          "original": "・本体",
+          "translated": "・Main unit",
+          "bounds": {
+            "x": 0.6106,
+            "y": 0.4908,
+            "w": 0.0248,
+            "h": 0.0073
+          }
+        },
+        {
+          "original": "(5",
+          "translated": "(5",
+          "bounds": {
+            "x": 0.5091,
+            "y": 0.5665,
+            "w": 0.0103,
+            "h": 0.0064
+          }
+        },
+        {
+          "original": "せいいち",
+          "translated": "Seiichi",
+          "bounds": {
+            "x": 0.101,
+            "y": 0.5973,
+            "w": 0.032,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "まわ",
+          "translated": "Turn",
+          "bounds": {
+            "x": 0.159,
+            "y": 0.5968,
+            "w": 0.0103,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "カバーの正位置まで回します。",
+          "translated": "Rotate the cover to the correct position.",
+          "bounds": {
+            "x": 0.055,
+            "y": 0.5998,
+            "w": 0.153,
+            "h": 0.0094
+          }
+        },
+        {
+          "original": "でんち",
+          "translated": "Electricity",
+          "bounds": {
+            "x": 0.4698,
+            "y": 0.6345,
+            "w": 0.0169,
+            "h": 0.0026
+          }
+        },
+        {
+          "original": "LR44 x 3",
+          "translated": "LR44 x 3",
+          "bounds": {
+            "x": 0.4909,
+            "y": 0.6084,
+            "w": 0.0647,
+            "h": 0.0115
+          }
+        },
+        {
+          "original": "かく",
+          "translated": "write",
+          "bounds": {
+            "x": 0.5266,
+            "y": 0.637,
+            "w": 0.0073,
+            "h": -0.0026
+          }
+        },
+        {
+          "original": "こしよう つき",
+          "translated": "Koshotsuki",
+          "bounds": {
+            "x": 0.5484,
+            "y": 0.6345,
+            "w": 0.0423,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "ボタン電池(LR44) 各3個使用(付)",
+          "translated": "Uses 3 button batteries (LR44) (included)",
+          "bounds": {
+            "x": 0.442,
+            "y": 0.6379,
+            "w": 0.1524,
+            "h": 0.0073
+          }
+        },
+        {
+          "original": "でんち",
+          "translated": "Electricity",
+          "bounds": {
+            "x": 0.5133,
+            "y": 0.6499,
+            "w": 0.0145,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "よう",
+          "translated": "Hello",
+          "bounds": {
+            "x": 0.5701,
+            "y": 0.6507,
+            "w": 0.0091,
+            "h": 0.0026
+          }
+        },
+        {
+          "original": "●セットされている電池は、テスト用です。",
+          "translated": "●The battery provided is for testing purposes.",
+          "bounds": {
+            "x": 0.4401,
+            "y": 0.6533,
+            "w": 0.1608,
+            "h": 0.0081
+          }
+        },
+        {
+          "original": "でんち",
+          "translated": "Electricity",
+          "bounds": {
+            "x": 0.4692,
+            "y": 0.6712,
+            "w": 0.0163,
+            "h": 0.0026
+          }
+        },
+        {
+          "original": "うえがわ プラス したがわ",
+          "translated": "Uegawa Plus Sagawa",
+          "bounds": {
+            "x": 0.5,
+            "y": 0.6704,
+            "w": 0.0701,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "ボタン電池は上側が十に下側が",
+          "translated": "The top of the button battery is 10 and the bottom is 10.",
+          "bounds": {
+            "x": 0.4395,
+            "y": 0.6751,
+            "w": 0.1409,
+            "h": 0.0068
+          }
+        },
+        {
+          "original": "マイナス",
+          "translated": "minus",
+          "bounds": {
+            "x": 0.4377,
+            "y": 0.6841,
+            "w": 0.0157,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "になるようにセットします。",
+          "translated": "Set it to be as follows.",
+          "bounds": {
+            "x": 0.4516,
+            "y": 0.6888,
+            "w": 0.1167,
+            "h": 0.0064
+          }
+        },
+        {
+          "original": "リセットボタン",
+          "translated": "Reset button",
+          "bounds": {
+            "x": 0.6469,
+            "y": 0.2069,
+            "w": 0.0647,
+            "h": 0.0068
+          }
+        },
+        {
+          "original": "2-1",
+          "translated": "2-1",
+          "bounds": {
+            "x": 0.8996,
+            "y": 0.3848,
+            "w": 0.0284,
+            "h": 0.0103
+          }
+        },
+        {
+          "original": "+",
+          "translated": "+",
+          "bounds": {
+            "x": 0.7346,
+            "y": 0.41,
+            "w": 0.0224,
+            "h": 0.0111
+          }
+        },
+        {
+          "original": "+",
+          "translated": "+",
+          "bounds": {
+            "x": 0.7836,
+            "y": 0.41,
+            "w": 0.0206,
+            "h": 0.0111
+          }
+        },
+        {
+          "original": "土",
+          "translated": "soil",
+          "bounds": {
+            "x": 0.76,
+            "y": 0.4318,
+            "w": 0.0169,
+            "h": 0.0068
+          }
+        },
+        {
+          "original": "ミゾ",
+          "translated": "Groove",
+          "bounds": {
+            "x": 0.8845,
+            "y": 0.4292,
+            "w": 0.02,
+            "h": 0.006
+          }
+        },
+        {
+          "original": "ほんたい",
+          "translated": "Honestly",
+          "bounds": {
+            "x": 0.737,
+            "y": 0.5507,
+            "w": 0.0181,
+            "h": 0.0026
+          }
+        },
+        {
+          "original": "本体",
+          "translated": "Main unit",
+          "bounds": {
+            "x": 0.7364,
+            "y": 0.5541,
+            "w": 0.0212,
+            "h": 0.0064
+          }
+        },
+        {
+          "original": "でんち",
+          "translated": "Electricity",
+          "bounds": {
+            "x": 0.7346,
+            "y": 0.687,
+            "w": 0.0169,
+            "h": 0.0026
+          }
+        },
+        {
+          "original": "電池ぶた",
+          "translated": "Battery cover",
+          "bounds": {
+            "x": 0.734,
+            "y": 0.6909,
+            "w": 0.0399,
+            "h": 0.006
+          }
+        },
+        {
+          "original": "とっき\n突起",
+          "translated": "Tokki\nProtrusion",
+          "bounds": {
+            "x": 0.7769,
+            "y": 0.5981,
+            "w": 0.02,
+            "h": 0.0107
+          }
+        },
+        {
+          "original": "デラックス",
+          "translated": "Deluxe",
+          "bounds": {
+            "x": 0.0472,
+            "y": 0.7336,
+            "w": 0.0302,
+            "h": 0.0051
+          }
+        },
+        {
+          "original": "たん びん あそ",
+          "translated": "Tan bottle aso",
+          "bounds": {
+            "x": 0.8222,
+            "y": 0.7336,
+            "w": 0.0593,
+            "h": 0.0056
+          }
+        },
+        {
+          "original": "DXセイバーライドウォッチ&ディケイドコンプリートフォーム21ライドウォッチの単品遊び",
+          "translated": "DX Saber Ridewatch & Decade Complete Form 21 Ridewatch single play",
+          "bounds": {
+            "x": 0.0453,
+            "y": 0.7401,
+            "w": 0.8615,
+            "h": 0.0158
+          }
+        },
+        {
+          "original": "ないよう じょうたい",
+          "translated": "Condition",
+          "bounds": {
+            "x": 0.0931,
+            "y": 0.7593,
+            "w": 0.0653,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "はじ",
+          "translated": "Beginning",
+          "bounds": {
+            "x": 0.1862,
+            "y": 0.7597,
+            "w": 0.0109,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "※セット内容の状態から始めます。",
+          "translated": "*Start with the set contents.",
+          "bounds": {
+            "x": 0.0447,
+            "y": 0.7644,
+            "w": 0.1995,
+            "h": 0.0098
+          }
+        },
+        {
+          "original": "まわ",
+          "translated": "Turn",
+          "bounds": {
+            "x": 0.0502,
+            "y": 0.7845,
+            "w": 0.0121,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "【回る】",
+          "translated": "[Spin]",
+          "bounds": {
+            "x": 0.0447,
+            "y": 0.7884,
+            "w": 0.0375,
+            "h": 0.0107
+          }
+        },
+        {
+          "original": "かいてん",
+          "translated": "Kaiten",
+          "bounds": {
+            "x": 0.0883,
+            "y": 0.8003,
+            "w": 0.0242,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "えがら か",
+          "translated": "Egara or",
+          "bounds": {
+            "x": 0.1421,
+            "y": 0.7995,
+            "w": 0.0411,
+            "h": 0.0047
+          }
+        },
+        {
+          "original": "カバーが回転して、絵柄が変わります。",
+          "translated": "The cover rotates and the image changes.",
+          "bounds": {
+            "x": 0.0423,
+            "y": 0.8055,
+            "w": 0.1917,
+            "h": 0.0077
+          }
+        },
+        {
+          "original": "ひか",
+          "translated": "Hika",
+          "bounds": {
+            "x": 0.4129,
+            "y": 0.7862,
+            "w": 0.0109,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "な",
+          "translated": "Na",
+          "bounds": {
+            "x": 0.445,
+            "y": 0.7867,
+            "w": 0.0054,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "【光る/鳴る】",
+          "translated": "[Lights up/Sounds]",
+          "bounds": {
+            "x": 0.4087,
+            "y": 0.7901,
+            "w": 0.0605,
+            "h": 0.009
+          }
+        },
+        {
+          "original": "てんめん",
+          "translated": "Tenmen",
+          "bounds": {
+            "x": 0.4069,
+            "y": 0.8016,
+            "w": 0.023,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "天面のボタンを押します。",
+          "translated": "Press the button on the top.",
+          "bounds": {
+            "x": 0.4063,
+            "y": 0.8063,
+            "w": 0.1294,
+            "h": 0.0073
+          }
+        },
+        {
+          "original": "お",
+          "translated": "oh",
+          "bounds": {
+            "x": 0.4667,
+            "y": 0.8179,
+            "w": 0.0054,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "しゅるい おんせい",
+          "translated": "Types of Onsen",
+          "bounds": {
+            "x": 0.5326,
+            "y": 0.817,
+            "w": 0.058,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "な",
+          "translated": "Na",
+          "bounds": {
+            "x": 0.6052,
+            "y": 0.8174,
+            "w": 0.0048,
+            "h": 0.0026
+          }
+        },
+        {
+          "original": "ボタンを押すたびに2種類の音声が鳴り、LEDが光ります。",
+          "translated": "Each time you press the button, two different sounds will be heard and the LED will light up.",
+          "bounds": {
+            "x": 0.4184,
+            "y": 0.8217,
+            "w": 0.3011,
+            "h": 0.0081
+          }
+        },
+        {
+          "original": "ボタン",
+          "translated": "button",
+          "bounds": {
+            "x": 0.4123,
+            "y": 0.8589,
+            "w": 0.0284,
+            "h": 0.006
+          }
+        },
+        {
+          "original": "デラックス",
+          "translated": "Deluxe",
+          "bounds": {
+            "x": 0.6445,
+            "y": 0.8692,
+            "w": 0.0181,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "そう",
+          "translated": "yes",
+          "bounds": {
+            "x": 0.6167,
+            "y": 0.8722,
+            "w": 0.0079,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "ボタン操作",
+          "translated": "Button operation",
+          "bounds": {
+            "x": 0.5871,
+            "y": 0.876,
+            "w": 0.0496,
+            "h": 0.0068
+          }
+        },
+        {
+          "original": "DXセイバー",
+          "translated": "DX Saber",
+          "bounds": {
+            "x": 0.6451,
+            "y": 0.8726,
+            "w": 0.0556,
+            "h": 0.006
+          }
+        },
+        {
+          "original": "ライドウォッチ",
+          "translated": "Ride Watch",
+          "bounds": {
+            "x": 0.6451,
+            "y": 0.8803,
+            "w": 0.0623,
+            "h": 0.0073
+          }
+        },
+        {
+          "original": "おんせい",
+          "translated": "Onsei",
+          "bounds": {
+            "x": 0.5979,
+            "y": 0.8923,
+            "w": 0.0181,
+            "h": 0.0026
+          }
+        },
+        {
+          "original": "音声 ①",
+          "translated": "Audio ①",
+          "bounds": {
+            "x": 0.5967,
+            "y": 0.8957,
+            "w": 0.0296,
+            "h": 0.0064
+          }
+        },
+        {
+          "original": "セイバー",
+          "translated": "Saber",
+          "bounds": {
+            "x": 0.6451,
+            "y": 0.8957,
+            "w": 0.0393,
+            "h": 0.0064
+          }
+        },
+        {
+          "original": "ぶんごう",
+          "translated": "Language",
+          "bounds": {
+            "x": 0.6457,
+            "y": 0.9068,
+            "w": 0.0181,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "けんこう ほのお せいけん",
+          "translated": "Health Fire Life",
+          "bounds": {
+            "x": 0.6941,
+            "y": 0.9068,
+            "w": 0.0629,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "デラックス",
+          "translated": "Deluxe",
+          "bounds": {
+            "x": 0.7763,
+            "y": 0.8687,
+            "w": 0.0187,
+            "h": 0.0026
+          }
+        },
+        {
+          "original": "DXディケイドコンプリートフォーム21\nライドウォッチ",
+          "translated": "DX Decade Complete Form 21 Ridewatch",
+          "bounds": {
+            "x": 0.7781,
+            "y": 0.8726,
+            "w": 0.1705,
+            "h": 0.0145
+          }
+        },
+        {
+          "original": "コンプリートフォーム21",
+          "translated": "Complete Form 21",
+          "bounds": {
+            "x": 0.7775,
+            "y": 0.8957,
+            "w": 0.0973,
+            "h": 0.0064
+          }
+        },
+        {
+          "original": "れいわ",
+          "translated": "Reiwa",
+          "bounds": {
+            "x": 0.7775,
+            "y": 0.9068,
+            "w": 0.0169,
+            "h": 0.0026
+          }
+        },
+        {
+          "original": "とこ",
+          "translated": "cousin",
+          "bounds": {
+            "x": 0.8204,
+            "y": 0.9072,
+            "w": 0.0236,
+            "h": 0.0026
+          }
+        },
+        {
+          "original": "文豪にして剣豪!炎の聖剣に 令和をも取り込んだ",
+          "translated": "A literary genius and a master swordsman! He even incorporated the Reiwa era into his flaming holy sword.",
+          "bounds": {
+            "x": 0.6445,
+            "y": 0.9102,
+            "w": 0.2225,
+            "h": 0.0073
+          }
+        },
+        {
+          "original": "おんせい",
+          "translated": "Onsei",
+          "bounds": {
+            "x": 0.5979,
+            "y": 0.9205,
+            "w": 0.0181,
+            "h": 0.0021
+          }
+        },
+        {
+          "original": "えら",
+          "translated": "gills",
+          "bounds": {
+            "x": 0.6457,
+            "y": 0.9192,
+            "w": 0.0079,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "音声 ②",
+          "translated": "Audio ②",
+          "bounds": {
+            "x": 0.5967,
+            "y": 0.9235,
+            "w": 0.029,
+            "h": 0.0064
+          }
+        },
+        {
+          "original": "|選ばれしライダーは･･･",
+          "translated": "|The chosen rider is...",
+          "bounds": {
+            "x": 0.6409,
+            "y": 0.9226,
+            "w": 0.1022,
+            "h": 0.0068
+          }
+        },
+        {
+          "original": "セイバーだ!",
+          "translated": "It's Saber!",
+          "bounds": {
+            "x": 0.6451,
+            "y": 0.935,
+            "w": 0.0532,
+            "h": 0.0073
+          }
+        },
+        {
+          "original": "おんせい",
+          "translated": "Onsei",
+          "bounds": {
+            "x": 0.5937,
+            "y": 0.9538,
+            "w": 0.0224,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "あと",
+          "translated": "After",
+          "bounds": {
+            "x": 0.6409,
+            "y": 0.9534,
+            "w": 0.0091,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "お",
+          "translated": "oh",
+          "bounds": {
+            "x": 0.711,
+            "y": 0.9538,
+            "w": 0.0067,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "だいかん",
+          "translated": "Daikan",
+          "bounds": {
+            "x": 0.7775,
+            "y": 0.9192,
+            "w": 0.029,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "大図鑑ライダー",
+          "translated": "The Great Illustrated Rider",
+          "bounds": {
+            "x": 0.7769,
+            "y": 0.9222,
+            "w": 0.0695,
+            "h": 0.0073
+          }
+        },
+        {
+          "original": "ディケイドコンプリートフォーム21!",
+          "translated": "Decade Complete Form 21!",
+          "bounds": {
+            "x": 0.7781,
+            "y": 0.9354,
+            "w": 0.159,
+            "h": 0.0068
+          }
+        },
+        {
+          "original": "ふたた おんせい",
+          "translated": "Futata Onsei",
+          "bounds": {
+            "x": 0.7412,
+            "y": 0.9538,
+            "w": 0.049,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "もど",
+          "translated": "Back",
+          "bounds": {
+            "x": 0.8138,
+            "y": 0.953,
+            "w": 0.0097,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "※音声 ② の後にボタンを押すと再び音声 ①に戻ります。",
+          "translated": "*Pressing the button after audio ② will return you to audio ①.",
+          "bounds": {
+            "x": 0.5822,
+            "y": 0.9581,
+            "w": 0.2805,
+            "h": 0.0081
+          }
+        }
+      ]
+    },
+    {
+      "image": "pages/page-2.webp",
+      "blocks": [
+        {
+          "original": "べつう",
+          "translated": "Special",
+          "bounds": {
+            "x": 0.0459,
+            "y": 0.0265,
+            "w": 0.0339,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "デラックス",
+          "translated": "Deluxe",
+          "bounds": {
+            "x": 0.1294,
+            "y": 0.0257,
+            "w": 0.0351,
+            "h": 0.0051
+          }
+        },
+        {
+          "original": "別売りのDXジクウドライバーでセイバーアーマーにアーマータイム!",
+          "translated": "Armor time for the Saber Armor with the separately sold DX Zi-O Driver!",
+          "bounds": {
+            "x": 0.0435,
+            "y": 0.0321,
+            "w": 0.659,
+            "h": 0.0158
+          }
+        },
+        {
+          "original": "くわ",
+          "translated": "Hoe",
+          "bounds": {
+            "x": 0.0574,
+            "y": 0.0526,
+            "w": 0.0115,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "デラックス",
+          "translated": "Deluxe",
+          "bounds": {
+            "x": 0.1052,
+            "y": 0.0513,
+            "w": 0.0272,
+            "h": 0.006
+          }
+        },
+        {
+          "original": "とりあつかいせつめいしょ",
+          "translated": "Handling instructions",
+          "bounds": {
+            "x": 0.2443,
+            "y": 0.0509,
+            "w": 0.0659,
+            "h": 0.0064
+          }
+        },
+        {
+          "original": "さんしょう",
+          "translated": "pepper",
+          "bounds": {
+            "x": 0.3386,
+            "y": 0.0522,
+            "w": 0.026,
+            "h": 0.0047
+          }
+        },
+        {
+          "original": "デラックス",
+          "translated": "Deluxe",
+          "bounds": {
+            "x": 0.5453,
+            "y": 0.0522,
+            "w": 0.0272,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "ばあい",
+          "translated": "In case",
+          "bounds": {
+            "x": 0.7709,
+            "y": 0.0517,
+            "w": 0.023,
+            "h": 0.0051
+          }
+        },
+        {
+          "original": "※詳しくはDXジクウドライバーの取扱説明書をご参照ください。 図はRスロットにDXジオウライドウォッチをセットした場合のものです。",
+          "translated": "*For details, please refer to the DX Zi-O Driver instruction manual. The illustration shows the DX Zi-O Ridewatch set in the R slot.",
+          "bounds": {
+            "x": 0.0441,
+            "y": 0.0577,
+            "w": 0.8235,
+            "h": 0.0094
+          }
+        },
+        {
+          "original": "せつめい",
+          "translated": "explanation",
+          "bounds": {
+            "x": 0.0574,
+            "y": 0.0693,
+            "w": 0.0248,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "へんしん",
+          "translated": "reply",
+          "bounds": {
+            "x": 0.217,
+            "y": 0.0693,
+            "w": 0.0242,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "ばあい",
+          "translated": "In case",
+          "bounds": {
+            "x": 0.2739,
+            "y": 0.0684,
+            "w": 0.0224,
+            "h": 0.0047
+          }
+        },
+        {
+          "original": "※説明はセイバーアーマーに変身する場合のものです。",
+          "translated": "*The explanation is for transforming into Saber Armor.",
+          "bounds": {
+            "x": 0.0441,
+            "y": 0.074,
+            "w": 0.3265,
+            "h": 0.0094
+          }
+        },
+        {
+          "original": "へんしんあそ",
+          "translated": "Transformation Play",
+          "bounds": {
+            "x": 0.0562,
+            "y": 0.1018,
+            "w": 0.0478,
+            "h": 0.0056
+          }
+        },
+        {
+          "original": "変身遊び",
+          "translated": "Transformation play",
+          "bounds": {
+            "x": 0.055,
+            "y": 0.1082,
+            "w": 0.0677,
+            "h": 0.0111
+          }
+        },
+        {
+          "original": "みぎ",
+          "translated": "right",
+          "bounds": {
+            "x": 0.1022,
+            "y": 0.1325,
+            "w": 0.0109,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "カバー",
+          "translated": "cover",
+          "bounds": {
+            "x": 0.2382,
+            "y": 0.0996,
+            "w": 0.0296,
+            "h": 0.0051
+          }
+        },
+        {
+          "original": "セイバーライドウォッチ",
+          "translated": "Saber Ridewatch",
+          "bounds": {
+            "x": 0.1765,
+            "y": 0.1218,
+            "w": 0.1028,
+            "h": 0.0064
+          }
+        },
+        {
+          "original": "どかいてん",
+          "translated": "Dokaiten",
+          "bounds": {
+            "x": 0.1463,
+            "y": 0.1325,
+            "w": 0.0308,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "①カバーを右に90度回転させ、",
+          "translated": "① Rotate the cover 90 degrees to the right,",
+          "bounds": {
+            "x": 0.0447,
+            "y": 0.1364,
+            "w": 0.1608,
+            "h": 0.0086
+          }
+        },
+        {
+          "original": "てんめん",
+          "translated": "Tenmen",
+          "bounds": {
+            "x": 0.0574,
+            "y": 0.1484,
+            "w": 0.0224,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "いちどお",
+          "translated": "Once",
+          "bounds": {
+            "x": 0.1372,
+            "y": 0.1471,
+            "w": 0.032,
+            "h": 0.0056
+          }
+        },
+        {
+          "original": "天面のボタンを一度押します。",
+          "translated": "Press the button on the top once.",
+          "bounds": {
+            "x": 0.0568,
+            "y": 0.1526,
+            "w": 0.1524,
+            "h": 0.0077
+          }
+        },
+        {
+          "original": "おんせい",
+          "translated": "Onsei",
+          "bounds": {
+            "x": 0.0689,
+            "y": 0.1637,
+            "w": 0.0224,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "な",
+          "translated": "Na",
+          "bounds": {
+            "x": 0.107,
+            "y": 0.1637,
+            "w": 0.0067,
+            "h": 0.0026
+          }
+        },
+        {
+          "original": "ひか",
+          "translated": "Hika",
+          "bounds": {
+            "x": 0.1711,
+            "y": 0.1633,
+            "w": 0.0103,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "音声が鳴り、LEDが光ります。",
+          "translated": "A sound will be heard and the LED will light up.",
+          "bounds": {
+            "x": 0.0689,
+            "y": 0.168,
+            "w": 0.1511,
+            "h": 0.0081
+          }
+        },
+        {
+          "original": "デラックス",
+          "translated": "Deluxe",
+          "bounds": {
+            "x": 0.0617,
+            "y": 0.2108,
+            "w": 0.0212,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "②DXジクウドライバーのRスロットに",
+          "translated": "②In the R slot of the DX Ziku Driver",
+          "bounds": {
+            "x": 0.0496,
+            "y": 0.215,
+            "w": 0.1965,
+            "h": 0.0073
+          }
+        },
+        {
+          "original": "デラックス",
+          "translated": "Deluxe",
+          "bounds": {
+            "x": 0.0617,
+            "y": 0.2249,
+            "w": 0.0206,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "じょうたい",
+          "translated": "Condition",
+          "bounds": {
+            "x": 0.2539,
+            "y": 0.2253,
+            "w": 0.0224,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "DXジオウライドウォッチをセットした状態で、",
+          "translated": "With the DX Zi-O Ride Watch set,",
+          "bounds": {
+            "x": 0.0623,
+            "y": 0.2296,
+            "w": 0.2328,
+            "h": 0.0081
+          }
+        },
+        {
+          "original": "デラックスス",
+          "translated": "Deluxe",
+          "bounds": {
+            "x": 0.1227,
+            "y": 0.2416,
+            "w": 0.0224,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "LスロットにDXセイバーライドウォッチをセットします。",
+          "translated": "Place the DX Saber Ridewatch in the L slot.",
+          "bounds": {
+            "x": 0.0623,
+            "y": 0.2454,
+            "w": 0.283,
+            "h": 0.0081
+          }
+        },
+        {
+          "original": "ず",
+          "translated": "figure",
+          "bounds": {
+            "x": 0.0647,
+            "y": 0.2565,
+            "w": 0.0067,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "む",
+          "translated": "nothing",
+          "bounds": {
+            "x": 0.0877,
+            "y": 0.2569,
+            "w": 0.006,
+            "h": 0.0026
+          }
+        },
+        {
+          "original": "デラックス",
+          "translated": "Deluxe",
+          "bounds": {
+            "x": 0.1457,
+            "y": 0.2561,
+            "w": 0.0218,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "図の向きにして、DXセイバーライドウォッチを",
+          "translated": "Place the DX Saber Ridewatch in the direction shown in the image.",
+          "bounds": {
+            "x": 0.0617,
+            "y": 0.2591,
+            "w": 0.2322,
+            "h": 0.0107
+          }
+        },
+        {
+          "original": "デラックス",
+          "translated": "Deluxe",
+          "bounds": {
+            "x": 0.0611,
+            "y": 0.2715,
+            "w": 0.0206,
+            "h": 0.0047
+          }
+        },
+        {
+          "original": "DXジクウドライバーのLスロットに、",
+          "translated": "In the L slot of the DX Zi-O Driver,",
+          "bounds": {
+            "x": 0.0617,
+            "y": 0.2753,
+            "w": 0.182,
+            "h": 0.0094
+          }
+        },
+        {
+          "original": "おと",
+          "translated": "sound",
+          "bounds": {
+            "x": 0.1046,
+            "y": 0.2869,
+            "w": 0.0091,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "さ",
+          "translated": "difference",
+          "bounds": {
+            "x": 0.1747,
+            "y": 0.2873,
+            "w": 0.006,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "カチッと音がするまで差し込みます。",
+          "translated": "Insert it until you hear a click.",
+          "bounds": {
+            "x": 0.0623,
+            "y": 0.292,
+            "w": 0.1826,
+            "h": 0.0077
+          }
+        },
+        {
+          "original": "デラックス",
+          "translated": "Deluxe",
+          "bounds": {
+            "x": 0.0508,
+            "y": 0.3048,
+            "w": 0.0187,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "DXジクウドライバー",
+          "translated": "DX Zi-O Driver",
+          "bounds": {
+            "x": 0.0508,
+            "y": 0.3087,
+            "w": 0.1088,
+            "h": 0.0068
+          }
+        },
+        {
+          "original": "そうてんおん たいきおん",
+          "translated": "Souten On Taikion",
+          "bounds": {
+            "x": 0.0629,
+            "y": 0.3206,
+            "w": 0.0744,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "な",
+          "translated": "Na",
+          "bounds": {
+            "x": 0.1536,
+            "y": 0.3206,
+            "w": 0.006,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "装填音、待機音が鳴り、",
+          "translated": "Loading sounds and standby sounds will sound.",
+          "bounds": {
+            "x": 0.0623,
+            "y": 0.3254,
+            "w": 0.1143,
+            "h": 0.0077
+          }
+        },
+        {
+          "original": "えきしょうがめん ひょうじ",
+          "translated": "Station entrance display",
+          "bounds": {
+            "x": 0.0629,
+            "y": 0.336,
+            "w": 0.078,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "きどう",
+          "translated": "Kidney",
+          "bounds": {
+            "x": 0.1608,
+            "y": 0.3356,
+            "w": 0.0175,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "液晶画面の表示が起動します。",
+          "translated": "The LCD screen display will start up.",
+          "bounds": {
+            "x": 0.0623,
+            "y": 0.3403,
+            "w": 0.156,
+            "h": 0.0081
+          }
+        },
+        {
+          "original": "ジオウライドウォッチ",
+          "translated": "Zi-O Ridewatch",
+          "bounds": {
+            "x": 0.2031,
+            "y": 0.3745,
+            "w": 0.0913,
+            "h": 0.0064
+          }
+        },
+        {
+          "original": "セイバー",
+          "translated": "Saber",
+          "bounds": {
+            "x": 0.6838,
+            "y": 0.1094,
+            "w": 0.0635,
+            "h": 0.0265
+          }
+        },
+        {
+          "original": "ボタン",
+          "translated": "button",
+          "bounds": {
+            "x": 0.8857,
+            "y": 0.1047,
+            "w": 0.029,
+            "h": 0.0056
+          }
+        },
+        {
+          "original": "デラックス",
+          "translated": "Deluxe",
+          "bounds": {
+            "x": 0.6977,
+            "y": 0.2168,
+            "w": 0.0345,
+            "h": 0.0051
+          }
+        },
+        {
+          "original": "かくぶめいしょう",
+          "translated": "Coverage",
+          "bounds": {
+            "x": 0.8748,
+            "y": 0.2172,
+            "w": 0.0671,
+            "h": 0.0056
+          }
+        },
+        {
+          "original": "DXジクウドライバーの各部名称",
+          "translated": "DX Ziku Driver Part Names",
+          "bounds": {
+            "x": 0.7007,
+            "y": 0.224,
+            "w": 0.24,
+            "h": 0.0111
+          }
+        },
+        {
+          "original": "ライドウォッチロックボタン",
+          "translated": "Ridewatch Lock Button",
+          "bounds": {
+            "x": 0.763,
+            "y": 0.2488,
+            "w": 0.13,
+            "h": 0.0073
+          }
+        },
+        {
+          "original": "アンロックボタン",
+          "translated": "Unlock button",
+          "bounds": {
+            "x": 0.7969,
+            "y": 0.2621,
+            "w": 0.0828,
+            "h": 0.0073
+          }
+        },
+        {
+          "original": "Rスロット",
+          "translated": "R Slot",
+          "bounds": {
+            "x": 0.7334,
+            "y": 0.3459,
+            "w": 0.0484,
+            "h": 0.0068
+          }
+        },
+        {
+          "original": "えきしょうがめん",
+          "translated": "Station entrance",
+          "bounds": {
+            "x": 0.7527,
+            "y": 0.363,
+            "w": 0.0423,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "Lスロット",
+          "translated": "L slot",
+          "bounds": {
+            "x": 0.8495,
+            "y": 0.3591,
+            "w": 0.0478,
+            "h": 0.0077
+          }
+        },
+        {
+          "original": "液晶画面",
+          "translated": "LCD screen",
+          "bounds": {
+            "x": 0.7521,
+            "y": 0.3673,
+            "w": 0.0435,
+            "h": 0.0086
+          }
+        },
+        {
+          "original": "デラックス",
+          "translated": "Deluxe",
+          "bounds": {
+            "x": 0.0611,
+            "y": 0.3976,
+            "w": 0.0212,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "じょうぶ",
+          "translated": "Strong",
+          "bounds": {
+            "x": 0.1675,
+            "y": 0.3976,
+            "w": 0.0206,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "③DXジクウドライバー上部のアンロックボタンを押して",
+          "translated": "③ Press the unlock button on the top of the DX Zi-O Driver",
+          "bounds": {
+            "x": 0.0502,
+            "y": 0.4027,
+            "w": 0.2842,
+            "h": 0.0077
+          }
+        },
+        {
+          "original": "かいじょ",
+          "translated": "Kaijo",
+          "bounds": {
+            "x": 0.711,
+            "y": 0.4066,
+            "w": 0.0236,
+            "h": 0.006
+          }
+        },
+        {
+          "original": "ほんたい かたむ",
+          "translated": "Hontai Katamu",
+          "bounds": {
+            "x": 0.8416,
+            "y": 0.4074,
+            "w": 0.0532,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "ほんたい",
+          "translated": "Honestly",
+          "bounds": {
+            "x": 0.0955,
+            "y": 0.4139,
+            "w": 0.0224,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "かいじょ",
+          "translated": "Kaijo",
+          "bounds": {
+            "x": 0.1723,
+            "y": 0.4139,
+            "w": 0.0212,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "ほんたい かたむ",
+          "translated": "Hontai Katamu",
+          "bounds": {
+            "x": 0.2116,
+            "y": 0.4139,
+            "w": 0.0472,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "※ロックを解除すると、 図のように本体が傾きます。",
+          "translated": "*When you release the lock, the unit will tilt as shown in the illustration.",
+          "bounds": {
+            "x": 0.6511,
+            "y": 0.4126,
+            "w": 0.2854,
+            "h": 0.0086
+          }
+        },
+        {
+          "original": "ベルト本体のロックを解除し、本体を傾けさせてから、",
+          "translated": "Unlock the belt body, tilt the body, then",
+          "bounds": {
+            "x": 0.0623,
+            "y": 0.4181,
+            "w": 0.2684,
+            "h": 0.0081
+          }
+        },
+        {
+          "original": "かいてん",
+          "translated": "Kaiten",
+          "bounds": {
+            "x": 0.0713,
+            "y": 0.4288,
+            "w": 0.0218,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "1回転させます。",
+          "translated": "Rotate it once.",
+          "bounds": {
+            "x": 0.0641,
+            "y": 0.4335,
+            "w": 0.0804,
+            "h": 0.0086
+          }
+        },
+        {
+          "original": "デラックス",
+          "translated": "Deluxe",
+          "bounds": {
+            "x": 0.0514,
+            "y": 0.4455,
+            "w": 0.0181,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "DXジクウドライバー",
+          "translated": "DX Zi-O Driver",
+          "bounds": {
+            "x": 0.0502,
+            "y": 0.4489,
+            "w": 0.1082,
+            "h": 0.0073
+          }
+        },
+        {
+          "original": "かいてんかんりょうおん な",
+          "translated": "Kaiten Kanryo On",
+          "bounds": {
+            "x": 0.0629,
+            "y": 0.46,
+            "w": 0.078,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "えきしょうがめん",
+          "translated": "Station entrance",
+          "bounds": {
+            "x": 0.1614,
+            "y": 0.4592,
+            "w": 0.0459,
+            "h": 0.0047
+          }
+        },
+        {
+          "original": "回転完了音が鳴り、液晶画面に",
+          "translated": "A rotation completion sound will sound and the LCD screen will",
+          "bounds": {
+            "x": 0.0629,
+            "y": 0.4647,
+            "w": 0.156,
+            "h": 0.0077
+          }
+        },
+        {
+          "original": "ひょうじ",
+          "translated": "Display",
+          "bounds": {
+            "x": 0.1505,
+            "y": 0.4758,
+            "w": 0.0212,
+            "h": 0.0026
+          }
+        },
+        {
+          "original": "アニメーションが表示されます。",
+          "translated": "The animation will be displayed.",
+          "bounds": {
+            "x": 0.0617,
+            "y": 0.4793,
+            "w": 0.1644,
+            "h": 0.0086
+          }
+        },
+        {
+          "original": "デラックス",
+          "translated": "Deluxe",
+          "bounds": {
+            "x": 0.0508,
+            "y": 0.4921,
+            "w": 0.0187,
+            "h": 0.0026
+          }
+        },
+        {
+          "original": "DXジオウライドウォッチ",
+          "translated": "DX Zi-O Ridewatch",
+          "bounds": {
+            "x": 0.0508,
+            "y": 0.4955,
+            "w": 0.127,
+            "h": 0.0073
+          }
+        },
+        {
+          "original": "へんしんおん",
+          "translated": "Transformation",
+          "bounds": {
+            "x": 0.0623,
+            "y": 0.5062,
+            "w": 0.0333,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "な",
+          "translated": "Na",
+          "bounds": {
+            "x": 0.1125,
+            "y": 0.5066,
+            "w": 0.0048,
+            "h": 0.0026
+          }
+        },
+        {
+          "original": "ひか",
+          "translated": "Hika",
+          "bounds": {
+            "x": 0.1765,
+            "y": 0.5066,
+            "w": 0.0115,
+            "h": 0.0026
+          }
+        },
+        {
+          "original": "→変身音が鳴り、LEDが光ります。",
+          "translated": "→The transformation sound will play and the LED will light up.",
+          "bounds": {
+            "x": 0.0502,
+            "y": 0.5109,
+            "w": 0.1759,
+            "h": 0.0077
+          }
+        },
+        {
+          "original": "デラックス",
+          "translated": "Deluxe",
+          "bounds": {
+            "x": 0.0508,
+            "y": 0.5224,
+            "w": 0.0187,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "DXセイバーライドウォッチ",
+          "translated": "DX Saber Ridewatch",
+          "bounds": {
+            "x": 0.0508,
+            "y": 0.5263,
+            "w": 0.1391,
+            "h": 0.0077
+          }
+        },
+        {
+          "original": "へんしんおん",
+          "translated": "Transformation",
+          "bounds": {
+            "x": 0.0623,
+            "y": 0.5366,
+            "w": 0.0351,
+            "h": 0.0047
+          }
+        },
+        {
+          "original": "な",
+          "translated": "Na",
+          "bounds": {
+            "x": 0.1125,
+            "y": 0.5374,
+            "w": 0.0054,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "ひか",
+          "translated": "Hika",
+          "bounds": {
+            "x": 0.1765,
+            "y": 0.5366,
+            "w": 0.0103,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "変身音が鳴り、LEDが光ります。",
+          "translated": "The transformation sound will play and the LED will light up.",
+          "bounds": {
+            "x": 0.0617,
+            "y": 0.5417,
+            "w": 0.1644,
+            "h": 0.0081
+          }
+        },
+        {
+          "original": "ライダータイム!",
+          "translated": "Rider Time!",
+          "bounds": {
+            "x": 0.2594,
+            "y": 0.5383,
+            "w": 0.0816,
+            "h": 0.0299
+          }
+        },
+        {
+          "original": "ライダージオウ!!",
+          "translated": "Rider Zi-O!!",
+          "bounds": {
+            "x": 0.2684,
+            "y": 0.5725,
+            "w": 0.0792,
+            "h": 0.0257
+          }
+        },
+        {
+          "original": "ひっさつわざあそ",
+          "translated": "Special move",
+          "bounds": {
+            "x": 0.0586,
+            "y": 0.6494,
+            "w": 0.0641,
+            "h": 0.0056
+          }
+        },
+        {
+          "original": "必殺技遊び",
+          "translated": "Special Move Play",
+          "bounds": {
+            "x": 0.0568,
+            "y": 0.6567,
+            "w": 0.084,
+            "h": 0.0107
+          }
+        },
+        {
+          "original": "へんしんあそ",
+          "translated": "Transformation Play",
+          "bounds": {
+            "x": 0.1747,
+            "y": 0.6567,
+            "w": 0.029,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "あと おこな",
+          "translated": "After that",
+          "bounds": {
+            "x": 0.2261,
+            "y": 0.6571,
+            "w": 0.0296,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "変身遊びの後に行います。",
+          "translated": "This is done after transformation play.",
+          "bounds": {
+            "x": 0.1741,
+            "y": 0.6605,
+            "w": 0.1143,
+            "h": 0.0077
+          }
+        },
+        {
+          "original": "アーマータイム!",
+          "translated": "Armor time!",
+          "bounds": {
+            "x": 0.5641,
+            "y": 0.5387,
+            "w": 0.0992,
+            "h": -0.0068
+          }
+        },
+        {
+          "original": "購タ!\nセイバー!",
+          "translated": "Buy it! Saber!",
+          "bounds": {
+            "x": 0.6433,
+            "y": 0.575,
+            "w": 0.0931,
+            "h": 0.0145
+          }
+        },
+        {
+          "original": "(3",
+          "translated": "(3",
+          "bounds": {
+            "x": 0.5689,
+            "y": 0.649,
+            "w": 0.0079,
+            "h": 0.0056
+          }
+        },
+        {
+          "original": "デラックス",
+          "translated": "Deluxe",
+          "bounds": {
+            "x": 0.0605,
+            "y": 0.6806,
+            "w": 0.0212,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "てんめん",
+          "translated": "Tenmen",
+          "bounds": {
+            "x": 0.1856,
+            "y": 0.6806,
+            "w": 0.0212,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "お",
+          "translated": "oh",
+          "bounds": {
+            "x": 0.2672,
+            "y": 0.6811,
+            "w": 0.006,
+            "h": 0.0026
+          }
+        },
+        {
+          "original": "①DXジオウライドウォッチ天面のボタンを押します。",
+          "translated": "①Press the button on the top of the DX Zi-O Ridewatch.",
+          "bounds": {
+            "x": 0.0496,
+            "y": 0.6841,
+            "w": 0.2648,
+            "h": 0.0094
+          }
+        },
+        {
+          "original": "おんせい",
+          "translated": "Onsei",
+          "bounds": {
+            "x": 0.0623,
+            "y": 0.6965,
+            "w": 0.023,
+            "h": 0.0026
+          }
+        },
+        {
+          "original": "な",
+          "translated": "Na",
+          "bounds": {
+            "x": 0.1004,
+            "y": 0.6965,
+            "w": 0.006,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "ひか",
+          "translated": "Hika",
+          "bounds": {
+            "x": 0.1644,
+            "y": 0.699,
+            "w": 0.0109,
+            "h": -0.0026
+          }
+        },
+        {
+          "original": "音声が鳴り、LEDが光ります。",
+          "translated": "A sound will be heard and the LED will light up.",
+          "bounds": {
+            "x": 0.0617,
+            "y": 0.7003,
+            "w": 0.1518,
+            "h": 0.0081
+          }
+        },
+        {
+          "original": "デラックス",
+          "translated": "Deluxe",
+          "bounds": {
+            "x": 0.0605,
+            "y": 0.7114,
+            "w": 0.0212,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "てんめん",
+          "translated": "Tenmen",
+          "bounds": {
+            "x": 0.1983,
+            "y": 0.7118,
+            "w": 0.0224,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "②DXセイバーライドウォッチ天面のボタンを押します。",
+          "translated": "②Press the button on the top of the DX Saber Ridewatch.",
+          "bounds": {
+            "x": 0.0496,
+            "y": 0.7157,
+            "w": 0.2763,
+            "h": 0.0081
+          }
+        },
+        {
+          "original": "おんせい",
+          "translated": "Onsei",
+          "bounds": {
+            "x": 0.0623,
+            "y": 0.7268,
+            "w": 0.0218,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "ひか",
+          "translated": "Hika",
+          "bounds": {
+            "x": 0.1644,
+            "y": 0.7268,
+            "w": 0.0139,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "音声が鳴り、LEDが光ります。",
+          "translated": "A sound will be heard and the LED will light up.",
+          "bounds": {
+            "x": 0.0617,
+            "y": 0.7315,
+            "w": 0.1524,
+            "h": 0.0077
+          }
+        },
+        {
+          "original": "デラックス",
+          "translated": "Deluxe",
+          "bounds": {
+            "x": 0.0605,
+            "y": 0.7422,
+            "w": 0.0212,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "じょうぶ",
+          "translated": "Strong",
+          "bounds": {
+            "x": 0.1669,
+            "y": 0.7422,
+            "w": 0.0212,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "お",
+          "translated": "oh",
+          "bounds": {
+            "x": 0.3035,
+            "y": 0.7426,
+            "w": 0.0054,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "③DXジクウドライバー上部のアンロックボタンを押して",
+          "translated": "③ Press the unlock button on the top of the DX Zi-O Driver",
+          "bounds": {
+            "x": 0.0496,
+            "y": 0.7469,
+            "w": 0.2842,
+            "h": 0.0077
+          }
+        },
+        {
+          "original": "かいじょ",
+          "translated": "Kaijo",
+          "bounds": {
+            "x": 0.1046,
+            "y": 0.7576,
+            "w": 0.0218,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "ほんたいかたむ",
+          "translated": "True type",
+          "bounds": {
+            "x": 0.1439,
+            "y": 0.758,
+            "w": 0.0472,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "かいてん",
+          "translated": "Kaiten",
+          "bounds": {
+            "x": 0.2727,
+            "y": 0.758,
+            "w": 0.0218,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "ロックを解除し、本体を傾けさせてから、1回転させます。",
+          "translated": "Unlock, tilt the device, and then rotate it once.",
+          "bounds": {
+            "x": 0.0629,
+            "y": 0.7623,
+            "w": 0.2836,
+            "h": 0.0086
+          }
+        },
+        {
+          "original": "デラックス",
+          "translated": "Deluxe",
+          "bounds": {
+            "x": 0.0502,
+            "y": 0.7747,
+            "w": 0.0175,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "DXジクウドライバー",
+          "translated": "DX Zi-O Driver",
+          "bounds": {
+            "x": 0.0502,
+            "y": 0.779,
+            "w": 0.1088,
+            "h": 0.0073
+          }
+        },
+        {
+          "original": "かいてんかんりょうおん な",
+          "translated": "Kaiten Kanryo On",
+          "bounds": {
+            "x": 0.0623,
+            "y": 0.7888,
+            "w": 0.0786,
+            "h": 0.006
+          }
+        },
+        {
+          "original": "えきしょうがめん",
+          "translated": "Station entrance",
+          "bounds": {
+            "x": 0.1608,
+            "y": 0.7897,
+            "w": 0.0453,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "ひょうじ",
+          "translated": "Display",
+          "bounds": {
+            "x": 0.3071,
+            "y": 0.7897,
+            "w": 0.0218,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "フィニッシュタイム!",
+          "translated": "Finish time!",
+          "bounds": {
+            "x": 0.3628,
+            "y": 0.667,
+            "w": 0.1094,
+            "h": 0.0316
+          }
+        },
+        {
+          "original": "回転完了音が鳴り、液晶画面にアニメーションが表示されます。",
+          "translated": "A sound will sound when the rotation is complete and an animation will appear on the LCD screen.",
+          "bounds": {
+            "x": 0.0623,
+            "y": 0.7944,
+            "w": 0.3198,
+            "h": 0.0077
+          }
+        },
+        {
+          "original": "デラックス",
+          "translated": "Deluxe",
+          "bounds": {
+            "x": 0.0502,
+            "y": 0.8068,
+            "w": 0.0175,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "DXジオウライドウォッチ",
+          "translated": "DX Zi-O Ridewatch",
+          "bounds": {
+            "x": 0.0502,
+            "y": 0.811,
+            "w": 0.127,
+            "h": 0.0073
+          }
+        },
+        {
+          "original": "ひっさつわざおん",
+          "translated": "Special Wazon",
+          "bounds": {
+            "x": 0.0623,
+            "y": 0.8209,
+            "w": 0.0453,
+            "h": 0.0047
+          }
+        },
+        {
+          "original": "な",
+          "translated": "Na",
+          "bounds": {
+            "x": 0.1233,
+            "y": 0.8221,
+            "w": 0.0048,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "ひか",
+          "translated": "Hika",
+          "bounds": {
+            "x": 0.1874,
+            "y": 0.8226,
+            "w": 0.0115,
+            "h": 0.0026
+          }
+        },
+        {
+          "original": "必殺技音が鳴り、LEDが光ります。",
+          "translated": "The special move sound will be heard and the LED will light up.",
+          "bounds": {
+            "x": 0.0611,
+            "y": 0.8264,
+            "w": 0.1765,
+            "h": 0.0081
+          }
+        },
+        {
+          "original": "デラックス",
+          "translated": "Deluxe",
+          "bounds": {
+            "x": 0.0502,
+            "y": 0.8392,
+            "w": 0.0187,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "DXセイバーライドウォッチ",
+          "translated": "DX Saber Ridewatch",
+          "bounds": {
+            "x": 0.0502,
+            "y": 0.8431,
+            "w": 0.1397,
+            "h": 0.0073
+          }
+        },
+        {
+          "original": "ひっさつわざおん な",
+          "translated": "Hissatsuwazaon",
+          "bounds": {
+            "x": 0.0623,
+            "y": 0.8534,
+            "w": 0.0671,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "ひか",
+          "translated": "Hika",
+          "bounds": {
+            "x": 0.1874,
+            "y": 0.8546,
+            "w": 0.0115,
+            "h": 0.0026
+          }
+        },
+        {
+          "original": "必殺技音が鳴り、LEDが光ります。",
+          "translated": "The special move sound will be heard and the LED will light up.",
+          "bounds": {
+            "x": 0.0617,
+            "y": 0.8581,
+            "w": 0.1753,
+            "h": 0.009
+          }
+        },
+        {
+          "original": "デラックス",
+          "translated": "Deluxe",
+          "bounds": {
+            "x": 0.0605,
+            "y": 0.8692,
+            "w": 0.0212,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "デラックス",
+          "translated": "Deluxe",
+          "bounds": {
+            "x": 0.1179,
+            "y": 0.8696,
+            "w": 0.0218,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "※DXジオウ/DXセイバーライドウォッチのボタンを押さずに",
+          "translated": "*Without pressing the button on the DX Zi-O/DX Saber Ridewatch",
+          "bounds": {
+            "x": 0.0508,
+            "y": 0.8739,
+            "w": 0.3065,
+            "h": 0.0081
+          }
+        },
+        {
+          "original": "さいかいてん",
+          "translated": "The best",
+          "bounds": {
+            "x": 0.0623,
+            "y": 0.885,
+            "w": 0.0453,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "デラックス",
+          "translated": "Deluxe",
+          "bounds": {
+            "x": 0.1578,
+            "y": 0.8846,
+            "w": 0.0212,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "デラックス",
+          "translated": "Deluxe",
+          "bounds": {
+            "x": 0.214,
+            "y": 0.8841,
+            "w": 0.0212,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "再度回転させると、 DXジオウ/DXセイバーライドウォッチからは",
+          "translated": "When you rotate it again, the DX Zi-O/DX Saber Ridewatch",
+          "bounds": {
+            "x": 0.0617,
+            "y": 0.8893,
+            "w": 0.3229,
+            "h": 0.0077
+          }
+        },
+        {
+          "original": "へんしんおん",
+          "translated": "Transformation",
+          "bounds": {
+            "x": 0.0623,
+            "y": 0.9,
+            "w": 0.0339,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "な",
+          "translated": "Na",
+          "bounds": {
+            "x": 0.1119,
+            "y": 0.9008,
+            "w": 0.0048,
+            "h": 0.0026
+          }
+        },
+        {
+          "original": "デラックス",
+          "translated": "Deluxe",
+          "bounds": {
+            "x": 0.1687,
+            "y": 0.9004,
+            "w": 0.0212,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "変身音が鳴りますが、 DXジクウドライバーの",
+          "translated": "The transformation sound will play, but the DX Zi-O Driver",
+          "bounds": {
+            "x": 0.0617,
+            "y": 0.9047,
+            "w": 0.2249,
+            "h": 0.0081
+          }
+        },
+        {
+          "original": "えきしょうがめん ひっさつわざ ひょうじ",
+          "translated": "Station entrance special move display",
+          "bounds": {
+            "x": 0.0623,
+            "y": 0.9153,
+            "w": 0.1252,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "液晶画面は必殺技の表示がされます。",
+          "translated": "The LCD screen will display the special move.",
+          "bounds": {
+            "x": 0.0617,
+            "y": 0.9201,
+            "w": 0.1917,
+            "h": 0.0081
+          }
+        },
+        {
+          "original": "デラックス",
+          "translated": "Deluxe",
+          "bounds": {
+            "x": 0.0605,
+            "y": 0.9316,
+            "w": 0.0218,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "※DXディケイドコンプリートフォーム21ライドウォッチからは",
+          "translated": "*From the DX Decade Complete Form 21 Ridewatch",
+          "bounds": {
+            "x": 0.0508,
+            "y": 0.9354,
+            "w": 0.3102,
+            "h": 0.0077
+          }
+        },
+        {
+          "original": "こと",
+          "translated": "thing",
+          "bounds": {
+            "x": 0.0623,
+            "y": 0.947,
+            "w": 0.0103,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "へんしんおん ひっさつわざおん",
+          "translated": "Transformation On Special On",
+          "bounds": {
+            "x": 0.0961,
+            "y": 0.9461,
+            "w": 0.0871,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "な",
+          "translated": "Na",
+          "bounds": {
+            "x": 0.1989,
+            "y": 0.947,
+            "w": 0.0054,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "異なる変身音、 必殺技音が鳴ります。",
+          "translated": "Different transformation and special move sounds will be played.",
+          "bounds": {
+            "x": 0.0617,
+            "y": 0.9513,
+            "w": 0.1832,
+            "h": 0.0077
+          }
+        },
+        {
+          "original": "デラックス",
+          "translated": "Deluxe",
+          "bounds": {
+            "x": 0.4305,
+            "y": 0.8709,
+            "w": 0.0272,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "タイムフレーク!ト",
+          "translated": "Time Flake!",
+          "bounds": {
+            "x": 0.549,
+            "y": 0.7935,
+            "w": 0.0877,
+            "h": 0.0235
+          }
+        },
+        {
+          "original": "と",
+          "translated": "and",
+          "bounds": {
+            "x": 0.6445,
+            "y": 0.8713,
+            "w": 0.006,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "はず",
+          "translated": "Should",
+          "bounds": {
+            "x": 0.6717,
+            "y": 0.8713,
+            "w": 0.0115,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "かた",
+          "translated": "shoulder",
+          "bounds": {
+            "x": 0.7031,
+            "y": 0.8713,
+            "w": 0.0115,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "DXセイバーライドウォッチの取り外し方",
+          "translated": "How to remove the DX Saber Ridewatch",
+          "bounds": {
+            "x": 0.4293,
+            "y": 0.8764,
+            "w": 0.2866,
+            "h": 0.012
+          }
+        },
+        {
+          "original": "デラックス",
+          "translated": "Deluxe",
+          "bounds": {
+            "x": 0.4262,
+            "y": 0.8965,
+            "w": 0.023,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "じょう",
+          "translated": "affection",
+          "bounds": {
+            "x": 0.5852,
+            "y": 0.8965,
+            "w": 0.0133,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "セイバー!",
+          "translated": "Saber!",
+          "bounds": {
+            "x": 0.7213,
+            "y": 0.6879,
+            "w": 0.078,
+            "h": -0.0051
+          }
+        },
+        {
+          "original": "DXジクウドライバーのスロット上のライドウォッチロックボタンを",
+          "translated": "Press the Ridewatch lock button on the slot of the DX Zi-O Driver.",
+          "bounds": {
+            "x": 0.4293,
+            "y": 0.9017,
+            "w": 0.3271,
+            "h": 0.0081
+          }
+        },
+        {
+          "original": "お",
+          "translated": "oh",
+          "bounds": {
+            "x": 0.4311,
+            "y": 0.9128,
+            "w": 0.0054,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "やじるし ほうこうひば",
+          "translated": "Arrow Direction Hiba",
+          "bounds": {
+            "x": 0.4897,
+            "y": 0.9124,
+            "w": 0.0925,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "とはず",
+          "translated": "Tohad",
+          "bounds": {
+            "x": 0.6137,
+            "y": 0.9124,
+            "w": 0.0284,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "押しながら、矢印の方向に引っ張って、取り外します。",
+          "translated": "While pressing, pull in the direction of the arrow to remove it.",
+          "bounds": {
+            "x": 0.4287,
+            "y": 0.9166,
+            "w": 0.2521,
+            "h": 0.009
+          }
+        },
+        {
+          "original": "デラックス",
+          "translated": "Deluxe",
+          "bounds": {
+            "x": 0.4323,
+            "y": 0.9316,
+            "w": 0.0193,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "DXセイバーライドウォッチ",
+          "translated": "DX Saber Ridewatch",
+          "bounds": {
+            "x": 0.4317,
+            "y": 0.935,
+            "w": 0.1403,
+            "h": 0.0077
+          }
+        },
+        {
+          "original": "な",
+          "translated": "Na",
+          "bounds": {
+            "x": 0.494,
+            "y": 0.9474,
+            "w": 0.0048,
+            "h": 0.0026
+          }
+        },
+        {
+          "original": "ちゃくだつおん",
+          "translated": "Chakudatsuon",
+          "bounds": {
+            "x": 0.4432,
+            "y": 0.947,
+            "w": 0.0339,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "着脱音が鳴ります。",
+          "translated": "A sound will be heard when attaching or detaching.",
+          "bounds": {
+            "x": 0.4432,
+            "y": 0.9513,
+            "w": 0.0973,
+            "h": 0.0086
+          }
+        },
+        {
+          "original": "うえ",
+          "translated": "up",
+          "bounds": {
+            "x": 0.708,
+            "y": 0.947,
+            "w": 0.0091,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "みず",
+          "translated": "water",
+          "bounds": {
+            "x": 0.7443,
+            "y": 0.9461,
+            "w": 0.0302,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "【上から見た図】",
+          "translated": "[Top view]",
+          "bounds": {
+            "x": 0.7031,
+            "y": 0.9508,
+            "w": 0.078,
+            "h": 0.009
+          }
+        },
+        {
+          "original": "ひっさつく",
+          "translated": "Hidden",
+          "bounds": {
+            "x": 0.8761,
+            "y": 0.7644,
+            "w": 0.0363,
+            "h": -0.0043
+          }
+        }
+      ]
+    },
+    {
+      "image": "pages/page-3.webp",
+      "blocks": [
+        {
+          "original": "べつう",
+          "translated": "Special",
+          "bounds": {
+            "x": 0.0466,
+            "y": 0.0291,
+            "w": 0.0393,
+            "h": 0.0056
+          }
+        },
+        {
+          "original": "デラックス",
+          "translated": "Deluxe",
+          "bounds": {
+            "x": 0.1415,
+            "y": 0.0278,
+            "w": 0.0411,
+            "h": 0.0077
+          }
+        },
+        {
+          "original": "ひっさつわざ あそ",
+          "translated": "Special Moves",
+          "bounds": {
+            "x": 0.3797,
+            "y": 0.0282,
+            "w": 0.0931,
+            "h": 0.006
+          }
+        },
+        {
+          "original": "別売りのDXジカンギレードで必殺技遊び!",
+          "translated": "Play with special moves with the separately sold DX Jikan Girade!",
+          "bounds": {
+            "x": 0.0441,
+            "y": 0.0359,
+            "w": 0.4661,
+            "h": 0.018
+          }
+        },
+        {
+          "original": "デラックス",
+          "translated": "Deluxe",
+          "bounds": {
+            "x": 0.058,
+            "y": 0.0658,
+            "w": 0.0224,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "デラックス",
+          "translated": "Deluxe",
+          "bounds": {
+            "x": 0.1681,
+            "y": 0.0658,
+            "w": 0.0218,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "①DXジカンギレードにDXセイバーライドウォッチをセットします。",
+          "translated": "①Attach the DX Saber Ridewatch to the DX Jikan Girade.",
+          "bounds": {
+            "x": 0.0478,
+            "y": 0.0697,
+            "w": 0.3356,
+            "h": 0.0081
+          }
+        },
+        {
+          "original": "デラックス",
+          "translated": "Deluxe",
+          "bounds": {
+            "x": 0.058,
+            "y": 0.0799,
+            "w": 0.0206,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "む",
+          "translated": "nothing",
+          "bounds": {
+            "x": 0.2334,
+            "y": 0.0808,
+            "w": 0.0054,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "DXセイバーライドウォッチを図の向きにして、",
+          "translated": "Place the DX Saber Ridewatch in the orientation shown in the picture.",
+          "bounds": {
+            "x": 0.0593,
+            "y": 0.0842,
+            "w": 0.2322,
+            "h": 0.009
+          }
+        },
+        {
+          "original": "デラックス",
+          "translated": "Deluxe",
+          "bounds": {
+            "x": 0.0586,
+            "y": 0.0962,
+            "w": 0.0206,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "おと",
+          "translated": "sound",
+          "bounds": {
+            "x": 0.2594,
+            "y": 0.0962,
+            "w": 0.0091,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "DXジカンギレードのスロットにカチッと音がするまで差し込みます。",
+          "translated": "Insert it into the slot on the DX Jikan Girade until you hear a click.",
+          "bounds": {
+            "x": 0.0605,
+            "y": 0.1005,
+            "w": 0.3392,
+            "h": 0.0081
+          }
+        },
+        {
+          "original": "デラックス",
+          "translated": "Deluxe",
+          "bounds": {
+            "x": 0.0526,
+            "y": 0.1137,
+            "w": 0.0187,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "DX ジカンギレード",
+          "translated": "DX Jikan Girade",
+          "bounds": {
+            "x": 0.0526,
+            "y": 0.1171,
+            "w": 0.0979,
+            "h": 0.0077
+          }
+        },
+        {
+          "original": "ちゃくだつおん",
+          "translated": "Chakudatsuon",
+          "bounds": {
+            "x": 0.0593,
+            "y": 0.1283,
+            "w": 0.0351,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "たいき おん",
+          "translated": "Taiki On",
+          "bounds": {
+            "x": 0.1451,
+            "y": 0.1278,
+            "w": 0.0345,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "な",
+          "translated": "Na",
+          "bounds": {
+            "x": 0.1947,
+            "y": 0.1287,
+            "w": 0.006,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "着脱音とセリフ、 待機音が鳴ります。",
+          "translated": "The attachment/detachment sounds, dialogue, and standby sounds will be played.",
+          "bounds": {
+            "x": 0.0599,
+            "y": 0.133,
+            "w": 0.1826,
+            "h": 0.0077
+          }
+        },
+        {
+          "original": "くわ",
+          "translated": "Hoe",
+          "bounds": {
+            "x": 0.575,
+            "y": 0.0402,
+            "w": 0.0103,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "デラックス",
+          "translated": "Deluxe",
+          "bounds": {
+            "x": 0.6167,
+            "y": 0.0406,
+            "w": 0.0218,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "とりあつかいせつめいしょ",
+          "translated": "Handling instructions",
+          "bounds": {
+            "x": 0.7261,
+            "y": 0.0402,
+            "w": 0.0593,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "さんしょう",
+          "translated": "pepper",
+          "bounds": {
+            "x": 0.8096,
+            "y": 0.0406,
+            "w": 0.023,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "※詳しくはDXジカンギレードの取扱説明書をご参照ください。",
+          "translated": "*For details, please refer to the DX Jikan Girade instruction manual.",
+          "bounds": {
+            "x": 0.5635,
+            "y": 0.0449,
+            "w": 0.3192,
+            "h": 0.0077
+          }
+        },
+        {
+          "original": "ひ",
+          "translated": "fire",
+          "bounds": {
+            "x": 0.5859,
+            "y": 0.0646,
+            "w": 0.006,
+            "h": 0.0026
+          }
+        },
+        {
+          "original": "②トリガーを引きます。",
+          "translated": "②Pull the trigger.",
+          "bounds": {
+            "x": 0.5193,
+            "y": 0.0676,
+            "w": 0.1155,
+            "h": 0.0086
+          }
+        },
+        {
+          "original": "デラックス",
+          "translated": "Deluxe",
+          "bounds": {
+            "x": 0.5206,
+            "y": 0.0808,
+            "w": 0.0181,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "DXセイバーライドウォッチ",
+          "translated": "DX Saber Ridewatch",
+          "bounds": {
+            "x": 0.5206,
+            "y": 0.0847,
+            "w": 0.1391,
+            "h": 0.0077
+          }
+        },
+        {
+          "original": "おんせい",
+          "translated": "Onsei",
+          "bounds": {
+            "x": 0.532,
+            "y": 0.0953,
+            "w": 0.0218,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "な",
+          "translated": "Na",
+          "bounds": {
+            "x": 0.5695,
+            "y": 0.0958,
+            "w": 0.0054,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "ひか",
+          "translated": "Hika",
+          "bounds": {
+            "x": 0.6342,
+            "y": 0.0962,
+            "w": 0.0109,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "→音声が鳴り、LEDが光ります。",
+          "translated": "→A sound will be heard and the LED will light up.",
+          "bounds": {
+            "x": 0.52,
+            "y": 0.1005,
+            "w": 0.1638,
+            "h": 0.0077
+          }
+        },
+        {
+          "original": "デラックス",
+          "translated": "Deluxe",
+          "bounds": {
+            "x": 0.5206,
+            "y": 0.1129,
+            "w": 0.0175,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "DX ジカンギレード",
+          "translated": "DX Jikan Girade",
+          "bounds": {
+            "x": 0.5206,
+            "y": 0.1167,
+            "w": 0.0973,
+            "h": 0.0077
+          }
+        },
+        {
+          "original": "ひっさつわざおん",
+          "translated": "Special Wazon",
+          "bounds": {
+            "x": 0.5326,
+            "y": 0.1274,
+            "w": 0.0447,
+            "h": 0.0043
+          }
+        },
+        {
+          "original": "な",
+          "translated": "Na",
+          "bounds": {
+            "x": 0.5937,
+            "y": 0.1283,
+            "w": 0.006,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "必殺技音が鳴ります。",
+          "translated": "The special move sound will be played.",
+          "bounds": {
+            "x": 0.5314,
+            "y": 0.1321,
+            "w": 0.1082,
+            "h": 0.0077
+          }
+        },
+        {
+          "original": "スロット",
+          "translated": "slot",
+          "bounds": {
+            "x": 0.217,
+            "y": 0.2736,
+            "w": 0.0351,
+            "h": 0.006
+          }
+        },
+        {
+          "original": "・ジカンギレード",
+          "translated": "・Zikangirade",
+          "bounds": {
+            "x": 0.3924,
+            "y": 0.2099,
+            "w": 0.0689,
+            "h": 0.0077
+          }
+        },
+        {
+          "original": "ギリギリ\nスラッシュ!",
+          "translated": "Just barely slash!",
+          "bounds": {
+            "x": 0.6487,
+            "y": 0.1462,
+            "w": 0.078,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "セイバープ",
+          "translated": "Saberp",
+          "bounds": {
+            "x": 0.8519,
+            "y": 0.156,
+            "w": 0.1028,
+            "h": -0.0051
+          }
+        },
+        {
+          "original": "ず",
+          "translated": "figure",
+          "bounds": {
+            "x": 0.5326,
+            "y": 0.2779,
+            "w": 0.006,
+            "h": 0.003
+          }
+        },
+        {
+          "original": "デラックス",
+          "translated": "Deluxe",
+          "bounds": {
+            "x": 0.552,
+            "y": 0.2775,
+            "w": 0.0218,
+            "h": 0.0034
+          }
+        },
+        {
+          "original": "※図はDXジカンギレードのケンモードですが、",
+          "translated": "*The image shows the Ken mode of DX Jikan Girade.",
+          "bounds": {
+            "x": 0.5187,
+            "y": 0.2817,
+            "w": 0.24,
+            "h": 0.0081
+          }
+        },
+        {
+          "original": "デラックス",
+          "translated": "Deluxe",
+          "bounds": {
+            "x": 0.529,
+            "y": 0.2912,
+            "w": 0.0212,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "どうよう ひっさつわざあそ",
+          "translated": "Nursery rhymes and special moves",
+          "bounds": {
+            "x": 0.7291,
+            "y": 0.2916,
+            "w": 0.0804,
+            "h": 0.0038
+          }
+        },
+        {
+          "original": "DX ジカンギレードのジュウモードでも同様に必殺技遊びができます。",
+          "translated": "You can also play with special moves in DX Jikan Girade's Zyu Mode.",
+          "bounds": {
+            "x": 0.5302,
+            "y": 0.2959,
+            "w": 0.3543,
+            "h": 0.0081
+          }
+        },
+        {
+          "original": "トリガー",
+          "translated": "trigger",
+          "bounds": {
+            "x": 0.8978,
+            "y": 0.2578,
+            "w": 0.0345,
+            "h": 0.006
+          }
+        }
+      ]
+    }
+  ]
+}

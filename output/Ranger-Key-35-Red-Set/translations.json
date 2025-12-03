@@ -1,0 +1,765 @@
+{
+  "meta": {
+    "source": "GoKaiKeys.pdf",
+    "source_lang": "ja",
+    "target_lang": "en",
+    "source_url": "https://toy.bandai.co.jp/manuals/?prod_name=&p_id=1&release_date=&t_id=&jan_code="
+  },
+  "pages": [
+    {
+      "image": "pages/page-0.webp",
+      "blocks": [
+        {
+          "original": "レンジャーキー 35レッドセット\nMEMORIAL EDITION\nUSER MANUAL",
+          "translated": "Ranger Key 35 Red Set\nMEMORIAL EDITION\nUSER MANUAL",
+          "bounds": {
+            "x": 0.0252,
+            "y": 0.0351,
+            "w": 0.3382,
+            "h": 0.1155
+          }
+        },
+        {
+          "original": "セット内容",
+          "translated": "Set contents",
+          "bounds": {
+            "x": 0.0941,
+            "y": 0.2116,
+            "w": 0.0898,
+            "h": 0.0236
+          }
+        },
+        {
+          "original": "取扱説明書 (本書)......1",
+          "translated": "Instruction Manual (this manual)......1",
+          "bounds": {
+            "x": 0.0902,
+            "y": 0.2757,
+            "w": 0.0966,
+            "h": 0.0139
+          }
+        },
+        {
+          "original": "レンジャーキー......各1",
+          "translated": "Ranger Key...1 each",
+          "bounds": {
+            "x": 0.0932,
+            "y": 0.3017,
+            "w": 0.0923,
+            "h": 0.0121
+          }
+        },
+        {
+          "original": "(アカレンジャー・スペードエース・バトルジャパン",
+          "translated": "(Akaranger, Spade Ace, Battle Japan",
+          "bounds": {
+            "x": 0.0393,
+            "y": 0.3271,
+            "w": 0.1992,
+            "h": 0.0121
+          }
+        },
+        {
+          "original": "・デンジレッド・バルイーグル ゴーグルレッド",
+          "translated": "・Denji Red ・Bal Eagle Goggle Red",
+          "bounds": {
+            "x": 0.0492,
+            "y": 0.3525,
+            "w": 0.1791,
+            "h": 0.0121
+          }
+        },
+        {
+          "original": "ダイナレッド・レッドワン・チェンジドラゴン",
+          "translated": "Dyna Red, Red One, Change Dragon",
+          "bounds": {
+            "x": 0.056,
+            "y": 0.3773,
+            "w": 0.171,
+            "h": 0.0121
+          }
+        },
+        {
+          "original": "豪快に変身",
+          "translated": "A spectacular transformation",
+          "bounds": {
+            "x": 0.5477,
+            "y": 0.0411,
+            "w": 0.0761,
+            "h": 0.0218
+          }
+        },
+        {
+          "original": "海賊戰隊",
+          "translated": "pirate squad",
+          "bounds": {
+            "x": 0.4074,
+            "y": 0.0665,
+            "w": 0.0308,
+            "h": 0.0091
+          }
+        },
+        {
+          "original": "ゴーカイジ",
+          "translated": "Gokaiji",
+          "bounds": {
+            "x": 0.3784,
+            "y": 0.0774,
+            "w": 0.0684,
+            "h": 0.0296
+          }
+        },
+        {
+          "original": "※アカレッドキーを例に説明します。",
+          "translated": "*We will use the Aka Red Key as an example.",
+          "bounds": {
+            "x": 0.6708,
+            "y": 0.0411,
+            "w": 0.1022,
+            "h": 0.0091
+          }
+        },
+        {
+          "original": "※別売りのモバイレーツ MEMORIAL EDITION- を使用し、 「通常変身モード」の状態で行います。",
+          "translated": "*Use the separately sold Mobirates MEMORIAL EDITION and perform this in \"normal transformation mode.\"",
+          "bounds": {
+            "x": 0.6708,
+            "y": 0.0544,
+            "w": 0.2847,
+            "h": 0.0097
+          }
+        },
+        {
+          "original": "セリフボタンを\n押します。",
+          "translated": "Press the dialogue button.",
+          "bounds": {
+            "x": 0.5481,
+            "y": 0.0889,
+            "w": 0.0526,
+            "h": 0.0278
+          }
+        },
+        {
+          "original": "レンジャーキー",
+          "translated": "Ranger Key",
+          "bounds": {
+            "x": 0.6593,
+            "y": 0.0895,
+            "w": 0.053,
+            "h": 0.0109
+          }
+        },
+        {
+          "original": "レンジャーキーを",
+          "translated": "Ranger Key",
+          "bounds": {
+            "x": 0.7747,
+            "y": 0.0889,
+            "w": 0.0607,
+            "h": 0.0115
+          }
+        },
+        {
+          "original": "挿入口に",
+          "translated": "Into the insertion slot",
+          "bounds": {
+            "x": 0.6575,
+            "y": 0.1052,
+            "w": 0.0316,
+            "h": 0.0097
+          }
+        },
+        {
+          "original": "90° ひねります。",
+          "translated": "Twist 90°.",
+          "bounds": {
+            "x": 0.7734,
+            "y": 0.1046,
+            "w": 0.0547,
+            "h": 0.0103
+          }
+        },
+        {
+          "original": "©石森プロ・東映",
+          "translated": "© Ishimori Productions, Toei",
+          "bounds": {
+            "x": 0.3925,
+            "y": 0.1354,
+            "w": 0.0599,
+            "h": 0.0103
+          }
+        },
+        {
+          "original": "→変身アクション音が\n鳴ります。",
+          "translated": "→The transformation action sound will be played.",
+          "bounds": {
+            "x": 0.5481,
+            "y": 0.1197,
+            "w": 0.0795,
+            "h": 0.0266
+          }
+        },
+        {
+          "original": "レンジャーキーを\n挿入します。",
+          "translated": "Insert the Ranger Key.",
+          "bounds": {
+            "x": 0.6575,
+            "y": 0.1185,
+            "w": 0.0611,
+            "h": 0.0278
+          }
+        },
+        {
+          "original": "クロスボーンが開き、\nひねり音と",
+          "translated": "The crossbones open,\nwith a twisting sound.",
+          "bounds": {
+            "x": 0.782,
+            "y": 0.1197,
+            "w": 0.074,
+            "h": 0.0248
+          }
+        },
+        {
+          "original": "→挿入音が鳴ります。",
+          "translated": "→ An insertion sound will be heard.",
+          "bounds": {
+            "x": 0.658,
+            "y": 0.1493,
+            "w": 0.0757,
+            "h": 0.0121
+          }
+        },
+        {
+          "original": "レンジャーキーを\n挿入した状態で\nエンターキーを押します。\nレンジャーキーに",
+          "translated": "With your Ranger Key inserted, press the Enter key.",
+          "bounds": {
+            "x": 0.891,
+            "y": 0.0895,
+            "w": 0.0898,
+            "h": 0.0562
+          }
+        },
+        {
+          "original": "【側画】",
+          "translated": "[Side picture]",
+          "bounds": {
+            "x": 0.5336,
+            "y": 0.1723,
+            "w": 0.0231,
+            "h": 0.0115
+          }
+        },
+        {
+          "original": "モバイレーツ",
+          "translated": "Mobirates",
+          "bounds": {
+            "x": 0.5909,
+            "y": 0.1759,
+            "w": 0.0338,
+            "h": 0.0079
+          }
+        },
+        {
+          "original": "レンジャーキーの変形方法",
+          "translated": "How to transform the Ranger Key",
+          "bounds": {
+            "x": 0.2877,
+            "y": 0.1904,
+            "w": 0.1608,
+            "h": 0.0187
+          }
+        },
+        {
+          "original": "而腕",
+          "translated": "arm",
+          "bounds": {
+            "x": 0.2997,
+            "y": 0.2316,
+            "w": 0.0171,
+            "h": 0.0109
+          }
+        },
+        {
+          "original": "脚",
+          "translated": "leg",
+          "bounds": {
+            "x": 0.4194,
+            "y": 0.2285,
+            "w": 0.009,
+            "h": 0.0109
+          }
+        },
+        {
+          "original": "セリフ\nボタン",
+          "translated": "Dialogue button",
+          "bounds": {
+            "x": 0.5417,
+            "y": 0.3398,
+            "w": 0.0162,
+            "h": 0.0163
+          }
+        },
+        {
+          "original": "ヴ",
+          "translated": "V",
+          "bounds": {
+            "x": 0.5507,
+            "y": 0.2243,
+            "w": 0.015,
+            "h": 0.0175
+          }
+        },
+        {
+          "original": "ワイン!",
+          "translated": "wine!",
+          "bounds": {
+            "x": 0.5643,
+            "y": 0.2509,
+            "w": 0.0526,
+            "h": 0.0054
+          }
+        },
+        {
+          "original": "レンジャーキー\n插入口",
+          "translated": "Ranger Key Entrance",
+          "bounds": {
+            "x": 0.6986,
+            "y": 0.2479,
+            "w": 0.0372,
+            "h": 0.0187
+          }
+        },
+        {
+          "original": "カレッド!",
+          "translated": "Kared!",
+          "bounds": {
+            "x": 0.7743,
+            "y": 0.2642,
+            "w": 0.0748,
+            "h": 0.0163
+          }
+        },
+        {
+          "original": "レンジャーキー",
+          "translated": "Ranger Key",
+          "bounds": {
+            "x": 0.7029,
+            "y": 0.3065,
+            "w": 0.0372,
+            "h": 0.0085
+          }
+        },
+        {
+          "original": "伝説の赤の戦士\nアカレッド!",
+          "translated": "The legendary red warrior Akared!",
+          "bounds": {
+            "x": 0.8696,
+            "y": 0.2358,
+            "w": 0.1047,
+            "h": 0.0411
+          }
+        },
+        {
+          "original": "レンジャーキーに\n応じた音声が鳴ります。",
+          "translated": "A sound will be played depending on the Ranger Key.",
+          "bounds": {
+            "x": 0.7815,
+            "y": 0.1499,
+            "w": 0.0782,
+            "h": 0.0272
+          }
+        },
+        {
+          "original": "応じた音声が鳴ります。",
+          "translated": "The corresponding sound will be heard.",
+          "bounds": {
+            "x": 0.8991,
+            "y": 0.1505,
+            "w": 0.0787,
+            "h": 0.0109
+          }
+        },
+        {
+          "original": "クロス\nボーン",
+          "translated": "Crossbone",
+          "bounds": {
+            "x": 0.7542,
+            "y": 0.1747,
+            "w": 0.0167,
+            "h": 0.0157
+          }
+        },
+        {
+          "original": "・レッドフラッシュ・レッドマスク・レッドファルコン",
+          "translated": "・Red Flash ・Red Mask ・Red Falcon",
+          "bounds": {
+            "x": 0.0381,
+            "y": 0.4027,
+            "w": 0.2018,
+            "h": 0.0127
+          }
+        },
+        {
+          "original": "・レッドターボ・ファイブレッド・レッドホーク",
+          "translated": "・Red Turbo ・Five Red ・Red Hawk",
+          "bounds": {
+            "x": 0.0504,
+            "y": 0.4274,
+            "w": 0.1761,
+            "h": 0.0127
+          }
+        },
+        {
+          "original": "ボタン",
+          "translated": "button",
+          "bounds": {
+            "x": 0.3472,
+            "y": 0.4359,
+            "w": 0.0222,
+            "h": 0.0097
+          }
+        },
+        {
+          "original": "・ティラノレンジャー・リュウレンジャー",
+          "translated": "・Tyranno Ranger ・Ryu Ranger",
+          "bounds": {
+            "x": 0.0633,
+            "y": 0.4522,
+            "w": 0.1522,
+            "h": 0.0127
+          }
+        },
+        {
+          "original": "ーエンターキー",
+          "translated": "-Enter key",
+          "bounds": {
+            "x": 0.9461,
+            "y": 0.3694,
+            "w": 0.0308,
+            "h": 0.0073
+          }
+        },
+        {
+          "original": "特殊BGM遊び",
+          "translated": "Special BGM play",
+          "bounds": {
+            "x": 0.5477,
+            "y": 0.3978,
+            "w": 0.1,
+            "h": 0.0212
+          }
+        },
+        {
+          "original": "※アカレッドキーを例に説明します。",
+          "translated": "*We will use the Aka Red Key as an example.",
+          "bounds": {
+            "x": 0.6717,
+            "y": 0.3978,
+            "w": 0.1013,
+            "h": 0.0085
+          }
+        },
+        {
+          "original": "※別売りのモバイレーツ-MEMORIAL EDITION- を使用し、 「通常身モード」の状態で行います。",
+          "translated": "*This is done using the separately sold Mobirates -MEMORIAL EDITION- in \"normal mode.\"",
+          "bounds": {
+            "x": 0.6708,
+            "y": 0.4105,
+            "w": 0.2847,
+            "h": 0.0091
+          }
+        },
+        {
+          "original": "レンジャーキー挿入口に\nレンジャーキーを挿入します。\n→挿入音が鳴ります。",
+          "translated": "Insert your Ranger Key into the Ranger Key slot. \n→ An insertion sound will play.",
+          "bounds": {
+            "x": 0.5481,
+            "y": 0.448,
+            "w": 0.1047,
+            "h": 0.0417
+          }
+        },
+        {
+          "original": "レンジャーキーを90° ひねります。\n→クロスボーンが開き、 ひねり音と\nレンジャーキーに応じた\n音声が鳴ります。",
+          "translated": "Twist the Ranger Key 90 degrees. \n-> The crossbones will open, and you will hear a twisting sound and a voiceover corresponding to the Ranger Key.",
+          "bounds": {
+            "x": 0.6892,
+            "y": 0.448,
+            "w": 0.1218,
+            "h": 0.0568
+          }
+        },
+        {
+          "original": "BGMボタンを2回長押しします。\n→挿入されているレンジャーキーに\n応じた「スーパー戦隊ヒーロー\nゲッター」が鳴ります。",
+          "translated": "Press and hold the BGM button twice. \n→ The \"Super Sentai Hero Getter\" song corresponding to the inserted Ranger Key will play.",
+          "bounds": {
+            "x": 0.8478,
+            "y": 0.4492,
+            "w": 0.1261,
+            "h": 0.0562
+          }
+        },
+        {
+          "original": "キーモード",
+          "translated": "Key Mode",
+          "bounds": {
+            "x": 0.3942,
+            "y": 0.5151,
+            "w": 0.0436,
+            "h": 0.0121
+          }
+        },
+        {
+          "original": "・ニンジャレッド オーレッド・レッドレーサー\n・メガレッド・ギンガレッド・ゴーレッド\nタイムレッド・ガオレッド・ハリケンレッド",
+          "translated": "Ninja Red Oh Red Red Racer\nMega Red Ginga Red Go Red\nTime Red Gao Red Hurricane Red",
+          "bounds": {
+            "x": 0.0496,
+            "y": 0.4782,
+            "w": 0.1783,
+            "h": 0.0629
+          }
+        },
+        {
+          "original": "・アバレッド・デカレッド・マジレッド・ボウケンレッド\nゲキレッド・ゴーオンレッド・シンケンレッド",
+          "translated": "・AvaRed ・DekaRed ・MagiRed ・BoukenRed ・GekiRed ・Go-OnRed ・ShinkenRed",
+          "bounds": {
+            "x": 0.0351,
+            "y": 0.5538,
+            "w": 0.2074,
+            "h": 0.0375
+          }
+        },
+        {
+          "original": "・ゴセイレッド・アカレッド)",
+          "translated": "・Gosei Red ・Aka Red)",
+          "bounds": {
+            "x": 0.0872,
+            "y": 0.6034,
+            "w": 0.1052,
+            "h": 0.0133
+          }
+        },
+        {
+          "original": "レンジャーモード",
+          "translated": "Ranger Mode",
+          "bounds": {
+            "x": 0.2852,
+            "y": 0.5139,
+            "w": 0.0658,
+            "h": 0.0133
+          }
+        },
+        {
+          "original": "側面のボタンを押すことで、変形することが\nできます。",
+          "translated": "You can transform it by pressing the button on the side.",
+          "bounds": {
+            "x": 0.2886,
+            "y": 0.5441,
+            "w": 0.1552,
+            "h": 0.0266
+          }
+        },
+        {
+          "original": "① 両腕を上げます。\n② 側面のボタンを押します。\n※梱包時はキーモードの状態です。\n両腕と脚を展開してから遊んでください。",
+          "translated": "1. Raise both arms.\n2. Press the button on the side.\n*The figure is in key mode when packed.\nPlease unfold the arms and legs before playing.",
+          "bounds": {
+            "x": 0.2809,
+            "y": 0.5852,
+            "w": 0.1556,
+            "h": 0.0568
+          }
+        },
+        {
+          "original": "【側面】",
+          "translated": "【side】",
+          "bounds": {
+            "x": 0.8474,
+            "y": 0.5266,
+            "w": 0.0235,
+            "h": 0.0121
+          }
+        },
+        {
+          "original": "アカレッド!",
+          "translated": "Aka Red!",
+          "bounds": {
+            "x": 0.705,
+            "y": 0.5828,
+            "w": 0.0847,
+            "h": 0.023
+          }
+        },
+        {
+          "original": "ボタン",
+          "translated": "button",
+          "bounds": {
+            "x": 0.8559,
+            "y": 0.6264,
+            "w": 0.0158,
+            "h": 0.0073
+          }
+        },
+        {
+          "original": "△注意 お買い上げのお客様へ 必ずお読みください。\n●本商品の対象年齢は15才以上です。 対象年齢未満のお子様には絶対に与えないでください。\n●小さな部品、電池がありますので、小さなお子様が誤って飲み込まないように注意してください。 窒息などの危険があります。\n●尖った部分や鋭い部分がありますので、取扱や保管場所に注意してください。思わぬケガをする恐れがあります。",
+          "translated": "△Caution: Please read before purchasing.\n●This product is intended for use by children 15 years of age and older. Never give it to children under this age.\n●This product contains small parts and batteries, so please take care not to let small children swallow them. There is a risk of choking.\n●This product contains sharp or pointed parts, so please handle and store with care. There is a risk of unexpected injury.",
+          "bounds": {
+            "x": 0.0333,
+            "y": 0.6898,
+            "w": 0.4062,
+            "h": 0.0629
+          }
+        },
+        {
+          "original": "《使用上の注意》",
+          "translated": "<<Precautions for use>>",
+          "bounds": {
+            "x": 0.0265,
+            "y": 0.7684,
+            "w": 0.0641,
+            "h": 0.0109
+          }
+        },
+        {
+          "original": "●本商品は精密に作られています。無理な力を加えたり、 落としたりすると破損する恐れがあります。\n●プラスチック梱包材は開封後はすぐに捨ててください。",
+          "translated": "●This product is precision manufactured. Applying excessive force to it or dropping it may cause damage. \n●Please discard the plastic packaging immediately after opening.",
+          "bounds": {
+            "x": 0.0321,
+            "y": 0.786,
+            "w": 0.3249,
+            "h": 0.0278
+          }
+        },
+        {
+          "original": "●本商品には塗装部分がありますので、保管の際には他のもの (樹脂製品や家具、 ソファー)と接触しないようにしてください。\n色が移る場合があります。\n■可動部分・取付部分を無理な方向に強く引っ張ったり、曲げたりしないでください。",
+          "translated": "●This product has painted parts, so when storing it, please avoid contact with other items (resin products, furniture, sofas).\nThe color may transfer.\n■Do not pull or bend the movable or attached parts with excessive force in any direction.",
+          "bounds": {
+            "x": 0.0333,
+            "y": 0.8192,
+            "w": 0.4327,
+            "h": 0.0453
+          }
+        },
+        {
+          "original": "お宝ナビゲート",
+          "translated": "Treasure Navigation",
+          "bounds": {
+            "x": 0.5485,
+            "y": 0.7382,
+            "w": 0.1069,
+            "h": 0.0212
+          }
+        },
+        {
+          "original": "レンジャーキー\n挿入口に\nレンジャーキーを\n挿入します。\n→挿入音が\n鳴ります。",
+          "translated": "Ranger Key\nInsert your Ranger Key into the slot.\n→ An insertion sound will play.",
+          "bounds": {
+            "x": 0.5481,
+            "y": 0.7884,
+            "w": 0.0616,
+            "h": 0.0877
+          }
+        },
+        {
+          "original": "合わせてご覧ください。",
+          "translated": "Please see also.",
+          "bounds": {
+            "x": 0.0735,
+            "y": 0.8875,
+            "w": 0.0898,
+            "h": 0.0121
+          }
+        },
+        {
+          "original": "モバイレーツ -MEMORIAL EDITION- のWEB取説は、コチラから!!",
+          "translated": "Click here for the Mobirates -MEMORIAL EDITION- web instruction manual!!",
+          "bounds": {
+            "x": 0.074,
+            "y": 0.9069,
+            "w": 0.2903,
+            "h": 0.0127
+          }
+        },
+        {
+          "original": "https://toy.bandai.co.jp/manuals/pdf.php?id=2588450",
+          "translated": "https://toy.bandai.co.jp/manuals/pdf.php?id=2588450",
+          "bounds": {
+            "x": 0.1548,
+            "y": 0.9335,
+            "w": 0.1903,
+            "h": 0.0115
+          }
+        },
+        {
+          "original": "●画像はイメージです。",
+          "translated": "●The image is for illustrative purposes only.",
+          "bounds": {
+            "x": 0.0274,
+            "y": 0.9522,
+            "w": 0.0594,
+            "h": 0.0091
+          }
+        },
+        {
+          "original": "※アカレッドキーを例に説明します。",
+          "translated": "*We will use the Aka Red Key as an example.",
+          "bounds": {
+            "x": 0.6708,
+            "y": 0.7376,
+            "w": 0.1022,
+            "h": 0.0091
+          }
+        },
+        {
+          "original": "※別売りのモバイレーツ-MEMORIAL EDITION- を使用し、 「お宝ナビゲート」の状態で行います。",
+          "translated": "*This is done using the separately sold Mobirates -MEMORIAL EDITION- in \"Treasure Navigation\" mode.",
+          "bounds": {
+            "x": 0.6708,
+            "y": 0.7509,
+            "w": 0.2835,
+            "h": 0.0091
+          }
+        },
+        {
+          "original": "レンジャーキーを\n90° ひねります。",
+          "translated": "Twist the Ranger Key 90 degrees.",
+          "bounds": {
+            "x": 0.749,
+            "y": 0.7878,
+            "w": 0.0616,
+            "h": 0.0284
+          }
+        },
+        {
+          "original": "クロスボーンが開き、ひねり音と\n「レッツお宝ナビゲート!」が鳴り、",
+          "translated": "The crossbone opens, making a twisting sound and the words \"Let's navigate the treasure!\" ringing out.",
+          "bounds": {
+            "x": 0.7567,
+            "y": 0.8186,
+            "w": 0.1214,
+            "h": 0.0272
+          }
+        },
+        {
+          "original": "挿入されている\nレンジャーキーに応じた\n音声が鳴ります。",
+          "translated": "A sound will be played depending on the Ranger Key inserted.",
+          "bounds": {
+            "x": 0.7567,
+            "y": 0.8489,
+            "w": 0.0872,
+            "h": 0.0423
+          }
+        },
+        {
+          "original": "赤き海賊団の\nキャプテンは\nいづこに~?",
+          "translated": "Where is the captain of the Red Pirates?",
+          "bounds": {
+            "x": 0.8046,
+            "y": 0.9033,
+            "w": 0.0812,
+            "h": 0.052
+          }
+        }
+      ]
+    }
+  ]
+}

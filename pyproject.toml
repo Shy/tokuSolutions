@@ -1,0 +1,21 @@
+[project]
+name = "toy-translator"
+version = "0.1.0"
+description = "OCR and translation system for Japanese toy instruction manuals using Google Cloud Document AI and Temporal"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "click>=8.3.1",
+    "flask>=3.1.2",
+    "google-cloud-documentai>=3.7.0",
+    "google-cloud-translate>=3.23.0",
+    "pillow>=12.0.0",
+    "pymupdf>=1.26.6",
+    "python-dotenv>=1.2.1",
+    "temporalio>=1.20.0",
+]
+
+[dependency-groups]
+dev = [
+    "black>=25.11.0",
+]

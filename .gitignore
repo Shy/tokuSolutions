@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Environment and secrets
+.env
+*.json
+!package.json
+!output/**/translations.json
+
+# PDFs (source files)
+Documents/*.pdf
+
+# OS
+.DS_Store

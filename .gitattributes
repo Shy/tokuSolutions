@@ -1,0 +1,8 @@
+# GitHub linguist configuration
+*.py linguist-language=Python
+*.md linguist-documentation
+
+# GitHub Pages assets
+output/** linguist-vendored
+output/**/*.webp binary
+output/**/*.html linguist-vendored
