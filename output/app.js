@@ -77,15 +77,17 @@ function renderManualList(filteredManuals) {
         const card = document.createElement('div');
         card.className = 'card';
 
+        const displayName = manual.name.replace(/-/g, ' ');
+
         const sourceLink = manual.source_url
             ? `<a href="${manual.source_url}" target="_blank" onclick="event.stopPropagation()">📄 Original</a>`
             : '';
 
         card.innerHTML = `
             <div class="card-link">
-                <img src="${manual.thumbnail}" alt="${manual.name}" class="thumbnail" loading="lazy">
+                <img src="${manual.thumbnail}" alt="${displayName}" class="thumbnail" loading="lazy">
                 <div class="card-content">
-                    <div class="card-title">${manual.name}</div>
+                    <div class="card-title">${displayName}</div>
                     <div class="card-meta">
                         <span class="badge">${manual.pages} pages</span>
                         <span class="badge">${manual.blocks} blocks</span>
