@@ -14,6 +14,7 @@ wheels/
 *.json
 !package.json
 !output/**/translations.json
+!output/manifest.json
 
 # PDFs (source files)
 Documents/*.pdf
