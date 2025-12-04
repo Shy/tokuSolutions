@@ -6,8 +6,8 @@ OCR and translation system for Japanese toy instruction manuals using Google Clo
 
 - Extracts text blocks with bounding boxes from PDF manuals using Document AI
 - Translates Japanese text to English using Google Translate API
-- Generates HTML viewer with original and translated text overlays
-- Produces translated PDF output
+- Generates interactive HTML viewer with side-by-side original and translated text
+- Creates static site with searchable index (GitHub Pages ready)
 
 ## Prerequisites
 
@@ -30,9 +30,9 @@ OCR and translation system for Japanese toy instruction manuals using Google Clo
    # Edit .env with your Google Cloud project details
    ```
 
-3. **Update credentials path** in `docai_activities.py:26`
-   ```python
-   CREDENTIALS_PATH = "/path/to/your/service-account-key.json"
+3. **Add credentials path to .env**
+   ```bash
+   CREDENTIALS_PATH=/path/to/your/service-account-key.json
    ```
 
 4. **Start Temporal server** (in separate terminal)
@@ -66,9 +66,6 @@ uv run python tokuSolutions.py add-url "CSM-Fang-Memory" "https://toy.bandai.co.
 
 # Regenerate main index
 uv run python tokuSolutions.py reindex
-
-# Manual worker management (optional)
-uv run python tokuSolutions.py worker -c 3        # Keep workers running
 
 # Get help
 uv run python tokuSolutions.py --help

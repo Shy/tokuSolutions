@@ -16,6 +16,8 @@ import fitz  # pymupdf
 from PIL import Image, ImageDraw, ImageFont
 import io
 
+from html_template import generate_manual_viewer_html, generate_main_index_html
+
 load_dotenv()
 
 # Config from environment
@@ -23,11 +25,16 @@ PROJECT_ID = os.getenv("ProjectID")
 DOCAI_LOCATION = os.getenv("Location", "us")
 DOCAI_PROCESSOR_ID = os.getenv("ProcessorID")
 TRANSLATE_LOCATION = "us-central1"
-CREDENTIALS_PATH = "/Users/shy/Documents/Temporal/tokuSolutions/macro-nuance-466220-c0-d2d158132650.json"
+CREDENTIALS_PATH = os.getenv("CREDENTIALS_PATH")
 
 
 def get_credentials():
     """Load Google Cloud credentials."""
+    if not CREDENTIALS_PATH:
+        raise ValueError(
+            "CREDENTIALS_PATH environment variable not set. "
+            "Please add it to your .env file."
+        )
     return service_account.Credentials.from_service_account_file(CREDENTIALS_PATH)
 
 
@@ -551,14 +558,14 @@ async def generate_site_activity(
                     "image": f"pages/page-{page_num}.webp",
                     "blocks": [
                         {
-                            "original": b["original"],
-                            "translated": b["translated"],
-                            "bounds": {
-                                "x": round(b["x"], 4),
-                                "y": round(b["y"], 4),
-                                "w": round(b["width"], 4),
-                                "h": round(b["height"], 4),
-                            },
+                            "text": b["original"],
+                            "translation": b["translated"],
+                            "bbox": [
+                                round(b["x"], 4),
+                                round(b["y"], 4),
+                                round(b["width"], 4),
+                                round(b["height"], 4),
+                            ],
                         }
                         for b in page_blocks
                     ],
@@ -567,12 +574,19 @@ async def generate_site_activity(
 
         doc.close()
 
-        # Write translations.json with cleaner structure
+        # Write translations.json with enhanced metadata
         json_data = {
             "meta": {
+                "manual_name": output_path.name,
                 "source": str(Path(original_pdf).name),
                 "source_lang": source_lang,
                 "target_lang": target_lang,
+                "source_url": "",  # Can be added later with add-url command
+                "pages": len(pages_data),
+                "blocks": len(translated_blocks),
+                "thumbnail": (
+                    pages_data[0]["image"] if pages_data else "pages/page-0.webp"
+                ),
             },
             "pages": pages_data,
         }
@@ -580,21 +594,18 @@ async def generate_site_activity(
         with open(json_path, "w", encoding="utf-8") as f:
             json.dump(json_data, f, ensure_ascii=False, indent=2)
 
-        # Generate HTML viewer
-        html_path = output_path / "index.html"
-        html_content = _generate_html_viewer(json_data)
-        with open(html_path, "w", encoding="utf-8") as f:
-            f.write(html_content)
-
         # Regenerate main index for all manuals
         _generate_main_index(output_path.parent)
+
+        # Note: Per-manual HTML no longer generated
+        # Use viewer.html?manual=NAME to view any manual
 
         activity.logger.info(f"Static site generated: {output_dir}")
 
         return SiteOutput(
             output_dir=str(output_path),
             json_path=str(json_path),
-            html_path=str(html_path),
+            html_path=f"viewer.html?manual={output_path.name}",  # Link to dynamic viewer
             pdf_path="",  # No longer generating PDFs
             page_count=page_count,
             block_count=len(translated_blocks),
@@ -616,7 +627,7 @@ async def generate_site_activity(
 
 
 def _generate_main_index(output_root: Path):
-    """Generate the main index.html for all translated manuals."""
+    """Generate the main index.html and manifest.json using external template."""
     manuals = []
 
     # Scan output directory for manual folders
@@ -640,26 +651,49 @@ def _generate_main_index(output_root: Path):
             # Get first page image for thumbnail
             thumbnail = pages[0]["image"] if pages else "pages/page-0.webp"
 
-            manuals.append(
-                {
-                    "name": folder.name,
-                    "source": meta.get("source", folder.name),
-                    "pages": len(pages),
-                    "blocks": sum(len(p.get("blocks", [])) for p in pages),
-                    "thumbnail": f"{folder.name}/{thumbnail}",
-                    "url": f"{folder.name}/index.html",
-                    "source_url": meta.get("source_url", ""),
-                }
-            )
+            manual_info = {
+                "name": folder.name,
+                "source": meta.get("source", folder.name),
+                "pages": len(pages),
+                "blocks": sum(len(p.get("blocks", [])) for p in pages),
+                "thumbnail": f"{folder.name}/{thumbnail}",
+                "source_url": meta.get("source_url", ""),
+            }
+            manuals.append(manual_info)
         except Exception as e:
             print(f"Warning: Could not read {json_path}: {e}")
             continue
 
-    # Generate manuals data as JSON for client-side filtering
-    manuals_json = json.dumps(manuals)
+    # Generate HTML using template
+    index_html = generate_main_index_html(manuals)
 
-    # Generate improved index HTML with search
-    index_html = f"""<!DOCTYPE html>
+    # Write HTML file
+    index_path = output_root / "index.html"
+    with open(index_path, "w", encoding="utf-8") as f:
+        f.write(index_html)
+
+    # Write manifest.json for fast loading
+    manifest_path = output_root / "manifest.json"
+    with open(manifest_path, "w", encoding="utf-8") as f:
+        json.dump({"manuals": manuals}, f, ensure_ascii=False, indent=2)
+
+    print(f"Main index generated: {index_path}")
+    print(f"Manifest generated: {manifest_path}")
+
+
+def _generate_html_viewer(data: dict) -> str:
+    """Generate an interactive HTML viewer using external template."""
+    title = data.get("meta", {}).get("source", "Translated Document")
+    source_url = data.get("meta", {}).get("source_url", "")
+    return generate_manual_viewer_html(title, source_url)
+
+
+def _generate_html_viewer_old(data: dict) -> str:
+    """OLD VERSION - Generate an interactive HTML viewer with split view."""
+    title = data.get("meta", {}).get("source", "Translated Document")
+    source_url = data.get("meta", {}).get("source_url", "")
+
+    return f"""<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">

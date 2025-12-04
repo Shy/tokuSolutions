@@ -61,7 +61,16 @@ def translate(pdf_path, source_lang, target_lang, workers):
         time.sleep(2)
 
         async def run_translation():
-            client = await Client.connect("localhost:7233")
+            try:
+                client = await Client.connect("localhost:7233")
+            except Exception as e:
+                click.secho(
+                    "✗ Failed to connect to Temporal server", fg="red", bold=True
+                )
+                click.echo(f"  Error: {e}")
+                click.echo("\nMake sure Temporal is running:")
+                click.echo("  temporal server start-dev")
+                sys.exit(1)
 
             input_data = DocAITranslateInput(
                 pdf_path=pdf_path,
