@@ -26,31 +26,24 @@ function navigate(view, manual = null) {
 // Load manual list from manifest.json
 async function loadManualList() {
     const loadingIndicator = document.getElementById('loadingIndicator');
-    console.log('loadManualList called, loadingIndicator:', loadingIndicator);
 
     try {
         // Load manifest.json - single fast request
         const response = await fetch('manifest.json');
-        console.log('manifest.json fetch response:', response.ok);
         if (!response.ok) {
             throw new Error('Failed to load manifest.json');
         }
 
         const data = await response.json();
         manuals = data.manuals || [];
-        console.log('Loaded', manuals.length, 'manuals from manifest');
         renderManualList(manuals);
     } catch (err) {
         console.error('Failed to load manual list:', err);
-        document.getElementById('manualsGrid').innerHTML = '<p style="padding: 2rem; color: red;">Failed to load manuals. Make sure manifest.json exists.</p>';
+        document.getElementById('manualsGrid').innerHTML = '<p style="padding: 2rem; color: red;">Failed to load manuals.</p>';
     } finally {
         // Always hide loading indicator
-        console.log('Hiding loading indicator');
         if (loadingIndicator) {
             loadingIndicator.classList.add('hidden');
-            console.log('Loading indicator hidden');
-        } else {
-            console.warn('Loading indicator element not found');
         }
     }
 }
