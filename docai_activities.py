@@ -627,7 +627,11 @@ async def generate_site_activity(
 
 
 def _generate_main_index(output_root: Path):
-    """Generate the main index.html and manifest.json using external template."""
+    """Generate manifest.json from all translated manuals.
+
+    Note: This only updates manifest.json. The SPA files (index.html, app.js, styles.css)
+    are maintained separately and should not be overwritten.
+    """
     manuals = []
 
     # Scan output directory for manual folders
@@ -664,21 +668,12 @@ def _generate_main_index(output_root: Path):
             print(f"Warning: Could not read {json_path}: {e}")
             continue
 
-    # Generate HTML using template
-    index_html = generate_main_index_html(manuals)
-
-    # Write HTML file
-    index_path = output_root / "index.html"
-    with open(index_path, "w", encoding="utf-8") as f:
-        f.write(index_html)
-
-    # Write manifest.json for fast loading
+    # Write manifest.json for fast loading (SPA reads this)
     manifest_path = output_root / "manifest.json"
     with open(manifest_path, "w", encoding="utf-8") as f:
         json.dump({"manuals": manuals}, f, ensure_ascii=False, indent=2)
 
-    print(f"Main index generated: {index_path}")
-    print(f"Manifest generated: {manifest_path}")
+    print(f"Updated manifest.json with {len(manuals)} manual(s)")
 
 
 def _generate_html_viewer(data: dict) -> str:

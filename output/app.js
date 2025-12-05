@@ -4,6 +4,9 @@ let manuals = [];
 let currentManual = null;
 let showOverlays = true;
 let showTranslations = true;
+let editMode = false;
+let editedBlocks = new Set(); // Track edited blocks as "pageIdx-blockIdx"
+let currentBboxEdit = null; // Track which block is being edited
 
 // Router
 function navigate(view, manual = null) {
@@ -113,6 +116,13 @@ function filterManuals(query) {
 
 // Load manual for viewing
 async function loadManual(manualName) {
+    // Reset edit mode state
+    editMode = false;
+    editedBlocks.clear();
+    document.getElementById('editModeBtn').textContent = '✏️ Edit Mode';
+    document.getElementById('editModeBtn').style.background = '';
+    document.getElementById('saveEditsBtn').classList.add('hidden');
+
     try {
         const response = await fetch(`${manualName}/translations.json`);
         if (!response.ok) throw new Error(`Failed to load ${manualName}/translations.json`);
@@ -192,6 +202,23 @@ function renderOverlays(pageDiv, page, pageIdx) {
             highlightBlock(pageIdx, blockIdx);
         });
 
+        overlay.addEventListener('dblclick', () => {
+            if (editMode) {
+                // Find the corresponding text item and focus its bbox editor
+                const textItem = document.querySelector(`.text-item[data-page-id="${pageIdx}"][data-block-id="${blockIdx}"]`);
+                if (textItem) {
+                    const bboxEditor = textItem.querySelector('.bbox-editor');
+                    const firstInput = bboxEditor.querySelector('input');
+                    if (firstInput) {
+                        // Scroll text item into view
+                        textItem.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                        // Focus the first input (this will trigger openBboxEditor)
+                        setTimeout(() => firstInput.focus(), 300);
+                    }
+                }
+            }
+        });
+
         overlay.addEventListener('mouseenter', () => {
             highlightBlock(pageIdx, blockIdx);
         });
@@ -202,6 +229,30 @@ function renderOverlays(pageDiv, page, pageIdx) {
 
         pageDiv.appendChild(overlay);
     });
+}
+
+// Open a bbox editor (closes all others, highlights the overlay)
+function openBboxEditor(pageIdx, blockIdx, bboxEditor) {
+    // Close all other bbox editors
+    document.querySelectorAll('.bbox-editor').forEach(editor => {
+        if (editor !== bboxEditor) {
+            editor.classList.remove('active');
+        }
+    });
+
+    // Remove highlight from all overlays
+    document.querySelectorAll('.overlay.bbox-editing').forEach(el => {
+        el.classList.remove('bbox-editing');
+    });
+
+    // Mark this editor as active
+    bboxEditor.classList.add('active');
+
+    // Highlight the overlay being edited
+    const overlay = document.querySelector(`.overlay[data-page-id="${pageIdx}"][data-block-id="${blockIdx}"]`);
+    if (overlay) {
+        overlay.classList.add('bbox-editing');
+    }
 }
 
 // Render text list
@@ -216,9 +267,15 @@ function renderTextList() {
             item.dataset.pageId = pageIdx;
             item.dataset.blockId = blockIdx;
 
+            // Create header with original text
+            const header = document.createElement('div');
+            header.className = 'text-item-header';
+
             const original = document.createElement('div');
             original.className = 'text-original';
             original.textContent = block.text;
+
+            header.appendChild(original);
 
             const translation = document.createElement('div');
             translation.className = 'text-translation';
@@ -227,21 +284,73 @@ function renderTextList() {
                 translation.style.display = 'none';
             }
 
-            item.appendChild(original);
+            // Add inline bbox editor
+            const bboxEditor = document.createElement('div');
+            bboxEditor.className = 'bbox-editor';
+            bboxEditor.innerHTML = `
+                <div class="bbox-editor-grid">
+                    <div class="bbox-field">
+                        <label>X</label>
+                        <input type="number" class="bbox-x" step="0.01" min="0" max="1" value="${block.bbox[0].toFixed(2)}">
+                    </div>
+                    <div class="bbox-field">
+                        <label>Y</label>
+                        <input type="number" class="bbox-y" step="0.01" min="0" max="1" value="${block.bbox[1].toFixed(2)}">
+                    </div>
+                    <div class="bbox-field">
+                        <label>Width</label>
+                        <input type="number" class="bbox-w" step="0.01" min="0" max="1" value="${block.bbox[2].toFixed(2)}">
+                    </div>
+                    <div class="bbox-field">
+                        <label>Height</label>
+                        <input type="number" class="bbox-h" step="0.01" min="0" max="1" value="${block.bbox[3].toFixed(2)}">
+                    </div>
+                </div>
+            `;
+
+            // Handle bbox editor interactions
+            bboxEditor.querySelectorAll('input').forEach(input => {
+                // Open this editor and close others when focused
+                input.addEventListener('focus', (e) => {
+                    e.stopPropagation();
+                    openBboxEditor(pageIdx, blockIdx, bboxEditor);
+                });
+
+                // Live update bbox on input
+                input.addEventListener('input', (e) => {
+                    e.stopPropagation();
+                    updateBboxLive(pageIdx, blockIdx, bboxEditor);
+                });
+            });
+
+            // Also open on click anywhere in the editor
+            bboxEditor.addEventListener('click', (e) => {
+                e.stopPropagation();
+                openBboxEditor(pageIdx, blockIdx, bboxEditor);
+            });
+
+            item.appendChild(header);
             item.appendChild(translation);
+            item.appendChild(bboxEditor);
 
             item.addEventListener('click', () => {
-                highlightBlock(pageIdx, blockIdx);
-                document.getElementById(`page-${pageIdx}`).scrollIntoView({ behavior: 'smooth', block: 'center' });
+                if (!editMode) {
+                    highlightBlock(pageIdx, blockIdx);
+                    document.getElementById(`page-${pageIdx}`).scrollIntoView({ behavior: 'smooth', block: 'center' });
+                }
             });
 
             item.addEventListener('mouseenter', () => {
-                highlightBlock(pageIdx, blockIdx);
-                document.getElementById(`page-${pageIdx}`).scrollIntoView({ behavior: 'smooth', block: 'center' });
+                if (!editMode) {
+                    highlightBlock(pageIdx, blockIdx);
+                    document.getElementById(`page-${pageIdx}`).scrollIntoView({ behavior: 'smooth', block: 'center' });
+                }
             });
 
             item.addEventListener('mouseleave', () => {
-                clearHighlights();
+                if (!editMode) {
+                    clearHighlights();
+                }
             });
 
             textList.appendChild(item);
@@ -251,6 +360,9 @@ function renderTextList() {
 
 // Highlight block
 function highlightBlock(pageIdx, blockIdx) {
+    // Don't highlight in edit mode
+    if (editMode) return;
+
     // Remove previous highlights
     document.querySelectorAll('.highlight').forEach(el => el.classList.remove('highlight'));
 
@@ -267,6 +379,9 @@ function highlightBlock(pageIdx, blockIdx) {
 
 // Clear all highlights
 function clearHighlights() {
+    // Don't clear highlights in edit mode (keep edited items yellow)
+    if (editMode) return;
+
     document.querySelectorAll('.highlight').forEach(el => el.classList.remove('highlight'));
 }
 
@@ -291,6 +406,186 @@ function loadPreferences() {
         showTranslations = savedTranslations === 'true';
         document.getElementById('toggleTranslation').checked = showTranslations;
     }
+}
+
+// Toggle edit mode
+function toggleEditMode() {
+    editMode = !editMode;
+    const editModeBtn = document.getElementById('editModeBtn');
+    const saveEditsBtn = document.getElementById('saveEditsBtn');
+
+    if (editMode) {
+        editModeBtn.textContent = '✓ Edit Mode';
+        editModeBtn.style.background = '#48bb78';
+
+        // Make all translation elements editable
+        document.querySelectorAll('.text-translation').forEach(el => {
+            el.contentEditable = 'plaintext-only';
+            el.style.cursor = 'text';
+            el.style.border = '1px dashed #cbd5e0';
+            el.style.padding = '2px';
+
+            // Listen for changes
+            el.addEventListener('input', handleTranslationEdit);
+            el.addEventListener('keydown', handleEditKeydown);
+            el.addEventListener('paste', handlePaste);
+        });
+
+        // Show all bbox editors
+        document.querySelectorAll('.bbox-editor').forEach(editor => {
+            editor.style.display = 'block';
+        });
+    } else {
+        editModeBtn.textContent = '✏️ Edit Mode';
+        editModeBtn.style.background = '';
+
+        // Make all translation elements non-editable
+        document.querySelectorAll('.text-translation').forEach(el => {
+            el.contentEditable = 'false';
+            el.style.cursor = '';
+            el.style.border = '';
+            el.style.padding = '';
+            el.removeEventListener('input', handleTranslationEdit);
+            el.removeEventListener('keydown', handleEditKeydown);
+            el.removeEventListener('paste', handlePaste);
+        });
+
+        // Hide all bbox editors and remove highlights
+        document.querySelectorAll('.bbox-editor').forEach(editor => {
+            editor.style.display = 'none';
+            editor.classList.remove('active');
+        });
+        document.querySelectorAll('.overlay.bbox-editing').forEach(el => {
+            el.classList.remove('bbox-editing');
+        });
+    }
+
+    // Show/hide save button if there are edits
+    if (editedBlocks.size > 0) {
+        saveEditsBtn.classList.remove('hidden');
+    } else {
+        saveEditsBtn.classList.add('hidden');
+    }
+}
+
+// Handle keyboard in edit mode
+function handleEditKeydown(e) {
+    // Enter without Shift = blur/save the field
+    if (e.key === 'Enter' && !e.shiftKey) {
+        e.preventDefault();
+        e.target.blur();
+    }
+    // Shift+Enter = allow new line (default behavior)
+}
+
+// Handle paste to strip formatting
+function handlePaste(e) {
+    e.preventDefault();
+    const text = (e.clipboardData || window.clipboardData).getData('text/plain');
+    document.execCommand('insertText', false, text);
+}
+
+// Handle translation edit
+function handleTranslationEdit(e) {
+    const textItem = e.target.closest('.text-item');
+    const pageIdx = parseInt(textItem.dataset.pageId);
+    const blockIdx = parseInt(textItem.dataset.blockId);
+    const blockKey = `${pageIdx}-${blockIdx}`;
+
+    // Mark as edited
+    editedBlocks.add(blockKey);
+    textItem.classList.add('edited');
+    textItem.style.background = '#fff8dc';
+
+    // Update the actual data
+    const newTranslation = e.target.textContent;
+    currentManual.pages[pageIdx].blocks[blockIdx].translation = newTranslation;
+
+    // Update overlay text and highlight it
+    const overlay = document.querySelector(`.overlay[data-page-id="${pageIdx}"][data-block-id="${blockIdx}"]`);
+    if (overlay) {
+        if (showTranslations) {
+            overlay.textContent = newTranslation;
+        }
+
+        // Highlight the overlay being edited
+        document.querySelectorAll('.overlay.bbox-editing').forEach(el => {
+            el.classList.remove('bbox-editing');
+        });
+        overlay.classList.add('bbox-editing');
+
+        // Also deactivate any active bbox editors
+        document.querySelectorAll('.bbox-editor.active').forEach(editor => {
+            editor.classList.remove('active');
+        });
+    }
+
+    // Show save button
+    document.getElementById('saveEditsBtn').classList.remove('hidden');
+}
+
+// Live update bbox from inline editor
+function updateBboxLive(pageIdx, blockIdx, bboxEditor) {
+    const blockKey = `${pageIdx}-${blockIdx}`;
+
+    // Get new values from inputs
+    const x = parseFloat(bboxEditor.querySelector('.bbox-x').value);
+    const y = parseFloat(bboxEditor.querySelector('.bbox-y').value);
+    const w = parseFloat(bboxEditor.querySelector('.bbox-w').value);
+    const h = parseFloat(bboxEditor.querySelector('.bbox-h').value);
+
+    // Validate
+    if (isNaN(x) || isNaN(y) || isNaN(w) || isNaN(h)) {
+        return; // Skip invalid values
+    }
+
+    // Clamp values to 0-1 range
+    const clampedX = Math.max(0, Math.min(1, x));
+    const clampedY = Math.max(0, Math.min(1, y));
+    const clampedW = Math.max(0, Math.min(1, w));
+    const clampedH = Math.max(0, Math.min(1, h));
+
+    // Update the data
+    currentManual.pages[pageIdx].blocks[blockIdx].bbox = [clampedX, clampedY, clampedW, clampedH];
+
+    // Mark as edited
+    editedBlocks.add(blockKey);
+
+    // Update overlay position in real-time
+    const overlay = document.querySelector(`.overlay[data-page-id="${pageIdx}"][data-block-id="${blockIdx}"]`);
+    if (overlay) {
+        overlay.style.left = (clampedX * 100) + '%';
+        overlay.style.top = (clampedY * 100) + '%';
+        overlay.style.width = (clampedW * 100) + '%';
+        overlay.style.height = (clampedH * 100) + '%';
+    }
+
+    // Show save button
+    document.getElementById('saveEditsBtn').classList.remove('hidden');
+}
+
+// Download edited translations as JSON
+function downloadEdits() {
+    if (editedBlocks.size === 0) {
+        alert('No edits to save');
+        return;
+    }
+
+    // Create a clean copy of the manual data
+    const exportData = JSON.stringify(currentManual, null, 2);
+
+    // Create download
+    const blob = new Blob([exportData], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = `${currentManual.meta.name}-edited.json`;
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    URL.revokeObjectURL(url);
+
+    alert(`Downloaded ${currentManual.meta.name}-edited.json with ${editedBlocks.size} edited blocks`);
 }
 
 // Event listeners
@@ -343,6 +638,12 @@ document.addEventListener('DOMContentLoaded', () => {
             el.textContent = showTranslations ? block.translation : block.text;
         });
     });
+
+    // Edit mode toggle
+    document.getElementById('editModeBtn').addEventListener('click', toggleEditMode);
+
+    // Save edits button
+    document.getElementById('saveEditsBtn').addEventListener('click', downloadEdits);
 
     // Handle browser back/forward
     window.addEventListener('popstate', (event) => {
