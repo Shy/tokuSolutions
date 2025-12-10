@@ -98,14 +98,6 @@ jobs:
           print(f'✅ Generated meta.json with {len(manuals)} manuals, {len(tag_definitions)} tag types')
           "
 
-      - name: Cache output directory
-        uses: actions/cache@v4
-        with:
-          path: output
-          key: pages-output-${{ github.sha }}
-          restore-keys: |
-            pages-output-
-
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
