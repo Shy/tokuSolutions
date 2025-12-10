@@ -7,7 +7,43 @@
     "manual_name": "CSM-Den-O-Belt-v2",
     "pages": 24,
     "blocks": 1055,
-    "thumbnail": "pages/page-0.webp"
+    "thumbnail": "pages/page-0.webp",
+    "tags": [
+      "CSM",
+      "Kamen Rider"
+    ],
+    "tag_definitions": {
+      "DX": {
+        "name": "DX",
+        "description": "Deluxe toys",
+        "color": "#3b82f6"
+      },
+      "Memorial": {
+        "name": "Memorial",
+        "description": "Memorial Edition",
+        "color": "#8b5cf6"
+      },
+      "CSM": {
+        "name": "CSM",
+        "description": "Complete Selection Modification",
+        "color": "#ef4444"
+      },
+      "Kamen Rider": {
+        "name": "Kamen Rider",
+        "description": "Kamen Rider series",
+        "color": "#10b981"
+      },
+      "Ultraman": {
+        "name": "Ultraman",
+        "description": "Ultraman series",
+        "color": "#f59e0b"
+      },
+      "Super Sentai": {
+        "name": "Super Sentai",
+        "description": "Super Sentai series",
+        "color": "#ec4899"
+      }
+    }
   },
   "pages": [
     {

@@ -187,20 +187,19 @@ h1 {
 
 .search-section {
     display: flex;
-    justify-content: center;
+    flex-direction: column;
     align-items: center;
-    gap: 1.5rem;
-    flex-wrap: wrap;
+    gap: 0.75rem;
 }
 
 .search-box {
-    flex: 0 1 400px;
-    min-width: 300px;
+    width: 100%;
+    max-width: 500px;
 }
 
 .search-box input {
     width: 100%;
-    padding: 0.75rem 1.25rem;
+    padding: 0.5rem 1rem;
     border: 2px solid #cbd5e0;
     border-radius: 8px;
     font-size: 1rem;
@@ -211,6 +210,37 @@ h1 {
     outline: none;
     border-color: #e94560;
     box-shadow: 0 0 0 3px rgba(233, 69, 96, 0.1);
+}
+
+.tag-filters {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.tag-filter {
+    padding: 0.4rem 0.8rem;
+    border: 2px solid var(--tag-color, #cbd5e0);
+    background: white;
+    color: var(--tag-color, #4a5568);
+    border-radius: 20px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.tag-filter:hover {
+    background: var(--tag-color, #cbd5e0);
+    color: white;
+    transform: translateY(-1px);
+}
+
+.tag-filter.active {
+    background: var(--tag-color, #cbd5e0);
+    color: white;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
 .stats {
@@ -262,6 +292,22 @@ h1 {
     margin-bottom: 0.5rem;
     color: #1a202c;
     line-height: 1.4;
+}
+
+.card-tags {
+    display: flex;
+    gap: 0.4rem;
+    margin-bottom: 0.5rem;
+    flex-wrap: wrap;
+}
+
+.card-tags .tag {
+    display: inline-block;
+    padding: 0.2rem 0.5rem;
+    border-radius: 12px;
+    font-size: 0.7rem;
+    font-weight: 600;
+    color: white;
 }
 
 .card-meta {

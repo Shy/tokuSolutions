@@ -627,12 +627,13 @@ async def generate_site_activity(
 
 
 def _generate_main_index(output_root: Path):
-    """Generate manifest.json from all translated manuals.
+    """Generate meta.json containing all site metadata (manuals list, tags, sitemap data).
 
-    Note: This only updates manifest.json. The SPA files (index.html, app.js, styles.css)
+    Note: This only updates meta.json. The SPA files (index.html, app.js, styles.css)
     are maintained separately and should not be overwritten.
     """
     manuals = []
+    tag_definitions = {}
 
     # Scan output directory for manual folders
     for folder in sorted(output_root.iterdir()):
@@ -663,17 +664,37 @@ def _generate_main_index(output_root: Path):
                 "thumbnail": f"{folder.name}/{thumbnail}",
                 "source_url": meta.get("source_url", ""),
             }
+
+            # Add tags if present
+            if "tags" in meta:
+                manual_info["tags"] = meta["tags"]
+
+            # Collect tag definitions (same for all manuals, just take first one)
+            if not tag_definitions and "tag_definitions" in meta:
+                tag_definitions = meta["tag_definitions"]
+
             manuals.append(manual_info)
         except Exception as e:
             print(f"Warning: Could not read {json_path}: {e}")
             continue
 
-    # Write manifest.json for fast loading (SPA reads this)
-    manifest_path = output_root / "manifest.json"
-    with open(manifest_path, "w", encoding="utf-8") as f:
-        json.dump({"manuals": manuals}, f, ensure_ascii=False, indent=2)
+    # Build meta.json with everything needed for site
+    meta_data = {
+        "manuals": manuals,
+        "tags": tag_definitions,
+        "stats": {
+            "total_manuals": len(manuals),
+            "total_pages": sum(m["pages"] for m in manuals),
+            "total_blocks": sum(m["blocks"] for m in manuals)
+        }
+    }
 
-    print(f"Updated manifest.json with {len(manuals)} manual(s)")
+    # Write meta.json for fast loading (SPA reads this once)
+    meta_path = output_root / "meta.json"
+    with open(meta_path, "w", encoding="utf-8") as f:
+        json.dump(meta_data, f, ensure_ascii=False, indent=2)
+
+    print(f"Updated meta.json with {len(manuals)} manual(s), {len(tag_definitions)} tag type(s)")
 
 
 def _generate_html_viewer(data: dict) -> str:

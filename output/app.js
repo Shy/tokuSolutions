@@ -1,6 +1,8 @@
 // Single Page Application for tokuSolutions
 
 let manuals = [];
+let tagsData = null;
+let selectedTags = new Set();
 let currentManual = null;
 let showOverlays = true;
 let showTranslations = true;
@@ -26,22 +28,29 @@ function navigate(view, manual = null) {
     }
 }
 
-// Load manual list from manifest.json
+// Load site metadata from meta.json (generated at build time)
 async function loadManualList() {
     const loadingIndicator = document.getElementById('loadingIndicator');
 
     try {
-        // Load manifest.json - single fast request
-        const response = await fetch('manifest.json');
+        // Load meta.json - single request with everything
+        const response = await fetch('meta.json');
         if (!response.ok) {
-            throw new Error('Failed to load manifest.json');
+            throw new Error('Failed to load meta.json');
         }
 
         const data = await response.json();
         manuals = data.manuals || [];
+
+        // Set up tags if present
+        if (data.tags) {
+            tagsData = { tags: data.tags };
+            renderTagFilters();
+        }
+
         renderManualList(manuals);
     } catch (err) {
-        console.error('Failed to load manual list:', err);
+        console.error('Failed to load site metadata:', err);
         document.getElementById('manualsGrid').innerHTML = '<p style="padding: 2rem; color: red;">Failed to load manuals.</p>';
     } finally {
         // Always hide loading indicator
@@ -49,6 +58,60 @@ async function loadManualList() {
             loadingIndicator.classList.add('hidden');
         }
     }
+}
+
+// Render tag filters
+function renderTagFilters() {
+    if (!tagsData) return;
+
+    const searchSection = document.querySelector('.search-section');
+    const tagFilters = document.createElement('div');
+    tagFilters.className = 'tag-filters';
+    tagFilters.id = 'tagFilters';
+
+    Object.entries(tagsData.tags).forEach(([tagId, tag]) => {
+        const tagButton = document.createElement('button');
+        tagButton.className = 'tag-filter';
+        tagButton.textContent = tag.name;
+        tagButton.style.setProperty('--tag-color', tag.color);
+        tagButton.onclick = () => toggleTagFilter(tagId);
+        tagFilters.appendChild(tagButton);
+    });
+
+    searchSection.appendChild(tagFilters);
+}
+
+// Toggle tag filter
+function toggleTagFilter(tagId) {
+    if (selectedTags.has(tagId)) {
+        selectedTags.delete(tagId);
+    } else {
+        selectedTags.add(tagId);
+    }
+
+    // Update button states
+    document.querySelectorAll('.tag-filter').forEach((btn, index) => {
+        const currentTagId = Object.keys(tagsData.tags)[index];
+        if (selectedTags.has(currentTagId)) {
+            btn.classList.add('active');
+        } else {
+            btn.classList.remove('active');
+        }
+    });
+
+    // Filter manuals
+    const searchValue = document.getElementById('searchInput').value;
+    const filtered = filterManuals(searchValue);
+    renderManualList(filtered);
+}
+
+// Get tags for a manual (tags are in manual.tags from meta.json)
+function getManualTags(manual) {
+    // If manual is a string (name), find the manual object
+    if (typeof manual === 'string') {
+        manual = manuals.find(m => m.name === manual);
+    }
+    return manual?.tags || [];
 }
 
 // Render manual list
@@ -75,6 +138,14 @@ function renderManualList(filteredManuals) {
 
         const displayName = manual.name.replace(/-/g, ' ');
 
+        // Get tags for this manual
+        const manualTags = getManualTags(manual);
+        const tagsHTML = manualTags.map(tagId => {
+            const tag = tagsData?.tags[tagId];
+            if (!tag) return '';
+            return `<span class="tag" style="background-color: ${tag.color}">${tag.name}</span>`;
+        }).join('');
+
         const sourceLink = manual.source_url
             ? `<a href="${manual.source_url}" target="_blank" onclick="event.stopPropagation()">📄 Original</a>`
             : '';
@@ -84,6 +155,7 @@ function renderManualList(filteredManuals) {
                 <img src="${manual.thumbnail}" alt="${displayName}" class="thumbnail" loading="lazy">
                 <div class="card-content">
                     <div class="card-title">${displayName}</div>
+                    ${tagsHTML ? `<div class="card-tags">${tagsHTML}</div>` : ''}
                     <div class="card-meta">
                         <span class="badge">${manual.pages} pages</span>
                         <span class="badge">${manual.blocks} blocks</span>
@@ -105,13 +177,27 @@ function renderManualList(filteredManuals) {
     statsDisplay.textContent = `${filteredManuals.length} manual${filteredManuals.length !== 1 ? 's' : ''}`;
 }
 
-// Search filter
+// Search and tag filter
 function filterManuals(query) {
     const lowerQuery = query.toLowerCase();
-    return manuals.filter(manual =>
-        manual.source.toLowerCase().includes(lowerQuery) ||
-        manual.name.toLowerCase().includes(lowerQuery)
-    );
+    return manuals.filter(manual => {
+        // Text search filter
+        const matchesSearch = !query ||
+            manual.source.toLowerCase().includes(lowerQuery) ||
+            manual.name.toLowerCase().includes(lowerQuery);
+
+        // Tag filter (if any tags selected)
+        if (selectedTags.size === 0) {
+            return matchesSearch;
+        }
+
+        const manualTags = getManualTags(manual.name);
+        const matchesTags = Array.from(selectedTags).every(selectedTag =>
+            manualTags.includes(selectedTag)
+        );
+
+        return matchesSearch && matchesTags;
+    });
 }
 
 // Load manual for viewing
