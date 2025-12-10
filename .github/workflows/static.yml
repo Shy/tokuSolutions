@@ -113,37 +113,34 @@ jobs:
       - name: Purge Cloudflare Cache
         if: success()
         run: |
-          # Get list of changed files
+          # Always purge core site files that affect functionality
+          URLS='"https://toku.solutions/index.html","https://toku.solutions/app.js","https://toku.solutions/styles.css","https://toku.solutions/meta.json"'
+
+          # Add any changed files in output/
           CHANGED_FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep '^output/' || echo "")
 
-          if [ -z "$CHANGED_FILES" ]; then
-            echo "No output files changed, skipping cache purge"
-            exit 0
-          fi
-
-          # Convert file paths to URLs
-          URLS=""
           while IFS= read -r file; do
             if [ ! -z "$file" ]; then
-              # Remove 'output/' prefix and construct URL
               URL_PATH="${file#output/}"
-              URLS="$URLS\"https://toku.solutions/$URL_PATH\","
+              URLS="$URLS,\"https://toku.solutions/$URL_PATH\""
             fi
           done <<< "$CHANGED_FILES"
 
-          # Remove trailing comma
-          URLS="${URLS%,}"
-
-          if [ -z "$URLS" ]; then
-            echo "No valid URLs to purge"
-            exit 0
-          fi
-
-          # Purge specific files from Cloudflare
-          echo "Purging Cloudflare cache for changed files..."
-          curl -X POST "https://api.cloudflare.com/client/v4/zones/${{ secrets.CLOUDFLARE_ZONE_ID }}/purge_cache" \
+          # Purge cache
+          echo "Purging Cloudflare cache for core files and changes..."
+          RESPONSE=$(curl -s -w "\n%{http_code}" -X POST "https://api.cloudflare.com/client/v4/zones/${{ secrets.CLOUDFLARE_ZONE_ID }}/purge_cache" \
             -H "Authorization: Bearer ${{ secrets.CLOUDFLARE_API_TOKEN }}" \
             -H "Content-Type: application/json" \
-            --data "{\"files\":[$URLS]}"
+            --data "{\"files\":[$URLS]}")
 
-          echo "✅ Cloudflare cache purged for changed files"
+          HTTP_CODE=$(echo "$RESPONSE" | tail -n1)
+          BODY=$(echo "$RESPONSE" | sed '$d')
+
+          echo "Response: $BODY"
+
+          if [ "$HTTP_CODE" -eq 200 ] && echo "$BODY" | grep -q '"success":true'; then
+            echo "✅ Cloudflare cache purged successfully"
+          else
+            echo "⚠️  Cloudflare purge response: HTTP $HTTP_CODE"
+            echo "This is non-fatal - deployment continues"
+          fi
