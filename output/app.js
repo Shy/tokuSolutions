@@ -353,7 +353,7 @@ function renderTextList() {
             item.dataset.pageId = pageIdx;
             item.dataset.blockId = blockIdx;
 
-            // Create header with original text
+            // Create header with original text and delete button
             const header = document.createElement('div');
             header.className = 'text-item-header';
 
@@ -361,7 +361,19 @@ function renderTextList() {
             original.className = 'text-original';
             original.textContent = block.text;
 
+            const deleteBtn = document.createElement('button');
+            deleteBtn.className = 'delete-btn hidden';
+            deleteBtn.textContent = '🗑️';
+            deleteBtn.title = 'Delete this text block';
+            deleteBtn.onclick = (e) => {
+                e.stopPropagation();
+                if (confirm('Delete this text block? This will remove it from the manual.')) {
+                    deleteTextBlock(pageIdx, blockIdx);
+                }
+            };
+
             header.appendChild(original);
+            header.appendChild(deleteBtn);
 
             const translation = document.createElement('div');
             translation.className = 'text-translation';
@@ -517,9 +529,12 @@ function toggleEditMode() {
             el.addEventListener('paste', handlePaste);
         });
 
-        // Show all bbox editors
+        // Show all bbox editors and delete buttons
         document.querySelectorAll('.bbox-editor').forEach(editor => {
             editor.style.display = 'block';
+        });
+        document.querySelectorAll('.delete-btn').forEach(btn => {
+            btn.classList.remove('hidden');
         });
     } else {
         editModeBtn.textContent = '✏️ Edit Mode';
@@ -536,10 +551,13 @@ function toggleEditMode() {
             el.removeEventListener('paste', handlePaste);
         });
 
-        // Hide all bbox editors and remove highlights
+        // Hide all bbox editors, delete buttons, and remove highlights
         document.querySelectorAll('.bbox-editor').forEach(editor => {
             editor.style.display = 'none';
             editor.classList.remove('active');
+        });
+        document.querySelectorAll('.delete-btn').forEach(btn => {
+            btn.classList.add('hidden');
         });
         document.querySelectorAll('.overlay.bbox-editing').forEach(el => {
             el.classList.remove('bbox-editing');
@@ -569,6 +587,45 @@ function handlePaste(e) {
     e.preventDefault();
     const text = (e.clipboardData || window.clipboardData).getData('text/plain');
     document.execCommand('insertText', false, text);
+}
+
+// Delete a text block
+function deleteTextBlock(pageIdx, blockIdx) {
+    // Remove from data
+    currentManual.pages[pageIdx].blocks.splice(blockIdx, 1);
+
+    // Mark as edited
+    const blockKey = `${pageIdx}-${blockIdx}`;
+    editedBlocks.add(blockKey);
+
+    // Re-render everything
+    renderPages(currentManual.meta.manual_name);
+    renderTextList();
+
+    // Show save button
+    document.getElementById('saveEditsBtn').classList.remove('hidden');
+
+    // Re-enable edit mode if it was on
+    if (editMode) {
+        // Re-apply edit mode styling after re-render
+        setTimeout(() => {
+            document.querySelectorAll('.text-translation').forEach(el => {
+                el.contentEditable = 'plaintext-only';
+                el.style.cursor = 'text';
+                el.style.border = '1px dashed #cbd5e0';
+                el.style.padding = '2px';
+                el.addEventListener('input', handleTranslationEdit);
+                el.addEventListener('keydown', handleEditKeydown);
+                el.addEventListener('paste', handlePaste);
+            });
+            document.querySelectorAll('.bbox-editor').forEach(editor => {
+                editor.style.display = 'block';
+            });
+            document.querySelectorAll('.delete-btn').forEach(btn => {
+                btn.classList.remove('hidden');
+            });
+        }, 100);
+    }
 }
 
 // Handle translation edit

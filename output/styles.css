@@ -521,6 +521,24 @@ footer {
     flex: 1;
 }
 
+.delete-btn {
+    font-size: 0.9rem;
+    padding: 0.15rem 0.4rem;
+    background: #fee;
+    color: #c53030;
+    border: 1px solid #fc8181;
+    border-radius: 3px;
+    cursor: pointer;
+    flex-shrink: 0;
+    line-height: 1;
+    transition: background 0.2s, color 0.2s;
+}
+
+.delete-btn:hover {
+    background: #fc8181;
+    color: white;
+}
+
 .text-translation {
     font-size: 0.8rem;
     color: #666;

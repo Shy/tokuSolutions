@@ -117,3 +117,41 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+      - name: Purge Cloudflare Cache
+        if: success()
+        run: |
+          # Get list of changed files
+          CHANGED_FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep '^output/' || echo "")
+
+          if [ -z "$CHANGED_FILES" ]; then
+            echo "No output files changed, skipping cache purge"
+            exit 0
+          fi
+
+          # Convert file paths to URLs
+          URLS=""
+          while IFS= read -r file; do
+            if [ ! -z "$file" ]; then
+              # Remove 'output/' prefix and construct URL
+              URL_PATH="${file#output/}"
+              URLS="$URLS\"https://toku.solutions/$URL_PATH\","
+            fi
+          done <<< "$CHANGED_FILES"
+
+          # Remove trailing comma
+          URLS="${URLS%,}"
+
+          if [ -z "$URLS" ]; then
+            echo "No valid URLs to purge"
+            exit 0
+          fi
+
+          # Purge specific files from Cloudflare
+          echo "Purging Cloudflare cache for changed files..."
+          curl -X POST "https://api.cloudflare.com/client/v4/zones/${{ secrets.CLOUDFLARE_ZONE_ID }}/purge_cache" \
+            -H "Authorization: Bearer ${{ secrets.CLOUDFLARE_API_TOKEN }}" \
+            -H "Content-Type: application/json" \
+            --data "{\"files\":[$URLS]}"
+
+          echo "✅ Cloudflare cache purged for changed files"
