@@ -16,7 +16,7 @@ import fitz  # pymupdf
 from PIL import Image, ImageDraw, ImageFont
 import io
 
-from html_template import generate_manual_viewer_html, generate_main_index_html
+from src.html_template import generate_manual_viewer_html, generate_main_index_html
 
 load_dotenv()
 
@@ -595,7 +595,9 @@ async def generate_site_activity(
             json.dump(json_data, f, ensure_ascii=False, indent=2)
 
         # Regenerate main index for all manuals
-        _generate_main_index(output_path.parent)
+        # manuals are in manuals/, meta.json goes to web/
+        manuals_root = Path("manuals")
+        _generate_main_index(manuals_root)
 
         # Note: Per-manual HTML no longer generated
         # Use viewer.html?manual=NAME to view any manual
@@ -689,12 +691,14 @@ def _generate_main_index(output_root: Path):
         }
     }
 
-    # Write meta.json for fast loading (SPA reads this once)
-    meta_path = output_root / "meta.json"
+    # Write meta.json to web/ for fast loading (SPA reads this once)
+    web_path = Path("web")
+    web_path.mkdir(exist_ok=True)
+    meta_path = web_path / "meta.json"
     with open(meta_path, "w", encoding="utf-8") as f:
         json.dump(meta_data, f, ensure_ascii=False, indent=2)
 
-    print(f"Updated meta.json with {len(manuals)} manual(s), {len(tag_definitions)} tag type(s)")
+    print(f"Updated web/meta.json with {len(manuals)} manual(s), {len(tag_definitions)} tag type(s)")
 
 
 def _generate_html_viewer(data: dict) -> str:

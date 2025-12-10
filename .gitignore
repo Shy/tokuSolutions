@@ -13,10 +13,20 @@ wheels/
 .env
 *.json
 !package.json
-!output/**/translations.json
+!manuals/**/translations.json
+!web/meta.json
+!web/tags.json
+!vitest.config.json
 
 # PDFs (source files)
 Documents/*.pdf
 
 # OS
 .DS_Store
+
+# Build artifacts
+_site/
+
+# Credentials
+credentials/*
+!credentials/README.md

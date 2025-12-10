@@ -7,7 +7,7 @@ from dataclasses import dataclass
 from temporalio import workflow
 
 with workflow.unsafe.imports_passed_through():
-    from docai_activities import (
+    from src.activities import (
         OCRResult,
         PageOCRResult,
         TextBlock,
@@ -165,7 +165,7 @@ class DocAITranslateWorkflow:
         if input.output_path:
             output_dir = input.output_path
         else:
-            output_dir = f"output/{input_path.stem}"
+            output_dir = f"manuals/{input_path.stem}"
 
         # Convert translated blocks to dicts
         translated_dict = [

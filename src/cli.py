@@ -17,7 +17,7 @@ from pathlib import Path
 import click
 from temporalio.client import Client
 
-from docai_workflow import DocAITranslateWorkflow, DocAITranslateInput
+from src.workflow import DocAITranslateWorkflow, DocAITranslateInput
 
 TASK_QUEUE = "pdf-translation"
 
@@ -49,7 +49,7 @@ def translate(pdf_path, source_lang, target_lang, workers):
         click.echo(f"Starting {workers} worker(s)...")
         for _ in range(workers):
             proc = subprocess.Popen(
-                [sys.executable, "worker.py"],
+                [sys.executable, "-m", "src.worker"],
                 stdout=subprocess.DEVNULL,
                 stderr=subprocess.DEVNULL,
             )
@@ -139,15 +139,15 @@ def add_url(manual_name, source_url):
       toku add-url "CSM-Fang-Memory" "https://toy.bandai.co.jp/manuals/pdf.php?id=123"
     """
     import json
-    from docai_activities import _generate_main_index
+    from src.activities import _generate_main_index
 
-    output_dir = Path("output")
-    json_path = output_dir / manual_name / "translations.json"
+    manuals_dir = Path("manuals")
+    json_path = manuals_dir / manual_name / "translations.json"
 
     if not json_path.exists():
         click.secho(f"✗ Error: {json_path} not found", fg="red")
         click.echo("\nAvailable manuals:")
-        for folder in sorted(output_dir.iterdir()):
+        for folder in sorted(manuals_dir.iterdir()):
             if folder.is_dir() and (folder / "translations.json").exists():
                 click.echo(f"  - {folder.name}")
         sys.exit(1)
@@ -168,25 +168,25 @@ def add_url(manual_name, source_url):
 
     # Regenerate main index
     click.echo("  Regenerating main index...")
-    _generate_main_index(output_dir)
+    _generate_main_index(manuals_dir)
     click.secho("✓ Done!", fg="green")
 
 
 @cli.command()
 def reindex():
     """Regenerate the main index from all translated manuals."""
-    from docai_activities import _generate_main_index
+    from src.activities import _generate_main_index
 
-    output_dir = Path("output")
+    manuals_dir = Path("manuals")
 
-    if not output_dir.exists():
-        click.secho("✗ Error: output/ directory not found", fg="red")
+    if not manuals_dir.exists():
+        click.secho("✗ Error: manuals/ directory not found", fg="red")
         sys.exit(1)
 
     click.echo("Regenerating main index...")
-    _generate_main_index(output_dir)
+    _generate_main_index(manuals_dir)
     click.secho("✓ Main index regenerated!", fg="green")
-    click.echo(f"  Location: {output_dir / 'index.html'}")
+    click.echo(f"  Location: web/index.html")
 
 
 @cli.command()
@@ -194,14 +194,14 @@ def list():
     """List all translated manuals."""
     import json
 
-    output_dir = Path("output")
+    manuals_dir = Path("manuals")
 
-    if not output_dir.exists():
-        click.secho("✗ Error: output/ directory not found", fg="red")
+    if not manuals_dir.exists():
+        click.secho("✗ Error: manuals/ directory not found", fg="red")
         sys.exit(1)
 
     manuals = []
-    for folder in sorted(output_dir.iterdir()):
+    for folder in sorted(manuals_dir.iterdir()):
         if not folder.is_dir():
             continue
 

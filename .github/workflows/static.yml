@@ -35,7 +35,7 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: '3.12'
 
       - name: Generate meta.json
         run: |
@@ -43,11 +43,12 @@ jobs:
           from pathlib import Path
           import json
 
-          output_root = Path('output')
+          manuals_root = Path('manuals')
+          web_root = Path('web')
           manuals = []
           tag_definitions = {}
 
-          for folder in sorted(output_root.iterdir()):
+          for folder in sorted(manuals_root.iterdir()):
               if not folder.is_dir():
                   continue
               json_path = folder / 'translations.json'
@@ -91,12 +92,18 @@ jobs:
               }
           }
 
-          meta_path = output_root / 'meta.json'
+          meta_path = web_root / 'meta.json'
           with open(meta_path, 'w', encoding='utf-8') as f:
               json.dump(meta_data, f, ensure_ascii=False, indent=2)
 
-          print(f'✅ Generated meta.json with {len(manuals)} manuals, {len(tag_definitions)} tag types')
+          print(f'✅ Generated web/meta.json with {len(manuals)} manuals, {len(tag_definitions)} tag types')
           "
+
+      - name: Setup deployment directory
+        run: |
+          mkdir -p _site
+          cp -r web/* _site/
+          cp -r manuals _site/
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
@@ -104,7 +111,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: 'output'
+          path: '_site'
 
       - name: Deploy to GitHub Pages
         id: deployment
@@ -116,12 +123,17 @@ jobs:
           # Always purge core site files that affect functionality
           URLS='"https://toku.solutions/index.html","https://toku.solutions/app.js","https://toku.solutions/styles.css","https://toku.solutions/meta.json"'
 
-          # Add any changed files in output/
-          CHANGED_FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep '^output/' || echo "")
+          # Add any changed files in web/ or manuals/
+          CHANGED_FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep -E '^(web|manuals)/' || echo "")
 
           while IFS= read -r file; do
             if [ ! -z "$file" ]; then
-              URL_PATH="${file#output/}"
+              # Remove web/ prefix for web files, keep manuals/ prefix for manual files
+              if [[ "$file" == web/* ]]; then
+                URL_PATH="${file#web/}"
+              else
+                URL_PATH="$file"
+              fi
               URLS="$URLS,\"https://toku.solutions/$URL_PATH\""
             fi
           done <<< "$CHANGED_FILES"

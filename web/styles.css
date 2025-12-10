@@ -81,23 +81,17 @@ h1 {
     font-size: 0.85rem;
 }
 
-.page-jump {
+.page-nav {
     display: flex;
     gap: 0.5rem;
     align-items: center;
 }
 
-.page-jump input {
-    width: 4rem;
-    padding: 0.4rem 0.6rem;
-    border: 1px solid #cbd5e0;
-    border-radius: 4px;
+.page-nav span {
     font-size: 0.85rem;
-}
-
-.page-jump input:focus {
-    outline: none;
-    border-color: #4a5568;
+    color: #4a5568;
+    min-width: 80px;
+    text-align: center;
 }
 
 /* Utility */
@@ -483,12 +477,16 @@ footer {
     position: sticky;
     top: 0;
     z-index: 10;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .text-panel-header h2 {
     font-size: 0.9rem;
     font-weight: 600;
     color: #555;
+    margin: 0;
 }
 
 .text-item {

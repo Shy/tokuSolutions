@@ -1,0 +1,60 @@
+{
+  "tags": {
+    "DX": {
+      "name": "DX",
+      "description": "Deluxe toys",
+      "color": "#3b82f6"
+    },
+    "Memorial": {
+      "name": "Memorial",
+      "description": "Memorial Edition",
+      "color": "#8b5cf6"
+    },
+    "CSM": {
+      "name": "CSM",
+      "description": "Complete Selection Modification",
+      "color": "#ef4444"
+    },
+    "Kamen Rider": {
+      "name": "Kamen Rider",
+      "description": "Kamen Rider series",
+      "color": "#10b981"
+    },
+    "Ultraman": {
+      "name": "Ultraman",
+      "description": "Ultraman series",
+      "color": "#f59e0b"
+    },
+    "Super Sentai": {
+      "name": "Super Sentai",
+      "description": "Super Sentai series",
+      "color": "#ec4899"
+    }
+  },
+  "manuals": {
+    "CSM-Den-O-Belt-v2": [
+      "CSM",
+      "Kamen Rider"
+    ],
+    "CSM-Fang-Memory": [
+      "CSM",
+      "Kamen Rider"
+    ],
+    "DX-Ridewatch": [
+      "DX",
+      "Kamen Rider"
+    ],
+    "DenGasher": [
+      "DX",
+      "Kamen Rider"
+    ],
+    "Faiz Driver Next": [
+      "DX",
+      "Kamen Rider"
+    ],
+    "Ranger-Key-35-Red-Set": [
+      "Memorial",
+      "Super Sentai"
+    ]
+  }
+}

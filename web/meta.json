@@ -1,0 +1,113 @@
+{
+  "manuals": [
+    {
+      "name": "CSM-Den-O-Belt-v2",
+      "source": "CSM Den-O v2.pdf",
+      "pages": 24,
+      "blocks": 1055,
+      "thumbnail": "CSM-Den-O-Belt-v2/pages/page-0.webp",
+      "source_url": "https://toy.bandai.co.jp/manuals/?prod_name=&p_id=1&release_date=&t_id=&jan_code=",
+      "tags": [
+        "CSM",
+        "Kamen Rider"
+      ]
+    },
+    {
+      "name": "CSM-Fang-Memory",
+      "source": "CSM FangMemory.pdf",
+      "pages": 13,
+      "blocks": 390,
+      "thumbnail": "CSM-Fang-Memory/pages/page-0.webp",
+      "source_url": "https://toy.bandai.co.jp/manuals/?prod_name=&p_id=1&release_date=&t_id=&jan_code=",
+      "tags": [
+        "CSM",
+        "Kamen Rider"
+      ]
+    },
+    {
+      "name": "DX-Ridewatch",
+      "source": "Ridewatch.pdf",
+      "pages": 4,
+      "blocks": 578,
+      "thumbnail": "DX-Ridewatch/pages/page-0.webp",
+      "source_url": "https://toy.bandai.co.jp/manuals/?prod_name=&p_id=1&release_date=&t_id=&jan_code=",
+      "tags": [
+        "DX",
+        "Kamen Rider"
+      ]
+    },
+    {
+      "name": "DenGasher",
+      "source": "DenGasher.pdf",
+      "pages": 18,
+      "blocks": 570,
+      "thumbnail": "DenGasher/pages/page-0.webp",
+      "source_url": "https://toy.bandai.co.jp/manuals/pdf.php?id=2756971",
+      "tags": [
+        "DX",
+        "Kamen Rider"
+      ]
+    },
+    {
+      "name": "Faiz Driver Next",
+      "source": "Faiz Driver Next.pdf",
+      "pages": 47,
+      "blocks": 1259,
+      "thumbnail": "Faiz Driver Next/pages/page-0.webp",
+      "source_url": "https://toy.bandai.co.jp/manuals/?prod_name=&p_id=1&release_date=&t_id=&jan_code=",
+      "tags": [
+        "DX",
+        "Kamen Rider"
+      ]
+    },
+    {
+      "name": "Ranger-Key-35-Red-Set",
+      "source": "GoKaiKeys.pdf",
+      "pages": 1,
+      "blocks": 75,
+      "thumbnail": "Ranger-Key-35-Red-Set/pages/page-0.webp",
+      "source_url": "https://toy.bandai.co.jp/manuals/?prod_name=&p_id=1&release_date=&t_id=&jan_code=",
+      "tags": [
+        "Memorial",
+        "Super Sentai"
+      ]
+    }
+  ],
+  "tags": {
+    "DX": {
+      "name": "DX",
+      "description": "Deluxe toys",
+      "color": "#3b82f6"
+    },
+    "Memorial": {
+      "name": "Memorial",
+      "description": "Memorial Edition",
+      "color": "#8b5cf6"
+    },
+    "CSM": {
+      "name": "CSM",
+      "description": "Complete Selection Modification",
+      "color": "#ef4444"
+    },
+    "Kamen Rider": {
+      "name": "Kamen Rider",
+      "description": "Kamen Rider series",
+      "color": "#10b981"
+    },
+    "Ultraman": {
+      "name": "Ultraman",
+      "description": "Ultraman series",
+      "color": "#f59e0b"
+    },
+    "Super Sentai": {
+      "name": "Super Sentai",
+      "description": "Super Sentai series",
+      "color": "#ec4899"
+    }
+  },
+  "stats": {
+    "total_manuals": 6,
+    "total_pages": 107,
+    "total_blocks": 3927
+  }
+}

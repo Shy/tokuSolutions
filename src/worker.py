@@ -5,8 +5,8 @@ import asyncio
 from temporalio.client import Client
 from temporalio.worker import Worker
 
-from docai_workflow import DocAITranslateWorkflow
-from docai_activities import (
+from src.workflow import DocAITranslateWorkflow
+from src.activities import (
     ocr_document_activity,
     get_pdf_page_count_activity,
     ocr_page_activity,
