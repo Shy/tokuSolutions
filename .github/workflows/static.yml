@@ -32,6 +32,72 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Generate meta.json
+        run: |
+          python3 -c "
+          from pathlib import Path
+          import json
+
+          output_root = Path('output')
+          manuals = []
+          tag_definitions = {}
+
+          for folder in sorted(output_root.iterdir()):
+              if not folder.is_dir():
+                  continue
+              json_path = folder / 'translations.json'
+              if not json_path.exists():
+                  continue
+
+              try:
+                  with open(json_path, 'r', encoding='utf-8') as f:
+                      data = json.load(f)
+
+                  meta = data.get('meta', {})
+                  pages = data.get('pages', [])
+                  thumbnail = pages[0]['image'] if pages else 'pages/page-0.webp'
+
+                  manual_info = {
+                      'name': folder.name,
+                      'source': meta.get('source', folder.name),
+                      'pages': len(pages),
+                      'blocks': sum(len(p.get('blocks', [])) for p in pages),
+                      'thumbnail': f'{folder.name}/{thumbnail}',
+                      'source_url': meta.get('source_url', ''),
+                  }
+
+                  if 'tags' in meta:
+                      manual_info['tags'] = meta['tags']
+
+                  if not tag_definitions and 'tag_definitions' in meta:
+                      tag_definitions = meta['tag_definitions']
+
+                  manuals.append(manual_info)
+              except Exception as e:
+                  print(f'Warning: Could not read {json_path}: {e}')
+
+          meta_data = {
+              'manuals': manuals,
+              'tags': tag_definitions,
+              'stats': {
+                  'total_manuals': len(manuals),
+                  'total_pages': sum(m['pages'] for m in manuals),
+                  'total_blocks': sum(m['blocks'] for m in manuals)
+              }
+          }
+
+          meta_path = output_root / 'meta.json'
+          with open(meta_path, 'w', encoding='utf-8') as f:
+              json.dump(meta_data, f, ensure_ascii=False, indent=2)
+
+          print(f'✅ Generated meta.json with {len(manuals)} manuals, {len(tag_definitions)} tag types')
+          "
+
       - name: Cache output directory
         uses: actions/cache@v4
         with:
