@@ -7,6 +7,7 @@ export const state = {
   currentManualName: null, // The folder name (e.g., "CSM-Den-O-Belt-v2")
   showOverlays: true,
   showTranslations: true,
+  showSidebar: true,
   editedBlocks: new Set(),
   currentBboxEdit: null,
   currentlyEditingBlock: null, // { pageIdx, blockIdx, element }
@@ -29,7 +30,8 @@ export const DOM = {
   prevPageBtn: null,
   nextPageBtn: null,
   overlaysBtn: null,
-  translationsBtn: null
+  translationsBtn: null,
+  sidebarToggleBtn: null
 };
 
 // Edit session management - enforce single document editing

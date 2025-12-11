@@ -19,6 +19,8 @@ with workflow.unsafe.imports_passed_through():
         translate_blocks_activity,
         create_overlay_pdf_activity,
         generate_site_activity,
+        search_product_url_activity,
+        cleanup_translations_activity,
     )
 
 
@@ -28,6 +30,7 @@ class DocAITranslateInput:
     source_language: str = "ja"
     target_language: str = "en"
     output_path: str | None = None
+    skip_cleanup: bool = False
 
 
 @dataclass
@@ -40,6 +43,8 @@ class DocAITranslateOutput:
     ocr_blocks: int
     translated_blocks: int
     success: bool
+    product_url: str = ""
+    product_name: str = ""
     error: str | None = None
 
 
@@ -60,8 +65,40 @@ class DocAITranslateWorkflow:
     async def run(self, input: DocAITranslateInput) -> DocAITranslateOutput:
         workflow.logger.info(f"Starting DocAI translation: {input.pdf_path}")
 
-        # Step 1: Get page count
-        workflow.logger.info("Step 1: Getting page count...")
+        # Determine output directory and manual name early
+        from pathlib import Path
+
+        input_path = Path(input.pdf_path)
+        if input.output_path:
+            output_dir = input.output_path
+        else:
+            output_dir = f"manuals/{input_path.stem}"
+        manual_name = Path(output_dir).name
+
+        # Step 1: Search for product URL on Tokullectibles
+        workflow.logger.info(f"Step 1: Searching for product URL: {manual_name}...")
+        search_result = await workflow.execute_activity(
+            search_product_url_activity,
+            manual_name,
+            start_to_close_timeout=timedelta(seconds=30),
+        )
+
+        product_url = ""
+        product_name = ""
+        product_description = ""
+
+        if search_result.get("success"):
+            product_url = search_result["url"]
+            product_name = search_result["name"]
+            product_description = search_result.get("description", "")
+            workflow.logger.info(f"Found product: {product_name} at {product_url}")
+        else:
+            workflow.logger.warning(
+                f"Product not found on Tokullectibles: {manual_name}"
+            )
+
+        # Step 2: Get page count
+        workflow.logger.info("Step 2: Getting page count...")
         page_count: int = await workflow.execute_activity(
             get_pdf_page_count_activity,
             input.pdf_path,
@@ -69,9 +106,9 @@ class DocAITranslateWorkflow:
         )
         workflow.logger.info(f"Document has {page_count} pages")
 
-        # Step 2: OCR each page in parallel
+        # Step 3: OCR each page in parallel
         workflow.logger.info(
-            f"Step 2: Running OCR on {page_count} pages in parallel..."
+            f"Step 3: Running OCR on {page_count} pages in parallel..."
         )
 
         # Fan out - create activity tasks for each page
@@ -116,8 +153,8 @@ class DocAITranslateWorkflow:
                 error="No text blocks found in document",
             )
 
-        # Step 3: Translate text blocks
-        workflow.logger.info("Step 3: Translating blocks...")
+        # Step 4: Translate text blocks
+        workflow.logger.info("Step 4: Translating blocks...")
 
         # Convert dataclass blocks to dicts for serialization
         blocks_dict = [
@@ -155,17 +192,8 @@ class DocAITranslateWorkflow:
             f"Translation complete: {len(translation_result.blocks)} blocks"
         )
 
-        # Step 4: Generate static site with HTML viewer, JSON, and PDF
-        workflow.logger.info("Step 4: Generating static site...")
-
-        # Determine output directory
-        from pathlib import Path
-
-        input_path = Path(input.pdf_path)
-        if input.output_path:
-            output_dir = input.output_path
-        else:
-            output_dir = f"manuals/{input_path.stem}"
+        # Step 5: Generate static site with HTML viewer, JSON, and PDF
+        workflow.logger.info("Step 5: Generating static site...")
 
         # Convert translated blocks to dicts
         translated_dict = [
@@ -189,6 +217,7 @@ class DocAITranslateWorkflow:
                 output_dir,
                 input.source_language,
                 input.target_language,
+                product_url,
             ],
             start_to_close_timeout=timedelta(minutes=5),
         )
@@ -206,6 +235,33 @@ class DocAITranslateWorkflow:
                 error=f"Site generation failed: {site_result.error}",
             )
 
+        # Step 6: Clean up translations (optional)
+        if not input.skip_cleanup:
+            workflow.logger.info("Step 6: Cleaning up translations...")
+
+            cleanup_result = await workflow.execute_activity(
+                cleanup_translations_activity,
+                args=[
+                    site_result.json_path,
+                    product_name,
+                    product_description,
+                    False,
+                ],  # False = use Gemini
+                start_to_close_timeout=timedelta(minutes=3),
+            )
+
+            if cleanup_result.get("success"):
+                workflow.logger.info(
+                    f"Cleanup complete: {cleanup_result['original_blocks']} → {cleanup_result['cleaned_blocks']} blocks"
+                )
+            else:
+                # Non-fatal - log warning but continue
+                workflow.logger.warning(
+                    f"Cleanup had issues: {cleanup_result.get('error', 'Unknown error')}"
+                )
+        else:
+            workflow.logger.info("Step 6: Skipping cleanup (--skip-cleanup)")
+
         workflow.logger.info(f"Complete: {site_result.output_dir}")
 
         return DocAITranslateOutput(
@@ -216,5 +272,7 @@ class DocAITranslateWorkflow:
             pdf_path=site_result.pdf_path,
             ocr_blocks=len(all_blocks),
             translated_blocks=len(translation_result.blocks),
+            product_url=product_url,
+            product_name=product_name,
             success=True,
         )

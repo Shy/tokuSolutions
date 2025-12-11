@@ -17,6 +17,7 @@ from PIL import Image, ImageDraw, ImageFont
 import io
 
 from src.html_template import generate_manual_viewer_html, generate_main_index_html
+from src.shopify_search import search_tokullectibles
 
 load_dotenv()
 
@@ -508,6 +509,7 @@ async def generate_site_activity(
     output_dir: str,
     source_lang: str = "ja",
     target_lang: str = "en",
+    product_url: str = "",
 ) -> SiteOutput:
     """
     Generate a static site with:
@@ -581,7 +583,7 @@ async def generate_site_activity(
                 "source": str(Path(original_pdf).name),
                 "source_lang": source_lang,
                 "target_lang": target_lang,
-                "source_url": "",  # Can be added later with add-url command
+                "source_url": product_url,  # From product search activity
                 "pages": len(pages_data),
                 "blocks": len(translated_blocks),
                 "thumbnail": (
@@ -687,8 +689,8 @@ def _generate_main_index(output_root: Path):
         "stats": {
             "total_manuals": len(manuals),
             "total_pages": sum(m["pages"] for m in manuals),
-            "total_blocks": sum(m["blocks"] for m in manuals)
-        }
+            "total_blocks": sum(m["blocks"] for m in manuals),
+        },
     }
 
     # Write meta.json to web/ for fast loading (SPA reads this once)
@@ -698,7 +700,9 @@ def _generate_main_index(output_root: Path):
     with open(meta_path, "w", encoding="utf-8") as f:
         json.dump(meta_data, f, ensure_ascii=False, indent=2)
 
-    print(f"Updated web/meta.json with {len(manuals)} manual(s), {len(tag_definitions)} tag type(s)")
+    print(
+        f"Updated web/meta.json with {len(manuals)} manual(s), {len(tag_definitions)} tag type(s)"
+    )
 
 
 def _generate_html_viewer(data: dict) -> str:
@@ -1548,6 +1552,148 @@ async def test_ocr(pdf_path: str):
     if result.error:
         print(f"Error: {result.error}")
     return result
+
+
+@activity.defn
+async def search_product_url_activity(product_name: str) -> dict:
+    """
+    Search Tokullectibles for a product and return its URL.
+
+    Args:
+        product_name: Product name to search for (e.g., "CSM DenGasher")
+
+    Returns:
+        Dictionary with 'success', 'url', 'name', and 'handle' keys.
+        If not found, success=False and url is empty string.
+    """
+    activity.logger.info(f"Searching Tokullectibles for: {product_name}")
+
+    try:
+        result = search_tokullectibles(product_name)
+
+        if result:
+            activity.logger.info(f"Found product: {result.name} at {result.url}")
+            return {
+                "success": True,
+                "url": result.url,
+                "name": result.name,
+                "handle": result.handle,
+                "description": result.description or "",
+            }
+        else:
+            activity.logger.warning(f"Product not found: {product_name}")
+            return {
+                "success": False,
+                "url": "",
+                "name": product_name,
+                "handle": "",
+                "description": "",
+            }
+
+    except Exception as e:
+        activity.logger.error(f"Search failed: {e}")
+        return {
+            "success": False,
+            "url": "",
+            "name": product_name,
+            "handle": "",
+            "description": "",
+            "error": str(e),
+        }
+
+
+@activity.defn
+async def cleanup_translations_activity(
+    json_path: str,
+    product_name: str = "",
+    product_description: str = "",
+    skip_gemini: bool = False,
+) -> dict:
+    """
+    Clean up translations using three-stage hybrid pipeline.
+
+    Stage 1: ftfy - Fix encoding/OCR errors
+    Stage 2: Rule-based - Remove noise (page numbers, symbols)
+    Stage 3: Gemini - LLM intelligent corrections (optional)
+
+    Args:
+        json_path: Path to translations.json file
+        product_name: Official product name from Tokullectibles
+        product_description: Product description for LLM context
+        skip_gemini: Skip Stage 3 LLM cleanup
+
+    Returns:
+        Dict with cleanup statistics
+    """
+    from src.cleanup import cleanup_translations, CleanupResult
+    import json
+
+    activity.logger.info(f"Starting cleanup: {json_path}")
+    activity.logger.info(f"  Product name: {product_name}")
+    if product_description:
+        activity.logger.info(f"  Product description: {product_description[:100]}...")
+    activity.logger.info(f"  Skip Gemini: {skip_gemini}")
+
+    try:
+        # Load translations.json
+        with open(json_path, "r", encoding="utf-8") as f:
+            translations_data = json.load(f)
+
+        # Run three-stage cleanup
+        result = cleanup_translations(
+            translations_data,
+            product_name=product_name,
+            product_description=product_description,
+            skip_gemini=skip_gemini,
+        )
+
+        if result.success:
+            # Save updated translations.json
+            with open(json_path, "w", encoding="utf-8") as f:
+                json.dump(translations_data, f, ensure_ascii=False, indent=2)
+
+            activity.logger.info(
+                f"Cleanup complete: {result.original_blocks} → {result.cleaned_blocks} blocks"
+            )
+            activity.logger.info(f"  Stage 1 (ftfy): {result.ftfy_fixes} fixes")
+            activity.logger.info(
+                f"  Stage 2 (rules): {result.rule_based_removals} removals"
+            )
+            if not skip_gemini:
+                activity.logger.info(
+                    f"  Stage 3 (Gemini): {result.llm_corrections} corrections"
+                )
+
+            return {
+                "success": True,
+                "original_blocks": result.original_blocks,
+                "cleaned_blocks": result.cleaned_blocks,
+                "removed_blocks": result.removed_blocks,
+                "ftfy_fixes": result.ftfy_fixes,
+                "rule_based_removals": result.rule_based_removals,
+                "llm_corrections": result.llm_corrections,
+                "corrected_product_name": result.corrected_product_name,
+                "error": result.error,
+            }
+        else:
+            activity.logger.error(f"Cleanup failed: {result.error}")
+            return {
+                "success": False,
+                "original_blocks": result.original_blocks,
+                "cleaned_blocks": result.cleaned_blocks,
+                "removed_blocks": 0,
+                "error": result.error,
+            }
+
+    except Exception as e:
+        activity.logger.error(f"Cleanup activity failed: {e}")
+        return {
+            "success": False,
+            "original_blocks": 0,
+            "cleaned_blocks": 0,
+            "removed_blocks": 0,
+            "error": str(e),
+        }
 
 
 if __name__ == "__main__":

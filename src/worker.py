@@ -13,6 +13,8 @@ from src.activities import (
     translate_blocks_activity,
     create_overlay_pdf_activity,
     generate_site_activity,
+    search_product_url_activity,
+    cleanup_translations_activity,
 )
 
 TASK_QUEUE = "pdf-translation"
@@ -32,6 +34,8 @@ async def main():
             translate_blocks_activity,
             create_overlay_pdf_activity,
             generate_site_activity,
+            search_product_url_activity,
+            cleanup_translations_activity,
         ],
     )
 

@@ -35,8 +35,8 @@
     "CSM-Den-O-Belt-v2": ["CSM", "Kamen Rider"],
     "CSM-Fang-Memory": ["CSM", "Kamen Rider"],
     "DX-Ridewatch": ["DX", "Kamen Rider"],
-    "DenGasher": ["DX", "Kamen Rider"],
-    "Faiz Driver Next": ["DX", "Kamen Rider"],
-    "Ranger-Key-35-Red-Set": ["Memorial", "Super Sentai"]
+    "CSM-DenGasher": ["CSM", "Kamen Rider"],
+    "CSM-Faiz-Driver-NEXT": ["CSM", "Kamen Rider"],
+    "Ranger-Key-Memorial-Edition-35-Reds-Set": ["Memorial", "Super Sentai"]
   }
 }

@@ -14,6 +14,7 @@ import {
   navigate,
   toggleOverlays,
   toggleTranslations,
+  toggleSidebar,
   filterManuals,
   handlePopState,
   navigatePage,
@@ -38,6 +39,7 @@ function initializeApp() {
   DOM.nextPageBtn = document.getElementById('nextPageBtn');
   DOM.overlaysBtn = document.getElementById('overlaysBtn');
   DOM.translationsBtn = document.getElementById('translationsBtn');
+  DOM.sidebarToggleBtn = document.getElementById('sidebarToggleBtn');
 
   // Initialize lazy image loader
   ImageLoader.init();
@@ -61,6 +63,7 @@ function setupEventListeners() {
   // Viewer controls
   DOM.overlaysBtn.addEventListener('click', toggleOverlays);
   DOM.translationsBtn.addEventListener('click', toggleTranslations);
+  DOM.sidebarToggleBtn.addEventListener('click', toggleSidebar);
   DOM.prevPageBtn.addEventListener('click', () => navigatePage('prev'));
   DOM.nextPageBtn.addEventListener('click', () => navigatePage('next'));
 

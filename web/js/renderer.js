@@ -197,7 +197,7 @@ export function renderTextList() {
 
       const deleteBtn = document.createElement('button');
       deleteBtn.className = 'delete-btn hidden';
-      deleteBtn.textContent = '🗑️';
+      deleteBtn.innerHTML = '<i class="fas fa-trash"></i>';
       deleteBtn.title = 'Delete this text block';
       deleteBtn.onclick = (e) => {
         e.stopPropagation();

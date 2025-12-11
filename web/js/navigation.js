@@ -52,6 +52,16 @@ export function toggleTranslations() {
     : '<i class="fas fa-language"></i> Show Translations';
 }
 
+// Toggle sidebar visibility
+export function toggleSidebar() {
+  state.showSidebar = !state.showSidebar;
+  const textPanel = document.querySelector('.text-panel');
+  textPanel.style.display = state.showSidebar ? 'flex' : 'none';
+  DOM.sidebarToggleBtn.innerHTML = state.showSidebar
+    ? '<i class="fas fa-sidebar"></i> Hide Sidebar'
+    : '<i class="fas fa-sidebar"></i> Show Sidebar';
+}
+
 // Filter manuals
 export function filterManuals() {
   const searchTerm = DOM.searchInput.value.toLowerCase().trim();
