@@ -40,7 +40,7 @@ export async function submitToGitHub(currentManual) {
             await octokit.rest.repos.createFork({ owner, repo });
             await new Promise(resolve => setTimeout(resolve, UI_TIMINGS.FORK_WAIT_TIME));
         } catch (error) {
-            console.log('Fork may already exist:', error.message);
+            // Fork may already exist - continue with workflow
         }
 
         // Get default branch

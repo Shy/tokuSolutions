@@ -42,7 +42,7 @@ export function renderManualList(filteredManuals) {
 
         card.innerHTML = `
             <div class="card-link">
-                <img src="${sanitizeText(manual.thumbnail)}" alt="${sanitizeText(displayName)}" class="thumbnail" loading="lazy">
+                <img src="../manuals/${sanitizeText(manual.thumbnail)}" alt="${sanitizeText(displayName)}" class="thumbnail" loading="lazy">
                 <div class="card-content">
                     <div class="card-title">${sanitizeText(displayName)}</div>
                     ${tagsHTML ? `<div class="card-tags">${tagsHTML}</div>` : ''}
@@ -233,7 +233,6 @@ export function renderTextList() {
             item.addEventListener('mouseenter', () => {
                 if (!state.editMode) {
                     highlightBlock(pageIdx, blockIdx);
-                    document.getElementById(`page-${pageIdx}`).scrollIntoView({ behavior: 'smooth', block: 'center' });
                 }
             });
 
@@ -343,7 +342,7 @@ export async function loadManual(manualName) {
         const data = await response.json();
 
         if (renderToken !== state.currentRenderToken) {
-            console.log('Render cancelled - user navigated away');
+            // Render cancelled - user navigated away
             return;
         }
 

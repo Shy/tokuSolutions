@@ -160,7 +160,7 @@ async function loadInitialData() {
             state.tagsData = await tagsResponse.json();
             renderTagFilters();
         } catch (tagsError) {
-            console.log('No tags.json found, tags disabled');
+            // Tags are optional - silently continue without them
         }
 
         // Render manuals

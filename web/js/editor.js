@@ -17,12 +17,14 @@ export function toggleEditMode() {
 
         DOM.editModeBtn.textContent = '✏️ Exit Edit Mode';
         DOM.editModeBtn.style.background = '#ff6b6b';
+        DOM.createBlockBtn.classList.remove('hidden');
         document.querySelectorAll('.delete-btn').forEach(btn => btn.classList.remove('hidden'));
         document.querySelectorAll('.bbox-editor').forEach(editor => editor.classList.remove('hidden'));
         document.querySelectorAll('.text-item').forEach(item => item.classList.add('editable'));
     } else {
         DOM.editModeBtn.textContent = '✏️ Edit Mode';
         DOM.editModeBtn.style.background = '';
+        DOM.createBlockBtn.classList.add('hidden');
         document.querySelectorAll('.delete-btn').forEach(btn => btn.classList.add('hidden'));
         document.querySelectorAll('.bbox-editor').forEach(editor => editor.classList.add('hidden'));
         document.querySelectorAll('.text-item').forEach(item => item.classList.remove('editable'));

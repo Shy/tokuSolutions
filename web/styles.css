@@ -127,32 +127,11 @@ h1 {
     display: none !important;
 }
 
-.skeleton {
-    background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
-    background-size: 200% 100%;
-    animation: shimmer 1.5s infinite;
-    border-radius: 4px;
-}
-
-@keyframes shimmer {
-    0% { background-position: 200% 0; }
-    100% { background-position: -200% 0; }
-}
-
-.skeleton-card {
-    height: 280px;
-}
-
-.skeleton-text {
-    height: 1rem;
-    margin-bottom: 0.5rem;
-}
-
 /* ============================================
-   LIST VIEW - Manual Grid
+   HOME VIEW - Manual Grid
    ============================================ */
 
-#listView .container {
+#homeView .container {
     max-width: 1200px;
     margin: 0 auto;
     padding: 2rem;
@@ -163,7 +142,7 @@ h1 {
     margin-bottom: 3rem;
 }
 
-#listView h1 {
+#homeView h1 {
     font-size: 3rem;
     font-weight: 700;
     margin-bottom: 1rem;
@@ -498,6 +477,11 @@ footer {
 
 .text-item:hover {
     background: #f9f9f9;
+}
+
+.text-item.editable {
+    border-left: 3px solid #48bb78;
+    background: #f0fff4;
 }
 
 .text-item.highlight {

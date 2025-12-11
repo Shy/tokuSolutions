@@ -25,7 +25,9 @@ export const DOM = {
     submitGitHubBtn: null,
     createBlockBtn: null,
     prevPageBtn: null,
-    nextPageBtn: null
+    nextPageBtn: null,
+    overlaysBtn: null,
+    translationsBtn: null
 };
 
 // Edit session management - enforce single document editing
