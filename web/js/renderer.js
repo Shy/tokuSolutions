@@ -223,9 +223,12 @@ export function renderTextList() {
             item.appendChild(bboxEditor);
 
             // Event listeners
-            item.addEventListener('click', () => {
+            item.addEventListener('click', (e) => {
                 if (!state.editMode) {
                     highlightBlock(pageIdx, blockIdx);
+                    document.getElementById(`page-${pageIdx}`).scrollIntoView({ behavior: 'smooth', block: 'center' });
+                } else if (!e.target.closest('.text-translation')) {
+                    // In edit mode, scroll if clicking outside translation text
                     document.getElementById(`page-${pageIdx}`).scrollIntoView({ behavior: 'smooth', block: 'center' });
                 }
             });

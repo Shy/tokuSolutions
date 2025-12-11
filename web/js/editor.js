@@ -211,27 +211,64 @@ export const updateBboxLiveDebounced = debounce(updateBboxLive, 150);
 export function handleTranslationEdit(e) {
     if (!state.editMode) return;
 
-    const textItem = e.target.closest('.text-item');
+    const translationDiv = e.target.closest('.text-translation');
+    if (!translationDiv) return;
+
+    const textItem = translationDiv.closest('.text-item');
     if (!textItem) return;
 
     const pageIdx = parseInt(textItem.dataset.pageId);
     const blockIdx = parseInt(textItem.dataset.blockId);
-    const translationDiv = textItem.querySelector('.text-translation');
 
-    const newTranslation = prompt(
-        'Edit translation:',
-        state.currentManual.pages[pageIdx].blocks[blockIdx].translation
-    );
+    // Make the translation editable
+    translationDiv.contentEditable = true;
+    translationDiv.focus();
 
-    if (newTranslation === null) return;
+    // Select all text for easy editing
+    const selection = window.getSelection();
+    const range = document.createRange();
+    range.selectNodeContents(translationDiv);
+    selection.removeAllRanges();
+    selection.addRange(range);
 
-    state.currentManual.pages[pageIdx].blocks[blockIdx].translation = newTranslation;
-    translationDiv.textContent = newTranslation;
+    // Save on blur or Enter key
+    const saveEdit = () => {
+        translationDiv.contentEditable = false;
+        const newTranslation = translationDiv.textContent.trim();
 
-    state.editedBlocks.add(`${pageIdx}-${blockIdx}`);
-    EditSession.markDirty();
+        state.currentManual.pages[pageIdx].blocks[blockIdx].translation = newTranslation;
 
-    showEditButtons();
+        // Update overlay if visible
+        const overlay = document.querySelector(`.overlay[data-page-id="${pageIdx}"][data-block-id="${blockIdx}"]`);
+        if (overlay && state.showTranslations) {
+            overlay.textContent = newTranslation;
+        }
+
+        state.editedBlocks.add(`${pageIdx}-${blockIdx}`);
+        EditSession.markDirty();
+        showEditButtons();
+    };
+
+    const handleBlur = () => {
+        saveEdit();
+        translationDiv.removeEventListener('blur', handleBlur);
+        translationDiv.removeEventListener('keydown', handleKeydown);
+    };
+
+    const handleKeydown = (e) => {
+        if (e.key === 'Enter' && !e.shiftKey) {
+            e.preventDefault();
+            translationDiv.blur();
+        } else if (e.key === 'Escape') {
+            e.preventDefault();
+            // Restore original text
+            translationDiv.textContent = state.currentManual.pages[pageIdx].blocks[blockIdx].translation;
+            translationDiv.blur();
+        }
+    };
+
+    translationDiv.addEventListener('blur', handleBlur, { once: true });
+    translationDiv.addEventListener('keydown', handleKeydown);
 }
 
 // Reapply edit mode styles after re-rendering

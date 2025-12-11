@@ -74,9 +74,8 @@ export async function submitToGitHub(currentManual) {
 
         // Update file
         const jsonContent = JSON.stringify(currentManual, null, 2);
-        const encoder = new TextEncoder();
-        const utf8Bytes = encoder.encode(jsonContent);
-        const base64Content = btoa(String.fromCharCode(...utf8Bytes));
+        // Use btoa with proper UTF-8 encoding (handles Unicode and large files)
+        const base64Content = btoa(unescape(encodeURIComponent(jsonContent)));
 
         await octokit.rest.repos.createOrUpdateFileContents({
             owner: forkOwner,

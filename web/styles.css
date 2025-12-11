@@ -526,14 +526,35 @@ footer {
     color: #666;
 }
 
+.text-item.editable .text-translation {
+    cursor: text;
+    padding: 0.25rem;
+    border-radius: 2px;
+    transition: background 0.15s;
+}
+
+.text-item.editable .text-translation:hover {
+    background: #f0f9ff;
+}
+
+.text-translation[contenteditable="true"] {
+    background: #fff;
+    border: 1px solid #48bb78;
+    outline: none;
+    padding: 0.25rem;
+}
+
 .bbox-editor {
-    display: none;
     margin-top: 0.5rem;
     padding: 0.5rem;
     background: #f7fafc;
     border: 1px solid #e2e8f0;
     border-radius: 4px;
     transition: background 0.2s, border-color 0.2s;
+}
+
+.bbox-editor.hidden {
+    display: none;
 }
 
 .bbox-editor.active {

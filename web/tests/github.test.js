@@ -395,6 +395,110 @@ describe('GitHub Integration Tests', () => {
       expect(parsed.pages).toHaveLength(1);
       expect(parsed.pages[0].blocks[0].text).toBe('Original');
     });
+
+    it('should handle large manuals without stack overflow', async () => {
+      // Create manual with many blocks to simulate real data size
+      const largeManual = {
+        meta: { name: 'large-manual', source: 'Large.pdf' },
+        pages: Array(10).fill(null).map((_, pageIdx) => ({
+          image: `pages/page-${pageIdx}.webp`,
+          blocks: Array(50).fill(null).map((_, blockIdx) => ({
+            text: 'Original text that is fairly long and realistic. '.repeat(5),
+            translation: 'Translated text that is also fairly long. '.repeat(5),
+            bbox: [0.1, 0.2, 0.3, 0.4]
+          }))
+        }))
+      };
+
+      mockOctokit.rest.users.getAuthenticated.mockResolvedValue({
+        data: { login: 'testuser' }
+      });
+      mockOctokit.rest.repos.createFork.mockResolvedValue({});
+      mockOctokit.rest.repos.get.mockResolvedValue({
+        data: { default_branch: 'main' }
+      });
+      mockOctokit.rest.git.getRef.mockResolvedValue({
+        data: { object: { sha: 'abc' } }
+      });
+      mockOctokit.rest.git.createRef.mockResolvedValue({});
+      mockOctokit.rest.repos.getContent.mockResolvedValue({
+        data: { sha: 'file-sha' }
+      });
+      mockOctokit.rest.repos.createOrUpdateFileContents.mockResolvedValue({});
+      mockOctokit.rest.pulls.create.mockResolvedValue({
+        data: { number: 1, html_url: 'https://github.com/pr/1' }
+      });
+
+      mockState.editedBlocks = new Set(['0-0']);
+      const submitPromise = submitToGitHub(largeManual);
+
+      await vi.advanceTimersByTimeAsync(10);
+      const result = await submitPromise;
+
+      expect(result).toBe(true);
+
+      // Verify base64 encoding succeeded for large content
+      const call = mockOctokit.rest.repos.createOrUpdateFileContents.mock.calls[0][0];
+      expect(call.content).toBeDefined();
+      expect(call.content.length).toBeGreaterThan(1000);
+
+      // Verify content is valid base64 and decodes correctly
+      const content = Buffer.from(call.content, 'base64').toString('utf-8');
+      const parsed = JSON.parse(content);
+      expect(parsed.pages).toHaveLength(10);
+      expect(parsed.pages[0].blocks).toHaveLength(50);
+    });
+
+    it('should handle Japanese characters in manual names', async () => {
+      const japaneseManual = {
+        meta: { name: 'テストマニュアル', source: '仮面ライダー.pdf' },
+        pages: [{
+          image: 'pages/page-0.webp',
+          blocks: [{
+            text: '原文テキスト',
+            translation: '翻訳されたテキスト',
+            bbox: [0.1, 0.2, 0.3, 0.4]
+          }]
+        }]
+      };
+
+      mockOctokit.rest.users.getAuthenticated.mockResolvedValue({
+        data: { login: 'testuser' }
+      });
+      mockOctokit.rest.repos.createFork.mockResolvedValue({});
+      mockOctokit.rest.repos.get.mockResolvedValue({
+        data: { default_branch: 'main' }
+      });
+      mockOctokit.rest.git.getRef.mockResolvedValue({
+        data: { object: { sha: 'abc' } }
+      });
+      mockOctokit.rest.git.createRef.mockResolvedValue({});
+      mockOctokit.rest.repos.getContent.mockResolvedValue({
+        data: { sha: 'file-sha' }
+      });
+      mockOctokit.rest.repos.createOrUpdateFileContents.mockResolvedValue({});
+      mockOctokit.rest.pulls.create.mockResolvedValue({
+        data: { number: 1, html_url: 'https://github.com/pr/1' }
+      });
+
+      mockState.editedBlocks = new Set(['0-0']);
+      const submitPromise = submitToGitHub(japaneseManual);
+
+      await vi.advanceTimersByTimeAsync(10);
+      const result = await submitPromise;
+
+      expect(result).toBe(true);
+
+      // Verify UTF-8 characters encoded and decoded correctly
+      const call = mockOctokit.rest.repos.createOrUpdateFileContents.mock.calls[0][0];
+      const content = Buffer.from(call.content, 'base64').toString('utf-8');
+      const parsed = JSON.parse(content);
+
+      expect(parsed.meta.name).toBe('テストマニュアル');
+      expect(parsed.meta.source).toBe('仮面ライダー.pdf');
+      expect(parsed.pages[0].blocks[0].text).toBe('原文テキスト');
+      expect(parsed.pages[0].blocks[0].translation).toBe('翻訳されたテキスト');
+    });
   });
 
   describe('downloadJSON', () => {
