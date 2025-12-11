@@ -33,4 +33,5 @@ dependencies = [
 [dependency-groups]
 dev = [
     "black>=25.11.0",
+    "playwright>=1.57.0",
 ]

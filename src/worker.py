@@ -15,6 +15,9 @@ from src.activities import (
     generate_site_activity,
     search_product_url_activity,
     cleanup_translations_activity,
+    ftfy_cleanup_activity,
+    rule_based_cleanup_activity,
+    gemini_cleanup_activity,
 )
 
 TASK_QUEUE = "pdf-translation"
@@ -36,6 +39,9 @@ async def main():
             generate_site_activity,
             search_product_url_activity,
             cleanup_translations_activity,
+            ftfy_cleanup_activity,
+            rule_based_cleanup_activity,
+            gemini_cleanup_activity,
         ],
     )
 

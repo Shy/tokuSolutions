@@ -114,19 +114,28 @@ def translate(pdf_path_or_url, source_lang, target_lang, workers, skip_cleanup):
                 click.echo("  temporal server start-dev")
                 sys.exit(1)
 
+            # Compute manual name and output directory (outside workflow for determinism)
+            pdf_file = Path(pdf_path)
+            manual_name = pdf_file.stem
+            output_dir = f"manuals/{manual_name}"
+
             input_data = DocAITranslateInput(
                 pdf_path=pdf_path,
+                manual_name=manual_name,
+                output_dir=output_dir,
                 source_language=source_lang,
                 target_language=target_lang,
                 skip_cleanup=skip_cleanup,
             )
 
-            # Create unique workflow ID
-            filename = Path(pdf_path).name.replace(" ", "_")
-            timestamp = int(time.time())
-            workflow_id = f"docai-translate-{filename}-{timestamp}"
+            # Create unique workflow ID with readable format
+            from datetime import datetime
+            timestamp = datetime.now().strftime("%Y%m%d-%H%M%S")
+            workflow_id = f"translate-{manual_name.replace(' ', '-')}-{timestamp}"
 
             click.echo(f"Translating: {pdf_path}")
+            click.echo(f"  Manual: {manual_name}")
+            click.echo(f"  Output: {output_dir}")
             click.echo(f"  Source: {source_lang} → Target: {target_lang}\n")
 
             # Run workflow

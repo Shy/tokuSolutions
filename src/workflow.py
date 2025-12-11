@@ -5,6 +5,7 @@ from datetime import timedelta
 from dataclasses import dataclass
 
 from temporalio import workflow
+from temporalio.common import RetryPolicy
 
 with workflow.unsafe.imports_passed_through():
     from src.activities import (
@@ -20,16 +21,19 @@ with workflow.unsafe.imports_passed_through():
         create_overlay_pdf_activity,
         generate_site_activity,
         search_product_url_activity,
-        cleanup_translations_activity,
+        ftfy_cleanup_activity,
+        rule_based_cleanup_activity,
+        gemini_cleanup_activity,
     )
 
 
 @dataclass
 class DocAITranslateInput:
     pdf_path: str
+    manual_name: str  # Computed in CLI, not workflow (determinism)
+    output_dir: str  # Computed in CLI, not workflow (determinism)
     source_language: str = "ja"
     target_language: str = "en"
-    output_path: str | None = None
     skip_cleanup: bool = False
 
 
@@ -48,6 +52,28 @@ class DocAITranslateOutput:
     error: str | None = None
 
 
+# Retry policies for different activity types
+QUICK_RETRY = RetryPolicy(
+    initial_interval=timedelta(seconds=1),
+    maximum_interval=timedelta(seconds=10),
+    maximum_attempts=3,
+)
+
+API_RETRY = RetryPolicy(
+    initial_interval=timedelta(seconds=2),
+    maximum_interval=timedelta(seconds=30),
+    maximum_attempts=5,
+    backoff_coefficient=2.0,
+)
+
+LLM_RETRY = RetryPolicy(
+    initial_interval=timedelta(seconds=5),
+    maximum_interval=timedelta(minutes=2),
+    maximum_attempts=3,
+    backoff_coefficient=2.0,
+)
+
+
 @workflow.defn
 class DocAITranslateWorkflow:
     """
@@ -64,51 +90,47 @@ class DocAITranslateWorkflow:
     @workflow.run
     async def run(self, input: DocAITranslateInput) -> DocAITranslateOutput:
         workflow.logger.info(f"Starting DocAI translation: {input.pdf_path}")
-
-        # Determine output directory and manual name early
-        from pathlib import Path
-
-        input_path = Path(input.pdf_path)
-        if input.output_path:
-            output_dir = input.output_path
-        else:
-            output_dir = f"manuals/{input_path.stem}"
-        manual_name = Path(output_dir).name
+        workflow.logger.info(f"  Manual: {input.manual_name}")
+        workflow.logger.info(f"  Output: {input.output_dir}")
 
         # Step 1: Search for product URL on Tokullectibles
-        workflow.logger.info(f"Step 1: Searching for product URL: {manual_name}...")
+        workflow.logger.info(f"[Product Search] Finding {input.manual_name} on Tokullectibles...")
         search_result = await workflow.execute_activity(
             search_product_url_activity,
-            manual_name,
+            input.manual_name,
             start_to_close_timeout=timedelta(seconds=30),
+            retry_policy=API_RETRY,
         )
 
         product_url = ""
         product_name = ""
         product_description = ""
+        blog_url = ""
 
         if search_result.get("success"):
             product_url = search_result["url"]
             product_name = search_result["name"]
             product_description = search_result.get("description", "")
+            blog_url = search_result.get("blog_url", "")
             workflow.logger.info(f"Found product: {product_name} at {product_url}")
         else:
             workflow.logger.warning(
-                f"Product not found on Tokullectibles: {manual_name}"
+                f"Product not found on Tokullectibles: {input.manual_name}"
             )
 
         # Step 2: Get page count
-        workflow.logger.info("Step 2: Getting page count...")
+        workflow.logger.info("[PDF Analysis] Getting page count...")
         page_count: int = await workflow.execute_activity(
             get_pdf_page_count_activity,
             input.pdf_path,
             start_to_close_timeout=timedelta(minutes=1),
+            retry_policy=QUICK_RETRY,
         )
         workflow.logger.info(f"Document has {page_count} pages")
 
         # Step 3: OCR each page in parallel
         workflow.logger.info(
-            f"Step 3: Running OCR on {page_count} pages in parallel..."
+            f"[OCR] Running Document AI on {page_count} pages in parallel..."
         )
 
         # Fan out - create activity tasks for each page
@@ -118,6 +140,7 @@ class DocAITranslateWorkflow:
                 ocr_page_activity,
                 args=[input.pdf_path, page_num],
                 start_to_close_timeout=timedelta(minutes=2),
+                retry_policy=API_RETRY,
             )
             ocr_tasks.append(task)
 
@@ -153,10 +176,10 @@ class DocAITranslateWorkflow:
                 error="No text blocks found in document",
             )
 
-        # Step 4: Translate text blocks
-        workflow.logger.info("Step 4: Translating blocks...")
+        # Step 4: Translate text blocks (using external storage for large data)
+        workflow.logger.info("[Translation] Translating text blocks via Google Translate API...")
 
-        # Convert dataclass blocks to dicts for serialization
+        # Convert dataclass blocks to dicts and store in SQLite
         blocks_dict = [
             {
                 "text": b.text,
@@ -173,6 +196,7 @@ class DocAITranslateWorkflow:
             translate_blocks_activity,
             args=[blocks_dict, input.source_language, input.target_language],
             start_to_close_timeout=timedelta(minutes=5),
+            retry_policy=API_RETRY,
         )
 
         if not translation_result.success:
@@ -193,9 +217,9 @@ class DocAITranslateWorkflow:
         )
 
         # Step 5: Generate static site with HTML viewer, JSON, and PDF
-        workflow.logger.info("Step 5: Generating static site...")
+        workflow.logger.info("[Site Generation] Creating viewer, JSON, and WebP images...")
 
-        # Convert translated blocks to dicts
+        # Convert translated blocks to dicts and store in SQLite
         translated_dict = [
             {
                 "original": b.original,
@@ -214,12 +238,14 @@ class DocAITranslateWorkflow:
             args=[
                 input.pdf_path,
                 translated_dict,
-                output_dir,
+                input.output_dir,
                 input.source_language,
                 input.target_language,
                 product_url,
+                blog_url,
             ],
-            start_to_close_timeout=timedelta(minutes=5),
+            start_to_close_timeout=timedelta(minutes=10),
+            retry_policy=QUICK_RETRY,
         )
 
         if not site_result.success:
@@ -235,32 +261,60 @@ class DocAITranslateWorkflow:
                 error=f"Site generation failed: {site_result.error}",
             )
 
-        # Step 6: Clean up translations (optional)
+        # Step 6: Clean up translations in 3 stages (optional)
         if not input.skip_cleanup:
-            workflow.logger.info("Step 6: Cleaning up translations...")
+            workflow.logger.info("[Cleanup] Running 3-stage translation cleanup pipeline...")
 
-            cleanup_result = await workflow.execute_activity(
-                cleanup_translations_activity,
-                args=[
-                    site_result.json_path,
-                    product_name,
-                    product_description,
-                    False,
-                ],  # False = use Gemini
-                start_to_close_timeout=timedelta(minutes=3),
+            # Stage 1: ftfy (deterministic)
+            workflow.logger.info("[Cleanup: Stage 1/3] Fixing Unicode/OCR corruption with ftfy...")
+            ftfy_result = await workflow.execute_activity(
+                ftfy_cleanup_activity,
+                site_result.json_path,
+                start_to_close_timeout=timedelta(minutes=2),
+                retry_policy=QUICK_RETRY,
             )
 
-            if cleanup_result.get("success"):
-                workflow.logger.info(
-                    f"Cleanup complete: {cleanup_result['original_blocks']} → {cleanup_result['cleaned_blocks']} blocks"
-                )
+            if ftfy_result.get("success"):
+                workflow.logger.info(f"[Cleanup: Stage 1/3] ✓ Fixed {ftfy_result['fixes']} encoding issues")
             else:
-                # Non-fatal - log warning but continue
+                workflow.logger.warning(f"[Cleanup: Stage 1/3] Warning: {ftfy_result.get('error')}")
+
+            # Stage 2: Rule-based (deterministic)
+            workflow.logger.info("[Cleanup: Stage 2/3] Removing artifacts with rule-based patterns...")
+            rules_result = await workflow.execute_activity(
+                rule_based_cleanup_activity,
+                site_result.json_path,
+                start_to_close_timeout=timedelta(minutes=2),
+                retry_policy=QUICK_RETRY,
+            )
+
+            if rules_result.get("success"):
+                workflow.logger.info(f"[Cleanup: Stage 2/3] ✓ Removed {rules_result['removals']} noise blocks")
+            else:
+                workflow.logger.warning(f"[Cleanup: Stage 2/3] Warning: {rules_result.get('error')}")
+
+            # Stage 3: Gemini (non-deterministic, optional)
+            workflow.logger.info("[Cleanup: Stage 3/3] Applying AI corrections with Gemini 2.5 Flash...")
+            gemini_result = await workflow.execute_activity(
+                gemini_cleanup_activity,
+                args=[site_result.json_path, product_name, product_description],
+                start_to_close_timeout=timedelta(minutes=5),
+                retry_policy=LLM_RETRY,
+                heartbeat_timeout=timedelta(minutes=2),
+            )
+
+            if gemini_result.get("success"):
+                workflow.logger.info(f"[Cleanup: Stage 3/3] ✓ Applied {gemini_result['corrections']} AI corrections")
+                if gemini_result.get("corrected_product_name"):
+                    product_name = gemini_result["corrected_product_name"]
+                    workflow.logger.info(f"[Cleanup: Stage 3/3] Updated product name: {product_name}")
+            else:
+                # Non-fatal - Gemini can fail, warn but continue
                 workflow.logger.warning(
-                    f"Cleanup had issues: {cleanup_result.get('error', 'Unknown error')}"
+                    f"[Cleanup: Stage 3/3] Warning: {gemini_result.get('error', 'Unknown error')}"
                 )
         else:
-            workflow.logger.info("Step 6: Skipping cleanup (--skip-cleanup)")
+            workflow.logger.info("[Cleanup] Skipped (--skip-cleanup flag)")
 
         workflow.logger.info(f"Complete: {site_result.output_dir}")
 

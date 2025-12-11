@@ -13,6 +13,7 @@ class ProductInfo(BaseModel):
     url: str
     handle: str
     description: Optional[str] = None
+    blog_url: Optional[str] = None  # Link to Bandai technical blog (Google Translated)
 
 
 def search_tokullectibles(query: str) -> Optional[ProductInfo]:
@@ -44,8 +45,13 @@ def search_tokullectibles(query: str) -> Optional[ProductInfo]:
         # Extract actual product name and description from page
         name = _extract_product_name(product_url) or query
         description = _extract_product_description(product_url)
+        blog_url = _get_bandai_blog_link(name)
         return ProductInfo(
-            name=name, url=product_url, handle=handle, description=description
+            name=name,
+            url=product_url,
+            handle=handle,
+            description=description,
+            blog_url=blog_url,
         )
 
     # If direct URL fails, try common variations
@@ -55,11 +61,13 @@ def search_tokullectibles(query: str) -> Optional[ProductInfo]:
         if _check_url_exists(product_url):
             name = _extract_product_name(product_url) or query
             description = _extract_product_description(product_url)
+            blog_url = _get_bandai_blog_link(name)
             return ProductInfo(
                 name=name,
                 url=product_url,
                 handle=variant_handle,
                 description=description,
+                blog_url=blog_url,
             )
 
     return None
@@ -247,6 +255,22 @@ def _extract_product_description(url: str) -> Optional[str]:
         return None
 
 
+def _get_bandai_blog_link(product_name: str) -> Optional[str]:
+    """
+    Generate a link to Bandai's technical blog with Google Translate prefilled.
+
+    Args:
+        product_name: Product name for context
+
+    Returns:
+        Google Translate URL for the Kamen Rider blog, or None
+    """
+    # Link to the Kamen Rider development blog (translated to English)
+    blog_url = "https://toy.bandai.co.jp/series/rider/blog/"
+    translate_url = f"https://translate.google.com/translate?sl=ja&tl=en&u={blog_url}"
+    return translate_url
+
+
 def search_and_display(query: str) -> None:
     """
     Search for a product and display results (CLI helper).
@@ -261,6 +285,8 @@ def search_and_display(query: str) -> None:
         print(f"✓ Found: {result.name}")
         print(f"  URL: {result.url}")
         print(f"  Handle: {result.handle}")
+        if result.blog_url:
+            print(f"  Blog: {result.blog_url}")
     else:
         print("✗ Product not found")
         print("\nTried these handles:")

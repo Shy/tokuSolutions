@@ -42,6 +42,12 @@ export function renderManualList(filteredManuals) {
       ? `<a href="${manual.source_url}" target="_blank" onclick="event.stopPropagation()">📄 Original</a>`
       : '';
 
+    const blogLink = manual.blog_url
+      ? `<a href="${manual.blog_url}" target="_blank" onclick="event.stopPropagation()">🔧 Tech Blog</a>`
+      : '';
+
+    const linksHTML = [sourceLink, blogLink].filter(Boolean).join(' ');
+
     card.innerHTML = `
             <div class="card-link">
                 <img src="../manuals/${sanitizeText(manual.thumbnail)}" alt="${sanitizeText(displayName)}" class="thumbnail" loading="lazy">
@@ -52,7 +58,7 @@ export function renderManualList(filteredManuals) {
                         <span class="badge">${manual.pages} pages</span>
                         <span class="badge">${manual.blocks} blocks</span>
                     </div>
-                    ${sourceLink ? `<div class="card-actions">${sourceLink}</div>` : ''}
+                    ${linksHTML ? `<div class="card-actions">${linksHTML}</div>` : ''}
                 </div>
             </div>
         `;
@@ -346,6 +352,14 @@ export async function loadManual(manualName) {
       sourceLink.style.display = 'inline-flex';
     } else {
       sourceLink.style.display = 'none';
+    }
+
+    const blogLink = document.getElementById('blogLink');
+    if (state.currentManual.meta.blog_url) {
+      blogLink.href = state.currentManual.meta.blog_url;
+      blogLink.style.display = 'inline-flex';
+    } else {
+      blogLink.style.display = 'none';
     }
 
     renderPages(manualName, renderToken);

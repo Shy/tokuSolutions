@@ -18,8 +18,8 @@ wheels/
 !web/tags.json
 !vitest.config.json
 
-# PDFs (source files)
-Documents/*.pdf
+# PDFs (input files)
+pdfs/*.pdf
 
 # OS
 .DS_Store

@@ -630,3 +630,27 @@ footer {
     width: 100%;
   }
 }
+
+/* Footer */
+.site-footer {
+  text-align: center;
+  padding: 2rem 1rem;
+  margin-top: 3rem;
+  color: #666;
+  font-size: 0.875rem;
+}
+
+.footer-link {
+  color: #666;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.footer-link:hover {
+  color: #e94560;
+}
+
+.footer-separator {
+  margin: 0 0.75rem;
+  color: #ccc;
+}
