@@ -30,3 +30,8 @@ _site/
 # Credentials
 credentials/*
 !credentials/README.md
+
+# Node modules and test artifacts
+node_modules/
+coverage/
+package-lock.json

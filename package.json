@@ -1,0 +1,18 @@
+{
+  "name": "tokusolutions",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Web viewer for translated toy manuals",
+  "scripts": {
+    "test": "vitest",
+    "test:ui": "vitest --ui",
+    "test:coverage": "vitest --coverage",
+    "serve": "python -m http.server 8000"
+  },
+  "devDependencies": {
+    "@vitest/coverage-v8": "^2.1.9",
+    "@vitest/ui": "^2.1.8",
+    "happy-dom": "^15.11.7",
+    "vitest": "^2.1.8"
+  }
+}
