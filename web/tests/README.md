@@ -34,7 +34,7 @@ Tests currently cover:
 - ✅ Utility functions (debounce, throttle, sanitize, bbox validation/clamping)
 - ✅ State management (EditSession lifecycle)
 - ✅ Configuration validation
-- ✅ GitHub integration (OAuth device flow, fork creation, PR submission, JSON download)
+- ✅ GitHub integration (hybrid copy+paste workflow, modal creation, JSON download)
 
 Not yet covered (future work):
 - DOM manipulation (renderer.js, editor.js)

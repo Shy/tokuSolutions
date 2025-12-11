@@ -1,4 +1,4 @@
-// Edit mode functionality module
+// Block editing functionality module
 import { BBOX_DEFAULTS, UI_TIMINGS } from './config.js';
 import { state, DOM, EditSession } from './state.js';
 import { validateBbox, clampBbox, debounce } from './utils.js';
@@ -95,49 +95,15 @@ export function exitBlockEditMode() {
     state.currentlyEditingBlock = null;
 }
 
-// Toggle edit mode (keep for button compatibility, but simplified)
-export function toggleEditMode() {
-    state.editMode = !state.editMode;
-
-    if (state.editMode) {
-        // Start edit session
-        if (!EditSession.start(state.currentManualName)) {
-            state.editMode = false;
-            return;
-        }
-
-        DOM.editModeBtn.textContent = '✏️ Exit Edit Mode';
-        DOM.editModeBtn.style.background = '#ff6b6b';
-        DOM.createBlockBtn.classList.remove('hidden');
-    } else {
-        // Exit any currently editing block
-        exitBlockEditMode();
-
-        DOM.editModeBtn.textContent = '✏️ Edit Mode';
-        DOM.editModeBtn.style.background = '';
-        DOM.createBlockBtn.classList.add('hidden');
-
-        // Close any open bbox editor
-        if (state.currentBboxEdit) {
-            const editor = state.currentBboxEdit.editor;
-            editor.classList.remove('active');
-            state.currentBboxEdit = null;
-        }
-    }
-
-    // Show/hide edit buttons based on whether we have edits
-    if (state.editedBlocks.size > 0) {
-        showEditButtons();
-    } else {
-        hideEditButtons();
-    }
-}
+// Note: toggleEditMode removed - direct block editing instead
 
 // Create a new text block
 export function createTextBlock(pageIdx) {
-    if (!state.editMode) {
-        alert('Please enable Edit Mode first');
-        return;
+    // Start edit session if not already started
+    if (!EditSession.isActive()) {
+        if (!EditSession.start(state.currentManualName)) {
+            return;
+        }
     }
 
     const page = state.currentManual.pages[pageIdx];
@@ -175,15 +141,12 @@ export function createTextBlock(pageIdx) {
     // Re-render text list
     import('./renderer.js').then(({ renderTextList }) => {
         renderTextList();
-        reapplyEditMode();
         showEditButtons();
     });
 }
 
 // Delete a text block
 export function deleteTextBlock(pageIdx, blockIdx) {
-    if (!state.editMode) return;
-
     const page = state.currentManual.pages[pageIdx];
     page.blocks.splice(blockIdx, 1);
 
@@ -214,7 +177,6 @@ export function deleteTextBlock(pageIdx, blockIdx) {
 
     import('./renderer.js').then(({ renderTextList }) => {
         renderTextList();
-        reapplyEditMode();
     });
 
     if (state.editedBlocks.size > 0) {
@@ -226,11 +188,25 @@ export function deleteTextBlock(pageIdx, blockIdx) {
 
 // Open bbox editor
 export function openBboxEditor(pageIdx, blockIdx, bboxEditor) {
-    if (!state.editMode) return;
-
     // Close previous editor
     if (state.currentBboxEdit && state.currentBboxEdit.editor !== bboxEditor) {
         state.currentBboxEdit.editor.classList.remove('active');
+    }
+
+    // Store previous state for undo before editing bbox
+    const block = state.currentManual.pages[pageIdx].blocks[blockIdx];
+    state.lastEdit = {
+        pageIdx,
+        blockIdx,
+        previousState: {
+            translation: block.translation,
+            bbox: [...block.bbox]  // Clone array
+        }
+    };
+
+    // Show undo button
+    if (DOM.undoBtn) {
+        DOM.undoBtn.classList.remove('hidden');
     }
 
     bboxEditor.classList.add('active');
@@ -242,7 +218,6 @@ export function openBboxEditor(pageIdx, blockIdx, bboxEditor) {
 
 // Update bbox in real-time (called on input)
 export function updateBboxLive(pageIdx, blockIdx, bboxEditor) {
-    if (!state.editMode) return;
 
     const inputs = {
         x: bboxEditor.querySelector('.bbox-x'),
@@ -303,9 +278,27 @@ export function saveTranslationEdit(pageIdx, blockIdx) {
     if (!translationDiv || !translationDiv.isContentEditable) return;
 
     const newTranslation = translationDiv.textContent.trim();
+    const block = state.currentManual.pages[pageIdx].blocks[blockIdx];
+
+    // Store previous state for undo (only if it's actually changing)
+    if (block.translation !== newTranslation) {
+        state.lastEdit = {
+            pageIdx,
+            blockIdx,
+            previousState: {
+                translation: block.translation,
+                bbox: [...block.bbox]  // Clone array
+            }
+        };
+
+        // Show undo button
+        if (DOM.undoBtn) {
+            DOM.undoBtn.classList.remove('hidden');
+        }
+    }
 
     // Update data
-    state.currentManual.pages[pageIdx].blocks[blockIdx].translation = newTranslation;
+    block.translation = newTranslation;
 
     // Update overlay if visible
     const overlay = document.querySelector(`.overlay[data-page-id="${pageIdx}"][data-block-id="${blockIdx}"]`);
@@ -322,13 +315,50 @@ export function saveTranslationEdit(pageIdx, blockIdx) {
     exitBlockEditMode();
 }
 
-// Reapply edit mode styles after re-rendering
-export function reapplyEditMode() {
-    if (!state.editMode) return;
+// Note: reapplyEditMode removed - no longer needed without global edit mode
 
-    setTimeout(() => {
-        document.querySelectorAll('.delete-btn').forEach(btn => btn.classList.remove('hidden'));
-        document.querySelectorAll('.bbox-editor').forEach(editor => editor.classList.remove('hidden'));
-        document.querySelectorAll('.text-item').forEach(item => item.classList.add('editable'));
-    }, UI_TIMINGS.EDIT_MODE_REAPPLY_DELAY);
+// Undo last edit
+export function undoLastEdit() {
+    if (!state.lastEdit) return;
+
+    const { pageIdx, blockIdx, previousState } = state.lastEdit;
+    const block = state.currentManual?.pages?.[pageIdx]?.blocks?.[blockIdx];
+
+    if (!block) return;
+
+    // Restore previous state
+    block.translation = previousState.translation;
+    block.bbox = [...previousState.bbox];
+
+    // Update UI - translation text
+    const textItem = document.querySelector(`[data-page-id="${pageIdx}"][data-block-id="${blockIdx}"].text-item`);
+    if (textItem) {
+        const translationDiv = textItem.querySelector('.text-translation');
+        if (translationDiv) {
+            translationDiv.textContent = previousState.translation;
+        }
+    }
+
+    // Update overlay
+    const overlay = document.querySelector(`.overlay[data-page-id="${pageIdx}"][data-block-id="${blockIdx}"]`);
+    if (overlay) {
+        if (state.showTranslations) {
+            overlay.textContent = previousState.translation;
+        }
+        overlay.style.left = (previousState.bbox[0] * 100) + '%';
+        overlay.style.top = (previousState.bbox[1] * 100) + '%';
+        overlay.style.width = (previousState.bbox[2] * 100) + '%';
+        overlay.style.height = (previousState.bbox[3] * 100) + '%';
+    }
+
+    // Re-render overlays to reflect bbox changes
+    renderOverlays(pageIdx);
+
+    // Clear undo state
+    state.lastEdit = null;
+
+    // Hide undo button
+    if (DOM.undoBtn) {
+        DOM.undoBtn.classList.add('hidden');
+    }
 }

@@ -47,7 +47,7 @@
             <div class="controls">
                 <button id="backToHome" class="btn">← Back</button>
                 <a id="sourceLink" href="#" class="btn" target="_blank" style="display:none;">📄 Original</a>
-                <button id="editModeBtn" class="btn btn-secondary">✏️ Edit Mode</button>
+                <button id="undoBtn" class="btn btn-secondary hidden">↶ Undo (Ctrl+Z)</button>
                 <button id="downloadEditsBtn" class="btn btn-success hidden">💾 Download JSON</button>
                 <button id="submitGitHubBtn" class="btn btn-success hidden">🔀 Submit to GitHub</button>
                 <div class="page-nav">
@@ -65,7 +65,7 @@
             <div class="text-panel">
                 <div class="text-panel-header">
                     <h2>Translations</h2>
-                    <button id="createBlockBtn" class="btn btn-success hidden"
+                    <button id="createBlockBtn" class="btn btn-success"
                         style="font-size: 0.75rem; padding: 0.3rem 0.6rem;">+ Add Block</button>
                 </div>
                 <div id="textList"></div>

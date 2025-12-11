@@ -10,9 +10,8 @@ import {
     clearHighlights
 } from './js/renderer.js';
 import {
-    toggleEditMode,
     createTextBlock,
-    handleTranslationEdit
+    undoLastEdit
 } from './js/editor.js';
 import {
     navigate,
@@ -34,9 +33,9 @@ function initializeApp() {
     DOM.pagePanel = document.getElementById('pagePanel');
     DOM.pageIndicator = document.getElementById('pageIndicator');
     DOM.textList = document.getElementById('textList');
-    DOM.editModeBtn = document.getElementById('editModeBtn');
     DOM.downloadEditsBtn = document.getElementById('downloadEditsBtn');
     DOM.submitGitHubBtn = document.getElementById('submitGitHubBtn');
+    DOM.undoBtn = document.getElementById('undoBtn');
     DOM.createBlockBtn = document.getElementById('createBlockBtn');
     DOM.prevPageBtn = document.getElementById('prevPageBtn');
     DOM.nextPageBtn = document.getElementById('nextPageBtn');
@@ -68,10 +67,10 @@ function setupEventListeners() {
     DOM.prevPageBtn.addEventListener('click', () => navigatePage('prev'));
     DOM.nextPageBtn.addEventListener('click', () => navigatePage('next'));
 
-    // Edit mode
-    DOM.editModeBtn.addEventListener('click', toggleEditMode);
+    // Edit actions
     DOM.downloadEditsBtn.addEventListener('click', () => downloadJSON(state.currentManual));
     DOM.submitGitHubBtn.addEventListener('click', () => submitToGitHub(state.currentManual));
+    DOM.undoBtn.addEventListener('click', undoLastEdit);
 
     // Page panel scroll with throttling
     const throttledUpdatePageIndicator = throttle(updatePageIndicator, UI_TIMINGS.SCROLL_THROTTLE);
@@ -89,7 +88,7 @@ function setupEventListeners() {
 
     DOM.pagePanel.addEventListener('mouseenter', (e) => {
         const overlay = e.target.closest('.overlay');
-        if (overlay && !state.editMode) {
+        if (overlay) {
             const pageIdx = parseInt(overlay.dataset.pageId);
             const blockIdx = parseInt(overlay.dataset.blockId);
             highlightBlock(pageIdx, blockIdx);
@@ -98,23 +97,32 @@ function setupEventListeners() {
 
     DOM.pagePanel.addEventListener('mouseleave', (e) => {
         const overlay = e.target.closest('.overlay');
-        if (overlay && !state.editMode) {
+        if (overlay) {
             clearHighlights();
         }
     }, true);
 
-    // Event delegation for text list - enter block edit mode on click
+    // Event delegation for text list - direct block editing on click
     DOM.textList.addEventListener('click', (e) => {
         const textItem = e.target.closest('.text-item');
-        if (!textItem || !state.editMode) return;
+        if (!textItem) return;
 
         const pageIdx = parseInt(textItem.dataset.pageId);
         const blockIdx = parseInt(textItem.dataset.blockId);
 
         // Import enterBlockEditMode dynamically
-        import('./editor.js').then(({ enterBlockEditMode }) => {
+        import('./js/editor.js').then(({ enterBlockEditMode }) => {
             enterBlockEditMode(pageIdx, blockIdx);
         });
+    });
+
+    // Keyboard shortcuts
+    document.addEventListener('keydown', (e) => {
+        // Ctrl/Cmd+Z for undo
+        if ((e.ctrlKey || e.metaKey) && e.key === 'z' && !e.shiftKey) {
+            e.preventDefault();
+            undoLastEdit();
+        }
     });
 
     // Create block button with page detection

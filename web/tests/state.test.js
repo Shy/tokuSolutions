@@ -6,7 +6,7 @@ describe('EditSession', () => {
     // Reset session state
     EditSession.clear();
     state.editedBlocks.clear();
-    state.editMode = false;
+    state.lastEdit = null;
   });
 
   describe('start', () => {
@@ -88,13 +88,14 @@ describe('EditSession', () => {
       EditSession.start('manual1');
       EditSession.markDirty();
       state.editedBlocks.add('0-1');
-      state.editMode = true;
+      state.lastEdit = { pageIdx: 0, blockIdx: 1, previousState: {} };
 
       EditSession.clear();
 
       expect(EditSession.activeManual).toBe(null);
       expect(EditSession.hasUnsavedChanges).toBe(false);
       expect(state.editedBlocks.size).toBe(0);
+      expect(state.lastEdit).toBe(null);
     });
   });
 
@@ -136,9 +137,9 @@ describe('state', () => {
     expect(state.currentManual).toBe(null);
     expect(state.showOverlays).toBe(true);
     expect(state.showTranslations).toBe(true);
-    expect(state.editMode).toBe(false);
     expect(state.editedBlocks).toBeInstanceOf(Set);
     expect(state.currentBboxEdit).toBe(null);
+    expect(state.lastEdit).toBe(null);
     expect(typeof state.currentRenderToken).toBe('number');
   });
 

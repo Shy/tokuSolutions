@@ -36,7 +36,6 @@ describe('BBOX_CONSTRAINTS', () => {
 
 describe('UI_TIMINGS', () => {
   it('should have positive timing values', () => {
-    expect(UI_TIMINGS.EDIT_MODE_REAPPLY_DELAY).toBeGreaterThan(0);
     expect(UI_TIMINGS.SCROLL_DETECT_THRESHOLD).toBeGreaterThan(0);
     expect(UI_TIMINGS.SCROLL_THROTTLE).toBeGreaterThan(0);
     expect(UI_TIMINGS.FORK_WAIT_TIME).toBeGreaterThan(0);
@@ -44,7 +43,6 @@ describe('UI_TIMINGS', () => {
 
   it('should have reasonable delay values', () => {
     // Delays should be less than 10 seconds
-    expect(UI_TIMINGS.EDIT_MODE_REAPPLY_DELAY).toBeLessThan(10000);
     expect(UI_TIMINGS.SCROLL_THROTTLE).toBeLessThan(10000);
   });
 });

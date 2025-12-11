@@ -7,11 +7,11 @@ export const state = {
     currentManualName: null,  // The folder name (e.g., "CSM-Den-O-Belt-v2")
     showOverlays: true,
     showTranslations: true,
-    editMode: false,
     editedBlocks: new Set(),
     currentBboxEdit: null,
     currentlyEditingBlock: null,  // { pageIdx, blockIdx, element }
-    currentRenderToken: 0
+    currentRenderToken: 0,
+    lastEdit: null  // { pageIdx, blockIdx, previousState: { translation, bbox } }
 };
 
 // DOM element cache - populated on DOMContentLoaded
@@ -22,9 +22,9 @@ export const DOM = {
     pagePanel: null,
     pageIndicator: null,
     textList: null,
-    editModeBtn: null,
     downloadEditsBtn: null,
     submitGitHubBtn: null,
+    undoBtn: null,
     createBlockBtn: null,
     prevPageBtn: null,
     nextPageBtn: null,
@@ -65,12 +65,7 @@ export const EditSession = {
         this.activeManual = null;
         this.hasUnsavedChanges = false;
         state.editedBlocks.clear();
-        if (state.editMode) {
-            // Import toggleEditMode dynamically to avoid circular dependency
-            import('./editor.js').then(({ toggleEditMode }) => {
-                toggleEditMode();
-            });
-        }
+        state.lastEdit = null;
     },
 
     canNavigateAway() {

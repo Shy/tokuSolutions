@@ -14,7 +14,6 @@ export const BBOX_CONSTRAINTS = {
 };
 
 export const UI_TIMINGS = {
-    EDIT_MODE_REAPPLY_DELAY: 100,  // ms to wait before re-applying edit mode after render
     SCROLL_DETECT_THRESHOLD: 100,  // pixels from top to detect current page
     SCROLL_THROTTLE: 150,           // ms between scroll event processing
     FORK_WAIT_TIME: 2000            // ms to wait for GitHub fork to initialize

@@ -222,26 +222,7 @@ export function renderTextList() {
             item.appendChild(translation);
             item.appendChild(bboxEditor);
 
-            // Event listeners
-            item.addEventListener('click', (e) => {
-                if (!state.editMode) {
-                    highlightBlock(pageIdx, blockIdx);
-                    document.getElementById(`page-${pageIdx}`).scrollIntoView({ behavior: 'smooth', block: 'center' });
-                }
-                // In edit mode, don't scroll - let user focus on editing
-            });
-
-            item.addEventListener('mouseenter', () => {
-                if (!state.editMode) {
-                    highlightBlock(pageIdx, blockIdx);
-                }
-            });
-
-            item.addEventListener('mouseleave', () => {
-                if (!state.editMode) {
-                    clearHighlights();
-                }
-            });
+            // Event listeners - now handled in app.js for direct editing
 
             fragment.appendChild(item);
         });
@@ -253,7 +234,7 @@ export function renderTextList() {
 // Create bbox editor
 function createBboxEditor(block, pageIdx, blockIdx) {
     const bboxEditor = document.createElement('div');
-    bboxEditor.className = 'bbox-editor';
+    bboxEditor.className = 'bbox-editor hidden';
     bboxEditor.innerHTML = `
         <div class="bbox-editor-grid">
             <div class="bbox-field">
@@ -304,8 +285,6 @@ function createBboxEditor(block, pageIdx, blockIdx) {
 
 // Highlight block
 export function highlightBlock(pageIdx, blockIdx) {
-    if (state.editMode) return;
-
     document.querySelectorAll('.highlight').forEach(el => el.classList.remove('highlight'));
 
     document.querySelectorAll(`[data-page-id="${pageIdx}"][data-block-id="${blockIdx}"]`).forEach(el => {
@@ -319,7 +298,6 @@ export function highlightBlock(pageIdx, blockIdx) {
 
 // Clear highlights
 export function clearHighlights() {
-    if (state.editMode) return;
     document.querySelectorAll('.highlight').forEach(el => el.classList.remove('highlight'));
 }
 
@@ -330,11 +308,9 @@ export async function loadManual(manualName) {
     // Store the manual name
     state.currentManualName = manualName;
 
-    // Reset edit mode state
-    state.editMode = false;
+    // Reset edit state
     state.editedBlocks.clear();
-    DOM.editModeBtn.textContent = '✏️ Edit Mode';
-    DOM.editModeBtn.style.background = '';
+    state.lastEdit = null;
     hideEditButtons();
 
     try {
