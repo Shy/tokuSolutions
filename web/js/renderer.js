@@ -327,6 +327,9 @@ export function clearHighlights() {
 export async function loadManual(manualName) {
     const renderToken = ++state.currentRenderToken;
 
+    // Store the manual name
+    state.currentManualName = manualName;
+
     // Reset edit mode state
     state.editMode = false;
     state.editedBlocks.clear();

@@ -2,40 +2,120 @@
 import { BBOX_DEFAULTS, UI_TIMINGS } from './config.js';
 import { state, DOM, EditSession } from './state.js';
 import { validateBbox, clampBbox, debounce } from './utils.js';
-import { renderOverlays, highlightBlock, clearHighlights, showEditButtons, hideEditButtons } from './renderer.js';
+import { renderOverlays, showEditButtons, hideEditButtons } from './renderer.js';
 
-// Toggle edit mode
+// Enter edit mode for a specific block
+export function enterBlockEditMode(pageIdx, blockIdx) {
+    // Start edit session if not already started
+    if (!EditSession.isActive()) {
+        if (!EditSession.start(state.currentManualName)) {
+            return false;
+        }
+    }
+
+    // Exit any currently editing block
+    if (state.currentlyEditingBlock) {
+        exitBlockEditMode();
+    }
+
+    // Find the text item
+    const textItem = document.querySelector(`[data-page-id="${pageIdx}"][data-block-id="${blockIdx}"].text-item`);
+    if (!textItem) return false;
+
+    // Mark as editing
+    state.currentlyEditingBlock = { pageIdx, blockIdx, element: textItem };
+    textItem.classList.add('editing');
+
+    // Show bbox editor and delete button for this block
+    const bboxEditor = textItem.querySelector('.bbox-editor');
+    const deleteBtn = textItem.querySelector('.delete-btn');
+    if (bboxEditor) bboxEditor.classList.remove('hidden');
+    if (deleteBtn) deleteBtn.classList.remove('hidden');
+
+    // Make translation editable
+    const translationDiv = textItem.querySelector('.text-translation');
+    if (translationDiv) {
+        translationDiv.style.display = 'block'; // Ensure visible
+        translationDiv.contentEditable = true;
+        translationDiv.focus();
+
+        // Select all text
+        const selection = window.getSelection();
+        const range = document.createRange();
+        range.selectNodeContents(translationDiv);
+        selection.removeAllRanges();
+        selection.addRange(range);
+
+        // Save on blur
+        const handleBlur = () => {
+            saveTranslationEdit(pageIdx, blockIdx);
+            translationDiv.removeEventListener('blur', handleBlur);
+            translationDiv.removeEventListener('keydown', handleKeydown);
+        };
+
+        // Handle Enter/Escape
+        const handleKeydown = (e) => {
+            if (e.key === 'Enter' && !e.shiftKey) {
+                e.preventDefault();
+                translationDiv.blur(); // Triggers save via handleBlur
+            } else if (e.key === 'Escape') {
+                e.preventDefault();
+                // Restore original text without saving
+                translationDiv.textContent = state.currentManual.pages[pageIdx].blocks[blockIdx].translation;
+                exitBlockEditMode();
+            }
+        };
+
+        translationDiv.addEventListener('blur', handleBlur);
+        translationDiv.addEventListener('keydown', handleKeydown);
+    }
+
+    return true;
+}
+
+// Exit edit mode for currently editing block
+export function exitBlockEditMode() {
+    if (!state.currentlyEditingBlock) return;
+
+    const { element } = state.currentlyEditingBlock;
+    element.classList.remove('editing');
+
+    // Hide bbox editor and delete button
+    const bboxEditor = element.querySelector('.bbox-editor');
+    const deleteBtn = element.querySelector('.delete-btn');
+    if (bboxEditor) bboxEditor.classList.add('hidden');
+    if (deleteBtn) deleteBtn.classList.add('hidden');
+
+    // Make translation non-editable
+    const translationDiv = element.querySelector('.text-translation');
+    if (translationDiv && translationDiv.isContentEditable) {
+        translationDiv.contentEditable = false;
+    }
+
+    state.currentlyEditingBlock = null;
+}
+
+// Toggle edit mode (keep for button compatibility, but simplified)
 export function toggleEditMode() {
     state.editMode = !state.editMode;
 
     if (state.editMode) {
         // Start edit session
-        if (!EditSession.start(state.currentManual.meta.name)) {
+        if (!EditSession.start(state.currentManualName)) {
             state.editMode = false;
             return;
-        }
-
-        // Ensure translations are visible for editing
-        if (!state.showTranslations) {
-            document.querySelectorAll('.text-translation').forEach(el => {
-                el.style.display = 'block';
-            });
         }
 
         DOM.editModeBtn.textContent = '✏️ Exit Edit Mode';
         DOM.editModeBtn.style.background = '#ff6b6b';
         DOM.createBlockBtn.classList.remove('hidden');
-        document.querySelectorAll('.delete-btn').forEach(btn => btn.classList.remove('hidden'));
-        document.querySelectorAll('.bbox-editor').forEach(editor => editor.classList.remove('hidden'));
-        document.querySelectorAll('.text-item').forEach(item => item.classList.add('editable'));
     } else {
+        // Exit any currently editing block
+        exitBlockEditMode();
+
         DOM.editModeBtn.textContent = '✏️ Edit Mode';
         DOM.editModeBtn.style.background = '';
         DOM.createBlockBtn.classList.add('hidden');
-        document.querySelectorAll('.delete-btn').forEach(btn => btn.classList.add('hidden'));
-        document.querySelectorAll('.bbox-editor').forEach(editor => editor.classList.add('hidden'));
-        document.querySelectorAll('.text-item').forEach(item => item.classList.remove('editable'));
-        clearHighlights();
 
         // Close any open bbox editor
         if (state.currentBboxEdit) {
@@ -214,71 +294,32 @@ export function updateBboxLive(pageIdx, blockIdx, bboxEditor) {
 // Debounced version for input events
 export const updateBboxLiveDebounced = debounce(updateBboxLive, 150);
 
-// Handle translation edits
-export function handleTranslationEdit(e) {
-    if (!state.editMode) return;
-
-    const translationDiv = e.target.closest('.text-translation');
-    if (!translationDiv) return;
-
-    // Don't re-edit if already editing
-    if (translationDiv.isContentEditable) return;
-
-    const textItem = translationDiv.closest('.text-item');
+// Save translation edits
+export function saveTranslationEdit(pageIdx, blockIdx) {
+    const textItem = document.querySelector(`[data-page-id="${pageIdx}"][data-block-id="${blockIdx}"].text-item`);
     if (!textItem) return;
 
-    const pageIdx = parseInt(textItem.dataset.pageId);
-    const blockIdx = parseInt(textItem.dataset.blockId);
+    const translationDiv = textItem.querySelector('.text-translation');
+    if (!translationDiv || !translationDiv.isContentEditable) return;
 
-    // Make the translation editable
-    translationDiv.contentEditable = true;
-    translationDiv.focus();
+    const newTranslation = translationDiv.textContent.trim();
 
-    // Select all text for easy editing
-    const selection = window.getSelection();
-    const range = document.createRange();
-    range.selectNodeContents(translationDiv);
-    selection.removeAllRanges();
-    selection.addRange(range);
+    // Update data
+    state.currentManual.pages[pageIdx].blocks[blockIdx].translation = newTranslation;
 
-    // Save on blur or Enter key
-    const saveEdit = () => {
-        translationDiv.contentEditable = false;
-        const newTranslation = translationDiv.textContent.trim();
+    // Update overlay if visible
+    const overlay = document.querySelector(`.overlay[data-page-id="${pageIdx}"][data-block-id="${blockIdx}"]`);
+    if (overlay && state.showTranslations) {
+        overlay.textContent = newTranslation;
+    }
 
-        state.currentManual.pages[pageIdx].blocks[blockIdx].translation = newTranslation;
+    // Mark as edited
+    state.editedBlocks.add(`${pageIdx}-${blockIdx}`);
+    EditSession.markDirty();
+    showEditButtons();
 
-        // Update overlay if visible
-        const overlay = document.querySelector(`.overlay[data-page-id="${pageIdx}"][data-block-id="${blockIdx}"]`);
-        if (overlay && state.showTranslations) {
-            overlay.textContent = newTranslation;
-        }
-
-        state.editedBlocks.add(`${pageIdx}-${blockIdx}`);
-        EditSession.markDirty();
-        showEditButtons();
-    };
-
-    const handleBlur = () => {
-        saveEdit();
-        translationDiv.removeEventListener('blur', handleBlur);
-        translationDiv.removeEventListener('keydown', handleKeydown);
-    };
-
-    const handleKeydown = (e) => {
-        if (e.key === 'Enter' && !e.shiftKey) {
-            e.preventDefault();
-            translationDiv.blur();
-        } else if (e.key === 'Escape') {
-            e.preventDefault();
-            // Restore original text
-            translationDiv.textContent = state.currentManual.pages[pageIdx].blocks[blockIdx].translation;
-            translationDiv.blur();
-        }
-    };
-
-    translationDiv.addEventListener('blur', handleBlur, { once: true });
-    translationDiv.addEventListener('keydown', handleKeydown);
+    // Exit block edit mode
+    exitBlockEditMode();
 }
 
 // Reapply edit mode styles after re-rendering

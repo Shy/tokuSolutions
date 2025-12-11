@@ -479,9 +479,10 @@ footer {
     background: #f9f9f9;
 }
 
-.text-item.editable {
+.text-item.editing {
     border-left: 3px solid #48bb78;
     background: #f0fff4;
+    box-shadow: 0 2px 8px rgba(72, 187, 120, 0.2);
 }
 
 .text-item.highlight {
@@ -524,24 +525,19 @@ footer {
 .text-translation {
     font-size: 0.8rem;
     color: #666;
-}
-
-.text-item.editable .text-translation {
-    cursor: text;
     padding: 0.25rem;
     border-radius: 2px;
     transition: background 0.15s;
 }
 
-.text-item.editable .text-translation:hover {
-    background: #f0f9ff;
+.text-item.editing .text-translation {
+    cursor: text;
 }
 
 .text-translation[contenteditable="true"] {
     background: #fff;
     border: 1px solid #48bb78;
     outline: none;
-    padding: 0.25rem;
 }
 
 .bbox-editor {

@@ -4,11 +4,13 @@ export const state = {
     tagsData: null,
     selectedTags: new Set(),
     currentManual: null,
+    currentManualName: null,  // The folder name (e.g., "CSM-Den-O-Belt-v2")
     showOverlays: true,
     showTranslations: true,
     editMode: false,
     editedBlocks: new Set(),
     currentBboxEdit: null,
+    currentlyEditingBlock: null,  // { pageIdx, blockIdx, element }
     currentRenderToken: 0
 };
 
@@ -78,5 +80,9 @@ export const EditSession = {
             `Leaving will discard all edits.\n\n` +
             `Continue anyway?`
         );
+    },
+
+    isActive() {
+        return this.activeManual !== null;
     }
 };

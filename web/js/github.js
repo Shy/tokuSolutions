@@ -10,18 +10,24 @@ export async function submitToGitHub(currentManual) {
         return;
     }
 
-    const FILE_PATH = `manuals/${currentManual.meta.name}/translations.json`;
+    const manualName = state.currentManualName;
+    if (!manualName) {
+        ErrorHandler.user('Could not determine manual name');
+        return;
+    }
+
+    const FILE_PATH = `manuals/${manualName}/translations.json`;
     const [owner, repo] = GITHUB_CONFIG.REPO.split('/');
 
     // Generate JSON content
     const jsonContent = JSON.stringify(currentManual, null, 2);
 
     // Show instructions modal
-    showSubmitInstructions(jsonContent, owner, repo, FILE_PATH, currentManual);
+    showSubmitInstructions(jsonContent, owner, repo, FILE_PATH, manualName);
 }
 
 // Show submit instructions modal
-function showSubmitInstructions(jsonContent, owner, repo, filePath, currentManual) {
+function showSubmitInstructions(jsonContent, owner, repo, filePath, manualName) {
     // Create modal backdrop
     const backdrop = document.createElement('div');
     backdrop.style.cssText = `
@@ -91,7 +97,7 @@ function showSubmitInstructions(jsonContent, owner, repo, filePath, currentManua
             <strong style="color: #2d3748;">In GitHub:</strong>
             <ol style="margin: 0.5rem 0 0 1.5rem; color: #4a5568; line-height: 1.8;">
                 <li>Paste the JSON (Ctrl+V or Cmd+V)</li>
-                <li>Scroll down and enter branch name: <code style="background: #cbd5e0; padding: 0.1rem 0.3rem; border-radius: 2px;">edit-${currentManual.meta.name}</code></li>
+                <li>Scroll down and enter branch name: <code style="background: #cbd5e0; padding: 0.1rem 0.3rem; border-radius: 2px;">edit-${manualName}</code></li>
                 <li>Click "Propose changes"</li>
                 <li>Click "Create pull request"</li>
             </ol>
@@ -174,13 +180,15 @@ export function downloadJSON(currentManual) {
         return;
     }
 
+    const manualName = state.currentManualName || 'manual';
+
     const jsonContent = JSON.stringify(currentManual, null, 2);
     const blob = new Blob([jsonContent], { type: 'application/json' });
     const url = URL.createObjectURL(blob);
 
     const a = document.createElement('a');
     a.href = url;
-    a.download = `${currentManual.meta.name}-translations.json`;
+    a.download = `${manualName}-translations.json`;
     document.body.appendChild(a);
     a.click();
     document.body.removeChild(a);
