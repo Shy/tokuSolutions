@@ -94,7 +94,9 @@ describe('throttle', () => {
 
 describe('sanitizeText', () => {
   it('should escape HTML special characters', () => {
-    expect(sanitizeText('<script>alert("xss")</script>')).toBe('&lt;script&gt;alert("xss")&lt;/script&gt;');
+    expect(sanitizeText('<script>alert("xss")</script>')).toBe(
+      '&lt;script&gt;alert("xss")&lt;/script&gt;'
+    );
     expect(sanitizeText('Hello & goodbye')).toBe('Hello &amp; goodbye');
     expect(sanitizeText('"quoted"')).toBe('"quoted"');
   });

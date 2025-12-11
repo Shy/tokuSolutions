@@ -32,7 +32,9 @@ describe('GitHub Integration Tests', () => {
       addEventListener: vi.fn((_event, handler) => {
         mockCopyBtn._clickHandler = handler;
       }),
-      click() { if (this._clickHandler) this._clickHandler(); }
+      click() {
+        if (this._clickHandler) this._clickHandler();
+      }
     };
 
     const mockCopyStatus = {
@@ -43,14 +45,18 @@ describe('GitHub Integration Tests', () => {
       addEventListener: vi.fn((_event, handler) => {
         mockOpenBtn._clickHandler = handler;
       }),
-      click() { if (this._clickHandler) this._clickHandler(); }
+      click() {
+        if (this._clickHandler) this._clickHandler();
+      }
     };
 
     const mockCloseBtn = {
       addEventListener: vi.fn((_event, handler) => {
         mockCloseBtn._clickHandler = handler;
       }),
-      click() { if (this._clickHandler) this._clickHandler(); }
+      click() {
+        if (this._clickHandler) this._clickHandler();
+      }
     };
 
     const mockModal = {
@@ -168,9 +174,7 @@ describe('GitHub Integration Tests', () => {
       pages: [
         {
           image: 'pages/page-0.webp',
-          blocks: [
-            { text: 'Original', translation: 'Translated', bbox: [0.1, 0.2, 0.3, 0.4] }
-          ]
+          blocks: [{ text: 'Original', translation: 'Translated', bbox: [0.1, 0.2, 0.3, 0.4] }]
         }
       ]
     };
@@ -189,7 +193,7 @@ describe('GitHub Integration Tests', () => {
       // Verify window.open is called with correct URL when button is clicked
       // We need to simulate the button click
       const createElementCalls = mockDocument.createElement.mock.results;
-      const modalElements = createElementCalls.filter(result => result.value?.querySelector);
+      const modalElements = createElementCalls.filter((result) => result.value?.querySelector);
 
       expect(modalElements.length).toBeGreaterThan(0);
     });
@@ -210,9 +214,7 @@ describe('GitHub Integration Tests', () => {
       pages: [
         {
           image: 'pages/page-0.webp',
-          blocks: [
-            { text: 'Original', translation: 'Translated', bbox: [0.1, 0.2, 0.3, 0.4] }
-          ]
+          blocks: [{ text: 'Original', translation: 'Translated', bbox: [0.1, 0.2, 0.3, 0.4] }]
         }
       ]
     };
@@ -296,14 +298,18 @@ describe('GitHub Integration Tests', () => {
     it('should handle large manuals without errors', () => {
       // Create manual with many blocks to simulate real data size
       const largeManual = {
-        pages: Array(10).fill(null).map((_, pageIdx) => ({
-          image: `pages/page-${pageIdx}.webp`,
-          blocks: Array(50).fill(null).map(() => ({
-            text: 'Original text that is fairly long and realistic. '.repeat(5),
-            translation: 'Translated text that is also fairly long. '.repeat(5),
-            bbox: [0.1, 0.2, 0.3, 0.4]
+        pages: Array(10)
+          .fill(null)
+          .map((_, pageIdx) => ({
+            image: `pages/page-${pageIdx}.webp`,
+            blocks: Array(50)
+              .fill(null)
+              .map(() => ({
+                text: 'Original text that is fairly long and realistic. '.repeat(5),
+                translation: 'Translated text that is also fairly long. '.repeat(5),
+                bbox: [0.1, 0.2, 0.3, 0.4]
+              }))
           }))
-        }))
       };
 
       mockState.editedBlocks = new Set(['0-0']);
@@ -328,14 +334,18 @@ describe('GitHub Integration Tests', () => {
 
     it('should handle Japanese characters correctly', () => {
       const japaneseManual = {
-        pages: [{
-          image: 'pages/page-0.webp',
-          blocks: [{
-            text: '原文テキスト',
-            translation: '翻訳されたテキスト',
-            bbox: [0.1, 0.2, 0.3, 0.4]
-          }]
-        }]
+        pages: [
+          {
+            image: 'pages/page-0.webp',
+            blocks: [
+              {
+                text: '原文テキスト',
+                translation: '翻訳されたテキスト',
+                bbox: [0.1, 0.2, 0.3, 0.4]
+              }
+            ]
+          }
+        ]
       };
 
       mockState.editedBlocks = new Set(['0-0']);

@@ -144,8 +144,8 @@ describe('state', () => {
   });
 
   it('should allow state modifications', () => {
-    state.manuals = [{name: 'test'}];
-    expect(state.manuals).toEqual([{name: 'test'}]);
+    state.manuals = [{ name: 'test' }];
+    expect(state.manuals).toEqual([{ name: 'test' }]);
 
     state.showOverlays = false;
     expect(state.showOverlays).toBe(false);

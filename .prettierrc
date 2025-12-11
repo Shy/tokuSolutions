@@ -1,0 +1,18 @@
+{
+  "tabWidth": 2,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "overrides": [
+    {
+      "files": "manuals/**/translations.json",
+      "options": {
+        "tabWidth": 2,
+        "useTabs": false,
+        "printWidth": 100
+      }
+    }
+  ]
+}

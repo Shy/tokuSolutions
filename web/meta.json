@@ -7,10 +7,7 @@
       "blocks": 1055,
       "thumbnail": "CSM-Den-O-Belt-v2/pages/page-0.webp",
       "source_url": "https://toy.bandai.co.jp/manuals/?prod_name=&p_id=1&release_date=&t_id=&jan_code=",
-      "tags": [
-        "CSM",
-        "Kamen Rider"
-      ]
+      "tags": ["CSM", "Kamen Rider"]
     },
     {
       "name": "CSM-Fang-Memory",
@@ -19,10 +16,7 @@
       "blocks": 390,
       "thumbnail": "CSM-Fang-Memory/pages/page-0.webp",
       "source_url": "https://toy.bandai.co.jp/manuals/?prod_name=&p_id=1&release_date=&t_id=&jan_code=",
-      "tags": [
-        "CSM",
-        "Kamen Rider"
-      ]
+      "tags": ["CSM", "Kamen Rider"]
     },
     {
       "name": "DX-Ridewatch",
@@ -31,10 +25,7 @@
       "blocks": 578,
       "thumbnail": "DX-Ridewatch/pages/page-0.webp",
       "source_url": "https://toy.bandai.co.jp/manuals/?prod_name=&p_id=1&release_date=&t_id=&jan_code=",
-      "tags": [
-        "DX",
-        "Kamen Rider"
-      ]
+      "tags": ["DX", "Kamen Rider"]
     },
     {
       "name": "DenGasher",
@@ -43,10 +34,7 @@
       "blocks": 570,
       "thumbnail": "DenGasher/pages/page-0.webp",
       "source_url": "https://toy.bandai.co.jp/manuals/pdf.php?id=2756971",
-      "tags": [
-        "DX",
-        "Kamen Rider"
-      ]
+      "tags": ["DX", "Kamen Rider"]
     },
     {
       "name": "Faiz Driver Next",
@@ -55,10 +43,7 @@
       "blocks": 1259,
       "thumbnail": "Faiz Driver Next/pages/page-0.webp",
       "source_url": "https://toy.bandai.co.jp/manuals/?prod_name=&p_id=1&release_date=&t_id=&jan_code=",
-      "tags": [
-        "DX",
-        "Kamen Rider"
-      ]
+      "tags": ["DX", "Kamen Rider"]
     },
     {
       "name": "Ranger-Key-35-Red-Set",
@@ -67,10 +52,7 @@
       "blocks": 75,
       "thumbnail": "Ranger-Key-35-Red-Set/pages/page-0.webp",
       "source_url": "https://toy.bandai.co.jp/manuals/?prod_name=&p_id=1&release_date=&t_id=&jan_code=",
-      "tags": [
-        "Memorial",
-        "Super Sentai"
-      ]
+      "tags": ["Memorial", "Super Sentai"]
     }
   ],
   "tags": {

@@ -1,79 +1,98 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>TokuSolutions</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
+    <link rel="stylesheet" href="styles.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+      integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+  </head>
 
-<body>
+  <body>
     <!-- Home View -->
     <div id="homeView">
-        <div class="container">
-            <div class="page-header">
-                <h1>TokuSolutions</h1>
-                <p class="subtitle">Toku instruction manuals poorly translated to English using Document AI and then
-                    fixed by real people.</p>
-                <div class="search-section">
-                    <div class="search-box">
-                        <input type="text" id="searchInput" placeholder="Search manuals by name..." />
-                    </div>
-                    <div class="stats">
-                        <span id="statsDisplay">Loading...</span>
-                    </div>
-                </div>
+      <div class="container">
+        <div class="page-header">
+          <h1>TokuSolutions</h1>
+          <p class="subtitle">
+            Toku instruction manuals poorly translated to English using Document AI and then fixed
+            by real people.
+          </p>
+          <div class="search-section">
+            <div class="search-box">
+              <input type="text" id="searchInput" placeholder="Search manuals by name..." />
             </div>
-
-            <div class="loading-container" id="loadingIndicator">
-                <div class="loading-spinner"></div>
-                <span>Loading manuals...</span>
+            <div class="stats">
+              <span id="statsDisplay">Loading...</span>
             </div>
-
-            <div class="grid" id="manualsGrid"></div>
-
-            <div class="no-results hidden" id="noResults">
-                No manuals found matching your search.
-            </div>
-
+          </div>
         </div>
+
+        <div class="loading-container" id="loadingIndicator">
+          <div class="loading-spinner"></div>
+          <span>Loading manuals...</span>
+        </div>
+
+        <div class="grid" id="manualsGrid"></div>
+
+        <div class="no-results hidden" id="noResults">No manuals found matching your search.</div>
+      </div>
     </div>
 
     <!-- Viewer View -->
     <div id="viewerView" class="hidden">
-        <header>
-            <h1 id="manualTitle">Loading...</h1>
-            <div class="controls">
-                <button id="backToHome" class="btn">← Back</button>
-                <a id="sourceLink" href="#" class="btn" target="_blank" style="display:none;">📄 Original</a>
-                <button id="undoBtn" class="btn btn-secondary hidden">↶ Undo (Ctrl+Z)</button>
-                <button id="downloadEditsBtn" class="btn btn-success hidden">💾 Download JSON</button>
-                <button id="submitGitHubBtn" class="btn btn-success hidden">🔀 Submit to GitHub</button>
-                <div class="page-nav">
-                    <button id="prevPageBtn" class="btn">◀</button>
-                    <span id="pageIndicator">Page 1 / 1</span>
-                    <button id="nextPageBtn" class="btn">▶</button>
-                </div>
-                <button id="overlaysBtn" class="btn">👁️ Hide Overlays</button>
-                <button id="translationsBtn" class="btn">🌐 Hide Translations</button>
-            </div>
-        </header>
-
-        <div class="viewer-container">
-            <div class="page-panel" id="pagePanel"></div>
-            <div class="text-panel">
-                <div class="text-panel-header">
-                    <h2>Translations</h2>
-                    <button id="createBlockBtn" class="btn btn-success"
-                        style="font-size: 0.75rem; padding: 0.3rem 0.6rem;">+ Add Block</button>
-                </div>
-                <div id="textList"></div>
-            </div>
+      <header>
+        <h1 id="manualTitle">Loading...</h1>
+        <div class="controls">
+          <button id="backToHome" class="btn"><i class="fas fa-arrow-left"></i> Back</button>
+          <a id="sourceLink" href="#" class="btn" target="_blank" style="display: none"
+            ><i class="fas fa-file-pdf"></i> Original</a
+          >
+          <button id="undoBtn" class="btn btn-secondary hidden">
+            <i class="fas fa-undo"></i> Undo (Ctrl+Z)
+          </button>
+          <button id="downloadEditsBtn" class="btn btn-success hidden">
+            <i class="fas fa-download"></i> Download JSON
+          </button>
+          <button id="submitGitHubBtn" class="btn btn-success hidden">
+            <i class="fas fa-code-branch"></i> Submit Changes
+          </button>
+          <div class="page-nav">
+            <button id="prevPageBtn" class="btn"><i class="fas fa-chevron-left"></i></button>
+            <span id="pageIndicator">Page 1 / 1</span>
+            <button id="nextPageBtn" class="btn"><i class="fas fa-chevron-right"></i></button>
+          </div>
+          <button id="overlaysBtn" class="btn"><i class="fas fa-eye"></i> Hide Overlays</button>
+          <button id="translationsBtn" class="btn">
+            <i class="fas fa-language"></i> Hide Translations
+          </button>
         </div>
+      </header>
+
+      <div class="viewer-container">
+        <div class="page-panel" id="pagePanel"></div>
+        <div class="text-panel">
+          <div class="text-panel-header">
+            <h2>Translations</h2>
+            <button
+              id="createBlockBtn"
+              class="btn btn-success"
+              style="font-size: 0.75rem; padding: 0.3rem 0.6rem"
+            >
+              + Add Block
+            </button>
+          </div>
+          <div id="textList"></div>
+        </div>
+      </div>
     </div>
 
     <script type="module" src="app.js"></script>
-</body>
-
+  </body>
 </html>
