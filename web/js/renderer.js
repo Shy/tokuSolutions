@@ -227,10 +227,8 @@ export function renderTextList() {
                 if (!state.editMode) {
                     highlightBlock(pageIdx, blockIdx);
                     document.getElementById(`page-${pageIdx}`).scrollIntoView({ behavior: 'smooth', block: 'center' });
-                } else if (!e.target.closest('.text-translation')) {
-                    // In edit mode, scroll if clicking outside translation text
-                    document.getElementById(`page-${pageIdx}`).scrollIntoView({ behavior: 'smooth', block: 'center' });
                 }
+                // In edit mode, don't scroll - let user focus on editing
             });
 
             item.addEventListener('mouseenter', () => {

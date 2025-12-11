@@ -15,6 +15,13 @@ export function toggleEditMode() {
             return;
         }
 
+        // Ensure translations are visible for editing
+        if (!state.showTranslations) {
+            document.querySelectorAll('.text-translation').forEach(el => {
+                el.style.display = 'block';
+            });
+        }
+
         DOM.editModeBtn.textContent = '✏️ Exit Edit Mode';
         DOM.editModeBtn.style.background = '#ff6b6b';
         DOM.createBlockBtn.classList.remove('hidden');
@@ -213,6 +220,9 @@ export function handleTranslationEdit(e) {
 
     const translationDiv = e.target.closest('.text-translation');
     if (!translationDiv) return;
+
+    // Don't re-edit if already editing
+    if (translationDiv.isContentEditable) return;
 
     const textItem = translationDiv.closest('.text-item');
     if (!textItem) return;

@@ -105,8 +105,11 @@ function setupEventListeners() {
 
     // Event delegation for text list
     DOM.textList.addEventListener('click', (e) => {
+        if (!state.editMode) return;
+
         const translation = e.target.closest('.text-translation');
-        if (translation && state.editMode) {
+        if (translation) {
+            e.stopPropagation(); // Prevent other handlers from interfering
             handleTranslationEdit(e);
         }
     });
