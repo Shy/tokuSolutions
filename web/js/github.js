@@ -1,223 +1,191 @@
 // GitHub integration module
-import { GITHUB_CONFIG, UI_TIMINGS } from './config.js';
+import { GITHUB_CONFIG } from './config.js';
 import { state, EditSession } from './state.js';
 import { ErrorHandler } from './errors.js';
 
-// Submit edits via GitHub PR
+// Submit edits via GitHub PR (Hybrid Approach: Copy JSON + Open GitHub Editor)
 export async function submitToGitHub(currentManual) {
     if (state.editedBlocks.size === 0) {
         ErrorHandler.user('No edits to save');
         return;
     }
 
-    const BRANCH_NAME = `edit-${currentManual.meta.name}-${Date.now()}`;
     const FILE_PATH = `manuals/${currentManual.meta.name}/translations.json`;
+    const [owner, repo] = GITHUB_CONFIG.REPO.split('/');
 
-    try {
-        let token = localStorage.getItem('github_token');
+    // Generate JSON content
+    const jsonContent = JSON.stringify(currentManual, null, 2);
 
-        if (!token) {
-            // Save state for after auth
-            localStorage.setItem('pending_edit', JSON.stringify({
-                manual: currentManual,
-                blocks: Array.from(state.editedBlocks)
-            }));
+    // Show instructions modal
+    showSubmitInstructions(jsonContent, owner, repo, FILE_PATH, currentManual);
+}
 
-            await authenticateWithGitHub(GITHUB_CONFIG.CLIENT_ID);
-            return;
-        }
+// Show submit instructions modal
+function showSubmitInstructions(jsonContent, owner, repo, filePath, currentManual) {
+    // Create modal backdrop
+    const backdrop = document.createElement('div');
+    backdrop.style.cssText = `
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background: rgba(0, 0, 0, 0.7);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        z-index: 10000;
+    `;
 
-        const octokit = new Octokit.Octokit({ auth: token });
-        const [owner, repo] = GITHUB_CONFIG.REPO.split('/');
+    // Create modal
+    const modal = document.createElement('div');
+    modal.style.cssText = `
+        background: white;
+        padding: 2rem;
+        border-radius: 8px;
+        max-width: 600px;
+        width: 90%;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    `;
 
-        alert('Creating fork and submitting pull request...\nThis may take a moment.');
+    // Create content
+    modal.innerHTML = `
+        <h2 style="margin-top: 0; color: #2d3748;">Submit to GitHub</h2>
 
-        const { data: user } = await octokit.rest.users.getAuthenticated();
-        const forkOwner = user.login;
+        <p style="color: #4a5568; line-height: 1.6;">
+            Follow these steps to submit your translation edits:
+        </p>
 
-        // Fork repository
+        <div style="background: #f7fafc; padding: 1rem; border-radius: 4px; margin: 1rem 0;">
+            <strong style="color: #2d3748;">Step 1: Copy JSON to clipboard</strong>
+            <button id="copyJsonBtn" style="
+                display: block;
+                margin-top: 0.5rem;
+                padding: 0.5rem 1rem;
+                background: #48bb78;
+                color: white;
+                border: none;
+                border-radius: 4px;
+                cursor: pointer;
+                font-size: 0.9rem;
+            ">📋 Copy JSON</button>
+            <span id="copyStatus" style="color: #48bb78; margin-left: 0.5rem; display: none;">✓ Copied!</span>
+        </div>
+
+        <div style="background: #f7fafc; padding: 1rem; border-radius: 4px; margin: 1rem 0;">
+            <strong style="color: #2d3748;">Step 2: Open GitHub editor</strong>
+            <button id="openGithubBtn" style="
+                display: block;
+                margin-top: 0.5rem;
+                padding: 0.5rem 1rem;
+                background: #4299e1;
+                color: white;
+                border: none;
+                border-radius: 4px;
+                cursor: pointer;
+                font-size: 0.9rem;
+            ">🔗 Open GitHub</button>
+        </div>
+
+        <div style="background: #edf2f7; padding: 1rem; border-radius: 4px; margin: 1rem 0;">
+            <strong style="color: #2d3748;">In GitHub:</strong>
+            <ol style="margin: 0.5rem 0 0 1.5rem; color: #4a5568; line-height: 1.8;">
+                <li>Paste the JSON (Ctrl+V or Cmd+V)</li>
+                <li>Scroll down and enter branch name: <code style="background: #cbd5e0; padding: 0.1rem 0.3rem; border-radius: 2px;">edit-${currentManual.meta.name}</code></li>
+                <li>Click "Propose changes"</li>
+                <li>Click "Create pull request"</li>
+            </ol>
+        </div>
+
+        <div style="display: flex; gap: 1rem; margin-top: 1.5rem;">
+            <button id="closeModalBtn" style="
+                flex: 1;
+                padding: 0.75rem;
+                background: #e2e8f0;
+                color: #2d3748;
+                border: none;
+                border-radius: 4px;
+                cursor: pointer;
+                font-size: 0.9rem;
+            ">Close</button>
+        </div>
+    `;
+
+    backdrop.appendChild(modal);
+    document.body.appendChild(backdrop);
+
+    // Copy JSON button
+    const copyBtn = modal.querySelector('#copyJsonBtn');
+    const copyStatus = modal.querySelector('#copyStatus');
+    copyBtn.addEventListener('click', async () => {
         try {
-            await octokit.rest.repos.createFork({ owner, repo });
-            await new Promise(resolve => setTimeout(resolve, UI_TIMINGS.FORK_WAIT_TIME));
-        } catch (error) {
-            // Fork may already exist - continue with workflow
+            await navigator.clipboard.writeText(jsonContent);
+            copyStatus.style.display = 'inline';
+            copyBtn.textContent = '✓ Copied!';
+            setTimeout(() => {
+                copyBtn.textContent = '📋 Copy JSON';
+                copyStatus.style.display = 'none';
+            }, 2000);
+        } catch (err) {
+            // Fallback for older browsers
+            const textarea = document.createElement('textarea');
+            textarea.value = jsonContent;
+            textarea.style.position = 'fixed';
+            textarea.style.opacity = '0';
+            document.body.appendChild(textarea);
+            textarea.select();
+            document.execCommand('copy');
+            document.body.removeChild(textarea);
+
+            copyStatus.style.display = 'inline';
+            copyBtn.textContent = '✓ Copied!';
+            setTimeout(() => {
+                copyBtn.textContent = '📋 Copy JSON';
+                copyStatus.style.display = 'none';
+            }, 2000);
         }
+    });
 
-        // Get default branch
-        const { data: forkRepo } = await octokit.rest.repos.get({
-            owner: forkOwner,
-            repo
-        });
-        const defaultBranch = forkRepo.default_branch;
+    // Open GitHub button
+    const openBtn = modal.querySelector('#openGithubBtn');
+    openBtn.addEventListener('click', () => {
+        const githubUrl = `https://github.com/${owner}/${repo}/edit/main/${filePath}`;
+        window.open(githubUrl, '_blank');
+    });
 
-        const { data: refData } = await octokit.rest.git.getRef({
-            owner: forkOwner,
-            repo,
-            ref: `heads/${defaultBranch}`
-        });
+    // Close modal
+    const closeBtn = modal.querySelector('#closeModalBtn');
+    closeBtn.addEventListener('click', () => {
+        document.body.removeChild(backdrop);
+    });
 
-        // Create new branch
-        await octokit.rest.git.createRef({
-            owner: forkOwner,
-            repo,
-            ref: `refs/heads/${BRANCH_NAME}`,
-            sha: refData.object.sha
-        });
-
-        // Get current file SHA
-        const { data: fileData } = await octokit.rest.repos.getContent({
-            owner: forkOwner,
-            repo,
-            path: FILE_PATH,
-            ref: BRANCH_NAME
-        });
-
-        // Update file
-        const jsonContent = JSON.stringify(currentManual, null, 2);
-        // Use btoa with proper UTF-8 encoding (handles Unicode and large files)
-        const base64Content = btoa(unescape(encodeURIComponent(jsonContent)));
-
-        await octokit.rest.repos.createOrUpdateFileContents({
-            owner: forkOwner,
-            repo,
-            path: FILE_PATH,
-            message: `Update translations for ${currentManual.meta.source}`,
-            content: base64Content,
-            sha: fileData.sha,
-            branch: BRANCH_NAME
-        });
-
-        // Create pull request
-        const { data: pr } = await octokit.rest.pulls.create({
-            owner,
-            repo,
-            title: `Translation edits for ${currentManual.meta.source}`,
-            head: `${forkOwner}:${BRANCH_NAME}`,
-            base: 'main',
-            body: `Community translation edits for **${currentManual.meta.source}**\n\n` +
-                  `### Changes\n` +
-                  `- Edited ${state.editedBlocks.size} text block(s)\n\n` +
-                  `---\n` +
-                  `*Submitted via [TokuSolutions](https://toku.solutions) inline editor*`
-        });
-
-        alert(
-            `Pull request created successfully!\n\n` +
-            `PR #${pr.number}: ${pr.html_url}\n\n` +
-            `Thank you for contributing!`
-        );
-
-        state.editedBlocks.clear();
-        EditSession.markClean();
-        return true;
-
-    } catch (error) {
-        ErrorHandler.github(error, 'Creating pull request');
-        return false;
-    }
+    // Close on backdrop click
+    backdrop.addEventListener('click', (e) => {
+        if (e.target === backdrop) {
+            document.body.removeChild(backdrop);
+        }
+    });
 }
 
-// Authenticate with GitHub using Device Flow
-async function authenticateWithGitHub(clientId) {
-    try {
-        const params = new URLSearchParams({
-            client_id: clientId,
-            scope: 'public_repo'
-        });
-
-        const deviceResponse = await fetch('https://github.com/login/device/code', {
-            method: 'POST',
-            headers: { 'Accept': 'application/json' },
-            body: params
-        });
-
-        const deviceData = await deviceResponse.json();
-
-        const userConfirmed = confirm(
-            `GitHub Authorization Required\n\n` +
-            `1. Click OK to open GitHub\n` +
-            `2. Enter this code: ${deviceData.user_code}\n` +
-            `3. Authorize the app\n\n` +
-            `The code will expire in ${Math.floor(deviceData.expires_in / 60)} minutes.`
-        );
-
-        if (!userConfirmed) {
-            alert('Authorization cancelled. You can still download the JSON file instead.');
-            return;
-        }
-
-        window.open(deviceData.verification_uri, '_blank');
-
-        // Poll for access token
-        const interval = deviceData.interval * 1000;
-        const maxAttempts = Math.floor(deviceData.expires_in / deviceData.interval);
-
-        for (let attempt = 0; attempt < maxAttempts; attempt++) {
-            await new Promise(resolve => setTimeout(resolve, interval));
-
-            const tokenParams = new URLSearchParams({
-                client_id: clientId,
-                device_code: deviceData.device_code,
-                grant_type: 'urn:ietf:params:oauth:grant-type:device_code'
-            });
-
-            const tokenResponse = await fetch('https://github.com/login/oauth/access_token', {
-                method: 'POST',
-                headers: { 'Accept': 'application/json' },
-                body: tokenParams
-            });
-
-            const tokenData = await tokenResponse.json();
-
-            if (tokenData.access_token) {
-                localStorage.setItem('github_token', tokenData.access_token);
-                alert('GitHub authorization successful! Now submitting your edits...');
-
-                // Resume pending edit
-                const pendingEdit = localStorage.getItem('pending_edit');
-                if (pendingEdit) {
-                    const data = JSON.parse(pendingEdit);
-                    localStorage.removeItem('pending_edit');
-                    await submitToGitHub(data.manual);
-                }
-                return;
-            }
-
-            if (tokenData.error === 'authorization_pending') continue;
-            if (tokenData.error === 'slow_down') {
-                await new Promise(resolve => setTimeout(resolve, interval));
-                continue;
-            }
-
-            throw new Error(tokenData.error_description || tokenData.error);
-        }
-
-        throw new Error('Authorization timeout - please try again');
-
-    } catch (error) {
-        ErrorHandler.github(error, 'GitHub authentication');
-    }
-}
-
-// Download JSON file
+// Download JSON file (alternative to GitHub submission)
 export function downloadJSON(currentManual) {
     if (state.editedBlocks.size === 0) {
         ErrorHandler.user('No edits to save');
         return;
     }
 
-    const exportData = JSON.stringify(currentManual, null, 2);
-    const blob = new Blob([exportData], { type: 'application/json' });
+    const jsonContent = JSON.stringify(currentManual, null, 2);
+    const blob = new Blob([jsonContent], { type: 'application/json' });
     const url = URL.createObjectURL(blob);
+
     const a = document.createElement('a');
     a.href = url;
-    a.download = `${currentManual.meta.name}-edited.json`;
+    a.download = `${currentManual.meta.name}-translations.json`;
     document.body.appendChild(a);
     a.click();
     document.body.removeChild(a);
     URL.revokeObjectURL(url);
 
     EditSession.markClean();
-
-    alert(`Downloaded ${currentManual.meta.name}-edited.json with ${state.editedBlocks.size} edited blocks`);
+    alert('JSON file downloaded successfully!\n\nYou can now submit this file to GitHub manually.');
 }
