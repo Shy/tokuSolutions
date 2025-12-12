@@ -362,18 +362,23 @@ export async function loadManual(manualName) {
     const blogToggle = blogDropdown.querySelector('.dropdown-toggle');
 
     // Get blog links (prefer blog_links array, fallback to single blog_url)
-    const blogLinks = state.currentManual.meta.blog_links ||
-      (state.currentManual.meta.blog_url ? [{
-        title: 'Tech Blog',
-        url: state.currentManual.meta.blog_url,
-        translated_url: state.currentManual.meta.blog_url
-      }] : []);
+    const blogLinks =
+      state.currentManual.meta.blog_links ||
+      (state.currentManual.meta.blog_url
+        ? [
+            {
+              title: 'Tech Blog',
+              url: state.currentManual.meta.blog_url,
+              translated_url: state.currentManual.meta.blog_url
+            }
+          ]
+        : []);
 
     if (blogLinks.length > 0) {
       // Populate dropdown menu
-      blogMenu.innerHTML = blogLinks.map(link =>
-        `<a href="${link.translated_url}" target="_blank">${link.title}</a>`
-      ).join('');
+      blogMenu.innerHTML = blogLinks
+        .map((link) => `<a href="${link.translated_url}" target="_blank">${link.title}</a>`)
+        .join('');
 
       // Show dropdown
       blogDropdown.style.display = 'inline-block';
