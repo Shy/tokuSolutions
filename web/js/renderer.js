@@ -91,6 +91,7 @@ export function renderTagFilters() {
     const tagButton = document.createElement('button');
     tagButton.className = 'tag-filter';
     tagButton.textContent = tag.name;
+    tagButton.dataset.tagId = tagId; // Store tag ID on button
     tagButton.style.setProperty('--tag-color', tag.color);
     tagButton.onclick = () => {
       // Import toggleTagFilter dynamically

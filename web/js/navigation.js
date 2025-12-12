@@ -102,9 +102,7 @@ export function toggleTagFilter(tagId) {
 
   // Update UI
   document.querySelectorAll('.tag-filter').forEach((btn) => {
-    const btnTagId = Array.from(Object.entries(state.tagsData.tags)).find(
-      ([_, tag]) => tag.name === btn.textContent
-    )?.[0];
+    const btnTagId = btn.dataset.tagId;
 
     if (btnTagId && state.selectedTags.has(btnTagId)) {
       btn.classList.add('active');
