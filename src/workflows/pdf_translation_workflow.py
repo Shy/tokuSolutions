@@ -59,6 +59,7 @@ class WorkflowProgress:
     site_progress: str = ""
     cleanup_progress: str = ""
     pages_total: int = 0
+    pages_completed: int = 0
     blocks_total: int = 0
     product_url: str = ""
     product_name: str = ""
@@ -114,6 +115,7 @@ class PDFTranslationWorkflow:
             )
 
         self._progress.pages_total = ocr_result.page_count
+        self._progress.pages_completed = ocr_result.page_count  # All pages completed
         self._progress.blocks_total = len(ocr_result.blocks)
         self._progress.product_url = ocr_result.product_url
         self._progress.product_name = ocr_result.product_name

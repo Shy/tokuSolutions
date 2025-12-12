@@ -9,37 +9,9 @@
     "pages": 25,
     "blocks": 497,
     "thumbnail": "pages/page-0.webp",
-    "tags": ["sentai"],
-    "tag_definitions": {
-      "csm": {
-        "color": "#FF6B6B",
-        "label": "CSM"
-      },
-      "dx": {
-        "color": "#4ECDC4",
-        "label": "DX"
-      },
-      "memorial": {
-        "color": "#95E1D3",
-        "label": "Memorial"
-      },
-      "premium": {
-        "color": "#F38181",
-        "label": "Premium"
-      },
-      "kamen-rider": {
-        "color": "#AA96DA",
-        "label": "Kamen Rider"
-      },
-      "sentai": {
-        "color": "#FCBAD3",
-        "label": "Sentai"
-      },
-      "ultraman": {
-        "color": "#A8D8EA",
-        "label": "Ultraman"
-      }
-    }
+    "tags": [
+      "sentai"
+    ]
   },
   "pages": [
     {
@@ -48,72 +20,142 @@
         {
           "text": "WEB取扱説明書",
           "translation": "Web instruction manual",
-          "bbox": [0.0369, 0.0376, 0.165, 0.0154]
+          "bbox": [
+            0.0369,
+            0.0376,
+            0.165,
+            0.0154
+          ]
         },
         {
           "text": "©東映",
           "translation": "©Toei",
-          "bbox": [0.3251, 0.0693, 0.032, 0.0064]
+          "bbox": [
+            0.3251,
+            0.0693,
+            0.032,
+            0.0064
+          ]
         },
         {
           "text": "ダイノブレス\nMEMORIAL EDITION の遊び方",
           "translation": "How to play Dino Breath Memorial Edition",
-          "bbox": [0.2429, 0.1129, 0.6453, 0.0791]
+          "bbox": [
+            0.2429,
+            0.1129,
+            0.6453,
+            0.0791
+          ]
         },
         {
           "text": "※WEB取扱説明書内の画像はイメージです。",
           "translation": "*The images in the online instruction manual are for illustrative purposes only.",
-          "bbox": [0.0725, 0.2099, 0.3335, 0.012]
+          "bbox": [
+            0.0725,
+            0.2099,
+            0.3335,
+            0.012
+          ]
         },
         {
           "text": "セット内容",
           "translation": "Set contents",
-          "bbox": [0.1082, 0.2629, 0.116, 0.0175]
+          "bbox": [
+            0.1082,
+            0.2629,
+            0.116,
+            0.0175
+          ]
         },
         {
           "text": "MR\nダイノプレート (ティラノ)…1\n※ティラノは、ダイノブレス本体に\n装着した状態で梱包されています。",
           "translation": "MR\nDyno Plate (Tyranno)...1\n*The Tyranno is packaged attached to the Dyno Breath unit.",
-          "bbox": [0.5958, 0.2505, 0.3275, 0.1248]
+          "bbox": [
+            0.5958,
+            0.2505,
+            0.3275,
+            0.1248
+          ]
         },
         {
           "text": "ダイノブレス本体…1",
           "translation": "Dyno Breath main unit...1",
-          "bbox": [0.2713, 0.4374, 0.1867, 0.0141]
+          "bbox": [
+            0.2713,
+            0.4374,
+            0.1867,
+            0.0141
+          ]
         },
         {
           "text": "ベルト... 1",
           "translation": "Belt... 1",
-          "bbox": [0.2725, 0.5494, 0.0876, 0.0124]
+          "bbox": [
+            0.2725,
+            0.5494,
+            0.0876,
+            0.0124
+          ]
         },
         {
           "text": "ダイノプレート (トリケラ)･･･1",
           "translation": "Dyno Plate (Tricera)...1",
-          "bbox": [0.5964, 0.4801, 0.2568, 0.0145]
+          "bbox": [
+            0.5964,
+            0.4801,
+            0.2568,
+            0.0145
+          ]
         },
         {
           "text": "ダイノプレート(プテラ)...1",
           "translation": "Dyno Plate (Ptera)...1",
-          "bbox": [0.6036, 0.5827, 0.2429, 0.0141]
+          "bbox": [
+            0.6036,
+            0.5827,
+            0.2429,
+            0.0141
+          ]
         },
         {
           "text": "△ 注意",
           "translation": "△ Caution",
-          "bbox": [0.4429, 0.6464, 0.11, 0.0141]
+          "bbox": [
+            0.4429,
+            0.6464,
+            0.11,
+            0.0141
+          ]
         },
         {
           "text": "お買い上げのお客様へ 必ずお読みください。",
           "translation": "To all customers, please be sure to read this.",
-          "bbox": [0.3408, 0.6708, 0.319, 0.0111]
+          "bbox": [
+            0.3408,
+            0.6708,
+            0.319,
+            0.0111
+          ]
         },
         {
           "text": "●本商品の対象年齢は15才以上です。 対象年齢未満のお子様には絶対に与えないでください。 ●小さな部品がありますので、小さなお子様が\n誤って飲み込まないように注意してください。 窒息などの危険があります。 ●ベルトを長時間装着していると、汗などでかぶれたりかゆみが生じる\n場合があります。皮膚に異常を感じたときは、すみやかにご使用をおやめください。 ●耳の近くで使用してはいけません。 誤って使用すると、聴覚を\n損なう恐れがあります。●本商品には電子部品を使用しております。ペースメーカーをご使用の方は、本商品を身体に近づけないようご注意ください。\n●LEDの光の点滅を見続けないでください。 気分が悪くなったりする恐れがあります。 ●電池(別売り)、電池ぶたなどの誤飲事故に注意して\nください。《電池を誤使用すると発熱・ 破裂 液漏れの恐れがあります。 下記に注意してください》 二次電池 (充電式電池) は、 絶対に使用しない\nでください。 古い電池と新しい電池、いろいろな種類の電池をまぜて使わないでください。 +- (プラスマイナス) を正しくセットしてください。\n●遊んだ後は必ずスイッチを切り電池をはずしてください。 電池を入れたままにしておくと、液漏れの恐れがあり危険です。 ショートさせたり充電、\n分解、加熱、火の中に入れたりしないでください。 ●万一、電池から漏れた液が目に入ったときはすぐに大量の水で洗い、医師に相談してください。\n皮膚や服に付いた時は水で洗ってください。 廃棄するときは、自治体の廃棄物処理の指示に従ってください。",
           "translation": "●This product is intended for ages 15 and over. Never give to children under this age. ●This product contains small parts. Please take care to prevent small children from accidentally swallowing them. There is a risk of choking. ●Wearing the belt for a long period of time may cause a rash or itching due to sweat, etc. If you notice any abnormalities on your skin, discontinue use immediately. ●Do not use near the ears. Improper use may cause hearing damage. ●This product contains electronic components. If you use a pacemaker, please keep this product away from your body.\n●Do not stare at the flashing LED light for long periods of time. It may make you feel unwell. ●Be careful not to swallow the battery (sold separately), battery cover, etc. {Misuse of batteries may cause heat generation, explosion, or leakage. Please observe the following:} Never use secondary batteries (rechargeable batteries). Do not mix old and new batteries, or different types of batteries. Install the +- (plus/minus) correctly. ●After playing, be sure to turn off the switch and remove the batteries. Leaving the batteries in the product may cause leakage, which is dangerous. Do not short-circuit, charge,\ndisassemble, heat, or put into fire. ●If battery fluid gets into your eyes, immediately rinse with plenty of water and consult a doctor.\nIf it comes into contact with your skin or clothes, rinse with water. When disposing of the product, follow the waste disposal instructions of your local government.",
-          "bbox": [0.0876, 0.6926, 0.8242, 0.1368]
+          "bbox": [
+            0.0876,
+            0.6926,
+            0.8242,
+            0.1368
+          ]
         },
         {
           "text": "<使用上の注意>●本商品は精密に作られています。無理な力を加えたり、落としたりすると破損する恐れがあります。 本商品は精密な電子部品で\n構成されています。落としたり、水にぬらしたり、汚したり、分解したりしないでください。 また、高温・低温になるところでの使用、保管はさけてください。\n●プラスチック梱包材は、開封後はすぐに捨ててください。 ●本商品には塗装部分がありますので、保管の際には他のもの (樹脂製品や家具、\nソファー)と接触しないようにしてください。 色が移る場合があります。 ●可動部分・取付部分を無理な方向に強く引っ張ったり、曲げたりしないでください。\n●発音の一部にイントネーションが違っていたり、 商品の特性上聞き取りにくいものがありますが、ご了承ください。 ダイノブレス-MEMORIAL\nEDITION-には、対応する商品以外はセットしないでください。故障や破損の原因となります。",
           "translation": "<Precautions for Use>●This product is precision-crafted. Applying excessive force or dropping it may cause damage. This product is composed of precision electronic components. Do not drop, get wet, soil, or disassemble. Also, avoid using or storing it in high or low temperatures.\n●Discard the plastic packaging immediately after opening. ●This product has painted parts. When storing, avoid contact with other objects (plastic products, furniture, sofas) as this may cause color transfer. ●Do not forcefully pull or bend moving or attached parts in an unnatural direction.\n●Please note that some sounds may have an incorrect intonation or be difficult to hear due to the characteristics of the product. Do not use any products other than those compatible with the Dynoblesse -MEMORIAL\nEDITION-. This may cause malfunction or damage.",
-          "bbox": [0.081, 0.8469, 0.8381, 0.0817]
+          "bbox": [
+            0.081,
+            0.8469,
+            0.8381,
+            0.0817
+          ]
         }
       ]
     },
@@ -123,117 +165,232 @@
         {
           "text": "WEB取扱説明書",
           "translation": "Web instruction manual",
-          "bbox": [0.0363, 0.0381, 0.1657, 0.0154]
+          "bbox": [
+            0.0363,
+            0.0381,
+            0.1657,
+            0.0154
+          ]
         },
         {
           "text": "©東映",
           "translation": "©Toei",
-          "bbox": [0.3247, 0.0693, 0.0314, 0.0064]
+          "bbox": [
+            0.3247,
+            0.0693,
+            0.0314,
+            0.0064
+          ]
         },
         {
           "text": "各部名称",
           "translation": "Part names",
-          "bbox": [0.1149, 0.1214, 0.1282, 0.0214]
+          "bbox": [
+            0.1149,
+            0.1214,
+            0.1282,
+            0.0214
+          ]
         },
         {
           "text": "【正面】",
           "translation": "【front】",
-          "bbox": [0.0852, 0.2411, 0.0472, 0.0124]
+          "bbox": [
+            0.0852,
+            0.2411,
+            0.0472,
+            0.0124
+          ]
         },
         {
           "text": "【背面】",
           "translation": "[Back]",
-          "bbox": [0.133, 0.4412, 0.0478, 0.012]
+          "bbox": [
+            0.133,
+            0.4412,
+            0.0478,
+            0.012
+          ]
         },
         {
           "text": "カバー",
           "translation": "cover",
-          "bbox": [0.1227, 0.5789, 0.0447, 0.0086]
+          "bbox": [
+            0.1227,
+            0.5789,
+            0.0447,
+            0.0086
+          ]
         },
         {
           "text": "ダイノブレス",
           "translation": "Dyno Breath",
-          "bbox": [0.1614, 0.2039, 0.1076, 0.0133]
+          "bbox": [
+            0.1614,
+            0.2039,
+            0.1076,
+            0.0133
+          ]
         },
         {
           "text": "ベルト",
           "translation": "belt",
-          "bbox": [0.1862, 0.6764, 0.0593, 0.0124]
+          "bbox": [
+            0.1862,
+            0.6764,
+            0.0593,
+            0.0124
+          ]
         },
         {
           "text": "【正面】",
           "translation": "【front】",
-          "bbox": [0.2213, 0.7118, 0.0478, 0.0115]
+          "bbox": [
+            0.2213,
+            0.7118,
+            0.0478,
+            0.0115
+          ]
         },
         {
           "text": "ベルト留め",
           "translation": "Belt closure",
-          "bbox": [0.1306, 0.7691, 0.0707, 0.0094]
+          "bbox": [
+            0.1306,
+            0.7691,
+            0.0707,
+            0.0094
+          ]
         },
         {
           "text": "【背面】",
           "translation": "[Back]",
-          "bbox": [0.2225, 0.8273, 0.0478, 0.0124]
+          "bbox": [
+            0.2225,
+            0.8273,
+            0.0478,
+            0.0124
+          ]
         },
         {
           "text": "通信ボタン",
           "translation": "Communication button",
-          "bbox": [0.3023, 0.2317, 0.075, 0.0098]
+          "bbox": [
+            0.3023,
+            0.2317,
+            0.075,
+            0.0098
+          ]
         },
         {
           "text": "【側面】",
           "translation": "【side】",
-          "bbox": [0.5441, 0.2411, 0.0466, 0.0128]
+          "bbox": [
+            0.5441,
+            0.2411,
+            0.0466,
+            0.0128
+          ]
         },
         {
           "text": "セリフボタン",
           "translation": "Dialogue button",
-          "bbox": [0.8222, 0.248, 0.0859, 0.009]
+          "bbox": [
+            0.8222,
+            0.248,
+            0.0859,
+            0.009
+          ]
         },
         {
           "text": "スピーカー",
           "translation": "speaker",
-          "bbox": [0.4553, 0.3852, 0.0732, 0.009]
+          "bbox": [
+            0.4553,
+            0.3852,
+            0.0732,
+            0.009
+          ]
         },
         {
           "text": "レバー",
           "translation": "lever",
-          "bbox": [0.4111, 0.4006, 0.0435, 0.0086]
+          "bbox": [
+            0.4111,
+            0.4006,
+            0.0435,
+            0.0086
+          ]
         },
         {
           "text": "טח",
           "translation": "טח",
-          "bbox": [0.4897, 0.9838, 0.0187, -0.0141]
+          "bbox": [
+            0.4897,
+            0.9838,
+            0.0187,
+            -0.0141
+          ]
         },
         {
           "text": "【カバーを取り外した図】",
           "translation": "[Cover removed]",
-          "bbox": [0.474, 0.4344, 0.1771, 0.0128]
+          "bbox": [
+            0.474,
+            0.4344,
+            0.1771,
+            0.0128
+          ]
         },
         {
           "text": "電池ぶた -",
           "translation": "Battery cover -",
-          "bbox": [0.4933, 0.5802, 0.0659, 0.0094]
+          "bbox": [
+            0.4933,
+            0.5802,
+            0.0659,
+            0.0094
+          ]
         },
         {
           "text": "◎賞映",
           "translation": "◎Award",
-          "bbox": [0.6034, 0.5173, 0.0248, 0.0056]
+          "bbox": [
+            0.6034,
+            0.5173,
+            0.0248,
+            0.0056
+          ]
         },
         {
           "text": "BANDAI MADE IN CHINA",
           "translation": "BANDAI MADE IN CHINA",
-          "bbox": [0.6034, 0.5237, 0.1203, 0.0073]
+          "bbox": [
+            0.6034,
+            0.5237,
+            0.1203,
+            0.0073
+          ]
         },
         {
           "text": "BGM ボタン",
           "translation": "BGM button",
-          "bbox": [0.8216, 0.3732, 0.0846, 0.009]
+          "bbox": [
+            0.8216,
+            0.3732,
+            0.0846,
+            0.009
+          ]
         },
         {
           "text": "電源スイッチ",
           "translation": "Power switch",
-          "bbox": [0.795, 0.6015, 0.0865, 0.0098]
+          "bbox": [
+            0.795,
+            0.6015,
+            0.0865,
+            0.0098
+          ]
         }
       ]
     },
@@ -243,152 +400,302 @@
         {
           "text": "WEB取扱説明書",
           "translation": "Web instruction manual",
-          "bbox": [0.0363, 0.0381, 0.1657, 0.0154]
+          "bbox": [
+            0.0363,
+            0.0381,
+            0.1657,
+            0.0154
+          ]
         },
         {
           "text": "©東映",
           "translation": "©Toei",
-          "bbox": [0.3247, 0.0693, 0.0314, 0.0064]
+          "bbox": [
+            0.3247,
+            0.0693,
+            0.0314,
+            0.0064
+          ]
         },
         {
           "text": "矢印一覧 取り付けます。\n■■■■■■ \n|",
           "translation": "Arrow list Install.\n■■■■■■\n|",
-          "bbox": [0.0822, 0.1133, 0.3489, 0.0154]
+          "bbox": [
+            0.0822,
+            0.1133,
+            0.3489,
+            0.0154
+          ]
         },
         {
           "text": "取り外します。",
           "translation": "Remove it.",
-          "bbox": [0.5411, 0.1146, 0.1239, 0.015]
+          "bbox": [
+            0.5411,
+            0.1146,
+            0.1239,
+            0.015
+          ]
         },
         {
           "text": "可動させます。",
           "translation": "Make it movable.",
-          "bbox": [0.7872, 0.115, 0.1288, 0.0133]
+          "bbox": [
+            0.7872,
+            0.115,
+            0.1288,
+            0.0133
+          ]
         },
         {
           "text": "乾電池の入れ方",
           "translation": "How to insert batteries",
-          "bbox": [0.1965, 0.1804, 0.2213, 0.0209]
+          "bbox": [
+            0.1965,
+            0.1804,
+            0.2213,
+            0.0209
+          ]
         },
         {
           "text": "※音が小さくなって聞き取りにくくなったり、音が止まるなどの誤動作をする場合や、\nLEDの発光が弱くなった場合は、すべて新しい電池に交換してください。",
           "translation": "*If the sound becomes too quiet and difficult to hear, if the sound stops or if the unit malfunctions, or if the LED light becomes weak, please replace all batteries with new ones.",
-          "bbox": [0.0913, 0.2702, 0.714, 0.0346]
+          "bbox": [
+            0.0913,
+            0.2702,
+            0.714,
+            0.0346
+          ]
         },
         {
           "text": "①カバーパーツを取り外します。\n本体背面のカバーを窪みに指をかけて取り外します。\n②電池ぶたを取り外します。",
           "translation": "1. Remove the cover parts.\nHook your finger into the recess to remove the cover on the back of the unit.\n2. Remove the battery cover.",
-          "bbox": [0.0798, 0.3224, 0.4631, 0.0577]
+          "bbox": [
+            0.0798,
+            0.3224,
+            0.4631,
+            0.0577
+          ]
         },
         {
           "text": "②-1 本体背面の電池ぶたの穴を先の細い棒などで押しながら、\n②-2 電池ぶたを矢印の方向にスライドさせて取り外します。",
           "translation": "②-1 While pressing the hole in the battery cover on the back of the unit with a thin stick,\n②-2 slide the battery cover in the direction of the arrow to remove it.",
-          "bbox": [0.0998, 0.3869, 0.5326, 0.0355]
+          "bbox": [
+            0.0998,
+            0.3869,
+            0.5326,
+            0.0355
+          ]
         },
         {
           "text": "③電池を入れます。",
           "translation": "③Insert the batteries.",
-          "bbox": [0.081, 0.4305, 0.1638, 0.0133]
+          "bbox": [
+            0.081,
+            0.4305,
+            0.1638,
+            0.0133
+          ]
         },
         {
           "text": "単4乾電池2本(別売り) の + をそれぞれ間違えないように入れます。\n④電池ぶたを戻します。\n電池ぶたの突起と本体のミゾを合わせ、電池ぶたを閉じます。",
           "translation": "Insert two AAA batteries (sold separately) making sure to insert them with the correct + terminals.\n④ Put the battery cover back on.\nAlign the protrusion on the battery cover with the groove on the main unit and close the battery cover.",
-          "bbox": [0.0804, 0.4493, 0.6112, 0.0569]
+          "bbox": [
+            0.0804,
+            0.4493,
+            0.6112,
+            0.0569
+          ]
         },
         {
           "text": "⑤カバーを戻します。",
           "translation": "⑤Replace the cover.",
-          "bbox": [0.0804, 0.513, 0.1808, 0.0133]
+          "bbox": [
+            0.0804,
+            0.513,
+            0.1808,
+            0.0133
+          ]
         },
         {
           "text": "+",
           "translation": "+",
-          "bbox": [0.0979, 0.8187, -0.0133, 0.0107]
+          "bbox": [
+            0.0979,
+            0.8187,
+            -0.0133,
+            0.0107
+          ]
         },
         {
           "text": "【側面】",
           "translation": "【side】",
-          "bbox": [0.2019, 0.5596, 0.0459, 0.0115]
+          "bbox": [
+            0.2019,
+            0.5596,
+            0.0459,
+            0.0115
+          ]
         },
         {
           "text": "+",
           "translation": "+",
-          "bbox": [0.2672, 0.7922, 0.0236, 0.0154]
+          "bbox": [
+            0.2672,
+            0.7922,
+            0.0236,
+            0.0154
+          ]
         },
         {
           "text": "窪み",
           "translation": "depression",
-          "bbox": [0.3186, 0.7024, 0.0314, 0.0098]
+          "bbox": [
+            0.3186,
+            0.7024,
+            0.0314,
+            0.0098
+          ]
         },
         {
           "text": "(3)",
           "translation": "(3)",
-          "bbox": [0.3156, 0.7935, 0.0127, 0.0073]
+          "bbox": [
+            0.3156,
+            0.7935,
+            0.0127,
+            0.0073
+          ]
         },
         {
           "text": "ミゾ",
           "translation": "Groove",
-          "bbox": [0.3362, 0.8662, 0.0302, 0.0103]
+          "bbox": [
+            0.3362,
+            0.8662,
+            0.0302,
+            0.0103
+          ]
         },
         {
           "text": "LEVAT",
           "translation": "LEVAT",
-          "bbox": [0.3603, 0.8247, 0.1282, 0.009]
+          "bbox": [
+            0.3603,
+            0.8247,
+            0.1282,
+            0.009
+          ]
         },
         {
           "text": "ミゾ",
           "translation": "Groove",
-          "bbox": [0.5224, 0.8863, 0.0302, 0.0094]
+          "bbox": [
+            0.5224,
+            0.8863,
+            0.0302,
+            0.0094
+          ]
         },
         {
           "text": "単4 x2\n単4乾電池2本使用(別売り)",
           "translation": "2 x AAA batteries (sold separately)",
-          "bbox": [0.7811, 0.4942, 0.1288, 0.0239]
+          "bbox": [
+            0.7811,
+            0.4942,
+            0.1288,
+            0.0239
+          ]
         },
         {
           "text": "●アルカリ電池専用",
           "translation": "●For alkaline batteries only",
-          "bbox": [0.7823, 0.531, 0.1288, 0.0098]
+          "bbox": [
+            0.7823,
+            0.531,
+            0.1288,
+            0.0098
+          ]
         },
         {
           "text": "2-1",
           "translation": "2-1",
-          "bbox": [0.8096, 0.7572, 0.0339, 0.0107]
+          "bbox": [
+            0.8096,
+            0.7572,
+            0.0339,
+            0.0107
+          ]
         },
         {
           "text": "突起",
           "translation": "protrusion",
-          "bbox": [0.8742, 0.7555, 0.0308, 0.0098]
+          "bbox": [
+            0.8742,
+            0.7555,
+            0.0308,
+            0.0098
+          ]
         },
         {
           "text": "電池ぶた",
           "translation": "Battery cover",
-          "bbox": [0.7328, 0.767, 0.0605, 0.0098]
+          "bbox": [
+            0.7328,
+            0.767,
+            0.0605,
+            0.0098
+          ]
         },
         {
           "text": "@2",
           "translation": "@2",
-          "bbox": [0.6016, 0.7785, 0.0466, 0.0154]
+          "bbox": [
+            0.6016,
+            0.7785,
+            0.0466,
+            0.0154
+          ]
         },
         {
           "text": "©東映",
           "translation": "©Toei",
-          "bbox": [0.7412, 0.8003, 0.0278, 0.006]
+          "bbox": [
+            0.7412,
+            0.8003,
+            0.0278,
+            0.006
+          ]
         },
         {
           "text": "BANDAI MADE IN CHINA",
           "translation": "BANDAI MADE IN CHINA",
-          "bbox": [0.7412, 0.808, 0.1209, 0.006]
+          "bbox": [
+            0.7412,
+            0.808,
+            0.1209,
+            0.006
+          ]
         },
         {
           "text": "-突起",
           "translation": "-protrusion",
-          "bbox": [0.786, 0.8525, 0.0357, 0.0103]
+          "bbox": [
+            0.786,
+            0.8525,
+            0.0357,
+            0.0103
+          ]
         },
         {
           "text": "穴",
           "translation": "hole",
-          "bbox": [0.8694, 0.8696, 0.02, 0.0107]
+          "bbox": [
+            0.8694,
+            0.8696,
+            0.02,
+            0.0107
+          ]
         }
       ]
     },
@@ -398,107 +705,212 @@
         {
           "text": "WEB取扱説明書",
           "translation": "Web instruction manual",
-          "bbox": [0.0369, 0.0376, 0.165, 0.0154]
+          "bbox": [
+            0.0369,
+            0.0376,
+            0.165,
+            0.0154
+          ]
         },
         {
           "text": "©東映",
           "translation": "©Toei",
-          "bbox": [0.3245, 0.0688, 0.0314, 0.0073]
+          "bbox": [
+            0.3245,
+            0.0688,
+            0.0314,
+            0.0073
+          ]
         },
         {
           "text": "矢印一覧 取り付けます。\n■■■■■■■ \n|",
           "translation": "Arrow list Install.\n■■■■■■■\n|",
-          "bbox": [0.0828, 0.1133, 0.3492, 0.015]
+          "bbox": [
+            0.0828,
+            0.1133,
+            0.3492,
+            0.015
+          ]
         },
         {
           "text": "取り外します。",
           "translation": "Remove it.",
-          "bbox": [0.5414, 0.1146, 0.1233, 0.015]
+          "bbox": [
+            0.5414,
+            0.1146,
+            0.1233,
+            0.015
+          ]
         },
         {
           "text": "可動させます。",
           "translation": "Make it movable.",
-          "bbox": [0.7867, 0.115, 0.1293, 0.0133]
+          "bbox": [
+            0.7867,
+            0.115,
+            0.1293,
+            0.0133
+          ]
         },
         {
           "text": "電源の入れ方",
           "translation": "How to turn on the power",
-          "bbox": [0.2133, 0.1808, 0.1861, 0.0197]
+          "bbox": [
+            0.2133,
+            0.1808,
+            0.1861,
+            0.0197
+          ]
         },
         {
           "text": "本体背面の電源スイッチをONにします。",
           "translation": "Turn on the power switch on the back of the unit.",
-          "bbox": [0.0816, 0.2535, 0.3486, 0.0137]
+          "bbox": [
+            0.0816,
+            0.2535,
+            0.3486,
+            0.0137
+          ]
         },
         {
           "text": "【カバーを取り外した図】",
           "translation": "[Cover removed]",
-          "bbox": [0.5366, 0.2617, 0.1758, 0.012]
+          "bbox": [
+            0.5366,
+            0.2617,
+            0.1758,
+            0.012
+          ]
         },
         {
           "text": "→LEDが光り、「起動音」が鳴ります。\n※遊び終わった後は、\n必ず電源スイッチを\nOFFにしてください。\n※ダイノプレートをセットしていない\n状態で電源スイッチをONにすると、\nLEDは発光しません。",
           "translation": "→The LED will light up and a startup sound will play.\n*When you're finished playing,\nbe sure to turn the power switch\nOFF.\n*If you turn the power switch ON without inserting the dyno plate,\nthe LED will not light up.",
-          "bbox": [0.0822, 0.2749, 0.3366, 0.1411]
+          "bbox": [
+            0.0822,
+            0.2749,
+            0.3366,
+            0.1411
+          ]
         },
         {
           "text": "環映",
           "translation": "projection",
-          "bbox": [0.4634, 0.3271, 0.0236, 0.006]
+          "bbox": [
+            0.4634,
+            0.3271,
+            0.0236,
+            0.006
+          ]
         },
         {
           "text": "ANDAI MADE IN CHINA",
           "translation": "ANDAI MADE IN CHINA",
-          "bbox": [0.4647, 0.3348, 0.1136, 0.006]
+          "bbox": [
+            0.4647,
+            0.3348,
+            0.1136,
+            0.006
+          ]
         },
         {
           "text": "ベルトの取り付け方",
           "translation": "How to attach the belt",
-          "bbox": [0.2066, 0.4861, 0.2731, 0.0209]
+          "bbox": [
+            0.2066,
+            0.4861,
+            0.2731,
+            0.0209
+          ]
         },
         {
           "text": "ダイノブレス本体への取り付け",
           "translation": "Attaching to the Dyno Breath body",
-          "bbox": [0.1263, 0.5614, 0.365, 0.0205]
+          "bbox": [
+            0.1263,
+            0.5614,
+            0.365,
+            0.0205
+          ]
         },
         {
           "text": "※図はダイノプレート (ティラノ)を外した状態です。",
           "translation": "*The image shows the dyno plate (Tyranno) removed.",
-          "bbox": [0.0967, 0.6101, 0.4508, 0.015]
+          "bbox": [
+            0.0967,
+            0.6101,
+            0.4508,
+            0.015
+          ]
         },
         {
           "text": "①本体背面のベルト通しにベルトを通します。",
           "translation": "1. Pass the belt through the belt loop on the back of the device.",
-          "bbox": [0.0816, 0.6375, 0.3921, 0.0141]
+          "bbox": [
+            0.0816,
+            0.6375,
+            0.3921,
+            0.0141
+          ]
         },
         {
           "text": "ベルト",
           "translation": "belt",
-          "bbox": [0.5366, 0.6422, 0.0423, 0.0103]
+          "bbox": [
+            0.5366,
+            0.6422,
+            0.0423,
+            0.0103
+          ]
         },
         {
           "text": "ダイノブレス本体",
           "translation": "Dyno Breath main unit",
-          "bbox": [0.545, 0.7623, 0.1184, 0.0115]
+          "bbox": [
+            0.545,
+            0.7623,
+            0.1184,
+            0.0115
+          ]
         },
         {
           "text": "ベルト通し",
           "translation": "Belt loop",
-          "bbox": [0.7275, 0.5853, 0.0719, 0.0107]
+          "bbox": [
+            0.7275,
+            0.5853,
+            0.0719,
+            0.0107
+          ]
         },
         {
           "text": "・電源スイッチ",
           "translation": "・Power switch",
-          "bbox": [0.8169, 0.3236, 0.09, 0.0098]
+          "bbox": [
+            0.8169,
+            0.3236,
+            0.09,
+            0.0098
+          ]
         },
         {
           "text": "突起",
           "translation": "protrusion",
-          "bbox": [0.8036, 0.3814, 0.0314, 0.0098]
+          "bbox": [
+            0.8036,
+            0.3814,
+            0.0314,
+            0.0098
+          ]
         },
         {
           "text": "------|",
           "translation": "------|",
-          "bbox": [0.8109, 0.7071, 0.0677, 0.0051]
+          "bbox": [
+            0.8109,
+            0.7071,
+            0.0677,
+            0.0051
+          ]
         }
       ]
     },
@@ -508,62 +920,122 @@
         {
           "text": "WEB取扱説明書",
           "translation": "Web instruction manual",
-          "bbox": [0.0369, 0.0385, 0.165, 0.015]
+          "bbox": [
+            0.0369,
+            0.0385,
+            0.165,
+            0.015
+          ]
         },
         {
           "text": "©東映",
           "translation": "©Toei",
-          "bbox": [0.3251, 0.0688, 0.0314, 0.0068]
+          "bbox": [
+            0.3251,
+            0.0688,
+            0.0314,
+            0.0068
+          ]
         },
         {
           "text": "矢印一覧 取り付けます。",
           "translation": "Arrow list Install.",
-          "bbox": [0.0828, 0.1137, 0.3317, 0.0145]
+          "bbox": [
+            0.0828,
+            0.1137,
+            0.3317,
+            0.0145
+          ]
         },
         {
           "text": "取り外します。",
           "translation": "Remove it.",
-          "bbox": [0.5414, 0.1146, 0.1239, 0.015]
+          "bbox": [
+            0.5414,
+            0.1146,
+            0.1239,
+            0.015
+          ]
         },
         {
           "text": "可動させます。",
           "translation": "Make it movable.",
-          "bbox": [0.7873, 0.1146, 0.1287, 0.0133]
+          "bbox": [
+            0.7873,
+            0.1146,
+            0.1287,
+            0.0133
+          ]
         },
         {
           "text": "ベルトの取り付け方",
           "translation": "How to attach the belt",
-          "bbox": [0.2073, 0.183, 0.2719, 0.0209]
+          "bbox": [
+            0.2073,
+            0.183,
+            0.2719,
+            0.0209
+          ]
         },
         {
           "text": "腕への取り付け方",
           "translation": "How to attach to the arm",
-          "bbox": [0.174, 0.2522, 0.2127, 0.0188]
+          "bbox": [
+            0.174,
+            0.2522,
+            0.2127,
+            0.0188
+          ]
         },
         {
           "text": "②本体背面に腕を置き、ベルトを巻きつけます。",
           "translation": "② Place your arm on the back of the device and wrap the belt around it.",
-          "bbox": [0.081, 0.2971, 0.4085, 0.0141]
+          "bbox": [
+            0.081,
+            0.2971,
+            0.4085,
+            0.0141
+          ]
         },
         {
           "text": "④ベルトを腕に巻きつけます。",
           "translation": "④ Wrap the belt around your arm.",
-          "bbox": [0.084, 0.6554, 0.2604, 0.0141]
+          "bbox": [
+            0.084,
+            0.6554,
+            0.2604,
+            0.0141
+          ]
         },
         {
           "text": "③ベルトをベルト留めに通します。",
           "translation": "③ Pass the belt through the belt fastener.",
-          "bbox": [0.5776, 0.2967, 0.2943, 0.0137]
+          "bbox": [
+            0.5776,
+            0.2967,
+            0.2943,
+            0.0137
+          ]
         },
         {
           "text": "ベルト留め",
           "translation": "Belt closure",
-          "bbox": [0.6592, 0.3313, 0.0713, 0.0107]
+          "bbox": [
+            0.6592,
+            0.3313,
+            0.0713,
+            0.0107
+          ]
         },
         {
           "text": "装着完了!",
           "translation": "Installation complete!",
-          "bbox": [0.6792, 0.8743, 0.2272, 0.0342]
+          "bbox": [
+            0.6792,
+            0.8743,
+            0.2272,
+            0.0342
+          ]
         }
       ]
     },
@@ -573,77 +1045,152 @@
         {
           "text": "WEB取扱説明書",
           "translation": "Web instruction manual",
-          "bbox": [0.0363, 0.0381, 0.1651, 0.0154]
+          "bbox": [
+            0.0363,
+            0.0381,
+            0.1651,
+            0.0154
+          ]
         },
         {
           "text": "©東映",
           "translation": "©Toei",
-          "bbox": [0.3241, 0.0697, 0.032, 0.006]
+          "bbox": [
+            0.3241,
+            0.0697,
+            0.032,
+            0.006
+          ]
         },
         {
           "text": "矢印一覧 取り付けます。\n■■■■■■ \n|",
           "translation": "Arrow list Install.\n■■■■■■\n|",
-          "bbox": [0.0822, 0.1133, 0.3489, 0.0154]
+          "bbox": [
+            0.0822,
+            0.1133,
+            0.3489,
+            0.0154
+          ]
         },
         {
           "text": "取り外します。",
           "translation": "Remove it.",
-          "bbox": [0.5411, 0.1142, 0.1233, 0.0154]
+          "bbox": [
+            0.5411,
+            0.1142,
+            0.1233,
+            0.0154
+          ]
         },
         {
           "text": "可動させます。",
           "translation": "Make it movable.",
-          "bbox": [0.7872, 0.115, 0.1288, 0.0137]
+          "bbox": [
+            0.7872,
+            0.115,
+            0.1288,
+            0.0137
+          ]
         },
         {
           "text": "ダイノプレートを装着しない場合の遊び方",
           "translation": "How to play without installing the dyno plate",
-          "bbox": [0.1258, 0.1796, 0.5871, 0.0222]
+          "bbox": [
+            0.1258,
+            0.1796,
+            0.5871,
+            0.0222
+          ]
         },
         {
           "text": "音声遊び",
           "translation": "Audio play",
-          "bbox": [0.2237, 0.2514, 0.1064, 0.0175]
+          "bbox": [
+            0.2237,
+            0.2514,
+            0.1064,
+            0.0175
+          ]
         },
         {
           "text": "※図はベルトを省略しています。",
           "translation": "*The belt is omitted from the illustration.",
-          "bbox": [0.0967, 0.3001, 0.2811, 0.0137]
+          "bbox": [
+            0.0967,
+            0.3001,
+            0.2811,
+            0.0137
+          ]
         },
         {
           "text": "①レバーを矢印の方向に可動します。\n「プレートなし変身効果音」が鳴ります。\n②通信ボタンを押します。\n→レバーが戻り\n「通信音」が鳴ります。",
           "translation": "1. Move the lever in the direction of the arrow.\nThe \"plateless transformation sound effect\" will play.\n2. Press the communication button.\n→The lever will return.\nThe \"communication sound\" will play.",
-          "bbox": [0.0798, 0.3254, 0.3489, 0.1005]
+          "bbox": [
+            0.0798,
+            0.3254,
+            0.3489,
+            0.1005
+          ]
         },
         {
           "text": "レバー",
           "translation": "lever",
-          "bbox": [0.8289, 0.4194, 0.0435, 0.009]
+          "bbox": [
+            0.8289,
+            0.4194,
+            0.0435,
+            0.009
+          ]
         },
         {
           "text": "通信ボタン",
           "translation": "Communication button",
-          "bbox": [0.838, 0.4652, 0.0738, 0.0103]
+          "bbox": [
+            0.838,
+            0.4652,
+            0.0738,
+            0.0103
+          ]
         },
         {
           "text": "セリフボタンまたはBGMボタンを押します。",
           "translation": "Press the dialogue button or BGM button.",
-          "bbox": [0.0816, 0.6447, 0.3688, 0.0133]
+          "bbox": [
+            0.0816,
+            0.6447,
+            0.3688,
+            0.0133
+          ]
         },
         {
           "text": "セリフボタン",
           "translation": "Dialogue button",
-          "bbox": [0.7285, 0.6537, 0.0859, 0.009]
+          "bbox": [
+            0.7285,
+            0.6537,
+            0.0859,
+            0.009
+          ]
         },
         {
           "text": "→「通信音」が鳴ります。",
           "translation": "→A communication sound will sound.",
-          "bbox": [0.0804, 0.6652, 0.2001, 0.0141]
+          "bbox": [
+            0.0804,
+            0.6652,
+            0.2001,
+            0.0141
+          ]
         },
         {
           "text": "BGMボタン",
           "translation": "BGM button",
-          "bbox": [0.7285, 0.7862, 0.0834, 0.009]
+          "bbox": [
+            0.7285,
+            0.7862,
+            0.0834,
+            0.009
+          ]
         }
       ]
     },
@@ -653,72 +1200,142 @@
         {
           "text": "WEB取扱説明書",
           "translation": "Web instruction manual",
-          "bbox": [0.0363, 0.0381, 0.1657, 0.0154]
+          "bbox": [
+            0.0363,
+            0.0381,
+            0.1657,
+            0.0154
+          ]
         },
         {
           "text": "©東映",
           "translation": "©Toei",
-          "bbox": [0.3247, 0.0693, 0.0314, 0.0064]
+          "bbox": [
+            0.3247,
+            0.0693,
+            0.0314,
+            0.0064
+          ]
         },
         {
           "text": "矢印一覧 取り付けます。\n■■■■■■ \n|",
           "translation": "Arrow list Install.\n■■■■■■\n|",
-          "bbox": [0.0822, 0.1133, 0.3489, 0.0154]
+          "bbox": [
+            0.0822,
+            0.1133,
+            0.3489,
+            0.0154
+          ]
         },
         {
           "text": "取り外します。",
           "translation": "Remove it.",
-          "bbox": [0.5411, 0.1146, 0.1239, 0.015]
+          "bbox": [
+            0.5411,
+            0.1146,
+            0.1239,
+            0.015
+          ]
         },
         {
           "text": "可動させます。",
           "translation": "Make it movable.",
-          "bbox": [0.7872, 0.1154, 0.1288, 0.0124]
+          "bbox": [
+            0.7872,
+            0.1154,
+            0.1288,
+            0.0124
+          ]
         },
         {
           "text": "プレートの取り付け方",
           "translation": "How to attach the plate",
-          "bbox": [0.2684, 0.1813, 0.2999, 0.0218]
+          "bbox": [
+            0.2684,
+            0.1813,
+            0.2999,
+            0.0218
+          ]
         },
         {
           "text": "※ダイノプレート (ティラノ)を例に説明します。\n※他のダイノプレートも同様です。\n※説明図ではベルトを省略しています。",
           "translation": "*The explanation will use the Dyno Plate (Tyranno) as an example.\n*The same applies to other Dyno Plates.\n*The belt has been omitted from the explanatory diagram.",
-          "bbox": [0.0871, 0.2458, 0.3755, 0.0564]
+          "bbox": [
+            0.0871,
+            0.2458,
+            0.3755,
+            0.0564
+          ]
         },
         {
           "text": "取り付け方\nダイノブレス本体に",
           "translation": "How to install: To the Dyno Breath body",
-          "bbox": [0.0804, 0.3215, 0.1657, 0.0389]
+          "bbox": [
+            0.0804,
+            0.3215,
+            0.1657,
+            0.0389
+          ]
         },
         {
           "text": "ダイノプレート (ティラノ)",
           "translation": "Dyno Plate (Tyrannosaurus)",
-          "bbox": [0.3567, 0.3309, 0.1687, 0.0111]
+          "bbox": [
+            0.3567,
+            0.3309,
+            0.1687,
+            0.0111
+          ]
         },
         {
           "text": "ダイノプレート(ティラノ)を取り付けます。",
           "translation": "Install the dyno plate (Tyranno).",
-          "bbox": [0.081, 0.3677, 0.3501, 0.0145]
+          "bbox": [
+            0.081,
+            0.3677,
+            0.3501,
+            0.0145
+          ]
         },
         {
           "text": "→LEDが発光し",
           "translation": "→The LED lights up",
-          "bbox": [0.0816, 0.3891, 0.1421, 0.0137]
+          "bbox": [
+            0.0816,
+            0.3891,
+            0.1421,
+            0.0137
+          ]
         },
         {
           "text": "「ティラノレバー効果音」が鳴ります。\n※効果音とLEDの発光色は\nセットしたダイノプレートによって変わります。",
           "translation": "The \"Tyranno Lever Sound Effect\" will play.\n*The sound effect and LED color will vary depending on the dyno plate you install.",
-          "bbox": [0.0822, 0.4109, 0.4105, 0.0564]
+          "bbox": [
+            0.0822,
+            0.4109,
+            0.4105,
+            0.0564
+          ]
         },
         {
           "text": "取り外し方",
           "translation": "How to remove",
-          "bbox": [0.133, 0.5468, 0.0967, 0.015]
+          "bbox": [
+            0.133,
+            0.5468,
+            0.0967,
+            0.015
+          ]
         },
         {
           "text": "ダイノプレート(ティラノ)を矢印の方向に取り外します。\n「着脱音」が鳴ります。",
           "translation": "Remove the dyno plate (Tyranno) in the direction of the arrow.\nA \"detachment sound\" will be heard.",
-          "bbox": [0.0816, 0.5729, 0.4631, 0.0359]
+          "bbox": [
+            0.0816,
+            0.5729,
+            0.4631,
+            0.0359
+          ]
         }
       ]
     },
@@ -728,112 +1345,222 @@
         {
           "text": "WEB取扱説明書",
           "translation": "Web instruction manual",
-          "bbox": [0.0369, 0.0376, 0.165, 0.0154]
+          "bbox": [
+            0.0369,
+            0.0376,
+            0.165,
+            0.0154
+          ]
         },
         {
           "text": "©東映",
           "translation": "©Toei",
-          "bbox": [0.3245, 0.0693, 0.0314, 0.0068]
+          "bbox": [
+            0.3245,
+            0.0693,
+            0.0314,
+            0.0068
+          ]
         },
         {
           "text": "矢印一覧 取り付けます。\n■■■■■■■ \n|",
           "translation": "Arrow list Install.\n■■■■■■■\n|",
-          "bbox": [0.0828, 0.1133, 0.3492, 0.015]
+          "bbox": [
+            0.0828,
+            0.1133,
+            0.3492,
+            0.015
+          ]
         },
         {
           "text": "取り外します。",
           "translation": "Remove it.",
-          "bbox": [0.5414, 0.1142, 0.1233, 0.0154]
+          "bbox": [
+            0.5414,
+            0.1142,
+            0.1233,
+            0.0154
+          ]
         },
         {
           "text": "可動させます。",
           "translation": "Make it movable.",
-          "bbox": [0.7867, 0.115, 0.1293, 0.0133]
+          "bbox": [
+            0.7867,
+            0.115,
+            0.1293,
+            0.0133
+          ]
         },
         {
           "text": "ダイノプレート (ティラノ) の遊び方",
           "translation": "How to play with Dino Plate (Tyranno)",
-          "bbox": [0.1686, 0.1864, 0.4828, 0.0222]
+          "bbox": [
+            0.1686,
+            0.1864,
+            0.4828,
+            0.0222
+          ]
         },
         {
           "text": "爆竜セリフ遊び",
           "translation": "Bakuryu Dialogue Play",
-          "bbox": [0.2175, 0.2557, 0.1843, 0.0188]
+          "bbox": [
+            0.2175,
+            0.2557,
+            0.1843,
+            0.0188
+          ]
         },
         {
           "text": "※図はベルトを省略しています。",
           "translation": "*The belt is omitted from the illustration.",
-          "bbox": [0.0967, 0.3057, 0.281, 0.0128]
+          "bbox": [
+            0.0967,
+            0.3057,
+            0.281,
+            0.0128
+          ]
         },
         {
           "text": "①レバーを矢印の方向に可動します。",
           "translation": "①Move the lever in the direction of the arrow.",
-          "bbox": [0.0816, 0.3296, 0.3106, 0.0158]
+          "bbox": [
+            0.0816,
+            0.3296,
+            0.3106,
+            0.0158
+          ]
         },
         {
           "text": "順番",
           "translation": "order",
-          "bbox": [0.5656, 0.3425, 0.0278, 0.009]
+          "bbox": [
+            0.5656,
+            0.3425,
+            0.0278,
+            0.009
+          ]
         },
         {
           "text": "セリフ",
           "translation": "Dialogue",
-          "bbox": [0.742, 0.3425, 0.0356, 0.0081]
+          "bbox": [
+            0.742,
+            0.3425,
+            0.0356,
+            0.0081
+          ]
         },
         {
           "text": "→LEDが発光し",
           "translation": "→The LED lights up",
-          "bbox": [0.0816, 0.3523, 0.1408, 0.0133]
+          "bbox": [
+            0.0816,
+            0.3523,
+            0.1408,
+            0.0133
+          ]
         },
         {
           "text": "「ティラノレバー効果音」が鳴ります。",
           "translation": "The \"Tyranno lever sound effect\" will sound.",
-          "bbox": [0.1021, 0.3737, 0.3063, 0.0137]
+          "bbox": [
+            0.1021,
+            0.3737,
+            0.3063,
+            0.0137
+          ]
         },
         {
           "text": "なんでもいいから俺を止めてくれテラ!",
           "translation": "Whatever you do, just stop me, Terra!",
-          "bbox": [0.6085, 0.3578, 0.2193, 0.0086]
+          "bbox": [
+            0.6085,
+            0.3578,
+            0.2193,
+            0.0086
+          ]
         },
         {
           "text": "ばっきゃろー、もう少しで食っちまうとこだったテラ",
           "translation": "Damn it, I almost ate you, Tera",
-          "bbox": [0.6091, 0.3728, 0.2816, 0.009]
+          "bbox": [
+            0.6091,
+            0.3728,
+            0.2816,
+            0.009
+          ]
         },
         {
           "text": "怒れ! 怒れ! ダイノガッツを込めるテラ",
           "translation": "Get angry! Get angry! Terra puts all his Dino guts into it",
-          "bbox": [0.6079, 0.3882, 0.2085, 0.009]
+          "bbox": [
+            0.6079,
+            0.3882,
+            0.2085,
+            0.009
+          ]
         },
         {
           "text": "②下顎を上げて、レバーを戻します。",
           "translation": "② Raise your lower jaw and release the lever.",
-          "bbox": [0.081, 0.395, 0.3027, 0.0137]
+          "bbox": [
+            0.081,
+            0.395,
+            0.3027,
+            0.0137
+          ]
         },
         {
           "text": "4 合体したら動かすのはお前らテラ",
           "translation": "4 Once combined, it's you guys, Terra, who will move it.",
-          "bbox": [0.5734, 0.4032, 0.2236, 0.0107]
+          "bbox": [
+            0.5734,
+            0.4032,
+            0.2236,
+            0.0107
+          ]
         },
         {
           "text": "→LEDが発光し「爆竜セリフ」が鳴ります。",
           "translation": "→The LED will light up and the \"Bakuryuu line\" will be played.",
-          "bbox": [0.0816, 0.4164, 0.3565, 0.0141]
+          "bbox": [
+            0.0816,
+            0.4164,
+            0.3565,
+            0.0141
+          ]
         },
         {
           "text": "ばっきゃろー!凌駕!",
           "translation": "Bam! Surpass!",
-          "bbox": [0.6085, 0.419, 0.1057, 0.009]
+          "bbox": [
+            0.6085,
+            0.419,
+            0.1057,
+            0.009
+          ]
         },
         {
           "text": "※①②の操作を繰り返す度に「爆竜セリフ」が\n表の順番に鳴ります。",
           "translation": "*Each time you perform steps ① and ②, the \"Bakuryuu lines\" will be played in the order shown in the table.",
-          "bbox": [0.0834, 0.4374, 0.3831, 0.0363]
+          "bbox": [
+            0.0834,
+            0.4374,
+            0.3831,
+            0.0363
+          ]
         },
         {
           "text": "※5の後は1に戻ります。",
           "translation": "*After 5, it will return to 1.",
-          "bbox": [0.7426, 0.4374, 0.1752, 0.0107]
+          "bbox": [
+            0.7426,
+            0.4374,
+            0.1752,
+            0.0107
+          ]
         }
       ]
     },
@@ -843,67 +1570,132 @@
         {
           "text": "WEB取扱説明書",
           "translation": "Web instruction manual",
-          "bbox": [0.0387, 0.0385, 0.1662, 0.015]
+          "bbox": [
+            0.0387,
+            0.0385,
+            0.1662,
+            0.015
+          ]
         },
         {
           "text": "©東映",
           "translation": "©Toei",
-          "bbox": [0.3251, 0.0693, 0.0314, 0.0064]
+          "bbox": [
+            0.3251,
+            0.0693,
+            0.0314,
+            0.0064
+          ]
         },
         {
           "text": "矢印一覧 取り付けます。",
           "translation": "Arrow list Install.",
-          "bbox": [0.0828, 0.1142, 0.3323, 0.0141]
+          "bbox": [
+            0.0828,
+            0.1142,
+            0.3323,
+            0.0141
+          ]
         },
         {
           "text": "取り外します。",
           "translation": "Remove it.",
-          "bbox": [0.5414, 0.1142, 0.1233, 0.0158]
+          "bbox": [
+            0.5414,
+            0.1142,
+            0.1233,
+            0.0158
+          ]
         },
         {
           "text": "可動させます。",
           "translation": "Make it movable.",
-          "bbox": [0.7867, 0.115, 0.1299, 0.0133]
+          "bbox": [
+            0.7867,
+            0.115,
+            0.1299,
+            0.0133
+          ]
         },
         {
           "text": "ダイノプレート (ティラノ) の遊び方",
           "translation": "How to play with Dino Plate (Tyranno)",
-          "bbox": [0.1686, 0.1864, 0.4834, 0.0222]
+          "bbox": [
+            0.1686,
+            0.1864,
+            0.4834,
+            0.0222
+          ]
         },
         {
           "text": "変身遊び",
           "translation": "Transformation play",
-          "bbox": [0.255, 0.2561, 0.1088, 0.0184]
+          "bbox": [
+            0.255,
+            0.2561,
+            0.1088,
+            0.0184
+          ]
         },
         {
           "text": "※図はベルトを省略しています。\n①レバーを矢印の方向に可動します。",
           "translation": "*The belt is omitted from the illustration.\n1. Move the lever in the direction of the arrow.",
-          "bbox": [0.081, 0.3053, 0.3118, 0.0398]
+          "bbox": [
+            0.081,
+            0.3053,
+            0.3118,
+            0.0398
+          ]
         },
         {
           "text": "LEDが発光し",
           "translation": "The LED lights up",
-          "bbox": [0.1021, 0.3527, 0.1196, 0.0133]
+          "bbox": [
+            0.1021,
+            0.3527,
+            0.1196,
+            0.0133
+          ]
         },
         {
           "text": "「ティラノレバー効果音」が鳴ります。\n②セリフボタンを押します。\n◆LEDが発光し\n「爆竜チェンジ!」が鳴ります。\n③通信ボタンを押します。\n→レバーが戻りLEDが発光し\n「変身完了効果音(ティラノ)」が",
           "translation": "The \"Tyranno Lever Sound Effect\" will play.\n② Press the Dialogue Button.\n◆ The LED will light up and\n\"Bakuryu Change!\" will play.\n③ Press the Communication Button.\n→ The lever will return, the LED will light up,\nand the \"Transformation Complete Sound Effect (Tyranno)\" will play.",
-          "bbox": [0.081, 0.3737, 0.3281, 0.1419]
+          "bbox": [
+            0.081,
+            0.3737,
+            0.3281,
+            0.1419
+          ]
         },
         {
           "text": "鳴ります。",
           "translation": "It will ring.",
-          "bbox": [0.1015, 0.5237, 0.0834, 0.0133]
+          "bbox": [
+            0.1015,
+            0.5237,
+            0.0834,
+            0.0133
+          ]
         },
         {
           "text": "【別角度】",
           "translation": "[Another angle]",
-          "bbox": [0.4308, 0.5019, 0.0725, 0.0141]
+          "bbox": [
+            0.4308,
+            0.5019,
+            0.0725,
+            0.0141
+          ]
         },
         {
           "text": "(3)",
           "translation": "(3)",
-          "bbox": [0.5776, 0.714, -0.0097, 0.0124]
+          "bbox": [
+            0.5776,
+            0.714,
+            -0.0097,
+            0.0124
+          ]
         }
       ]
     },
@@ -913,102 +1705,202 @@
         {
           "text": "WEB取扱説明書",
           "translation": "Web instruction manual",
-          "bbox": [0.0363, 0.0385, 0.1669, 0.015]
+          "bbox": [
+            0.0363,
+            0.0385,
+            0.1669,
+            0.015
+          ]
         },
         {
           "text": "©東映",
           "translation": "©Toei",
-          "bbox": [0.3241, 0.0697, 0.032, 0.006]
+          "bbox": [
+            0.3241,
+            0.0697,
+            0.032,
+            0.006
+          ]
         },
         {
           "text": "矢印一覧 取り付けます。\n■■■■■■ \n|",
           "translation": "Arrow list Install.\n■■■■■■\n|",
-          "bbox": [0.0822, 0.1133, 0.3495, 0.015]
+          "bbox": [
+            0.0822,
+            0.1133,
+            0.3495,
+            0.015
+          ]
         },
         {
           "text": "取り外します。",
           "translation": "Remove it.",
-          "bbox": [0.5411, 0.1142, 0.1233, 0.0154]
+          "bbox": [
+            0.5411,
+            0.1142,
+            0.1233,
+            0.0154
+          ]
         },
         {
           "text": "可動させます。",
           "translation": "Make it movable.",
-          "bbox": [0.7872, 0.115, 0.1288, 0.0137]
+          "bbox": [
+            0.7872,
+            0.115,
+            0.1288,
+            0.0137
+          ]
         },
         {
           "text": "ダイノプレート (ティラノ)の遊び方",
           "translation": "How to play with Dino Plate (Tyranno)",
-          "bbox": [0.1681, 0.186, 0.4837, 0.0222]
+          "bbox": [
+            0.1681,
+            0.186,
+            0.4837,
+            0.0222
+          ]
         },
         {
           "text": "セリフ付変身モード",
           "translation": "Transformation mode with dialogue",
-          "bbox": [0.1947, 0.2557, 0.2316, 0.0197]
+          "bbox": [
+            0.1947,
+            0.2557,
+            0.2316,
+            0.0197
+          ]
         },
         {
           "text": "※図はベルトを省略しています。\n①BGMボタンを長押しします。\n→LEDが発光し",
           "translation": "*The belt is omitted from the illustration.\n1. Press and hold the BGM button.\n→The LED will light up.",
-          "bbox": [0.0816, 0.3048, 0.2963, 0.0611]
+          "bbox": [
+            0.0816,
+            0.3048,
+            0.2963,
+            0.0611
+          ]
         },
         {
           "text": "「ティラノレバー効果音」が鳴ります\n②レバーを矢印の方向に可動します。",
           "translation": "The \"Tyranno Lever Sound Effect\" will play.\n② Move the lever in the direction of the arrow.",
-          "bbox": [0.0804, 0.3732, 0.3216, 0.0359]
+          "bbox": [
+            0.0804,
+            0.3732,
+            0.3216,
+            0.0359
+          ]
         },
         {
           "text": "→LEDが発光し",
           "translation": "→The LED lights up",
-          "bbox": [0.0816, 0.416, 0.1415, 0.0137]
+          "bbox": [
+            0.0816,
+            0.416,
+            0.1415,
+            0.0137
+          ]
         },
         {
           "text": "「ティラノレバー効果音」が鳴ります。\n③セリフボタンを押します。\n→LEDが発光し\n「爆竜チェンジ!」と効果音が",
           "translation": "The \"Tyranno Lever Sound Effect\" will play.\n③ Press the dialogue button.\n→ The LED will light up and you will hear the \"Bakuryu Change!\" sound effect.",
-          "bbox": [0.081, 0.4378, 0.3283, 0.0782]
+          "bbox": [
+            0.081,
+            0.4378,
+            0.3283,
+            0.0782
+          ]
         },
         {
           "text": "鳴ります。",
           "translation": "It will ring.",
-          "bbox": [0.1004, 0.5237, 0.0828, 0.0128]
+          "bbox": [
+            0.1004,
+            0.5237,
+            0.0828,
+            0.0128
+          ]
         },
         {
           "text": "④通信ボタンを押します。\n→レバーが戻りLEDが発光し\n「変身完了効果音(ティラノ)」 と\n下記のセリフが鳴ります。",
           "translation": "④ Press the communication button.\n→ The lever will return, the LED will light up, and\n\"Transformation complete sound effect (Tyrannosaurus)\" and the following line will be played.",
-          "bbox": [0.0804, 0.5455, 0.283, 0.077]
+          "bbox": [
+            0.0804,
+            0.5455,
+            0.283,
+            0.077
+          ]
         },
         {
           "text": "レッド : 元気莫大! アバレッド!",
           "translation": "Red: You're full of energy! AbaRed!",
-          "bbox": [0.1191, 0.6524, 0.2418, 0.0111]
+          "bbox": [
+            0.1191,
+            0.6524,
+            0.2418,
+            0.0111
+          ]
         },
         {
           "text": "レッド",
           "translation": "Red",
-          "bbox": [0.1197, 0.6811, 0.0417, 0.0107]
+          "bbox": [
+            0.1197,
+            0.6811,
+            0.0417,
+            0.0107
+          ]
         },
         {
           "text": "荒ぶるダイノガッツ!",
           "translation": "Raging Dino Guts!",
-          "bbox": [0.2104, 0.6798, 0.1457, 0.0115]
+          "bbox": [
+            0.2104,
+            0.6798,
+            0.1457,
+            0.0115
+          ]
         },
         {
           "text": "3人",
           "translation": "3 people",
-          "bbox": [0.1245, 0.7093, 0.0326, 0.0094]
+          "bbox": [
+            0.1245,
+            0.7093,
+            0.0326,
+            0.0094
+          ]
         },
         {
           "text": ": 爆竜戦隊アバレンジャー!",
           "translation": ": Bakuryu Sentai Abaranger!",
-          "bbox": [0.2007, 0.7076, 0.1947, 0.0115]
+          "bbox": [
+            0.2007,
+            0.7076,
+            0.1947,
+            0.0115
+          ]
         },
         {
           "text": "【別角度】",
           "translation": "[Another angle]",
-          "bbox": [0.4299, 0.5024, 0.0732, 0.0145]
+          "bbox": [
+            0.4299,
+            0.5024,
+            0.0732,
+            0.0145
+          ]
         },
         {
           "text": "(3)",
           "translation": "(3)",
-          "bbox": [0.7836, 0.516, 0.0145, 0.0081]
+          "bbox": [
+            0.7836,
+            0.516,
+            0.0145,
+            0.0081
+          ]
         }
       ]
     },
@@ -1018,192 +1910,382 @@
         {
           "text": "WEB取扱説明書",
           "translation": "Web instruction manual",
-          "bbox": [0.0363, 0.0381, 0.1663, 0.0154]
+          "bbox": [
+            0.0363,
+            0.0381,
+            0.1663,
+            0.0154
+          ]
         },
         {
           "text": "©東映",
           "translation": "©Toei",
-          "bbox": [0.3247, 0.0693, 0.0314, 0.0068]
+          "bbox": [
+            0.3247,
+            0.0693,
+            0.0314,
+            0.0068
+          ]
         },
         {
           "text": "矢印一覧 取り付けます。\n■■■■■■■ \n|",
           "translation": "Arrow list Install.\n■■■■■■■\n|",
-          "bbox": [0.0828, 0.1133, 0.3495, 0.015]
+          "bbox": [
+            0.0828,
+            0.1133,
+            0.3495,
+            0.015
+          ]
         },
         {
           "text": "取り外します。",
           "translation": "Remove it.",
-          "bbox": [0.5417, 0.1142, 0.1233, 0.0158]
+          "bbox": [
+            0.5417,
+            0.1142,
+            0.1233,
+            0.0158
+          ]
         },
         {
           "text": "可動させます。",
           "translation": "Make it movable.",
-          "bbox": [0.7872, 0.115, 0.1294, 0.0133]
+          "bbox": [
+            0.7872,
+            0.115,
+            0.1294,
+            0.0133
+          ]
         },
         {
           "text": "ダイノプレート (ティラノ)の遊び方",
           "translation": "How to play with Dino Plate (Tyranno)",
-          "bbox": [0.1687, 0.186, 0.4825, 0.0222]
+          "bbox": [
+            0.1687,
+            0.186,
+            0.4825,
+            0.0222
+          ]
         },
         {
           "text": "通信遊び",
           "translation": "Communication play",
-          "bbox": [0.2557, 0.2561, 0.1076, 0.0175]
+          "bbox": [
+            0.2557,
+            0.2561,
+            0.1076,
+            0.0175
+          ]
         },
         {
           "text": "※図はベルトを省略しています。",
           "translation": "*The belt is omitted from the illustration.",
-          "bbox": [0.0967, 0.3044, 0.2799, 0.015]
+          "bbox": [
+            0.0967,
+            0.3044,
+            0.2799,
+            0.015
+          ]
         },
         {
           "text": "他のダイノプレートも同様です。",
           "translation": "The same goes for the other dyno plates.",
-          "bbox": [0.1137, 0.3215, 0.2823, 0.0141]
+          "bbox": [
+            0.1137,
+            0.3215,
+            0.2823,
+            0.0141
+          ]
         },
         {
           "text": "順番",
           "translation": "order",
-          "bbox": [0.5665, 0.3296, 0.0266, 0.0086]
+          "bbox": [
+            0.5665,
+            0.3296,
+            0.0266,
+            0.0086
+          ]
         },
         {
           "text": "通信ボタンを押します。",
           "translation": "Press the communication button.",
-          "bbox": [0.0816, 0.3472, 0.1953, 0.015]
+          "bbox": [
+            0.0816,
+            0.3472,
+            0.1953,
+            0.015
+          ]
         },
         {
           "text": "アバレブラック",
           "translation": "Abare Black",
-          "bbox": [0.6953, 0.313, 0.0859, 0.009]
+          "bbox": [
+            0.6953,
+            0.313,
+            0.0859,
+            0.009
+          ]
         },
         {
           "text": "音声",
           "translation": "audio",
-          "bbox": [0.7473, 0.3288, 0.0272, 0.0086]
+          "bbox": [
+            0.7473,
+            0.3288,
+            0.0272,
+            0.0086
+          ]
         },
         {
           "text": "1 出てきてくれ、ダイノガッツに満ちた戦士たちよ\n2 よかった。これで3人そろった",
           "translation": "1 Come out, warriors full of Dino Guts. 2 Great. Now all three are here.",
-          "bbox": [0.5738, 0.3433, 0.3029, 0.0252]
+          "bbox": [
+            0.5738,
+            0.3433,
+            0.3029,
+            0.0252
+          ]
         },
         {
           "text": "→LEDが発光し",
           "translation": "→The LED lights up",
-          "bbox": [0.0816, 0.3685, 0.1409, 0.0145]
+          "bbox": [
+            0.0816,
+            0.3685,
+            0.1409,
+            0.0145
+          ]
         },
         {
           "text": "呼んでるんだ! 荒ぶるダイノウェポンが!",
           "translation": "It's calling! The raging Dino Weapon!",
-          "bbox": [0.6088, 0.3745, 0.2201, 0.0094]
+          "bbox": [
+            0.6088,
+            0.3745,
+            0.2201,
+            0.0094
+          ]
         },
         {
           "text": "表の順番で音声が鳴ります。",
           "translation": "The sounds will be played in the order shown in the table.",
-          "bbox": [0.101, 0.3899, 0.24, 0.015]
+          "bbox": [
+            0.101,
+            0.3899,
+            0.24,
+            0.015
+          ]
         },
         {
           "text": "戦ってくれ、ダイノガッツのほとばしるままに!",
           "translation": "Fight with all your Dino Guts!",
-          "bbox": [0.6076, 0.3903, 0.2533, 0.009]
+          "bbox": [
+            0.6076,
+            0.3903,
+            0.2533,
+            0.009
+          ]
         },
         {
           "text": "爆竜合体するんです!",
           "translation": "The explosive dragons combine!",
-          "bbox": [0.6082, 0.4053, 0.1203, 0.009]
+          "bbox": [
+            0.6082,
+            0.4053,
+            0.1203,
+            0.009
+          ]
         },
         {
           "text": "※通信ボタンを押す度に",
           "translation": "* Every time you press the communication button",
-          "bbox": [0.0828, 0.4117, 0.211, 0.0141]
+          "bbox": [
+            0.0828,
+            0.4117,
+            0.211,
+            0.0141
+          ]
         },
         {
           "text": "3つのダイノウェポンを1つに合わせてみてください!",
           "translation": "Try combining three Dino Weapons into one!",
-          "bbox": [0.6088, 0.4211, 0.2999, 0.009]
+          "bbox": [
+            0.6088,
+            0.4211,
+            0.2999,
+            0.009
+          ]
         },
         {
           "text": "表のセリフと「通信音」が交互に鳴ります。",
           "translation": "The lines on the front and a \"communication sound\" will alternate.",
-          "bbox": [0.101, 0.4331, 0.3495, 0.0141]
+          "bbox": [
+            0.101,
+            0.4331,
+            0.3495,
+            0.0141
+          ]
         },
         {
           "text": "トリノイドです。エヴォリアンが作り出す生命体です。\nはっ!",
           "translation": "They're Trinoids. They're lifeforms created by the Evolians.\nHa!",
-          "bbox": [0.6094, 0.4318, 0.2914, 0.0333]
+          "bbox": [
+            0.6094,
+            0.4318,
+            0.2914,
+            0.0333
+          ]
         },
         {
           "text": "今中笑里(えみぽん)",
           "translation": "Emi Imanaka (Emipon)",
-          "bbox": [0.6796, 0.4677, 0.1173, 0.0094]
+          "bbox": [
+            0.6796,
+            0.4677,
+            0.1173,
+            0.0094
+          ]
         },
         {
           "text": "順番",
           "translation": "order",
-          "bbox": [0.5671, 0.4835, 0.026, 0.0094]
+          "bbox": [
+            0.5671,
+            0.4835,
+            0.026,
+            0.0094
+          ]
         },
         {
           "text": "音声",
           "translation": "audio",
-          "bbox": [0.7479, 0.4827, 0.0248, 0.0094]
+          "bbox": [
+            0.7479,
+            0.4827,
+            0.0248,
+            0.0094
+          ]
         },
         {
           "text": "爆竜チェンジ、はっ!",
           "translation": "Bakuryuu Change, ha!",
-          "bbox": [0.6082, 0.4985, 0.1082, 0.009]
+          "bbox": [
+            0.6082,
+            0.4985,
+            0.1082,
+            0.009
+          ]
         },
         {
           "text": "10 うわ!そんな〜どうして",
           "translation": "10 Wow! Why?",
-          "bbox": [0.5713, 0.5139, 0.1638, 0.009]
+          "bbox": [
+            0.5713,
+            0.5139,
+            0.1638,
+            0.009
+          ]
         },
         {
           "text": "そうだ!ユニット名決めた! アバレンジャー!",
           "translation": "That's right! We've decided on the unit name! Abaranger!",
-          "bbox": [0.6088, 0.5293, 0.2376, 0.009]
+          "bbox": [
+            0.6088,
+            0.5293,
+            0.2376,
+            0.009
+          ]
         },
         {
           "text": "※11の後は1に戻ります。",
           "translation": "*After 11, it will return to 1.",
-          "bbox": [0.7297, 0.5481, 0.1886, 0.0111]
+          "bbox": [
+            0.7297,
+            0.5481,
+            0.1886,
+            0.0111
+          ]
         },
         {
           "text": "BGM遊び",
           "translation": "BGM play",
-          "bbox": [0.2473, 0.6717, 0.1264, 0.0158]
+          "bbox": [
+            0.2473,
+            0.6717,
+            0.1264,
+            0.0158
+          ]
         },
         {
           "text": "※図はベルトを省略しています。",
           "translation": "*The belt is omitted from the illustration.",
-          "bbox": [0.0967, 0.7208, 0.2817, 0.0124]
+          "bbox": [
+            0.0967,
+            0.7208,
+            0.2817,
+            0.0124
+          ]
         },
         {
           "text": "BGMボタンを短押しします。\n→表の順番でBGMが再生されます。\n※再生中にBGMボタンを押すとBGMが止まり、\nもう一度BGMボタンを押すと\n次のBGMが再生されます。\n※他の遊びをしている時にBGMボタンを押すと、\nBGMを再生することができます。",
           "translation": "Short press the BGM button.\n→ BGM will play in the order shown in the table.\n*Pressing the BGM button while the BGM is playing will stop it.\nPressing the BGM button again will play the next BGM.\n*You can press the BGM button while playing another game to play BGM.",
-          "bbox": [0.0822, 0.7465, 0.4244, 0.1411]
+          "bbox": [
+            0.0822,
+            0.7465,
+            0.4244,
+            0.1411
+          ]
         },
         {
           "text": "順番",
           "translation": "order",
-          "bbox": [0.5665, 0.8521, 0.0266, 0.009]
+          "bbox": [
+            0.5665,
+            0.8521,
+            0.0266,
+            0.009
+          ]
         },
         {
           "text": "莫大!爆発! 驀進!",
           "translation": "Huge! Explosion! Rush!",
-          "bbox": [0.6082, 0.8658, 0.0925, 0.0098]
+          "bbox": [
+            0.6082,
+            0.8658,
+            0.0925,
+            0.0098
+          ]
         },
         {
           "text": "爆竜戦隊アバレンジャー(TVサイズ)",
           "translation": "Bakuryu Sentai Abaranger (TV size)",
-          "bbox": [0.6082, 0.882, 0.2086, 0.0094]
+          "bbox": [
+            0.6082,
+            0.882,
+            0.2086,
+            0.0094
+          ]
         },
         {
           "text": "We are the ONE~僕らはひとつ~(TVサイズ)",
           "translation": "We are the ONE (TV size)",
-          "bbox": [0.6082, 0.8974, 0.2763, 0.009]
+          "bbox": [
+            0.6082,
+            0.8974,
+            0.2763,
+            0.009
+          ]
         },
         {
           "text": "※3の後は1に戻ります。",
           "translation": "*After step 3, it will return to step 1.",
-          "bbox": [0.7297, 0.9153, 0.1753, 0.012]
+          "bbox": [
+            0.7297,
+            0.9153,
+            0.1753,
+            0.012
+          ]
         }
       ]
     },
@@ -1213,162 +2295,322 @@
         {
           "text": "WEB取扱説明書",
           "translation": "Web instruction manual",
-          "bbox": [0.0369, 0.0376, 0.165, 0.0154]
+          "bbox": [
+            0.0369,
+            0.0376,
+            0.165,
+            0.0154
+          ]
         },
         {
           "text": "©東映",
           "translation": "©Toei",
-          "bbox": [0.3245, 0.0688, 0.0314, 0.0073]
+          "bbox": [
+            0.3245,
+            0.0688,
+            0.0314,
+            0.0073
+          ]
         },
         {
           "text": "矢印一覧",
           "translation": "Arrow list",
-          "bbox": [0.0828, 0.1137, 0.0798, 0.0145]
+          "bbox": [
+            0.0828,
+            0.1137,
+            0.0798,
+            0.0145
+          ]
         },
         {
           "text": "■ 取り付けます。 |",
           "translation": "■ Install. |",
-          "bbox": [0.2314, 0.1133, 0.197, 0.0154]
+          "bbox": [
+            0.2314,
+            0.1133,
+            0.197,
+            0.0154
+          ]
         },
         {
           "text": "取り外します。",
           "translation": "Remove it.",
-          "bbox": [0.5402, 0.1146, 0.1233, 0.015]
+          "bbox": [
+            0.5402,
+            0.1146,
+            0.1233,
+            0.015
+          ]
         },
         {
           "text": "可動させます。",
           "translation": "Make it movable.",
-          "bbox": [0.7849, 0.115, 0.1293, 0.0133]
+          "bbox": [
+            0.7849,
+            0.115,
+            0.1293,
+            0.0133
+          ]
         },
         {
           "text": "ダイノプレート (ティラノ)の遊び方",
           "translation": "How to play with Dino Plate (Tyranno)",
-          "bbox": [0.168, 0.186, 0.4828, 0.0227]
+          "bbox": [
+            0.168,
+            0.186,
+            0.4828,
+            0.0227
+          ]
         },
         {
           "text": "ヒーローセリフ遊び",
           "translation": "Hero Line Play",
-          "bbox": [0.1934, 0.2561, 0.2332, 0.0175]
+          "bbox": [
+            0.1934,
+            0.2561,
+            0.2332,
+            0.0175
+          ]
         },
         {
           "text": "順番",
           "translation": "order",
-          "bbox": [0.5656, 0.2839, 0.0266, 0.0094]
+          "bbox": [
+            0.5656,
+            0.2839,
+            0.0266,
+            0.0094
+          ]
         },
         {
           "text": "セリフ",
           "translation": "Dialogue",
-          "bbox": [0.7414, 0.2847, 0.0363, 0.0077]
+          "bbox": [
+            0.7414,
+            0.2847,
+            0.0363,
+            0.0077
+          ]
         },
         {
           "text": "1 熱くて、なんかわくわくするぜ!",
           "translation": "1 It's hot and exciting!",
-          "bbox": [0.5752, 0.2993, 0.2091, 0.0094]
+          "bbox": [
+            0.5752,
+            0.2993,
+            0.2091,
+            0.0094
+          ]
         },
         {
           "text": "※図はベルトを省略しています。",
           "translation": "*The belt is omitted from the illustration.",
-          "bbox": [0.0961, 0.3053, 0.2816, 0.0133]
+          "bbox": [
+            0.0961,
+            0.3053,
+            0.2816,
+            0.0133
+          ]
         },
         {
           "text": "2 ここからは俺たちに任せろ!",
           "translation": "2 Leave it to us from here on out!",
-          "bbox": [0.5734, 0.3147, 0.1879, 0.0094]
+          "bbox": [
+            0.5734,
+            0.3147,
+            0.1879,
+            0.0094
+          ]
         },
         {
           "text": "セリフボタンを短押しします。",
           "translation": "Short press the dialogue button.",
-          "bbox": [0.0822, 0.3296, 0.2441, 0.015]
+          "bbox": [
+            0.0822,
+            0.3296,
+            0.2441,
+            0.015
+          ]
         },
         {
           "text": "よっしゃー!",
           "translation": "Yesssss!",
-          "bbox": [0.6079, 0.3305, 0.0628, 0.0086]
+          "bbox": [
+            0.6079,
+            0.3305,
+            0.0628,
+            0.0086
+          ]
         },
         {
           "text": "爆竜戦隊アバレンジャーだ!",
           "translation": "Bakuryu Sentai Abaranger!",
-          "bbox": [0.6073, 0.3459, 0.1553, 0.009]
+          "bbox": [
+            0.6073,
+            0.3459,
+            0.1553,
+            0.009
+          ]
         },
         {
           "text": "ボタンを押す度にLEDが発光して、",
           "translation": "Every time you press the button, the LED lights up.",
-          "bbox": [0.1009, 0.3519, 0.3021, 0.0133]
+          "bbox": [
+            0.1009,
+            0.3519,
+            0.3021,
+            0.0133
+          ]
         },
         {
           "text": "アバレイザー",
           "translation": "Abarazor",
-          "bbox": [0.6079, 0.3608, 0.0755, 0.0086]
+          "bbox": [
+            0.6079,
+            0.3608,
+            0.0755,
+            0.0086
+          ]
         },
         {
           "text": "表の順番で音声が鳴ります。",
           "translation": "The sounds will be played in the order shown in the table.",
-          "bbox": [0.1003, 0.3724, 0.2399, 0.0154]
+          "bbox": [
+            0.1003,
+            0.3724,
+            0.2399,
+            0.0154
+          ]
         },
         {
           "text": "ダイノウェポン!",
           "translation": "Dino Weapon!",
-          "bbox": [0.6079, 0.3767, 0.0882, 0.0086]
+          "bbox": [
+            0.6079,
+            0.3767,
+            0.0882,
+            0.0086
+          ]
         },
         {
           "text": "ティラノロッド",
           "translation": "Tyranno Rod",
-          "bbox": [0.6085, 0.3929, 0.0798, 0.0077]
+          "bbox": [
+            0.6085,
+            0.3929,
+            0.0798,
+            0.0077
+          ]
         },
         {
           "text": "ダイノボンバー!必殺!ダイノダイナマイト!",
           "translation": "Dino Bomber! Deadly! Dino Dynamite!",
-          "bbox": [0.6079, 0.4074, 0.2375, 0.009]
+          "bbox": [
+            0.6079,
+            0.4074,
+            0.2375,
+            0.009
+          ]
         },
         {
           "text": "爆竜合体!完成!アバレンオー!",
           "translation": "Bakuryuu fusion! Completed! Abarenoh!",
-          "bbox": [0.6073, 0.4228, 0.1674, 0.0094]
+          "bbox": [
+            0.6073,
+            0.4228,
+            0.1674,
+            0.0094
+          ]
         },
         {
           "text": "爆竜!電撃ドリルスピン!",
           "translation": "Explosive Dragon! Electric Drill Spin!",
-          "bbox": [0.6066, 0.4382, 0.1323, 0.0094]
+          "bbox": [
+            0.6066,
+            0.4382,
+            0.1323,
+            0.0094
+          ]
         },
         {
           "text": "必殺!ランニングダイナマイト!",
           "translation": "Deadly! Running Dynamite!",
-          "bbox": [0.6073, 0.4536, 0.1716, 0.009]
+          "bbox": [
+            0.6073,
+            0.4536,
+            0.1716,
+            0.009
+          ]
         },
         {
           "text": "12 爆竜チェンジ!",
           "translation": "12 Bakuryu Change!",
-          "bbox": [0.5704, 0.469, 0.1142, 0.009]
+          "bbox": [
+            0.5704,
+            0.469,
+            0.1142,
+            0.009
+          ]
         },
         {
           "text": "13 元気莫大!アバレッド!",
           "translation": "13 Enormous Energy! Abared!",
-          "bbox": [0.5704, 0.4848, 0.1565, 0.0086]
+          "bbox": [
+            0.5704,
+            0.4848,
+            0.1565,
+            0.0086
+          ]
         },
         {
           "text": "14 荒ぶるダイノガッツ!",
           "translation": "14 Raging Dino Guts!",
-          "bbox": [0.571, 0.5002, 0.1498, 0.009]
+          "bbox": [
+            0.571,
+            0.5002,
+            0.1498,
+            0.009
+          ]
         },
         {
           "text": "爆竜戦隊アバレンジャー!",
           "translation": "Bakuryu Sentai Abaranger!",
-          "bbox": [0.6073, 0.5152, 0.1553, 0.009]
+          "bbox": [
+            0.6073,
+            0.5152,
+            0.1553,
+            0.009
+          ]
         },
         {
           "text": "あー!が―――!+アバレモード変化音",
           "translation": "Ahh! + Abare Mode transition sound",
-          "bbox": [0.6085, 0.531, 0.2502, 0.009]
+          "bbox": [
+            0.6085,
+            0.531,
+            0.2502,
+            0.009
+          ]
         },
         {
           "text": "はっ!",
           "translation": "Ha!",
-          "bbox": [0.6085, 0.5468, 0.0266, 0.0081]
+          "bbox": [
+            0.6085,
+            0.5468,
+            0.0266,
+            0.0081
+          ]
         },
         {
           "text": "※17の後は1に戻ります。",
           "translation": "*After 17, it will return to 1.",
-          "bbox": [0.7287, 0.5652, 0.1879, 0.0111]
+          "bbox": [
+            0.7287,
+            0.5652,
+            0.1879,
+            0.0111
+          ]
         }
       ]
     },
@@ -1378,72 +2620,142 @@
         {
           "text": "WEB取扱説明書",
           "translation": "Web instruction manual",
-          "bbox": [0.0369, 0.0385, 0.1662, 0.015]
+          "bbox": [
+            0.0369,
+            0.0385,
+            0.1662,
+            0.015
+          ]
         },
         {
           "text": "©東映",
           "translation": "©Toei",
-          "bbox": [0.3251, 0.0693, 0.0314, 0.0064]
+          "bbox": [
+            0.3251,
+            0.0693,
+            0.0314,
+            0.0064
+          ]
         },
         {
           "text": "矢印一覧 取り付けます。\n■ \n|",
           "translation": "Arrow list Install.\n■ \n|",
-          "bbox": [0.0816, 0.1133, 0.348, 0.015]
+          "bbox": [
+            0.0816,
+            0.1133,
+            0.348,
+            0.015
+          ]
         },
         {
           "text": "取り外します。 | 可動させます。",
           "translation": "Remove | Move",
-          "bbox": [0.5408, 0.1124, 0.3728, 0.0171]
+          "bbox": [
+            0.5408,
+            0.1124,
+            0.3728,
+            0.0171
+          ]
         },
         {
           "text": "ダイノプレート (ティラノ)の遊び方",
           "translation": "How to play with Dino Plate (Tyranno)",
-          "bbox": [0.168, 0.186, 0.484, 0.0227]
+          "bbox": [
+            0.168,
+            0.186,
+            0.484,
+            0.0227
+          ]
         },
         {
           "text": "全員一気に変身遊び",
           "translation": "Everyone plays transformation at once",
-          "bbox": [0.1879, 0.2561, 0.2417, 0.0192]
+          "bbox": [
+            0.1879,
+            0.2561,
+            0.2417,
+            0.0192
+          ]
         },
         {
           "text": "※ダイノプレート (ティラノ)を例に説明します。",
           "translation": "*We will use Dyno Plate (Tyrannosaurus) as an example.",
-          "bbox": [0.0961, 0.304, 0.4103, 0.015]
+          "bbox": [
+            0.0961,
+            0.304,
+            0.4103,
+            0.015
+          ]
         },
         {
           "text": "※図はベルトを省略しています。",
           "translation": "*The belt is omitted from the illustration.",
-          "bbox": [0.0967, 0.3224, 0.2816, 0.0133]
+          "bbox": [
+            0.0967,
+            0.3224,
+            0.2816,
+            0.0133
+          ]
         },
         {
           "text": "※他のダイノプレートも同様です。\n①セリフボタンを長押しします。\n→LEDが発光し",
           "translation": "*The same applies to other dyno plates.\n1. Press and hold the dialogue button.\n→The LED will light up",
-          "bbox": [0.081, 0.3373, 0.3142, 0.0637]
+          "bbox": [
+            0.081,
+            0.3373,
+            0.3142,
+            0.0637
+          ]
         },
         {
           "text": "BGMとセリフ「爆竜戦隊アバレンジャー!」が鳴ります。\n②レバーを矢印の方向に可動させます。\n③通信ボタンを押します。\n→レバーが戻り右記のセリフが鳴ります。",
           "translation": "The background music and the line \"Bakuryu Sentai Abaranger!\" will play.\n2. Move the lever in the direction of the arrow.\n3. Press the communication button.\n→ The lever will return and the line shown on the right will be played.",
-          "bbox": [0.081, 0.4083, 0.4804, 0.0782]
+          "bbox": [
+            0.081,
+            0.4083,
+            0.4804,
+            0.0782
+          ]
         },
         {
           "text": "全員 : 爆竜チェンジ!\nレッド 元気莫大!アバレッド!",
           "translation": "All: Bakuryu Change!\nRed: Enormous energy! AvaRed!",
-          "bbox": [0.6085, 0.3536, 0.2218, 0.0389]
+          "bbox": [
+            0.6085,
+            0.3536,
+            0.2218,
+            0.0389
+          ]
         },
         {
           "text": "ブルー 本気爆発!アバレブルー!\nイエロー: 勇気で爆進! アバレイエロー!\nブラック 無敵の竜人魂!アバレブラック!\nキラー:ときめきの白眉!アバレキラー!\nレッド 荒ぶるダイノガッツ!",
           "translation": "Blue: Serious explosion! Wild Blue!\nYellow: Explosive with courage! Wild Yellow!\nBlack: Invincible dragon-man spirit! Wild Black!\nKiller: The highlight of the heartbeat! Wild Killer!\nRed: Raging Dino Guts!",
-          "bbox": [0.5952, 0.4087, 0.3003, 0.1227]
+          "bbox": [
+            0.5952,
+            0.4087,
+            0.3003,
+            0.1227
+          ]
         },
         {
           "text": "全員 : 爆竜戦隊アバレンジャー!",
           "translation": "All: Bakuryu Sentai Abaranger!",
-          "bbox": [0.6115, 0.5472, 0.252, 0.0124]
+          "bbox": [
+            0.6115,
+            0.5472,
+            0.252,
+            0.0124
+          ]
         },
         {
           "text": "【別角度】",
           "translation": "[Another angle]",
-          "bbox": [0.536, 0.6148, 0.0725, 0.015]
+          "bbox": [
+            0.536,
+            0.6148,
+            0.0725,
+            0.015
+          ]
         }
       ]
     },
@@ -1453,112 +2765,222 @@
         {
           "text": "WEB取扱説明書",
           "translation": "Web instruction manual",
-          "bbox": [0.0369, 0.038, 0.1668, 0.0162]
+          "bbox": [
+            0.0369,
+            0.038,
+            0.1668,
+            0.0162
+          ]
         },
         {
           "text": "©東映",
           "translation": "©Toei",
-          "bbox": [0.3251, 0.0688, 0.032, 0.0077]
+          "bbox": [
+            0.3251,
+            0.0688,
+            0.032,
+            0.0077
+          ]
         },
         {
           "text": "矢印一覧 取り付けます。\n■■■■■■■ \n|",
           "translation": "Arrow list Install.\n■■■■■■■\n|",
-          "bbox": [0.0822, 0.1137, 0.3492, 0.015]
+          "bbox": [
+            0.0822,
+            0.1137,
+            0.3492,
+            0.015
+          ]
         },
         {
           "text": "取り外します。",
           "translation": "Remove it.",
-          "bbox": [0.5414, 0.1141, 0.1233, 0.015]
+          "bbox": [
+            0.5414,
+            0.1141,
+            0.1233,
+            0.015
+          ]
         },
         {
           "text": "可動させます。",
           "translation": "Make it movable.",
-          "bbox": [0.7873, 0.1141, 0.1287, 0.0145]
+          "bbox": [
+            0.7873,
+            0.1141,
+            0.1287,
+            0.0145
+          ]
         },
         {
           "text": "ダイノプレート (トリケラ)の遊び方",
           "translation": "How to play Dyno Plate (Tricera)",
-          "bbox": [0.168, 0.1863, 0.481, 0.0231]
+          "bbox": [
+            0.168,
+            0.1863,
+            0.481,
+            0.0231
+          ]
         },
         {
           "text": "爆竜セリフ遊び",
           "translation": "Bakuryu Dialogue Play",
-          "bbox": [0.2175, 0.256, 0.1843, 0.0188]
+          "bbox": [
+            0.2175,
+            0.256,
+            0.1843,
+            0.0188
+          ]
         },
         {
           "text": "※図はベルトを省略しています。\n①レバーを矢印の方向に可動します。",
           "translation": "*The belt is omitted from the illustration.\n1. Move the lever in the direction of the arrow.",
-          "bbox": [0.081, 0.3056, 0.3118, 0.0389]
+          "bbox": [
+            0.081,
+            0.3056,
+            0.3118,
+            0.0389
+          ]
         },
         {
           "text": "◆LEDが発光し",
           "translation": "◆The LED lights up",
-          "bbox": [0.0816, 0.353, 0.1396, 0.0124]
+          "bbox": [
+            0.0816,
+            0.353,
+            0.1396,
+            0.0124
+          ]
         },
         {
           "text": "「トリケラレバー効果音」が鳴ります。\n②下顎を上げて、レバーを戻します。",
           "translation": "The \"Tricera Lever Sound Effect\" will be played.\n2. Lift your lower jaw and release the lever.",
-          "bbox": [0.081, 0.3739, 0.3269, 0.0346]
+          "bbox": [
+            0.081,
+            0.3739,
+            0.3269,
+            0.0346
+          ]
         },
         {
           "text": "順番",
           "translation": "order",
-          "bbox": [0.5656, 0.3427, 0.0278, 0.009]
+          "bbox": [
+            0.5656,
+            0.3427,
+            0.0278,
+            0.009
+          ]
         },
         {
           "text": "セリフ",
           "translation": "Dialogue",
-          "bbox": [0.742, 0.3419, 0.0369, 0.0085]
+          "bbox": [
+            0.742,
+            0.3419,
+            0.0369,
+            0.0085
+          ]
         },
         {
           "text": "助かりましたケラ",
           "translation": "Thank you for your help, Kera",
-          "bbox": [0.6079, 0.3573, 0.0979, 0.009]
+          "bbox": [
+            0.6079,
+            0.3573,
+            0.0979,
+            0.009
+          ]
         },
         {
           "text": "あとは何とかやってみますケラ",
           "translation": "I'll try my best to do the rest.",
-          "bbox": [0.6091, 0.3731, 0.174, 0.009]
+          "bbox": [
+            0.6091,
+            0.3731,
+            0.174,
+            0.009
+          ]
         },
         {
           "text": "3 町を壊しちゃだめだケラ",
           "translation": "3 Don't destroy the town, idiot",
-          "bbox": [0.574, 0.3885, 0.1716, 0.0085]
+          "bbox": [
+            0.574,
+            0.3885,
+            0.1716,
+            0.0085
+          ]
         },
         {
           "text": "はやくそれを触ってくださいケラ",
           "translation": "Please touch it quickly.",
-          "bbox": [0.6091, 0.4038, 0.1849, 0.0085]
+          "bbox": [
+            0.6091,
+            0.4038,
+            0.1849,
+            0.0085
+          ]
         },
         {
           "text": "LEDが発光し「爆竜セリフ」が鳴ります。",
           "translation": "The LED lights up and the \"Bakuryuu line\" is played.",
-          "bbox": [0.1021, 0.4162, 0.3353, 0.0137]
+          "bbox": [
+            0.1021,
+            0.4162,
+            0.3353,
+            0.0137
+          ]
         },
         {
           "text": "ケラ~っ!",
           "translation": "Whew!",
-          "bbox": [0.6085, 0.4192, 0.0526, 0.0085]
+          "bbox": [
+            0.6085,
+            0.4192,
+            0.0526,
+            0.0085
+          ]
         },
         {
           "text": "※①②の操作を繰り返す度に「爆竜セリフ」が\n表の順番に鳴ります。",
           "translation": "*Each time you perform steps ① and ②, the \"Bakuryuu lines\" will be played in the order shown in the table.",
-          "bbox": [0.0834, 0.4372, 0.3825, 0.0363]
+          "bbox": [
+            0.0834,
+            0.4372,
+            0.3825,
+            0.0363
+          ]
         },
         {
           "text": "※5の後は1に戻ります。",
           "translation": "*After 5, it will return to 1.",
-          "bbox": [0.7426, 0.4376, 0.1752, 0.0107]
+          "bbox": [
+            0.7426,
+            0.4376,
+            0.1752,
+            0.0107
+          ]
         },
         {
           "text": "ダイノプレート(トリケラ)",
           "translation": "Dyno Plate (Tricera)",
-          "bbox": [0.1432, 0.5628, 0.1674, 0.0107]
+          "bbox": [
+            0.1432,
+            0.5628,
+            0.1674,
+            0.0107
+          ]
         },
         {
           "text": "(2)",
           "translation": "(2)",
-          "bbox": [0.3154, 0.8124, 0.0157, 0.0094]
+          "bbox": [
+            0.3154,
+            0.8124,
+            0.0157,
+            0.0094
+          ]
         }
       ]
     },
@@ -1568,57 +2990,112 @@
         {
           "text": "WEB取扱説明書",
           "translation": "Web instruction manual",
-          "bbox": [0.0369, 0.0376, 0.1657, 0.0167]
+          "bbox": [
+            0.0369,
+            0.0376,
+            0.1657,
+            0.0167
+          ]
         },
         {
           "text": "©東映",
           "translation": "©Toei",
-          "bbox": [0.3247, 0.0697, 0.032, 0.0064]
+          "bbox": [
+            0.3247,
+            0.0697,
+            0.032,
+            0.0064
+          ]
         },
         {
           "text": "矢印一覧 取り付けます。\n■■■■■■■ \n|",
           "translation": "Arrow list Install.\n■■■■■■■\n|",
-          "bbox": [0.0816, 0.1137, 0.3519, 0.0145]
+          "bbox": [
+            0.0816,
+            0.1137,
+            0.3519,
+            0.0145
+          ]
         },
         {
           "text": "取り外します。 | 可動させます。",
           "translation": "Remove | Move",
-          "bbox": [0.5417, 0.1124, 0.373, 0.0175]
+          "bbox": [
+            0.5417,
+            0.1124,
+            0.373,
+            0.0175
+          ]
         },
         {
           "text": "ダイノプレート (トリケラ) の遊び方",
           "translation": "How to play Dyno Plate (Tricera)",
-          "bbox": [0.1681, 0.1863, 0.4819, 0.0222]
+          "bbox": [
+            0.1681,
+            0.1863,
+            0.4819,
+            0.0222
+          ]
         },
         {
           "text": "変身遊び",
           "translation": "Transformation play",
-          "bbox": [0.2545, 0.256, 0.1088, 0.0175]
+          "bbox": [
+            0.2545,
+            0.256,
+            0.1088,
+            0.0175
+          ]
         },
         {
           "text": "※図はベルトを省略しています。\n①レバーを矢印の方向に可動します。",
           "translation": "*The belt is omitted from the illustration.\n1. Move the lever in the direction of the arrow.",
-          "bbox": [0.0804, 0.3051, 0.3114, 0.0402]
+          "bbox": [
+            0.0804,
+            0.3051,
+            0.3114,
+            0.0402
+          ]
         },
         {
           "text": "→LEDが発光し",
           "translation": "→The LED lights up",
-          "bbox": [0.0816, 0.3526, 0.1397, 0.0128]
+          "bbox": [
+            0.0816,
+            0.3526,
+            0.1397,
+            0.0128
+          ]
         },
         {
           "text": "「トリケラレバー効果音」が鳴ります。\n②セリフボタンを押します。\n→LEDが発光し\n「爆竜チェンジ!」が鳴ります。\n③通信ボタンを押します。\n→レバーが戻りLEDが発光し\n「変身完了効果音(トリケラ)」が",
           "translation": "The \"Tricera Lever Sound Effect\" will play.\n② Press the Dialogue Button.\n→ The LED will light up and\n\"Bakuryu Change!\" will play.\n③ Press the Communication Button.\n→ The lever will return, the LED will light up, and\n\"Transformation Complete Sound Effect (Tricera)\" will play.",
-          "bbox": [0.081, 0.3726, 0.3271, 0.1436]
+          "bbox": [
+            0.081,
+            0.3726,
+            0.3271,
+            0.1436
+          ]
         },
         {
           "text": "鳴ります。",
           "translation": "It will ring.",
-          "bbox": [0.101, 0.5244, 0.0834, 0.012]
+          "bbox": [
+            0.101,
+            0.5244,
+            0.0834,
+            0.012
+          ]
         },
         {
           "text": "【別角度】",
           "translation": "[Another angle]",
-          "bbox": [0.4305, 0.5026, 0.0719, 0.0141]
+          "bbox": [
+            0.4305,
+            0.5026,
+            0.0719,
+            0.0141
+          ]
         }
       ]
     },
@@ -1628,102 +3105,202 @@
         {
           "text": "WEB取扱説明書",
           "translation": "Web instruction manual",
-          "bbox": [0.0363, 0.0385, 0.1644, 0.0145]
+          "bbox": [
+            0.0363,
+            0.0385,
+            0.1644,
+            0.0145
+          ]
         },
         {
           "text": "©東映",
           "translation": "©Toei",
-          "bbox": [0.3253, 0.0688, 0.0314, 0.0077]
+          "bbox": [
+            0.3253,
+            0.0688,
+            0.0314,
+            0.0077
+          ]
         },
         {
           "text": "矢印一覧 取り付けます。\n■■■■■■ \n|",
           "translation": "Arrow list Install.\n■■■■■■\n|",
-          "bbox": [0.0822, 0.1137, 0.3513, 0.0145]
+          "bbox": [
+            0.0822,
+            0.1137,
+            0.3513,
+            0.0145
+          ]
         },
         {
           "text": "取り外します。",
           "translation": "Remove it.",
-          "bbox": [0.5411, 0.1137, 0.1233, 0.015]
+          "bbox": [
+            0.5411,
+            0.1137,
+            0.1233,
+            0.015
+          ]
         },
         {
           "text": "可動させます。",
           "translation": "Make it movable.",
-          "bbox": [0.7872, 0.1145, 0.1294, 0.0141]
+          "bbox": [
+            0.7872,
+            0.1145,
+            0.1294,
+            0.0141
+          ]
         },
         {
           "text": "ダイノプレート (トリケラ) の遊び方",
           "translation": "How to play Dyno Plate (Tricera)",
-          "bbox": [0.1681, 0.1863, 0.48, 0.0222]
+          "bbox": [
+            0.1681,
+            0.1863,
+            0.48,
+            0.0222
+          ]
         },
         {
           "text": "セリフ付変身モード",
           "translation": "Transformation mode with dialogue",
-          "bbox": [0.1947, 0.2556, 0.2316, 0.0192]
+          "bbox": [
+            0.1947,
+            0.2556,
+            0.2316,
+            0.0192
+          ]
         },
         {
           "text": "※図はベルトを省略しています。\n①BGMボタンを長押しします。",
           "translation": "*The belt is omitted from the illustration.\n1. Press and hold the BGM button.",
-          "bbox": [0.081, 0.3056, 0.2963, 0.0389]
+          "bbox": [
+            0.081,
+            0.3056,
+            0.2963,
+            0.0389
+          ]
         },
         {
           "text": "LEDが発光し",
           "translation": "The LED lights up",
-          "bbox": [0.1016, 0.353, 0.1179, 0.012]
+          "bbox": [
+            0.1016,
+            0.353,
+            0.1179,
+            0.012
+          ]
         },
         {
           "text": "「トリケラレバー効果音」が鳴ります\n②レバーを矢印の方向に可動します。",
           "translation": "The \"Tricera Lever Sound Effect\" will play.\n② Move the lever in the direction of the arrow.",
-          "bbox": [0.0804, 0.3739, 0.3198, 0.0346]
+          "bbox": [
+            0.0804,
+            0.3739,
+            0.3198,
+            0.0346
+          ]
         },
         {
           "text": "→LEDが発光し",
           "translation": "→The LED lights up",
-          "bbox": [0.0816, 0.4162, 0.1421, 0.0137]
+          "bbox": [
+            0.0816,
+            0.4162,
+            0.1421,
+            0.0137
+          ]
         },
         {
           "text": "「トリケラレバー効果音」が鳴ります。\n③セリフボタンを押します。\n→LEDが発光し\n「爆竜チェンジ!」と効果音が",
           "translation": "The \"Tricera Lever Sound Effect\" will play.\n③ Press the dialogue button.\n→ The LED will light up and you will hear the \"Bakuryu Change!\" sound effect.",
-          "bbox": [0.081, 0.438, 0.3277, 0.0778]
+          "bbox": [
+            0.081,
+            0.438,
+            0.3277,
+            0.0778
+          ]
         },
         {
           "text": "鳴ります。",
           "translation": "It will ring.",
-          "bbox": [0.1004, 0.5239, 0.0834, 0.0124]
+          "bbox": [
+            0.1004,
+            0.5239,
+            0.0834,
+            0.0124
+          ]
         },
         {
           "text": "④通信ボタンを押します。\n→レバーが戻りLEDが発光し\n「変身完了効果音(トリケラ)」と\n下記のセリフが鳴ります。",
           "translation": "④ Press the communication button.\n→ The lever will return, the LED will light up, and\n\"Transformation complete sound effect (Tricera)\" and\nthe following line will be played.",
-          "bbox": [0.081, 0.5449, 0.2805, 0.0774]
+          "bbox": [
+            0.081,
+            0.5449,
+            0.2805,
+            0.0774
+          ]
         },
         {
           "text": "ブルー 本気爆発! アバレブルー!",
           "translation": "Blue's serious explosion! Wild Blue!",
-          "bbox": [0.1161, 0.6504, 0.2654, 0.012]
+          "bbox": [
+            0.1161,
+            0.6504,
+            0.2654,
+            0.012
+          ]
         },
         {
           "text": "レッド",
           "translation": "Red",
-          "bbox": [0.1197, 0.6803, 0.0423, 0.0103]
+          "bbox": [
+            0.1197,
+            0.6803,
+            0.0423,
+            0.0103
+          ]
         },
         {
           "text": "3人",
           "translation": "3 people",
-          "bbox": [0.1252, 0.7081, 0.0314, 0.009]
+          "bbox": [
+            0.1252,
+            0.7081,
+            0.0314,
+            0.009
+          ]
         },
         {
           "text": ": 荒ぶるダイノガッツ!",
           "translation": ": Raging Dino Guts!",
-          "bbox": [0.2007, 0.6791, 0.1554, 0.0111]
+          "bbox": [
+            0.2007,
+            0.6791,
+            0.1554,
+            0.0111
+          ]
         },
         {
           "text": ": 爆竜戦隊アバレンジャー!",
           "translation": ": Bakuryu Sentai Abaranger!",
-          "bbox": [0.2013, 0.7064, 0.1947, 0.0115]
+          "bbox": [
+            0.2013,
+            0.7064,
+            0.1947,
+            0.0115
+          ]
         },
         {
           "text": "【別角度】",
           "translation": "[Another angle]",
-          "bbox": [0.4305, 0.5026, 0.0726, 0.0141]
+          "bbox": [
+            0.4305,
+            0.5026,
+            0.0726,
+            0.0141
+          ]
         }
       ]
     },
@@ -1733,142 +3310,282 @@
         {
           "text": "WEB取扱説明書",
           "translation": "Web instruction manual",
-          "bbox": [0.0369, 0.0376, 0.1662, 0.0167]
+          "bbox": [
+            0.0369,
+            0.0376,
+            0.1662,
+            0.0167
+          ]
         },
         {
           "text": "©東映",
           "translation": "©Toei",
-          "bbox": [0.3251, 0.0688, 0.032, 0.0077]
+          "bbox": [
+            0.3251,
+            0.0688,
+            0.032,
+            0.0077
+          ]
         },
         {
           "text": "矢印一覧 ◆ 取り付けます。",
           "translation": "Arrow list ◆ Install.",
-          "bbox": [0.084, 0.1141, 0.3311, 0.0145]
+          "bbox": [
+            0.084,
+            0.1141,
+            0.3311,
+            0.0145
+          ]
         },
         {
           "text": "取り外します。",
           "translation": "Remove it.",
-          "bbox": [0.5414, 0.1141, 0.1233, 0.015]
+          "bbox": [
+            0.5414,
+            0.1141,
+            0.1233,
+            0.015
+          ]
         },
         {
           "text": "可動させます。",
           "translation": "Make it movable.",
-          "bbox": [0.7867, 0.1141, 0.1299, 0.0154]
+          "bbox": [
+            0.7867,
+            0.1141,
+            0.1299,
+            0.0154
+          ]
         },
         {
           "text": "ダイノプレート (トリケラ) の遊び方",
           "translation": "How to play Dyno Plate (Tricera)",
-          "bbox": [0.168, 0.1859, 0.4804, 0.0226]
+          "bbox": [
+            0.168,
+            0.1859,
+            0.4804,
+            0.0226
+          ]
         },
         {
           "text": "ヒーローセリフ遊び",
           "translation": "Hero Line Play",
-          "bbox": [0.194, 0.256, 0.2326, 0.0179]
+          "bbox": [
+            0.194,
+            0.256,
+            0.2326,
+            0.0179
+          ]
         },
         {
           "text": "順番",
           "translation": "order",
-          "bbox": [0.5662, 0.2846, 0.0266, 0.009]
+          "bbox": [
+            0.5662,
+            0.2846,
+            0.0266,
+            0.009
+          ]
         },
         {
           "text": "セリフ",
           "translation": "Dialogue",
-          "bbox": [0.7414, 0.2846, 0.0356, 0.0073]
+          "bbox": [
+            0.7414,
+            0.2846,
+            0.0356,
+            0.0073
+          ]
         },
         {
           "text": "※図はベルトを省略しています。",
           "translation": "*The belt is omitted from the illustration.",
-          "bbox": [0.0967, 0.3038, 0.2804, 0.015]
+          "bbox": [
+            0.0967,
+            0.3038,
+            0.2804,
+            0.015
+          ]
         },
         {
           "text": "セリフボタンを短押しします。",
           "translation": "Short press the dialogue button.",
-          "bbox": [0.0816, 0.3308, 0.2441, 0.0128]
+          "bbox": [
+            0.0816,
+            0.3308,
+            0.2441,
+            0.0128
+          ]
         },
         {
           "text": "1 俺の頭ん中で騒いでたのはどいつだ!とっと正気に返れ!\n仕方ない",
           "translation": "1 Who was making all the noise in my head? Come back to your senses! \nI can't help it",
-          "bbox": [0.5758, 0.2987, 0.3311, 0.0256]
+          "bbox": [
+            0.5758,
+            0.2987,
+            0.3311,
+            0.0256
+          ]
         },
         {
           "text": "勝手に決めんな!",
           "translation": "Don't decide on your own!",
-          "bbox": [0.6079, 0.3299, 0.0955, 0.0103]
+          "bbox": [
+            0.6079,
+            0.3299,
+            0.0955,
+            0.0103
+          ]
         },
         {
           "text": "俺の年収は4億、あんたにそれが払えるか?",
           "translation": "My annual salary is 400 million yen, can you afford that?",
-          "bbox": [0.6073, 0.3457, 0.2435, 0.0094]
+          "bbox": [
+            0.6073,
+            0.3457,
+            0.2435,
+            0.0094
+          ]
         },
         {
           "text": "ボタンを押す度にLEDが発光して、",
           "translation": "Every time you press the button, the LED lights up.",
-          "bbox": [0.1009, 0.3521, 0.3021, 0.0128]
+          "bbox": [
+            0.1009,
+            0.3521,
+            0.3021,
+            0.0128
+          ]
         },
         {
           "text": "アバレイザー",
           "translation": "Abarazor",
-          "bbox": [0.6079, 0.3611, 0.0755, 0.0077]
+          "bbox": [
+            0.6079,
+            0.3611,
+            0.0755,
+            0.0077
+          ]
         },
         {
           "text": "表の順番で音声が鳴ります。",
           "translation": "The sounds will be played in the order shown in the table.",
-          "bbox": [0.1003, 0.3735, 0.2393, 0.0137]
+          "bbox": [
+            0.1003,
+            0.3735,
+            0.2393,
+            0.0137
+          ]
         },
         {
           "text": "トリケラバンカー",
           "translation": "Tricera Bunker",
-          "bbox": [0.6085, 0.3769, 0.0955, 0.0081]
+          "bbox": [
+            0.6085,
+            0.3769,
+            0.0955,
+            0.0081
+          ]
         },
         {
           "text": "ダイノボンバー!必殺!ダイノダイナマイト!",
           "translation": "Dino Bomber! Deadly! Dino Dynamite!",
-          "bbox": [0.6079, 0.3919, 0.2369, 0.009]
+          "bbox": [
+            0.6079,
+            0.3919,
+            0.2369,
+            0.009
+          ]
         },
         {
           "text": "爆竜合体!完成!アバレンオー !",
           "translation": "Bakuryu fusion! Completed! Abarenoh!",
-          "bbox": [0.6073, 0.4068, 0.1674, 0.0094]
+          "bbox": [
+            0.6073,
+            0.4068,
+            0.1674,
+            0.0094
+          ]
         },
         {
           "text": "爆竜!電撃ドリルスピン!",
           "translation": "Explosive Dragon! Electric Drill Spin!",
-          "bbox": [0.6073, 0.4231, 0.1329, 0.0085]
+          "bbox": [
+            0.6073,
+            0.4231,
+            0.1329,
+            0.0085
+          ]
         },
         {
           "text": "必殺!ランニングダイナマイト!",
           "translation": "Deadly! Running Dynamite!",
-          "bbox": [0.6073, 0.438, 0.1722, 0.009]
+          "bbox": [
+            0.6073,
+            0.438,
+            0.1722,
+            0.009
+          ]
         },
         {
           "text": "爆竜チェンジ!",
           "translation": "Bakuryu Change!",
-          "bbox": [0.6073, 0.4538, 0.0792, 0.0081]
+          "bbox": [
+            0.6073,
+            0.4538,
+            0.0792,
+            0.0081
+          ]
         },
         {
           "text": "12 本気爆発!アバレブルー!",
           "translation": "12 Serious Explosion! Wild Blue!",
-          "bbox": [0.5704, 0.4684, 0.1752, 0.0094]
+          "bbox": [
+            0.5704,
+            0.4684,
+            0.1752,
+            0.0094
+          ]
         },
         {
           "text": "爆竜戦隊アバレンジャー!",
           "translation": "Bakuryu Sentai Abaranger!",
-          "bbox": [0.6073, 0.4842, 0.1547, 0.0094]
+          "bbox": [
+            0.6073,
+            0.4842,
+            0.1547,
+            0.0094
+          ]
         },
         {
           "text": "あ――――!が―――!+アバレモード変化音",
           "translation": "Ah――――! But――――! + Abare Mode transition sound",
-          "bbox": [0.6085, 0.5, 0.2495, 0.0094]
+          "bbox": [
+            0.6085,
+            0.5,
+            0.2495,
+            0.0094
+          ]
         },
         {
           "text": "はっ!",
           "translation": "Ha!",
-          "bbox": [0.6085, 0.5158, 0.0272, 0.0081]
+          "bbox": [
+            0.6085,
+            0.5158,
+            0.0272,
+            0.0081
+          ]
         },
         {
           "text": "※15の後は1に戻ります。",
           "translation": "*After 15, it will return to 1.",
-          "bbox": [0.7287, 0.5342, 0.1885, 0.0107]
+          "bbox": [
+            0.7287,
+            0.5342,
+            0.1885,
+            0.0107
+          ]
         }
       ]
     },
@@ -1878,82 +3595,162 @@
         {
           "text": "WEB取扱説明書",
           "translation": "Web instruction manual",
-          "bbox": [0.0369, 0.0385, 0.1662, 0.0154]
+          "bbox": [
+            0.0369,
+            0.0385,
+            0.1662,
+            0.0154
+          ]
         },
         {
           "text": "©東映",
           "translation": "©Toei",
-          "bbox": [0.3251, 0.0688, 0.032, 0.0073]
+          "bbox": [
+            0.3251,
+            0.0688,
+            0.032,
+            0.0073
+          ]
         },
         {
           "text": "矢印一覧 取り付けます。\n■ \n|",
           "translation": "Arrow list Install.\n■ \n|",
-          "bbox": [0.0822, 0.1137, 0.3505, 0.015]
+          "bbox": [
+            0.0822,
+            0.1137,
+            0.3505,
+            0.015
+          ]
         },
         {
           "text": "取り外します。 | 可動させます。",
           "translation": "Remove | Move",
-          "bbox": [0.5414, 0.1124, 0.374, 0.0175]
+          "bbox": [
+            0.5414,
+            0.1124,
+            0.374,
+            0.0175
+          ]
         },
         {
           "text": "ダイノプレート (プテラ) の遊び方",
           "translation": "How to play Dyno Plate (Aerodactyl)",
-          "bbox": [0.1686, 0.1863, 0.4586, 0.0218]
+          "bbox": [
+            0.1686,
+            0.1863,
+            0.4586,
+            0.0218
+          ]
         },
         {
           "text": "爆竜セリフ遊び",
           "translation": "Bakuryu Dialogue Play",
-          "bbox": [0.2175, 0.256, 0.1843, 0.0188]
+          "bbox": [
+            0.2175,
+            0.256,
+            0.1843,
+            0.0188
+          ]
         },
         {
           "text": "※図はベルトを省略しています。\n①レバーを矢印の方向に可動します。",
           "translation": "*The belt is omitted from the illustration.\n1. Move the lever in the direction of the arrow.",
-          "bbox": [0.081, 0.3056, 0.3106, 0.0389]
+          "bbox": [
+            0.081,
+            0.3056,
+            0.3106,
+            0.0389
+          ]
         },
         {
           "text": "LEDが発光し",
           "translation": "The LED lights up",
-          "bbox": [0.1021, 0.3526, 0.1196, 0.0128]
+          "bbox": [
+            0.1021,
+            0.3526,
+            0.1196,
+            0.0128
+          ]
         },
         {
           "text": "「プテラレバー効果音」が鳴ります。\n②下顎を上げて、レバーを戻します。\n→LEDが発光し「爆竜セリフ」が鳴ります。\n※①②の操作を繰り返す度に「爆竜セリフ」が",
           "translation": "The \"Ptera lever sound effect\" will be played.\n② Raise the lower jaw and release the lever.\n→ The LED will light up and the \"Bakuryuu line\" will be played.\n*The \"Bakuryuu line\" will be played each time you repeat steps ① and ②.",
-          "bbox": [0.081, 0.3731, 0.3849, 0.0786]
+          "bbox": [
+            0.081,
+            0.3731,
+            0.3849,
+            0.0786
+          ]
         },
         {
           "text": "表の順番に鳴ります。",
           "translation": "The sounds will ring in the order shown in the table.",
-          "bbox": [0.1009, 0.4585, 0.1801, 0.0145]
+          "bbox": [
+            0.1009,
+            0.4585,
+            0.1801,
+            0.0145
+          ]
         },
         {
           "text": "順番",
           "translation": "order",
-          "bbox": [0.5674, 0.3423, 0.0254, 0.0094]
+          "bbox": [
+            0.5674,
+            0.3423,
+            0.0254,
+            0.0094
+          ]
         },
         {
           "text": "セリフ",
           "translation": "Dialogue",
-          "bbox": [0.742, 0.3427, 0.0369, 0.0077]
+          "bbox": [
+            0.742,
+            0.3427,
+            0.0369,
+            0.0077
+          ]
         },
         {
           "text": "けど遅すぎ、ハラハラしたプラ",
           "translation": "But it was too late, and I was nervous.",
-          "bbox": [0.6091, 0.3573, 0.1686, 0.009]
+          "bbox": [
+            0.6091,
+            0.3573,
+            0.1686,
+            0.009
+          ]
         },
         {
           "text": "2 ちょっと待ってなプラ、あいつの弱点を見つけてくるプラ\n3 それに触るとはっきり心が通うプラ",
           "translation": "2 Hold on, Pura, I'll find his weak spot.\n3 Touching it clearly communicates with Pura.",
-          "bbox": [0.574, 0.3726, 0.3347, 0.0244]
+          "bbox": [
+            0.574,
+            0.3726,
+            0.3347,
+            0.0244
+          ]
         },
         {
           "text": "※3の後は1に戻ります。",
           "translation": "*After step 3, it will return to step 1.",
-          "bbox": [0.7426, 0.4064, 0.1752, 0.0107]
+          "bbox": [
+            0.7426,
+            0.4064,
+            0.1752,
+            0.0107
+          ]
         },
         {
           "text": "ダイノプレート(プテラ)",
           "translation": "Dyno Plate (Ptera)",
-          "bbox": [0.1523, 0.5799, 0.1577, 0.0107]
+          "bbox": [
+            0.1523,
+            0.5799,
+            0.1577,
+            0.0107
+          ]
         }
       ]
     },
@@ -1963,72 +3760,142 @@
         {
           "text": "WEB取扱説明書",
           "translation": "Web instruction manual",
-          "bbox": [0.0369, 0.0389, 0.1668, 0.0154]
+          "bbox": [
+            0.0369,
+            0.0389,
+            0.1668,
+            0.0154
+          ]
         },
         {
           "text": "©東映",
           "translation": "©Toei",
-          "bbox": [0.3251, 0.0692, 0.0314, 0.0073]
+          "bbox": [
+            0.3251,
+            0.0692,
+            0.0314,
+            0.0073
+          ]
         },
         {
           "text": "矢印一覧 取り付けます。\n■ \n|",
           "translation": "Arrow list Install.\n■ \n|",
-          "bbox": [0.0828, 0.1137, 0.3492, 0.015]
+          "bbox": [
+            0.0828,
+            0.1137,
+            0.3492,
+            0.015
+          ]
         },
         {
           "text": "取り外します。",
           "translation": "Remove it.",
-          "bbox": [0.5414, 0.1141, 0.1227, 0.0154]
+          "bbox": [
+            0.5414,
+            0.1141,
+            0.1227,
+            0.0154
+          ]
         },
         {
           "text": "可動させます。",
           "translation": "Make it movable.",
-          "bbox": [0.7867, 0.1141, 0.1299, 0.0154]
+          "bbox": [
+            0.7867,
+            0.1141,
+            0.1299,
+            0.0154
+          ]
         },
         {
           "text": "ダイノプレート (プテラ) の遊び方",
           "translation": "How to play Dyno Plate (Aerodactyl)",
-          "bbox": [0.1686, 0.1863, 0.4586, 0.0218]
+          "bbox": [
+            0.1686,
+            0.1863,
+            0.4586,
+            0.0218
+          ]
         },
         {
           "text": "変身遊び",
           "translation": "Transformation play",
-          "bbox": [0.255, 0.256, 0.1088, 0.0188]
+          "bbox": [
+            0.255,
+            0.256,
+            0.1088,
+            0.0188
+          ]
         },
         {
           "text": "※図はベルトを省略しています。\n①レバーを矢印の方向に可動します。",
           "translation": "*The belt is omitted from the illustration.\n1. Move the lever in the direction of the arrow.",
-          "bbox": [0.081, 0.3056, 0.3112, 0.0389]
+          "bbox": [
+            0.081,
+            0.3056,
+            0.3112,
+            0.0389
+          ]
         },
         {
           "text": "→LEDが発光し",
           "translation": "→The LED lights up",
-          "bbox": [0.0816, 0.3526, 0.1396, 0.0128]
+          "bbox": [
+            0.0816,
+            0.3526,
+            0.1396,
+            0.0128
+          ]
         },
         {
           "text": "「プテラレバー効果音」が鳴ります。\n②セリフボタンを押します。\n→LEDが発光し\n「爆竜チェンジ!」が鳴ります。\n③通信ボタンを押します。",
           "translation": "The \"Ptera Lever Sound Effect\" will play.\n② Press the Dialogue Button.\n→ The LED will light up and\n\"Bakuryu Change!\" will play.\n③ Press the Communication Button.",
-          "bbox": [0.081, 0.3726, 0.3142, 0.1009]
+          "bbox": [
+            0.081,
+            0.3726,
+            0.3142,
+            0.1009
+          ]
         },
         {
           "text": "→レバーが戻りLEDが発光し",
           "translation": "→The lever returns and the LED lights up.",
-          "bbox": [0.0822, 0.4808, 0.2538, 0.0128]
+          "bbox": [
+            0.0822,
+            0.4808,
+            0.2538,
+            0.0128
+          ]
         },
         {
           "text": "「変身完了効果音 (プテラ)」が",
           "translation": "\"Transformation completion sound effect (Ptera)\"",
-          "bbox": [0.1027, 0.5021, 0.2489, 0.0137]
+          "bbox": [
+            0.1027,
+            0.5021,
+            0.2489,
+            0.0137
+          ]
         },
         {
           "text": "【別角度】",
           "translation": "[Another angle]",
-          "bbox": [0.4302, 0.5026, 0.0737, 0.0137]
+          "bbox": [
+            0.4302,
+            0.5026,
+            0.0737,
+            0.0137
+          ]
         },
         {
           "text": "鳴ります。",
           "translation": "It will ring.",
-          "bbox": [0.1021, 0.5226, 0.0816, 0.0145]
+          "bbox": [
+            0.1021,
+            0.5226,
+            0.0816,
+            0.0145
+          ]
         }
       ]
     },
@@ -2038,97 +3905,192 @@
         {
           "text": "WEB取扱説明書",
           "translation": "Web instruction manual",
-          "bbox": [0.0357, 0.0389, 0.1663, 0.0137]
+          "bbox": [
+            0.0357,
+            0.0389,
+            0.1663,
+            0.0137
+          ]
         },
         {
           "text": "©東映",
           "translation": "©Toei",
-          "bbox": [0.3247, 0.0692, 0.032, 0.0068]
+          "bbox": [
+            0.3247,
+            0.0692,
+            0.032,
+            0.0068
+          ]
         },
         {
           "text": "矢印一覧 取り付けます。\n■■■■■■■ \n|",
           "translation": "Arrow list Install.\n■■■■■■■\n|",
-          "bbox": [0.0822, 0.1137, 0.3513, 0.0145]
+          "bbox": [
+            0.0822,
+            0.1137,
+            0.3513,
+            0.0145
+          ]
         },
         {
           "text": "取り外します。 | 可動させます。",
           "translation": "Remove | Move",
-          "bbox": [0.5417, 0.1124, 0.373, 0.0175]
+          "bbox": [
+            0.5417,
+            0.1124,
+            0.373,
+            0.0175
+          ]
         },
         {
           "text": "ダイノプレート (プテラ) の遊び方",
           "translation": "How to play Dyno Plate (Ptera)",
-          "bbox": [0.1681, 0.1859, 0.4601, 0.0222]
+          "bbox": [
+            0.1681,
+            0.1859,
+            0.4601,
+            0.0222
+          ]
         },
         {
           "text": "セリフ付変身モード",
           "translation": "Transformation mode with dialogue",
-          "bbox": [0.1947, 0.256, 0.2328, 0.0192]
+          "bbox": [
+            0.1947,
+            0.256,
+            0.2328,
+            0.0192
+          ]
         },
         {
           "text": "※図はベルトを省略しています。\n①BGMボタンを長押しします。",
           "translation": "*The belt is omitted from the illustration.\n1. Press and hold the BGM button.",
-          "bbox": [0.081, 0.3056, 0.2969, 0.0389]
+          "bbox": [
+            0.081,
+            0.3056,
+            0.2969,
+            0.0389
+          ]
         },
         {
           "text": "LEDが発光し",
           "translation": "The LED lights up",
-          "bbox": [0.1016, 0.3526, 0.1197, 0.0128]
+          "bbox": [
+            0.1016,
+            0.3526,
+            0.1197,
+            0.0128
+          ]
         },
         {
           "text": "「プテラレバー効果音」が鳴ります\n②レバーを矢印の方向に可動します。",
           "translation": "The \"Ptera Lever Sound Effect\" will play.\n② Move the lever in the direction of the arrow.",
-          "bbox": [0.0804, 0.3735, 0.312, 0.035]
+          "bbox": [
+            0.0804,
+            0.3735,
+            0.312,
+            0.035
+          ]
         },
         {
           "text": "→LEDが発光し",
           "translation": "→The LED lights up",
-          "bbox": [0.081, 0.4171, 0.1427, 0.0128]
+          "bbox": [
+            0.081,
+            0.4171,
+            0.1427,
+            0.0128
+          ]
         },
         {
           "text": "「プテラレバー効果音」が鳴ります。\n③セリフボタンを押します。\nLEDが発光し\n「爆竜チェンジ!」と効果音が",
           "translation": "The \"Ptera Lever Sound Effect\" will play.\n③ Press the dialogue button.\nThe LED will light up and\nthe sound effect \"Bakuryu Change!\" will play.",
-          "bbox": [0.081, 0.4376, 0.315, 0.0782]
+          "bbox": [
+            0.081,
+            0.4376,
+            0.315,
+            0.0782
+          ]
         },
         {
           "text": "鳴ります。",
           "translation": "It will ring.",
-          "bbox": [0.1004, 0.5239, 0.0834, 0.0124]
+          "bbox": [
+            0.1004,
+            0.5239,
+            0.0834,
+            0.0124
+          ]
         },
         {
           "text": "④通信ボタンを押します。\n→レバーが戻りLEDが発光し\n「変身完了効果音(プテラ)」と\n下記のセリフが鳴ります。",
           "translation": "④ Press the communication button.\n→ The lever will return, the LED will light up,\n\"Transformation complete sound effect (Ptera)\"\nand the following dialogue will be played.",
-          "bbox": [0.0804, 0.5449, 0.2672, 0.0774]
+          "bbox": [
+            0.0804,
+            0.5449,
+            0.2672,
+            0.0774
+          ]
         },
         {
           "text": "イエロー 勇気で爆進! アバレイエロー!",
           "translation": "Yellow: Charge forward with courage! Wild Yellow!",
-          "bbox": [0.107, 0.6585, 0.3096, 0.0128]
+          "bbox": [
+            0.107,
+            0.6585,
+            0.3096,
+            0.0128
+          ]
         },
         {
           "text": "【別角度】",
           "translation": "[Another angle]",
-          "bbox": [0.4305, 0.5026, 0.0726, 0.0137]
+          "bbox": [
+            0.4305,
+            0.5026,
+            0.0726,
+            0.0137
+          ]
         },
         {
           "text": "レッド",
           "translation": "Red",
-          "bbox": [0.1191, 0.688, 0.0429, 0.0098]
+          "bbox": [
+            0.1191,
+            0.688,
+            0.0429,
+            0.0098
+          ]
         },
         {
           "text": ":荒ぶるダイノガッツ!",
           "translation": ": Raging Dino Guts!",
-          "bbox": [0.2037, 0.6863, 0.1518, 0.0115]
+          "bbox": [
+            0.2037,
+            0.6863,
+            0.1518,
+            0.0115
+          ]
         },
         {
           "text": "3人",
           "translation": "3 people",
-          "bbox": [0.1252, 0.715, 0.032, 0.0094]
+          "bbox": [
+            0.1252,
+            0.715,
+            0.032,
+            0.0094
+          ]
         },
         {
           "text": ": 爆竜戦隊アバレンジャー!",
           "translation": ": Bakuryu Sentai Abaranger!",
-          "bbox": [0.2007, 0.7141, 0.1947, 0.0111]
+          "bbox": [
+            0.2007,
+            0.7141,
+            0.1947,
+            0.0111
+          ]
         }
       ]
     },
@@ -2138,127 +4100,252 @@
         {
           "text": "WEB取扱説明書",
           "translation": "Web instruction manual",
-          "bbox": [0.0369, 0.0376, 0.1669, 0.0167]
+          "bbox": [
+            0.0369,
+            0.0376,
+            0.1669,
+            0.0167
+          ]
         },
         {
           "text": "©東映",
           "translation": "©Toei",
-          "bbox": [0.3247, 0.0697, 0.0333, 0.0064]
+          "bbox": [
+            0.3247,
+            0.0697,
+            0.0333,
+            0.0064
+          ]
         },
         {
           "text": "矢印一覧 取り付けます。\n■■■■■■ \n|",
           "translation": "Arrow list Install.\n■■■■■■\n|",
-          "bbox": [0.0822, 0.1137, 0.3495, 0.015]
+          "bbox": [
+            0.0822,
+            0.1137,
+            0.3495,
+            0.015
+          ]
         },
         {
           "text": "取り外します。",
           "translation": "Remove it.",
-          "bbox": [0.5411, 0.1141, 0.1233, 0.0154]
+          "bbox": [
+            0.5411,
+            0.1141,
+            0.1233,
+            0.0154
+          ]
         },
         {
           "text": "可動させます。",
           "translation": "Make it movable.",
-          "bbox": [0.7872, 0.115, 0.1294, 0.0137]
+          "bbox": [
+            0.7872,
+            0.115,
+            0.1294,
+            0.0137
+          ]
         },
         {
           "text": "ダイノプレート (プテラ) の遊び方",
           "translation": "How to play Dyno Plate (Ptera)",
-          "bbox": [0.1681, 0.1863, 0.4589, 0.0222]
+          "bbox": [
+            0.1681,
+            0.1863,
+            0.4589,
+            0.0222
+          ]
         },
         {
           "text": "ヒーローセリフ遊び",
           "translation": "Hero Line Play",
-          "bbox": [0.1941, 0.256, 0.2322, 0.0179]
+          "bbox": [
+            0.1941,
+            0.256,
+            0.2322,
+            0.0179
+          ]
         },
         {
           "text": "※図はベルトを省略しています。\nセリフボタンを短押しします。",
           "translation": "*The belt is omitted from the illustration.\nBriefly press the dialogue button.",
-          "bbox": [0.0816, 0.3047, 0.295, 0.0393]
+          "bbox": [
+            0.0816,
+            0.3047,
+            0.295,
+            0.0393
+          ]
         },
         {
           "text": "順番",
           "translation": "order",
-          "bbox": [0.5073, 0.3047, 0.0284, 0.009]
+          "bbox": [
+            0.5073,
+            0.3047,
+            0.0284,
+            0.009
+          ]
         },
         {
           "text": "セリフ",
           "translation": "Dialogue",
-          "bbox": [0.7098, 0.3047, 0.0369, 0.0077]
+          "bbox": [
+            0.7098,
+            0.3047,
+            0.0369,
+            0.0077
+          ]
         },
         {
           "text": "1 目を覚まして!お願い!",
           "translation": "1 Wake up! Please!",
-          "bbox": [0.5193, 0.3197, 0.1681, 0.0094]
+          "bbox": [
+            0.5193,
+            0.3197,
+            0.1681,
+            0.0094
+          ]
         },
         {
           "text": "2 任せて!",
           "translation": "2 Leave it to me!",
-          "bbox": [0.5163, 0.3346, 0.0786, 0.009]
+          "bbox": [
+            0.5163,
+            0.3346,
+            0.0786,
+            0.009
+          ]
         },
         {
           "text": "ボタンを押す度にLEDが発光して、",
           "translation": "Every time you press the button, the LED lights up.",
-          "bbox": [0.1004, 0.3521, 0.3017, 0.0128]
+          "bbox": [
+            0.1004,
+            0.3521,
+            0.3017,
+            0.0128
+          ]
         },
         {
           "text": "合体なんてするんですか?! それみたい!やりましょ!すぐやりましょ!",
           "translation": "Do they actually combine?! It looks like it! Let's do it! Let's do it right now!",
-          "bbox": [0.5508, 0.3504, 0.3519, 0.009]
+          "bbox": [
+            0.5508,
+            0.3504,
+            0.3519,
+            0.009
+          ]
         },
         {
           "text": "いくよ!",
           "translation": "Here we go!",
-          "bbox": [0.5508, 0.3662, 0.0393, 0.0081]
+          "bbox": [
+            0.5508,
+            0.3662,
+            0.0393,
+            0.0081
+          ]
         },
         {
           "text": "表の順番で音声が鳴ります。",
           "translation": "The sounds will be played in the order shown in the table.",
-          "bbox": [0.1004, 0.3735, 0.24, 0.0137]
+          "bbox": [
+            0.1004,
+            0.3735,
+            0.24,
+            0.0137
+          ]
         },
         {
           "text": "アバレイザー",
           "translation": "Abarazor",
-          "bbox": [0.5508, 0.3812, 0.0768, 0.0085]
+          "bbox": [
+            0.5508,
+            0.3812,
+            0.0768,
+            0.0085
+          ]
         },
         {
           "text": "プテラダガー",
           "translation": "Ptera Dagger",
-          "bbox": [0.5514, 0.3966, 0.0738, 0.0081]
+          "bbox": [
+            0.5514,
+            0.3966,
+            0.0738,
+            0.0081
+          ]
         },
         {
           "text": "ダイノボンバー!必殺!ダイノダイナマイト!",
           "translation": "Dino Bomber! Deadly! Dino Dynamite!",
-          "bbox": [0.5508, 0.412, 0.2376, 0.009]
+          "bbox": [
+            0.5508,
+            0.412,
+            0.2376,
+            0.009
+          ]
         },
         {
           "text": "爆竜合体!完成!アバレンオー!",
           "translation": "Bakuryuu fusion! Completed! Abarenoh!",
-          "bbox": [0.5508, 0.4274, 0.1675, 0.009]
+          "bbox": [
+            0.5508,
+            0.4274,
+            0.1675,
+            0.009
+          ]
         },
         {
           "text": "爆竜!電撃ドリルスピン!",
           "translation": "Explosive Dragon! Electric Drill Spin!",
-          "bbox": [0.5502, 0.4427, 0.133, 0.009]
+          "bbox": [
+            0.5502,
+            0.4427,
+            0.133,
+            0.009
+          ]
         },
         {
           "text": "必殺!ランニングダイナマイト!",
           "translation": "Deadly! Running Dynamite!",
-          "bbox": [0.5502, 0.4581, 0.1723, 0.009]
+          "bbox": [
+            0.5502,
+            0.4581,
+            0.1723,
+            0.009
+          ]
         },
         {
           "text": "11 爆竜チェンジ!\n12 勇気で爆進! アバレイエロー!\n13 爆竜戦隊アバレンジャー!\n14 あー!が―――!+アバレモード変化音",
           "translation": "11 Bakuryu Change!\n12 Explosive Charge with Courage! Abare Yellow!\n13 Bakuryu Sentai Abaranger!\n14 Ah! Ga―――! + Abare Mode Transformation Sound",
-          "bbox": [0.5133, 0.4731, 0.2884, 0.056]
+          "bbox": [
+            0.5133,
+            0.4731,
+            0.2884,
+            0.056
+          ]
         },
         {
           "text": "15 はっ!",
           "translation": "15 Ha!",
-          "bbox": [0.5133, 0.5363, 0.0647, 0.0073]
+          "bbox": [
+            0.5133,
+            0.5363,
+            0.0647,
+            0.0073
+          ]
         },
         {
           "text": "※15の後は1に戻ります。",
           "translation": "*After 15, it will return to 1.",
-          "bbox": [0.7231, 0.5538, 0.1874, 0.0111]
+          "bbox": [
+            0.7231,
+            0.5538,
+            0.1874,
+            0.0111
+          ]
         }
       ]
     },
@@ -2268,92 +4355,182 @@
         {
           "text": "WEB取扱説明書",
           "translation": "Web instruction manual",
-          "bbox": [0.0363, 0.0385, 0.1657, 0.015]
+          "bbox": [
+            0.0363,
+            0.0385,
+            0.1657,
+            0.015
+          ]
         },
         {
           "text": "©東映",
           "translation": "©Toei",
-          "bbox": [0.3247, 0.0692, 0.0314, 0.0073]
+          "bbox": [
+            0.3247,
+            0.0692,
+            0.0314,
+            0.0073
+          ]
         },
         {
           "text": "矢印一覧 取り付けます。\n■■■■■■ \n|",
           "translation": "Arrow list Install.\n■■■■■■\n|",
-          "bbox": [0.0822, 0.1137, 0.3501, 0.015]
+          "bbox": [
+            0.0822,
+            0.1137,
+            0.3501,
+            0.015
+          ]
         },
         {
           "text": "取り外します。",
           "translation": "Remove it.",
-          "bbox": [0.5417, 0.1141, 0.1233, 0.0154]
+          "bbox": [
+            0.5417,
+            0.1141,
+            0.1233,
+            0.0154
+          ]
         },
         {
           "text": "可動させます。",
           "translation": "Make it movable.",
-          "bbox": [0.7866, 0.115, 0.13, 0.0137]
+          "bbox": [
+            0.7866,
+            0.115,
+            0.13,
+            0.0137
+          ]
         },
         {
           "text": "超爆竜プレート (別売り)での遊び方",
           "translation": "How to play with the Super Bakuryu Plate (sold separately)",
-          "bbox": [0.1669, 0.1859, 0.4958, 0.0226]
+          "bbox": [
+            0.1669,
+            0.1859,
+            0.4958,
+            0.0226
+          ]
         },
         {
           "text": "プレートの取り付け方",
           "translation": "How to attach the plate",
-          "bbox": [0.1814, 0.256, 0.2557, 0.0188]
+          "bbox": [
+            0.1814,
+            0.256,
+            0.2557,
+            0.0188
+          ]
         },
         {
           "text": "※図はベルトを省略しています。",
           "translation": "*The belt is omitted from the illustration.",
-          "bbox": [0.0961, 0.3047, 0.2817, 0.0124]
+          "bbox": [
+            0.0961,
+            0.3047,
+            0.2817,
+            0.0124
+          ]
         },
         {
           "text": "取り付け方\nダイノブレス本体に",
           "translation": "How to install: To the Dyno Breath body",
-          "bbox": [0.0804, 0.3368, 0.1663, 0.038]
+          "bbox": [
+            0.0804,
+            0.3368,
+            0.1663,
+            0.038
+          ]
         },
         {
           "text": "超爆竜プレート(別売り)を取り付けます。",
           "translation": "Attach the Super Bakuryu Plate (sold separately).",
-          "bbox": [0.0804, 0.3821, 0.3422, 0.015]
+          "bbox": [
+            0.0804,
+            0.3821,
+            0.3422,
+            0.015
+          ]
         },
         {
           "text": "LEDが発光し\n「おお、 爆竜たち\nみんなの力を貸してくれ!」が",
           "translation": "The LED lights up and says, \"Oh, Bakuryu, lend me your strength!\"",
-          "bbox": [0.1004, 0.4034, 0.2455, 0.0568]
+          "bbox": [
+            0.1004,
+            0.4034,
+            0.2455,
+            0.0568
+          ]
         },
         {
           "text": "鳴ります。",
           "translation": "It will ring.",
-          "bbox": [0.101, 0.4684, 0.0828, 0.0137]
+          "bbox": [
+            0.101,
+            0.4684,
+            0.0828,
+            0.0137
+          ]
         },
         {
           "text": "超爆竜プレート(別売り)",
           "translation": "Super Bakuryu Plate (sold separately)",
-          "bbox": [0.3301, 0.491, 0.1578, 0.0111]
+          "bbox": [
+            0.3301,
+            0.491,
+            0.1578,
+            0.0111
+          ]
         },
         {
           "text": "取り外し方",
           "translation": "How to remove",
-          "bbox": [0.133, 0.5615, 0.0967, 0.0145]
+          "bbox": [
+            0.133,
+            0.5615,
+            0.0967,
+            0.0145
+          ]
         },
         {
           "text": "超爆竜プレートを矢印の方向に取り外します。",
           "translation": "Remove the Super Bakuryu Plate in the direction of the arrow.",
-          "bbox": [0.081, 0.5872, 0.3803, 0.0145]
+          "bbox": [
+            0.081,
+            0.5872,
+            0.3803,
+            0.0145
+          ]
         },
         {
           "text": "「着脱音」が鳴ります。",
           "translation": "A \"detachment sound\" will be heard.",
-          "bbox": [0.1022, 0.6094, 0.1784, 0.0137]
+          "bbox": [
+            0.1022,
+            0.6094,
+            0.1784,
+            0.0137
+          ]
         },
         {
           "text": "-------▶",
           "translation": "-------▶",
-          "bbox": [0.6457, 0.8034, 0.0079, -0.0585]
+          "bbox": [
+            0.6457,
+            0.8034,
+            0.0079,
+            -0.0585
+          ]
         },
         {
           "text": "<",
           "translation": "<",
-          "bbox": [0.6433, 0.4923, 0.0121, -0.0094]
+          "bbox": [
+            0.6433,
+            0.4923,
+            0.0121,
+            -0.0094
+          ]
         }
       ]
     },
@@ -2363,57 +4540,112 @@
         {
           "text": "WEB取扱説明書",
           "translation": "Web instruction manual",
-          "bbox": [0.0369, 0.0385, 0.1675, 0.0154]
+          "bbox": [
+            0.0369,
+            0.0385,
+            0.1675,
+            0.0154
+          ]
         },
         {
           "text": "©東映",
           "translation": "©Toei",
-          "bbox": [0.3253, 0.0688, 0.032, 0.0077]
+          "bbox": [
+            0.3253,
+            0.0688,
+            0.032,
+            0.0077
+          ]
         },
         {
           "text": "矢印一覧 取り付けます。\n■■■■■■ \n|",
           "translation": "Arrow list Install.\n■■■■■■\n|",
-          "bbox": [0.0822, 0.1137, 0.3501, 0.0145]
+          "bbox": [
+            0.0822,
+            0.1137,
+            0.3501,
+            0.0145
+          ]
         },
         {
           "text": "取り外します。 | 可動させます。",
           "translation": "Remove | Move",
-          "bbox": [0.5417, 0.1128, 0.373, 0.0171]
+          "bbox": [
+            0.5417,
+            0.1128,
+            0.373,
+            0.0171
+          ]
         },
         {
           "text": "超爆竜プレート (別売り)での遊び方",
           "translation": "How to play with the Super Bakuryu Plate (sold separately)",
-          "bbox": [0.1669, 0.1859, 0.4964, 0.0226]
+          "bbox": [
+            0.1669,
+            0.1859,
+            0.4964,
+            0.0226
+          ]
         },
         {
           "text": "変身遊び",
           "translation": "Transformation play",
-          "bbox": [0.2545, 0.256, 0.1094, 0.0179]
+          "bbox": [
+            0.2545,
+            0.256,
+            0.1094,
+            0.0179
+          ]
         },
         {
           "text": "※図はベルトを省略しています。\n①レバーを矢印の方向に可動します。",
           "translation": "*The belt is omitted from the illustration.\n1. Move the lever in the direction of the arrow.",
-          "bbox": [0.081, 0.306, 0.312, 0.0385]
+          "bbox": [
+            0.081,
+            0.306,
+            0.312,
+            0.0385
+          ]
         },
         {
           "text": "→LEDが発光し\n「超爆竜変身待機音」が鳴ります。\n②通信ボタンを押します。\n→レバーが戻りLEDが発光し",
           "translation": "→ The LED will light up and\nthe \"Super Bakuryuu transformation standby sound\" will play.\n② Press the communication button.\n→ The lever will return and the LED will light up.",
-          "bbox": [0.081, 0.3526, 0.2981, 0.0774]
+          "bbox": [
+            0.081,
+            0.3526,
+            0.2981,
+            0.0774
+          ]
         },
         {
           "text": "「超爆竜変身音」が鳴ります。",
           "translation": "The \"Super Explosive Dragon transformation sound\" will be heard.",
-          "bbox": [0.1022, 0.438, 0.237, 0.0137]
+          "bbox": [
+            0.1022,
+            0.438,
+            0.237,
+            0.0137
+          ]
         },
         {
           "text": "※下顎を上げて、レバーを戻しても",
           "translation": "※Even if you raise your lower jaw and return the lever",
-          "bbox": [0.0834, 0.459, 0.2963, 0.0137]
+          "bbox": [
+            0.0834,
+            0.459,
+            0.2963,
+            0.0137
+          ]
         },
         {
           "text": "「超爆竜変身音」が鳴ります。",
           "translation": "The \"Super Explosive Dragon transformation sound\" will be heard.",
-          "bbox": [0.1022, 0.4808, 0.2382, 0.0137]
+          "bbox": [
+            0.1022,
+            0.4808,
+            0.2382,
+            0.0137
+          ]
         }
       ]
     },
@@ -2423,107 +4655,212 @@
         {
           "text": "WEB取扱説明書",
           "translation": "Web instruction manual",
-          "bbox": [0.0369, 0.0376, 0.1656, 0.0162]
+          "bbox": [
+            0.0369,
+            0.0376,
+            0.1656,
+            0.0162
+          ]
         },
         {
           "text": "©東映",
           "translation": "©Toei",
-          "bbox": [0.3251, 0.0697, 0.0308, 0.0064]
+          "bbox": [
+            0.3251,
+            0.0697,
+            0.0308,
+            0.0064
+          ]
         },
         {
           "text": "矢印一覧 取り付けます。\n■ \n|",
           "translation": "Arrow list Install.\n■ \n|",
-          "bbox": [0.0828, 0.1137, 0.3492, 0.015]
+          "bbox": [
+            0.0828,
+            0.1137,
+            0.3492,
+            0.015
+          ]
         },
         {
           "text": "取り外します。",
           "translation": "Remove it.",
-          "bbox": [0.5414, 0.1141, 0.1233, 0.0154]
+          "bbox": [
+            0.5414,
+            0.1141,
+            0.1233,
+            0.0154
+          ]
         },
         {
           "text": "可動させます。",
           "translation": "Make it movable.",
-          "bbox": [0.7861, 0.1137, 0.1293, 0.0158]
+          "bbox": [
+            0.7861,
+            0.1137,
+            0.1293,
+            0.0158
+          ]
         },
         {
           "text": "超爆竜プレート (別売り)での遊び方",
           "translation": "How to play with the Super Bakuryu Plate (sold separately)",
-          "bbox": [0.168, 0.1859, 0.4943, 0.0231]
+          "bbox": [
+            0.168,
+            0.1859,
+            0.4943,
+            0.0231
+          ]
         },
         {
           "text": "通信遊び",
           "translation": "Communication play",
-          "bbox": [0.2556, 0.256, 0.1076, 0.0179]
+          "bbox": [
+            0.2556,
+            0.256,
+            0.1076,
+            0.0179
+          ]
         },
         {
           "text": "※図はベルトを省略しています。\n通信ボタンを押します。\n→LEDが発光し",
           "translation": "*The belt is omitted from the illustration.\nPress the communication button.\n→The LED will light up.",
-          "bbox": [0.081, 0.3056, 0.2961, 0.0603]
+          "bbox": [
+            0.081,
+            0.3056,
+            0.2961,
+            0.0603
+          ]
         },
         {
           "text": "「ティラノレバー効果音」が鳴った後、",
           "translation": "After the \"Tyranno lever sound effect\" is played,",
-          "bbox": [0.1027, 0.3739, 0.3076, 0.0137]
+          "bbox": [
+            0.1027,
+            0.3739,
+            0.3076,
+            0.0137
+          ]
         },
         {
           "text": "「とどめの",
           "translation": "\"The finishing blow",
-          "bbox": [0.1009, 0.3949, 0.084, 0.0132]
+          "bbox": [
+            0.1009,
+            0.3949,
+            0.084,
+            0.0132
+          ]
         },
         {
           "text": "ビックテールボンバーだテラ~っ!」が\n鳴ります。",
           "translation": "It's a Big Tail Bomber!\" sounds.",
-          "bbox": [0.1021, 0.415, 0.3154, 0.0385]
+          "bbox": [
+            0.1021,
+            0.415,
+            0.3154,
+            0.0385
+          ]
         },
         {
           "text": "BGM遊び",
           "translation": "BGM play",
-          "bbox": [0.2471, 0.5795, 0.1257, 0.0158]
+          "bbox": [
+            0.2471,
+            0.5795,
+            0.1257,
+            0.0158
+          ]
         },
         {
           "text": "※図はベルトを省略しています。\nBGMボタンを短押しします。\n表の順番でBGMが再生されます。\n※再生中にBGMボタンを押すとBGMが止まり、\nもう一度BGMボタンを押すと",
           "translation": "*The belt is omitted from the illustration.\nBriefly press the BGM button.\nThe BGM will play in the order shown in the table.\n*Pressing the BGM button while the BGM is playing will stop it,\nand pressing the BGM button again will",
-          "bbox": [0.0828, 0.6282, 0.4163, 0.1034]
+          "bbox": [
+            0.0828,
+            0.6282,
+            0.4163,
+            0.1034
+          ]
         },
         {
           "text": "次のBGMが再生されます。",
           "translation": "The following background music will be played:",
-          "bbox": [0.1003, 0.7397, 0.2363, 0.0124]
+          "bbox": [
+            0.1003,
+            0.7397,
+            0.2363,
+            0.0124
+          ]
         },
         {
           "text": "※他の遊びをしている時にBGMボタンを押すと、",
           "translation": "*If you press the BGM button while playing another game,",
-          "bbox": [0.0834, 0.7603, 0.4236, 0.0141]
+          "bbox": [
+            0.0834,
+            0.7603,
+            0.4236,
+            0.0141
+          ]
         },
         {
           "text": "順番",
           "translation": "order",
-          "bbox": [0.5674, 0.7594, 0.026, 0.009]
+          "bbox": [
+            0.5674,
+            0.7594,
+            0.026,
+            0.009
+          ]
         },
         {
           "text": "莫大!爆発! 驀進!",
           "translation": "Huge! Explosion! Rush!",
-          "bbox": [0.6085, 0.7735, 0.0906, 0.0094]
+          "bbox": [
+            0.6085,
+            0.7735,
+            0.0906,
+            0.0094
+          ]
         },
         {
           "text": "BGMを再生することができます。",
           "translation": "You can play background music.",
-          "bbox": [0.1021, 0.7821, 0.2894, 0.0132]
+          "bbox": [
+            0.1021,
+            0.7821,
+            0.2894,
+            0.0132
+          ]
         },
         {
           "text": "爆竜戦隊アバレンジャー(TVサイズ)",
           "translation": "Bakuryu Sentai Abaranger (TV size)",
-          "bbox": [0.6073, 0.7889, 0.2091, 0.0103]
+          "bbox": [
+            0.6073,
+            0.7889,
+            0.2091,
+            0.0103
+          ]
         },
         {
           "text": "We are the ONE~僕らはひとつ~(TVサイズ)",
           "translation": "We are the ONE (TV size)",
-          "bbox": [0.6079, 0.8051, 0.2761, 0.0085]
+          "bbox": [
+            0.6079,
+            0.8051,
+            0.2761,
+            0.0085
+          ]
         },
         {
           "text": "※3の後は1に戻ります。",
           "translation": "*After step 3, it will return to step 1.",
-          "bbox": [0.7299, 0.8239, 0.1746, 0.0107]
+          "bbox": [
+            0.7299,
+            0.8239,
+            0.1746,
+            0.0107
+          ]
         }
       ]
     },
@@ -2533,122 +4870,242 @@
         {
           "text": "WEB取扱説明書",
           "translation": "Web instruction manual",
-          "bbox": [0.0369, 0.0376, 0.1668, 0.0167]
+          "bbox": [
+            0.0369,
+            0.0376,
+            0.1668,
+            0.0167
+          ]
         },
         {
           "text": "©東映",
           "translation": "©Toei",
-          "bbox": [0.3251, 0.0688, 0.032, 0.0077]
+          "bbox": [
+            0.3251,
+            0.0688,
+            0.032,
+            0.0077
+          ]
         },
         {
           "text": "矢印一覧 ◆ 取り付けます。",
           "translation": "Arrow list ◆ Install.",
-          "bbox": [0.0834, 0.1137, 0.3305, 0.0158]
+          "bbox": [
+            0.0834,
+            0.1137,
+            0.3305,
+            0.0158
+          ]
         },
         {
           "text": "取り外します。",
           "translation": "Remove it.",
-          "bbox": [0.5402, 0.1141, 0.1233, 0.015]
+          "bbox": [
+            0.5402,
+            0.1141,
+            0.1233,
+            0.015
+          ]
         },
         {
           "text": "可動させます。",
           "translation": "Make it movable.",
-          "bbox": [0.7861, 0.1137, 0.1293, 0.0154]
+          "bbox": [
+            0.7861,
+            0.1137,
+            0.1293,
+            0.0154
+          ]
         },
         {
           "text": "超爆竜プレート (別売り)での遊び方",
           "translation": "How to play with the Super Bakuryu Plate (sold separately)",
-          "bbox": [0.1674, 0.1863, 0.4955, 0.0222]
+          "bbox": [
+            0.1674,
+            0.1863,
+            0.4955,
+            0.0222
+          ]
         },
         {
           "text": "ヒーローセリフ遊び",
           "translation": "Hero Line Play",
-          "bbox": [0.194, 0.256, 0.2326, 0.0179]
+          "bbox": [
+            0.194,
+            0.256,
+            0.2326,
+            0.0179
+          ]
         },
         {
           "text": "順番",
           "translation": "order",
-          "bbox": [0.565, 0.2846, 0.0272, 0.009]
+          "bbox": [
+            0.565,
+            0.2846,
+            0.0272,
+            0.009
+          ]
         },
         {
           "text": "音声",
           "translation": "audio",
-          "bbox": [0.7462, 0.2842, 0.0266, 0.009]
+          "bbox": [
+            0.7462,
+            0.2842,
+            0.0266,
+            0.009
+          ]
         },
         {
           "text": "※図はベルトを省略しています。\nセリフボタンを押します。",
           "translation": "*The belt is omitted from the illustration.\nPress the dialogue button.",
-          "bbox": [0.081, 0.3034, 0.2955, 0.0415]
+          "bbox": [
+            0.081,
+            0.3034,
+            0.2955,
+            0.0415
+          ]
         },
         {
           "text": "1 おおおおお!何か力がわいてきましたよーっ!\nゼン・ゼン・全力全開ブラ!\n剛力百倍。一気に最強! 超アバレマックス!",
           "translation": "1 Oooooh! I'm feeling a surge of strength!\nZen, zen, full power, full throttle!\nHundred times more powerful. Suddenly the strongest! Super crazy max!",
-          "bbox": [0.5758, 0.2987, 0.2816, 0.041]
+          "bbox": [
+            0.5758,
+            0.2987,
+            0.2816,
+            0.041
+          ]
         },
         {
           "text": "ボタンを押す度にLEDが発光して、",
           "translation": "Every time you press the button, the LED lights up.",
-          "bbox": [0.1009, 0.3521, 0.3033, 0.0128]
+          "bbox": [
+            0.1009,
+            0.3521,
+            0.3033,
+            0.0128
+          ]
         },
         {
           "text": "表の順番で音声が鳴ります。",
           "translation": "The sounds will be played in the order shown in the table.",
-          "bbox": [0.1003, 0.3735, 0.2393, 0.0137]
+          "bbox": [
+            0.1003,
+            0.3735,
+            0.2393,
+            0.0137
+          ]
         },
         {
           "text": "待たせたな。デカさじゃまったく歯が立たねえが、\n今のオイラはお前さんに負ける気がしやしねえ、\nアバレンゲッコーさんよう、爆竜パワー全部のせで",
           "translation": "Sorry to keep you waiting. You're no match for me in terms of size, but I don't feel like I can lose to you right now.\nHey Abarengekko, I'll put all my Bakuryuu power into this.",
-          "bbox": [0.6073, 0.3457, 0.2834, 0.0402]
+          "bbox": [
+            0.6073,
+            0.3457,
+            0.2834,
+            0.0402
+          ]
         },
         {
           "text": "ぶっ倒させていただきます。",
           "translation": "I'll knock you down.",
-          "bbox": [0.6079, 0.3915, 0.1571, 0.0098]
+          "bbox": [
+            0.6079,
+            0.3915,
+            0.1571,
+            0.0098
+          ]
         },
         {
           "text": "二十年で大人になった僕の力、 くらえケラ~っ!",
           "translation": "Take this power I've gained in the last 20 years!",
-          "bbox": [0.6079, 0.4073, 0.2592, 0.009]
+          "bbox": [
+            0.6079,
+            0.4073,
+            0.2592,
+            0.009
+          ]
         },
         {
           "text": "ケラ~っ!",
           "translation": "Whew!",
-          "bbox": [0.6079, 0.4231, 0.0532, 0.0085]
+          "bbox": [
+            0.6079,
+            0.4231,
+            0.0532,
+            0.0085
+          ]
         },
         {
           "text": "食らいついたら離さないブラ!",
           "translation": "Once she bites, she won't let go!",
-          "bbox": [0.6073, 0.438, 0.1692, 0.009]
+          "bbox": [
+            0.6073,
+            0.438,
+            0.1692,
+            0.009
+          ]
         },
         {
           "text": "人間の友、見事な太刀筋だゲラ",
           "translation": "Man's friend, what a fine sword move!",
-          "bbox": [0.6079, 0.4534, 0.1734, 0.0094]
+          "bbox": [
+            0.6079,
+            0.4534,
+            0.1734,
+            0.0094
+          ]
         },
         {
           "text": "一回しかいわねえぞ皆の衆、",
           "translation": "I'll only say it once, everyone.",
-          "bbox": [0.6079, 0.4692, 0.1589, 0.0094]
+          "bbox": [
+            0.6079,
+            0.4692,
+            0.1589,
+            0.0094
+          ]
         },
         {
           "text": "サンキューなこれで終わりだ!",
           "translation": "Thank goodness that's it!",
-          "bbox": [0.6079, 0.4846, 0.1668, 0.0085]
+          "bbox": [
+            0.6079,
+            0.4846,
+            0.1668,
+            0.0085
+          ]
         },
         {
           "text": "アバレンジャーの絆の力、見せてやる!",
           "translation": "I'll show you the power of the Abaranger bonds!",
-          "bbox": [0.6079, 0.5, 0.2133, 0.009]
+          "bbox": [
+            0.6079,
+            0.5,
+            0.2133,
+            0.009
+          ]
         },
         {
           "text": "おお、爆竜たち、みんなの力を貸してくれ!",
           "translation": "Oh, Bakuryuu, lend us all your strength!",
-          "bbox": [0.6079, 0.5154, 0.2332, 0.009]
+          "bbox": [
+            0.6079,
+            0.5154,
+            0.2332,
+            0.009
+          ]
         },
         {
           "text": "※11の後は1に戻ります。",
           "translation": "*After 11, it will return to 1.",
-          "bbox": [0.719, 0.5342, 0.1879, 0.0111]
+          "bbox": [
+            0.719,
+            0.5342,
+            0.1879,
+            0.0111
+          ]
         }
       ]
     }

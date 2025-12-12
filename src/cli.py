@@ -187,7 +187,7 @@ def translate(pdf_path_or_url, source_lang, target_lang, workers, skip_cleanup):
                                 bold=True
                             )
 
-                            from src.shopify_search import search_tokullectibles
+                            from src.tokullectibles import search_tokullectibles
 
                             # Try searching with manual name
                             click.echo(f"Searching Tokullectibles for: {progress.manual_name}")
@@ -239,16 +239,28 @@ def translate(pdf_path_or_url, source_lang, target_lang, workers, skip_cleanup):
                             icon = phase_icons.get(progress.phase, "⏳")
 
                             if progress.phase == "ocr":
+                                # Show page count if available
+                                page_info = ""
+                                if progress.pages_total > 0:
+                                    page_info = f" ({progress.pages_total} pages)"
                                 click.echo(
-                                    f"\n{icon} {click.style('[1/4] OCR', bold=True, fg='cyan')} - Extracting text..."
+                                    f"\n{icon} {click.style('[1/4] OCR', bold=True, fg='cyan')} - Extracting text{page_info}..."
                                 )
                             elif progress.phase == "translation":
+                                # Show block count if available
+                                block_info = ""
+                                if progress.blocks_total > 0:
+                                    block_info = f" ({progress.blocks_total} blocks)"
                                 click.echo(
-                                    f"\n{icon} {click.style('[2/4] Translation', bold=True, fg='cyan')} - Translating text..."
+                                    f"\n{icon} {click.style('[2/4] Translation', bold=True, fg='cyan')} - Translating text{block_info}..."
                                 )
                             elif progress.phase == "site_generation":
+                                # Show page count if available
+                                page_info = ""
+                                if progress.pages_total > 0:
+                                    page_info = f" ({progress.pages_total} pages)"
                                 click.echo(
-                                    f"\n{icon} {click.style('[3/4] Site Generation', bold=True, fg='cyan')} - Creating viewer..."
+                                    f"\n{icon} {click.style('[3/4] Site Generation', bold=True, fg='cyan')} - Creating viewer{page_info}..."
                                 )
                             elif progress.phase == "cleanup":
                                 if skip_cleanup:
@@ -256,8 +268,12 @@ def translate(pdf_path_or_url, source_lang, target_lang, workers, skip_cleanup):
                                         f"\n⊘ {click.style('[4/4] Cleanup', bold=True, fg='yellow')} - Skipped"
                                     )
                                 else:
+                                    # Show block count if available
+                                    block_info = ""
+                                    if progress.blocks_total > 0:
+                                        block_info = f" ({progress.blocks_total} blocks)"
                                     click.echo(
-                                        f"\n{icon} {click.style('[4/4] Cleanup', bold=True, fg='cyan')} - Improving quality..."
+                                        f"\n{icon} {click.style('[4/4] Cleanup', bold=True, fg='cyan')} - Improving quality{block_info}..."
                                     )
                             elif progress.phase == "complete":
                                 break
@@ -364,7 +380,7 @@ def add_url(manual_name, source_url):
     """
     import json
     from src.activities import _generate_main_index
-    from src.shopify_search import search_tokullectibles
+    from src.tokullectibles import search_tokullectibles
 
     manuals_dir = Path("manuals")
     json_path = manuals_dir / manual_name / "translations.json"

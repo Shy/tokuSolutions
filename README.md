@@ -6,7 +6,7 @@ I buy a lot of Kamen Rider toys. The problem? All the manuals are in Japanese, a
 
 Google Translate on your phone works for simple text, but PDF translation is terrible—it loses layout context, mangles technical terms, and produces nonsense for complex instructions. This project attempts to do the best possible automated PDF translation while providing an interface for humans to fix the inevitable mistakes AI makes.
 
-**The approach**: Use Google Document AI for OCR with layout detection, batch translate via Google Translate API, clean up with Gemini AI using product context, then present everything in an editable web interface. All orchestrated by Temporal workflows for reliable, parallel execution.
+**The approach**: Use Google Document AI for OCR with layout detection, batch translate via Google Translate API, clean up with Gemini AI using product context (managed by pydantic), then present everything in an editable web interface. All orchestrated by Temporal workflows for reliable, parallel execution.
 
 ## How Temporal Orchestrates Translation
 
@@ -35,6 +35,8 @@ The system uses a [parent workflow](src/workflows/pdf_translation_workflow.py) t
 - **Query support**: Parent workflow exposes real-time progress via Temporal Queries
 - **Observability**: Better visibility into which phase is executing or failed
 
+![Child Workflows](images/temporal-child-workflows.png)
+
 **Real-time Progress Tracking:**
 
 The CLI polls the workflow using Temporal Queries (every 500ms) to display live progress:
@@ -58,6 +60,9 @@ The CLI polls the workflow using Temporal Queries (every 500ms) to display live 
 
 The parent workflow updates a `WorkflowProgress` state that includes phase tracking and sub-progress details from each child workflow.
 
+![OCR Detail](images/temporal-workflow-detail.png)
+
+
 **Why Temporal?**
 - **Fan-out/fan-in**: Pages 0-19 all OCR in parallel, results merge when done
 - **Automatic retries**: API rate limits and transient failures handled automatically
@@ -66,7 +71,7 @@ The parent workflow updates a `WorkflowProgress` state that includes phase track
 
 The timeline view shows parallel OCR execution:
 
-![Workflow Detail](images/temporal-workflow-detail.png)
+![OCR Detail](images/temporal-workflow-ocr.png)
 
 ## Prerequisites
 
@@ -107,11 +112,19 @@ GEMINI_API_KEY=your-gemini-api-key  # Optional
 
 ## Website
 
+### Index Page
 ![Web Viewer](images/websiteScreenshot.png)
 
-The translatations are served to users via a static site hosted on GitHub Pages using front end javascript to render the translations ontop of webp splits of the original manuals. The viewer features an inline editor for fixing translation errors. Click any text block to edit, and changes sync back to the repository via pull request—enabling collaborative review and version control for manual corrections.
+Translations are served via a static site hosted on GitHub Pages. The index provides search, tag filtering, and quick access to manuals. Product pages link to Tokullectibles store listings and translated Bandai blog posts via dropdown menu.
 
-Manuals are automatically tagged by product line (CSM, DX, Memorial) and franchise (Kamen Rider, Sentai, Ultraman). With Gemini API key configured, tagging uses AI for higher accuracy; otherwise falls back to pattern matching.
+### Inline Editor
+![Editor](images/Editor.png)
+
+The viewer features an inline editor for fixing translation errors. Click any text block to edit original text, translations, or bounding box coordinates. Changes can be exported as JSON or submitted directly via GitHub pull request—enabling collaborative review and version control for manual corrections.
+
+### Tagging System
+
+Manuals are automatically tagged by product line (CSM, DX, Memorial, Premium) and franchise (Kamen Rider, Sentai, Ultraman). Tag definitions are centralized in [web/meta.json](web/meta.json), with AI-assisted classification via Gemini (fallback to pattern matching without API key).
 
 ## CLI Commands
 

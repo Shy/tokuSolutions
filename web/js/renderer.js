@@ -356,12 +356,40 @@ export async function loadManual(manualName) {
       sourceLink.style.display = 'none';
     }
 
-    const blogLink = document.getElementById('blogLink');
-    if (state.currentManual.meta.blog_url) {
-      blogLink.href = state.currentManual.meta.blog_url;
-      blogLink.style.display = 'inline-flex';
+    // Setup blog dropdown
+    const blogDropdown = document.getElementById('blogDropdown');
+    const blogMenu = blogDropdown.querySelector('.dropdown-menu');
+    const blogToggle = blogDropdown.querySelector('.dropdown-toggle');
+
+    // Get blog links (prefer blog_links array, fallback to single blog_url)
+    const blogLinks = state.currentManual.meta.blog_links ||
+      (state.currentManual.meta.blog_url ? [{
+        title: 'Tech Blog',
+        url: state.currentManual.meta.blog_url,
+        translated_url: state.currentManual.meta.blog_url
+      }] : []);
+
+    if (blogLinks.length > 0) {
+      // Populate dropdown menu
+      blogMenu.innerHTML = blogLinks.map(link =>
+        `<a href="${link.translated_url}" target="_blank">${link.title}</a>`
+      ).join('');
+
+      // Show dropdown
+      blogDropdown.style.display = 'inline-block';
+
+      // Toggle dropdown on click
+      blogToggle.onclick = (e) => {
+        e.stopPropagation();
+        blogDropdown.classList.toggle('open');
+      };
+
+      // Close dropdown when clicking outside
+      document.addEventListener('click', () => {
+        blogDropdown.classList.remove('open');
+      });
     } else {
-      blogLink.style.display = 'none';
+      blogDropdown.style.display = 'none';
     }
 
     renderPages(manualName, renderToken);

@@ -1,9 +1,16 @@
-"""Shopify product search for Tokullectibles."""
+"""Product search and metadata retrieval for Tokullectibles store."""
 
 import re
 import requests
 from pydantic import BaseModel
 from typing import Optional
+
+
+class BlogLink(BaseModel):
+    """A single blog post link."""
+    title: str
+    url: str
+    translated_url: str  # Google Translate wrapped URL
 
 
 class ProductInfo(BaseModel):
@@ -13,7 +20,7 @@ class ProductInfo(BaseModel):
     url: str
     handle: str
     description: Optional[str] = None
-    blog_url: Optional[str] = None  # Link to Bandai technical blog (Google Translated)
+    blog_links: list[BlogLink] = []  # Multiple relevant blog posts
 
 
 def search_tokullectibles(query: str) -> Optional[ProductInfo]:
@@ -45,13 +52,13 @@ def search_tokullectibles(query: str) -> Optional[ProductInfo]:
         # Extract actual product name and description from page
         name = _extract_product_name(product_url) or query
         description = _extract_product_description(product_url)
-        blog_url = _get_bandai_blog_link(name)
+        blog_links = _get_bandai_blog_links(name)
         return ProductInfo(
             name=name,
             url=product_url,
             handle=handle,
             description=description,
-            blog_url=blog_url,
+            blog_links=blog_links,
         )
 
     # If direct URL fails, try common variations
@@ -61,13 +68,13 @@ def search_tokullectibles(query: str) -> Optional[ProductInfo]:
         if _check_url_exists(product_url):
             name = _extract_product_name(product_url) or query
             description = _extract_product_description(product_url)
-            blog_url = _get_bandai_blog_link(name)
+            blog_links = _get_bandai_blog_links(name)
             return ProductInfo(
                 name=name,
                 url=product_url,
                 handle=variant_handle,
                 description=description,
-                blog_url=blog_url,
+                blog_links=blog_links,
             )
 
     return None
@@ -255,18 +262,17 @@ def _extract_product_description(url: str) -> Optional[str]:
         return None
 
 
-def _get_bandai_blog_link(product_name: str) -> Optional[str]:
+def _get_bandai_blog_links(product_name: str, max_links: int = 3) -> list[BlogLink]:
     """
-    Generate a Google search link for product-specific blog posts with translation.
+    Find multiple product-specific blog posts on Bandai's blog.
 
     Args:
         product_name: Product name to search for
+        max_links: Maximum number of blog links to return (default: 3)
 
     Returns:
-        Google Translate URL for search results on Bandai's blog, or None
+        List of BlogLink objects with titles and translated URLs
     """
-    # Search Bandai's Kamen Rider blog for posts about this product
-    # Use Google site search to find relevant posts
     import urllib.parse
 
     # Clean up product name for search (remove common prefixes/suffixes)
@@ -274,14 +280,60 @@ def _get_bandai_blog_link(product_name: str) -> Optional[str]:
     search_name = re.sub(r'\s+(Limited|Clear|Edition|Set|Memorial)\b', '', search_name, flags=re.IGNORECASE)
     search_name = search_name.strip()
 
-    # Build Google site search URL
+    # Try to find specific blog posts by searching
     blog_domain = "toy.bandai.co.jp/series/rider/blog"
     search_query = f'site:{blog_domain} "{search_name}"'
-    search_url = f"https://www.google.com/search?q={urllib.parse.quote(search_query)}"
 
-    # Wrap in Google Translate for English viewing
-    translate_url = f"https://translate.google.com/translate?sl=ja&tl=en&u={urllib.parse.quote(search_url)}"
-    return translate_url
+    blog_links = []
+
+    try:
+        # Perform Google search to find results
+        search_url = f"https://www.google.com/search?q={urllib.parse.quote(search_query)}"
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'
+        }
+        response = requests.get(search_url, headers=headers, timeout=10)
+
+        if response.status_code == 200:
+            # Extract blog post URLs from search results
+            blog_post_pattern = r'https://toy\.bandai\.co\.jp/series/rider/blog/[^"\s]+'
+            matches = re.findall(blog_post_pattern, response.text)
+
+            # Filter out the blog homepage and deduplicate
+            seen_urls = set()
+            for match in matches:
+                if match not in seen_urls and match != f"https://{blog_domain}/" and not match.endswith("/blog/"):
+                    seen_urls.add(match)
+
+                    # Try to extract title from URL (use last path segment)
+                    path_parts = match.rstrip('/').split('/')
+                    title = path_parts[-1].replace('-', ' ').title() if path_parts else "Blog Post"
+
+                    # Wrap in Google Translate
+                    translate_url = f"https://translate.google.com/translate?sl=ja&tl=en&u={urllib.parse.quote(match)}"
+
+                    blog_links.append(BlogLink(
+                        title=title,
+                        url=match,
+                        translated_url=translate_url
+                    ))
+
+                    if len(blog_links) >= max_links:
+                        break
+
+    except requests.RequestException:
+        pass  # Return empty list if search fails
+
+    # If no specific posts found, add a search link as fallback
+    if not blog_links:
+        search_url = f"https://www.google.com/search?q={urllib.parse.quote(search_query)}"
+        blog_links.append(BlogLink(
+            title=f"Search: {search_name}",
+            url=search_url,
+            translated_url=search_url
+        ))
+
+    return blog_links
 
 
 def search_and_display(query: str) -> None:
@@ -298,8 +350,10 @@ def search_and_display(query: str) -> None:
         print(f"✓ Found: {result.name}")
         print(f"  URL: {result.url}")
         print(f"  Handle: {result.handle}")
-        if result.blog_url:
-            print(f"  Blog: {result.blog_url}")
+        if result.blog_links:
+            print(f"  Blog Links ({len(result.blog_links)}):")
+            for link in result.blog_links:
+                print(f"    - {link.title}: {link.translated_url}")
     else:
         print("✗ Product not found")
         print("\nTried these handles:")
@@ -314,6 +368,6 @@ if __name__ == "__main__":
         query = " ".join(sys.argv[1:])
         search_and_display(query)
     else:
-        print("Usage: python shopify_search.py <product name>")
+        print("Usage: python -m src.tokullectibles <product name>")
         print("\nExample:")
-        print("  python shopify_search.py CSM DenGasher")
+        print("  python -m src.tokullectibles 'CSM DenGasher'")

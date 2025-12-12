@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg width="611.67" height="550.00" xmlns="http://www.w3.org/2000/svg">
+<svg width="651.67" height="570.00" xmlns="http://www.w3.org/2000/svg">
 <style>
 @font-face {
 	font-family: &apos;JetBrains Mono&apos;;
@@ -8,32 +8,38 @@
 	font-weight: normal;
 	font-style: normal;
 }
-</style><rect width="531.67" height="470.00" fill="#171717" rx="8.00" ry="8.00" x="40.00px" y="40.00px"/>
-<g font-family="JetBrains Mono" font-size="14.00px" fill="#c4c4c4" clip-path="url(#terminalMask)">
-<text x="60.00px" y="91.80px" xml:space="preserve">╭─ shy@macbook ~/Documents/Temporal/tokuSolutions ‹main›
-</text><text x="60.00px" y="108.60px" xml:space="preserve">╰─❯ uv run python -m src.cli translate manual.pdf -w 3
-</text><text x="60.00px" y="125.40px" xml:space="preserve">
-</text><text x="60.00px" y="142.20px" xml:space="preserve">Starting 3 worker(s)...
-</text><text x="60.00px" y="159.00px" xml:space="preserve">✓ Workers started
-</text><text x="60.00px" y="175.80px" xml:space="preserve">
-</text><text x="60.00px" y="192.60px" xml:space="preserve">Translating: pdfs/CSM-Fang-Memory.pdf
-</text><text x="60.00px" y="209.40px" xml:space="preserve">  Manual: CSM-Fang-Memory
-</text><text x="60.00px" y="226.20px" xml:space="preserve">  Output: manuals/CSM-Fang-Memory
-</text><text x="60.00px" y="243.00px" xml:space="preserve">  Source: ja → Target: en
-</text><text x="60.00px" y="259.80px" xml:space="preserve">
-</text><text x="60.00px" y="276.60px" xml:space="preserve">✓ Translation successful!
-</text><text x="60.00px" y="293.40px" xml:space="preserve">  OCR Blocks: 234
-</text><text x="60.00px" y="310.20px" xml:space="preserve">  Translated Blocks: 234
-</text><text x="60.00px" y="327.00px" xml:space="preserve">  Output: manuals/CSM-Fang-Memory
-</text><text x="60.00px" y="343.80px" xml:space="preserve">  Viewer: viewer.html?manual=CSM-Fang-Memory
-</text><text x="60.00px" y="360.60px" xml:space="preserve">
-</text><text x="60.00px" y="377.40px" xml:space="preserve">✓ Found product on Tokullectibles:
-</text><text x="60.00px" y="394.20px" xml:space="preserve">  Name: Complete Selection Modification Fang Memory
-</text><text x="60.00px" y="411.00px" xml:space="preserve">  URL: https://tokullectibles.com/products/csm-fang-memory
-</text><text x="60.00px" y="427.80px" xml:space="preserve">  (URL saved to manual metadata)
-</text><text x="60.00px" y="444.60px" xml:space="preserve">
-</text><text x="60.00px" y="461.40px" xml:space="preserve">Stopping workers...
-</text><text x="60.00px" y="478.20px" xml:space="preserve">✓ Workers stopped
+</style><rect width="651.67" height="570.00" fill="#111111" x="0.00px" y="0.00px"/>
+<g font-family="JetBrains Mono" font-size="14.00px" fill="#ffffff" clip-path="url(#terminalMask)">
+<text x="20.00px" y="51.80px" xml:space="preserve">$ uv run python -m src.cli translate manual.pdf -w 3
+</text><text x="20.00px" y="68.60px" xml:space="preserve">
+</text><text x="20.00px" y="85.40px" xml:space="preserve">Starting PDF translation workflow...
+</text><text x="20.00px" y="102.20px" xml:space="preserve">Workflow ID: pdf-translation-abc123
+</text><text x="20.00px" y="119.00px" xml:space="preserve">
+</text><text x="20.00px" y="135.80px" xml:space="preserve">📄 [1/4] OCR - Extracting text...
+</text><text x="20.00px" y="152.60px" xml:space="preserve">  🔍 Searching Tokullectibles for product URL...
+</text><text x="20.00px" y="169.40px" xml:space="preserve">  ✓ Found: CSM DenGasher
+</text><text x="20.00px" y="186.20px" xml:space="preserve">  📊 Analyzing PDF (18 pages)
+</text><text x="20.00px" y="203.00px" xml:space="preserve">  🔄 OCR in parallel (fan-out/fan-in)...
+</text><text x="20.00px" y="219.80px" xml:space="preserve">  ✓ Complete: 568 blocks from 18 pages
+</text><text x="20.00px" y="236.60px" xml:space="preserve">
+</text><text x="20.00px" y="253.40px" xml:space="preserve">🌐 [2/4] Translation - Translating text...
+</text><text x="20.00px" y="270.20px" xml:space="preserve">  📦 Batching 568 blocks for translation...
+</text><text x="20.00px" y="287.00px" xml:space="preserve">  ✓ Complete: 568 blocks translated
+</text><text x="20.00px" y="303.80px" xml:space="preserve">
+</text><text x="20.00px" y="320.60px" xml:space="preserve">🌍 [3/4] Site Generation - Creating viewer...
+</text><text x="20.00px" y="337.40px" xml:space="preserve">  🖼️  Converting pages to WebP...
+</text><text x="20.00px" y="354.20px" xml:space="preserve">  📝 Writing translations.json...
+</text><text x="20.00px" y="371.00px" xml:space="preserve">  ✓ Complete: 18 pages
+</text><text x="20.00px" y="387.80px" xml:space="preserve">
+</text><text x="20.00px" y="404.60px" xml:space="preserve">✨ [4/4] Cleanup - Improving quality...
+</text><text x="20.00px" y="421.40px" xml:space="preserve">  ✓ Fixed 12 encoding issues (ftfy)
+</text><text x="20.00px" y="438.20px" xml:space="preserve">  ✓ Removed 8 noise blocks (rule-based)
+</text><text x="20.00px" y="455.00px" xml:space="preserve">  ✓ Applied 23 AI corrections (Gemini)
+</text><text x="20.00px" y="471.80px" xml:space="preserve">  🏷️  Tagged: CSM, Kamen Rider
+</text><text x="20.00px" y="488.60px" xml:space="preserve">
+</text><text x="20.00px" y="505.40px" xml:space="preserve">✅ Translation complete!
+</text><text x="20.00px" y="522.20px" xml:space="preserve">   Output: manuals/CSM-DenGasher/
+</text><text x="20.00px" y="539.00px" xml:space="preserve">   View at: http://localhost:8000/web/viewer.html?manual=CSM-DenGasher
 </text>
 </g>
-<svg x="40.00px" y="40.00px"><circle cx="13.50" cy="12.00" r="5.50" fill="#FF5A54"/><circle cx="32.50" cy="12.00" r="5.50" fill="#E6BF29"/><circle cx="51.50" cy="12.00" r="5.50" fill="#52C12B"/></svg></svg>
+<svg x="0.00px" y="0.00px"><circle cx="13.50" cy="12.00" r="5.50" fill="#FF5A54"/><circle cx="32.50" cy="12.00" r="5.50" fill="#E6BF29"/><circle cx="51.50" cy="12.00" r="5.50" fill="#52C12B"/></svg></svg>

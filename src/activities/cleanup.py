@@ -150,9 +150,7 @@ async def gemini_cleanup_activity(
 
         # Apply tags if Gemini provided them
         if tags:
-            from src.tagging import get_tag_definitions
             translations_data["meta"]["tags"] = tags
-            translations_data["meta"]["tag_definitions"] = get_tag_definitions()
             activity.logger.info(f"  Applied tags: {tags}")
 
         # Save updated file
