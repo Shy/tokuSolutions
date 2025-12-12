@@ -8,9 +8,7 @@
       "thumbnail": "CSM-Den-O-Belt-v2/pages/page-0.webp",
       "source_url": "https://toy.bandai.co.jp/manuals/?prod_name=&p_id=1&release_date=&t_id=&jan_code=",
       "blog_url": "https://translate.google.com/translate?sl=ja&tl=en&u=https://toy.bandai.co.jp/series/rider/blog/",
-      "tags": [
-        "csm"
-      ]
+      "tags": ["csm"]
     },
     {
       "name": "CSM-DenGasher",
@@ -20,10 +18,7 @@
       "thumbnail": "CSM-DenGasher/pages/page-0.webp",
       "source_url": "https://toy.bandai.co.jp/manuals/pdf.php?id=2756971",
       "blog_url": "https://translate.google.com/translate?sl=ja&tl=en&u=https://toy.bandai.co.jp/series/rider/blog/",
-      "tags": [
-        "csm",
-        "kamen-rider"
-      ]
+      "tags": ["csm", "kamen-rider"]
     },
     {
       "name": "CSM-Faiz-Driver-NEXT",
@@ -33,10 +28,7 @@
       "thumbnail": "CSM-Faiz-Driver-NEXT/pages/page-0.webp",
       "source_url": "https://toy.bandai.co.jp/manuals/?prod_name=&p_id=1&release_date=&t_id=&jan_code=",
       "blog_url": "https://translate.google.com/translate?sl=ja&tl=en&u=https://toy.bandai.co.jp/series/rider/blog/",
-      "tags": [
-        "csm",
-        "kamen-rider"
-      ]
+      "tags": ["csm", "kamen-rider"]
     },
     {
       "name": "CSM-Fang-Memory",
@@ -46,10 +38,7 @@
       "thumbnail": "CSM-Fang-Memory/pages/page-0.webp",
       "source_url": "https://toy.bandai.co.jp/manuals/?prod_name=&p_id=1&release_date=&t_id=&jan_code=",
       "blog_url": "https://translate.google.com/translate?sl=ja&tl=en&u=https://toy.bandai.co.jp/series/rider/blog/",
-      "tags": [
-        "csm",
-        "kamen-rider"
-      ]
+      "tags": ["csm", "kamen-rider"]
     },
     {
       "name": "DX-Ridewatch",
@@ -59,10 +48,7 @@
       "thumbnail": "DX-Ridewatch/pages/page-0.webp",
       "source_url": "https://toy.bandai.co.jp/manuals/?prod_name=&p_id=1&release_date=&t_id=&jan_code=",
       "blog_url": "https://translate.google.com/translate?sl=ja&tl=en&u=https://toy.bandai.co.jp/series/rider/blog/",
-      "tags": [
-        "dx",
-        "kamen-rider"
-      ]
+      "tags": ["dx", "kamen-rider"]
     },
     {
       "name": "Memorial Zanglass sword",
@@ -82,11 +68,7 @@
       "thumbnail": "Premium DX Zein Driver/pages/page-0.webp",
       "source_url": "https://tokullectibles.com/products/premium-dx-zein-driver",
       "blog_url": "https://translate.google.com/translate?sl=ja&tl=en&u=https://toy.bandai.co.jp/series/rider/blog/",
-      "tags": [
-        "dx",
-        "kamen-rider",
-        "premium"
-      ]
+      "tags": ["dx", "kamen-rider", "premium"]
     },
     {
       "name": "Ranger-Key-Memorial-Edition-35-Reds-Set",
@@ -96,10 +78,7 @@
       "thumbnail": "Ranger-Key-Memorial-Edition-35-Reds-Set/pages/page-0.webp",
       "source_url": "https://toy.bandai.co.jp/manuals/?prod_name=&p_id=1&release_date=&t_id=&jan_code=",
       "blog_url": "https://translate.google.com/translate?sl=ja&tl=en&u=https://toy.bandai.co.jp/series/rider/blog/",
-      "tags": [
-        "memorial",
-        "sentai"
-      ]
+      "tags": ["memorial", "sentai"]
     },
     {
       "name": "ShinUltraman",
@@ -109,9 +88,7 @@
       "thumbnail": "ShinUltraman/pages/page-0.webp",
       "source_url": "",
       "blog_url": "",
-      "tags": [
-        "ultraman"
-      ]
+      "tags": ["ultraman"]
     },
     {
       "name": "Zero One Limited Clear",
@@ -121,10 +98,7 @@
       "thumbnail": "Zero One Limited Clear/pages/page-0.webp",
       "source_url": "",
       "blog_url": "",
-      "tags": [
-        "dx",
-        "kamen-rider"
-      ]
+      "tags": ["dx", "kamen-rider"]
     },
     {
       "name": "abaranger",
@@ -134,9 +108,7 @@
       "thumbnail": "abaranger/pages/page-0.webp",
       "source_url": "",
       "blog_url": "",
-      "tags": [
-        "sentai"
-      ]
+      "tags": ["sentai"]
     }
   ],
   "tags": {
