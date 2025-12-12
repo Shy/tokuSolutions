@@ -12,10 +12,10 @@
     "format": "prettier --write 'manuals/**/translations.json' 'web/**/*.{js,json,html,css}'"
   },
   "devDependencies": {
-    "@vitest/coverage-v8": "^2.1.9",
-    "@vitest/ui": "^2.1.8",
+    "@vitest/coverage-v8": "^4.0.15",
+    "@vitest/ui": "^4.0.15",
     "happy-dom": "^20.0.11",
     "prettier": "^3.7.4",
-    "vitest": "^2.1.8"
+    "vitest": "^4.0.15"
   }
 }
