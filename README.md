@@ -188,13 +188,18 @@ class GeminiCleanupResponse(BaseModel):
 
 Gemini returns JSON → Pydantic validates structure → Invalid responses trigger Temporal activity retry → Type safety across entire pipeline.
 
-### Performance
+### Performance & Cost
 
-Typical 20-page manual: ~50 seconds with single worker
-- 30s OCR (parallel across pages)
-- 5s translation (batch)
-- 10s AI cleanup
-- 5s site generation
+**Typical 20-page manual:**
+- Time: ~50 seconds with single worker (30s OCR parallel, 5s translation, 10s AI cleanup, 5s site generation)
+- Cost: ~$0.43 (Document AI $0.03 + Translation API $0.40 + Gemini free)
+
+**Cost estimates** (December 2024 pricing):
+- Small (5 pages): ~$0.11
+- Medium (20 pages): ~$0.43
+- Large (50 pages): ~$1.08
+
+Gemini 1.5 Flash is free tier (15 RPM, 1M TPM, 1500 RPD) - sufficient for hobby use.
 
 ## License
 
