@@ -9,13 +9,6 @@ on:
       - 'web/**/*.css'
       - '.prettierrc'
       - 'package.json'
-  push:
-    branches: [main]
-    paths:
-      - 'manuals/**/translations.json'
-      - 'web/**/*.js'
-      - 'web/**/*.html'
-      - 'web/**/*.css'
 
 jobs:
   prettier:
