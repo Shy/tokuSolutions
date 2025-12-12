@@ -13,6 +13,7 @@ wheels/
 .env
 *.json
 !package.json
+!package-lock.json
 !manuals/**/translations.json
 !web/meta.json
 !web/tags.json
@@ -34,4 +35,3 @@ credentials/*
 # Node modules and test artifacts
 node_modules/
 coverage/
-package-lock.json

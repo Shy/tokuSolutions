@@ -8,7 +8,40 @@
     "blog_url": "",
     "pages": 25,
     "blocks": 497,
-    "thumbnail": "pages/page-0.webp"
+    "thumbnail": "pages/page-0.webp",
+    "tags": [
+      "sentai"
+    ],
+    "tag_definitions": {
+      "csm": {
+        "color": "#FF6B6B",
+        "label": "CSM"
+      },
+      "dx": {
+        "color": "#4ECDC4",
+        "label": "DX"
+      },
+      "memorial": {
+        "color": "#95E1D3",
+        "label": "Memorial"
+      },
+      "premium": {
+        "color": "#F38181",
+        "label": "Premium"
+      },
+      "kamen-rider": {
+        "color": "#AA96DA",
+        "label": "Kamen Rider"
+      },
+      "sentai": {
+        "color": "#FCBAD3",
+        "label": "Sentai"
+      },
+      "ultraman": {
+        "color": "#A8D8EA",
+        "label": "Ultraman"
+      }
+    }
   },
   "pages": [
     {

@@ -141,12 +141,19 @@ async def gemini_cleanup_activity(
         activity.heartbeat()
 
         # Run Gemini cleanup
-        corrections, corrected_name, error = stage3_gemini_cleanup(
+        corrections, corrected_name, tags, error = stage3_gemini_cleanup(
             translations_data, product_name, product_description
         )
 
         # Send heartbeat after LLM call
         activity.heartbeat()
+
+        # Apply tags if Gemini provided them
+        if tags:
+            from src.tagging import get_tag_definitions
+            translations_data["meta"]["tags"] = tags
+            translations_data["meta"]["tag_definitions"] = get_tag_definitions()
+            activity.logger.info(f"  Applied tags: {tags}")
 
         # Save updated file
         with open(json_path, "w", encoding="utf-8") as f:
@@ -160,6 +167,7 @@ async def gemini_cleanup_activity(
             "success": not error,
             "corrections": corrections,
             "corrected_product_name": corrected_name,
+            "tags": tags,
             "error": error,
         }
 
@@ -169,6 +177,7 @@ async def gemini_cleanup_activity(
             "success": False,
             "corrections": 0,
             "corrected_product_name": None,
+            "tags": None,
             "error": str(e),
         }
 

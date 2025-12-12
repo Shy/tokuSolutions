@@ -457,6 +457,42 @@ footer {
   display: flex;
   flex-direction: column;
   overflow-y: auto;
+  position: relative;
+  transition: transform 0.3s ease;
+}
+
+.sidebar-toggle-btn {
+  position: absolute;
+  left: -15px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 30px;
+  height: 60px;
+  background: #e94560;
+  border: none;
+  border-radius: 8px 0 0 8px;
+  color: white;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+  box-shadow: -2px 0 8px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+}
+
+.sidebar-toggle-btn:hover {
+  background: #d63651;
+  left: -17px;
+}
+
+.sidebar-toggle-btn i {
+  transition: transform 0.3s ease;
+  font-size: 1rem;
+}
+
+.text-panel.sidebar-hidden .sidebar-toggle-btn i {
+  transform: rotate(180deg);
 }
 
 .text-panel-header {

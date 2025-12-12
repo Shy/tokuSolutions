@@ -56,10 +56,14 @@ export function toggleTranslations() {
 export function toggleSidebar() {
   state.showSidebar = !state.showSidebar;
   const textPanel = document.querySelector('.text-panel');
-  textPanel.style.display = state.showSidebar ? 'flex' : 'none';
-  DOM.sidebarToggleBtn.innerHTML = state.showSidebar
-    ? '<i class="fas fa-sidebar"></i> Hide Sidebar'
-    : '<i class="fas fa-sidebar"></i> Show Sidebar';
+
+  if (state.showSidebar) {
+    textPanel.classList.remove('sidebar-hidden');
+    textPanel.style.display = 'flex';
+  } else {
+    textPanel.classList.add('sidebar-hidden');
+    textPanel.style.display = 'none';
+  }
 }
 
 // Filter manuals

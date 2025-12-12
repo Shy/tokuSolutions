@@ -1,4 +1,4 @@
-# TokuSolutions: PDF Translation with Temporal
+# TokuSolutions: Layout-Preserving PDF Translation with Human-in-the-Loop Editing
 
 ![Kamen Rider Belt](images/kamen-rider-belt.jpg)
 
@@ -69,7 +69,9 @@ GEMINI_API_KEY=your-gemini-api-key  # Optional
 
 ![Web Viewer](images/websiteScreenshot.png)
 
-The viewer provides overlays for editing translations. Click any text block to fix machine translation errors.
+The viewer features an inline editor for fixing translation errors. Click any text block to edit, and changes sync back to the repository via pull request—enabling collaborative review and version control for manual corrections.
+
+Manuals are automatically tagged by product line (CSM, DX, Memorial) and franchise (Kamen Rider, Sentai, Ultraman). With Gemini API key configured, tagging uses AI for higher accuracy; otherwise falls back to pattern matching.
 
 ## CLI Commands
 

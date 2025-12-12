@@ -257,17 +257,30 @@ def _extract_product_description(url: str) -> Optional[str]:
 
 def _get_bandai_blog_link(product_name: str) -> Optional[str]:
     """
-    Generate a link to Bandai's technical blog with Google Translate prefilled.
+    Generate a Google search link for product-specific blog posts with translation.
 
     Args:
-        product_name: Product name for context
+        product_name: Product name to search for
 
     Returns:
-        Google Translate URL for the Kamen Rider blog, or None
+        Google Translate URL for search results on Bandai's blog, or None
     """
-    # Link to the Kamen Rider development blog (translated to English)
-    blog_url = "https://toy.bandai.co.jp/series/rider/blog/"
-    translate_url = f"https://translate.google.com/translate?sl=ja&tl=en&u={blog_url}"
+    # Search Bandai's Kamen Rider blog for posts about this product
+    # Use Google site search to find relevant posts
+    import urllib.parse
+
+    # Clean up product name for search (remove common prefixes/suffixes)
+    search_name = product_name.replace("Complete Selection Modification", "CSM")
+    search_name = re.sub(r'\s+(Limited|Clear|Edition|Set|Memorial)\b', '', search_name, flags=re.IGNORECASE)
+    search_name = search_name.strip()
+
+    # Build Google site search URL
+    blog_domain = "toy.bandai.co.jp/series/rider/blog"
+    search_query = f'site:{blog_domain} "{search_name}"'
+    search_url = f"https://www.google.com/search?q={urllib.parse.quote(search_query)}"
+
+    # Wrap in Google Translate for English viewing
+    translate_url = f"https://translate.google.com/translate?sl=ja&tl=en&u={urllib.parse.quote(search_url)}"
     return translate_url
 
 

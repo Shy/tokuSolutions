@@ -9,8 +9,7 @@
       "source_url": "https://toy.bandai.co.jp/manuals/?prod_name=&p_id=1&release_date=&t_id=&jan_code=",
       "blog_url": "https://translate.google.com/translate?sl=ja&tl=en&u=https://toy.bandai.co.jp/series/rider/blog/",
       "tags": [
-        "CSM",
-        "Kamen Rider"
+        "csm"
       ]
     },
     {
@@ -22,8 +21,8 @@
       "source_url": "https://toy.bandai.co.jp/manuals/pdf.php?id=2756971",
       "blog_url": "https://translate.google.com/translate?sl=ja&tl=en&u=https://toy.bandai.co.jp/series/rider/blog/",
       "tags": [
-        "CSM",
-        "Kamen Rider"
+        "csm",
+        "kamen-rider"
       ]
     },
     {
@@ -35,8 +34,8 @@
       "source_url": "https://toy.bandai.co.jp/manuals/?prod_name=&p_id=1&release_date=&t_id=&jan_code=",
       "blog_url": "https://translate.google.com/translate?sl=ja&tl=en&u=https://toy.bandai.co.jp/series/rider/blog/",
       "tags": [
-        "DX",
-        "Kamen Rider"
+        "csm",
+        "kamen-rider"
       ]
     },
     {
@@ -48,8 +47,8 @@
       "source_url": "https://toy.bandai.co.jp/manuals/?prod_name=&p_id=1&release_date=&t_id=&jan_code=",
       "blog_url": "https://translate.google.com/translate?sl=ja&tl=en&u=https://toy.bandai.co.jp/series/rider/blog/",
       "tags": [
-        "CSM",
-        "Kamen Rider"
+        "csm",
+        "kamen-rider"
       ]
     },
     {
@@ -61,18 +60,23 @@
       "source_url": "https://toy.bandai.co.jp/manuals/?prod_name=&p_id=1&release_date=&t_id=&jan_code=",
       "blog_url": "https://translate.google.com/translate?sl=ja&tl=en&u=https://toy.bandai.co.jp/series/rider/blog/",
       "tags": [
-        "DX",
-        "Kamen Rider"
+        "dx",
+        "kamen-rider"
       ]
     },
     {
       "name": "Premium DX Zein Driver",
       "source": "Premium DX Zein Driver.pdf",
       "pages": 7,
-      "blocks": 352,
+      "blocks": 345,
       "thumbnail": "Premium DX Zein Driver/pages/page-0.webp",
       "source_url": "https://tokullectibles.com/products/premium-dx-zein-driver",
-      "blog_url": "https://translate.google.com/translate?sl=ja&tl=en&u=https://toy.bandai.co.jp/series/rider/blog/"
+      "blog_url": "https://translate.google.com/translate?sl=ja&tl=en&u=https://toy.bandai.co.jp/series/rider/blog/",
+      "tags": [
+        "dx",
+        "kamen-rider",
+        "premium"
+      ]
     },
     {
       "name": "Ranger-Key-Memorial-Edition-35-Reds-Set",
@@ -83,8 +87,8 @@
       "source_url": "https://toy.bandai.co.jp/manuals/?prod_name=&p_id=1&release_date=&t_id=&jan_code=",
       "blog_url": "https://translate.google.com/translate?sl=ja&tl=en&u=https://toy.bandai.co.jp/series/rider/blog/",
       "tags": [
-        "Memorial",
-        "Super Sentai"
+        "memorial",
+        "sentai"
       ]
     },
     {
@@ -94,7 +98,10 @@
       "blocks": 90,
       "thumbnail": "ShinUltraman/pages/page-0.webp",
       "source_url": "",
-      "blog_url": ""
+      "blog_url": "",
+      "tags": [
+        "ultraman"
+      ]
     },
     {
       "name": "Zero One Limited Clear",
@@ -103,7 +110,10 @@
       "blocks": 853,
       "thumbnail": "Zero One Limited Clear/pages/page-0.webp",
       "source_url": "",
-      "blog_url": ""
+      "blog_url": "",
+      "tags": [
+        "kamen-rider"
+      ]
     },
     {
       "name": "abaranger",
@@ -112,13 +122,45 @@
       "blocks": 497,
       "thumbnail": "abaranger/pages/page-0.webp",
       "source_url": "",
-      "blog_url": ""
+      "blog_url": "",
+      "tags": [
+        "sentai"
+      ]
     }
   ],
-  "tags": {},
+  "tags": {
+    "csm": {
+      "color": "#FF6B6B",
+      "label": "CSM"
+    },
+    "dx": {
+      "color": "#4ECDC4",
+      "label": "DX"
+    },
+    "memorial": {
+      "color": "#95E1D3",
+      "label": "Memorial"
+    },
+    "premium": {
+      "color": "#F38181",
+      "label": "Premium"
+    },
+    "kamen-rider": {
+      "color": "#AA96DA",
+      "label": "Kamen Rider"
+    },
+    "sentai": {
+      "color": "#FCBAD3",
+      "label": "Sentai"
+    },
+    "ultraman": {
+      "color": "#A8D8EA",
+      "label": "Ultraman"
+    }
+  },
   "stats": {
     "total_manuals": 10,
     "total_pages": 146,
-    "total_blocks": 5693
+    "total_blocks": 5686
   }
 }

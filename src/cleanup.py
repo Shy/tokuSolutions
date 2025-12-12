@@ -24,6 +24,10 @@ class GeminiCleanupResponse(BaseModel):
     product_name: str = Field(
         default="", description="Corrected product name from official source"
     )
+    tags: list[str] = Field(
+        default_factory=list,
+        description="Product tags based on manual content (csm, dx, memorial, premium, kamen-rider, sentai, ultraman)"
+    )
 
 
 class CleanupResult(BaseModel):
@@ -37,6 +41,7 @@ class CleanupResult(BaseModel):
     rule_based_removals: int = 0
     llm_corrections: int = 0
     corrected_product_name: Optional[str] = None
+    tags: Optional[list[str]] = None
     error: Optional[str] = None
 
 
@@ -119,7 +124,7 @@ def stage3_gemini_cleanup(
     product_name: str = "",
     product_description: str = "",
     model: str = "gemini-2.5-flash",
-) -> tuple[int, Optional[str], Optional[str]]:
+) -> tuple[int, Optional[str], Optional[list[str]], Optional[str]]:
     """
     Stage 3: LLM-based intelligent cleanup using Google Gemini via AI Studio API.
 
@@ -130,7 +135,7 @@ def stage3_gemini_cleanup(
         model: Gemini model to use (default: gemini-2.5-flash)
 
     Returns:
-        Tuple of (corrections_count, corrected_product_name, error)
+        Tuple of (corrections_count, corrected_product_name, tags, error)
     """
     # Use Google AI Studio API (simple API key authentication)
     try:
@@ -138,13 +143,13 @@ def stage3_gemini_cleanup(
 
         api_key = os.getenv("GEMINI_API_KEY") or os.getenv("GOOGLE_API_KEY")
         if not api_key:
-            return (0, None, "GEMINI_API_KEY or GOOGLE_API_KEY not set in environment")
+            return (0, None, None, "GEMINI_API_KEY or GOOGLE_API_KEY not set in environment")
 
         genai.configure(api_key=api_key)
     except ImportError:
-        return (0, None, "google-generativeai not installed")
+        return (0, None, None, "google-generativeai not installed")
     except Exception as e:
-        return (0, None, f"Gemini API init failed: {str(e)[:100]}")
+        return (0, None, None, f"Gemini API init failed: {str(e)[:100]}")
 
     # Build cleanup prompt with product context
     product_context = f"""Product Name: {product_name if product_name else translations_data['meta'].get('manual_name', 'Unknown')}
@@ -161,6 +166,24 @@ Task: Review these translation blocks and provide a JSON response with:
 1. "remove": array of indices for blocks that should be removed (any remaining noise like partial text, artifact characters)
 2. "corrections": object mapping block indices to corrected translations (fix OCR errors, improve phrasing)
 3. "product_name": corrected product name based on the official name from the product page
+4. "tags": array of applicable tags based on the manual content and product
+
+Available tags:
+- "csm": Complete Selection Modification (premium collectible line)
+- "dx": DX (Deluxe toy line, standard retail)
+- "memorial": Memorial Edition (special commemorative releases)
+- "premium": Premium Bandai (web-exclusive items)
+- "kamen-rider": Kamen Rider franchise
+- "sentai": Super Sentai franchise
+- "ultraman": Ultraman franchise
+
+Tag selection rules:
+- Analyze the product name, manual content, and series references
+- Include product line tags (CSM, DX, Memorial, Premium)
+- Include franchise tags based on series identification
+- Kamen Rider series: Den-O, W, OOO, Fourze, Wizard, Gaim, Drive, Ghost, Ex-Aid, Build, Zi-O, Zero-One, Saber, Revice, Geats, Faiz, Blade, Hibiki, Kabuto, Kiva, Decade
+- Sentai series: Abaranger, Dekaranger, Magiranger, Boukenger, Gekiranger, Go-Onger, Shinkenger, Goseiger, Gokaiger, Go-Busters, Kyoryuger, ToQger, Ninninger
+- Only use tags from the list above
 
 Rules for removal:
 - Remove any remaining noise not caught by earlier cleanup (broken text fragments, artifacts)
@@ -196,7 +219,7 @@ Blocks to review:
             block_index += 1
 
     prompt += json.dumps(blocks_sample, ensure_ascii=False, indent=2)
-    prompt += '\n\nRespond with ONLY valid JSON: {"remove": ["0-5", "1-3"], "corrections": {"0-1": "corrected text"}, "product_name": "Official Name"}'
+    prompt += '\n\nRespond with ONLY valid JSON: {"remove": ["0-5", "1-3"], "corrections": {"0-1": "corrected text"}, "product_name": "Official Name", "tags": ["csm", "kamen-rider"]}'
 
     try:
         # Call Gemini via AI Studio API
@@ -212,7 +235,7 @@ Blocks to review:
         if json_start >= 0 and json_end > json_start:
             raw_json = json.loads(llm_response[json_start:json_end])
         else:
-            return (0, None, "Could not parse LLM response")
+            return (0, None, None, "Could not parse LLM response")
 
         # Validate with Pydantic
         try:
@@ -220,6 +243,7 @@ Blocks to review:
         except Exception as validation_error:
             return (
                 0,
+                None,
                 None,
                 f"Pydantic validation failed: {str(validation_error)[:100]}",
             )
@@ -251,12 +275,14 @@ Blocks to review:
             "manual_name", ""
         ):
             translations_data["meta"]["manual_name"] = corrected_name
-            return (corrections_count, corrected_name, None)
 
-        return (corrections_count, None, None)
+        # Get tags
+        tags = cleanup_data.tags if cleanup_data.tags else None
+
+        return (corrections_count, corrected_name if corrected_name else None, tags, None)
 
     except Exception as e:
-        return (0, None, str(e))
+        return (0, None, None, str(e))
 
 
 def cleanup_translations(
@@ -295,10 +321,11 @@ def cleanup_translations(
         # Stage 3: Gemini cleanup (optional)
         llm_corrections = 0
         corrected_name = None
+        tags = None
         gemini_error = None
 
         if not skip_gemini:
-            llm_corrections, corrected_name, gemini_error = stage3_gemini_cleanup(
+            llm_corrections, corrected_name, tags, gemini_error = stage3_gemini_cleanup(
                 translations_data, product_name, product_description, gemini_model
             )
 
@@ -317,6 +344,7 @@ def cleanup_translations(
             rule_based_removals=rule_based_removals,
             llm_corrections=llm_corrections,
             corrected_product_name=corrected_name,
+            tags=tags,
             error=gemini_error,  # Non-fatal - Gemini errors don't fail the whole cleanup
         )
 

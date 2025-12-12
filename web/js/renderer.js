@@ -343,8 +343,9 @@ export async function loadManual(manualName) {
 
     state.currentManual = data;
 
-    document.title = state.currentManual.meta.source;
-    document.getElementById('manualTitle').textContent = state.currentManual.meta.source;
+    const displayName = state.currentManual.meta.manual_name || state.currentManual.meta.source;
+    document.title = displayName;
+    document.getElementById('manualTitle').textContent = displayName;
 
     const sourceLink = document.getElementById('sourceLink');
     if (state.currentManual.meta.source_url) {
