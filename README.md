@@ -1,87 +1,19 @@
-# TokuSolutions: Layout-Preserving PDF Translation with Human-in-the-Loop Editing
+# TokuSolutions: Translating Toy Manuals (AI Tries, You Fix, Temporal Orchestrates)
 
-![Kamen Rider Belt](images/kamen-rider-belt.jpg)
+<img src="images/kamen-rider-belt.jpg" alt="Repo Author wearing a Kamen Rider Belt">
 
 I buy a lot of Kamen Rider toys. The problem? All the manuals are in Japanese, and these toys have *a lot* of features.
 
-Google Translate on your phone works for simple text, but PDF translation is terrible—it loses layout context, mangles technical terms, and produces nonsense for complex instructions. This project attempts to do the best possible automated PDF translation while providing an interface for humans to fix the inevitable mistakes AI makes.
+Google Translate on your phone works for simple text, but PDF translation is terrible—it loses layout context, mangles technical terms, and produces nonsense for complex instructions. This project uses Google Document AI for OCR with layout detection, batch translate via Google Translate API, clean up with Gemini AI using product context, then presents everything in an editable web interface. All orchestrated by Temporal workflows for reliable, parallel execution.
 
-**The approach**: Use Google Document AI for OCR with layout detection, batch translate via Google Translate API, clean up with Gemini AI using product context (managed by pydantic), then present everything in an editable web interface. All orchestrated by Temporal workflows for reliable, parallel execution.
+## Quick Start
 
-## How Temporal Orchestrates Translation
-
-The system uses a [parent workflow](src/workflows/pdf_translation_workflow.py) that orchestrates four child workflows:
-
-1. **[OCRWorkflow](src/workflows/ocr_workflow.py)** - Extract text from PDF
-   - Product search on Tokullectibles
-   - Get PDF page count
-   - Parallel OCR across all pages (fan-out/fan-in)
-
-2. **[TranslationWorkflow](src/workflows/translation_workflow.py)** - Translate extracted text
-   - Batch translation via Google Translate API
-
-3. **[SiteGenerationWorkflow](src/workflows/site_generation_workflow.py)** - Generate web viewer
-   - Convert pages to WebP images
-   - Create translations.json and viewer HTML
-
-4. **[CleanupWorkflow](src/workflows/cleanup_workflow.py)** - Improve translation quality
-   - Stage 1: ftfy - Fix Unicode/OCR corruption (deterministic)
-   - Stage 2: Rule-based - Remove noise patterns (deterministic)
-   - Stage 3: Gemini AI - Context-aware corrections + tagging (non-deterministic)
-
-**Why child workflows?**
-- **Separation in Temporal UI**: Each phase visible as separate workflow execution
-- **Independent lifecycle**: Each phase has own event history and retry logic
-- **Query support**: Parent workflow exposes real-time progress via Temporal Queries
-- **Observability**: Better visibility into which phase is executing or failed
-
-![Child Workflows](images/temporal-child-workflows.png)
-
-**Real-time Progress Tracking:**
-
-The CLI polls the workflow using Temporal Queries (every 500ms) to display live progress:
-
-```
-📄 [1/4] OCR - Extracting text...
-  → Starting OCR workflow...
-  ✓ Complete: 15 blocks from 5 pages
-
-🌐 [2/4] Translation - Translating text...
-  ✓ Complete: 15 blocks
-
-🌍 [3/4] Site Generation - Creating viewer...
-  ✓ Complete: 5 pages
-
-✨ [4/4] Cleanup - Improving quality...
-  ✓ Fixed 3 encoding issues
-  ✓ Removed 2 noise blocks
-  ✓ Applied 5 AI corrections
-```
-
-The parent workflow updates a `WorkflowProgress` state that includes phase tracking and sub-progress details from each child workflow.
-
-![OCR Detail](images/temporal-workflow-detail.png)
-
-
-**Why Temporal?**
-- **Fan-out/fan-in**: Pages 0-19 all OCR in parallel, results merge when done
-- **Automatic retries**: API rate limits and transient failures handled automatically
-- **Multi-document processing**: Run multiple workers to process different manuals simultaneously
-- **Durable execution**: 50-page documents complete reliably without custom state management
-
-The timeline view shows parallel OCR execution:
-
-![OCR Detail](images/temporal-workflow-ocr.png)
-
-## Prerequisites
-
-- Python 3.12+, [uv](https://docs.astral.sh/uv/) 
+**Prerequisites:**
+- Python 3.12+, [uv](https://docs.astral.sh/uv/)
 - [Temporal CLI](https://docs.temporal.io/cli)
 - Google Cloud Project with Document AI and Translation API enabled
 - Service account credentials JSON
 - (Optional) Gemini API key for AI cleanup
-
-## Quick Start
 
 ```bash
 # Install
@@ -110,31 +42,32 @@ CREDENTIALS_PATH=credentials/service-account.json
 GEMINI_API_KEY=your-gemini-api-key  # Optional
 ```
 
-## Website
+## What You Get
 
-### Index Page
-![Web Viewer](images/websiteScreenshot.png)
+**Web Viewer** with search, tag filtering, and inline editing:
 
-Translations are served via a static site hosted on GitHub Pages. The index provides search, tag filtering, and quick access to manuals. Product pages link to Tokullectibles store listings and translated Bandai blog posts via dropdown menu.
+<p align="center">
+  <img src="images/websiteScreenshot.png" alt="Web Viewer" width="49%">
+  <img src="images/Editor.png" alt="Inline Editor" width="49%">
+</p>
 
-### Inline Editor
-![Editor](images/Editor.png)
-
-The viewer features an inline editor for fixing translation errors. Click any text block to edit original text, translations, or bounding box coordinates. Changes can be exported as JSON or submitted directly via GitHub pull request—enabling collaborative review and version control for manual corrections.
-
-### Tagging System
-
-Manuals are automatically tagged by product line (CSM, DX, Memorial, Premium) and franchise (Kamen Rider, Sentai, Ultraman). Tag definitions are centralized in [web/meta.json](web/meta.json), with AI-assisted classification via Gemini (fallback to pattern matching without API key).
+- **Click any text block** to edit original text, translation, or bounding box coordinates
+- **Export changes** as JSON or submit via GitHub pull request for collaborative review
+- **Auto-tagging** by product line (CSM, DX, Memorial) and franchise (Kamen Rider, Sentai, Ultraman)
+- **Product links** to Tokullectibles store and translated Bandai blog posts
 
 ## CLI Commands
 
 ![CLI Example](images/cli-example.svg)
 
 ```bash
+# Basic translation
+uv run python -m src.cli translate manual.pdf
+
 # Translate with multiple workers (process multiple PDFs simultaneously)
 uv run python -m src.cli translate manual.pdf -w 5
 
-# Skip AI cleanup
+# Skip AI cleanup (faster, but less accurate)
 uv run python -m src.cli translate manual.pdf --skip-cleanup
 
 # List manuals
@@ -147,71 +80,105 @@ uv run python -m src.cli add-url "ManualName" "https://..."
 uv run python -m src.cli reindex
 ```
 
-## Monitoring
+## Development Workflow
 
-![Temporal Workflow](images/temporal-workflows.png)
+For faster iteration when processing multiple manuals, run a persistent worker:
 
-Temporal Web UI at http://localhost:8233 shows workflow execution, retry attempts, and parallel tasks.
+```bash
+# Terminal 1: Temporal server
+temporal server start-dev
 
-## Temporal Best Practices
+# Terminal 2: Persistent worker
+uv run python -m src.worker
 
-The workflow implements several Temporal best practices for reliable, scalable execution:
+# Terminal 3: Translate (no 2-second worker startup delay)
+uv run python -m src.cli translate manual.pdf
+```
 
-### 1. Retry Policies
-Three retry strategies for different operation types:
-- **QUICK_RETRY**: Fast operations (file I/O, simple processing) - 3 attempts, 1-10s backoff
-- **API_RETRY**: External API calls (Document AI, Translation API) - 5 attempts, 2-30s backoff with exponential growth
-- **LLM_RETRY**: AI model calls (Gemini cleanup) - 3 attempts, 5s-2min backoff
+The default `translate` command auto-starts workers for convenience, but this approach eliminates the startup delay.
 
-### 2. Activity Separation
-**Why three separate cleanup activities instead of one?**
+**Monitoring:** Temporal Web UI at http://localhost:8233 shows workflow execution, retry attempts, and parallel tasks.
 
-Cleanup is split into three distinct activities because Temporal workflows must be deterministic. Each activity serves a specific purpose:
+## How Temporal Orchestrates Translation
 
-- **ftfy_cleanup_activity** - Deterministic Unicode/encoding fixes
-  - Always produces same output for same input
-  - Fast retry (1-10s backoff, 3 attempts)
-  - No heartbeats needed
+The system uses a [parent workflow](src/workflows/pdf_translation_workflow.py) that orchestrates four child workflows:
 
-- **rule_based_cleanup_activity** - Deterministic pattern-based removal
-  - Regex patterns always match consistently
-  - Fast retry (1-10s backoff, 3 attempts)
-  - No heartbeats needed
+1. **[OCRWorkflow](src/workflows/ocr_workflow.py)** - Extract text from PDF
+   - Product search on Tokullectibles
+   - Get PDF page count
+   - **Fan-out/fan-in**: Parallel OCR across all pages (0-N simultaneously)
 
-- **gemini_cleanup_activity** - Non-deterministic AI corrections + tagging
-  - LLM responses vary between calls
-  - Longer retry (5s-2min backoff, 3 attempts)
-  - Heartbeats before/after LLM call (2min timeout)
-  - Pydantic validation for type safety
-  - Can fail without breaking the workflow
+2. **[TranslationWorkflow](src/workflows/translation_workflow.py)** - Translate extracted text
+   - Batch translation via Google Translate API
 
-**Benefits of separation:**
-- **Independent failure**: Gemini can fail, manual still gets ftfy+rule cleanup
-- **Different retry policies**: APIs need longer timeouts than deterministic operations
-- **Observability**: Each stage visible separately in Temporal Web UI
-- **Workflow determinism**: Non-deterministic operations isolated in activities
+3. **[SiteGenerationWorkflow](src/workflows/site_generation_workflow.py)** - Generate web viewer
+   - Convert pages to WebP images
+   - Create translations.json and viewer HTML
+   - Heartbeats every 5 pages (long-running activity)
 
-### 3. Heartbeats
-Long-running activities send heartbeats to prevent timeouts:
-- Site generation: Heartbeat every 5 pages during image rendering
-- Gemini cleanup: Heartbeats before/after LLM API calls (2min timeout)
+4. **[CleanupWorkflow](src/workflows/cleanup_workflow.py)** - Improve translation quality
+   - **Stage 1**: ftfy - Fix Unicode/OCR corruption (deterministic)
+   - **Stage 2**: Rule-based - Remove noise patterns (deterministic)
+   - **Stage 3**: Gemini AI - Context-aware corrections + tagging (non-deterministic)
 
-### 4. Workflow Determinism
-Non-deterministic operations moved outside workflows:
+<p align="center">
+  <img src="images/temporal-child-workflows.png" alt="Child Workflows" width="49%">
+  <img src="images/temporal-workflow-ocr.png" alt="OCR Detail" width="49%">
+</p>
+
+**Why child workflows?**
+- **Separation in Temporal UI**: Each phase visible as separate workflow execution
+- **Independent lifecycle**: Each phase has own event history and retry logic
+- **Query support**: Parent workflow exposes real-time progress via Temporal Queries
+- **Observability**: Better visibility into which phase is executing or failed
+
+### Real-time Progress Tracking
+
+The CLI polls the workflow using Temporal Queries (every 500ms) to display live progress:
+
+```
+📄 [1/4] OCR - Extracting text...
+  ✓ Complete: 15 blocks from 5 pages
+🌐 [2/4] Translation - Translating text...
+  ✓ Complete: 15 blocks
+🌍 [3/4] Site Generation - Creating viewer...
+  ✓ Complete: 5 pages
+✨ [4/4] Cleanup - Improving quality...
+  ✓ Fixed 3 encoding issues
+  ✓ Removed 2 noise blocks
+  ✓ Applied 5 AI corrections
+```
+
+The parent workflow updates a `WorkflowProgress` state that includes phase tracking and sub-progress details from each child workflow.
+
+### Temporal Best Practices Demonstrated
+
+**1. Retry Policies** - Three strategies tuned for operation types:
+- **QUICK_RETRY**: Fast operations (file I/O) - 3 attempts, 1-10s backoff
+- **API_RETRY**: External APIs (Document AI, Translation) - 5 attempts, 2-30s backoff
+- **LLM_RETRY**: AI model calls (Gemini) - 3 attempts, 5s-2min backoff
+
+**2. Activity Separation for Determinism**
+
+Why three separate cleanup activities instead of one? Temporal workflows must be deterministic:
+
+- **ftfy_cleanup_activity** - Deterministic Unicode fixes (always same output for same input)
+- **rule_based_cleanup_activity** - Deterministic pattern removal (regex patterns)
+- **gemini_cleanup_activity** - Non-deterministic AI corrections (LLM responses vary)
+
+Benefits: Gemini can fail without breaking the workflow, different retry policies per operation type, each stage visible in Temporal UI.
+
+**3. Heartbeats** - Long-running activities send heartbeats to prevent timeouts:
+- Site generation: Every 5 pages during image rendering
+- Gemini cleanup: Before/after LLM API calls (2min timeout)
+
+**4. Workflow Determinism** - Non-deterministic operations moved outside workflows:
 - `Path` operations (stem, name extraction) moved to CLI layer
 - Manual name and output directory computed before workflow starts
 - Only deterministic data transformations in workflow code
 
-## Type-Safe AI with Pydantic + Temporal
+**5. Type-Safe AI with Pydantic** - LLM responses validated before reaching workflow:
 
-LLM responses are unpredictable. Combining [Pydantic](https://docs.pydantic.dev) validation with Temporal's retry logic ensures the AI cleanup is both safe and reliable.
-
-**Three-stage cleanup pipeline:**
-1. **ftfy** - Fix Unicode encoding and OCR corruption
-2. **Rule-based** - Remove page numbers, symbols, artifacts
-3. **Gemini AI** - Context-aware corrections with product metadata
-
-**Pydantic validation** ([cleanup.py](src/cleanup.py#L13-L26)) enforces the response schema:
 ```python
 class GeminiCleanupResponse(BaseModel):
     remove: list[str]           # Block indices to remove
@@ -219,22 +186,15 @@ class GeminiCleanupResponse(BaseModel):
     product_name: str           # Official product name
 ```
 
-**How it works:**
-- Gemini returns JSON → Pydantic validates structure and types
-- Invalid responses trigger Temporal activity retry (with exponential backoff)
-- Activities can't return malformed data to the workflow
-- Type safety across the entire pipeline from OCR → AI → storage
+Gemini returns JSON → Pydantic validates structure → Invalid responses trigger Temporal activity retry → Type safety across entire pipeline.
 
-This pattern prevents corrupt data from reaching `translations.json` while leveraging Temporal's built-in retry logic for transient failures.
-
-## Performance
+### Performance
 
 Typical 20-page manual: ~50 seconds with single worker
 - 30s OCR (parallel across pages)
 - 5s translation (batch)
 - 10s AI cleanup
 - 5s site generation
-
 
 ## License
 

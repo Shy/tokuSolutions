@@ -10,16 +10,51 @@ Commands:
 """
 
 import asyncio
+import os
 import sys
 import time
 from pathlib import Path
 
 import click
+from dotenv import load_dotenv
 from temporalio.client import Client
 
 from src.workflows import PDFTranslationWorkflow, PDFTranslationInput, WorkflowProgress
 
 TASK_QUEUE = "pdf-translation"
+
+# Load environment variables
+load_dotenv()
+
+
+def validate_env():
+    """Validate required environment variables are set."""
+    required_vars = {
+        "ProjectID": "Google Cloud Project ID",
+        "ProcessorID": "Document AI Processor ID",
+        "Location": "Google Cloud Location (e.g., us)",
+        "CREDENTIALS_PATH": "Path to service account JSON",
+    }
+
+    missing = []
+    for var, description in required_vars.items():
+        if not os.getenv(var):
+            missing.append(f"  • {var}: {description}")
+
+    if missing:
+        click.secho("✗ Missing required environment variables:", fg="red", bold=True)
+        click.echo("\n".join(missing))
+        click.echo("\nPlease configure these in your .env file:")
+        click.echo("  cp .env.example .env")
+        click.echo("  # Edit .env with your credentials")
+        sys.exit(1)
+
+    # Check if credentials file exists
+    creds_path = os.getenv("CREDENTIALS_PATH")
+    if not Path(creds_path).exists():
+        click.secho(f"✗ Credentials file not found: {creds_path}", fg="red", bold=True)
+        click.echo("Please ensure your service account JSON file exists at this path.")
+        sys.exit(1)
 
 
 @click.group()
@@ -50,6 +85,9 @@ def translate(pdf_path_or_url, source_lang, target_lang, workers, skip_cleanup):
       toku translate manual.pdf
       toku translate https://example.com/manual.pdf
     """
+    # Validate environment variables before starting
+    validate_env()
+
     import subprocess
     import requests
     import tempfile

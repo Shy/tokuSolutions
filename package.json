@@ -4,18 +4,11 @@
   "type": "module",
   "description": "Web viewer for translated toy manuals",
   "scripts": {
-    "test": "vitest",
-    "test:ui": "vitest --ui",
-    "test:coverage": "vitest --coverage",
     "serve": "python -m http.server 8000",
     "lint": "prettier --check 'manuals/**/translations.json' 'web/**/*.{js,json,html,css}'",
     "format": "prettier --write 'manuals/**/translations.json' 'web/**/*.{js,json,html,css}'"
   },
   "devDependencies": {
-    "@vitest/coverage-v8": "^2.1.9",
-    "@vitest/ui": "^2.1.8",
-    "happy-dom": "^20.0.11",
-    "prettier": "^3.7.4",
-    "vitest": "^2.1.8"
+    "prettier": "^3.7.4"
   }
 }
