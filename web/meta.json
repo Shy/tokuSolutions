@@ -65,18 +65,14 @@
       ]
     },
     {
-      "name": "Hurricanger",
-      "source": "Hurricanger.pdf",
-      "pages": 15,
-      "blocks": 361,
-      "thumbnail": "Hurricanger/pages/page-0.webp",
-      "source_url": "https://tokullectibles.com/products/memorial-hurricane-gyro",
+      "name": "Memorial Zanglass sword",
+      "source": "Memorial Zanglass sword.pdf",
+      "pages": 19,
+      "blocks": 429,
+      "thumbnail": "Memorial Zanglass sword/pages/page-0.webp",
+      "source_url": "https://tokullectibles.com/products/memorial-zanglasssword",
       "blog_url": "",
-      "tags": [
-        "sentai",
-        "memorial",
-        "premium"
-      ]
+      "tags": []
     },
     {
       "name": "Premium DX Zein Driver",
@@ -141,19 +137,6 @@
       "tags": [
         "sentai"
       ]
-    },
-    {
-      "name": "kingogher",
-      "source": "kingogher.pdf",
-      "pages": 30,
-      "blocks": 715,
-      "thumbnail": "kingogher/pages/page-0.webp",
-      "source_url": "",
-      "blog_url": "",
-      "tags": [
-        "memorial",
-        "sentai"
-      ]
     }
   ],
   "tags": {
@@ -187,8 +170,8 @@
     }
   },
   "stats": {
-    "total_manuals": 12,
-    "total_pages": 191,
-    "total_blocks": 6762
+    "total_manuals": 11,
+    "total_pages": 165,
+    "total_blocks": 6115
   }
 }
