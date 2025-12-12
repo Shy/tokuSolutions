@@ -17,7 +17,7 @@ from pathlib import Path
 import click
 from temporalio.client import Client
 
-from src.workflow import DocAITranslateWorkflow, DocAITranslateInput
+from src.workflows import PDFTranslationWorkflow, PDFTranslationInput, WorkflowProgress
 
 TASK_QUEUE = "pdf-translation"
 
@@ -119,7 +119,7 @@ def translate(pdf_path_or_url, source_lang, target_lang, workers, skip_cleanup):
             manual_name = pdf_file.stem
             output_dir = f"manuals/{manual_name}"
 
-            input_data = DocAITranslateInput(
+            input_data = PDFTranslationInput(
                 pdf_path=pdf_path,
                 manual_name=manual_name,
                 output_dir=output_dir,
@@ -138,14 +138,160 @@ def translate(pdf_path_or_url, source_lang, target_lang, workers, skip_cleanup):
             click.echo(f"  Output: {output_dir}")
             click.echo(f"  Source: {source_lang} → Target: {target_lang}\n")
 
-            # Run workflow
-            result = await client.execute_workflow(
-                DocAITranslateWorkflow.run,
+            # Start workflow (non-blocking)
+            handle = await client.start_workflow(
+                PDFTranslationWorkflow.run,
                 input_data,
                 id=workflow_id,
                 task_queue=TASK_QUEUE,
             )
 
+            # Poll workflow progress using Queries
+            last_phase = None
+            last_status = {}
+            phase_icons = {
+                "initializing": "⏳",
+                "ocr": "📄",
+                "translation": "🌐",
+                "site_generation": "🌍",
+                "cleanup": "✨",
+                "complete": "✓",
+            }
+
+            # Calculate total steps (4 phases, or 3 if skip_cleanup)
+            total_steps = 3 if skip_cleanup else 4
+
+            # Progress bar
+            with click.progressbar(
+                length=total_steps,
+                label="Overall Progress",
+                show_eta=False,
+                show_percent=True,
+                width=40,
+            ) as bar:
+                completed_phases = 0
+                url_prompted = False  # Track if we've already prompted for URL
+
+                while True:
+                    try:
+                        # Query workflow progress
+                        progress = await handle.query(PDFTranslationWorkflow.get_progress)
+
+                        # Handle URL prompt if workflow is waiting
+                        if progress.waiting_for_url and not url_prompted:
+                            url_prompted = True
+                            click.echo("")
+                            click.secho(
+                                "⏸  Product URL not found - workflow paused",
+                                fg="yellow",
+                                bold=True
+                            )
+
+                            from src.shopify_search import search_tokullectibles
+
+                            # Try searching with manual name
+                            click.echo(f"Searching Tokullectibles for: {progress.manual_name}")
+                            search_result = search_tokullectibles(progress.manual_name)
+
+                            source_url = None
+                            if search_result:
+                                click.secho(f"✓ Found: {search_result.name}", fg="green")
+                                click.echo(f"  URL: {search_result.url}")
+                                if click.confirm("Use this URL?"):
+                                    source_url = search_result.url
+
+                            # If search failed or user declined, prompt for manual entry
+                            if not source_url:
+                                source_url = click.prompt(
+                                    "Enter product URL (or press Enter to skip)",
+                                    default="",
+                                    show_default=False
+                                )
+
+                            # Send URL to workflow via signal (can be empty string if skipped)
+                            await handle.signal(PDFTranslationWorkflow.provide_url, source_url or "")
+
+                            if source_url:
+                                click.secho(f"✓ URL provided - workflow resuming", fg="green")
+                            else:
+                                click.echo("  Skipped - continuing without URL")
+                            click.echo("")
+
+                        # Update display when phase changes
+                        if progress.phase != last_phase:
+                            # Update progress bar based on completed phases
+                            # Calculate how many steps to advance
+                            steps_to_advance = 0
+                            if progress.phase == "translation":
+                                steps_to_advance = 1 - completed_phases  # OCR done
+                            elif progress.phase == "site_generation":
+                                steps_to_advance = 2 - completed_phases  # OCR + Translation done
+                            elif progress.phase == "cleanup":
+                                steps_to_advance = 3 - completed_phases  # OCR + Translation + Site done
+                            elif progress.phase == "complete":
+                                steps_to_advance = total_steps - completed_phases  # All done
+
+                            if steps_to_advance > 0:
+                                bar.update(steps_to_advance)
+                                completed_phases += steps_to_advance
+
+                            last_phase = progress.phase
+                            icon = phase_icons.get(progress.phase, "⏳")
+
+                            if progress.phase == "ocr":
+                                click.echo(
+                                    f"\n{icon} {click.style('[1/4] OCR', bold=True, fg='cyan')} - Extracting text..."
+                                )
+                            elif progress.phase == "translation":
+                                click.echo(
+                                    f"\n{icon} {click.style('[2/4] Translation', bold=True, fg='cyan')} - Translating text..."
+                                )
+                            elif progress.phase == "site_generation":
+                                click.echo(
+                                    f"\n{icon} {click.style('[3/4] Site Generation', bold=True, fg='cyan')} - Creating viewer..."
+                                )
+                            elif progress.phase == "cleanup":
+                                if skip_cleanup:
+                                    click.echo(
+                                        f"\n⊘ {click.style('[4/4] Cleanup', bold=True, fg='yellow')} - Skipped"
+                                    )
+                                else:
+                                    click.echo(
+                                        f"\n{icon} {click.style('[4/4] Cleanup', bold=True, fg='cyan')} - Improving quality..."
+                                    )
+                            elif progress.phase == "complete":
+                                break
+
+                        # Show detailed sub-progress for current phase
+                        current_status = {
+                            "ocr": progress.ocr_progress,
+                            "translation": progress.translation_progress,
+                            "site": progress.site_progress,
+                            "cleanup": progress.cleanup_progress,
+                        }
+
+                        # Print status updates (only when changed)
+                        for key, status in current_status.items():
+                            if status and status != last_status.get(key):
+                                if "Complete:" in status or "✓" in status:
+                                    click.echo(f"  {click.style('✓', fg='green')} {status}")
+                                else:
+                                    click.echo(f"  → {status}")
+                                last_status[key] = status
+
+                        # Check if workflow completed
+                        if progress.phase == "complete":
+                            break
+
+                        # Poll every 500ms
+                        await asyncio.sleep(0.5)
+
+                    except Exception as e:
+                        # Workflow might not be ready for queries yet
+                        await asyncio.sleep(0.5)
+
+            # Wait for final result
+            result = await handle.result()
             return result
 
         result = asyncio.run(run_translation())
@@ -158,20 +304,17 @@ def translate(pdf_path_or_url, source_lang, target_lang, workers, skip_cleanup):
             click.echo(f"  Output: {result.output_dir}")
             click.echo(f"  Viewer: {result.html_path}")
 
-            # Handle product URL if found
+            # Display product URL status
             if result.product_url:
                 click.echo("")
-                click.secho(f"✓ Found product on Tokullectibles:", fg="green")
+                click.secho(f"✓ Product URL configured:", fg="green")
                 click.echo(f"  Name: {result.product_name}")
                 click.echo(f"  URL: {result.product_url}")
-                click.echo("  (URL saved to manual metadata)")
             else:
                 click.echo("")
-                click.secho(
-                    "○ Product not found on Tokullectibles", fg="yellow", bold=True
-                )
-                click.echo("  You can add the URL later using:")
+                click.secho("○ No product URL configured", fg="yellow")
                 manual_name = Path(result.output_dir).name
+                click.echo("  You can add it later using:")
                 click.echo(f'  toku add-url "{manual_name}" "<URL>"')
         else:
             click.secho("✗ Translation failed", fg="red", bold=True)

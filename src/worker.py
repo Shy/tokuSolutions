@@ -5,16 +5,21 @@ import asyncio
 from temporalio.client import Client
 from temporalio.worker import Worker
 
-from src.workflow import DocAITranslateWorkflow
+# Import all workflows (parent + children)
+from src.workflows import (
+    PDFTranslationWorkflow,
+    OCRWorkflow,
+    TranslationWorkflow,
+    SiteGenerationWorkflow,
+    CleanupWorkflow,
+)
+
 from src.activities import (
-    ocr_document_activity,
     get_pdf_page_count_activity,
     ocr_page_activity,
     translate_blocks_activity,
-    create_overlay_pdf_activity,
     generate_site_activity,
     search_product_url_activity,
-    cleanup_translations_activity,
     ftfy_cleanup_activity,
     rule_based_cleanup_activity,
     gemini_cleanup_activity,
@@ -29,16 +34,19 @@ async def main():
     worker = Worker(
         client,
         task_queue=TASK_QUEUE,
-        workflows=[DocAITranslateWorkflow],
+        workflows=[
+            PDFTranslationWorkflow,
+            OCRWorkflow,
+            TranslationWorkflow,
+            SiteGenerationWorkflow,
+            CleanupWorkflow,
+        ],
         activities=[
-            ocr_document_activity,
             get_pdf_page_count_activity,
             ocr_page_activity,
             translate_blocks_activity,
-            create_overlay_pdf_activity,
             generate_site_activity,
             search_product_url_activity,
-            cleanup_translations_activity,
             ftfy_cleanup_activity,
             rule_based_cleanup_activity,
             gemini_cleanup_activity,
