@@ -34,7 +34,7 @@ export function renderManualList(filteredManuals) {
       .map((tagId) => {
         const tag = state.tagsData?.tags[tagId];
         if (!tag) return '';
-        return `<span class="tag" style="background-color: ${tag.color}">${tag.name}</span>`;
+        return `<span class="tag" style="background-color: ${tag.color}">${tag.label}</span>`;
       })
       .join('');
 
@@ -90,7 +90,7 @@ export function renderTagFilters() {
   Object.entries(state.tagsData.tags).forEach(([tagId, tag]) => {
     const tagButton = document.createElement('button');
     tagButton.className = 'tag-filter';
-    tagButton.textContent = tag.name;
+    tagButton.textContent = tag.label;
     tagButton.dataset.tagId = tagId; // Store tag ID on button
     tagButton.style.setProperty('--tag-color', tag.color);
     tagButton.onclick = () => {

@@ -176,13 +176,10 @@ async function loadInitialData() {
     const metaData = await metaResponse.json();
     state.manuals = metaData.manuals;
 
-    // Try to load tags.json
-    try {
-      const tagsResponse = await fetch('tags.json');
-      state.tagsData = await tagsResponse.json();
+    // Load tags from meta.json
+    if (metaData.tags) {
+      state.tagsData = { tags: metaData.tags };
       renderTagFilters();
-    } catch (tagsError) {
-      // Tags are optional - silently continue without them
     }
 
     // Render manuals
