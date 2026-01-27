@@ -75,7 +75,12 @@ def cli():
     is_flag=True,
     help="Skip translation cleanup (ftfy + rule-based + Gemini)",
 )
-def translate(pdf_path_or_url, source_lang, target_lang, workers, skip_cleanup):
+@click.option(
+    "--product-url",
+    default="",
+    help="Product URL (e.g., from Tokullectibles) - skips automatic search",
+)
+def translate(pdf_path_or_url, source_lang, target_lang, workers, skip_cleanup, product_url):
     """Translate a PDF manual using Document AI.
 
     Accepts either a local PDF path or a URL to download from.
@@ -218,42 +223,50 @@ def translate(pdf_path_or_url, source_lang, target_lang, workers, skip_cleanup):
                         # Handle URL prompt if workflow is waiting
                         if progress.waiting_for_url and not url_prompted:
                             url_prompted = True
-                            click.echo("")
-                            click.secho(
-                                "⏸  Product URL not found - workflow paused",
-                                fg="yellow",
-                                bold=True
-                            )
 
-                            from src.tokullectibles import search_tokullectibles
-
-                            # Try searching with manual name
-                            click.echo(f"Searching Tokullectibles for: {progress.manual_name}")
-                            search_result = search_tokullectibles(progress.manual_name)
-
-                            source_url = None
-                            if search_result:
-                                click.secho(f"✓ Found: {search_result.name}", fg="green")
-                                click.echo(f"  URL: {search_result.url}")
-                                if click.confirm("Use this URL?"):
-                                    source_url = search_result.url
-
-                            # If search failed or user declined, prompt for manual entry
-                            if not source_url:
-                                source_url = click.prompt(
-                                    "Enter product URL (or press Enter to skip)",
-                                    default="",
-                                    show_default=False
+                            # If URL was provided via CLI, use it immediately
+                            if product_url:
+                                click.echo("")
+                                click.secho(f"✓ Using provided URL: {product_url}", fg="green")
+                                await handle.signal(PDFTranslationWorkflow.provide_url, product_url)
+                                click.echo("")
+                            else:
+                                click.echo("")
+                                click.secho(
+                                    "⏸  Product URL not found - workflow paused",
+                                    fg="yellow",
+                                    bold=True
                                 )
 
-                            # Send URL to workflow via signal (can be empty string if skipped)
-                            await handle.signal(PDFTranslationWorkflow.provide_url, source_url or "")
+                                from src.tokullectibles import search_tokullectibles
 
-                            if source_url:
-                                click.secho(f"✓ URL provided - workflow resuming", fg="green")
-                            else:
-                                click.echo("  Skipped - continuing without URL")
-                            click.echo("")
+                                # Try searching with manual name
+                                click.echo(f"Searching Tokullectibles for: {progress.manual_name}")
+                                search_result = search_tokullectibles(progress.manual_name)
+
+                                source_url = None
+                                if search_result:
+                                    click.secho(f"✓ Found: {search_result.name}", fg="green")
+                                    click.echo(f"  URL: {search_result.url}")
+                                    if click.confirm("Use this URL?"):
+                                        source_url = search_result.url
+
+                                # If search failed or user declined, prompt for manual entry
+                                if not source_url:
+                                    source_url = click.prompt(
+                                        "Enter product URL (or press Enter to skip)",
+                                        default="",
+                                        show_default=False
+                                    )
+
+                                # Send URL to workflow via signal (can be empty string if skipped)
+                                await handle.signal(PDFTranslationWorkflow.provide_url, source_url or "")
+
+                                if source_url:
+                                    click.secho(f"✓ URL provided - workflow resuming", fg="green")
+                                else:
+                                    click.echo("  Skipped - continuing without URL")
+                                click.echo("")
 
                         # Update display when phase changes
                         if progress.phase != last_phase:

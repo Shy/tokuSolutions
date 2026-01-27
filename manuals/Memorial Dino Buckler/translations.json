@@ -1,0 +1,2245 @@
+{
+  "meta": {
+    "manual_name": "Memorial Dino Buckler",
+    "source": "Memorial Dino Buckler.pdf",
+    "source_lang": "ja",
+    "target_lang": "en",
+    "source_url": "https://tokullectibles.com/products/memorial-dino-buckler",
+    "blog_url": "https://www.google.com/search?q=site%3Atoy.bandai.co.jp/series/rider/blog%20%22Memorial%20Dino%20Buckler%22",
+    "pages": 9,
+    "blocks": 221,
+    "thumbnail": "pages/page-0.webp",
+    "tags": [
+      "memorial",
+      "sentai",
+      "premium"
+    ]
+  },
+  "pages": [
+    {
+      "image": "pages/page-0.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "Web instruction manual",
+          "bbox": [
+            0.0369,
+            0.0363,
+            0.1651,
+            0.0168
+          ]
+        },
+        {
+          "text": "恐竜戦隊\nジュウレンジャー",
+          "translation": "Dinosaur Sentai Zyuranger",
+          "bbox": [
+            0.2473,
+            0.0141,
+            0.1681,
+            0.0377
+          ]
+        },
+        {
+          "text": "©東映",
+          "translation": "©Toei",
+          "bbox": [
+            0.3144,
+            0.0722,
+            0.0326,
+            0.0068
+          ]
+        },
+        {
+          "text": "ダイノバックラー\n-MEMORIAL EDITION- の遊び方",
+          "translation": "How to play Dino Buckler -MEMORIAL EDITION-",
+          "bbox": [
+            0.2201,
+            0.129,
+            0.6348,
+            0.064
+          ]
+        },
+        {
+          "text": "セット内容",
+          "translation": "Set contents",
+          "bbox": [
+            0.1076,
+            0.2511,
+            0.1167,
+            0.0182
+          ]
+        },
+        {
+          "text": "ダイノバックラー本体・・・1",
+          "translation": "Dino Buckler body...1",
+          "bbox": [
+            0.2521,
+            0.2838,
+            0.2219,
+            0.0141
+          ]
+        },
+        {
+          "text": "ホルダー…1",
+          "translation": "Holder...1",
+          "bbox": [
+            0.5992,
+            0.2838,
+            0.1082,
+            0.0141
+          ]
+        },
+        {
+          "text": "守護獣メダル･･･5種各1",
+          "translation": "Guardian Beast Medal... 5 types, 1 of each",
+          "bbox": [
+            0.3718,
+            0.4955,
+            0.2406,
+            0.0182
+          ]
+        },
+        {
+          "text": "※WEB取扱説明書内の画像はイメージです。",
+          "translation": "*The images in the online instruction manual are for illustrative purposes only.",
+          "bbox": [
+            0.0726,
+            0.6349,
+            0.3319,
+            0.0127
+          ]
+        },
+        {
+          "text": "△ 注意 お買い上げのお客様へ 必ずお読みください。\n●本商品の対象年齢は15才以上です。 対象年齢未満のお子様には絶対に与えないでください。 単4電池(別売り)、 電池ぶた、ねじなどの\n誤飲事故に注意してください。 ●本商品には電子部品を使用しておりますので、ペースメーカーをご使用の方はご注意ください。 ●耳の近くで\n使用してはいけません。 誤って使用すると、聴覚を損なう恐れがあります。●ぶつけたり、ふりまわすなど乱暴な遊びをしないでください。 ●可動\n部分には指などを入れないでください。 はさまれてケガをする恐れがあります。 ●LEDの光の点滅を見続けないでください。 気分が悪くなったり\nするおそれがあります。 《電池を誤使用すると発熱・破裂・液漏れの恐れがあります。 下記に注意してください》 二次電池 (充電式電池) は、\n絶対に使用しないでください。 +-(プラスマイナス) を正しくセットしてください。 ●遊んだ後は必ずスイッチを切り電池をはずしてください。\n電池を入れたままにしておくと、液漏れの恐れがあり危険です。 ●ショートさせたり充電、分解、 加熱、火の中に入れたりしないでください。●万一、\n電池から漏れた液が目に入ったときはすぐに大量の水で洗い、医師に相談してください。 皮膚や服に付いた時は水で洗ってください。 ●廃棄\nするときは、自治体の廃棄物処理の指示に従ってください。",
+          "translation": "△ Caution: Please read before purchasing.\n●This product is intended for ages 15 and up. Never give to children under the recommended age. Take care to prevent accidental ingestion of AAA batteries (sold separately), battery caps, screws, etc.\n●This product contains electronic components, so please exercise caution if you use a pacemaker.\n●Do not use near the ears. Improper use may cause hearing damage.\n●Do not play roughly, such as hitting or swinging.\n●Do not insert fingers or other body parts into moving parts. You may become pinched and get injured.\n●Do not stare at the flashing LED light for long periods of time. You may become ill.\n[Misuse of batteries may result in heat generation, explosion, or leakage. Please observe the following]\nNever use secondary (rechargeable) batteries. Ensure the +/- terminals are correctly aligned.\n●Always turn off the switch and remove the batteries after playing.\n\nLeaving batteries in the product is dangerous as it may leak. ●Do not short-circuit, recharge, disassemble, heat, or throw into fire. ●If battery fluid gets into your eyes, immediately rinse with plenty of water and consult a doctor. If it comes into contact with your skin or clothes, rinse with water. ●When disposing of the battery, follow the waste disposal instructions of your local government.",
+          "bbox": [
+            0.0877,
+            0.6876,
+            0.8241,
+            0.1544
+          ]
+        },
+        {
+          "text": "<使用上の注意> ●本商品は精密な電子部品で構成されています。 落としたり、水にぬらしたり、汚したり、分解したりしないでください。 また、高温・低温に\nなる所での使用、保管はさけてください。 プラスチック梱包材は開封後すぐに捨ててください。 ●本商品を樹脂製のソファーやシート、タイルなどの\n上に置かないでください。長時間接触していると色が移る場合があります。 ●可動部分・取付部分を無理な方向に強く引っ張ったり、曲げたりしないで\nください。発音の一部にイントネーションが違っていたり、 商品の特性上聞き取りにくいものがありますが、ご了承ください。 本商品は精密に作られて\nいます。無理な力を加えたり、落としたりすると破損する恐れがあります。",
+          "translation": "<Precautions for Use> ●This product is made of precision electronic components. Do not drop, get wet, soil, or disassemble. Also, avoid using or storing it in high or low temperatures. Discard the plastic packaging immediately after opening. ●Do not place this product on a resin sofa, seat, tile, or other surface. Prolonged contact may cause color transfer. ●Do not forcefully pull or bend moving or attached parts in any direction. Please note that some pronunciations may have an incorrect intonation or be difficult to hear due to the characteristics of the product. This product is precision-made. Applying excessive force or dropping it may cause damage.",
+          "bbox": [
+            0.0804,
+            0.861,
+            0.8386,
+            0.0713
+          ]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-1.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "Web instruction manual",
+          "bbox": [
+            0.0369,
+            0.0378,
+            0.1651,
+            0.0175
+          ]
+        },
+        {
+          "text": "【正面】",
+          "translation": "[Front]",
+          "bbox": [
+            0.0998,
+            0.2802,
+            0.0423,
+            0.0128
+          ]
+        },
+        {
+          "text": "各部名称",
+          "translation": "Part names",
+          "bbox": [
+            0.1917,
+            0.1352,
+            0.1094,
+            0.0241
+          ]
+        },
+        {
+          "text": "ダイノバックラー本体",
+          "translation": "Dino Buckler body",
+          "bbox": [
+            0.1391,
+            0.2231,
+            0.2134,
+            0.017
+          ]
+        },
+        {
+          "text": "カバーパーツ",
+          "translation": "Cover parts",
+          "bbox": [
+            0.2618,
+            0.2661,
+            0.101,
+            0.0118
+          ]
+        },
+        {
+          "text": "【背面】",
+          "translation": "[Back]",
+          "bbox": [
+            0.4299,
+            0.267,
+            0.0423,
+            0.0118
+          ]
+        },
+        {
+          "text": "グリップ",
+          "translation": "grip",
+          "bbox": [
+            0.5157,
+            0.2656,
+            0.0611,
+            0.0128
+          ]
+        },
+        {
+          "text": "【天面】",
+          "translation": "[Top]",
+          "bbox": [
+            0.6784,
+            0.2675,
+            0.0411,
+            0.0109
+          ]
+        },
+        {
+          "text": "変身ボタン",
+          "translation": "Transformation button",
+          "bbox": [
+            0.1004,
+            0.4485,
+            0.0828,
+            0.0123
+          ]
+        },
+        {
+          "text": "カバーパーツ",
+          "translation": "Cover parts",
+          "bbox": [
+            0.2618,
+            0.4471,
+            0.1016,
+            0.0118
+          ]
+        },
+        {
+          "text": "電池ぶた",
+          "translation": "Battery cover",
+          "bbox": [
+            0.5115,
+            0.4532,
+            0.0677,
+            0.0113
+          ]
+        },
+        {
+          "text": "ホルダー",
+          "translation": "holder",
+          "bbox": [
+            0.2001,
+            0.6919,
+            0.0852,
+            0.0147
+          ]
+        },
+        {
+          "text": "【正面】",
+          "translation": "[Front]",
+          "bbox": [
+            0.1469,
+            0.7424,
+            0.0429,
+            0.0118
+          ]
+        },
+        {
+          "text": "【背面】",
+          "translation": "[Back]",
+          "bbox": [
+            0.5363,
+            0.742,
+            0.0411,
+            0.0123
+          ]
+        },
+        {
+          "text": "フック",
+          "translation": "hook",
+          "bbox": [
+            0.6608,
+            0.7443,
+            0.0447,
+            0.0113
+          ]
+        },
+        {
+          "text": "ダイノバックラーセット部分",
+          "translation": "Dino Buckler set part",
+          "bbox": [
+            0.2122,
+            0.75,
+            0.2056,
+            0.0142
+          ]
+        },
+        {
+          "text": "MADE IN CHINA\n2782424",
+          "translation": "MADE IN CHINA\n2782424",
+          "bbox": [
+            0.6511,
+            0.837,
+            0.049,
+            0.0109
+          ]
+        },
+        {
+          "text": "モードスイッチ BGMボタン",
+          "translation": "Mode switch BGM button",
+          "bbox": [
+            0.679,
+            0.3261,
+            0.2219,
+            0.0123
+          ]
+        },
+        {
+          "text": "※BGMボタンを押す際は\n矢印の方向に\n押し込むように\n押してください。",
+          "translation": "*When pressing the BGM button, please press it in the direction of the arrow.",
+          "bbox": [
+            0.6965,
+            0.5548,
+            0.1741,
+            0.0581
+          ]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-2.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書 矢印一覧 ◆ 取り付けます。",
+          "translation": "Install.",
+          "bbox": [
+            0.0369,
+            0.0277,
+            0.5067,
+            0.0155
+          ]
+        },
+        {
+          "text": "取り外します。 |",
+          "translation": "Remove.",
+          "bbox": [
+            0.6282,
+            0.0281,
+            0.1439,
+            0.0133
+          ]
+        },
+        {
+          "text": "可動させます。",
+          "translation": "Move.",
+          "bbox": [
+            0.8192,
+            0.0295,
+            0.1288,
+            0.0108
+          ]
+        },
+        {
+          "text": "電池の入れ方",
+          "translation": "How to insert the batteries",
+          "bbox": [
+            0.1657,
+            0.1018,
+            0.1778,
+            0.0191
+          ]
+        },
+        {
+          "text": "※音が小さくなって聞き取りにくくなったり、\n音が止まるなどの誤動作をする場合や、\nLEDの発光が弱くなった場合は、\nすべて新しい電池に交換してください。",
+          "translation": "*If the sound becomes too quiet and difficult to hear, if the sound stops or if there are other malfunctions, or if the LED light becomes weak,\nreplace all the batteries with new ones.",
+          "bbox": [
+            0.0907,
+            0.1471,
+            0.3748,
+            0.0622
+          ]
+        },
+        {
+          "text": "①電池ぶたを取り外します。\n①-1 ダイノバックラー背面の",
+          "translation": "①Remove the battery cover. ①-1 On the back of the Dino Buckler:",
+          "bbox": [
+            0.0804,
+            0.223,
+            0.2243,
+            0.0245
+          ]
+        },
+        {
+          "text": "電池ぶたのネジを+または、",
+          "translation": "Locate the battery cover screw.",
+          "bbox": [
+            0.1372,
+            0.2529,
+            0.1995,
+            0.009
+          ]
+        },
+        {
+          "text": "ドライバーで矢印の方向に回し、",
+          "translation": "Turn the screw in the direction of the arrow with a screwdriver to loosen.",
+          "bbox": [
+            0.1578,
+            0.2673,
+            0.2237,
+            0.0104
+          ]
+        },
+        {
+          "text": "①-2 電池ぶたを矢印の方向に取り外します。",
+          "translation": "①-2 Remove the battery cover in the direction of the arrow.",
+          "bbox": [
+            0.0967,
+            0.2827,
+            0.3126,
+            0.0101
+          ]
+        },
+        {
+          "text": "②乾電池を入れます。",
+          "translation": "②Insert the batteries.",
+          "bbox": [
+            0.0804,
+            0.2978,
+            0.153,
+            0.0094
+          ]
+        },
+        {
+          "text": "単4乾電池1本(別売り)の土を",
+          "translation": "Insert one AAA battery (sold separately).",
+          "bbox": [
+            0.0967,
+            0.3119,
+            0.2334,
+            0.0101
+          ]
+        },
+        {
+          "text": "それぞれ間違えないように入れます。",
+          "translation": "Ensure correct polarity when inserting each battery.",
+          "bbox": [
+            0.0973,
+            0.3277,
+            0.2582,
+            0.0094
+          ]
+        },
+        {
+          "text": "1-1",
+          "translation": "1-1",
+          "bbox": [
+            0.6868,
+            0.1439,
+            0.0339,
+            0.0097
+          ]
+        },
+        {
+          "text": "1-1",
+          "translation": "1-1",
+          "bbox": [
+            0.5157,
+            0.1572,
+            0.0333,
+            0.009
+          ]
+        },
+        {
+          "text": "ネジ",
+          "translation": "screw",
+          "bbox": [
+            0.5091,
+            0.1827,
+            0.029,
+            0.0065
+          ]
+        },
+        {
+          "text": "【背面】",
+          "translation": "[Back]",
+          "bbox": [
+            0.4474,
+            0.2284,
+            0.0405,
+            0.009
+          ]
+        },
+        {
+          "text": "電池ぶた",
+          "translation": "Battery cover",
+          "bbox": [
+            0.4667,
+            0.2507,
+            0.0599,
+            0.0079
+          ]
+        },
+        {
+          "text": "突起",
+          "translation": "protrusion",
+          "bbox": [
+            0.5665,
+            0.2619,
+            0.0308,
+            0.0086
+          ]
+        },
+        {
+          "text": "1-2",
+          "translation": "1-2",
+          "bbox": [
+            0.5895,
+            0.277,
+            0.0387,
+            0.0104
+          ]
+        },
+        {
+          "text": "③電池ぶたを戻します。\n電池ぶたの突起と本体のミゾを合わせ、\n電池ぶたのネジを ①-1と逆方向に回して閉じます。",
+          "translation": "③ Replace the battery cover.\nAlign the protrusion on the battery cover with the groove on the main unit,\nand turn the battery cover screw in the opposite direction to ①-1 to close it.",
+          "bbox": [
+            0.0804,
+            0.3428,
+            0.3694,
+            0.0396
+          ]
+        },
+        {
+          "text": "電源の入れ方",
+          "translation": "How to turn on the power",
+          "bbox": [
+            0.1657,
+            0.4532,
+            0.1778,
+            0.0158
+          ]
+        },
+        {
+          "text": "Aモード起動方法",
+          "translation": "How to start A mode",
+          "bbox": [
+            0.0943,
+            0.5,
+            0.1505,
+            0.0115
+          ]
+        },
+        {
+          "text": "ダイノバックラー天面の",
+          "translation": "On the top of the Dino Buckler,",
+          "bbox": [
+            0.0998,
+            0.5349,
+            0.1687,
+            0.0094
+          ]
+        },
+        {
+          "text": "モードスイッチを(●)にします。 |Aモード",
+          "translation": "Set the mode switch to (●).",
+          "bbox": [
+            0.1004,
+            0.5478,
+            0.3077,
+            0.0112
+          ]
+        },
+        {
+          "text": "→起動音Aが鳴ります。",
+          "translation": "→Startup sound A will play.",
+          "bbox": [
+            0.0998,
+            0.5691,
+            0.1699,
+            0.009
+          ]
+        },
+        {
+          "text": "Bモード起動方法",
+          "translation": "How to activate B mode",
+          "bbox": [
+            0.0961,
+            0.6112,
+            0.1475,
+            0.0115
+          ]
+        },
+        {
+          "text": "ダイノバックラー天面の\nモードスイッチを () にします。 |Aモード\n→起動音Bが鳴ります。",
+          "translation": "Set the mode switch on the top of the Dino Buckler to (). → Startup sound B will play.",
+          "bbox": [
+            0.0998,
+            0.6457,
+            0.3083,
+            0.0435
+          ]
+        },
+        {
+          "text": "※遊び終わった後は、必ず電源スイッチをOFFにしてください。",
+          "translation": "*After you finish playing, be sure to turn off the power switch.",
+          "bbox": [
+            0.101,
+            0.7115,
+            0.4649,
+            0.0115
+          ]
+        },
+        {
+          "text": "ミゾ",
+          "translation": "Groove",
+          "bbox": [
+            0.6342,
+            0.4115,
+            0.032,
+            0.0086
+          ]
+        },
+        {
+          "text": "Bモード",
+          "translation": "B-mode",
+          "bbox": [
+            0.5998,
+            0.5504,
+            0.0623,
+            0.0094
+          ]
+        },
+        {
+          "text": "·突起",
+          "translation": "·protrusion",
+          "bbox": [
+            0.7025,
+            0.2619,
+            0.0363,
+            0.0086
+          ]
+        },
+        {
+          "text": "Bモード",
+          "translation": "B-mode",
+          "bbox": [
+            0.5998,
+            0.6597,
+            0.0623,
+            0.0086
+          ]
+        },
+        {
+          "text": "単4 x1",
+          "translation": "1 x AAA battery",
+          "bbox": [
+            0.8283,
+            0.1324,
+            0.0593,
+            0.0072
+          ]
+        },
+        {
+          "text": "単4乾電池1本使用(別売り)\n●アルカリ乾電池専用",
+          "translation": "Requires one AAA battery (sold separately)\n● Compatible with alkaline batteries only",
+          "bbox": [
+            0.7624,
+            0.1496,
+            0.1554,
+            0.023
+          ]
+        },
+        {
+          "text": "【天面】",
+          "translation": "[Top]",
+          "bbox": [
+            0.6796,
+            0.4989,
+            0.0417,
+            0.0086
+          ]
+        },
+        {
+          "text": "モードスイッチ",
+          "translation": "Mode switch",
+          "bbox": [
+            0.7364,
+            0.5072,
+            0.1094,
+            0.0094
+          ]
+        },
+        {
+          "text": "【天面】",
+          "translation": "[Top]",
+          "bbox": [
+            0.679,
+            0.6079,
+            0.0429,
+            0.0086
+          ]
+        },
+        {
+          "text": "モードスイッチ",
+          "translation": "Mode switch",
+          "bbox": [
+            0.7364,
+            0.6158,
+            0.1094,
+            0.0097
+          ]
+        },
+        {
+          "text": "電池残量が少なくなった場合",
+          "translation": "When the battery is low",
+          "bbox": [
+            0.1022,
+            0.7698,
+            0.3815,
+            0.0169
+          ]
+        },
+        {
+          "text": "①動作中、電池残量が少なくなると\nSE「ピピ」が鳴り、動作が停止します。",
+          "translation": "If the battery gets low during operation, a beep will sound and the device will stop operating.",
+          "bbox": [
+            0.0883,
+            0.814,
+            0.3271,
+            0.0288
+          ]
+        },
+        {
+          "text": "② ①以降、ボタンを押しても\nLEDが一瞬点灯して、消灯になります。",
+          "translation": "② After that, whenever you press the button, the LED will light up for a moment and then go out.",
+          "bbox": [
+            0.0877,
+            0.8597,
+            0.3428,
+            0.0295
+          ]
+        },
+        {
+          "text": "この状態になったら、 電源スイッチをOFFにして、\n新品の電池に交換して再び遊んでください。",
+          "translation": "If this happens, turn the power switch off,\nreplace the batteries with new ones, and try playing again.",
+          "bbox": [
+            0.0883,
+            0.9068,
+            0.4172,
+            0.0277
+          ]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-3.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書 矢印一覧",
+          "translation": "",
+          "bbox": [
+            0.0369,
+            0.0298,
+            0.3077,
+            0.0141
+          ]
+        },
+        {
+          "text": "取り付けます。",
+          "translation": "Install.",
+          "bbox": [
+            0.4172,
+            0.0294,
+            0.1288,
+            0.013
+          ]
+        },
+        {
+          "text": "取り外します。 | 可動させます。",
+          "translation": "Remove. Move.",
+          "bbox": [
+            0.6276,
+            0.029,
+            0.321,
+            0.0138
+          ]
+        },
+        {
+          "text": "ダイノバックラーの閉じ方",
+          "translation": "How to close the Dino Buckler",
+          "bbox": [
+            0.0961,
+            0.1057,
+            0.3452,
+            0.019
+          ]
+        },
+        {
+          "text": "カバーパーツを",
+          "translation": "Cover parts",
+          "bbox": [
+            0.0883,
+            0.1529,
+            0.1312,
+            0.0104
+          ]
+        },
+        {
+          "text": "手で閉じます。",
+          "translation": "Close it by hand.",
+          "bbox": [
+            0.0889,
+            0.1704,
+            0.1203,
+            0.0104
+          ]
+        },
+        {
+          "text": "カバーパーツ",
+          "translation": "Cover parts",
+          "bbox": [
+            0.1076,
+            0.2228,
+            0.1004,
+            0.0093
+          ]
+        },
+        {
+          "text": "ホルダーへのセットの仕方",
+          "translation": "How to set it in the holder",
+          "bbox": [
+            0.0955,
+            0.369,
+            0.3452,
+            0.0175
+          ]
+        },
+        {
+          "text": "※ダイノバックラーは閉じた状態で行います。",
+          "translation": "*The Dino Buckler must be closed.",
+          "bbox": [
+            0.0967,
+            0.4185,
+            0.3845,
+            0.0119
+          ]
+        },
+        {
+          "text": "ホルダーにダイノバックラーを図の向きで取り付けます。",
+          "translation": "Attach the Dino Buckler to the holder in the orientation shown in the illustration.",
+          "bbox": [
+            0.0883,
+            0.4513,
+            0.4728,
+            0.0123
+          ]
+        },
+        {
+          "text": "ダイノバックラー",
+          "translation": "Dino Buckler",
+          "bbox": [
+            0.0955,
+            0.4989,
+            0.127,
+            0.01
+          ]
+        },
+        {
+          "text": "セット部分",
+          "translation": "Set part",
+          "bbox": [
+            0.0961,
+            0.5138,
+            0.0768,
+            0.0089
+          ]
+        },
+        {
+          "text": "ホルダー",
+          "translation": "holder",
+          "bbox": [
+            0.4794,
+            0.4859,
+            0.0647,
+            0.0093
+          ]
+        },
+        {
+          "text": "変身ボタン ●図のようになります。",
+          "translation": "Transformation button ●It will look like the picture.",
+          "bbox": [
+            0.5877,
+            0.2649,
+            0.3126,
+            0.0112
+          ]
+        },
+        {
+          "text": "※カバーパーツを開く際は、\n変身ボタンを押してください。",
+          "translation": "Transformation button ●It will look like the picture.",
+          "bbox": [
+            0.5937,
+            0.2924,
+            0.2721,
+            0.029
+          ]
+        },
+        {
+          "text": "●図のようになります。",
+          "translation": "*To open the cover part, press the transformation button.",
+          "bbox": [
+            0.7086,
+            0.651,
+            0.1953,
+            0.0112
+          ]
+        },
+        {
+          "text": "図の向きでも取り付けられます。",
+          "translation": "It can also be installed in the orientation shown in the illustration.",
+          "bbox": [
+            0.0895,
+            0.6882,
+            0.2703,
+            0.013
+          ]
+        },
+        {
+          "text": "●図のようになります。",
+          "translation": "●It will look like the image shown.",
+          "bbox": [
+            0.7092,
+            0.917,
+            0.1965,
+            0.0112
+          ]
+        },
+        {
+          "text": "※取り外す際は矢印と逆方向に手で取り外します。",
+          "translation": "*When removing, remove by hand in the opposite direction of the arrow.",
+          "bbox": [
+            0.0901,
+            0.9275,
+            0.4268,
+            0.0119
+          ]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-4.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書 矢印一覧",
+          "translation": "",
+          "bbox": [
+            0.0369,
+            0.0254,
+            0.3077,
+            0.0124
+          ]
+        },
+        {
+          "text": "取り付けます。",
+          "translation": "Install.",
+          "bbox": [
+            0.4166,
+            0.0257,
+            0.1282,
+            0.0105
+          ]
+        },
+        {
+          "text": "取り外します。 | 可動させます。",
+          "translation": "Remove. Move.",
+          "bbox": [
+            0.6276,
+            0.0248,
+            0.321,
+            0.0121
+          ]
+        },
+        {
+          "text": "守護獣メダルのセットの仕方",
+          "translation": "How to set up Guardian Beast Medal",
+          "bbox": [
+            0.0931,
+            0.0909,
+            0.3767,
+            0.0159
+          ]
+        },
+        {
+          "text": "※守護獣メダルはティラノサウルスを例に説明します。 ※カバーパーツを開いた状態で行います。",
+          "translation": "*We will use a Tyrannosaurus as an example for the guardian beast medal. *Please do this with the cover part open.",
+          "bbox": [
+            0.0967,
+            0.1332,
+            0.8041,
+            0.0105
+          ]
+        },
+        {
+          "text": "ダイノバックラーの取り付け部に\n守護獣メダルのツメを合わせて取り付けます。",
+          "translation": "Align the claws of the Guardian Beast Medal with the attachment point of the Dino Buckler and attach it.",
+          "bbox": [
+            0.0883,
+            0.1612,
+            0.3863,
+            0.0261
+          ]
+        },
+        {
+          "text": "守護獣メダル",
+          "translation": "Guardian Beast Medal",
+          "bbox": [
+            0.4099,
+            0.2149,
+            0.0992,
+            0.0086
+          ]
+        },
+        {
+          "text": "www",
+          "translation": "www",
+          "bbox": [
+            0.4426,
+            0.2495,
+            0.0218,
+            0.0095
+          ]
+        },
+        {
+          "text": "【背面】 ツメ",
+          "translation": "[Back] Claws",
+          "bbox": [
+            0.3881,
+            0.3032,
+            0.0865,
+            0.0073
+          ]
+        },
+        {
+          "text": "取り付け部",
+          "translation": "Mounting part",
+          "bbox": [
+            0.1911,
+            0.3315,
+            0.0822,
+            0.0079
+          ]
+        },
+        {
+          "text": "取り外し方",
+          "translation": "How to remove",
+          "bbox": [
+            0.0943,
+            0.3856,
+            0.0937,
+            0.0105
+          ]
+        },
+        {
+          "text": "下記の2通りの手順の、どちらかで取り外します。",
+          "translation": "Remove it using one of the following two procedures.",
+          "bbox": [
+            0.0883,
+            0.5575,
+            0.4141,
+            0.0108
+          ]
+        },
+        {
+          "text": "Aを押して、上側を取り外します。",
+          "translation": "Press A to remove the top.",
+          "bbox": [
+            0.0877,
+            0.5852,
+            0.3108,
+            0.0102
+          ]
+        },
+        {
+          "text": "www",
+          "translation": "www",
+          "bbox": [
+            0.2449,
+            0.691,
+            0.0302,
+            0.0076
+          ]
+        },
+        {
+          "text": "Kyar",
+          "translation": "Kyar",
+          "bbox": [
+            0.1929,
+            0.72,
+            0.0532,
+            0.0321
+          ]
+        },
+        {
+          "text": "ベルトへの取り付け",
+          "translation": "Attaching to a belt",
+          "bbox": [
+            0.1385,
+            0.8048,
+            0.26,
+            0.0149
+          ]
+        },
+        {
+          "text": "【下から見た図】",
+          "translation": "[View from below]",
+          "bbox": [
+            0.5647,
+            0.4189,
+            0.101,
+            0.0079
+          ]
+        },
+        {
+          "text": "●図のようになります。",
+          "translation": "●It will look like the image shown.",
+          "bbox": [
+            0.7031,
+            0.3408,
+            0.1953,
+            0.0092
+          ]
+        },
+        {
+          "text": "※守護獣メダルの端は段差に\nなっています。取り外す際は段差に\n指をかけて手で取り外します。",
+          "translation": "*The edge of the guardian beast medal has a step. To remove it, hook your finger on the step and remove it by hand.",
+          "bbox": [
+            0.5623,
+            0.4577,
+            0.3126,
+            0.0404
+          ]
+        },
+        {
+          "text": "⑥を押して、右側を取り外します。",
+          "translation": "Press ⑥ to remove the right side.",
+          "bbox": [
+            0.5115,
+            0.5855,
+            0.3102,
+            0.0099
+          ]
+        },
+        {
+          "text": "フック",
+          "translation": "hook",
+          "bbox": [
+            0.6481,
+            0.8344,
+            0.0441,
+            0.0076
+          ]
+        },
+        {
+          "text": "ベルトなどにホルダーのフックを使用して\n装着することができます。",
+          "translation": "You can attach it to a belt or other device using the holder's hook.",
+          "bbox": [
+            0.0883,
+            0.8436,
+            0.3489,
+            0.0251
+          ]
+        },
+        {
+          "text": "【背面】",
+          "translation": "[Back]",
+          "bbox": [
+            0.5254,
+            0.8417,
+            0.0405,
+            0.0076
+          ]
+        },
+        {
+          "text": "※勢いよく取り付けると傷が付く",
+          "translation": "*If you install it too forcefully, it may get scratched.",
+          "bbox": [
+            0.0901,
+            0.8859,
+            0.2793,
+            0.0102
+          ]
+        },
+        {
+          "text": "恐れがあります。",
+          "translation": "There is a risk.",
+          "bbox": [
+            0.1076,
+            0.9005,
+            0.1427,
+            0.0102
+          ]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-5.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書 矢印一覧",
+          "translation": "WEB instruction manual arrow list",
+          "bbox": [
+            0.0369,
+            0.04,
+            0.3083,
+            0.0195
+          ]
+        },
+        {
+          "text": "取り付けます。 |",
+          "translation": "Install it. |",
+          "bbox": [
+            0.4178,
+            0.0395,
+            0.1566,
+            0.018
+          ]
+        },
+        {
+          "text": "取り外します。 |",
+          "translation": "Remove. |",
+          "bbox": [
+            0.6282,
+            0.039,
+            0.1433,
+            0.0185
+          ]
+        },
+        {
+          "text": "可動させます。",
+          "translation": "Make it movable.",
+          "bbox": [
+            0.8186,
+            0.041,
+            0.13,
+            0.0155
+          ]
+        },
+        {
+          "text": "BGM遊び",
+          "translation": "BGM play",
+          "bbox": [
+            0.1868,
+            0.1439,
+            0.1409,
+            0.0225
+          ]
+        },
+        {
+          "text": "※Aモード、Bモードで同様です。",
+          "translation": "*Same for A mode and B mode.",
+          "bbox": [
+            0.0967,
+            0.2088,
+            0.2757,
+            0.016
+          ]
+        },
+        {
+          "text": "BGMボタンを長押しします。\nBGMボタンを長押しするたびに\n表の順にBGMが再生、停止を繰り返します。",
+          "translation": "Press and hold the BGM button.\nEach time you press and hold the BGM button,\nthe BGM will play and stop in the order shown in the table.",
+          "bbox": [
+            0.0895,
+            0.2537,
+            0.3948,
+            0.0629
+          ]
+        },
+        {
+          "text": "順番",
+          "translation": "order",
+          "bbox": [
+            0.1227,
+            0.3566,
+            0.0357,
+            0.0125
+          ]
+        },
+        {
+          "text": "音声",
+          "translation": "audio",
+          "bbox": [
+            0.3126,
+            0.3551,
+            0.032,
+            0.013
+          ]
+        },
+        {
+          "text": "恐竜戦隊ジュウレンジャー (TVサイズ)",
+          "translation": "Dinosaur Sentai Zyuranger (TV size)",
+          "bbox": [
+            0.1983,
+            0.3866,
+            0.2557,
+            0.0125
+          ]
+        },
+        {
+          "text": "勝利を呼ぶ大反撃",
+          "translation": "A huge counterattack that brings victory",
+          "bbox": [
+            0.1989,
+            0.4141,
+            0.1197,
+            0.013
+          ]
+        },
+        {
+          "text": "※2の後は1に戻ります。",
+          "translation": "*After step 2, it will return to step 1.",
+          "bbox": [
+            0.0907,
+            0.4426,
+            0.1632,
+            0.011
+          ]
+        },
+        {
+          "text": "変身モードの切り替え",
+          "translation": "Switching transformation modes",
+          "bbox": [
+            0.1094,
+            0.5055,
+            0.2902,
+            0.025
+          ]
+        },
+        {
+          "text": "※Aモードで行います。 ※起動時は通常モードです。",
+          "translation": "*Perform in A mode. *Normal mode is used at startup.",
+          "bbox": [
+            0.0967,
+            0.5699,
+            0.4541,
+            0.016
+          ]
+        },
+        {
+          "text": "BGMボタンを短押しします。\nボタンを短押しするたびに下記表の順に\n切り替え音が鳴り、変身時の音声が切り替わります。",
+          "translation": "Briefly press the BGM button.\nEach time you briefly press the button, a transition sound will play in the order shown in the table below,\nand the transformation sound will change.",
+          "bbox": [
+            0.0895,
+            0.6144,
+            0.4553,
+            0.0634
+          ]
+        },
+        {
+          "text": "順番",
+          "translation": "order",
+          "bbox": [
+            0.1227,
+            0.7123,
+            0.0333,
+            0.0125
+          ]
+        },
+        {
+          "text": "変身モード 切り替え音",
+          "translation": "Transformation mode switching sound",
+          "bbox": [
+            0.2116,
+            0.7113,
+            0.1989,
+            0.014
+          ]
+        },
+        {
+          "text": "通常モード",
+          "translation": "Normal mode",
+          "bbox": [
+            0.1971,
+            0.7428,
+            0.0744,
+            0.0115
+          ]
+        },
+        {
+          "text": "ピ",
+          "translation": "Pi",
+          "bbox": [
+            0.321,
+            0.7428,
+            0.0175,
+            0.0115
+          ]
+        },
+        {
+          "text": "ティラノモード",
+          "translation": "Tyrannomode",
+          "bbox": [
+            0.1983,
+            0.7707,
+            0.0979,
+            0.0115
+          ]
+        },
+        {
+          "text": "ピピ",
+          "translation": "Beep beep",
+          "bbox": [
+            0.3216,
+            0.7707,
+            0.0302,
+            0.011
+          ]
+        },
+        {
+          "text": "マンモスモード",
+          "translation": "Mammoth Mode",
+          "bbox": [
+            0.1977,
+            0.7987,
+            0.1028,
+            0.011
+          ]
+        },
+        {
+          "text": "ピピピ",
+          "translation": "Beep beep",
+          "bbox": [
+            0.3222,
+            0.7982,
+            0.0441,
+            0.0115
+          ]
+        },
+        {
+          "text": "トリケラモード",
+          "translation": "Triceratops Mode",
+          "bbox": [
+            0.1983,
+            0.8267,
+            0.0973,
+            0.011
+          ]
+        },
+        {
+          "text": "ピピピピ",
+          "translation": "Beep beep beep",
+          "bbox": [
+            0.3222,
+            0.8262,
+            0.0641,
+            0.0115
+          ]
+        },
+        {
+          "text": "タイガーモード",
+          "translation": "Tiger Mode",
+          "bbox": [
+            0.1983,
+            0.8531,
+            0.1004,
+            0.0125
+          ]
+        },
+        {
+          "text": "ピピピピピ",
+          "translation": "Beep beep beep",
+          "bbox": [
+            0.3216,
+            0.8541,
+            0.078,
+            0.011
+          ]
+        },
+        {
+          "text": "プテラモード",
+          "translation": "Atera Mode",
+          "bbox": [
+            0.1977,
+            0.8816,
+            0.0871,
+            0.0115
+          ]
+        },
+        {
+          "text": "ピピピピピピ",
+          "translation": "Beep beep beep",
+          "bbox": [
+            0.3216,
+            0.8816,
+            0.0937,
+            0.0115
+          ]
+        },
+        {
+          "text": "BGMボタン",
+          "translation": "BGM button",
+          "bbox": [
+            0.682,
+            0.3561,
+            0.0937,
+            0.012
+          ]
+        },
+        {
+          "text": "※BGMボタンを押す際は\n矢印の方向に\n押し込むように\n押してください。",
+          "translation": "*When pressing the BGM button, please press it in the direction of the arrow.",
+          "bbox": [
+            0.714,
+            0.3836,
+            0.1735,
+            0.0619
+          ]
+        },
+        {
+          "text": "BGMボタン",
+          "translation": "BGM button",
+          "bbox": [
+            0.682,
+            0.7942,
+            0.0931,
+            0.0125
+          ]
+        },
+        {
+          "text": "※BGMボタンを押す際は\n矢印の方向に",
+          "translation": "※When pressing the BGM button,\nplease follow the arrow",
+          "bbox": [
+            0.714,
+            0.8222,
+            0.1735,
+            0.03
+          ]
+        },
+        {
+          "text": "押し込むように",
+          "translation": "As if pushing",
+          "bbox": [
+            0.7267,
+            0.8566,
+            0.1016,
+            0.011
+          ]
+        },
+        {
+          "text": "※2~6の変身音は共通で最後の鳴き声の音声が異なります。 ※6の後は1に戻ります。",
+          "translation": "*The transformation sounds for 2 to 6 are the same, but the final cry is different. *After 6, it will return to 1.",
+          "bbox": [
+            0.0895,
+            0.9091,
+            0.5846,
+            0.012
+          ]
+        },
+        {
+          "text": "押してください。",
+          "translation": "Please press.",
+          "bbox": [
+            0.7267,
+            0.8721,
+            0.1094,
+            0.013
+          ]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-6.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書 矢印一覧 ◆取り付けます。",
+          "translation": "WEB instruction manual Arrow list ◆Install.",
+          "bbox": [
+            0.0369,
+            0.0187,
+            0.5085,
+            0.0112
+          ]
+        },
+        {
+          "text": "取り外します。 |",
+          "translation": "Remove. |",
+          "bbox": [
+            0.6282,
+            0.0194,
+            0.1433,
+            0.0092
+          ]
+        },
+        {
+          "text": "Aモード: 変身、ロボ変形・合体遊び",
+          "translation": "A mode: Transform, robot transformation and combination play",
+          "bbox": [
+            0.11,
+            0.0717,
+            0.4589,
+            0.0122
+          ]
+        },
+        {
+          "text": "変身遊び",
+          "translation": "Transformation play",
+          "bbox": [
+            0.1941,
+            0.1142,
+            0.1227,
+            0.0119
+          ]
+        },
+        {
+          "text": "※ダイノバックラーはホルダーに取り付けた状態で行います。\n※守護獣メダルはティラノサウルスをセットした場合を例に説明します。",
+          "translation": "*The Dino Buckler must be attached to the holder.\n*The explanation will use the Guardian Beast Medal with a Tyrannosaurus Rex set as an example.",
+          "bbox": [
+            0.0967,
+            0.1463,
+            0.607,
+            0.0194
+          ]
+        },
+        {
+          "text": "①グリップを展開します。",
+          "translation": "1. Unfold the grip.",
+          "bbox": [
+            0.0883,
+            0.1791,
+            0.2134,
+            0.009
+          ]
+        },
+        {
+          "text": "②バックル取り外し音に合わせて、\nダイノバックラーを",
+          "translation": "② Release the Dyno Buckler in time with the sound of the buckle being released.",
+          "bbox": [
+            0.4776,
+            0.1796,
+            0.2944,
+            0.0197
+          ]
+        },
+        {
+          "text": "グリップ展開音のあと、",
+          "translation": "After the grip unfolding sound,",
+          "bbox": [
+            0.1288,
+            0.1916,
+            0.2007,
+            0.0077
+          ]
+        },
+        {
+          "text": "バックル取り外し音が鳴ります。",
+          "translation": "A buckle release sound will be heard.",
+          "bbox": [
+            0.1288,
+            0.2035,
+            0.2775,
+            0.0077
+          ]
+        },
+        {
+          "text": "取り外します。",
+          "translation": "Remove it.",
+          "bbox": [
+            0.4982,
+            0.2033,
+            0.1215,
+            0.008
+          ]
+        },
+        {
+          "text": "グリップ",
+          "translation": "grip",
+          "bbox": [
+            0.1088,
+            0.3103,
+            0.0611,
+            0.0067
+          ]
+        },
+        {
+          "text": "③図のように右腕を引きます。\nモーションセンサが反応して腕引き音が鳴り、\nその後に腕の突き出し音、バックラー回転音、\n変身待機音が順に流れます。",
+          "translation": "③Pull the right arm as shown in the image.\nThe motion sensor will react and play the arm-pulling sound,\nfollowed by the arm-extending sound, buckler-spinning sound,\nand transformation standby sound.",
+          "bbox": [
+            0.0883,
+            0.3357,
+            0.4395,
+            0.0433
+          ]
+        },
+        {
+          "text": "※バックル取り外し音が鳴ってから\n約1秒間はモーションセンサは",
+          "translation": "*The motion sensor will not operate for approximately one second after the buckle release sound is heard.",
+          "bbox": [
+            0.0895,
+            0.3919,
+            0.3065,
+            0.0197
+          ]
+        },
+        {
+          "text": "反応しません。\n※グリップを閉じると\nグリップ閉じ音が鳴ります。\n※グリップを閉じると",
+          "translation": "It doesn't respond.\n*When you close the grip,\nthe grip closing sound will be heard.\n*When you close the grip,",
+          "bbox": [
+            0.0901,
+            0.4158,
+            0.2557,
+            0.0428
+          ]
+        },
+        {
+          "text": "可動させます。",
+          "translation": "Make it movable.",
+          "bbox": [
+            0.8192,
+            0.0204,
+            0.1288,
+            0.0075
+          ]
+        },
+        {
+          "text": "モーションセンサは反応しません。",
+          "translation": "The motion sensor does not respond.",
+          "bbox": [
+            0.1094,
+            0.4628,
+            0.3005,
+            0.0075
+          ]
+        },
+        {
+          "text": "④音に合わせて動作を行います。",
+          "translation": "④ Perform the movements in time with the sound.",
+          "bbox": [
+            0.0883,
+            0.4879,
+            0.2781,
+            0.0087
+          ]
+        },
+        {
+          "text": "バックラー回転音時",
+          "translation": "Buckler rotation sound",
+          "bbox": [
+            0.5593,
+            0.4907,
+            0.1681,
+            0.0065
+          ]
+        },
+        {
+          "text": "ダイノバックラーを180°回します。",
+          "translation": "Rotate the Dyno Buckler 180°.",
+          "bbox": [
+            0.5792,
+            0.5021,
+            0.3035,
+            0.0077
+          ]
+        },
+        {
+          "text": "腕の突き出し音時",
+          "translation": "Arm thrust sound",
+          "bbox": [
+            0.0901,
+            0.5111,
+            0.1536,
+            0.0075
+          ]
+        },
+        {
+          "text": "腕を突き出します。",
+          "translation": "Stick your arms out.",
+          "bbox": [
+            0.1094,
+            0.5225,
+            0.1608,
+            0.008
+          ]
+        },
+        {
+          "text": "変身待機音時",
+          "translation": "Transformation standby sound",
+          "bbox": [
+            0.1076,
+            0.6624,
+            0.1167,
+            0.0077
+          ]
+        },
+        {
+          "text": "※変身待機音は\n5回ループします。\nその間に外側の4つの\nLEDが発光します。",
+          "translation": "*The transformation standby sound\nwill loop five times.\nDuring this time, the four outer\nLEDs will light up.",
+          "bbox": [
+            0.1058,
+            0.683,
+            0.2152,
+            0.0428
+          ]
+        },
+        {
+          "text": "⑤変身ボタンを押します。",
+          "translation": "⑤Press the transformation button.",
+          "bbox": [
+            0.0877,
+            0.7783,
+            0.2225,
+            0.0077
+          ]
+        },
+        {
+          "text": "変身ボタン",
+          "translation": "Transform button",
+          "bbox": [
+            0.5544,
+            0.7853,
+            0.0834,
+            0.0065
+          ]
+        },
+        {
+          "text": "カバーパーツが展開し、\nLEDが発光して変身音が鳴ります。",
+          "translation": "The cover parts unfold,\nthe LED lights up, and the transformation sound is heard.",
+          "bbox": [
+            0.1294,
+            0.7902,
+            0.3114,
+            0.0194
+          ]
+        },
+        {
+          "text": "wwww",
+          "translation": "wwww",
+          "bbox": [
+            0.7364,
+            0.797,
+            0.0266,
+            0.0097
+          ]
+        },
+        {
+          "text": "変身ボタンの短押し、長押しで変身音が変化します。\n短押し 短縮変身音が鳴ります。\n長押し 通常変身音が鳴ります。",
+          "translation": "The transformation sound changes depending on whether you press and hold the transformation button.\nShort press: The shortened transformation sound will play.\nLong press: The standard transformation sound will play.",
+          "bbox": [
+            0.0883,
+            0.8241,
+            0.4474,
+            0.0386
+          ]
+        },
+        {
+          "text": "※短押し長押しは通常モードの時のみ可能です。\n※ ⑤は ① ~ ④に関わらず、どのタイミングでも可能です。\n※一度変身するとモーションセンサは反応しません。",
+          "translation": "*Short press and long press are only possible in normal mode.\n*⑤ can be done at any time, regardless of ① to ④.\n*The motion sensor will not respond once you have transformed.",
+          "bbox": [
+            0.0901,
+            0.8791,
+            0.4909,
+            0.0356
+          ]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-7.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書 矢印一覧",
+          "translation": "WEB instruction manual arrow list",
+          "bbox": [
+            0.0419,
+            0.046,
+            0.3056,
+            0.0199
+          ]
+        },
+        {
+          "text": "取り付けます。",
+          "translation": "Install it.",
+          "bbox": [
+            0.42,
+            0.046,
+            0.1258,
+            0.0193
+          ]
+        },
+        {
+          "text": "取り外します。 | 可動させます。",
+          "translation": "Remove | Move",
+          "bbox": [
+            0.6285,
+            0.0443,
+            0.3164,
+            0.0216
+          ]
+        },
+        {
+          "text": "変身後:ロボ変形・合体遊び\n(大獣神合体遊び)",
+          "translation": "After transformation: Robot transformation and combination play\n(Daijuujin combination play)",
+          "bbox": [
+            0.1246,
+            0.1493,
+            0.3212,
+            0.0557
+          ]
+        },
+        {
+          "text": "※変身遊び後に行います。",
+          "translation": "*This will be done after the transformation game.",
+          "bbox": [
+            0.1013,
+            0.2317,
+            0.2181,
+            0.017
+          ]
+        },
+        {
+          "text": "BGMボタンを短押しします。\nボタンを短押しするたびに\n下記表の順に音声が鳴ります。",
+          "translation": "Briefly press the BGM button.\nEach time you briefly press the button,\nthe audio will play in the order shown in the table below.",
+          "bbox": [
+            0.0947,
+            0.2822,
+            0.275,
+            0.071
+          ]
+        },
+        {
+          "text": "音声",
+          "translation": "audio",
+          "bbox": [
+            0.308,
+            0.3901,
+            0.0318,
+            0.0136
+          ]
+        },
+        {
+          "text": "順番",
+          "translation": "order",
+          "bbox": [
+            0.1528,
+            0.3901,
+            0.0318,
+            0.0153
+          ]
+        },
+        {
+          "text": "ダイノクリスタル出現音",
+          "translation": "Dino Crystal appearance sound",
+          "bbox": [
+            0.2253,
+            0.4253,
+            0.1576,
+            0.0142
+          ]
+        },
+        {
+          "text": "ダイノクリスタル差し込み音",
+          "translation": "Dyno Crystal Insertion Sound",
+          "bbox": [
+            0.2253,
+            0.4566,
+            0.1875,
+            0.0142
+          ]
+        },
+        {
+          "text": "ダイノタンカー合体音",
+          "translation": "Dino Tanker Combination Sound",
+          "bbox": [
+            0.2259,
+            0.4878,
+            0.1438,
+            0.0148
+          ]
+        },
+        {
+          "text": "大獣神合体音",
+          "translation": "Daizyujin fusion sound",
+          "bbox": [
+            0.2253,
+            0.519,
+            0.0893,
+            0.0148
+          ]
+        },
+        {
+          "text": "※4の後は1に戻ります。",
+          "translation": "*After 4, it will return to 1.",
+          "bbox": [
+            0.1186,
+            0.5514,
+            0.1612,
+            0.0131
+          ]
+        },
+        {
+          "text": "変身後:変身解除",
+          "translation": "After transformation: Untransform",
+          "bbox": [
+            0.1408,
+            0.6337,
+            0.2235,
+            0.0278
+          ]
+        },
+        {
+          "text": "※変身遊び後に行います。",
+          "translation": "*This will be done after the transformation game.",
+          "bbox": [
+            0.1019,
+            0.7024,
+            0.2169,
+            0.017
+          ]
+        },
+        {
+          "text": "グリップの開閉を2往復します。",
+          "translation": "Open and close the grip twice.",
+          "bbox": [
+            0.0941,
+            0.7518,
+            0.257,
+            0.0193
+          ]
+        },
+        {
+          "text": "変身解除音が鳴り、変身前状態に戻ります。",
+          "translation": "The transformation cancellation sound will play and you will return to your pre-transformation state.",
+          "bbox": [
+            0.1324,
+            0.7797,
+            0.3595,
+            0.0193
+          ]
+        },
+        {
+          "text": "※グリップを閉じた状態からでも行えます。\n※変身解除をすると、 変身遊びのモーションセンサが",
+          "translation": "*This can be done even when the grip is closed. \n*When you cancel the transformation, the transformation play motion sensor",
+          "bbox": [
+            0.0953,
+            0.8285,
+            0.4578,
+            0.046
+          ]
+        },
+        {
+          "text": "反応するようになります。",
+          "translation": "It will become responsive.",
+          "bbox": [
+            0.1132,
+            0.883,
+            0.2211,
+            0.0176
+          ]
+        },
+        {
+          "text": "※BGMボタンを押す際は\n矢印の方向に",
+          "translation": "※When pressing the BGM button,\nplease follow the arrow",
+          "bbox": [
+            0.7124,
+            0.4872,
+            0.172,
+            0.0335
+          ]
+        },
+        {
+          "text": "押し込むように\n押してください。",
+          "translation": "Press to push it in.",
+          "bbox": [
+            0.7256,
+            0.527,
+            0.1084,
+            0.0312
+          ]
+        },
+        {
+          "text": "x2",
+          "translation": "x2",
+          "bbox": [
+            0.553,
+            0.732,
+            0.0497,
+            0.0233
+          ]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-8.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "Web instruction manual",
+          "bbox": [
+            0.0397,
+            0.0421,
+            0.1641,
+            0.0195
+          ]
+        },
+        {
+          "text": "矢印一覧 取り付けます。 |",
+          "translation": "Arrow list Install. |",
+          "bbox": [
+            0.2638,
+            0.0411,
+            0.3095,
+            0.0195
+          ]
+        },
+        {
+          "text": "取り外します。 |",
+          "translation": "Remove. |",
+          "bbox": [
+            0.6274,
+            0.0411,
+            0.1442,
+            0.02
+          ]
+        },
+        {
+          "text": "Bモード:ナックル攻撃遊び",
+          "translation": "Mode B: Knuckle attack play",
+          "bbox": [
+            0.1118,
+            0.1517,
+            0.3558,
+            0.0247
+          ]
+        },
+        {
+          "text": "ナックル攻撃遊び",
+          "translation": "Knuckle attack game",
+          "bbox": [
+            0.1382,
+            0.2412,
+            0.2332,
+            0.0247
+          ]
+        },
+        {
+          "text": "※ダイノバックラーはホルダーに取り付けた状態で行います。",
+          "translation": "*The Dyno Buckler must be attached to the holder.",
+          "bbox": [
+            0.0986,
+            0.3117,
+            0.5156,
+            0.0169
+          ]
+        },
+        {
+          "text": "①グリップを展開します。\nグリップ展開音のあと、",
+          "translation": "① Unfold the grip.\nAfter the grip unfolding sound,",
+          "bbox": [
+            0.0871,
+            0.3591,
+            0.2326,
+            0.0442
+          ]
+        },
+        {
+          "text": "②バックル取り外し音に合わせて、",
+          "translation": "② In sync with the sound of the buckle being removed,",
+          "bbox": [
+            0.47,
+            0.3607,
+            0.2855,
+            0.0179
+          ]
+        },
+        {
+          "text": "ダイノバックラーを",
+          "translation": "Dyno Buckler",
+          "bbox": [
+            0.4904,
+            0.3855,
+            0.1617,
+            0.0179
+          ]
+        },
+        {
+          "text": "バックル取り外し音が鳴ります。",
+          "translation": "A buckle release sound will be heard.",
+          "bbox": [
+            0.1262,
+            0.4092,
+            0.2686,
+            0.0184
+          ]
+        },
+        {
+          "text": "③図のように腕を突き出します。\nモーションセンサが\n反応して攻撃音が鳴ります。",
+          "translation": "③ Extend your arm as shown in the image.\nThe motion sensor will react and an attack sound will be heard.",
+          "bbox": [
+            0.0901,
+            0.6962,
+            0.2849,
+            0.0658
+          ]
+        },
+        {
+          "text": "※変身ボタンを押しても変身音は鳴りません。\n※BGMを鳴らすことができます。\n※グリップを閉じるとモーションセンサは",
+          "translation": "*The transformation sound will not play even if you press the transformation button.\n*BGM can be played.\n*The motion sensor will",
+          "bbox": [
+            0.0925,
+            0.7946,
+            0.3996,
+            0.0664
+          ]
+        },
+        {
+          "text": "反応しません。",
+          "translation": "It doesn't respond.",
+          "bbox": [
+            0.1106,
+            0.8689,
+            0.1268,
+            0.0163
+          ]
+        },
+        {
+          "text": "取り外します。",
+          "translation": "Remove it.",
+          "bbox": [
+            0.4892,
+            0.4107,
+            0.1178,
+            0.0169
+          ]
+        },
+        {
+          "text": "可動させます。",
+          "translation": "Make it movable.",
+          "bbox": [
+            0.8167,
+            0.0427,
+            0.1292,
+            0.0179
+          ]
+        }
+      ]
+    }
+  ]
+}

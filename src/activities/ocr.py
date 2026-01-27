@@ -87,14 +87,43 @@ async def ocr_page_activity(pdf_path: str, page_num: int) -> PageOCRResult:
         doc = fitz.open(pdf_path)
         page = doc[page_num]
 
-        # Render at 200 DPI for good OCR quality
+        # Document AI has a 10,000 pixel limit
+        # Calculate DPI to stay under limit while maintaining quality
+        page_width = page.rect.width
+        page_height = page.rect.height
+        max_dimension = max(page_width, page_height)
+
+        # Target 200 DPI for good OCR, but scale down if needed
         dpi = 200
         zoom = dpi / 72
+
+        # Check if rendered size would exceed 10k pixels or result in large file
+        rendered_width = page_width * zoom
+        rendered_height = page_height * zoom
+        max_rendered = max(rendered_width, rendered_height)
+
+        # Reduce resolution for large pages to stay under both pixel and file size limits
+        # Target: max 7000 pixels for very large pages to keep JPEG under ~3MB
+        if max_rendered > 9500:
+            # Very large pages need more aggressive scaling
+            zoom = 7000 / max_dimension
+            dpi = zoom * 72
+            activity.logger.info(f"Page {page_num}: Large page detected ({page_width:.0f}x{page_height:.0f}), reducing DPI to {dpi:.0f}")
+
         mat = fitz.Matrix(zoom, zoom)
         pix = page.get_pixmap(matrix=mat)
 
-        # Get PNG bytes
-        png_bytes = pix.tobytes("png")
+        # Get image bytes - use JPEG for large pages to reduce file size
+        # Document AI has ~10-20MB file size limits
+        image_bytes = pix.tobytes("png")
+        mime_type = "image/png"
+
+        # If image is too large, use JPEG compression
+        if len(image_bytes) > 10_000_000:  # 10 MB
+            image_bytes = pix.tobytes("jpeg", jpg_quality=95)
+            mime_type = "image/jpeg"
+            activity.logger.info(f"Page {page_num}: Using JPEG compression ({len(image_bytes) / 1024 / 1024:.1f} MB)")
+
         doc.close()
 
         # Send to Document AI
@@ -104,8 +133,8 @@ async def ocr_page_activity(pdf_path: str, page_num: int) -> PageOCRResult:
         name = f"projects/{PROJECT_ID}/locations/{DOCAI_LOCATION}/processors/{DOCAI_PROCESSOR_ID}"
 
         raw_document = documentai.RawDocument(
-            content=png_bytes,
-            mime_type="image/png",
+            content=image_bytes,
+            mime_type=mime_type,
         )
 
         request = documentai.ProcessRequest(

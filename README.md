@@ -1,10 +1,28 @@
-# TokuSolutions: Translating Toy Manuals (AI Tries, You Fix, Temporal Orchestrates)
+# TokuSolutions: OCR Translation with Temporal Workflows
+
+Japanese toy manual translator demonstrating Temporal workflow patterns. Extracts text from PDFs using Google Document AI, translates to English, and generates an interactive web viewer.
 
 <img src="images/kamen-rider-belt.jpg" alt="Repo Author wearing a Kamen Rider Belt">
 
-I buy a lot of Kamen Rider toys. The problem? All the manuals are in Japanese, and these toys have *a lot* of features.
+## What You'll Learn
 
-Google Translate on your phone works for simple text, but PDF translation is terrible—it loses layout context, mangles technical terms, and produces nonsense for complex instructions. This project uses Google Document AI for OCR with layout detection, batch translate via Google Translate API, clean up with Gemini AI using product context, then presents everything in an editable web interface. All orchestrated by Temporal workflows for reliable, parallel execution.
+**Temporal workflow concepts:**
+- Parent/child workflow orchestration
+- Fan-out/fan-in parallel execution
+- Activity retry policies tuned by operation type
+- Workflow queries for real-time progress
+- Deterministic workflow design
+- Activity heartbeats for long operations
+
+**Practical application:**
+- Batch OCR processing with Google Document AI
+- Translation API integration
+- LLM-powered cleanup with structured validation
+- Interactive web viewer with inline editing
+
+## What It Does
+
+Translates Japanese toy instruction manuals to English. I collect Kamen Rider transformation devices—all documentation is in Japanese. This automates translation while preserving layout context that phone-based translation loses.
 
 ## Quick Start
 
@@ -28,12 +46,9 @@ temporal server start-dev
 
 # Translate (Terminal 2)
 uv run python -m src.cli translate path/to/manual.pdf
-
-# View results
-python -m http.server 8000  # Open http://localhost:8000/
 ```
 
-Required `.env`:
+Required [.env](.env.example):
 ```bash
 ProjectID=your-gcp-project-id
 ProcessorID=your-documentai-processor-id
@@ -42,19 +57,19 @@ CREDENTIALS_PATH=credentials/service-account.json
 GEMINI_API_KEY=your-gemini-api-key  # Optional
 ```
 
-## What You Get
+## Web Viewer
 
-**Web Viewer** with search, tag filtering, and inline editing:
+Search, filter, and edit translations inline:
 
 <p align="center">
   <img src="images/websiteScreenshot.png" alt="Web Viewer" width="49%">
   <img src="images/Editor.png" alt="Inline Editor" width="49%">
 </p>
 
-- **Click any text block** to edit original text, translation, or bounding box coordinates
-- **Export changes** as JSON or submit via GitHub pull request for collaborative review
-- **Auto-tagging** by product line (CSM, DX, Memorial) and franchise (Kamen Rider, Sentai, Ultraman)
-- **Product links** to Tokullectibles store and translated Bandai blog posts
+- Click any text block to edit original text, translation, or bounding box
+- Export changes as JSON or submit via GitHub PR
+- Auto-tagging by product line (CSM, DX, Memorial) and franchise (Kamen Rider, Sentai, Ultraman)
+- Product links to Tokullectibles store and translated Bandai blog posts
 
 ## CLI Commands
 
@@ -64,16 +79,19 @@ GEMINI_API_KEY=your-gemini-api-key  # Optional
 # Basic translation
 uv run python -m src.cli translate manual.pdf
 
-# Translate with multiple workers (process multiple PDFs simultaneously)
+# Multiple workers (parallel processing)
 uv run python -m src.cli translate manual.pdf -w 5
 
-# Skip AI cleanup (faster, but less accurate)
+# Skip AI cleanup (faster, less accurate)
 uv run python -m src.cli translate manual.pdf --skip-cleanup
+
+# Provide product URL directly (skips search)
+uv run python -m src.cli translate manual.pdf --product-url "https://tokullectibles.com/products/..."
 
 # List manuals
 uv run python -m src.cli list
 
-# Add product URL
+# Add product URL to existing manual
 uv run python -m src.cli add-url "ManualName" "https://..."
 
 # Regenerate index
@@ -82,7 +100,7 @@ uv run python -m src.cli reindex
 
 ## Development Workflow
 
-For faster iteration when processing multiple manuals, run a persistent worker:
+Run a persistent worker to eliminate startup delay:
 
 ```bash
 # Terminal 1: Temporal server
@@ -91,35 +109,33 @@ temporal server start-dev
 # Terminal 2: Persistent worker
 uv run python -m src.worker
 
-# Terminal 3: Translate (no 2-second worker startup delay)
+# Terminal 3: Translate (instant start)
 uv run python -m src.cli translate manual.pdf
 ```
 
-The default `translate` command auto-starts workers for convenience, but this approach eliminates the startup delay.
-
-**Monitoring:** Temporal Web UI at http://localhost:8233 shows workflow execution, retry attempts, and parallel tasks.
+**Monitoring:** Temporal Web UI at [http://localhost:8233](http://localhost:8233) shows workflow execution, retry attempts, and parallel tasks.
 
 ## How Temporal Orchestrates Translation
 
-The system uses a [parent workflow](src/workflows/pdf_translation_workflow.py) that orchestrates four child workflows:
+Parent workflow ([pdf_translation_workflow.py](src/workflows/pdf_translation_workflow.py)) orchestrates four child workflows:
 
-1. **[OCRWorkflow](src/workflows/ocr_workflow.py)** - Extract text from PDF
-   - Product search on Tokullectibles
-   - Get PDF page count
-   - **Fan-out/fan-in**: Parallel OCR across all pages (0-N simultaneously)
+**1. [OCRWorkflow](src/workflows/ocr_workflow.py)** - Extract text from PDF
+- Product search on Tokullectibles
+- Get PDF page count
+- **Fan-out/fan-in**: Parallel OCR across all pages (0-N simultaneously)
 
-2. **[TranslationWorkflow](src/workflows/translation_workflow.py)** - Translate extracted text
-   - Batch translation via Google Translate API
+**2. [TranslationWorkflow](src/workflows/translation_workflow.py)** - Translate extracted text
+- Batch translation via Google Translate API
 
-3. **[SiteGenerationWorkflow](src/workflows/site_generation_workflow.py)** - Generate web viewer
-   - Convert pages to WebP images
-   - Create translations.json and viewer HTML
-   - Heartbeats every 5 pages (long-running activity)
+**3. [SiteGenerationWorkflow](src/workflows/site_generation_workflow.py)** - Generate web viewer
+- Convert pages to WebP images
+- Create translations.json and viewer HTML
+- Heartbeats every 5 pages (long-running activity)
 
-4. **[CleanupWorkflow](src/workflows/cleanup_workflow.py)** - Improve translation quality
-   - **Stage 1**: ftfy - Fix Unicode/OCR corruption (deterministic)
-   - **Stage 2**: Rule-based - Remove noise patterns (deterministic)
-   - **Stage 3**: Gemini AI - Context-aware corrections + tagging (non-deterministic)
+**4. [CleanupWorkflow](src/workflows/cleanup_workflow.py)** - Improve translation quality
+- **Stage 1**: ftfy - Fix Unicode/OCR corruption (deterministic)
+- **Stage 2**: Rule-based - Remove noise patterns (deterministic)
+- **Stage 3**: Gemini AI - Context-aware corrections + tagging (non-deterministic)
 
 <p align="center">
   <img src="images/temporal-child-workflows.png" alt="Child Workflows" width="49%">
@@ -127,14 +143,14 @@ The system uses a [parent workflow](src/workflows/pdf_translation_workflow.py) t
 </p>
 
 **Why child workflows?**
-- **Separation in Temporal UI**: Each phase visible as separate workflow execution
-- **Independent lifecycle**: Each phase has own event history and retry logic
-- **Query support**: Parent workflow exposes real-time progress via Temporal Queries
-- **Observability**: Better visibility into which phase is executing or failed
+- Separation in Temporal UI - each phase visible as distinct workflow execution
+- Independent lifecycle - each phase has own event history and retry logic
+- Query support - parent workflow exposes real-time progress
+- Observability - better visibility into which phase is executing or failed
 
 ### Real-time Progress Tracking
 
-The CLI polls the workflow using Temporal Queries (every 500ms) to display live progress:
+CLI polls workflow using Temporal Queries (every 500ms) to display live progress:
 
 ```
 📄 [1/4] OCR - Extracting text...
@@ -149,9 +165,9 @@ The CLI polls the workflow using Temporal Queries (every 500ms) to display live 
   ✓ Applied 5 AI corrections
 ```
 
-The parent workflow updates a `WorkflowProgress` state that includes phase tracking and sub-progress details from each child workflow.
+Parent workflow updates `WorkflowProgress` state with phase tracking and sub-progress from each child workflow.
 
-### Temporal Best Practices Demonstrated
+### Temporal Best Practices
 
 **1. Retry Policies** - Three strategies tuned for operation types:
 - **QUICK_RETRY**: Fast operations (file I/O) - 3 attempts, 1-10s backoff
@@ -160,13 +176,13 @@ The parent workflow updates a `WorkflowProgress` state that includes phase track
 
 **2. Activity Separation for Determinism**
 
-Why three separate cleanup activities instead of one? Temporal workflows must be deterministic:
+Why three cleanup activities instead of one? Temporal workflows must be deterministic:
 
-- **ftfy_cleanup_activity** - Deterministic Unicode fixes (always same output for same input)
+- **ftfy_cleanup_activity** - Deterministic Unicode fixes (always same output)
 - **rule_based_cleanup_activity** - Deterministic pattern removal (regex patterns)
 - **gemini_cleanup_activity** - Non-deterministic AI corrections (LLM responses vary)
 
-Benefits: Gemini can fail without breaking the workflow, different retry policies per operation type, each stage visible in Temporal UI.
+Benefits: Gemini can fail without breaking workflow, different retry policies per operation type, each stage visible in Temporal UI.
 
 **3. Heartbeats** - Long-running activities send heartbeats to prevent timeouts:
 - Site generation: Every 5 pages during image rendering
@@ -188,7 +204,17 @@ class GeminiCleanupResponse(BaseModel):
 
 Gemini returns JSON → Pydantic validates structure → Invalid responses trigger Temporal activity retry → Type safety across entire pipeline.
 
-### Performance & Cost
+## Key Files
+
+- [src/cli.py](src/cli.py) - CLI interface with auto-managed workers
+- [src/worker.py](src/worker.py) - Persistent Temporal worker
+- [src/workflows/](src/workflows/) - All workflow definitions
+- [src/activities/](src/activities/) - OCR, translation, site generation, cleanup activities
+- [src/cleanup.py](src/cleanup.py) - Three-stage cleanup pipeline (ftfy → rules → LLM)
+- [src/tokullectibles.py](src/tokullectibles.py) - Product search and metadata retrieval
+- [src/tagging.py](src/tagging.py) - Auto-tagging system (Gemini + regex fallback)
+
+## Performance & Cost
 
 **Typical 20-page manual:**
 - Time: ~50 seconds with single worker (30s OCR parallel, 5s translation, 10s AI cleanup, 5s site generation)
