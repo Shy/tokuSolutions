@@ -48,8 +48,16 @@ export function enterBlockEditMode(pageIdx, blockIdx) {
     selection.removeAllRanges();
     selection.addRange(range);
 
-    // Save on blur
-    const handleBlur = () => {
+    // Save on blur (but not if moving to bbox editor within same block)
+    const handleBlur = (e) => {
+      // Check if the new focus target is within the same text-item
+      const relatedTarget = e.relatedTarget;
+      if (relatedTarget && textItem.contains(relatedTarget)) {
+        // User is moving focus to bbox editor or other element within this block
+        // Don't exit edit mode yet
+        return;
+      }
+
       saveTranslationEdit(pageIdx, blockIdx);
       translationDiv.removeEventListener('blur', handleBlur);
       translationDiv.removeEventListener('keydown', handleKeydown);
