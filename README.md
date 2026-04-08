@@ -2,7 +2,13 @@
 
 Japanese toy manual translator demonstrating Temporal workflow patterns. Extracts text from PDFs using Google Document AI, translates to English, and generates an interactive web viewer.
 
-<img src="images/kamen-rider-belt.jpg" alt="Repo Author wearing a Kamen Rider Belt">
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=C_fE8T-DwiU">
+    <img src="https://img.youtube.com/vi/C_fE8T-DwiU/maxresdefault.jpg" alt="TokuSolutions Demo" />
+    <br/>
+    <img src="https://img.shields.io/badge/▶_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo" />
+  </a>
+</p>
 
 ## What You'll Learn
 
