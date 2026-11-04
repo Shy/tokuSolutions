@@ -1,11 +1,12 @@
 // GitHub integration module
-import { GITHUB_CONFIG } from './config.js';
-import { state, EditSession } from './state.js';
-import { ErrorHandler } from './errors.js';
+import { GITHUB_CONFIG } from './config.js?v=14';
+import { state, EditSession } from './state.js?v=14';
+import { ErrorHandler } from './errors.js?v=14';
+import { serializeManual } from './manual-data.js?v=14';
 
 // Submit edits via GitHub PR (Hybrid Approach: Copy JSON + Open GitHub Editor)
 export async function submitToGitHub(currentManual) {
-  if (state.editedBlocks.size === 0) {
+  if (!state.editSession?.dirty) {
     ErrorHandler.user('No edits to save');
     return;
   }
@@ -20,7 +21,7 @@ export async function submitToGitHub(currentManual) {
   const [owner, repo] = GITHUB_CONFIG.REPO.split('/');
 
   // Generate JSON content
-  const jsonContent = JSON.stringify(currentManual, null, 2);
+  const jsonContent = serializeManual(currentManual);
 
   // Show instructions modal
   showSubmitInstructions(jsonContent, owner, repo, FILE_PATH, manualName);
@@ -28,83 +29,28 @@ export async function submitToGitHub(currentManual) {
 
 // Show submit instructions modal
 function showSubmitInstructions(jsonContent, owner, repo, filePath, manualName) {
-  // Create modal backdrop
   const backdrop = document.createElement('div');
-  backdrop.style.cssText = `
-        position: fixed;
-        top: 0;
-        left: 0;
-        right: 0;
-        bottom: 0;
-        background: rgba(0, 0, 0, 0.7);
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        z-index: 10000;
-    `;
-
-  // Create modal
+  backdrop.className = 'submit-dialog-backdrop';
   const modal = document.createElement('div');
-  modal.style.cssText = `
-        background: white;
-        padding: 2rem;
-        border-radius: 8px;
-        max-width: 600px;
-        width: 90%;
-        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    `;
-
-  // Create content
+  modal.className = 'submit-dialog';
   modal.innerHTML = `
-        <h2 style="margin-top: 0; color: #2d3748;">Submit Changes</h2>
-
-        <p style="color: #4a5568; line-height: 1.6;">
-            Changes are submitted via <a href="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests" target="_blank" style="color: #4299e1; text-decoration: none;">GitHub Pull Requests</a>.
-        </p>
-
-        <div style="background: #f7fafc; padding: 1rem; border-radius: 4px; margin: 1rem 0;">
-            <strong style="color: #2d3748;">Step 1: Copy your changes</strong>
-            <button id="copyJsonBtn" style="
-                display: block;
-                margin-top: 0.5rem;
-                padding: 0.5rem 1rem;
-                background: #48bb78;
-                color: white;
-                border: none;
-                border-radius: 4px;
-                cursor: pointer;
-                font-size: 0.9rem;
-            "><i class="fas fa-copy"></i> Copy JSON</button>
-            <span id="copyStatus" style="color: #48bb78; margin-left: 0.5rem; display: none;"><i class="fas fa-check"></i> Copied!</span>
-        </div>
-
-        <div style="background: #f7fafc; padding: 1rem; border-radius: 4px; margin: 1rem 0;">
-            <strong style="color: #2d3748;">Step 2: Open editor and paste</strong>
-            <button id="openGithubBtn" style="
-                display: block;
-                margin-top: 0.5rem;
-                padding: 0.5rem 1rem;
-                background: #4299e1;
-                color: white;
-                border: none;
-                border-radius: 4px;
-                cursor: pointer;
-                font-size: 0.9rem;
-            "><i class="fab fa-github"></i> Open in GitHub</button>
-        </div>
-
-        <div style="display: flex; gap: 1rem; margin-top: 1.5rem;">
-            <button id="closeModalBtn" style="
-                flex: 1;
-                padding: 0.75rem;
-                background: #e2e8f0;
-                color: #2d3748;
-                border: none;
-                border-radius: 4px;
-                cursor: pointer;
-                font-size: 0.9rem;
-            ">Close</button>
-        </div>
+    <h2>Submit Changes</h2>
+    <p>
+      Changes are submitted through
+      <a href="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests" target="_blank" rel="noreferrer">GitHub Pull Requests</a>.
+    </p>
+    <div class="submit-step">
+      <strong>Step 1: Copy your changes</strong>
+      <button id="copyJsonBtn" class="btn btn-success" type="button">Copy JSON</button>
+      <span id="copyStatus" class="submit-copy-status hidden">Copied!</span>
+    </div>
+    <div class="submit-step">
+      <strong>Step 2: Open the file editor and paste</strong>
+      <button id="openGithubBtn" class="btn" type="button">Open in GitHub</button>
+    </div>
+    <div class="dialog-actions">
+      <button id="closeModalBtn" class="btn btn-secondary" type="button">Close</button>
+    </div>
     `;
 
   backdrop.appendChild(modal);
@@ -116,28 +62,27 @@ function showSubmitInstructions(jsonContent, owner, repo, filePath, manualName) 
   copyBtn.addEventListener('click', async () => {
     try {
       await navigator.clipboard.writeText(jsonContent);
-      copyStatus.style.display = 'inline';
-      copyBtn.innerHTML = '<i class="fas fa-check"></i> Copied!';
+      copyStatus.classList.remove('hidden');
+      copyBtn.textContent = 'Copied!';
       setTimeout(() => {
-        copyBtn.innerHTML = '<i class="fas fa-copy"></i> Copy JSON';
-        copyStatus.style.display = 'none';
+        copyBtn.textContent = 'Copy JSON';
+        copyStatus.classList.add('hidden');
       }, 2000);
     } catch (err) {
       // Fallback for older browsers
       const textarea = document.createElement('textarea');
       textarea.value = jsonContent;
-      textarea.style.position = 'fixed';
-      textarea.style.opacity = '0';
+      textarea.className = 'clipboard-fallback';
       document.body.appendChild(textarea);
       textarea.select();
       document.execCommand('copy');
       document.body.removeChild(textarea);
 
-      copyStatus.style.display = 'inline';
-      copyBtn.innerHTML = '<i class="fas fa-check"></i> Copied!';
+      copyStatus.classList.remove('hidden');
+      copyBtn.textContent = 'Copied!';
       setTimeout(() => {
-        copyBtn.innerHTML = '<i class="fas fa-copy"></i> Copy JSON';
-        copyStatus.style.display = 'none';
+        copyBtn.textContent = 'Copy JSON';
+        copyStatus.classList.add('hidden');
       }, 2000);
     }
   });
@@ -165,14 +110,14 @@ function showSubmitInstructions(jsonContent, owner, repo, filePath, manualName) 
 
 // Download JSON file (alternative to GitHub submission)
 export function downloadJSON(currentManual) {
-  if (state.editedBlocks.size === 0) {
+  if (!state.editSession?.dirty) {
     ErrorHandler.user('No edits to save');
     return;
   }
 
   const manualName = state.currentManualName || 'manual';
 
-  const jsonContent = JSON.stringify(currentManual, null, 2);
+  const jsonContent = serializeManual(currentManual);
   const blob = new Blob([jsonContent], { type: 'application/json' });
   const url = URL.createObjectURL(blob);
 
@@ -184,6 +129,6 @@ export function downloadJSON(currentManual) {
   document.body.removeChild(a);
   URL.revokeObjectURL(url);
 
-  EditSession.markClean();
+  state.editSession.markClean();
   alert('JSON file downloaded successfully!\n\nYou can now submit this file to GitHub manually.');
 }

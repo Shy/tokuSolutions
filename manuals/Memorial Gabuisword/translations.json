@@ -1,0 +1,1151 @@
+{
+  "meta": {
+    "manual_name": "Memorial Gabuisword",
+    "source": "Memorial Gabuisword.pdf",
+    "source_lang": "ja",
+    "target_lang": "en",
+    "source_url": "",
+    "blog_url": "",
+    "pages": 10,
+    "blocks": 217,
+    "thumbnail": "pages/page-0.webp",
+    "tags": ["kamen-rider", "memorial"]
+  },
+  "pages": [
+    {
+      "image": "pages/page-0.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0369, 0.0297, 0.1656, 0.0129]
+        },
+        {
+          "text": "©東映",
+          "translation": "©Toei",
+          "bbox": [0.2991, 0.0537, 0.0314, 0.0057]
+        },
+        {
+          "text": "ガブリカリバー",
+          "translation": "Gaburicalibur",
+          "bbox": [0.2737, 0.1009, 0.339, 0.0279]
+        },
+        {
+          "text": "-MEMORIAL EDITION- の遊び方",
+          "translation": "How to Play the -MEMORIAL EDITION-",
+          "bbox": [0.1529, 0.1328, 0.6834, 0.0251]
+        },
+        {
+          "text": "セット内容",
+          "translation": "Set Contents",
+          "bbox": [0.1082, 0.2133, 0.1148, 0.014]
+        },
+        {
+          "text": "ガブリカリバー -MEMORIAL EDITION-1",
+          "translation": "Gaburicalibur -MEMORIAL EDITION- ... 1",
+          "bbox": [0.2918, 0.2892, 0.4139, 0.0115]
+        },
+        {
+          "text": "通常刃パーツ･･･1",
+          "translation": "Standard blade part... 1",
+          "bbox": [0.2399, 0.3776, 0.1492, 0.0118]
+        },
+        {
+          "text": "獣電池(パラサガン)･･･1",
+          "translation": "Beast Battery (Parasagun)... 1",
+          "bbox": [0.2767, 0.4345, 0.2097, 0.0122]
+        },
+        {
+          "text": "※WEB取扱説明書内の画像はイメージです。",
+          "translation": "*The images in the online instruction manual are for illustrative purposes only.",
+          "bbox": [0.0731, 0.4896, 0.3317, 0.0104]
+        },
+        {
+          "text": "合体用差し替え刃パーツ... 1",
+          "translation": "Blade part for combination (interchangeable) ... 1",
+          "bbox": [0.5861, 0.378, 0.2495, 0.0115]
+        },
+        {
+          "text": "獣電池 (ザクトル)…1",
+          "translation": "Beast Battery (Zakutor)... 1",
+          "bbox": [0.687, 0.4345, 0.1873, 0.0125]
+        },
+        {
+          "text": "△ 注意 お買い上げのお客様へ 必ずお読みください。\n●本商品の対象年齢は15才以上です。 対象年齢未満のお子様には絶対に与えないでください。 ボタン電池、電池ぶた、ねじなどの誤飲事故に\n注意してください。 ●尖った部分や鋭い部分がありますので、取扱いや保管場所に注意してください。思わぬケガをする恐れがあります。●耳の\n近くで使用してはいけません。 誤って使用すると、聴覚を損なう恐れがあります。●本商品には電子部品を使用しております。 ペースメーカーを\nご使用の方は、本商品を身体に近づけないように注意してください。 ●LEDの光の点滅を見続けないでください。 気分が悪くなったりする恐れが\nあります。 付属の電池は玩具です。思わぬ事故につながる恐れがあるので、他の用途には使用しないでください。 《電池を誤使用すると発熱・\n破裂・液漏れの恐れがあります。 下記に注意してください》 ●万一、 ボタン電池を飲み込んだとき、ボタン電池から漏れた液が目に入ったときは、\nすぐに医師に相談してください。 漏れた液が皮膚や服に付いたときは水で洗ってください。 ●ボタン電池は飲み込むと危険です。 お子様の手の\n届かないところに保管してください。●古い電池と新しい電池、いろいろな種類の電池をまぜて使わないでください。 ●十一 (プラスマイナス) を正しく\nセットしてください。●ショートさせたり充電、分解、加熱、火の中に入れたりしないでください。 廃棄するときは、 自治体の廃棄物処理の指示に\n従ってください。",
+          "translation": "△ Caution — To customers who purchased this product: Please read carefully.\n● This product is for Ages 15+. Do not give it to children under the recommended age. Be careful to prevent accidental ingestion of button batteries, battery covers, screws, etc. ● This product has pointed or sharp parts; handle and store with care to avoid accidental injury. ● Do not use near the ear. Improper use may impair hearing. ● This product contains electronic parts. If you use a pacemaker, keep this product away from your body. ● Do not stare at flashing LED light; it may cause you to feel unwell. ● The included batteries are intended for use with this toy. Do not use them for other purposes, as this may cause an accident. 《Improper use of batteries may cause heat generation, rupture, or leakage. Observe the following》 ● If a button battery is swallowed, or battery fluid leaks into the eye, consult a doctor immediately. If leaked fluid gets on skin or clothing, wash with water. ● Button batteries are dangerous if swallowed. Keep out of reach of children. ● Do not mix old and new batteries or different types of batteries. ● Insert batteries with the (+) and (−) terminals set correctly. ● Do not short-circuit, recharge, disassemble, heat, or throw batteries into a fire. When disposing of batteries, follow local municipal disposal instructions.",
+          "bbox": [0.0882, 0.5415, 0.8242, 0.1342]
+        },
+        {
+          "text": "<使用上の注意> ●本商品は精密に作られています。無理な力を加えたり、落としたりすると破損する恐れがあります。 本商品は精密な電子部品で\n構成されています。 落としたり、水にぬらしたり、汚したり、分解したりしないでください。 また、高温・低温になるところでの使用、保管は避けてください。\n●プラスチック梱包材は、開封後はすぐに捨ててください。 本商品には塗装部分がありますので、 保管の際には他のもの (樹脂製品や家具、\nソファー)と接触しないようにしてください。色が移る場合があります。 ●可動部分・取付部分を無理な方向に強く引っ張ったり、曲げたりしないでくだ\nさい。発音の一部にイントネーションが違っていたり、 商品の特性上聞き取りにくいものがありますが、ご了承ください。 ●ガブリカリバー\n-MEMORIAL EDITION-には、対応している商品以外はセットしないでください。故障や破損の原因となります。 ●付属の獣電池は、対応している\n商品以外にはセットしないでください。故障や破損の原因となります。",
+          "translation": "<Precautions for Use> ● This product is finely made; applying excessive force or dropping it may cause damage. This product contains delicate electronic components. Do not drop, get wet, dirty, or disassemble it. Also avoid using or storing it in places subject to high or low temperatures. ● Dispose of plastic packing material immediately after opening. Because this product has painted surfaces, do not store it in contact with other items (resin products, furniture, sofas), as color transfer may occur. ● Do not forcefully pull or bend movable parts or attachment points in unnatural directions. Some pronunciations may have different intonation or be difficult to hear due to product characteristics; please understand this. ● Do not insert items other than compatible products into the Gaburicalibur -MEMORIAL EDITION-; doing so may cause malfunction or damage. ● Do not insert the included Beast Batteries into products other than compatible items; doing so may cause malfunction or damage.",
+          "bbox": [0.081, 0.6904, 0.8381, 0.0798]
+        },
+        {
+          "text": "! 振り回さない!!",
+          "translation": "Do not swing it around!",
+          "bbox": [0.3492, 0.8082, 0.2115, 0.0183]
+        },
+        {
+          "text": "! 落とさない!!",
+          "translation": "Do not drop it!",
+          "bbox": [0.6145, 0.8082, 0.1903, 0.0172]
+        },
+        {
+          "text": "! 注意",
+          "translation": "! Caution",
+          "bbox": [0.1486, 0.8321, 0.1341, 0.0272]
+        },
+        {
+          "text": "この枠内では、本商品を",
+          "translation": "Inside this box, we list precautions to be aware of when using this product.",
+          "bbox": [0.1094, 0.8916, 0.1613, 0.0093]
+        },
+        {
+          "text": "ご使用になるときに、\n注意していただきたいことを\n記載しております。",
+          "translation": "We have listed points to note when using the product.",
+          "bbox": [0.11, 0.9055, 0.1952, 0.0372]
+        },
+        {
+          "text": "本製品は精密機器のため、\n高所から落とさないよう\nご注意ください。",
+          "translation": "As this product is a precision instrument, please take care not to drop it from a height.",
+          "bbox": [0.6127, 0.84, 0.177, 0.0376]
+        },
+        {
+          "text": "xx",
+          "translation": "xx",
+          "bbox": [0.4876, 0.8908, 0.206, 0.0476]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.4931, 0.9749, 0.0097, 0.0093]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-1.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0375, 0.0417, 0.1656, 0.0181]
+        },
+        {
+          "text": "各部名称",
+          "translation": "Parts Identification",
+          "bbox": [0.1921, 0.1438, 0.116, 0.0246]
+        },
+        {
+          "text": "ガブリカリバー",
+          "translation": "Gabuisword",
+          "bbox": [0.1776, 0.2283, 0.1438, 0.0176]
+        },
+        {
+          "text": "-MEMORIAL EDITION-",
+          "translation": "-MEMORIAL EDITION-",
+          "bbox": [0.1166, 0.2514, 0.2489, 0.0156]
+        },
+        {
+          "text": "ポンプ",
+          "translation": "Pump",
+          "bbox": [0.5511, 0.2589, 0.0508, 0.0126]
+        },
+        {
+          "text": "トリガー",
+          "translation": "Trigger",
+          "bbox": [0.6332, 0.2846, 0.058, 0.0136]
+        },
+        {
+          "text": "【正面】",
+          "translation": "[Front]",
+          "bbox": [0.2, 0.3112, 0.0471, 0.0146]
+        },
+        {
+          "text": "【背面】",
+          "translation": "[Back]",
+          "bbox": [0.2006, 0.4505, 0.0453, 0.0136]
+        },
+        {
+          "text": "グリップ",
+          "translation": "Grip",
+          "bbox": [0.6266, 0.3781, 0.061, 0.0141]
+        },
+        {
+          "text": "下アゴ",
+          "translation": "Lower Jaw",
+          "bbox": [0.2749, 0.3881, 0.0508, 0.0141]
+        },
+        {
+          "text": "グリップロック解除ボタン",
+          "translation": "Grip Lock Release Button",
+          "bbox": [0.4435, 0.4118, 0.1891, 0.0136]
+        },
+        {
+          "text": "通常刃パーツ",
+          "translation": "Standard Blade Part",
+          "bbox": [0.1692, 0.6259, 0.1353, 0.0161]
+        },
+        {
+          "text": "【天面】 ロック解除ボタン",
+          "translation": "[Top] Lock Release Button",
+          "bbox": [0.5946, 0.6234, 0.2012, 0.0151]
+        },
+        {
+          "text": "獣電池",
+          "translation": "Beast Battery",
+          "bbox": [0.2018, 0.7738, 0.0701, 0.0176]
+        },
+        {
+          "text": "ボタン",
+          "translation": "Button",
+          "bbox": [0.3994, 0.7843, 0.0489, 0.0121]
+        },
+        {
+          "text": "プレート",
+          "translation": "Plate",
+          "bbox": [0.4804, 0.7858, 0.0634, 0.0136]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.49, 0.9628, 0.0181, 0.0196]
+        },
+        {
+          "text": "スリット",
+          "translation": "Slit",
+          "bbox": [0.5795, 0.7335, 0.0586, 0.0121]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-2.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書 矢印一覧 ■ 取り付けます。 |",
+          "translation": "WEB Instruction Manual — Arrow List — ■ Attach.",
+          "bbox": [0.0375, 0.0509, 0.5372, 0.0274]
+        },
+        {
+          "text": "取り外します。 | 可動させます。",
+          "translation": "Remove. | Make movable.",
+          "bbox": [0.6284, 0.0503, 0.3196, 0.0255]
+        },
+        {
+          "text": "通常刃パーツの取り付け方 / 取り外し方",
+          "translation": "How to attach/remove the Standard Blade Part",
+          "bbox": [0.11, 0.1913, 0.4755, 0.0287]
+        },
+        {
+          "text": "取り付け方",
+          "translation": "Attaching",
+          "bbox": [0.1033, 0.2676, 0.0967, 0.0222]
+        },
+        {
+          "text": "通常刃パーツをガブリカリバーにまっすぐ取り付けます。",
+          "translation": "Attach the Standard Blade Part straight onto the GaburiCalibur.",
+          "bbox": [0.0888, 0.3231, 0.4024, 0.0183]
+        },
+        {
+          "text": "ガブリカリバー-MEMORIAL EDITION-",
+          "translation": "GaburiCalibur -MEMORIAL EDITION-",
+          "bbox": [0.5885, 0.3316, 0.3148, 0.017]
+        },
+        {
+          "text": "取り外し方",
+          "translation": "Removing",
+          "bbox": [0.1027, 0.5973, 0.0955, 0.0235]
+        },
+        {
+          "text": "通常刃パーツの天面にある\nロック解除ボタンを押しながら\n矢印の方向に取り外します。",
+          "translation": "While pressing the lock release button on the top of the Standard Blade Part, remove it in the direction of the arrow.",
+          "bbox": [0.0888, 0.6547, 0.2181, 0.0692]
+        },
+        {
+          "text": "通常刃パーツ 【拡大図】",
+          "translation": "Standard Blade Part [Enlarged View]",
+          "bbox": [0.3063, 0.4504, 0.1867, 0.03]
+        },
+        {
+          "text": "スリット",
+          "translation": "Slit",
+          "bbox": [0.5426, 0.5294, 0.058, 0.017]
+        },
+        {
+          "text": "※スリットを合わせて\n取り付けます。",
+          "translation": "※Align the slits and attach.",
+          "bbox": [0.623, 0.5013, 0.1547, 0.0424]
+        },
+        {
+          "text": "【天面】 ロック解除ボタン",
+          "translation": "[Top] Lock release button",
+          "bbox": [0.4943, 0.5933, 0.2006, 0.0176]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.49, 0.9537, 0.0181, 0.0209]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-3.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書 矢印一覧",
+          "translation": "Web Instruction Manual: List of Arrows",
+          "bbox": [0.0369, 0.0352, 0.3088, 0.0171]
+        },
+        {
+          "text": "取り付けます。 |",
+          "translation": "Attach.",
+          "bbox": [0.4181, 0.0347, 0.1553, 0.0167]
+        },
+        {
+          "text": "取り外します。 | 可動させます。",
+          "translation": "Remove. | Make movable.",
+          "bbox": [0.6284, 0.0343, 0.3196, 0.0171]
+        },
+        {
+          "text": "電池の入れ方",
+          "translation": "How to insert the batteries",
+          "bbox": [0.1764, 0.1292, 0.1583, 0.0176]
+        },
+        {
+          "text": "※音が小さくなって聞き取りにくくなったり、\n音が止まるなどの誤動作をする場合や、\nLEDの発光が弱くなった場合は、\nすべて新しい電池に交換してください。",
+          "translation": "*If the sound becomes faint and hard to hear, if the sound stops or other malfunctions occur, or if the LED's illumination becomes weak, replace all batteries with new ones.",
+          "bbox": [0.0906, 0.1802, 0.3752, 0.076]
+        },
+        {
+          "text": "①カバーパーツを取り外します。",
+          "translation": "① Remove the cover part.",
+          "bbox": [0.081, 0.2716, 0.229, 0.0136]
+        },
+        {
+          "text": "ボタン電池は",
+          "translation": "Button cell batteries:",
+          "bbox": [0.5221, 0.2255, 0.0634, 0.007]
+        },
+        {
+          "text": "LR44 × 3",
+          "translation": "LR44 × 3",
+          "bbox": [0.8145, 0.16, 0.0659, 0.0136]
+        },
+        {
+          "text": "ボタン電池(LR44) 3個使用(付)",
+          "translation": "Uses 3 button cell batteries (LR44) (included)",
+          "bbox": [0.7668, 0.1908, 0.1378, 0.0079]
+        },
+        {
+          "text": "●セットされている電池は、テスト用です。",
+          "translation": "● The included batteries are for testing purposes.",
+          "bbox": [0.7571, 0.2079, 0.1613, 0.0066]
+        },
+        {
+          "text": "上側が土に下側がに\nなるようにセットします。",
+          "translation": "Set the button batteries so the top side is + and the bottom side is -.",
+          "bbox": [0.5215, 0.2382, 0.1166, 0.0193]
+        },
+        {
+          "text": "電池ぶた",
+          "translation": "Battery cover",
+          "bbox": [0.7571, 0.2334, 0.0665, 0.0105]
+        },
+        {
+          "text": "ネジー",
+          "translation": "Screw",
+          "bbox": [0.6731, 0.2523, 0.0429, 0.0114]
+        },
+        {
+          "text": "ポン",
+          "translation": "Pon",
+          "bbox": [0.7631, 0.2681, 0.0133, 0.0035]
+        },
+        {
+          "text": "【背面】",
+          "translation": "[Back]",
+          "bbox": [0.4193, 0.2752, 0.0471, 0.0123]
+        },
+        {
+          "text": "+ +",
+          "translation": "+ +",
+          "bbox": [0.606, 0.273, 0.0435, 0.007]
+        },
+        {
+          "text": "+",
+          "translation": "+",
+          "bbox": [0.6616, 0.273, 0.0157, 0.007]
+        },
+        {
+          "text": "②-2",
+          "translation": "②-2",
+          "bbox": [0.7118, 0.2866, 0.0338, 0.0092]
+        },
+        {
+          "text": "②電池ぶたを取り外します。",
+          "translation": "② Remove the battery cover.",
+          "bbox": [0.081, 0.291, 0.1982, 0.0119]
+        },
+        {
+          "text": "②-1 ガブリカリバー背面の",
+          "translation": "②-1 On the back of the Gaburi Calibur",
+          "bbox": [0.0973, 0.3086, 0.1915, 0.0127]
+        },
+        {
+          "text": "電池ぶたのネジを+または、",
+          "translation": "Turn the battery cover screw with a + or - screwdriver.",
+          "bbox": [0.1378, 0.3301, 0.1994, 0.011]
+        },
+        {
+          "text": "ドライバーで矢印の方向に回し、",
+          "translation": "Turn it in the direction of the arrow using a screwdriver,",
+          "bbox": [0.1583, 0.3481, 0.223, 0.0119]
+        },
+        {
+          "text": "②-2 電池ぶたを\n矢印の方向に取り外します。\n③ボタン電池を入れます。\n古いボタン電池を取り外して、\n新しいボタン電池3個 (LR44・別売り)を\n+に注意してセットします。\n④電池ぶたを戻します。\n⑤カバーパーツを戻します。",
+          "translation": "②-2 Remove the battery cover in the direction of the arrow.\n③ Insert the button batteries. Remove the old button batteries and insert three new button batteries (LR44; sold separately), taking care to observe the + and - polarities.\n④ Replace the battery cover.\n⑤ Replace the cover part.",
+          "bbox": [0.0804, 0.364, 0.3021, 0.1402]
+        },
+        {
+          "text": "⑤",
+          "translation": "⑤",
+          "bbox": [0.8133, 0.4422, 0.0097, 0.0105]
+        },
+        {
+          "text": "カバーパーツ",
+          "translation": "Cover part",
+          "bbox": [0.7698, 0.5284, 0.1015, 0.011]
+        },
+        {
+          "text": "電源の入れ方",
+          "translation": "How to turn on the power",
+          "bbox": [0.1764, 0.5934, 0.1577, 0.0185]
+        },
+        {
+          "text": "本体背面の電源スイッチをON)にします。\n→LEDが光り、起動音が鳴ります。",
+          "translation": "Set the power switch on the back of the unit to ON. → The LED will light and a startup sound will play.",
+          "bbox": [0.1003, 0.6479, 0.3347, 0.0325]
+        },
+        {
+          "text": "【背面】",
+          "translation": "[Back]",
+          "bbox": [0.1807, 0.7046, 0.0471, 0.0123]
+        },
+        {
+          "text": "※カバーパーツを取り外した状態から始めます。",
+          "translation": "*Start with the cover parts removed.",
+          "bbox": [0.4671, 0.5956, 0.4199, 0.0145]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.4882, 0.9697, 0.0193, 0.0119]
+        },
+        {
+          "text": "ボタン",
+          "translation": "Button",
+          "bbox": [0.545, 0.8659, 0.0218, 0.0044]
+        },
+        {
+          "text": "入れたりしないで",
+          "translation": "Don't put it in.",
+          "bbox": [0.5444, 0.8716, 0.0562, 0.0053]
+        },
+        {
+          "text": "ON",
+          "translation": "ON",
+          "bbox": [0.7378, 0.8884, 0.0272, 0.0092]
+        },
+        {
+          "text": "OFF",
+          "translation": "OFF",
+          "bbox": [0.6308, 0.9174, 0.0393, 0.0092]
+        },
+        {
+          "text": "電源スイッチ",
+          "translation": "Power switch",
+          "bbox": [0.7124, 0.9116, 0.0943, 0.0119]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-4.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書 矢印一覧",
+          "translation": "WEB Instruction Manual: Arrow Legend",
+          "bbox": [0.0369, 0.0483, 0.3083, 0.023]
+        },
+        {
+          "text": "■■■ 取り付けます。 |",
+          "translation": "■■■ Attach. |",
+          "bbox": [0.3869, 0.0471, 0.188, 0.0206]
+        },
+        {
+          "text": "取り外します。 |",
+          "translation": "Remove. |",
+          "bbox": [0.627, 0.0459, 0.1433, 0.0236]
+        },
+        {
+          "text": "可動させます。",
+          "translation": "Make movable.",
+          "bbox": [0.8192, 0.0489, 0.1294, 0.0183]
+        },
+        {
+          "text": "獣電池の遊び方",
+          "translation": "How to use Beast Batteries",
+          "bbox": [0.162, 0.1761, 0.1856, 0.0265]
+        },
+        {
+          "text": "※獣電池(パラサガン)を例に説明します。",
+          "translation": "The Beast Battery (Parasagan) is used as an example.",
+          "bbox": [0.4667, 0.1749, 0.3615, 0.0183]
+        },
+        {
+          "text": "チャージ状態",
+          "translation": "Charge state",
+          "bbox": [0.4655, 0.2309, 0.1149, 0.0188]
+        },
+        {
+          "text": "ボタン",
+          "translation": "Button",
+          "bbox": [0.7189, 0.2291, 0.0484, 0.0135]
+        },
+        {
+          "text": "ボタンを押します",
+          "translation": "Press the button.",
+          "bbox": [0.1004, 0.245, 0.1276, 0.0153]
+        },
+        {
+          "text": "ボタンを押すたびにプレートが回転し、\nブレイブイン状態とチャージ状態が\n交互に切り替わります。",
+          "translation": "Each time you press the button, the plate rotates and alternates between Brave-In state and Charge state.",
+          "bbox": [0.1161, 0.2674, 0.283, 0.0624]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.6911, 0.2927, 0.0266, 0.0306]
+        },
+        {
+          "text": "通常攻撃遊び",
+          "translation": "Normal attack play",
+          "bbox": [0.1753, 0.5777, 0.1608, 0.0253]
+        },
+        {
+          "text": "ガブリカリバーのトリガーを短押しします\nLEDが発光し、剣撃音が鳴ります。",
+          "translation": "Press the Gaburicalibur's trigger briefly. The LED lights up and a sword-slash sound plays.",
+          "bbox": [0.0998, 0.6461, 0.2944, 0.0395]
+        },
+        {
+          "text": "【正面】",
+          "translation": "[Front]",
+          "bbox": [0.1657, 0.715, 0.0478, 0.0183]
+        },
+        {
+          "text": "ブレイブイン状態",
+          "translation": "Brave-In state",
+          "bbox": [0.4395, 0.394, 0.1548, 0.0212]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.6935, 0.4588, 0.0157, 0.023]
+        },
+        {
+          "text": "LO",
+          "translation": "LO",
+          "bbox": [0.4915, 0.9564, 0.0157, 0.0218]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.4891, 0.9588, 0.02, 0.0188]
+        },
+        {
+          "text": "トリガー",
+          "translation": "Trigger",
+          "bbox": [0.7068, 0.8339, 0.0593, 0.0153]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-5.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書 矢印一覧",
+          "translation": "WEB Instruction Manual — Arrow Guide",
+          "bbox": [0.0369, 0.027, 0.3082, 0.014]
+        },
+        {
+          "text": "■ 取り付けます。| 取り外します。 | 可動させます。",
+          "translation": "■ Attach. | Detach. | Movable.",
+          "bbox": [0.3927, 0.0266, 0.5553, 0.0126]
+        },
+        {
+          "text": "モード切り替え",
+          "translation": "Mode switching",
+          "bbox": [0.1305, 0.102, 0.1776, 0.015]
+        },
+        {
+          "text": "※獣電池が装填されていない状態でのみ行えます。\n※起動時はガブティラモードです。",
+          "translation": "* Can only be performed when no Zyudenchi is loaded.\n* On startup, the mode is Gabutyra Mode.",
+          "bbox": [0.3921, 0.0894, 0.4465, 0.0259]
+        },
+        {
+          "text": "ポンプを前後に動かします。",
+          "translation": "Move the pump back and forth.",
+          "bbox": [0.1021, 0.141, 0.1976, 0.0102]
+        },
+        {
+          "text": "→動かすたびにモード切り替え音声が鳴り、 モードが表の順番に切り替わります。",
+          "translation": "→ Each time you move it, a mode-change sound will play and the mode will advance in the order shown in the table.",
+          "bbox": [0.1003, 0.1549, 0.5849, 0.0096]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.0979, 0.1809, 0.0423, 0.0116]
+        },
+        {
+          "text": "モード",
+          "translation": "Mode",
+          "bbox": [0.2205, 0.1819, 0.0574, 0.0102]
+        },
+        {
+          "text": "モード切り替え音声",
+          "translation": "Mode-change voice",
+          "bbox": [0.3517, 0.1819, 0.1722, 0.0109]
+        },
+        {
+          "text": "① ガブティラモード",
+          "translation": "① Gabutyra Mode",
+          "bbox": [0.1082, 0.202, 0.1813, 0.0106]
+        },
+        {
+          "text": "ガブティラ!",
+          "translation": "Gabutyra!",
+          "bbox": [0.3462, 0.2031, 0.084, 0.0089]
+        },
+        {
+          "text": "② パラサガンモード",
+          "translation": "② Parasagan Mode",
+          "bbox": [0.1088, 0.2222, 0.1867, 0.0089]
+        },
+        {
+          "text": "パラサガン!",
+          "translation": "Parasagan!",
+          "bbox": [0.348, 0.2225, 0.0858, 0.0082]
+        },
+        {
+          "text": "3 ステゴッチモード",
+          "translation": "3 Stegocchi Mode",
+          "bbox": [0.1154, 0.241, 0.1764, 0.0096]
+        },
+        {
+          "text": "ステゴッチ!",
+          "translation": "Stegocchi!",
+          "bbox": [0.3468, 0.2413, 0.0852, 0.0085]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.1142, 0.2614, 0.0085, 0.0055]
+        },
+        {
+          "text": "ザクトルモード",
+          "translation": "Zactor Mode",
+          "bbox": [0.1644, 0.2594, 0.11, 0.0099]
+        },
+        {
+          "text": "ザクトル!",
+          "translation": "Zactor!",
+          "bbox": [0.3468, 0.2597, 0.0695, 0.0096]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.1148, 0.2805, 0.0079, 0.0055]
+        },
+        {
+          "text": "ドリケラモード",
+          "translation": "Dricera Mode",
+          "bbox": [0.165, 0.2792, 0.1063, 0.0085]
+        },
+        {
+          "text": "ドリケラ!",
+          "translation": "Dricera!",
+          "bbox": [0.3474, 0.2785, 0.0659, 0.0096]
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.1154, 0.299, 0.0073, 0.0061]
+        },
+        {
+          "text": "プテラゴードンモード",
+          "translation": "Pteragordon Mode",
+          "bbox": [0.1644, 0.298, 0.1583, 0.0089]
+        },
+        {
+          "text": "プテラゴードン!",
+          "translation": "Pteragordon!",
+          "bbox": [0.3468, 0.298, 0.1166, 0.0092]
+        },
+        {
+          "text": "⑦",
+          "translation": "⑦",
+          "bbox": [0.1088, 0.3164, 0.0199, 0.0092]
+        },
+        {
+          "text": "プレズオンモード",
+          "translation": "Pres-On Mode",
+          "bbox": [0.1644, 0.3164, 0.1299, 0.0099]
+        },
+        {
+          "text": "プレズオン!",
+          "translation": "Pres-On!",
+          "bbox": [0.3468, 0.3167, 0.0876, 0.0089]
+        },
+        {
+          "text": "※⑦の後は①に戻ります。",
+          "translation": "* After ⑦ it returns to ①.",
+          "bbox": [0.0822, 0.3372, 0.1873, 0.0085]
+        },
+        {
+          "text": "ポンプ",
+          "translation": "Pump",
+          "bbox": [0.7517, 0.2051, 0.0508, 0.0082]
+        },
+        {
+          "text": "必殺技遊び",
+          "translation": "Special Move Play",
+          "bbox": [0.1505, 0.3857, 0.1341, 0.0157]
+        },
+        {
+          "text": "※獣電池の認識はしません。",
+          "translation": "* Does not recognize Zyudenchi.",
+          "bbox": [0.3921, 0.386, 0.2441, 0.0109]
+        },
+        {
+          "text": "①",
+          "translation": "①",
+          "bbox": [0.7843, 0.4154, 0.0211, 0.0082]
+        },
+        {
+          "text": "①ガブリカリバーのトリガーを長押しします。\n現在のモードに対応した\nブレイブイン効果音が鳴ります。\n②チャージ状態の獣電池のボタンを押します。\n→ブレイブイン状態に切り替わります。\n③ガブリカリバーの下アゴを開きます。\n口開き音が鳴ります。\n④獣電池をガブリカリバーの装填口に",
+          "translation": "① Press and hold the GabriCalibur's trigger. → The Brave-In sound effect corresponding to the current mode will play.\n② Press the button on a Zyudenchi that is in the charged state. → It switches to the Brave-In state.\n③ Open the GabriCalibur's lower jaw. → A mouth-opening sound will play.\n④ Insert the Zyudenchi into the GabriCalibur's loading slot.",
+          "bbox": [0.0997, 0.4256, 0.3311, 0.1031]
+        },
+        {
+          "text": "装填します。\n装填音が鳴ります。\n⑤ ガブリカリバーの下アゴを閉じます。",
+          "translation": "Load it. → A loading sound will play.\n⑤ Close the GabriCalibur's lower jaw.",
+          "bbox": [0.0997, 0.5324, 0.2761, 0.0352]
+        },
+        {
+          "text": "→LEDが発光し、\nセリフ「ガブリンチョ!」が鳴ります。\n⑥ポンプを前後に動かします。\n→LEDが発光し、 必殺技待機音が鳴ります。\n⑦ガブリカリバーのトリガーを短押しします。\n→LEDが発光し、セリフ「バモラ!」と\n現在のモードに対応した必殺技音が鳴ります。\n※プテラゴードンモードのみ⑦のセリフが\nセリフ「バモラ!ドッドーン!」に変わります。",
+          "translation": "→ The LED will light and the phrase \"Gaburincho!\" will play.\n⑥ Move the pump back and forth.\n→ The LED will light and the special-move standby sound will play.\n⑦ Briefly press the GabriCalibur's trigger.\n→ The LED will light, the phrase \"Vamola!\" will play, and the special-move sound corresponding to the current mode will play.\n* Only in Pteragordon Mode, the phrase in step ⑦ changes to \"Vamola! Doddoon!\"",
+          "bbox": [0.0997, 0.5724, 0.3517, 0.1154]
+        },
+        {
+          "text": "【別角度】",
+          "translation": "[Different angle]",
+          "bbox": [0.255, 0.7113, 0.0628, 0.0099]
+        },
+        {
+          "text": "装填口",
+          "translation": "Loading port",
+          "bbox": [0.2532, 0.7969, 0.0483, 0.0089]
+        },
+        {
+          "text": "[6",
+          "translation": "[6",
+          "bbox": [0.4912, 0.9741, 0.0151, 0.0157]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-6.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書 矢印一覧 ■取り付けます。 | 取り外します。 |",
+          "translation": "WEB Instruction Manual — Arrow legend: ■ Attach. | Remove. | Make movable.",
+          "bbox": [0.0369, 0.0393, 0.7347, 0.022]
+        },
+        {
+          "text": "可動させます。",
+          "translation": "Make movable.",
+          "bbox": [0.8193, 0.0424, 0.1281, 0.0158]
+        },
+        {
+          "text": "特殊必殺技遊び",
+          "translation": "Special Finishing Move Play",
+          "bbox": [0.1251, 0.1532, 0.1891, 0.0225]
+        },
+        {
+          "text": "※獣電池が装填されている状態でのみ行えます。",
+          "translation": "※Can only be performed when a Beast Battery is inserted.",
+          "bbox": [0.3915, 0.1507, 0.4272, 0.0174]
+        },
+        {
+          "text": "トリガーを長押しします。\n長押しするたびに表の順番に音声が鳴ります。",
+          "translation": "Press and hold the trigger.\n→ Each time you press and hold, the sounds will play in the order shown in the table.",
+          "bbox": [0.1015, 0.2114, 0.3523, 0.0358]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.0979, 0.2707, 0.0417, 0.0179]
+        },
+        {
+          "text": "音声",
+          "translation": "Sound",
+          "bbox": [0.2338, 0.2712, 0.0405, 0.0174]
+        },
+        {
+          "text": "① 斬撃無双剣音\n2 トリニティストレイザー音",
+          "translation": "① Zangeki Musou-ken sound\n② Trinity Strazor sound",
+          "bbox": [0.1082, 0.3029, 0.2423, 0.0439]
+        },
+        {
+          "text": "※②の後は①に戻ります。",
+          "translation": "※After ②, it returns to ①.",
+          "bbox": [0.0822, 0.3621, 0.1867, 0.0133]
+        },
+        {
+          "text": "獣電池の取り外し方",
+          "translation": "How to remove the Beast Battery",
+          "bbox": [0.1009, 0.4959, 0.235, 0.025]
+        },
+        {
+          "text": "①本体の下アゴを開きます。\n→取り外し音が鳴り、獣電池が少し飛び出します。\n②獣電池を手で取り外します。",
+          "translation": "① Open the lower jaw of the main unit.\n→ A removal sound will play and the Beast Battery will pop out slightly.\n② Remove the Beast Battery by hand.",
+          "bbox": [0.0997, 0.5562, 0.3589, 0.0546]
+        },
+        {
+          "text": "※獣電池が勢いよく飛び出す可能性が\nあります。必ず本体を上向きにした状態で\n下アゴを開き、人や物には向けないよう\n注意してください。",
+          "translation": "※The Beast Battery may eject forcefully. Always hold the main unit facing upward when opening the lower jaw, and be careful not to point it at people or objects.",
+          "bbox": [0.1015, 0.6379, 0.3202, 0.073]
+        },
+        {
+          "text": "7",
+          "translation": "7",
+          "bbox": [0.4906, 0.9632, 0.0187, 0.0153]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-7.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書 矢印一覧 ■取り付けます。|",
+          "translation": "WEB Instruction Manual — Arrow legend  ■ Attach.",
+          "bbox": [0.0369, 0.0234, 0.5366, 0.0113]
+        },
+        {
+          "text": "取り外します。 | 可動させます。",
+          "translation": "Remove. | Make movable.",
+          "bbox": [0.6284, 0.0231, 0.319, 0.0113]
+        },
+        {
+          "text": "ガブルキャノンへの合体",
+          "translation": "Combining to form the Gabble Cannon",
+          "bbox": [0.1136, 0.0883, 0.2834, 0.0127]
+        },
+        {
+          "text": "※セット内容の状態から始めます。",
+          "translation": "*Begin from the state of the set as shown.",
+          "bbox": [0.0961, 0.1215, 0.2991, 0.0101]
+        },
+        {
+          "text": "※別売りのガブリボルバー-MEMORIAL EDITION-を使用します。",
+          "translation": "*Requires the Gaburevolver -MEMORIAL EDITION- (sold separately).",
+          "bbox": [0.0979, 0.1346, 0.6091, 0.0101]
+        },
+        {
+          "text": "ガブリカリバー-MEMORIAL EDITION-の合体準備",
+          "translation": "Preparing the GaburiCalibur -MEMORIAL EDITION- for combination",
+          "bbox": [0.1015, 0.1589, 0.4767, 0.0104]
+        },
+        {
+          "text": "①グリップロック解除ボタンを押しながら\n図のように変形します。\n②合体用差し替え刃パーツを矢印の方向に\n取り付けます。",
+          "translation": "① While pressing the grip lock release button, transform it as shown.\n② Attach the interchangeable blade part for combination in the direction of the arrow.",
+          "bbox": [0.0997, 0.1844, 0.3118, 0.0421]
+        },
+        {
+          "text": "【拡大図】",
+          "translation": "[Enlarged view]",
+          "bbox": [0.0937, 0.2848, 0.0634, 0.0089]
+        },
+        {
+          "text": "スリット",
+          "translation": "Slot",
+          "bbox": [0.1009, 0.3471, 0.058, 0.0074]
+        },
+        {
+          "text": "※スリットを合わせて\n取り付けます。",
+          "translation": "*Align the slot and attach.",
+          "bbox": [0.0985, 0.3637, 0.1559, 0.0199]
+        },
+        {
+          "text": "合体用差し替え刃パーツ",
+          "translation": "Interchangeable blade part for combination",
+          "bbox": [0.2973, 0.2662, 0.1849, 0.0077]
+        },
+        {
+          "text": "※取り外す場合は②の矢印の逆方向に取り外します。",
+          "translation": "*To remove it, detach in the direction opposite arrow ②.",
+          "bbox": [0.0858, 0.4289, 0.3855, 0.008]
+        },
+        {
+          "text": "ガブリボルバー-MEMORIAL EDITION- の合体準備",
+          "translation": "Preparing the Gaburevolver -MEMORIAL EDITION- for combination",
+          "bbox": [0.1015, 0.4547, 0.481, 0.0098]
+        },
+        {
+          "text": "レバーを下げます。\n口が開き、口開き音が鳴ります。",
+          "translation": "Lower the lever.\nThe mouth opens and a mouth-opening sound will play.",
+          "bbox": [0.1009, 0.4798, 0.2471, 0.0207]
+        },
+        {
+          "text": "グリップロック解除ボタン",
+          "translation": "Grip lock release button",
+          "bbox": [0.6659, 0.16, 0.1879, 0.0089]
+        },
+        {
+          "text": "ガブリボルバー-MEMORIAL EDITION-",
+          "translation": "Gaburevolver -MEMORIAL EDITION-",
+          "bbox": [0.3837, 0.5691, 0.3172, 0.0077]
+        },
+        {
+          "text": "合体方法",
+          "translation": "How to combine",
+          "bbox": [0.0961, 0.6011, 0.0816, 0.0095]
+        },
+        {
+          "text": "【別角度】",
+          "translation": "[Alternate view]",
+          "bbox": [0.3692, 0.5999, 0.0628, 0.0086]
+        },
+        {
+          "text": "ガブリボルバーのレール部分に",
+          "translation": "Onto the Gaburevolver's rail section",
+          "bbox": [0.1003, 0.6254, 0.226, 0.0086]
+        },
+        {
+          "text": "ガブリカリバーの窪みを",
+          "translation": "The GaburiCalibur's indentation",
+          "bbox": [0.1003, 0.6372, 0.1728, 0.008]
+        },
+        {
+          "text": "スライドさせ取り付けます。",
+          "translation": "Slide it on to attach.",
+          "bbox": [0.1003, 0.6491, 0.1958, 0.0077]
+        },
+        {
+          "text": "合体音が鳴ります。",
+          "translation": "A combination sound will play.",
+          "bbox": [0.1166, 0.6609, 0.1384, 0.0077]
+        },
+        {
+          "text": "ガブルキャノン完成!!",
+          "translation": "Gabble Cannon Complete!",
+          "bbox": [0.0967, 0.9303, 0.3311, 0.0187]
+        },
+        {
+          "text": "窪み",
+          "translation": "Indentation",
+          "bbox": [0.5305, 0.6621, 0.0356, 0.0077]
+        },
+        {
+          "text": "レール",
+          "translation": "Rail",
+          "bbox": [0.6139, 0.7822, 0.0502, 0.0068]
+        },
+        {
+          "text": "レバー",
+          "translation": "Lever",
+          "bbox": [0.7752, 0.5056, 0.0477, 0.0071]
+        },
+        {
+          "text": "※ガブルキャノンが完成した状態で起動すると、\n単品で起動された状態ではなく、合体状態で起動されます。",
+          "translation": "*If you activate it while the Gabble Cannon is assembled, it will power on in the combined state, not as the individual units.",
+          "bbox": [0.452, 0.9312, 0.4465, 0.0202]
+        },
+        {
+          "text": "8",
+          "translation": "8",
+          "bbox": [0.4894, 0.9793, 0.0181, 0.0083]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-8.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書 矢印一覧",
+          "translation": "WEB Instruction Manual — Arrow Legend",
+          "bbox": [0.0369, 0.0256, 0.3082, 0.012]
+        },
+        {
+          "text": "取り付けます。 | 取り外します。 | 可動させます。",
+          "translation": "Attach. | Remove. | Move.",
+          "bbox": [0.4181, 0.0247, 0.5299, 0.012]
+        },
+        {
+          "text": "ガブルキャノンの遊び方",
+          "translation": "How to play with the Gabble Cannon",
+          "bbox": [0.113, 0.0942, 0.284, 0.0136]
+        },
+        {
+          "text": "※ガブルキャノンが完成した状態で行います。",
+          "translation": "※Perform these actions with the Gabble Cannon fully assembled.",
+          "bbox": [0.4671, 0.0933, 0.3988, 0.0111]
+        },
+        {
+          "text": "剣撃遊び",
+          "translation": "Swordplay",
+          "bbox": [0.0979, 0.1303, 0.0822, 0.0089]
+        },
+        {
+          "text": "①合体用差し替え刃パーツを矢印の方向に",
+          "translation": "① Move the replacement blade part for combination in the direction of the arrow.",
+          "bbox": [0.0997, 0.1572, 0.3118, 0.0085]
+        },
+        {
+          "text": "動かします。",
+          "translation": "Move it.",
+          "bbox": [0.1166, 0.1695, 0.087, 0.0085]
+        },
+        {
+          "text": "②トリガーを短押しします。\n剣撃音が鳴ります。",
+          "translation": "② Press the trigger briefly.\nA sword-slash sound will play.",
+          "bbox": [0.0997, 0.3542, 0.1946, 0.0209]
+        },
+        {
+          "text": "※3回に1回ガブリボルバーの現在のモードに対応したキャラクターのセリフが鳴ります。",
+          "translation": "※One out of every three times, a character voice line corresponding to the Gaburevolver's current mode will play.",
+          "bbox": [0.1009, 0.3786, 0.6483, 0.0085]
+        },
+        {
+          "text": "銃撃遊び",
+          "translation": "Shooting play",
+          "bbox": [0.0979, 0.5392, 0.0816, 0.0095]
+        },
+        {
+          "text": "①合体用差し替え刃パーツを矢印の方向に",
+          "translation": "① Move the replacement blade part for combination in the direction of the arrow.",
+          "bbox": [0.1003, 0.5661, 0.3118, 0.0085]
+        },
+        {
+          "text": "動かします。",
+          "translation": "Move it.",
+          "bbox": [0.1166, 0.5784, 0.0876, 0.0082]
+        },
+        {
+          "text": "②トリガーを長押しします。\n長押ししている間、連射銃撃音が鳴ります。\n※トリガーを離すことで音声が止まります。",
+          "translation": "② Press and hold the trigger.\nWhile the trigger is held, rapid-fire shooting sounds will play.\n※Releasing the trigger will stop the sounds.",
+          "bbox": [0.0997, 0.7577, 0.3287, 0.0329]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.4888, 0.9772, 0.0224, 0.0108]
+        },
+        {
+          "text": "トリガー",
+          "translation": "Trigger",
+          "bbox": [0.6272, 0.4927, 0.0586, 0.0079]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.6453, 0.8444, 0.0091, 0.0028]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-9.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0375, 0.0326, 0.1662, 0.0143]
+        },
+        {
+          "text": "矢印一覧",
+          "translation": "Arrow legend",
+          "bbox": [0.2628, 0.03, 0.0822, 0.0121]
+        },
+        {
+          "text": "取り付けます。 |",
+          "translation": "Attach. |",
+          "bbox": [0.4181, 0.0289, 0.1553, 0.0132]
+        },
+        {
+          "text": "取り外します。 | 可動させます。",
+          "translation": "Remove. | Move.",
+          "bbox": [0.6284, 0.0286, 0.3196, 0.0139]
+        },
+        {
+          "text": "ガブルキャノンの遊び方",
+          "translation": "How to play with the Gaburu Cannon",
+          "bbox": [0.1136, 0.1091, 0.2834, 0.0157]
+        },
+        {
+          "text": "強銃撃遊び",
+          "translation": "Power Shot Play",
+          "bbox": [0.0979, 0.1508, 0.1015, 0.011]
+        },
+        {
+          "text": "①ポンプを1回前後に動かします。\n→セリフ「バモラ!」が鳴ります。\n②トリガーを短押しします。\n強銃撃音が鳴ります。\n③ポンプをもう1回前後に動かします。\nセリフ「ムーチョ!」が鳴ります。\n④トリガーを短押しします。\n強銃撃音が鳴ります。\n※ポンプを動かすたびに、\nセリフ「バモラ!」とセリフ「ムーチョ!」が",
+          "translation": "① Move the pump once forward and backward.\n→ The voice line \"Bamora!\" will play.\n② Press the trigger briefly.\n→ A strong gunshot sound will play.\n③ Move the pump once forward and backward again.\n→ The voice line \"Mucho!\" will play.\n④ Press the trigger briefly.\n→ A strong gunshot sound will play.\n※ Each time you move the pump, the voice lines \"Bamora!\" and \"Mucho!\" will play alternately.",
+          "bbox": [0.0997, 0.1816, 0.3015, 0.1387]
+        },
+        {
+          "text": "交互に鳴ります。",
+          "translation": "They play alternately.",
+          "bbox": [0.1166, 0.3236, 0.1227, 0.0106]
+        },
+        {
+          "text": "ガブルキャノンの合体解除の仕方",
+          "translation": "How to separate the Gaburu Cannon",
+          "bbox": [0.1118, 0.5622, 0.3909, 0.0161]
+        },
+        {
+          "text": "ガブリボルバー底面の\n合体ロック解除ボタンを押しながら、\n矢印の方向にガブリカリバーを取り外します。\n合体解除音が鳴ります。",
+          "translation": "While pressing the combination lock release button on the bottom of the Gaburevolver, detach the Gaburicalibur in the direction of the arrow.\nA separation sound will play.",
+          "bbox": [0.0997, 0.6047, 0.3245, 0.0527]
+        },
+        {
+          "text": "【底面】",
+          "translation": "[Bottom]",
+          "bbox": [0.2598, 0.8071, 0.0465, 0.0099]
+        },
+        {
+          "text": "合体ロック解除ボタン",
+          "translation": "Combination lock release button",
+          "bbox": [0.4743, 0.8152, 0.1625, 0.0102]
+        },
+        {
+          "text": "合体ロック解除ボタン",
+          "translation": "Combination lock release button",
+          "bbox": [0.4743, 0.9242, 0.1625, 0.0099]
+        },
+        {
+          "text": "10",
+          "translation": "10",
+          "bbox": [0.4846, 0.9736, 0.0356, 0.0128]
+        },
+        {
+          "text": "②④",
+          "translation": "②④",
+          "bbox": [0.7063, 0.4312, 0.0332, 0.0084]
+        },
+        {
+          "text": "0",
+          "translation": "0",
+          "bbox": [0.8211, 0.4433, 0.0091, 0.0059]
+        }
+      ]
+    }
+  ]
+}

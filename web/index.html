@@ -4,35 +4,33 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>TokuSolutions</title>
-    <link rel="stylesheet" href="styles.css" />
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
-      integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
-      crossorigin="anonymous"
-      referrerpolicy="no-referrer"
-    />
+    <link rel="stylesheet" href="styles.css?v=14" />
   </head>
 
   <body>
     <!-- Home View -->
     <div id="homeView">
-      <div class="container">
-        <div class="page-header">
-          <h1>TokuSolutions</h1>
+      <main class="catalog-shell">
+        <header class="catalog-header">
+          <div class="catalog-heading">
+            <p class="wordmark-kicker">Translated instruction archive</p>
+            <h1>TokuSolutions</h1>
+          </div>
           <p class="subtitle">
             Toku instruction manuals poorly translated to English using Document AI and then fixed
             by real people.
           </p>
           <div class="search-section">
             <div class="search-box">
-              <input type="text" id="searchInput" placeholder="Search manuals by name..." />
+              <label class="visually-hidden" for="searchInput">Search manuals</label>
+              <input type="search" id="searchInput" placeholder="Search manuals" />
             </div>
             <div class="stats">
               <span id="statsDisplay">Loading...</span>
             </div>
           </div>
-        </div>
+          <div id="tagFilters" class="tag-filters" aria-label="Filter by series"></div>
+        </header>
 
         <div class="loading-container" id="loadingIndicator">
           <div class="loading-spinner"></div>
@@ -42,19 +40,15 @@
         <div class="grid" id="manualsGrid"></div>
 
         <div class="no-results hidden" id="noResults">No manuals found matching your search.</div>
-      </div>
+      </main>
 
-      <footer class="site-footer">
-        <a
-          href="https://github.com/shy/tokuSolutions"
-          target="_blank"
-          class="footer-link"
-        >
-          <i class="fab fa-github"></i> Edit on GitHub
+      <footer id="homeFooter" class="site-footer">
+        <a href="https://github.com/shy/tokuSolutions" target="_blank" class="footer-link">
+          Edit on GitHub
         </a>
         <span class="footer-separator">•</span>
         <a href="https://www.youtube.com/watch?v=C_fE8T-DwiU" target="_blank" class="footer-link">
-          <i class="fab fa-youtube"></i> Watch Demo
+          Watch Demo
         </a>
         <span class="footer-separator">•</span>
         <a href="https://temporal.io" target="_blank" class="footer-link">
@@ -64,86 +58,168 @@
     </div>
 
     <!-- Viewer View -->
-    <div id="viewerView" class="hidden">
-      <header>
-        <h1 id="manualTitle">Loading...</h1>
-        <div class="controls">
-          <button id="backToHome" class="btn"><i class="fas fa-arrow-left"></i> Back</button>
-          <a id="sourceLink" href="#" class="btn" target="_blank" style="display: none"
-            ><i class="fas fa-file-pdf"></i> Original</a
+    <div id="viewerView" class="hidden" data-viewer-mode="reading">
+      <header class="viewer-toolbar" aria-label="Manual controls">
+        <div class="viewer-toolbar__identity">
+          <button id="backToHome" class="btn btn-secondary" type="button">← Catalog</button>
+          <h1 id="manualTitle">Loading...</h1>
+          <a id="sourceLink" href="#" class="btn btn-secondary hidden" target="_blank"
+            >Original PDF</a
           >
-          <div id="blogDropdown" class="dropdown" style="display: none">
-            <button class="btn dropdown-toggle"><i class="fas fa-wrench"></i> Tech Blog</button>
-            <div class="dropdown-menu"></div>
-          </div>
-          <button id="undoBtn" class="btn btn-secondary hidden" title="Undo last edit (Ctrl+Z)">
-            <i class="fas fa-undo"></i>
-          </button>
-          <button
-            id="downloadEditsBtn"
-            class="btn btn-success hidden"
-            title="Download edited JSON file"
-          >
-            <i class="fas fa-download"></i>
-          </button>
-          <button
-            id="submitGitHubBtn"
-            class="btn btn-success hidden"
-            title="Submit changes via GitHub Pull Request"
-          >
-            <i class="fas fa-code-branch"></i>
-          </button>
+        </div>
+        <div class="viewer-toolbar__actions">
           <div class="page-nav">
-            <button id="prevPageBtn" class="btn"><i class="fas fa-chevron-left"></i></button>
-            <span id="pageIndicator">Page 1 / 1</span>
-            <button id="nextPageBtn" class="btn"><i class="fas fa-chevron-right"></i></button>
+            <button
+              id="prevPageBtn"
+              class="btn btn-secondary"
+              type="button"
+              aria-label="Previous page"
+            >
+              ‹
+            </button>
+            <span id="pageIndicator">Page 1 of 1</span>
+            <label class="page-jump">
+              <span class="visually-hidden">Jump to page</span>
+              <input id="pageJumpInput" type="number" min="1" value="1" inputmode="numeric" />
+            </label>
+            <button id="nextPageBtn" class="btn btn-secondary" type="button" aria-label="Next page">
+              ›
+            </button>
           </div>
-          <button id="overlaysBtn" class="btn"><i class="fas fa-eye"></i> Hide Overlays</button>
-          <button id="translationsBtn" class="btn">
-            <i class="fas fa-language"></i> Hide Translations
+          <button id="translationsBtn" class="btn btn-secondary" type="button">
+            Corrected text: On
           </button>
+          <div class="reader-size-controls" aria-label="Corrected text size">
+            <button id="decreaseTextSizeBtn" class="btn btn-secondary" type="button">A−</button>
+            <button id="resetTextSizeBtn" class="btn btn-secondary" type="button">
+              Default text size
+            </button>
+            <button id="increaseTextSizeBtn" class="btn btn-secondary" type="button">A+</button>
+          </div>
+          <button id="printManualBtn" class="btn btn-secondary" type="button">Print Manual</button>
+          <button id="printSettingsBtn" class="btn btn-secondary" type="button">
+            Print settings
+          </button>
+          <button id="editTranslationsBtn" class="btn hidden" type="button">
+            Edit translations
+          </button>
+          <button id="exitEditingBtn" class="btn btn-secondary hidden" type="button">
+            Finish editing
+          </button>
+          <button
+            id="undoBtn"
+            class="btn btn-secondary hidden"
+            type="button"
+            title="Undo last edit"
+          >
+            Undo
+          </button>
+          <button id="redoBtn" class="btn btn-secondary hidden" type="button">Redo</button>
+          <button id="downloadEditsBtn" class="btn btn-success hidden" type="button">
+            Download JSON
+          </button>
+          <button id="submitGitHubBtn" class="btn btn-success hidden" type="button">
+            Submit changes
+          </button>
+          <button id="discardDraftBtn" class="btn btn-secondary hidden" type="button">
+            Discard draft
+          </button>
+          <span id="draftStatus" class="viewer-status" aria-live="polite"></span>
+          <span id="printStatus" class="viewer-status" aria-live="polite"></span>
         </div>
       </header>
 
       <div class="viewer-container">
         <div class="page-panel" id="pagePanel"></div>
-        <div class="text-panel">
-          <button id="sidebarToggleBtn" class="sidebar-toggle-btn" title="Toggle Sidebar">
-            <i class="fas fa-chevron-left"></i>
-          </button>
+        <aside class="text-panel" aria-label="Translation editor">
           <div class="text-panel-header">
-            <h2>Translations</h2>
-            <button
-              id="createBlockBtn"
-              class="btn btn-success"
-              style="font-size: 0.75rem; padding: 0.3rem 0.6rem"
-            >
-              + Add Block
-            </button>
+            <h2>Editor</h2>
+            <button id="createBlockBtn" class="btn btn-success">+ Add Block</button>
           </div>
-          <div id="textList"></div>
-        </div>
+          <section id="blockInspector" class="block-inspector">
+            <p id="inspectorEmpty">Select a corrected text block on the manual.</p>
+            <div id="inspectorFields" class="hidden">
+              <label>
+                Original OCR
+                <textarea id="inspectorOriginal" rows="3" readonly></textarea>
+              </label>
+              <label>
+                Corrected translation
+                <textarea id="inspectorTranslation" rows="5"></textarea>
+              </label>
+              <div class="bbox-editor-grid">
+                <label
+                  >X <input id="inspectorBboxX" type="number" step="0.01" min="0" max="1"
+                /></label>
+                <label
+                  >Y <input id="inspectorBboxY" type="number" step="0.01" min="0" max="1"
+                /></label>
+                <label>
+                  Width
+                  <input id="inspectorBboxW" type="number" step="0.01" min="0.02" max="1" />
+                </label>
+                <label>
+                  Height
+                  <input id="inspectorBboxH" type="number" step="0.01" min="0.02" max="1" />
+                </label>
+              </div>
+              <p id="inspectorValidation" class="inspector-validation" aria-live="polite"></p>
+              <button id="deleteSelectedBlockBtn" class="btn btn-danger" type="button">
+                Delete block
+              </button>
+            </div>
+          </section>
+          <button id="allTranslationsBtn" class="drawer-toggle" type="button" aria-expanded="false">
+            All translations
+          </button>
+          <div id="translationsDrawer" class="translations-drawer hidden">
+            <div id="textList"></div>
+          </div>
+        </aside>
       </div>
 
-      <footer class="site-footer">
-        <a
-          href="https://github.com/shy/tokuSolutions"
-          target="_blank"
-          class="footer-link"
-        >
-          <i class="fab fa-github"></i> Edit on GitHub
-        </a>
-        <span class="footer-separator">•</span>
-        <a href="https://www.youtube.com/watch?v=C_fE8T-DwiU" target="_blank" class="footer-link">
-          <i class="fab fa-youtube"></i> Watch Demo
-        </a>
-        <span class="footer-separator">•</span>
-        <a href="https://temporal.io" target="_blank" class="footer-link">
-          Built on <strong>Temporal</strong>
-        </a>
-      </footer>
+      <div
+        id="largeTextPopover"
+        class="large-text-popover hidden"
+        role="dialog"
+        aria-modal="false"
+        aria-labelledby="largeTextPopoverTitle"
+      >
+        <div class="large-text-popover__header">
+          <h2 id="largeTextPopoverTitle">Corrected text</h2>
+          <button id="closeLargeTextPopover" class="btn btn-secondary" type="button">Close</button>
+        </div>
+        <p id="largeTextPopoverContent"></p>
+      </div>
+
+      <dialog id="printPreflightDialog" class="print-dialog">
+        <h2>Firefox print setup</h2>
+        <p>In the print dialog, choose:</p>
+        <ul>
+          <li>A4 paper</li>
+          <li>Headers and footers off</li>
+          <li>Print backgrounds on</li>
+          <li>One page per sheet</li>
+        </ul>
+        <p>The site cannot change Firefox print-dialog settings for you.</p>
+        <label><input id="dismissPrintPreflight" type="checkbox" /> Do not show this again</label>
+        <div class="dialog-actions">
+          <button id="cancelPrintPreflight" class="btn btn-secondary" type="button">Cancel</button>
+          <button id="continuePrintPreflight" class="btn" type="button">Continue</button>
+        </div>
+      </dialog>
+
+      <dialog id="printWarningsDialog" class="print-dialog">
+        <h2>Print needs review</h2>
+        <p>Some corrected blocks cannot fit at 9pt or are missing text.</p>
+        <ul id="printWarningsList"></ul>
+        <div class="dialog-actions">
+          <button id="cancelPrintWarnings" class="btn btn-secondary" type="button">Cancel</button>
+          <button id="printAnywayBtn" class="btn" type="button">Print anyway</button>
+        </div>
+      </dialog>
     </div>
 
-    <script type="module" src="app.js"></script>
+    <script type="module" src="app.js?v=14"></script>
   </body>
 </html>

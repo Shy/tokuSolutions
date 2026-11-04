@@ -1,0 +1,1831 @@
+{
+  "meta": {
+    "manual_name": "BlackSun",
+    "source": "BlackSun.pdf",
+    "source_lang": "ja",
+    "target_lang": "en",
+    "source_url": "",
+    "blog_url": "",
+    "pages": 4,
+    "blocks": 359,
+    "thumbnail": "pages/page-0.webp",
+    "tags": ["csm", "kamen-rider"]
+  },
+  "pages": [
+    {
+      "image": "pages/page-0.webp",
+      "blocks": [
+        {
+          "text": "注意",
+          "translation": "Caution",
+          "bbox": [0.231, 0.8319, 0.0386, 0.0171]
+        },
+        {
+          "text": "梱包材に戻して商品を保管する際は、 必ず袋に入れてください。",
+          "translation": "When returning the product to its packaging for storage, always place it in the bag.",
+          "bbox": [0.1205, 0.8665, 0.2606, 0.0127]
+        },
+        {
+          "text": "D",
+          "translation": "D",
+          "bbox": [0.8198, 0.2691, 0.0066, 0.0088]
+        },
+        {
+          "text": "COMPLETE SELECTIONMODIFICATION\nコンプリートセレクションモディフィケーション 変身ベルト 世紀王サンドライバー\nHENSHIN BELT\nCENTURY KING SUN DRIVER\n取扱説明書",
+          "translation": "COMPLETE SELECTION MODIFICATION\nComplete Selection Modification\nHENSHIN BELT\nCENTURY KING SUN DRIVER\nInstruction Manual",
+          "bbox": [0.5456, 0.2878, 0.4062, 0.2086]
+        },
+        {
+          "text": "6888",
+          "translation": "6888",
+          "bbox": [0.6922, 0.5345, 0.0068, 0.0049]
+        },
+        {
+          "text": "OOO",
+          "translation": "OOO",
+          "bbox": [0.5106, 0.6712, 0.1047, 0.0247]
+        },
+        {
+          "text": "仮面ライダー",
+          "translation": "Kamen Rider",
+          "bbox": [0.7326, 0.6642, 0.1275, 0.0395]
+        },
+        {
+          "text": "1000",
+          "translation": "1000",
+          "bbox": [0.7985, 0.7912, 0.0485, 0.0327]
+        },
+        {
+          "text": "Kamen Rider BLACK SUN",
+          "translation": "Kamen Rider BLACK SUN",
+          "bbox": [0.6669, 0.8275, 0.1646, 0.0164]
+        },
+        {
+          "text": "©石森プロ・東映 © 「仮面ライダーBLACK SUN」 PROJECT",
+          "translation": "© Ishimori Productions, Toei © \"Kamen Rider BLACK SUN\" PROJECT",
+          "bbox": [0.6722, 0.9478, 0.1552, 0.0086]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-1.webp",
+      "blocks": [
+        {
+          "text": "JAPANESE",
+          "translation": "JAPANESE",
+          "bbox": [0.0315, 0.0394, 0.0572, 0.0116]
+        },
+        {
+          "text": "取扱説明書",
+          "translation": "Instruction Manual",
+          "bbox": [0.1073, 0.0384, 0.0531, 0.0144]
+        },
+        {
+          "text": "●石森プロ・東映 © 「仮面ライダーBLACK SUN」 PROJECT",
+          "translation": "●Ishimori Productions & Toei © \"Kamen Rider BLACK SUN\" PROJECT",
+          "bbox": [0.367, 0.0423, 0.1094, 0.0059]
+        },
+        {
+          "text": "サンドライバーの組み立て方",
+          "translation": "How to assemble the sand driver",
+          "bbox": [0.6715, 0.0425, 0.1556, 0.0165]
+        },
+        {
+          "text": "COMPLETE SELECTIONMODIFICATION\nコンプリートセレクションモディフィケーション 変身ベルト 世紀王サンドライバー\nHENSHIN BELT\nCENTURY KING SUN DRIVER",
+          "translation": "COMPLETE SELECTION MODIFICATION\n Complete Selection Modification Transformation Belt: Century King Sun Driver\n HENSHIN BELT\n CENTURY KING SUN DRIVER",
+          "bbox": [0.1205, 0.0678, 0.2581, 0.057]
+        },
+        {
+          "text": "△ 注意",
+          "translation": "△ Caution",
+          "bbox": [0.2278, 0.1464, 0.045, 0.0144]
+        },
+        {
+          "text": "お買い上げのお客様へ 必ずお読みください。",
+          "translation": "To our customers: Please be sure to read this.",
+          "bbox": [0.1799, 0.1737, 0.1412, 0.0098]
+        },
+        {
+          "text": "●本商品の対象年齢は15才以上です。 対象年齢未満のお子様には絶対に与えないでください。 ●小さな部品、電池がありますので、小さなお子様が誤って飲み込ま\nないように注意してください。 窒息などの危険があります。耳の近くで使用してはいけません。 誤って使用すると、聴覚を損なう恐れがあります。●本商品には電子部\n品を使用しております。 また電波を発信しますので、ペースメーカーをご使用の方はご注意ください。 ●可動部には指などを入れないでください。 はさまれてケガをする恐\nれがあります。●LEDの光の点滅を見続けないでください。気分が悪くなったりする恐れがあります。 《電池を誤使用すると発熱・破裂・ 液もれの恐れがあります。 下記に\n注意してください》 ●万一、電池を飲み込んだとき、 電池から漏れた液が目に入ったときは、すぐに医師に相談してください。漏れた液が皮膚や服に付いたときは水で洗\nってください。●電池は飲み込むと危険です。 お子様の手の届かない所に保管してください。 二次電池(充電式電池) は、絶対に使用しないでください。古い電池\nと新しい電池、いろいろな種類の電池をまぜて使わないでください。●十一 (プラスマイナス) を正しくセットしてください。 ●遊んだ後は必ずスイッチを切り電池をはずし\nてください。 電池を入れたままにしておくと、液漏れの恐れがあり危険です。ショートさせたり充電、分解、加熱、火の中に入れたりしないでください。 廃棄するときは、\n自治体の廃棄処理の指示に従ってください。",
+          "translation": "● This product is intended for ages 15 and up. Never give it to children below the target age. ● This product contains small parts and batteries; ensure that small children do not accidentally swallow them, as this poses a risk of choking or other hazards. Do not use near the ears; improper use may damage hearing. ● This product contains electronic components and emits radio waves; individuals using pacemakers should exercise caution. ● Do not insert fingers or other objects into moving parts, as there is a risk of injury from pinching. ● Do not stare continuously at the flashing LED lights, as this may cause discomfort or nausea. 《Improper use of batteries may result in overheating, rupture, or leakage. Please observe the following:》 ● If a battery is swallowed or fluid leaking from a battery enters the eyes, consult a doctor immediately. If leaked fluid comes into contact with skin or clothing, wash it off with water. ● Swallowing batteries is dangerous; keep them out of the reach of children. Never use rechargeable batteries. Do not mix old and new batteries or different types of batteries. ● Ensure the positive (+) and negative (-) terminals are aligned correctly. ● Always turn off the switch and remove the batteries after playing. Leaving batteries inside poses a risk of leakage. Do not short-circuit, recharge, disassemble, heat, or throw batteries into a fire. When disposing of the product...\n Please follow your local municipality's instructions for waste disposal.",
+          "bbox": [0.0311, 0.1946, 0.4369, 0.1031]
+        },
+        {
+          "text": "<使用上の注意> ●本商品は精密に作られています。無理な力を加えたり、落としたりすると破損するおそれがあります。 本商品は精密な電子部品で構成されてい\nます。 落としたり、水にぬらしたり、汚したり、分解したりしないでください。 また、高温・低温になる所での使用、保管はさけてください。 本商品を樹脂製のソファーやシー\nト、タイルなどの上に置かないでください。 長時間接触していると色が移る場合があります。●可動部分・取付部分を無理な方向に強く引っ張ったり、 曲げたりしないでく\nださい。 発音の一部にイントネーションが違っていたり、商品の特性上聞き取りにくいものがありますが、ご了承ください。 ●商品の特性上、外観のばらつきがございま\nす。予めご了承ください。 ●テレビなど、他の赤外線リモコンで誤動作する場合があります。 太陽光の当たる窓際や蛍光灯の真下などでは誤動作する場合がありま\nす。誤動作した場合は電源を入れ直してください。●赤外線センサー反応部分の所にシールなどを貼らないでください。 動作しなくなります。 ●赤外線センサー反応\n部分とかざす手の間に障害物があると赤外線センサーを感知しなくなり作動しません。",
+          "translation": "<Precautions for Use> ● This product is a precision device. Applying excessive force or dropping it may cause damage. It contains delicate electronic components; do not drop, wet, soil, or disassemble it. Avoid using or storing the product in areas subject to high or low temperatures. Do not place the product on resin sofas, seats, or tiles, as prolonged contact may cause color transfer. ● Do not forcefully pull or bend movable parts or attachment points in unnatural directions. Please note that due to the product's characteristics, some pronunciations may have unusual intonation or be difficult to hear. ● Please note that there may be variations in appearance due to the nature of the product. ● The product may malfunction if exposed to signals from other infrared remote controls, such as those for televisions. Malfunctions may also occur in locations exposed to direct sunlight (e.g., near windows) or directly under fluorescent lights. If a malfunction occurs, please turn the power off and on again. ● Do not place stickers or other objects over the infrared sensor area, as this will prevent the product from functioning. ● The product will not operate if there is an obstruction between the infrared sensor and your hand.",
+          "bbox": [0.0309, 0.3134, 0.4376, 0.0804]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.537, 0.0789, 0.003, 0.0082]
+        },
+        {
+          "text": "ベルト(左)の上下のボタンを押しながら、\nサンドライバー本体に取り付けます。",
+          "translation": "While pressing the upper and lower buttons on the left belt, attach it to the main body of the Sun Driver.",
+          "bbox": [0.55, 0.0737, 0.0888, 0.0173]
+        },
+        {
+          "text": "ベルト(左)",
+          "translation": "Belt (left)",
+          "bbox": [0.5411, 0.1356, 0.0235, 0.0064]
+        },
+        {
+          "text": "ボタン",
+          "translation": "Button",
+          "bbox": [0.5472, 0.2222, 0.0142, 0.0062]
+        },
+        {
+          "text": "※ベルト(右)も同様に行います。",
+          "translation": "*Perform the same steps for the belt (right) as well.",
+          "bbox": [0.5431, 0.2405, 0.0711, 0.007]
+        },
+        {
+          "text": "6720",
+          "translation": "6720",
+          "bbox": [0.6802, 0.15, 0.0044, 0.0242]
+        },
+        {
+          "text": "腰まわりのサイズに合うよう、",
+          "translation": "Adjust to fit your waist size.",
+          "bbox": [0.8962, 0.0737, 0.0631, 0.0067]
+        },
+        {
+          "text": "ベルトの取り外し方",
+          "translation": "How to remove the belt",
+          "bbox": [0.7187, 0.0776, 0.0598, 0.0103]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.8821, 0.0786, 0.0054, 0.0082]
+        },
+        {
+          "text": "ベルト (右)の",
+          "translation": "of the belt (right)",
+          "bbox": [0.8962, 0.0843, 0.0285, 0.0062]
+        },
+        {
+          "text": "①ベルト(左)の上下のボタンを同時に押しながら、",
+          "translation": "① While simultaneously pressing the upper and lower buttons on the left belt,",
+          "bbox": [0.7182, 0.0972, 0.109, 0.0072]
+        },
+        {
+          "text": "アタッチメントパーツの",
+          "translation": "Attachment part",
+          "bbox": [0.8962, 0.0943, 0.0509, 0.0064]
+        },
+        {
+          "text": "位置を調整します。",
+          "translation": "Adjust the position.",
+          "bbox": [0.896, 0.1044, 0.0411, 0.0062]
+        },
+        {
+          "text": "②矢印の方向に引き抜いて外します。",
+          "translation": "② Pull it out in the direction of the arrow to remove it.",
+          "bbox": [0.7182, 0.1077, 0.0811, 0.0067]
+        },
+        {
+          "text": "アタッチメントパーツ",
+          "translation": "Attachment parts",
+          "bbox": [0.908, 0.1273, 0.0464, 0.0067]
+        },
+        {
+          "text": "ベルト(左)",
+          "translation": "Belt (left)",
+          "bbox": [0.7246, 0.1526, 0.0237, 0.0067]
+        },
+        {
+          "text": "サンドライバー本体",
+          "translation": "Sun Driver main unit",
+          "bbox": [0.6471, 0.2332, 0.0453, 0.0075]
+        },
+        {
+          "text": "ボタン",
+          "translation": "Button",
+          "bbox": [0.7304, 0.2392, 0.0146, 0.0064]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.5372, 0.2807, 0.0052, 0.008]
+        },
+        {
+          "text": "ベルト(左)とベルト(右)の\nアタッチメントパーツをはめ合わせます。",
+          "translation": "Fit together the attachment parts of the left and right belts.",
+          "bbox": [0.5509, 0.2763, 0.0875, 0.017]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.6843, 0.2807, 0.0054, 0.008]
+        },
+        {
+          "text": "アタッチメントパーツ",
+          "translation": "Attachment parts",
+          "bbox": [0.5749, 0.3064, 0.0466, 0.0062]
+        },
+        {
+          "text": "アタッチメントパーツにベルト止めを\n図のように巻きつけて止めます。\nベルト止め",
+          "translation": "Wrap the belt retainer around the attachment part as shown in the illustration and secure it.\nBelt retainer",
+          "bbox": [0.6986, 0.2763, 0.0805, 0.0348]
+        },
+        {
+          "text": "②",
+          "translation": "②",
+          "bbox": [0.7977, 0.1789, 0.0061, 0.0067]
+        },
+        {
+          "text": "ベルト(右)",
+          "translation": "Belt (Right)",
+          "bbox": [0.9223, 0.2302, 0.0235, 0.0067]
+        },
+        {
+          "text": "セット内容",
+          "translation": "Set Contents",
+          "bbox": [0.0344, 0.5121, 0.0496, 0.0149]
+        },
+        {
+          "text": "CENTURY KING",
+          "translation": "CENTURY KING",
+          "bbox": [0.1034, 0.5111, 0.1007, 0.0077]
+        },
+        {
+          "text": "SUN DRIVER",
+          "translation": "SUN DRIVER",
+          "bbox": [0.1009, 0.5229, 0.0835, 0.007]
+        },
+        {
+          "text": "■取扱説明書(本書)··· 1",
+          "translation": "■ Instruction Manual (this document) ... 1",
+          "bbox": [0.0335, 0.5425, 0.0577, 0.0077]
+        },
+        {
+          "text": "世紀王サンドライバー 本体・・・ 1",
+          "translation": "Century King Sun Driver (Main Unit) ... 1",
+          "bbox": [0.0938, 0.6575, 0.0742, 0.007]
+        },
+        {
+          "text": "※電源ONにすると各可動部が自動変形します。\n(詳しくはp.3をご参照ください。)",
+          "translation": "*The movable parts will automatically transform when the power is turned on.\n (Please refer to page 3 for details.)",
+          "bbox": [0.06, 0.6794, 0.1403, 0.0232]
+        },
+        {
+          "text": "乾電池の入れ方",
+          "translation": "How to insert the batteries",
+          "bbox": [0.3199, 0.5064, 0.0857, 0.0165]
+        },
+        {
+          "text": "※電源スイッチがOFFになっていることを確認してください。\n※音声が小さくなって聞き取りにくくなったり、音が繰り返し\n鳴ったりする場合や、LED、赤外線センサー(左右)の反応が\n悪くなった場合、可動部の自動変形スピードが遅くなったり、\n最後まで変形しきらなくなった場合は、\n電池を全て新しい電池に交換してください。",
+          "translation": "*Make sure the power switch is OFF.\n*If the sound becomes weak or difficult to hear, if sounds repeat, if the LEDs or infrared sensors (left/right) respond poorly, or if the automatic transformation speed of the moving parts slows or they fail to complete transforming, replace all batteries with new ones.",
+          "bbox": [0.2659, 0.5448, 0.1834, 0.0802]
+        },
+        {
+          "text": "①電池ぶたの穴を、 細い棒などで押しながらスライドさせて取り外します。\n②単3乾電池3本 (別売り) の + をそれぞれ間違えないように入れます。\n③電池ぶたをスライドさせて閉じます。",
+          "translation": "① While pressing the hole in the battery cover with a thin rod or similar object, slide the cover to remove it.\n② Insert three AA batteries (sold separately), making sure each + and - is placed correctly.\n③ Slide the battery cover closed.",
+          "bbox": [0.2654, 0.6381, 0.1875, 0.0286]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.0204, 0.9727, 0.002, 0.0049]
+        },
+        {
+          "text": "ベルト (右)... 1",
+          "translation": "Belt (Right)... 1",
+          "bbox": [0.1132, 0.7776, 0.0352, 0.0067]
+        },
+        {
+          "text": "ベルト (左)...1",
+          "translation": "Belt (left)... 1",
+          "bbox": [0.1132, 0.8425, 0.0348, 0.0077]
+        },
+        {
+          "text": "※ベルトの胴回りサイズ約74cm~92cm",
+          "translation": "*Belt waist size: approx. 74 cm–92 cm",
+          "bbox": [0.0679, 0.8647, 0.1284, 0.0093]
+        },
+        {
+          "text": "OTATIO",
+          "translation": "OTATIO",
+          "bbox": [0.1155, 0.9101, 0.0228, 0.0044]
+        },
+        {
+          "text": "ONNITAZIO",
+          "translation": "ONNITAZIO",
+          "bbox": [0.1155, 0.9271, 0.0228, 0.0044]
+        },
+        {
+          "text": "ベルト止め･･･1",
+          "translation": "Belt retainer... 1",
+          "bbox": [0.1491, 0.9178, 0.0348, 0.007]
+        },
+        {
+          "text": "【裏面から見た図】",
+          "translation": "[View from the back]",
+          "bbox": [0.2787, 0.841, 0.0387, 0.008]
+        },
+        {
+          "text": "電池ぶた",
+          "translation": "Battery cover",
+          "bbox": [0.3127, 0.883, 0.0215, 0.0064]
+        },
+        {
+          "text": "穴",
+          "translation": "Hole",
+          "bbox": [0.336, 0.9464, 0.0052, 0.0093]
+        },
+        {
+          "text": "OC",
+          "translation": "OC",
+          "bbox": [0.3621, 0.8655, 0.0031, 0.0224]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.3723, 0.8242, 0.0022, 0.0039]
+        },
+        {
+          "text": "②",
+          "translation": "②",
+          "bbox": [0.3892, 0.7693, 0.005, 0.0062]
+        },
+        {
+          "text": "①",
+          "translation": "①",
+          "bbox": [0.4123, 0.8286, 0.0046, 0.0093]
+        },
+        {
+          "text": "①",
+          "translation": "①",
+          "bbox": [0.4267, 0.8286, 0.0048, 0.009]
+        },
+        {
+          "text": "単3",
+          "translation": "AA",
+          "bbox": [0.4243, 0.9168, 0.0133, 0.0098]
+        },
+        {
+          "text": "x3",
+          "translation": "x3",
+          "bbox": [0.4508, 0.917, 0.0098, 0.0077]
+        },
+        {
+          "text": "単3乾電池3本使用(別売り)\n●アルカリ電池専用",
+          "translation": "Uses 3 AA dry batteries (sold separately).\n● For alkaline batteries only.",
+          "bbox": [0.403, 0.9332, 0.0585, 0.0201]
+        },
+        {
+          "text": "ベルト(左)",
+          "translation": "Belt (left)",
+          "bbox": [0.5355, 0.4064, 0.0239, 0.007]
+        },
+        {
+          "text": "ベルト(右)",
+          "translation": "Belt (Right)",
+          "bbox": [0.6442, 0.4072, 0.0237, 0.0059]
+        },
+        {
+          "text": "完成!! サンドライバー",
+          "translation": "Complete! Sun Driver",
+          "bbox": [0.8177, 0.401, 0.1393, 0.0206]
+        },
+        {
+          "text": "各部名称",
+          "translation": "Names of Parts",
+          "bbox": [0.7254, 0.4704, 0.0483, 0.0157]
+        },
+        {
+          "text": "<変身後状態>",
+          "translation": "<Post-transformation state>",
+          "bbox": [0.8499, 0.501, 0.054, 0.0113]
+        },
+        {
+          "text": "メーター",
+          "translation": "Meter / Gauge",
+          "bbox": [0.9215, 0.5281, 0.0213, 0.0062]
+        },
+        {
+          "text": "<変身前状態>",
+          "translation": "<Pre-transformation state>",
+          "bbox": [0.6116, 0.501, 0.0542, 0.0113]
+        },
+        {
+          "text": "可動部 (右上)",
+          "translation": "Movable part (top right)",
+          "bbox": [0.5396, 0.5276, 0.0328, 0.007]
+        },
+        {
+          "text": "可動部 (左上)",
+          "translation": "Movable part (top left)",
+          "bbox": [0.7058, 0.5276, 0.0326, 0.0072]
+        },
+        {
+          "text": "可動部",
+          "translation": "Movable part",
+          "bbox": [0.6305, 0.6853, 0.0159, 0.007]
+        },
+        {
+          "text": "(中央)",
+          "translation": "(Center)",
+          "bbox": [0.631, 0.6954, 0.0157, 0.0077]
+        },
+        {
+          "text": "赤外線\nセンサー (右)",
+          "translation": "Infrared sensor (right)",
+          "bbox": [0.7744, 0.6982, 0.0322, 0.0162]
+        },
+        {
+          "text": "可動部(右下)",
+          "translation": "Movable part (bottom right)",
+          "bbox": [0.5664, 0.7129, 0.0326, 0.0077]
+        },
+        {
+          "text": "可動部(左下)",
+          "translation": "Movable part (bottom left)",
+          "bbox": [0.6771, 0.7131, 0.0326, 0.0075]
+        },
+        {
+          "text": "【上から見た図】\n変身・攻撃ボタン",
+          "translation": "[View from above]\n Transform/Attack Button",
+          "bbox": [0.8216, 0.7005, 0.065, 0.0278]
+        },
+        {
+          "text": "赤外線\nセンサー (左)",
+          "translation": "Infrared sensor (left)",
+          "bbox": [0.9302, 0.6982, 0.0324, 0.0165]
+        },
+        {
+          "text": "台詞ボタン",
+          "translation": "Dialogue button",
+          "bbox": [0.8823, 0.7214, 0.0266, 0.0067]
+        },
+        {
+          "text": "LEDで囲った各箇所が発光します。)",
+          "translation": "The areas enclosed by LEDs will light up.",
+          "bbox": [0.5929, 0.7448, 0.1042, 0.007]
+        },
+        {
+          "text": "BGMボタン",
+          "translation": "BGM Button",
+          "bbox": [0.8542, 0.9196, 0.0294, 0.0075]
+        },
+        {
+          "text": "【下から見た図】",
+          "translation": "[View from below]",
+          "bbox": [0.8475, 0.9369, 0.0389, 0.008]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.9772, 0.9727, 0.0031, 0.0046]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-2.webp",
+      "blocks": [
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.0201, 0.9726, 0.003, 0.0047]
+        },
+        {
+          "text": "△ 注意",
+          "translation": "△ Caution",
+          "bbox": [0.0402, 0.0804, 0.0522, 0.015]
+        },
+        {
+          "text": "電源の入れ方 : 起動時のモード選択",
+          "translation": "How to turn on the power: Mode selection at startup",
+          "bbox": [0.1526, 0.0424, 0.1932, 0.0168]
+        },
+        {
+          "text": "※本商品は、電源ONの状態ではずっと電池を消費した状態が続きます。 遊び終わったら必ず電源を切ってください。",
+          "translation": "*This product continues to consume batteries while in the power ON state. Be sure to turn off the power after you finish playing.",
+          "bbox": [0.1098, 0.0842, 0.3461, 0.009]
+        },
+        {
+          "text": "【裏面から見た図 (電源スイッチ拡大図)】",
+          "translation": "[View from the back (enlarged view of the power switch)]",
+          "bbox": [0.3051, 0.1331, 0.1015, 0.008]
+        },
+        {
+          "text": "変身遊び",
+          "translation": "Transformation play",
+          "bbox": [0.7241, 0.0424, 0.0513, 0.0163]
+        },
+        {
+          "text": "仮面ライダーBLACK SUNへの変身",
+          "translation": "Transformation into Kamen Rider BLACK SUN",
+          "bbox": [0.6613, 0.0773, 0.1752, 0.0137]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.5365, 0.1065, 0.0041, 0.0083]
+        },
+        {
+          "text": "<変身前状態>で 「変身・攻撃ボタン」を短押しします。\n少しの間の後、 「握り拳ポーズ音&ベルト出現音」が鳴り、\n約30秒間の 「赤外線センサー(左) 入力受付状態」になります。",
+          "translation": "1\nWhile in <pre-transformation state>, press the \"Transform/Attack Button\" briefly.\nAfter a short pause, the \"Clenched-Fist Pose Sound\" and \"Belt Appearance Sound\" will play,\nand the unit will enter an \"Infrared Sensor (left) input acceptance state\" for about 30 seconds.",
+          "bbox": [0.5487, 0.1021, 0.1517, 0.0302]
+        },
+        {
+          "text": "※「赤外線センサー入力受付状態」は、「天面の2つのボタン\nいずれかを押す」 または 「30秒経過する」ことで、\n「キャンセル音」とともに解除されます。\nまた、この状態中はBGMボタンは機能しません。",
+          "translation": "The \"Infrared Sensor Input Acceptance State\" is cleared when either of the two buttons on the top surface is pressed or when 30 seconds have elapsed; it is cleared together with a \"cancel sound.\" Also, while in this state the BGM button does not function.",
+          "bbox": [0.5526, 0.147, 0.1392, 0.0413]
+        },
+        {
+          "text": "変身・攻撃ボタン",
+          "translation": "Transform/Attack Button",
+          "bbox": [0.7964, 0.1036, 0.0397, 0.0072]
+        },
+        {
+          "text": "赤外線\nセンサー (左)",
+          "translation": "Infrared sensor (left)",
+          "bbox": [0.9299, 0.1005, 0.0319, 0.0165]
+        },
+        {
+          "text": "OFF",
+          "translation": "OFF",
+          "bbox": [0.3178, 0.2013, 0.0164, 0.0085]
+        },
+        {
+          "text": "O ON",
+          "translation": "O ON",
+          "bbox": [0.381, 0.2016, 0.0214, 0.009]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.5362, 0.2209, 0.005, 0.0078]
+        },
+        {
+          "text": "赤外線センサー(左)に\n手をかざします。",
+          "translation": "Hold your hand over the infrared sensor (left).",
+          "bbox": [0.5485, 0.2155, 0.0539, 0.0191]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.6211, 0.2207, 0.0054, 0.008]
+        },
+        {
+          "text": "赤外線センサー (左)から\n手を離します。",
+          "translation": "Remove your hand from the infrared sensor (left).",
+          "bbox": [0.6333, 0.2158, 0.0585, 0.0194]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.7268, 0.2207, 0.0057, 0.0078]
+        },
+        {
+          "text": "赤外線センサー(左)に\n再び手をかざします。",
+          "translation": "Hold your hand over the infrared sensor (left) again.",
+          "bbox": [0.7401, 0.216, 0.0537, 0.0183]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.8542, 0.2209, 0.005, 0.0083]
+        },
+        {
+          "text": "再び手を離します。",
+          "translation": "Remove your hand again.",
+          "bbox": [0.8666, 0.2276, 0.0445, 0.007]
+        },
+        {
+          "text": "「変身ポーズ音1」が\n鳴ります。",
+          "translation": "The \"Transformation Pose Sound 1\" will play.",
+          "bbox": [0.5541, 0.2388, 0.048, 0.0181]
+        },
+        {
+          "text": "「変身ポーズ音2」が鳴ります。",
+          "translation": "The \"Transformation Pose Sound 2\" will play.",
+          "bbox": [0.6392, 0.238, 0.0707, 0.0083]
+        },
+        {
+          "text": "音声は鳴りません。",
+          "translation": "No sound will play.",
+          "bbox": [0.7457, 0.239, 0.045, 0.007]
+        },
+        {
+          "text": "赤外線センサー (左)から",
+          "translation": "From the infrared sensor (left)",
+          "bbox": [0.8666, 0.216, 0.0585, 0.0075]
+        },
+        {
+          "text": "「変身ポーズ音3」が鳴り、続けて\n「仮面ライダーBLACK SUN変身音」\nが鳴り、ベルトが発光・変形します。",
+          "translation": "\"Transformation Pose Sound 3\" will play, followed by the \"Kamen Rider BLACK SUN Transformation Sound,\" and the belt will light up and transform.",
+          "bbox": [0.8719, 0.2385, 0.0915, 0.0302]
+        },
+        {
+          "text": "通常モード",
+          "translation": "Normal mode",
+          "bbox": [0.0585, 0.2941, 0.0484, 0.0127]
+        },
+        {
+          "text": "裏面の電源をONにします。",
+          "translation": "Turn on the power switch on the back.",
+          "bbox": [0.1364, 0.2925, 0.0711, 0.0075]
+        },
+        {
+          "text": "「ベルト出現音」が鳴り、可動部が自動変形し、 「通常モード」として起動します。",
+          "translation": "The \"Belt Appearance Sound\" will play, the movable parts will automatically transform, and the unit will start up in \"Normal Mode.\"",
+          "bbox": [0.1425, 0.3039, 0.2023, 0.0083]
+        },
+        {
+          "text": "「台詞ボタン」を押しながら、裏面の電源をONにします。",
+          "translation": "Turn on the power switch on the back while holding down the \"Dialogue Button.\"",
+          "bbox": [0.1368, 0.3295, 0.1438, 0.0075]
+        },
+        {
+          "text": "台詞モード",
+          "translation": "Dialogue Mode",
+          "bbox": [0.0589, 0.3354, 0.0478, 0.014]
+        },
+        {
+          "text": "南光太郎の「変身!」の台詞が鳴り、可動部が自動変形し、 「台詞モード」として起動します。\n台詞モードでは、変身ポーズ音や各種攻撃音に南光太郎の台詞が付加されます。",
+          "translation": "Kotaro Minami's line \"Transform!\" will play, the movable parts will automatically transform, and the unit will start up in \"Dialogue Mode.\" In Dialogue Mode, Kotaro Minami's lines are added to the transformation pose sounds and the various attack sounds.",
+          "bbox": [0.1421, 0.3408, 0.2329, 0.0199]
+        },
+        {
+          "text": "台詞再生遊び",
+          "translation": "Dialogue playback",
+          "bbox": [0.0356, 0.4021, 0.077, 0.0171]
+        },
+        {
+          "text": "「台詞ボタン」を短押しします。 下記表の台詞が順番に鳴ります。",
+          "translation": "Press the \"Dialogue Button\" briefly. The lines in the table below will play in order.",
+          "bbox": [0.1349, 0.4119, 0.1549, 0.0072]
+        },
+        {
+          "text": "台詞",
+          "translation": "Lines",
+          "bbox": [0.1338, 0.4398, 0.0105, 0.0072]
+        },
+        {
+          "text": "台詞",
+          "translation": "Lines",
+          "bbox": [0.3549, 0.4393, 0.0103, 0.0075]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.0402, 0.4558, 0.002, 0.0049]
+        },
+        {
+          "text": "信彦･･･。",
+          "translation": "Nobuhiko...",
+          "bbox": [0.0539, 0.4556, 0.0161, 0.0062]
+        },
+        {
+          "text": "18",
+          "translation": "18",
+          "bbox": [0.2595, 0.4558, 0.0072, 0.0049]
+        },
+        {
+          "text": "創世王の奪い合いがしたいなら、俺もそうする。",
+          "translation": "If you want to fight over the Creation King, I'll do the same.",
+          "bbox": [0.2754, 0.4556, 0.0941, 0.0062]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.0393, 0.4703, 0.0042, 0.0054]
+        },
+        {
+          "text": "気が済んだか。 帰るぞ。",
+          "translation": "Satisfied? Let's go home.",
+          "bbox": [0.0541, 0.47, 0.0471, 0.0065]
+        },
+        {
+          "text": "19",
+          "translation": "19",
+          "bbox": [0.2595, 0.4703, 0.0066, 0.0052]
+        },
+        {
+          "text": "50年前とは違う。•••今日こそ、俺が終わらせる・・・!",
+          "translation": "It's different from fifty years ago... Today, I'm the one who will put an end to this...!",
+          "bbox": [0.2756, 0.4703, 0.0999, 0.0062]
+        },
+        {
+          "text": "力じゃ勝てない。 まずは俺の指を剥がして折れ。 次に足の甲を踵で踏みつけろ。",
+          "translation": "You can't win through brute force. First, pry my fingers loose and break them. Next, stomp on the instep of my foot with your heel.",
+          "bbox": [0.0543, 0.4848, 0.1589, 0.0062]
+        },
+        {
+          "text": "20",
+          "translation": "20",
+          "bbox": [0.2588, 0.4853, 0.0078, 0.0044]
+        },
+        {
+          "text": "これでもう･･･お終いだ。",
+          "translation": "This is the end.",
+          "bbox": [0.2756, 0.485, 0.0465, 0.0057]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.0395, 0.4928, 0.0037, 0.0052]
+        },
+        {
+          "text": "反転して手を外せ。 手が残ってたら引き込んで相手を崩せ。 踏み込んで肘で突け。",
+          "translation": "Pivot and free your hand. If their hand remains, pull them in to break their balance. Step in and strike with your elbow.",
+          "bbox": [0.0543, 0.4995, 0.1643, 0.0062]
+        },
+        {
+          "text": "21",
+          "translation": "21",
+          "bbox": [0.2588, 0.4997, 0.0065, 0.0049]
+        },
+        {
+          "text": "お前は、怪人だけの世界を望むんだな。",
+          "translation": "You desire a world inhabited solely by monsters, don't you?",
+          "bbox": [0.2757, 0.4997, 0.0777, 0.0059]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.0393, 0.5145, 0.0042, 0.0049]
+        },
+        {
+          "text": "クジラ、お前も俺の敵か?",
+          "translation": "Whale, are you my enemy too?",
+          "bbox": [0.0543, 0.514, 0.0502, 0.0065]
+        },
+        {
+          "text": "22",
+          "translation": "22",
+          "bbox": [0.259, 0.5145, 0.007, 0.0047]
+        },
+        {
+          "text": "断る。 お前に、 キングストーンは渡さない。",
+          "translation": "I refuse. I won't hand the King Stone over to you.",
+          "bbox": [0.2756, 0.514, 0.084, 0.0062]
+        },
+        {
+          "text": "お前は怪人になって幸せだったか? 俺は、そう思ったことは一度も無い。",
+          "translation": "Were you happy becoming a monster? I, for one, have never felt that way.",
+          "bbox": [0.0544, 0.5287, 0.1423, 0.0059]
+        },
+        {
+          "text": "23",
+          "translation": "23",
+          "bbox": [0.259, 0.5289, 0.0072, 0.0049]
+        },
+        {
+          "text": "葵、大丈夫か?",
+          "translation": "Aoi, are you okay?",
+          "bbox": [0.2754, 0.5289, 0.0284, 0.0054]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.0395, 0.5367, 0.0037, 0.0052]
+        },
+        {
+          "text": "新しい創世王が生まれても、 同じことを繰り返すだけだ。",
+          "translation": "Even if a new Creation King is born, the same cycle will simply repeat.",
+          "bbox": [0.0543, 0.5434, 0.1113, 0.0059]
+        },
+        {
+          "text": "24",
+          "translation": "24",
+          "bbox": [0.259, 0.5437, 0.0076, 0.0044]
+        },
+        {
+          "text": "信彦が創世王になるなら止める。",
+          "translation": "If Nobuhiko becomes the Creation King, I will stop him.",
+          "bbox": [0.2754, 0.5434, 0.0657, 0.0059]
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.0397, 0.5581, 0.0039, 0.0052]
+        },
+        {
+          "text": "怪人がこの世界からいなくなる。 それで十分だろ。",
+          "translation": "Monsters will be gone from this world. That should be enough, right?",
+          "bbox": [0.0541, 0.5581, 0.1008, 0.0059]
+        },
+        {
+          "text": "俺も、受け継いでるんだよ。 50年前の俺が、 ずっと見張ってる。",
+          "translation": "I've inherited it too. My fifty-years-ago self has been watching over me all along.",
+          "bbox": [0.2754, 0.5581, 0.1253, 0.0059]
+        },
+        {
+          "text": "25",
+          "translation": "25",
+          "bbox": [0.2588, 0.5654, 0.0074, 0.0052]
+        },
+        {
+          "text": "7",
+          "translation": "7",
+          "bbox": [0.0395, 0.5724, 0.0041, 0.0054]
+        },
+        {
+          "text": "お前だって何もしなかったろ。 なんでゆかりを、 ビルゲニアから守れなかった!",
+          "translation": "You didn't do anything either, did you? Why couldn't you protect Yukari from Bilgenia?!",
+          "bbox": [0.0543, 0.5724, 0.1543, 0.0062]
+        },
+        {
+          "text": "これが最後の戦いだ。",
+          "translation": "This is the final battle.",
+          "bbox": [0.2756, 0.5726, 0.043, 0.0059]
+        },
+        {
+          "text": "8",
+          "translation": "8",
+          "bbox": [0.0395, 0.5873, 0.0039, 0.0052]
+        },
+        {
+          "text": "あの時はここで止められたよな!",
+          "translation": "We got stopped right here back then, didn't we?",
+          "bbox": [0.0544, 0.5873, 0.0642, 0.0059]
+        },
+        {
+          "text": "26",
+          "translation": "26",
+          "bbox": [0.2588, 0.5873, 0.0076, 0.0052]
+        },
+        {
+          "text": "敗北の、 意味だ。 俺がダメだったら、次を、頼む。",
+          "translation": "It signifies defeat. If I fail, I leave it to the next person.",
+          "bbox": [0.2754, 0.5871, 0.0938, 0.0065]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.0393, 0.6018, 0.0041, 0.0054]
+        },
+        {
+          "text": "あのキングストーンは、あいつの物だ。 俺らが奪っていいもんじゃない。",
+          "translation": "That King Stone belongs to him. It's not something we should be taking.",
+          "bbox": [0.0543, 0.6021, 0.1419, 0.0059]
+        },
+        {
+          "text": "27",
+          "translation": "27",
+          "bbox": [0.2588, 0.6018, 0.0074, 0.0057]
+        },
+        {
+          "text": "そんなところに座って、 創世王にでもなるつもりか。",
+          "translation": "Sitting there like that—do you intend to become the Creation King or something?",
+          "bbox": [0.2756, 0.6018, 0.1021, 0.0059]
+        },
+        {
+          "text": "10",
+          "translation": "10",
+          "bbox": [0.0384, 0.6165, 0.007, 0.0052]
+        },
+        {
+          "text": "乗れ。 葵、一緒にいる間だけは、俺が守ってやる。 ・・・帰るぞ。 乗れ。",
+          "translation": "Get on. Aoi—as long as we're together, I'll protect you. ...Let's go home. Get on.",
+          "bbox": [0.0541, 0.6165, 0.1316, 0.0059]
+        },
+        {
+          "text": "28",
+          "translation": "28",
+          "bbox": [0.2588, 0.6163, 0.0076, 0.0052]
+        },
+        {
+          "text": "信彦･･･。",
+          "translation": "Nobuhiko...",
+          "bbox": [0.2754, 0.6163, 0.0161, 0.0062]
+        },
+        {
+          "text": "11",
+          "translation": "11",
+          "bbox": [0.0384, 0.6302, 0.0055, 0.0054]
+        },
+        {
+          "text": "まさか･･･ 葵なのか...。",
+          "translation": "It can't be... Is it Aoi...?",
+          "bbox": [0.0544, 0.6313, 0.0452, 0.0059]
+        },
+        {
+          "text": "それは、違う。 親父たちは、 俺たちに、争わせようとしたんじゃない。",
+          "translation": "That's not it. Our fathers didn't intend for us to fight each other.",
+          "bbox": [0.2756, 0.631, 0.1323, 0.0062]
+        },
+        {
+          "text": "29",
+          "translation": "29",
+          "bbox": [0.259, 0.6388, 0.0074, 0.0047]
+        },
+        {
+          "text": "12",
+          "translation": "12",
+          "bbox": [0.0382, 0.645, 0.0072, 0.0059]
+        },
+        {
+          "text": "信彦、そいつは俺がやる。 いいからどけ!",
+          "translation": "Nobuhiko, I'll handle him. Just get out of the way!",
+          "bbox": [0.0541, 0.6455, 0.0799, 0.0062]
+        },
+        {
+          "text": "争わない、俺たちだから、選んだ。 ・・・そう思ったら、ダメか?",
+          "translation": "We chose this because we don't fight. ...Is that the wrong way to think?",
+          "bbox": [0.2754, 0.6455, 0.1163, 0.0062]
+        },
+        {
+          "text": "13",
+          "translation": "13",
+          "bbox": [0.0384, 0.6602, 0.007, 0.0052]
+        },
+        {
+          "text": "よくも葵を、 怪人に･･･。 許さん!",
+          "translation": "How dare you turn Aoi into a monster... I won't forgive you!",
+          "bbox": [0.0544, 0.6602, 0.0611, 0.0062]
+        },
+        {
+          "text": "30",
+          "translation": "30",
+          "bbox": [0.2588, 0.6605, 0.0076, 0.0049]
+        },
+        {
+          "text": "俺はお前から奪う物なんて何もない。 だから俺に託せ。",
+          "translation": "There is nothing I want to take from you. So, entrust it to me.",
+          "bbox": [0.2754, 0.6602, 0.1096, 0.0062]
+        },
+        {
+          "text": "14",
+          "translation": "14",
+          "bbox": [0.0382, 0.6749, 0.007, 0.0049]
+        },
+        {
+          "text": "葵 !!",
+          "translation": "Aoi!",
+          "bbox": [0.0541, 0.6739, 0.0247, 0.007]
+        },
+        {
+          "text": "怪人は、人間だ。 誰かと出会って恋をする。 子供だって作る。",
+          "translation": "Monsters are human. They meet people and fall in love. They even have children.",
+          "bbox": [0.2752, 0.6749, 0.1202, 0.0059]
+        },
+        {
+          "text": "31",
+          "translation": "31",
+          "bbox": [0.259, 0.6827, 0.0065, 0.0044]
+        },
+        {
+          "text": "15",
+          "translation": "15",
+          "bbox": [0.0382, 0.6897, 0.0066, 0.0047]
+        },
+        {
+          "text": "生きて戦え。 戦い方を教えたはずだ。",
+          "translation": "Stay alive and fight. I taught you how to fight, after all.",
+          "bbox": [0.0543, 0.6894, 0.0742, 0.0062]
+        },
+        {
+          "text": "それで生きて、いつか死ぬ。 何も特別なことは無い。",
+          "translation": "You live like that, and someday you die. There is nothing special about it.",
+          "bbox": [0.2756, 0.6897, 0.1037, 0.0059]
+        },
+        {
+          "text": "16",
+          "translation": "16",
+          "bbox": [0.0384, 0.7039, 0.0066, 0.0054]
+        },
+        {
+          "text": "必ず帰る。 あの村で待ってろ。",
+          "translation": "I'll definitely return. Wait for me in that village.",
+          "bbox": [0.0541, 0.7041, 0.0602, 0.0059]
+        },
+        {
+          "text": "32",
+          "translation": "32",
+          "bbox": [0.2588, 0.7041, 0.0076, 0.0049]
+        },
+        {
+          "text": "ゆかりが望んだ世界に、嘘は無いと、俺は思ってる。",
+          "translation": "I believe there are no lies in the world Yukari wished for.",
+          "bbox": [0.2757, 0.7041, 0.1008, 0.0062]
+        },
+        {
+          "text": "17",
+          "translation": "17",
+          "bbox": [0.0384, 0.7181, 0.0068, 0.0059]
+        },
+        {
+          "text": "怪人の命は、人間と何も変わらないと、俺はあんたに教わった。 それは今でも、変わらないのか。",
+          "translation": "You taught me that a monster's life is no different from a human's. Does that still hold true?",
+          "bbox": [0.0543, 0.7186, 0.1894, 0.0065]
+        },
+        {
+          "text": "33",
+          "translation": "33",
+          "bbox": [0.259, 0.7189, 0.0068, 0.0052]
+        },
+        {
+          "text": "信彦! ... 信彦・・・おい! 信彦!",
+          "translation": "Nobuhiko! ... Nobuhiko... Hey! Nobuhiko!",
+          "bbox": [0.2752, 0.7191, 0.0559, 0.0057]
+        },
+        {
+          "text": "※「台詞モード」の場合、3で「変･･･」、5 で「身!」の台詞が一緒に鳴ります。 ※ベルトの発光は、 変身後に1分間継続します。",
+          "translation": "* In \"Dialogue Mode,\" at 3 the line \"Hen...\" and at 5 the line \"...shin!\" will play together. * The belt's illumination remains on for 1 minute after transformation.",
+          "bbox": [0.5378, 0.4496, 0.2983, 0.0078]
+        },
+        {
+          "text": "A",
+          "translation": "A",
+          "bbox": [0.5456, 0.6566, 0.0268, 0.0313]
+        },
+        {
+          "text": "自動変形",
+          "translation": "Automatic transformation",
+          "bbox": [0.5803, 0.654, 0.0456, 0.015]
+        },
+        {
+          "text": "の注意点",
+          "translation": "Precautions",
+          "bbox": [0.5795, 0.6747, 0.0456, 0.0145]
+        },
+        {
+          "text": "自動変形の途中に動きを妨げると、 安全性の確保のため、 自動変形が停止します。\nその場合、一度変身解除をするか電源を入れ直して、変身前の開いた状態に戻してください。\n●メーターの針の停止位置は多少のばらつき・ブレがございます。\n■可動部分のスピードやメーターの針の動きは、電池の消費状況によって変わりますのでご注意ください。\n●赤外線センサーは、太陽光の下や、太陽光が入り込む屋内ではうまく反応しません。\n太陽光の当たらない屋内でお遊びください。\n●赤外線センサーの反応距離は、可動部 (左上・右上)のパーツに手が乗るくらいの距離になります。\n反応が悪いときは、手をさらに赤外線センサーに近づけてください。",
+          "translation": "If movement is obstructed during automatic transformation, the automatic transformation will stop to ensure safety.\nIn that case, either cancel the transformation once or turn the power off and back on to return it to the open (pre-transformation) state.\n● The meter needle's stop position may vary slightly.\n■ The speed of movable parts and the movement of the meter needle may change depending on battery condition, so please be careful.\n● The infrared sensors do not respond well under direct sunlight or in indoor areas where sunlight enters. Play indoors away from direct sunlight.\n● The infrared sensor's response distance is about the distance from which a hand would rest on the movable parts (upper left / upper right). If response is poor, move your hand closer to the infrared sensor.",
+          "bbox": [0.6434, 0.6235, 0.308, 0.0972]
+        },
+        {
+          "text": "黒殿様飛蝗怪人への変身",
+          "translation": "Transformation into the Black Lord Locust Kaijin",
+          "bbox": [0.6884, 0.7452, 0.1222, 0.0158]
+        },
+        {
+          "text": "BGM再生遊び",
+          "translation": "BGM playback",
+          "bbox": [0.0496, 0.7659, 0.084, 0.0165]
+        },
+        {
+          "text": "順番/スタンバイ回数",
+          "translation": "Sequence / Standby count",
+          "bbox": [0.1796, 0.7736, 0.0439, 0.0065]
+        },
+        {
+          "text": "BGM",
+          "translation": "BGM",
+          "bbox": [0.2697, 0.7739, 0.0127, 0.0054]
+        },
+        {
+          "text": "順番/スタンバイ回数",
+          "translation": "Order/Number of Standby Turns",
+          "bbox": [0.332, 0.7736, 0.0439, 0.0065]
+        },
+        {
+          "text": "BGM",
+          "translation": "BGM",
+          "bbox": [0.4192, 0.7744, 0.0124, 0.0052]
+        },
+        {
+          "text": "<変身前状態>で 「変身・攻撃ボタン」を長押しします。",
+          "translation": "Press and hold the \"Transform/Attack button\" while in the <pre-transformation state>.",
+          "bbox": [0.5496, 0.7708, 0.1262, 0.0078]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.5377, 0.7755, 0.0033, 0.0078]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.7962, 0.7762, 0.0046, 0.0072]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.2004, 0.7904, 0.0018, 0.0041]
+        },
+        {
+          "text": "BLACK SUN ①",
+          "translation": "BLACK SUN ①",
+          "bbox": [0.2348, 0.7899, 0.0358, 0.0054]
+        },
+        {
+          "text": "7",
+          "translation": "7",
+          "bbox": [0.3525, 0.7904, 0.0033, 0.0047]
+        },
+        {
+          "text": "仮面ライダーBLACK",
+          "translation": "Kamen Rider Black",
+          "bbox": [0.3869, 0.7899, 0.0447, 0.0059]
+        },
+        {
+          "text": "「BGMボタン」を短押しします。",
+          "translation": "Briefly press the \"BGM button.\"",
+          "bbox": [0.0371, 0.8018, 0.0722, 0.0072]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.2003, 0.8041, 0.0028, 0.0054]
+        },
+        {
+          "text": "KILLING",
+          "translation": "KILLING",
+          "bbox": [0.2346, 0.8044, 0.0199, 0.0052]
+        },
+        {
+          "text": "8",
+          "translation": "8",
+          "bbox": [0.3523, 0.8049, 0.003, 0.0044]
+        },
+        {
+          "text": "MAIN THEME (LONG ver.) ①",
+          "translation": "MAIN THEME (LONG ver.) 1",
+          "bbox": [0.3872, 0.8039, 0.0681, 0.0062]
+        },
+        {
+          "text": "変身・攻撃ボタン",
+          "translation": "Transform/Attack Button",
+          "bbox": [0.6133, 0.8044, 0.0395, 0.0072]
+        },
+        {
+          "text": "「ベルト出現音」が鳴り、約30秒間の 「赤外線センサー(左右) 入力受付状態」になります。\n赤外線",
+          "translation": "The 'belt appearance' sound will play, and the unit will enter a state that accepts input from the infrared sensors (left/right) for about 30 seconds.",
+          "bbox": [0.5491, 0.7822, 0.2134, 0.0253]
+        },
+        {
+          "text": "赤外線センサー(左右)のどちらかに手をかざし、離します。\n「黒殿様飛蝗怪人 変身音」が鳴り、ベルトが発光・変形します。",
+          "translation": "Hold your hand over either the left or right infrared sensor, then move it away.\n The \"Black Lord Grasshopper Monster transformation sound\" plays, and the belt lights up and transforms.",
+          "bbox": [0.8086, 0.7708, 0.1488, 0.0189]
+        },
+        {
+          "text": "赤外線",
+          "translation": "Infrared rays",
+          "bbox": [0.7543, 0.8, 0.0162, 0.0078]
+        },
+        {
+          "text": "センサー ( 右 )",
+          "translation": "Sensor (Right)",
+          "bbox": [0.5413, 0.8098, 0.0321, 0.0067]
+        },
+        {
+          "text": "センサー (左)",
+          "translation": "Sensor (Left)",
+          "bbox": [0.7462, 0.8096, 0.0319, 0.0072]
+        },
+        {
+          "text": "→右記表の 「BGM」が順番に鳴ります。",
+          "translation": "→ The \"BGM\" listed in the table on the right will play in sequence.",
+          "bbox": [0.0367, 0.8137, 0.0919, 0.0072]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.1999, 0.8191, 0.0033, 0.0044]
+        },
+        {
+          "text": "CHASE",
+          "translation": "CHASE",
+          "bbox": [0.2346, 0.8183, 0.0175, 0.0057]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.3522, 0.8189, 0.0035, 0.0049]
+        },
+        {
+          "text": "ENDLESS DESTINY",
+          "translation": "ENDLESS DESTINY",
+          "bbox": [0.3872, 0.8186, 0.0478, 0.0052]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.1997, 0.8333, 0.0037, 0.0044]
+        },
+        {
+          "text": "Restrained at this point that time",
+          "translation": "Restrained at that moment.",
+          "bbox": [0.2348, 0.8328, 0.0803, 0.0057]
+        },
+        {
+          "text": "10",
+          "translation": "10",
+          "bbox": [0.3512, 0.8331, 0.0063, 0.0047]
+        },
+        {
+          "text": "MAIN THEME (LONG ver.) ②",
+          "translation": "MAIN THEME (LONG ver.) 2",
+          "bbox": [0.3872, 0.8326, 0.0677, 0.0062]
+        },
+        {
+          "text": "※「台詞モード」の場合、\n変身音中に唸り声が\n鳴ります。",
+          "translation": "※ In 'Dialogue Mode,' a growl will play during the transformation sound.",
+          "bbox": [0.8021, 0.8093, 0.0552, 0.0307]
+        },
+        {
+          "text": "※BGMが鳴っている間に、もう一度\n「BGMボタン」を押すと、 BGMが鳴り止みます。",
+          "translation": "* If you press the \"BGM button\" again while a BGM is playing, that BGM will stop.",
+          "bbox": [0.0397, 0.8388, 0.1192, 0.0191]
+        },
+        {
+          "text": "67",
+          "translation": "67",
+          "bbox": [0.2003, 0.8468, 0.0022, 0.0059]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.1999, 0.8475, 0.0033, 0.0047]
+        },
+        {
+          "text": "BLACK SUN ②",
+          "translation": "BLACK SUN ②",
+          "bbox": [0.2348, 0.847, 0.0351, 0.0052]
+        },
+        {
+          "text": "11",
+          "translation": "11",
+          "bbox": [0.3512, 0.8468, 0.0052, 0.0049]
+        },
+        {
+          "text": "Declaration of war",
+          "translation": "Declaration of war",
+          "bbox": [0.3872, 0.8465, 0.0445, 0.0059]
+        },
+        {
+          "text": "※ベルトの発光は、\n変身後に1分間",
+          "translation": "* The belt's illumination remains on for 1 minute after transformation.",
+          "bbox": [0.8021, 0.8447, 0.0443, 0.0191]
+        },
+        {
+          "text": "CO",
+          "translation": "CO",
+          "bbox": [0.2001, 0.8612, 0.0026, 0.0049]
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.1999, 0.8618, 0.0033, 0.0047]
+        },
+        {
+          "text": "MAN of SORROW",
+          "translation": "MAN of SORROW",
+          "bbox": [0.2348, 0.8612, 0.0425, 0.0057]
+        },
+        {
+          "text": "12",
+          "translation": "12",
+          "bbox": [0.3511, 0.8612, 0.0063, 0.0047]
+        },
+        {
+          "text": "Did you see the sunrise?",
+          "translation": "Did you see the sunrise?",
+          "bbox": [0.3872, 0.8607, 0.0594, 0.007]
+        },
+        {
+          "text": "BGMスタンバイ機能",
+          "translation": "BGM standby function",
+          "bbox": [0.0367, 0.891, 0.0755, 0.0114]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.1355, 0.891, 0.0042, 0.0075]
+        },
+        {
+          "text": "「BGMボタン」を長押しします。 「スタンバイ音」が鳴ります。",
+          "translation": "Press and hold the \"BGM button.\" A \"standby sound\" will play.",
+          "bbox": [0.1493, 0.8912, 0.1462, 0.0075]
+        },
+        {
+          "text": "※そのまま長押しし続けると、 最大12回の「スタンバイ音」が鳴ります。",
+          "translation": "* If you continue holding the button, a 'standby' tone will sound up to 12 times.",
+          "bbox": [0.3097, 0.891, 0.151, 0.0072]
+        },
+        {
+          "text": "2 その後、「仮面ライダーBLACK SUN」 または 「黒殿様飛蝗怪人」 に変身すると、それぞれのタイミングで、スタンバイ回数に応じた上記表のBGMが鳴り始めます。",
+          "translation": "2After that, when you transform into either \"Kamen Rider BLACK SUN\" or \"Black Lord Locust Kaijin,\" the BGM from the table above corresponding to the number of standby tones will begin to play at the appropriate timing.",
+          "bbox": [0.0362, 0.9227, 0.3907, 0.0078]
+        },
+        {
+          "text": "仮面ライダーBLACK SUN 「握り拳ポーズ音&ベルト出現音」のタイミングで鳴り始めます。",
+          "translation": "For Kamen Rider BLACK SUN, it begins at the timing of the 'clenched-fist pose' sound & 'belt appearance' sound.",
+          "bbox": [0.0546, 0.9408, 0.2335, 0.0072]
+        },
+        {
+          "text": "黒殿様飛蝗怪人 「変身音」のタイミングで鳴り始めます。",
+          "translation": "For the Black Lord Locust Kaijin, it begins at the timing of the 'transformation' sound.",
+          "bbox": [0.3101, 0.9406, 0.1462, 0.008]
+        },
+        {
+          "text": "※「赤外線センサー入力受付状態」は、「天面の2つのボタンいずれかを押す」 または 「30秒経過する」\nことで、「キャンセル音」 とともに解除されます。 また、 この状態中はBGMボタンは機能しません。",
+          "translation": "* The \"Infrared sensor input reception state\" is canceled (accompanied by a \"cancel\" sound) either when you press either of the two buttons on the top surface or when 30 seconds have elapsed. While in this state, the BGM button will not function.",
+          "bbox": [0.5391, 0.9209, 0.2379, 0.0194]
+        },
+        {
+          "text": "継続します。",
+          "translation": "Continues.",
+          "bbox": [0.8069, 0.8682, 0.0293, 0.0078]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.9769, 0.9729, 0.0042, 0.0047]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-3.webp",
+      "blocks": [
+        {
+          "text": "変身音バリエーションの選択",
+          "translation": "Selecting Transformation Sound Variations",
+          "bbox": [0.0378, 0.0509, 0.1019, 0.0116]
+        },
+        {
+          "text": "<変身前状態>で 「変身・攻撃ボタン」 と 「台詞ボタン」を同時に押します。\n→押している長さに応じて、 「セレクト音」が最大2回まで鳴ります。 セレクト音を鳴らした回数に\n応じて、変身時に鳴る 「ベルト出現音・変身ポーズ音・変身音」が下記のように変化します。",
+          "translation": "While in the <Pre-Transformation State>, press and hold the \"Transform/Attack Button\" and the \"Dialogue Button\" simultaneously.\n→ Depending on how long you hold them, the \"Select sound\" will play up to two times. The number of Select sounds played will change the belt-appearance sound, transformation-pose sound, and transformation sound as follows.",
+          "bbox": [0.0354, 0.0762, 0.2278, 0.0302]
+        },
+        {
+          "text": "変身・攻撃ボタン",
+          "translation": "Transform/Attack Button",
+          "bbox": [0.3272, 0.0742, 0.0397, 0.007]
+        },
+        {
+          "text": "台詞ボタン",
+          "translation": "Dialogue Button",
+          "bbox": [0.385, 0.0742, 0.0268, 0.0065]
+        },
+        {
+          "text": "セレクト無し",
+          "translation": "No select",
+          "bbox": [0.117, 0.1183, 0.0284, 0.0065]
+        },
+        {
+          "text": "セレクト1回",
+          "translation": "Select 1 time",
+          "bbox": [0.1739, 0.1178, 0.0282, 0.0075]
+        },
+        {
+          "text": "仮面ライダーBLACK SUN",
+          "translation": "Kamen Rider BLACK SUN",
+          "bbox": [0.0397, 0.1354, 0.0568, 0.0065]
+        },
+        {
+          "text": "5話変身音",
+          "translation": "Episode 5 transformation sound",
+          "bbox": [0.1203, 0.1354, 0.0218, 0.0065]
+        },
+        {
+          "text": "7話変身音",
+          "translation": "Episode 7 transformation sound",
+          "bbox": [0.1772, 0.1354, 0.0218, 0.0065]
+        },
+        {
+          "text": "黒殿様飛蝗怪人",
+          "translation": "Black Lord Grasshopper Monster",
+          "bbox": [0.052, 0.1535, 0.0327, 0.0062]
+        },
+        {
+          "text": "汎用変身音",
+          "translation": "Generic transformation sound",
+          "bbox": [0.1196, 0.1537, 0.0231, 0.0059]
+        },
+        {
+          "text": "セレクト2回",
+          "translation": "Select 2 times",
+          "bbox": [0.2307, 0.1178, 0.0281, 0.0075]
+        },
+        {
+          "text": "10話変身音",
+          "translation": "Episode 10 transformation sound",
+          "bbox": [0.2326, 0.1357, 0.0245, 0.0062]
+        },
+        {
+          "text": "1話変身音(セレクト1・2回共通)",
+          "translation": "Episode 1 transformation sound (same for Select 1 and 2)",
+          "bbox": [0.1838, 0.1535, 0.0655, 0.0065]
+        },
+        {
+          "text": "攻撃・剣の引き剥がし",
+          "translation": "Attack — Pulling the Sword Free",
+          "bbox": [0.0382, 0.2406, 0.0768, 0.0121]
+        },
+        {
+          "text": "変身後の攻撃遊び",
+          "translation": "Post-Transformation Attack Play",
+          "bbox": [0.1984, 0.2041, 0.103, 0.0173]
+        },
+        {
+          "text": "<変身後状態>で",
+          "translation": "In the <Post-Transformation State>,",
+          "bbox": [0.0489, 0.2646, 0.0423, 0.0075]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.0371, 0.2698, 0.0035, 0.0088]
+        },
+        {
+          "text": "1回目",
+          "translation": "1st time",
+          "bbox": [0.2017, 0.2708, 0.0133, 0.0065]
+        },
+        {
+          "text": "「変身・攻撃ボタン」を",
+          "translation": "Press the \"Transform/Attack Button\"",
+          "bbox": [0.0493, 0.276, 0.05, 0.0078]
+        },
+        {
+          "text": "短押しします。",
+          "translation": "Press briefly.",
+          "bbox": [0.0487, 0.2866, 0.0332, 0.008]
+        },
+        {
+          "text": "仮面ライダーBLACK SUN",
+          "translation": "Kamen Rider BLACK SUN",
+          "bbox": [0.115, 0.2886, 0.057, 0.0059]
+        },
+        {
+          "text": "ビルゲニア戦の攻撃音",
+          "translation": "Bilgenia battle attack sound",
+          "bbox": [0.1855, 0.2879, 0.0454, 0.007]
+        },
+        {
+          "text": "右記の音声が",
+          "translation": "The audio shown at right",
+          "bbox": [0.0541, 0.2984, 0.0329, 0.0072]
+        },
+        {
+          "text": "黒殿様飛蝗怪人",
+          "translation": "Black Lord Grasshopper Monster",
+          "bbox": [0.1275, 0.3059, 0.0321, 0.0067]
+        },
+        {
+          "text": "クモ怪人戦の攻撃音",
+          "translation": "Spider Monster battle attack sound",
+          "bbox": [0.1875, 0.3057, 0.041, 0.007]
+        },
+        {
+          "text": "2回目\n創世王の心臓を引き抜く音\n銀殿様飛蝗怪人戦の攻撃音",
+          "translation": "2nd time\nSound of ripping out the Creation King's heart\nSilver Lord Grasshopper Monster battle attack sound",
+          "bbox": [0.2473, 0.2711, 0.0554, 0.0413]
+        },
+        {
+          "text": "3回目\nSHADOWMOON戦の攻撃音 ①",
+          "translation": "3rd time\nSHADOWMOON battle attack sound ①",
+          "bbox": [0.3169, 0.2708, 0.0661, 0.0243]
+        },
+        {
+          "text": "4回目",
+          "translation": "4th time",
+          "bbox": [0.421, 0.2718, 0.0142, 0.0057]
+        },
+        {
+          "text": "SHADOWMOON戦の攻撃音 ②",
+          "translation": "SHADOWMOON battle attack sound ②",
+          "bbox": [0.3952, 0.2886, 0.0657, 0.0059]
+        },
+        {
+          "text": "鳴ります。",
+          "translation": "will play.",
+          "bbox": [0.0543, 0.3093, 0.0231, 0.0083]
+        },
+        {
+          "text": "2 <変身後状態>で",
+          "translation": "2 While in the <Post-Transformation State>,",
+          "bbox": [0.0364, 0.3354, 0.0546, 0.0106]
+        },
+        {
+          "text": "剣を引き剥がした後に、 「変身・攻撃ボタン」を短押しします。",
+          "translation": "After pulling the sword free, briefly press the \"Transform/Attack Button.\"",
+          "bbox": [0.1696, 0.3344, 0.1392, 0.0072]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.1571, 0.3388, 0.0046, 0.0083]
+        },
+        {
+          "text": "「変身・攻撃ボタン」を長押しします。\n「剣を引き剥がす音」が鳴ります。",
+          "translation": "Press and hold the \"Transform/Attack Button.\" \nThe sound of the sword being pulled free will play.",
+          "bbox": [0.0493, 0.3481, 0.0836, 0.0186]
+        },
+        {
+          "text": "黒殿様飛蝗怪人",
+          "translation": "Black Lord Grasshopper Monster",
+          "bbox": [0.1766, 0.3519, 0.0384, 0.0078]
+        },
+        {
+          "text": "「剣戟音」が鳴ります。",
+          "translation": "A sword-clash sound will play.",
+          "bbox": [0.23, 0.3525, 0.0506, 0.0072]
+        },
+        {
+          "text": "仮面ライダーBLACK SUN →下記表の音声が鳴ります。",
+          "translation": "Kamen Rider BLACK SUN → The sounds listed in the table below will play.",
+          "bbox": [0.1755, 0.3731, 0.1453, 0.0075]
+        },
+        {
+          "text": "この音声は、どちらの形態に",
+          "translation": "This audio,",
+          "bbox": [0.0561, 0.3863, 0.0661, 0.0072]
+        },
+        {
+          "text": "変身しているかを問わず、",
+          "translation": "regardless of which form you are in,",
+          "bbox": [0.0557, 0.3982, 0.062, 0.0075]
+        },
+        {
+          "text": "電源をONして以降、",
+          "translation": "once the power is turned ON,",
+          "bbox": [0.0557, 0.4098, 0.0493, 0.0078]
+        },
+        {
+          "text": "最大2回まで鳴ります。",
+          "translation": "It will play up to two times.",
+          "bbox": [0.0557, 0.422, 0.0544, 0.0072]
+        },
+        {
+          "text": "1回目",
+          "translation": "1st time",
+          "bbox": [0.3123, 0.3951, 0.0131, 0.007]
+        },
+        {
+          "text": "1回目の「剣を引き剥がす音」を鳴らした後",
+          "translation": "After the 1st \"sword being pulled free\" sound plays,",
+          "bbox": [0.1803, 0.4145, 0.0842, 0.0062]
+        },
+        {
+          "text": "ビルゲニア戦の剣戟音",
+          "translation": "Bilgenia battle sword-clash sound",
+          "bbox": [0.2961, 0.414, 0.0452, 0.0067]
+        },
+        {
+          "text": "汎用剣戟音",
+          "translation": "Generic sword-clash sound",
+          "bbox": [0.3959, 0.4142, 0.0227, 0.0065]
+        },
+        {
+          "text": "2回目の「剣を引き剥がす音」を鳴らした後",
+          "translation": "After the 2nd \"sword being pulled free\" sound plays,",
+          "bbox": [0.1798, 0.4339, 0.0845, 0.0062]
+        },
+        {
+          "text": "SHADOWMOON戦の剣戟音 ①",
+          "translation": "SHADOWMOON battle sword-clash sound ①",
+          "bbox": [0.2853, 0.4341, 0.0661, 0.0059]
+        },
+        {
+          "text": "SHADOWMOON戦の剣戟音 ②",
+          "translation": "SHADOWMOON battle sword-clash sound ②",
+          "bbox": [0.3741, 0.4341, 0.0659, 0.0059]
+        },
+        {
+          "text": "2回目",
+          "translation": "2nd time",
+          "bbox": [0.4003, 0.3956, 0.014, 0.0065]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.0199, 0.9726, 0.0033, 0.0049]
+        },
+        {
+          "text": "※剣を引き剥がした後、一度「変身解除」を行い、 再度変身をした場合は、攻撃音は 1 の音声に戻ります。※「台詞モード」の場合は、 音声中に掛け声が鳴ります。",
+          "translation": "※ After pulling the sword free, if you perform a de-transformation once and then transform again, the attack sound will return to the audio for 1. ※ In \"Dialogue Mode,\" vocal shouts will play during the audio.",
+          "bbox": [0.0382, 0.462, 0.3793, 0.008]
+        },
+        {
+          "text": "ライダーキック",
+          "translation": "Rider Kick",
+          "bbox": [0.0384, 0.4912, 0.0513, 0.0111]
+        },
+        {
+          "text": "<変身後状態>で、 「剣を引き剥がす音」を2回鳴らした後、\n1\n3回目以降の「変身・攻撃ボタン」を長押しします。",
+          "translation": "In the <Post-Transformation State>, after the \"sword being pulled free\" sound has played twice, press and hold the \"Transform/Attack Button\" on the 3rd time and thereafter.",
+          "bbox": [0.0371, 0.5171, 0.1491, 0.0199]
+        },
+        {
+          "text": "「ライダーキックスタンバイ音」 が鳴っている間、",
+          "translation": "While the \"Rider Kick standby sound\" is playing,",
+          "bbox": [0.2386, 0.5173, 0.1107, 0.0075]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.2255, 0.5214, 0.005, 0.008]
+        },
+        {
+          "text": "「ライダーキックスタンバイ音」 が鳴り、",
+          "translation": "The \"Rider Kick standby sound\" plays,",
+          "bbox": [0.0546, 0.5401, 0.0908, 0.0072]
+        },
+        {
+          "text": "または終了後に赤外線センサー (左右)に手をかざします。\n音声の終了後に「チャージ音」が鳴りだし、",
+          "translation": "or, while it is playing or after it finishes, hold your hands over the infrared sensors (left and right).\nAfter the audio finishes, a \"charge sound\" will begin to play,",
+          "bbox": [0.2385, 0.5287, 0.1344, 0.0183]
+        },
+        {
+          "text": "約30秒間の 「赤外線センサー(左右) 入力受付状態」になります。",
+          "translation": "and it will enter a state that accepts input from the infrared sensors (left/right) for about 30 seconds.",
+          "bbox": [0.0543, 0.5512, 0.1521, 0.0078]
+        },
+        {
+          "text": "ベルトが発光します。",
+          "translation": "The belt will light up.",
+          "bbox": [0.2436, 0.5512, 0.0495, 0.0072]
+        },
+        {
+          "text": "※「赤外線センサー入力受付状態」 は、 「天面の2つのボタン\nいずれかを押す」 または 「30秒経過する」ことで、",
+          "translation": "※ The \"infrared sensor input acceptance state\" is cancelled when you press either of the two buttons on the top surface, or when 30 seconds elapse.",
+          "bbox": [0.0543, 0.5749, 0.1397, 0.0191]
+        },
+        {
+          "text": "赤外線センサー(左右) から手を離します。",
+          "translation": "Remove your hands from the infrared sensors (left and right).",
+          "bbox": [0.2381, 0.5786, 0.0978, 0.0075]
+        },
+        {
+          "text": "(3",
+          "translation": "(3",
+          "bbox": [0.223, 0.5827, 0.0079, 0.009]
+        },
+        {
+          "text": "「ライダーキック必殺技音」が鳴ります。",
+          "translation": "The \"Rider Kick special move sound\" will play.",
+          "bbox": [0.2438, 0.5902, 0.0915, 0.0072]
+        },
+        {
+          "text": "「キャンセル音」とともに解除されます。",
+          "translation": "It will be cancelled accompanied by a \"cancel sound.\"",
+          "bbox": [0.0598, 0.599, 0.0919, 0.0072]
+        },
+        {
+          "text": "また、この状態中はBGMボタンは機能しません。",
+          "translation": "Also, the BGM button does not function while in this state.",
+          "bbox": [0.0596, 0.6109, 0.1152, 0.0075]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.036, 0.6522, 0.0054, 0.0078]
+        },
+        {
+          "text": "「ライダーキック必殺技音」を鳴らした後に、 「変身・攻撃ボタン」を短押しします。\n→「SHADOWMOON戦アッパー音」が鳴ります。",
+          "translation": "After the \"Rider Kick special move sound\" plays, briefly press the \"Transform/Attack Button.\" \n→ The \"SHADOWMOON battle upper-cut sound\" will play.",
+          "bbox": [0.0484, 0.6478, 0.1853, 0.0189]
+        },
+        {
+          "text": "※「台詞モード」の場合は、 音声中に掛け声が鳴ります。",
+          "translation": "※ In \"Dialogue Mode,\" vocal shouts will play during the audio.",
+          "bbox": [0.2466, 0.6553, 0.1277, 0.0072]
+        },
+        {
+          "text": "T",
+          "translation": "T",
+          "bbox": [0.38, 0.5592, 0.0214, 0.03]
+        },
+        {
+          "text": "BLACK SUNの復活",
+          "translation": "BLACK SUN Revival",
+          "bbox": [0.6899, 0.0426, 0.1185, 0.0168]
+        },
+        {
+          "text": "<変身後状態>で 「変身・攻撃ボタン」 と 「台詞ボタン」を同時に長押しします。 約3秒後に 「BLACK SUN復活音」が鳴り、ベルトが自動変形して開き、<変身前状態>に戻ります。",
+          "translation": "In the <Post-Transformation State>, press and hold both the \"Transform/Attack Button\" and the \"Dialogue Button\" simultaneously. After about 3 seconds the \"BLACK SUN revival sound\" will play, the belt will automatically transform and open, and it will return to the <Pre-Transformation State>.",
+          "bbox": [0.5373, 0.0762, 0.4228, 0.008]
+        },
+        {
+          "text": "変身・攻撃ボタン",
+          "translation": "Transform/Attack Button",
+          "bbox": [0.5406, 0.1227, 0.0395, 0.007]
+        },
+        {
+          "text": "※ベルトの自動変形が始まる前に、 天面の2つのボタンいずれかを押すと、 「キャンセル音」と\nともに音声がストップします。 また、 この音声中はBGMボタンは機能しません。",
+          "translation": "※ If you press either of the two buttons on the top surface before the belt's automatic transformation begins, the audio will stop together with a \"cancel sound.\" Also, the BGM button will not function while this audio is playing.",
+          "bbox": [0.7368, 0.1031, 0.2174, 0.0191]
+        },
+        {
+          "text": "―台詞ボタン",
+          "translation": "—Dialogue Button",
+          "bbox": [0.6838, 0.1227, 0.0284, 0.0072]
+        },
+        {
+          "text": "創世王への変化",
+          "translation": "Transformation into the Creation King",
+          "bbox": [0.7045, 0.3618, 0.0886, 0.0171]
+        },
+        {
+          "text": "<変身前状態>で「変身・攻撃ボタン」と「台詞ボタン」を同時に長押しします。\n2回の「セレクト音」が鳴り終わっても、同時押しを継続すると、 約3秒後に「創世王への変化音」が鳴り、ベルトが発光し、 <創世王状態>になります。",
+          "translation": "In the <Pre-Transformation State>, press and hold the \"Transform/Attack Button\" and the \"Dialogue Button\" simultaneously. If you continue holding them after the two \"Select sounds\" finish, about 3 seconds later the \"change into the Creation King\" sound will play, the belt will light up, and it will enter the <Creation King State>.",
+          "bbox": [0.5371, 0.3964, 0.3514, 0.0189]
+        },
+        {
+          "text": "<創世王 状態> 台詞再生遊び",
+          "translation": "Dialogue Playback in <Creation King State>",
+          "bbox": [0.5358, 0.5522, 0.1111, 0.0114]
+        },
+        {
+          "text": "変身・攻撃ボタン",
+          "translation": "Transform/Attack Button",
+          "bbox": [0.7041, 0.432, 0.0391, 0.0072]
+        },
+        {
+          "text": "台詞ボタン",
+          "translation": "Dialogue Button",
+          "bbox": [0.7649, 0.4315, 0.0264, 0.0078]
+        },
+        {
+          "text": "<創世王状態>で「台詞ボタン」を押します。 下記の音声が順番に鳴ります。",
+          "translation": "Press the \"Dialogue Button\" while in <Creation King State>. The following audio lines will play in order.",
+          "bbox": [0.5371, 0.5749, 0.182, 0.0075]
+        },
+        {
+          "text": "台詞",
+          "translation": "Lines",
+          "bbox": [0.744, 0.5953, 0.0109, 0.0072]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.5399, 0.6116, 0.0026, 0.0049]
+        },
+        {
+          "text": "うめき声",
+          "translation": "Groan",
+          "bbox": [0.5541, 0.6114, 0.0175, 0.0059]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.5391, 0.6261, 0.0041, 0.0054]
+        },
+        {
+          "text": "ア・・・オ・・・イ・・・。",
+          "translation": "A... O... I...",
+          "bbox": [0.5541, 0.6258, 0.0292, 0.0067]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.5395, 0.6406, 0.0039, 0.0052]
+        },
+        {
+          "text": "力じゃ勝てない。 まずは俺の指を剥がして折れ。 次に足の甲を踵で踏みつけろ。 反転して手を外せ。 手が残ってたら引き込んで相手を崩せ。 踏み込んで肘で突け。",
+          "translation": "You can't win by strength. First, pry my fingers off and break them. Next, stomp the instep with your heel. Twist and release the hand. If the hand remains, pull it in to unbalance the opponent. Step in and strike with your elbow.",
+          "bbox": [0.5539, 0.6408, 0.325, 0.0062]
+        },
+        {
+          "text": "エキスの放出",
+          "translation": "Release of Essence",
+          "bbox": [0.5354, 0.6638, 0.0484, 0.0124]
+        },
+        {
+          "text": "<創世王状態>で 「変身・攻撃ボタン」を押します。 「創世王のエキスを垂れ流す音」が鳴ります。",
+          "translation": "In <Creation King State>, press the \"Transform/Attack Button.\" A sound of the Creation King's essence dripping will play.",
+          "bbox": [0.5371, 0.6866, 0.2285, 0.0078]
+        },
+        {
+          "text": "変身解除",
+          "translation": "De-transformation",
+          "bbox": [0.2237, 0.708, 0.0506, 0.0171]
+        },
+        {
+          "text": "<変身後状態>で「変身・攻撃ボタン」と「台詞ボタン」を同時に短押しします。「変身解除音」が鳴り、ベルトが自動変形して開き、 <変身前状態>に戻ります。",
+          "translation": "While in the <Post-Transformation State>, briefly press the \"Transform/Attack Button\" and the \"Dialogue Button\" simultaneously. The \"De-transformation sound\" will play, the belt will automatically transform and open, and it will return to the <Pre-Transformation State>.",
+          "bbox": [0.0354, 0.7426, 0.3697, 0.0078]
+        },
+        {
+          "text": "創世王の消滅",
+          "translation": "Disappearance of the Creation King",
+          "bbox": [0.5353, 0.7093, 0.0504, 0.0114]
+        },
+        {
+          "text": "<創世王状態>で「変身・攻撃ボタン」と「台詞ボタン」を同時に押します。「創世王消滅音」 が鳴り、 <変身前状態に戻ります。",
+          "translation": "In <Creation King State>, press the \"Transform/Attack Button\" and the \"Dialogue Button\" simultaneously. The \"Creation King disappearance sound\" will play, and it will return to the <Pre-Transformation State>.",
+          "bbox": [0.5371, 0.7318, 0.2988, 0.0078]
+        },
+        {
+          "text": "変身・攻撃ボタン-",
+          "translation": "Transform/Attack Button -",
+          "bbox": [0.0389, 0.7866, 0.0419, 0.007]
+        },
+        {
+          "text": "―台詞ボタン",
+          "translation": "—Dialogue Button",
+          "bbox": [0.1818, 0.7863, 0.0286, 0.0075]
+        },
+        {
+          "text": "00",
+          "translation": "00",
+          "bbox": [0.9777, 0.9718, 0.0024, 0.0054]
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.9773, 0.9729, 0.0033, 0.0044]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1701 @@
+{
+  "meta": {
+    "manual_name": "visionDriver",
+    "source": "visionDriver.pdf",
+    "source_lang": "ja",
+    "target_lang": "en",
+    "source_url": "https://tokullectibles.com/products/premium-dx-memorial-vision-driver-high-spec-belt-set",
+    "blog_url": "",
+    "pages": 14,
+    "blocks": 323,
+    "thumbnail": "pages/page-0.webp",
+    "tags": []
+  },
+  "pages": [
+    {
+      "image": "pages/page-0.webp",
+      "blocks": [
+        {
+          "text": "PREMIUMDX",
+          "translation": "PREMIUMDX",
+          "bbox": [0.2461, 0.005, 0.1264, 0.007]
+        },
+        {
+          "text": "GAS FEITURATU ZAN",
+          "translation": "GAS FEITURATU ZAN",
+          "bbox": [0.0363, 0.0099, 0.7563, 0.0184]
+        },
+        {
+          "text": "〈阪面ライダー",
+          "translation": "<KAMEN RIDER>",
+          "bbox": [0.0278, 0.0194, 0.0774, 0.0039]
+        },
+        {
+          "text": "©2022 石森プロ・テレビ朝日・ADK EM・東映",
+          "translation": "©2022 Ishimori Productions, TV Asahi, ADK EM, Toei",
+          "bbox": [0.0284, 0.0328, 0.1578, 0.0023]
+        },
+        {
+          "text": "MEMORIAL VISION DRIVER",
+          "translation": "MEMORIAL VISION DRIVER",
+          "bbox": [0.3041, 0.0378, 0.2418, 0.0019]
+        },
+        {
+          "text": "ハイスペックベルトセットの遊び方",
+          "translation": "How to Use the High-Spec Belt Set",
+          "bbox": [0.318, 0.0231, 0.6028, 0.0175]
+        },
+        {
+          "text": "セット内容",
+          "translation": "Set contents",
+          "bbox": [0.0393, 0.0512, 0.1245, 0.0083]
+        },
+        {
+          "text": "メモリアルヴィジョンドライバー本体··· 1 カード･･･1 カードホルダー・・・1\nハイスペックベルト帯(右)・・・1 ハイスペックベルト帯(左)･･･1 ベルト留め・・・1",
+          "translation": "Memorial Vision Driver main unit... 1  Card... 1  Card holder... 1\nHigh-spec belt strap (right)... 1  High-spec belt strap (left)... 1  Belt fastener... 1",
+          "bbox": [0.1995, 0.0475, 0.757, 0.0192]
+        },
+        {
+          "text": "各部名称",
+          "translation": "Part names",
+          "bbox": [0.0605, 0.0754, 0.0816, 0.0064]
+        },
+        {
+          "text": "ヴィジョンドライバー本体",
+          "translation": "Vision Driver main unit",
+          "bbox": [0.3869, 0.0735, 0.2261, 0.0064]
+        },
+        {
+          "text": "バックルスロット",
+          "translation": "Buckle slot",
+          "bbox": [0.7763, 0.0826, 0.1487, 0.006]
+        },
+        {
+          "text": "タッチセンサー",
+          "translation": "Touch sensor",
+          "bbox": [0.2739, 0.0869, 0.1342, 0.0054]
+        },
+        {
+          "text": "解除ボタン",
+          "translation": "Release button",
+          "bbox": [0.6469, 0.0888, 0.0992, 0.0058]
+        },
+        {
+          "text": "【正面】",
+          "translation": "【Front】",
+          "bbox": [0.0907, 0.095, 0.0544, 0.0068]
+        },
+        {
+          "text": "バックル\nホルダー",
+          "translation": "Buckle Holder",
+          "bbox": [0.8773, 0.1293, 0.0774, 0.014]
+        },
+        {
+          "text": "スラッシュ部",
+          "translation": "Slash area",
+          "bbox": [0.0423, 0.1679, 0.1119, 0.006]
+        },
+        {
+          "text": "サイドボタン",
+          "translation": "Side buttons",
+          "bbox": [0.7787, 0.185, 0.1149, 0.0058]
+        },
+        {
+          "text": "※注意※",
+          "translation": "※Caution※",
+          "bbox": [0.0726, 0.2218, 0.1034, 0.0085]
+        },
+        {
+          "text": "黄色で囲った箇所は構造上、\n黒成形色部分との擦れが発生する\n場合がございます。\n予めご了承ください。",
+          "translation": "The areas outlined in yellow may rub against the black molded parts due to the structure. Please be aware of this in advance.",
+          "bbox": [0.0695, 0.2339, 0.3011, 0.0324]
+        },
+        {
+          "text": "※注意※",
+          "translation": "※Caution※",
+          "bbox": [0.0726, 0.2986, 0.1034, 0.0083]
+        },
+        {
+          "text": "箱に入れて保管する際は、\n必ず梱包時の緩衝材を挟んでください。",
+          "translation": "When storing in the box, be sure to place the included cushioning material between the parts.",
+          "bbox": [0.0689, 0.3108, 0.3495, 0.0145]
+        },
+        {
+          "text": "【背面】",
+          "translation": "【Back】",
+          "bbox": [0.1088, 0.3917, 0.0556, 0.0064]
+        },
+        {
+          "text": "緩衝材",
+          "translation": "Cushioning material",
+          "bbox": [0.6378, 0.3742, 0.0599, 0.0062]
+        },
+        {
+          "text": "凹ジョイント(左) 電池ぶた 電源スイッチ 凹ジョイント(右)",
+          "translation": "Recessed joint (left)  Battery cover  Power switch  Recessed joint (right)",
+          "bbox": [0.3585, 0.4753, 0.584, 0.0066]
+        },
+        {
+          "text": "カードホルダー",
+          "translation": "Card holder",
+          "bbox": [0.4553, 0.4935, 0.1336, 0.0062]
+        },
+        {
+          "text": "カード",
+          "translation": "Card",
+          "bbox": [0.8253, 0.4943, 0.0568, 0.0058]
+        },
+        {
+          "text": "【底面】",
+          "translation": "【Bottom】",
+          "bbox": [0.1179, 0.5046, 0.0556, 0.0066]
+        },
+        {
+          "text": "【正面】",
+          "translation": "【Front】",
+          "bbox": [0.3519, 0.5048, 0.058, 0.0064]
+        },
+        {
+          "text": "【背面】",
+          "translation": "【Back】",
+          "bbox": [0.601, 0.5048, 0.0562, 0.0062]
+        },
+        {
+          "text": "底面\n右ボタン",
+          "translation": "Bottom\nRight button",
+          "bbox": [0.058, 0.6081, 0.081, 0.0138]
+        },
+        {
+          "text": "底面",
+          "translation": "Bottom",
+          "bbox": [0.1953, 0.6073, 0.0411, 0.0066]
+        },
+        {
+          "text": "カードスロット",
+          "translation": "Card slot",
+          "bbox": [0.3259, 0.6077, 0.1276, 0.0058]
+        },
+        {
+          "text": "左ボタン",
+          "translation": "Left button",
+          "bbox": [0.1765, 0.6164, 0.0804, 0.0056]
+        },
+        {
+          "text": "ベルト (右)",
+          "translation": "Belt (right)",
+          "bbox": [0.0478, 0.6331, 0.0961, 0.006]
+        },
+        {
+          "text": "アジャスター",
+          "translation": "Adjuster",
+          "bbox": [0.5925, 0.636, 0.1149, 0.0064]
+        },
+        {
+          "text": "※梱包時は\nカードホルダーに\n入っています。",
+          "translation": "※When packaged, the card is placed in the card holder.",
+          "bbox": [0.7727, 0.5992, 0.1711, 0.0231]
+        },
+        {
+          "text": "ベルト留め",
+          "translation": "Belt fastener",
+          "bbox": [0.7902, 0.683, 0.0955, 0.0062]
+        },
+        {
+          "text": "【正面】",
+          "translation": "【Front】",
+          "bbox": [0.7285, 0.6917, 0.0568, 0.0068]
+        },
+        {
+          "text": "【背面】",
+          "translation": "【Back】",
+          "bbox": [0.0599, 0.6942, 0.055, 0.0066]
+        },
+        {
+          "text": "裏側にRと矢印の刻印が",
+          "translation": "There is an \"R\" and an arrow engraved on the back.",
+          "bbox": [0.4407, 0.7099, 0.2068, 0.006]
+        },
+        {
+          "text": "着脱ボタン",
+          "translation": "Attachment/Detachment button",
+          "bbox": [0.1342, 0.7144, 0.0992, 0.0056]
+        },
+        {
+          "text": "あります。",
+          "translation": "There is.",
+          "bbox": [0.442, 0.719, 0.0798, 0.0052]
+        },
+        {
+          "text": "ベルト(左)",
+          "translation": "Belt (left)",
+          "bbox": [0.0478, 0.753, 0.0967, 0.0066]
+        },
+        {
+          "text": "【背面】",
+          "translation": "【Back】",
+          "bbox": [0.0599, 0.8098, 0.0556, 0.0068]
+        },
+        {
+          "text": "着脱ボタン",
+          "translation": "Attachment/Detachment button",
+          "bbox": [0.3108, 0.8292, 0.0992, 0.0056]
+        },
+        {
+          "text": "裏側にLと矢印の刻印が",
+          "translation": "There is an \"L\" and an arrow engraved on the back.",
+          "bbox": [0.4407, 0.8268, 0.2056, 0.0064]
+        },
+        {
+          "text": "あります。",
+          "translation": "There is.",
+          "bbox": [0.442, 0.8354, 0.0786, 0.0062]
+        },
+        {
+          "text": "【背面】",
+          "translation": "【Back】",
+          "bbox": [0.7291, 0.7743, 0.0556, 0.0066]
+        },
+        {
+          "text": "△ 注意",
+          "translation": "△ Caution",
+          "bbox": [0.4432, 0.8778, 0.1119, 0.0076]
+        },
+        {
+          "text": "お買い上げのお客様へ 必ずお読みください。",
+          "translation": "To customers: Please be sure to read.",
+          "bbox": [0.341, 0.8889, 0.3192, 0.0052]
+        },
+        {
+          "text": "●小さな部品がありますので、小さなお子様が誤って飲み込まないように注意してください。 窒息などの危険があります。耳の近くで使用してはいけません。 誤って\n使用すると、聴覚を損なう恐れがあります。 可動部分には指などを入れないでください。 はさまれてケガをする恐れがあります。LEDの光の点滅を見続けないで\nください。気分が悪くなったりするおそれがあります。 《電池を誤使用すると発熱・破裂・液漏れの恐れがあります。 下記に注意してください》 ●二次電池(充電式\n電池)は、絶対に使用しないでください。 ●古い電池と新しい電池、いろいろな種類の電池をまぜて使わないでください。 +-(±)を正しくセットして\nください。 ●遊んだ後は必ずスイッチを切り電池をはずしてください。 電池を入れたままにしておくと、液漏れの恐れがあり危険です。ショートさせたり充電、分解、\n加熱、火の中に入れたりしないでください。 ●万一、電池から漏れた液が目に入ったときはすぐに大量の水で洗い、医師に相談してください。 皮膚や服に付いた時は\n水で洗ってください。 廃棄するときは、自治体の廃棄物処理の指示に従ってください。",
+          "translation": "●This product contains small parts. Keep away from small children to prevent accidental swallowing; there is a risk of choking. Do not use near the ears. Improper use may damage hearing. Do not put fingers or other body parts into moving parts—there is a risk of being pinched and injured. Do not continuously stare at flashing LED lights; this may cause discomfort. 《Improper use of batteries can cause overheating, rupture, or leakage. Observe the following》 ●Never use secondary (rechargeable) batteries. ●Do not mix old and new batteries or different types of batteries. Insert batteries with the + and - terminals oriented correctly. ●After use, always turn the power switch off and remove the batteries. Leaving batteries in the product may cause leakage and create a hazard. Do not short-circuit, charge, disassemble, heat, or throw batteries into fire. ●If battery fluid gets into the eyes, rinse immediately with plenty of water and consult a physician. If it contacts skin or clothing, wash with water. Dispose of batteries according to your local municipal regulations.",
+          "bbox": [0.0375, 0.899, 0.9244, 0.0429]
+        },
+        {
+          "text": "<使用上の注意>",
+          "translation": "<Precautions for use>",
+          "bbox": [0.0296, 0.9494, 0.0979, 0.0045]
+        },
+        {
+          "text": "●本商品は精密な電子部品で構成されています。 落としたり、水にぬらしたり、汚したり、分解したりしないでください。 また、高温・低温になる所での使用、保管はさけて\nください。●プラスチック梱包材は開封後にはすぐに捨ててください。●本商品を樹脂製のソファーやシート、タイルなどの上に置かないでください。 長時間接触して\nいると色が移る場合があります。 ●可動部分・取付部分を無理な方向に強く引っ張ったり、曲げたりしないでください。 ●発音の一部にイントネーションが違っていたり、\n商品の特性上聞き取りにくいものがありますが、ご了承ください。 ●本商品は精密に作られています。無理な力を加えたり、落としたりすると破損する恐れがあります。\n●PREMIUM DX メモリアルヴィジョンドライバーにはレイズバックルシリーズ以外は取り付けないでください。",
+          "translation": "●This product contains delicate electronic components. Do not drop, get it wet, dirty, or disassemble. Avoid using or storing in very hot or very cold places. ●Discard plastic packaging material immediately after opening. ●Do not place this product on resin sofas, seats, tiles, etc.; prolonged contact may cause color transfer. ●Do not forcefully pull or bend movable or attachment parts in unnatural directions. ●Some sounds may have different intonations or be difficult to hear due to the product's characteristics; please understand this. ●This product is precision-made; applying excessive force or dropping it may cause damage. ●Do not attach anything other than the Raise Buckle series to the PREMIUM DX Memorial Vision Driver.",
+          "bbox": [0.0278, 0.9562, 0.9432, 0.0301]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-1.webp",
+      "blocks": [
+        {
+          "text": "乾電池の入れ方",
+          "translation": "How to insert batteries",
+          "bbox": [0.0411, 0.0289, 0.1826, 0.0158]
+        },
+        {
+          "text": "※電源スイッチが× (OFF)になっていることを確認してください。\n※音が小さくなって聞きとりにくくなったり、\n音が繰り返し鳴るなどの誤動作をする場合や\nLEDの発光が弱くなった場合は、すべて新しい電池に交換してください。",
+          "translation": "※ Make sure the power switch is set to × (OFF).\n※ If the sound becomes low and difficult to hear, if the sound repeats or other malfunctions occur, or if the LED’s light becomes weak, replace all batteries with new ones.",
+          "bbox": [0.0447, 0.07, 0.8706, 0.0832]
+        },
+        {
+          "text": "①電池ぶたを取り外します。\n①-1 本体背面の電池ぶたの穴を",
+          "translation": "① Remove the battery cover.\n①-1 On the back of the unit, press the hole in the battery cover with a thin, pointed stick.",
+          "bbox": [0.0453, 0.1751, 0.4087, 0.0388]
+        },
+        {
+          "text": "【背面】",
+          "translation": "[Back]",
+          "bbox": [0.5054, 0.1817, 0.0635, 0.0132]
+        },
+        {
+          "text": "ミゾ",
+          "translation": "Groove",
+          "bbox": [0.6838, 0.1799, 0.0393, 0.011]
+        },
+        {
+          "text": "先の細い棒などで押しながら、",
+          "translation": "Press with a thin, pointed stick,",
+          "bbox": [0.1372, 0.2198, 0.3489, 0.0161]
+        },
+        {
+          "text": "①-2 電池ぶたを取り外します。\n②乾電池を入れます。\n単3乾電池3本(別売り)の\n+○をそれぞれ間違えないように",
+          "translation": "①-2 Remove the battery cover.\n② Insert the batteries.\nUse three AA batteries (sold separately).\nInsert them, taking care not to confuse the + and ○ orientations.",
+          "bbox": [0.0447, 0.2425, 0.4172, 0.0824]
+        },
+        {
+          "text": "入れます。",
+          "translation": "Insert.",
+          "bbox": [0.0719, 0.3322, 0.1161, 0.015]
+        },
+        {
+          "text": "③電池ぶたを戻します。",
+          "translation": "③ Replace the battery cover.",
+          "bbox": [0.0459, 0.3546, 0.2739, 0.015]
+        },
+        {
+          "text": "ミゾ",
+          "translation": "Groove",
+          "bbox": [0.795, 0.3637, 0.0423, 0.011]
+        },
+        {
+          "text": "電池ぶたの突起と本体のミゾを合わせ、\n電池ぶたを閉じます。",
+          "translation": "Align the protrusion on the battery cover with the groove on the main body, and then close the battery cover.",
+          "bbox": [0.0732, 0.3766, 0.4547, 0.0385]
+        },
+        {
+          "text": "ミゾ",
+          "translation": "Groove",
+          "bbox": [0.5629, 0.3729, 0.0417, 0.0103]
+        },
+        {
+          "text": "1-2",
+          "translation": "1-2",
+          "bbox": [0.6276, 0.3766, 0.0417, 0.0114]
+        },
+        {
+          "text": "(3",
+          "translation": "(3",
+          "bbox": [0.7322, 0.3791, 0.0133, 0.0073]
+        },
+        {
+          "text": "+1",
+          "translation": "+1",
+          "bbox": [0.792, 0.3868, 0.0351, 0.0128]
+        },
+        {
+          "text": "単3 lx3",
+          "translation": "AA ×3",
+          "bbox": [0.1596, 0.4462, 0.0967, 0.0125]
+        },
+        {
+          "text": "たん かんでん ち",
+          "translation": "Tankan Denchi",
+          "bbox": [0.075, 0.4689, 0.0756, 0.004]
+        },
+        {
+          "text": "突起",
+          "translation": "protrusion",
+          "bbox": [0.5756, 0.4604, 0.0399, 0.0125]
+        },
+        {
+          "text": "突起",
+          "translation": "protrusion",
+          "bbox": [0.7963, 0.4612, 0.0411, 0.011]
+        },
+        {
+          "text": "単3乾電池3本使用(別売り)",
+          "translation": "Uses 3AA batteries (sold separately)",
+          "bbox": [0.0744, 0.4744, 0.211, 0.0106]
+        },
+        {
+          "text": "●アルカリ電池専用",
+          "translation": "● For alkaline batteries only",
+          "bbox": [0.0695, 0.5029, 0.2152, 0.0139]
+        },
+        {
+          "text": "電池ぶた",
+          "translation": "Battery cover",
+          "bbox": [0.4873, 0.5011, 0.0804, 0.0103]
+        },
+        {
+          "text": "電源の入れ方",
+          "translation": "How to turn on the power",
+          "bbox": [0.0405, 0.5938, 0.1578, 0.0147]
+        },
+        {
+          "text": "本体背面の電源スイッチをO(ON)にします。",
+          "translation": "Set the power switch on the back of the main unit to O (ON).",
+          "bbox": [0.0453, 0.6249, 0.5212, 0.0161]
+        },
+        {
+          "text": "→LEDが光り、 「起動音」が鳴ります。",
+          "translation": "→The LED lights up and a startup sound plays.",
+          "bbox": [0.0453, 0.6473, 0.4274, 0.0161]
+        },
+        {
+          "text": "ヴィジョンドライバー!",
+          "translation": "visionDriver!",
+          "bbox": [0.3809, 0.7073, 0.2497, 0.0062]
+        },
+        {
+          "text": "電池ぶたの穴",
+          "translation": "Battery cover hole",
+          "bbox": [0.757, 0.5377, 0.1197, 0.0106]
+        },
+        {
+          "text": "1-1",
+          "translation": "1-1",
+          "bbox": [0.6614, 0.5601, 0.0363, 0.0103]
+        },
+        {
+          "text": "電源スイッチ",
+          "translation": "Power switch",
+          "bbox": [0.7455, 0.8143, 0.1149, 0.0114]
+        },
+        {
+          "text": "※遊び終わった後は、必ず電源スイッチをX (OFF)にしてください。",
+          "translation": "*After playing, be sure to turn the power switch to X (OFF).",
+          "bbox": [0.0671, 0.9366, 0.5901, 0.0125]
+        },
+        {
+          "text": "突起",
+          "translation": "protrusion",
+          "bbox": [0.6566, 0.8718, 0.0411, 0.011]
+        },
+        {
+          "text": "+",
+          "translation": "+",
+          "bbox": [0.9359, 0.407, 0.0169, 0.0125]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-2.webp",
+      "blocks": [
+        {
+          "text": "組み立て方",
+          "translation": "Assembly instructions",
+          "bbox": [0.0399, 0.0228, 0.133, 0.0117]
+        },
+        {
+          "text": "①腰回りのサイズに合うように、\nベルト帯(右)のアジャスターの\n位置を調整します。",
+          "translation": "① Adjust the position of the adjuster on the belt strap (right) to fit your waist size.",
+          "bbox": [0.0423, 0.0465, 0.3869, 0.0473]
+        },
+        {
+          "text": "ベルト帯 (右)",
+          "translation": "Belt strap (right)",
+          "bbox": [0.7394, 0.069, 0.1155, 0.0091]
+        },
+        {
+          "text": "②ベルト帯 (右)と\nベルト帯(左)の\nアジャスターを\nはめ合わせます。",
+          "translation": "② Fit together the adjusters on the right and left belt straps.",
+          "bbox": [0.0423, 0.1565, 0.2213, 0.0647]
+        },
+        {
+          "text": "アジャスター",
+          "translation": "Adjuster",
+          "bbox": [0.4389, 0.1325, 0.1149, 0.0088]
+        },
+        {
+          "text": "ベルト帯(左)",
+          "translation": "Belt strap (left)",
+          "bbox": [0.4051, 0.1619, 0.1167, 0.0088]
+        },
+        {
+          "text": "ベルト帯 (右)",
+          "translation": "Belt strap (right)",
+          "bbox": [0.8065, 0.1619, 0.1155, 0.0085]
+        },
+        {
+          "text": "アジャスター",
+          "translation": "Adjuster",
+          "bbox": [0.6161, 0.2602, 0.1143, 0.0083]
+        },
+        {
+          "text": "③アジャスターに",
+          "translation": "③ On the adjuster,",
+          "bbox": [0.0423, 0.283, 0.2025, 0.0123]
+        },
+        {
+          "text": "ベルト留め",
+          "translation": "Belt retainer",
+          "bbox": [0.5326, 0.2947, 0.0949, 0.0085]
+        },
+        {
+          "text": "【別角度】",
+          "translation": "[Different angle]",
+          "bbox": [0.6935, 0.2918, 0.075, 0.0103]
+        },
+        {
+          "text": "ベルト留めを",
+          "translation": "Wrap the belt retainer",
+          "bbox": [0.0695, 0.3015, 0.1499, 0.0114]
+        },
+        {
+          "text": "図のように",
+          "translation": "As shown in the diagram",
+          "bbox": [0.0707, 0.3186, 0.1245, 0.0117]
+        },
+        {
+          "text": "巻き付けます。",
+          "translation": "Wrap it around.",
+          "bbox": [0.0701, 0.3349, 0.1681, 0.0128]
+        },
+        {
+          "text": "図のようになります。",
+          "translation": "It will look like the diagram.",
+          "bbox": [0.6929, 0.4038, 0.1771, 0.0083]
+        },
+        {
+          "text": "④ベルト帯 (右)にカードホルダーを\n巻きつけます。",
+          "translation": "④ Wrap the card holder around the belt strap (right).",
+          "bbox": [0.0423, 0.4315, 0.4057, 0.0296]
+        },
+        {
+          "text": "⑤ ベルト (右)の着脱ボタンを押しながら、",
+          "translation": "⑤ While pressing the release button on the belt (right),",
+          "bbox": [0.5115, 0.4315, 0.4395, 0.0125]
+        },
+        {
+          "text": "カードホルダー",
+          "translation": "Card holder",
+          "bbox": [0.0695, 0.4771, 0.1342, 0.0083]
+        },
+        {
+          "text": "【別角度】",
+          "translation": "[Different angle]",
+          "bbox": [0.2999, 0.4773, 0.0756, 0.01]
+        },
+        {
+          "text": "⑥本体背面の凹ジョイント(右)に\n凸ジョイントを合わせます。",
+          "translation": "⑥ Fit the convex joint into the concave joint (right) on the back of the main unit.",
+          "bbox": [0.5121, 0.4488, 0.3767, 0.0299]
+        },
+        {
+          "text": "(5 着脱ボタン",
+          "translation": "(5 Release button)",
+          "bbox": [0.7854, 0.4856, 0.1505, 0.0105]
+        },
+        {
+          "text": "ベルト (右)",
+          "translation": "Belt (right)",
+          "bbox": [0.8561, 0.5081, 0.0961, 0.0094]
+        },
+        {
+          "text": "凸ジョイント",
+          "translation": "Convex joint",
+          "bbox": [0.6602, 0.5811, 0.1094, 0.0088]
+        },
+        {
+          "text": "図のようになります。",
+          "translation": "It will look like the diagram.",
+          "bbox": [0.2975, 0.5865, 0.1765, 0.0083]
+        },
+        {
+          "text": "着脱ボタン",
+          "translation": "Release button",
+          "bbox": [0.8543, 0.5848, 0.0992, 0.0085]
+        },
+        {
+          "text": "凹ジョイント(右)",
+          "translation": "Concave joint (right)",
+          "bbox": [0.5121, 0.595, 0.1493, 0.0097]
+        },
+        {
+          "text": "⑦着脱ボタンを離して、",
+          "translation": "⑦ Release the release button,",
+          "bbox": [0.0411, 0.6164, 0.2709, 0.0117]
+        },
+        {
+          "text": "凹凸ジョイントをしっかりと\nはめ込みます。",
+          "translation": "Firmly engage the interlocking joints.",
+          "bbox": [0.0707, 0.6327, 0.3089, 0.0313]
+        },
+        {
+          "text": "※ベルト(左)も同様に行います。",
+          "translation": "※ Repeat the same procedure for the belt (left).",
+          "bbox": [0.0719, 0.668, 0.37, 0.0131]
+        },
+        {
+          "text": "7 着脱ボタン",
+          "translation": "7 Release button",
+          "bbox": [0.3059, 0.6976, 0.1457, 0.0088]
+        },
+        {
+          "text": "⑧ベルト帯 (左)にバックルホルダーを\n巻きつけます。",
+          "translation": "⑧ Wrap the buckle holder around the belt strap (left).",
+          "bbox": [0.5115, 0.6161, 0.4311, 0.0291]
+        },
+        {
+          "text": "BANCA MADE A COM",
+          "translation": "BANCA MADE A COM",
+          "bbox": [0.0593, 0.7669, 0.0641, 0.0023]
+        },
+        {
+          "text": "完成!",
+          "translation": "Complete!",
+          "bbox": [0.8023, 0.9339, 0.1288, 0.0225]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-3.webp",
+      "blocks": [
+        {
+          "text": "モード一覧",
+          "translation": "Mode List",
+          "bbox": [0.0411, 0.0492, 0.13, 0.0274]
+        },
+        {
+          "text": "底面左ボタンを長押しする度に\n各モードに切り替わります。\n※起動時はグレアモードです。",
+          "translation": "Each time you press and hold the bottom-left button, the mode switches.\n※At startup the device is in Glare Mode.",
+          "bbox": [0.0429, 0.1039, 0.3615, 0.1027]
+        },
+        {
+          "text": "底面左ボタン",
+          "translation": "Bottom-left button",
+          "bbox": [0.8222, 0.2209, 0.1203, 0.0199]
+        },
+        {
+          "text": "モード一覧",
+          "translation": "Mode List",
+          "bbox": [0.1868, 0.5787, 0.127, 0.0268]
+        },
+        {
+          "text": "グレアモード",
+          "translation": "Glare Mode",
+          "bbox": [0.0647, 0.6285, 0.1542, 0.0261]
+        },
+        {
+          "text": "ゲイザーモード\nグレア2モード",
+          "translation": "Gazer Mode\nGlare 2 Mode",
+          "bbox": [0.0647, 0.6801, 0.1814, 0.0784]
+        },
+        {
+          "text": "グレア2 (ベロバ) モード\nゲイザー (スエル)モード\nジャマトゲイザーモード",
+          "translation": "Glare 2 (Beroba) Mode\nGazer (Suel) Mode\nJamatogazer Mode",
+          "bbox": [0.0647, 0.7847, 0.2848, 0.1301]
+        },
+        {
+          "text": "起動音",
+          "translation": "Startup sound",
+          "bbox": [0.6578, 0.58, 0.0798, 0.0261]
+        },
+        {
+          "text": "ギロリ 「変身…｡」\nニラム 「変身･･･。」\nチラミ「変･･･身!」\nベロバ「変身。」\nスエル 「変身･･･。」",
+          "translation": "Girori: \"Transform...\"\nNiram: \"Transform...\"\nChirami: \"Tra...nsform!\"\nBeroba: \"Transform.\"\nSuel: \"Transform...\"",
+          "bbox": [0.468, 0.6273, 0.1959, 0.2377]
+        },
+        {
+          "text": "クローバージャマト 「ジュラピラ･･･。」",
+          "translation": "Clover Jamato: \"Jurapira...\"",
+          "bbox": [0.4686, 0.8886, 0.4105, 0.0255]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-4.webp",
+      "blocks": [
+        {
+          "text": "キャストボイス一覧表\n底面左ボタンを押す度に\n台詞が鳴ります。",
+          "translation": "Cast Voice List\nEach time you press the bottom-left button, a line will play.",
+          "bbox": [0.0405, 0.0131, 0.2908, 0.0328]
+        },
+        {
+          "text": "番号",
+          "translation": "No.",
+          "bbox": [0.0586, 0.1713, 0.0296, 0.0039]
+        },
+        {
+          "text": "グレアモード",
+          "translation": "Glare Mode",
+          "bbox": [0.4232, 0.1583, 0.1554, 0.0074]
+        },
+        {
+          "text": "台詞",
+          "translation": "Lines",
+          "bbox": [0.5067, 0.1715, 0.0284, 0.0037]
+        },
+        {
+          "text": "1 世界を救った功績には･･･相応の対価を払うべきだ。\n2 それがデザイアグランプリのルールだ・・・。\n3 あの男は・・・ 勝ちすぎた。\n4 ギーツを落とすのが、 お前の使命だったはずだ。\n5 失望したぞ・・・パンクジャック・・・。",
+          "translation": "1. For the merit of saving the world... an appropriate price should be paid.\n2. That is the rule of the Desire Grand Prix...\n3. That man... has won too much.\n4. It was your mission to take down Geets.\n5. I am disappointed... Punk Jack...",
+          "bbox": [0.0647, 0.1782, 0.4027, 0.031]
+        },
+        {
+          "text": "お前がその気なら・・・ こっちにも考えがある。",
+          "translation": "If you're intent on that... I have plans of my own as well.",
+          "bbox": [0.1034, 0.211, 0.3132, 0.0044]
+        },
+        {
+          "text": "浮世英寿･･･。 お前はゲームオーバーだ。(コアIDが消える音) (英寿が消える音) (RETIRED)",
+          "translation": "Ukiyo Hidetoshi... You are game over. (Sound: Core ID disappearing) (Sound: Hidetoshi disappearing) (RETIRED)",
+          "bbox": [0.1022, 0.2174, 0.6578, 0.0045]
+        },
+        {
+          "text": "君は既に脱落した身だ。仮面ライダーの資格は無い。",
+          "translation": "You have already been eliminated. You have no qualification to be a Kamen Rider.",
+          "bbox": [0.1022, 0.224, 0.3773, 0.0047]
+        },
+        {
+          "text": "やってくれたな。",
+          "translation": "You did it.",
+          "bbox": [0.1028, 0.231, 0.1161, 0.0037]
+        },
+        {
+          "text": "10 必要になったら言ってくれ。 私は君の味方だ。",
+          "translation": "10. Tell me if you need anything. I am on your side.",
+          "bbox": [0.0623, 0.2373, 0.3597, 0.0044]
+        },
+        {
+          "text": "11 消えて貰おう。",
+          "translation": "11. I'll make you disappear.",
+          "bbox": [0.0629, 0.2436, 0.1439, 0.0045]
+        },
+        {
+          "text": "12 愚かな。 理想の世界を叶えるチャンスを棒に振るとは・・・。 お前たちは… 強制退場だ!\n13 ジャマトは今も成長し続けている。私が仕切らないで・・・あいつらとどう対抗するって言うんだ!",
+          "translation": "12. How foolish. To throw away a chance to realize your ideal world... You are to be forcibly removed!\n13. Jamat continues to grow even now. If I don't take the lead... how are we supposed to oppose them?!",
+          "bbox": [0.0629, 0.2504, 0.7068, 0.0109]
+        },
+        {
+          "text": "14 このドライバーの権限は返してもらう。",
+          "translation": "14. I will have the authority of this Driver returned to me.",
+          "bbox": [0.0623, 0.2635, 0.3156, 0.0042]
+        },
+        {
+          "text": "番号",
+          "translation": "No.",
+          "bbox": [0.0586, 0.2882, 0.0296, 0.0039]
+        },
+        {
+          "text": "ゲイザーモード",
+          "translation": "Gazer Mode",
+          "bbox": [0.4093, 0.2751, 0.1808, 0.0076]
+        },
+        {
+          "text": "台詞",
+          "translation": "Lines",
+          "bbox": [0.5073, 0.2882, 0.0272, 0.0039]
+        },
+        {
+          "text": "1 デザイアグランプリ･･･ 新シリーズの幕開けだ!\n2 興味があるんだよ。 この世界のリアルに。",
+          "translation": "1. Desire Grand Prix... the curtain-raiser for a new series!\n2. I'm intrigued. By the reality of this world.",
+          "bbox": [0.0653, 0.2948, 0.3634, 0.0116]
+        },
+        {
+          "text": "どうやら君を見くびっていたようだ。 一度ならず二度までも・・・死を乗り越えるとは…。",
+          "translation": "It seems I underestimated you. To overcome death not once but twice...",
+          "bbox": [0.1028, 0.3083, 0.6016, 0.0045]
+        },
+        {
+          "text": "もはや偶然のフィクションにあらず。 あぁ・・・。 君の存在こそがリアリティ。",
+          "translation": "This is no longer mere accidental fiction. Ah... your very existence is reality.",
+          "bbox": [0.1028, 0.3148, 0.5073, 0.0045]
+        },
+        {
+          "text": "ならば…実力行使に出るしかない。",
+          "translation": "Then... we have no choice but to resort to direct action.",
+          "bbox": [0.1028, 0.3214, 0.2497, 0.0047]
+        },
+        {
+          "text": "君たちが知る必要はない。",
+          "translation": "This is not something you need to know.",
+          "bbox": [0.1022, 0.3281, 0.1904, 0.004]
+        },
+        {
+          "text": "ノーコメントだ。",
+          "translation": "No comment.",
+          "bbox": [0.1016, 0.3345, 0.1149, 0.0042]
+        },
+        {
+          "text": "君たちが･･･ 願いを叶えるために･･･とるべきただ一つの道だ。",
+          "translation": "This is the only path you must take to fulfill your wish.",
+          "bbox": [0.1022, 0.3411, 0.4311, 0.0042]
+        },
+        {
+          "text": "君一人に何ができる?",
+          "translation": "What can you accomplish by yourself?",
+          "bbox": [0.1022, 0.3476, 0.1572, 0.0045]
+        },
+        {
+          "text": "9 この世界のリアルこそが女神の御心。\n10 全てを忘れて楽になれ。\n11 諦める以外に･･･ 君が幸せになる術はない。\n12 あり得ない･･･。 こんなライダーが存在するはずがない。\n13 後戻りはできませんよ?全てを思い出せば･･･戦わざるを得なくなる。 命がけのゲームで･･･。\n14 どうやらこの世界は… 面白い変化を遂げそうだ…。\n15 もはや人類滅亡は･･･ 避けられないリアルか...。\n16 世界を変えられるか･･･?ギーツ・・・。",
+          "translation": "9. The reality of this world is the will of the goddess.\n10. Forget everything and be relieved.\n11. There is no way for you to be happy except to give up.\n12. Impossible... A Rider like this cannot exist.\n13. There is no turning back, you know? If you remember everything... you will have no choice but to fight. In a life‑and‑death game...\n14. It seems this world is about to undergo an interesting change...\n15. Is humanity's extinction now an unavoidable reality...?\n16. Can the world be changed...? Geets...",
+          "bbox": [0.0623, 0.354, 0.6856, 0.0505]
+        },
+        {
+          "text": "番号",
+          "translation": "No.",
+          "bbox": [0.0593, 0.4252, 0.029, 0.0037]
+        },
+        {
+          "text": "グレア2モード",
+          "translation": "Glare 2 Mode",
+          "bbox": [0.4123, 0.4121, 0.1759, 0.0072]
+        },
+        {
+          "text": "台詞",
+          "translation": "Lines",
+          "bbox": [0.5073, 0.425, 0.0278, 0.0037]
+        },
+        {
+          "text": "1 どうも〜! 新しくゲームマスターに任命された･･･チラミよ。しくよろ~っ!",
+          "translation": "1. Helloooo! I've been newly appointed the Game Master... Chirami. Nice to meet you~!",
+          "bbox": [0.0689, 0.4319, 0.5393, 0.0045]
+        },
+        {
+          "text": "ん~? ナイスリアクション。 せーの･･･フレッシュ採れたて野菜! カメラ~今のバッチリ撮れてる!?",
+          "translation": "Hmm~? Nice reaction. Ready... Freshly picked vegetables! Camera—did you get that perfectly?!",
+          "bbox": [0.1028, 0.4385, 0.6717, 0.0045]
+        },
+        {
+          "text": "3 面白くなってきたじゃな~い!",
+          "translation": "3. This is getting interesting, isn't it~!",
+          "bbox": [0.0665, 0.4452, 0.2455, 0.0044]
+        },
+        {
+          "text": "オーディエンスを退屈させたらゲームマスターとしての私の評価に関わるのよ!",
+          "translation": "If I bore the audience, it affects my rating as Game Master!",
+          "bbox": [0.1028, 0.4515, 0.5683, 0.0047]
+        },
+        {
+          "text": "手加減は…無しで行くわよ。",
+          "translation": "I won't hold back...",
+          "bbox": [0.1028, 0.4582, 0.2013, 0.0045]
+        },
+        {
+          "text": "･･･勝負!ヘーヘッヘッヘッ♪",
+          "translation": "...Showtime! Heh heh heh heh ♪",
+          "bbox": [0.1016, 0.4647, 0.1923, 0.0047]
+        },
+        {
+          "text": "逃げ場が無いのはそっち~!",
+          "translation": "You're the one with no place to run!",
+          "bbox": [0.1022, 0.4779, 0.2025, 0.0044]
+        },
+        {
+          "text": "グイングイン♪グイングイン♪グイングイン♪ お~とっとっとっとっ・・・ ヤァッ! 危ないじゃないの!",
+          "translation": "Guin‑guin♪ Guin‑guin♪ Guin‑guin♪ Whoa—whoops—whoa... Yow! That was dangerous!",
+          "bbox": [0.1028, 0.471, 0.6898, 0.0049]
+        },
+        {
+          "text": "9 ショーは盛り上げないと!･･･でしょ?\n10 私たちのデザグラを取り返して!\n11 こうなったら奥の手に出るしかないわね…..!\n12 舐められたものね。 いいわ。 ゲームマスターに楯突いたことを･･･ たっぷり後悔させてあげる!",
+          "translation": "9. We have to liven up the show! ...Right?\n10. Take back our Desagra!\n11. If it comes to this, we'll have to use our trump card...!\n12. You've been taking us lightly. Fine. I'll make you regret defying the Game Master!",
+          "bbox": [0.0623, 0.4843, 0.6917, 0.0242]
+        },
+        {
+          "text": "13 ショーの駒の分際で・・・!\n14 なかなか面白い事してくれるじゃない...。",
+          "translation": "13. How dare you, a mere pawn in the show...!\n14. You're doing some pretty interesting things...",
+          "bbox": [0.0623, 0.5105, 0.3349, 0.0113]
+        },
+        {
+          "text": "グレア2 (ベロバ) モード",
+          "translation": "Glare 2 (Veloba) Mode",
+          "bbox": [0.3597, 0.5295, 0.2811, 0.0074]
+        },
+        {
+          "text": "番号",
+          "translation": "No.",
+          "bbox": [0.0586, 0.5422, 0.0296, 0.0039]
+        },
+        {
+          "text": "台詞",
+          "translation": "Lines",
+          "bbox": [0.5067, 0.5423, 0.029, 0.0037]
+        },
+        {
+          "text": "あんたはどうでもいいのよ。 あたしが欲しかったのは、 これ。 そう。 創世の女神。",
+          "translation": "I don't care about you. What I wanted was this. Yes. The Goddess of Creation.",
+          "bbox": [0.1034, 0.5492, 0.5538, 0.0045]
+        },
+        {
+          "text": "そしてこのヴィジョンドライバーは、創世の女神にアクセスするための鍵・・・でしょ?",
+          "translation": "And this Vision Driver is the key to accessing the Goddess of Creation... right?",
+          "bbox": [0.1034, 0.5556, 0.5834, 0.0047]
+        },
+        {
+          "text": "2 やっと会えたね。 女神様。 さぁ、 あたしの願いを叶えてもらうよ。",
+          "translation": "2. Finally we meet, Goddess. Now, grant my wish.",
+          "bbox": [0.0653, 0.562, 0.4825, 0.005]
+        },
+        {
+          "text": "また来るね、 女神様。 今度はそいつのドライバーも手に入れて。",
+          "translation": "I'll come back, Goddess. Next time, I'll get that guy's Driver too.",
+          "bbox": [0.1034, 0.5687, 0.4468, 0.0045]
+        },
+        {
+          "text": "底面左ボタン",
+          "translation": "Bottom-left button",
+          "bbox": [0.8222, 0.0597, 0.1203, 0.0054]
+        },
+        {
+          "text": "4 ようこそジャマトグランプリへ。 あたしがゲームマスターのベロバよ。\n5 ホント、面白いおもちゃよね。 これがあれば、 思い通りのゲームを作り出せるんだもん。\n6 ルール違反者はっけ~ん!サポーターがゲームに直接手を貸すのは･･･ジャマグラでは禁止されてるんだけど?",
+          "translation": "4. Welcome to the Jamato Grand Prix. I'm Belova, the Game Master.\n5. Really, it's such a fun toy. With this, you can create the game you want.\n6. Rule breaker detected! Supporters directly assisting in the game is prohibited in Jamato Grand Prix, you know?",
+          "bbox": [0.0647, 0.575, 0.8204, 0.0182]
+        },
+        {
+          "text": "レッドカード。あなたは退場よジーン。",
+          "translation": "Red card. You're out, Gene.",
+          "bbox": [0.1034, 0.595, 0.2648, 0.0044]
+        },
+        {
+          "text": "フフフッ・・・。 さあそこの寝ぼすけさんもやっちゃいなさい。そこで見てなさい。 推しの死に様を。",
+          "translation": "Heh heh heh... Now then, you sleepyhead over there—do it. Watch from there. Watch your favorite's dying scene.",
+          "bbox": [0.1034, 0.6014, 0.6699, 0.0045]
+        },
+        {
+          "text": "アハハハッ!こんな不幸なことはないわ。ゾグソクする~! アハハハハッ!",
+          "translation": "Ahahahah! There's nothing sadder. I'm thrilled~! Ahahahaha!",
+          "bbox": [0.1028, 0.6079, 0.5042, 0.0047]
+        },
+        {
+          "text": "9 無駄よ。ジャマトが天下統一を果たし、 この世界の全てを支配するんだから。",
+          "translation": "9. It's useless. Jamato will achieve world domination and rule everything in this world.",
+          "bbox": [0.0647, 0.6145, 0.5774, 0.0049]
+        },
+        {
+          "text": "10 いざ尋常に勝負って奴よ。\n11 飛んで火に入る夏の虫。 罠を仕掛けたとも知らずに。\n12 ギーツ。 真っ赤なキツネは使わせないよ。\n13 その強さにも代償があるようね。 だったら・・・ひと思いに逝かせてあげる。\n14 か弱い女の子相手に、本気でやる気?\n15年のことを言うんじゃないよーっ!",
+          "translation": "10. A fair match, then.\n11. Like a moth to the flame, flying into the fire—unaware a trap was set.\n12. Geets. I won't let you use that bright red fox.\n13. Even that strength comes with a cost. If so... I'll put you down quickly.\n14. You're serious about going all-out against a frail girl?\n15. Don't bring up that year's business—don't!",
+          "bbox": [0.0623, 0.6211, 0.5556, 0.0374]
+        },
+        {
+          "text": "16 待ちなさいよ!知りたくないの?ギーツの弱点。特別に、見せてあげるから。\n17 ギーツの母親こそが、 創世の女神よ。\n18 それならそれで、最後までこの世界の不幸を味わい尽くすだけよ。\n19 ヴィジョンドライバーは返すしかなさそうね。 ただし、女神様に挨拶した後にね。\n20 あたしたちの最後のお願い･･･聞いてくれる?\n21 最後の願いも叶えたし、これで心置きなく推しの最期を見届けられるわね。",
+          "translation": "16. Wait! Don't you want to know Geets' weakness? I'll show it to you as a special favor.\n17. Geets' mother is the Goddess of Creation.\n18. If that's the case, then we'll simply savor this world's misfortune to the end.\n19. It looks like we'll have to return the Vision Driver. But only after we've paid our respects to the Goddess.\n20. Will you grant our final request...?\n21. Now that we've had our last wish granted, we can peacefully witness our favorite's end.",
+          "bbox": [0.0593, 0.6604, 0.6028, 0.0372]
+        },
+        {
+          "text": "番号",
+          "translation": "No.",
+          "bbox": [0.0586, 0.7183, 0.029, 0.0039]
+        },
+        {
+          "text": "ゲイザー (スエル) モード",
+          "translation": "Gazer (Suel) Mode",
+          "bbox": [0.3579, 0.705, 0.286, 0.0081]
+        },
+        {
+          "text": "台詞",
+          "translation": "Lines",
+          "bbox": [0.5073, 0.718, 0.0272, 0.0042]
+        },
+        {
+          "text": "1 素晴らしいショーをありがとう、諸君。 その健闘を称え、諸君を次なるステージへ招待しよう。\n2 我が名はスエル。 デザイアグランプリの創始者。\n3 君たちの求めるものは何だ? 求めるものがあるならば・・・ ゲームを始めよう。",
+          "translation": "1. Thank you for a wonderful show, everyone. In recognition of your efforts, I will invite you to the next stage.\n2. My name is Suel. Founder of the Desire Grand Prix.\n3. What is it you seek? If you have a desire... then let the game begin.",
+          "bbox": [0.0659, 0.7251, 0.6892, 0.0178]
+        },
+        {
+          "text": "ルールはただ一つ。最後まで生き残った者に・・・ この世界を決める権利を与える。",
+          "translation": "There is only one rule: the one who survives until the end is granted the right to decide this world.",
+          "bbox": [0.104, 0.7449, 0.5683, 0.0044]
+        },
+        {
+          "text": "デザイアグランプリが存在する世界か･･･。 あるいは・・・ 存在しない世界か。",
+          "translation": "Is this a world where the Desire Grand Prix exists...? Or... is this a world where it doesn't exist?",
+          "bbox": [0.1034, 0.7513, 0.5193, 0.0045]
+        },
+        {
+          "text": "5 己の胸に沸き立つ欲望の火をつけ・・・ 戦え。 そのゲームの名は…デザイアロワイヤル。\n6 創世の女神よ･･･。 最後に・・・ 彼らの醜い争いを楽しもう。 デザイアロワイヤル、スタートだ。\n7 この世界から撤収し、全てなかったことにする。\n8 見世物小屋の動物にもう餌は必要ない。",
+          "translation": "5. Ignite the fire of desire that boils within your chest... fight. The name of that game is Desire Royale.\n6. O Goddess of Creation... finally... let us enjoy their ugly struggle. Desire Royale, start.\n7. We will withdraw from this world and make it as if it never was.\n8. The animals in the freak show no longer need food.",
+          "bbox": [0.0653, 0.7579, 0.6681, 0.0242]
+        },
+        {
+          "text": "9 グランドエンドと同時に我々は消える。 女神と共にな。お前は全てを忘れるのだ。 他でもない･･･ 女神自身の力によって。\n10 女神に意志など存在しない。 願いを叶える・・・ ただの道具に過ぎない。\n11 女神の力は時と共に弱りつつあった。願いを叶えぬ女神など･･･無価値なガラクタ。 グランドエンドと共に処分するのみ。",
+          "translation": "9. At the Grand End we will vanish along with the Goddess. You will forget everything—by the power of the Goddess herself.\n10. The Goddess has no will. She is merely a tool to grant wishes.\n11. The Goddess's power had been waning over time. A goddess that does not grant wishes is worthless junk. She will be disposed of along with the Grand End.",
+          "bbox": [0.0623, 0.7838, 0.8851, 0.018]
+        },
+        {
+          "text": "12 案ずるな。 女神は新たな後継者へと引き継がれる。",
+          "translation": "12. Do not worry. The Goddess will be passed on to a new successor.",
+          "bbox": [0.0623, 0.8038, 0.4008, 0.0045]
+        },
+        {
+          "text": "13 ギーツ･･･まさか創世の力を継承していたのか?",
+          "translation": "13. Geets... could it be that he inherited the power of creation?",
+          "bbox": [0.0623, 0.8102, 0.3773, 0.0045]
+        },
+        {
+          "text": "14 だが、 その力は･･･自らの意志で操れるものではない･･･忌まわしき力。",
+          "translation": "14. But that power is not something one can wield by their own will... it is an accursed power.",
+          "bbox": [0.0623, 0.8168, 0.5302, 0.0044]
+        },
+        {
+          "text": "15 私に意見する気か?",
+          "translation": "15. Do you intend to contradict me?",
+          "bbox": [0.0623, 0.8233, 0.182, 0.0044]
+        },
+        {
+          "text": "16 創世の女神よ･･･ グランドエンドを実行せよ。",
+          "translation": "16. O Goddess of Creation... execute the Grand End.",
+          "bbox": [0.0623, 0.8297, 0.3519, 0.0047]
+        },
+        {
+          "text": "17 デザイアグランプリ････ これにて終幕。 ん…?\n18 グランドエンドは完了したはず。 創世の力で抗ったか...。\n19 フフフ…お前が創り変える世界が･･･ ユートピアとなるかディストピアとなるか･･･見ものだな。",
+          "translation": "17. The Desire Grand Prix... ends here. Hm...?\n18. The Grand End should have completed. Did you resist with the power of creation...?\n19. Heh heh heh... whether the world you remake becomes a utopia or a dystopia... it will be a sight to see.",
+          "bbox": [0.0623, 0.8361, 0.7086, 0.018]
+        },
+        {
+          "text": "ジャマトゲイザーモード",
+          "translation": "Jamato Gazer Mode",
+          "bbox": [0.3622, 0.8619, 0.2769, 0.0072]
+        },
+        {
+          "text": "番号",
+          "translation": "No.",
+          "bbox": [0.0586, 0.8746, 0.0302, 0.0039]
+        },
+        {
+          "text": "台詞",
+          "translation": "Lines",
+          "bbox": [0.5073, 0.8746, 0.0272, 0.0039]
+        },
+        {
+          "text": "俺の心に芽生えた四葉のクローバー。その思いを遂げることこそが、 ジャマトの理想の世界･･･。 必ず叶えてみせる・・・。\n手に入れた創世の力で俺自身も新たな仮面ライダーに創り変えるとしよう。\n我が名は･･･ 仮面ライダージャマトゲイザー。 ジャマト帝国をプロデュースする・・・最強の帝王だ。\nハハハハハッ!無様だな。 もはやオーディエンス共がジャマトに変わるのも時間の問題。",
+          "translation": "A four‑leaf clover has sprouted in my heart. Fulfilling that feeling is Jamato's ideal world... I will make it come true.\nWith the power of creation I have obtained, I will remake myself into a new Kamen Rider.\nMy name is... Kamen Rider Jamato Gazer. I am the supreme emperor who will produce the Jamato Empire.\nHahahahaha! Pathetic. It is only a matter of time before the audience too turn into Jamato.",
+          "bbox": [0.1016, 0.8815, 0.8307, 0.0242]
+        },
+        {
+          "text": "せいぜい人生最期のひと時を過ごすがいい。 フフハハハハハッ!",
+          "translation": "Make the most of your final moments in life. Fufuhahahaha!",
+          "bbox": [0.1028, 0.9078, 0.4528, 0.0045]
+        },
+        {
+          "text": "5 四葉のクローバーの花言葉には••• \"復讐\"という意味もあるんだよ。\n6 お前らに世界は救えない。 この俺に創世の力がある限りな。\n7 無駄だ。奴は帰ってこない。",
+          "translation": "5. The four‑leaf clover's flower language even includes 'revenge.'\n6. You cannot save the world, not as long as I hold the power of creation.\n7. Futile. He will not return.",
+          "bbox": [0.0653, 0.9144, 0.5157, 0.0177]
+        },
+        {
+          "text": "8 浮世英寿･･･。 まだ創世の力が残っていたとは・・・。 だが、今更現れてももう遅い。 仮面ライダーは…全員処刑する。\n9 人類ジャマト化計画は既に進行している。既に各地にジャマトがばら撒かれている。 お前らに救うことはできない。\n10 己の無力さに打ちひしがれるがいい。\n11 おのれ仮面ライダー。ブーストの力がこれ程のものとは。 ならば力づくで仕留めるまで。",
+          "translation": "8. Ukiyo Hidetoshi... So you still had the power of creation... But it's too late for you to show up now. All Kamen Riders will be executed.\n9. The plan to Jamato‑ize humanity is already in progress. Jamato has already been scattered across the land. You cannot save them.\n10. Be crushed by your own helplessness.\n11. Damn you, Kamen Rider. I did not expect Boost's power to be this much. Then I will take you down by force until you are finished.",
+          "bbox": [0.0623, 0.9337, 0.844, 0.0244]
+        },
+        {
+          "text": "12 復讐の邪魔をするな!",
+          "translation": "12. Do not interfere with my revenge!",
+          "bbox": [0.0629, 0.9603, 0.1935, 0.0042]
+        },
+        {
+          "text": "13 ジャマトが人類に取って代わるんだ!",
+          "translation": "13. Jamato will supplant humanity!",
+          "bbox": [0.0623, 0.9663, 0.2981, 0.0047]
+        },
+        {
+          "text": "14 そんな馬鹿な・・・。人類ごときが･･･! ぐわああッ!",
+          "translation": "14. That's impossible... Mere humans...! Gwahhh!",
+          "bbox": [0.0623, 0.9732, 0.3597, 0.0045]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-5.webp",
+      "blocks": [
+        {
+          "text": "変身前の天面効果音遊び\n① サイドボタンを押します。\n→「UPGRADE」が鳴ります。",
+          "translation": "Playing with the top-surface sound effects before transformation\n① Press the side button.\n→ “UPGRADE” will sound.",
+          "bbox": [0.0399, 0.021, 0.3573, 0.0518]
+        },
+        {
+          "text": "②タッチセンサーに触れます。\nモード毎の効果音が鳴ります。\nこの状態では変身待機音は流れません。",
+          "translation": "② Touch the touch sensor.\nA sound effect for each mode will play.\nIn this state, the transformation standby sound will not play.",
+          "bbox": [0.0447, 0.2705, 0.4891, 0.0454]
+        },
+        {
+          "text": "サイドボタン",
+          "translation": "Side button",
+          "bbox": [0.575, 0.2434, 0.1149, 0.0078]
+        },
+        {
+          "text": "タッチセンサー",
+          "translation": "Touch sensor",
+          "bbox": [0.3029, 0.3782, 0.1342, 0.0078]
+        },
+        {
+          "text": "モード一覧",
+          "translation": "Mode list",
+          "bbox": [0.1832, 0.5866, 0.1276, 0.0115]
+        },
+        {
+          "text": "音声",
+          "translation": "Sound",
+          "bbox": [0.6735, 0.5869, 0.0514, 0.0113]
+        },
+        {
+          "text": "グレアモード",
+          "translation": "Glare Mode",
+          "bbox": [0.0665, 0.6081, 0.1548, 0.0118]
+        },
+        {
+          "text": "洗脳音",
+          "translation": "Brainwashing sound",
+          "bbox": [0.4704, 0.6089, 0.0798, 0.011]
+        },
+        {
+          "text": "ゲイザーモード",
+          "translation": "Gazer Mode",
+          "bbox": [0.0671, 0.6307, 0.1808, 0.0118]
+        },
+        {
+          "text": "グレア2モード",
+          "translation": "Glare 2 Mode",
+          "bbox": [0.0665, 0.653, 0.1765, 0.0121]
+        },
+        {
+          "text": "四次元ゲートを開く音\n洗脳音",
+          "translation": "Sound of opening a four-dimensional gate\nBrainwashing sound",
+          "bbox": [0.4716, 0.6307, 0.2527, 0.0341]
+        },
+        {
+          "text": "グレア2 (ベロバ)モード\nゲイザー (スエル)モード\nジャマトゲイザーモード",
+          "translation": "Glare 2 (Beroba) Mode\nGazer (Suel) Mode\nJamatogazer Mode",
+          "bbox": [0.0671, 0.6755, 0.286, 0.0564]
+        },
+        {
+          "text": "四次元ゲートを開く音",
+          "translation": "Sound of opening a four-dimensional gate",
+          "bbox": [0.4716, 0.6758, 0.2527, 0.0115]
+        },
+        {
+          "text": "ミツメを創世の女神に変える音\n洗脳音",
+          "translation": "Sound that turns Mitsume into the goddess of creation\nBrainwashing sound",
+          "bbox": [0.4704, 0.6978, 0.3622, 0.0341]
+        },
+        {
+          "text": "③再度、サイドボタンを押します。\n「SHUT DOWN」 が鳴り、通常状態に戻ります。",
+          "translation": "③ Press the side button again.\n→ “SHUT DOWN” will sound, and the unit will return to its normal state.",
+          "bbox": [0.0447, 0.7553, 0.5852, 0.0282]
+        },
+        {
+          "text": "サイドボタン",
+          "translation": "Side button",
+          "bbox": [0.5883, 0.9511, 0.1131, 0.0078]
+        },
+        {
+          "text": "m.",
+          "translation": "m.",
+          "bbox": [0.792, 0.1402, 0.0623, 0.0019]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-6.webp",
+      "blocks": [
+        {
+          "text": "底面効果音遊び\n変身前後ともに、\n底面右ボタンを押す度に\n効果音が鳴ります。",
+          "translation": "Bottom Sound Effects\nBefore and after transformation, a sound effect will play each time you press the bottom-right button.",
+          "bbox": [0.0399, 0.0225, 0.2908, 0.0737]
+        },
+        {
+          "text": "番号",
+          "translation": "No.",
+          "bbox": [0.058, 0.2903, 0.029, 0.0066]
+        },
+        {
+          "text": "1 ベルト装着音",
+          "translation": "1 Belt equip sound",
+          "bbox": [0.0689, 0.3021, 0.1294, 0.0078]
+        },
+        {
+          "text": "番号",
+          "translation": "No.",
+          "bbox": [0.058, 0.3145, 0.0284, 0.0069]
+        },
+        {
+          "text": "1 足音\n2 パンチ音",
+          "translation": "1 Footstep sound\n2 Punch sound",
+          "bbox": [0.0671, 0.3269, 0.1004, 0.0181]
+        },
+        {
+          "text": "ヒュプノレイ効果音",
+          "translation": "Hypno Ray sound effect",
+          "bbox": [0.1022, 0.3482, 0.1397, 0.0084]
+        },
+        {
+          "text": "ヒュプノレイ効果音",
+          "translation": "Hypno Ray sound effect",
+          "bbox": [0.1022, 0.3597, 0.1403, 0.0075]
+        },
+        {
+          "text": "ゲームルールを書き換える音",
+          "translation": "Sound that rewrites the game rules",
+          "bbox": [0.1016, 0.3707, 0.2128, 0.0075]
+        },
+        {
+          "text": "番号",
+          "translation": "No.",
+          "bbox": [0.058, 0.4136, 0.0296, 0.0069]
+        },
+        {
+          "text": "ベルト装着音",
+          "translation": "Belt equip sound",
+          "bbox": [0.1016, 0.4254, 0.0961, 0.0078]
+        },
+        {
+          "text": "番号",
+          "translation": "No.",
+          "bbox": [0.0586, 0.4384, 0.0284, 0.0063]
+        },
+        {
+          "text": "底面右ボタン",
+          "translation": "Bottom-right button",
+          "bbox": [0.3615, 0.0982, 0.1209, 0.0092]
+        },
+        {
+          "text": "グレアモード",
+          "translation": "Glare Mode",
+          "bbox": [0.422, 0.2676, 0.1554, 0.0127]
+        },
+        {
+          "text": "変身前",
+          "translation": "Before transformation",
+          "bbox": [0.4885, 0.2886, 0.0635, 0.0101]
+        },
+        {
+          "text": "変身後",
+          "translation": "After transformation",
+          "bbox": [0.4879, 0.3134, 0.0641, 0.0098]
+        },
+        {
+          "text": "ゲイザーモード",
+          "translation": "Gazer Mode",
+          "bbox": [0.4087, 0.3911, 0.182, 0.013]
+        },
+        {
+          "text": "変身前",
+          "translation": "Before transformation",
+          "bbox": [0.4885, 0.4113, 0.0623, 0.0098]
+        },
+        {
+          "text": "変身後",
+          "translation": "After transformation",
+          "bbox": [0.4861, 0.4363, 0.0635, 0.0095]
+        },
+        {
+          "text": "1 ドミニオンレイ効果音\n2 ドミニオンレイ効果音",
+          "translation": "1 Dominion Ray sound effect\n2 Dominion Ray sound effect",
+          "bbox": [0.0653, 0.4502, 0.1941, 0.0184]
+        },
+        {
+          "text": "|2345",
+          "translation": "|2345",
+          "bbox": [0.0641, 0.4594, 0.0145, 0.0418]
+        },
+        {
+          "text": "足音",
+          "translation": "Footstep sound",
+          "bbox": [0.101, 0.4726, 0.0345, 0.0069]
+        },
+        {
+          "text": "ドミニオンレイ効果音\n5 ドミニオンレイ効果音",
+          "translation": "Dominion Ray sound effect\n5 Dominion Ray sound effect",
+          "bbox": [0.0665, 0.483, 0.1929, 0.0187]
+        },
+        {
+          "text": "グレア2モード",
+          "translation": "Glare 2 Mode",
+          "bbox": [0.4069, 0.515, 0.1753, 0.0124]
+        },
+        {
+          "text": "番号",
+          "translation": "No.",
+          "bbox": [0.058, 0.5369, 0.029, 0.0066]
+        },
+        {
+          "text": "ベルト装着音",
+          "translation": "Belt equip sound",
+          "bbox": [0.1016, 0.5493, 0.0955, 0.0072]
+        },
+        {
+          "text": "番号",
+          "translation": "No.",
+          "bbox": [0.0574, 0.5616, 0.0296, 0.0066]
+        },
+        {
+          "text": "1 ヒュプノレイ効果音",
+          "translation": "1 Hypno Ray sound effect",
+          "bbox": [0.0683, 0.5732, 0.1747, 0.0078]
+        },
+        {
+          "text": "ヒュプノレイ効果音",
+          "translation": "Hypno Ray sound effect",
+          "bbox": [0.1022, 0.5838, 0.1403, 0.0084]
+        },
+        {
+          "text": "ヒュプノレイ効果音",
+          "translation": "Hypno Ray sound effect",
+          "bbox": [0.1022, 0.5953, 0.1397, 0.0078]
+        },
+        {
+          "text": "番号",
+          "translation": "No.",
+          "bbox": [0.058, 0.6391, 0.0296, 0.0063]
+        },
+        {
+          "text": "1 ベルト装着音&ワープ音\n2鐘の音&創世の女神の拒絶音\n3 ゲームエリア創出音",
+          "translation": "1 Belt equip sound & warp sound\n2 Bell sound & Goddess of Creation's rejection sound\n3 Game-area creation sound",
+          "bbox": [0.0671, 0.6506, 0.2485, 0.03]
+        },
+        {
+          "text": "ベルト装着音",
+          "translation": "Belt equip sound",
+          "bbox": [0.1016, 0.684, 0.0961, 0.0075]
+        },
+        {
+          "text": "鐘の音",
+          "translation": "Bell sound",
+          "bbox": [0.1016, 0.6947, 0.0496, 0.0072]
+        },
+        {
+          "text": "番号",
+          "translation": "No.",
+          "bbox": [0.058, 0.7077, 0.029, 0.0066]
+        },
+        {
+          "text": "ヒュプノレイ効果音",
+          "translation": "Hypno Ray sound effect",
+          "bbox": [0.1022, 0.7195, 0.1397, 0.0075]
+        },
+        {
+          "text": "2 ヒュプノレイ効果音",
+          "translation": "2 Hypno Ray sound effect",
+          "bbox": [0.0659, 0.7304, 0.1759, 0.0075]
+        },
+        {
+          "text": "ヒュプノレイ効果音",
+          "translation": "Hypno Ray sound effect",
+          "bbox": [0.1022, 0.7408, 0.1397, 0.0086]
+        },
+        {
+          "text": "番号",
+          "translation": "No.",
+          "bbox": [0.0574, 0.7849, 0.0302, 0.006]
+        },
+        {
+          "text": "1 鐘の音&創世の女神の拒絶音\n創世の女神出現音&鐘の音\n3 ベルト装着音",
+          "translation": "1. Bell sound & sound of the Goddess of Creation's rejection\nSound of the Goddess of Creation's appearance & bell sound\n3. Belt fastening sound",
+          "bbox": [0.0665, 0.7964, 0.2503, 0.0297]
+        },
+        {
+          "text": "番号",
+          "translation": "No.",
+          "bbox": [0.0574, 0.8309, 0.029, 0.0066]
+        },
+        {
+          "text": "1 グランドエンド決行音\n2 ドミニオンレイ効果音",
+          "translation": "1 Grand End execution sound\n2 Dominion Ray sound effect",
+          "bbox": [0.0653, 0.8427, 0.1935, 0.0193]
+        },
+        {
+          "text": "ドミニオンレイ効果音",
+          "translation": "Dominion Ray sound effect",
+          "bbox": [0.1028, 0.8649, 0.156, 0.0078]
+        },
+        {
+          "text": "ドミニオンレイ効果音",
+          "translation": "Dominion Ray sound effect",
+          "bbox": [0.1028, 0.8762, 0.156, 0.0075]
+        },
+        {
+          "text": "番号",
+          "translation": "No.",
+          "bbox": [0.058, 0.9194, 0.029, 0.0063]
+        },
+        {
+          "text": "1 ベルト装着音",
+          "translation": "1 Belt equip sound",
+          "bbox": [0.0683, 0.9312, 0.1294, 0.0069]
+        },
+        {
+          "text": "番号",
+          "translation": "No.",
+          "bbox": [0.058, 0.9438, 0.029, 0.0063]
+        },
+        {
+          "text": "変身前",
+          "translation": "Before transformation",
+          "bbox": [0.4891, 0.5351, 0.0623, 0.0095]
+        },
+        {
+          "text": "変身後",
+          "translation": "After transformation",
+          "bbox": [0.4867, 0.5599, 0.0653, 0.0086]
+        },
+        {
+          "text": "グレア2 (ベロバ) モード",
+          "translation": "Glare 2 (Veloba) Mode",
+          "bbox": [0.3591, 0.6172, 0.2811, 0.0127]
+        },
+        {
+          "text": "変身前",
+          "translation": "Before transformation",
+          "bbox": [0.4885, 0.6371, 0.0641, 0.0098]
+        },
+        {
+          "text": "変身後",
+          "translation": "After transformation",
+          "bbox": [0.4879, 0.7054, 0.0647, 0.0101]
+        },
+        {
+          "text": "ゲイザー(スエル)モード\n変身前",
+          "translation": "Gazer (Swell) Mode\nBefore transformation",
+          "bbox": [0.3567, 0.7618, 0.2848, 0.0314]
+        },
+        {
+          "text": "変身後",
+          "translation": "After transformation",
+          "bbox": [0.4885, 0.8292, 0.0641, 0.0098]
+        },
+        {
+          "text": "ジャマトゲイザーモード",
+          "translation": "Jammatogazer Mode",
+          "bbox": [0.3567, 0.8972, 0.2769, 0.0124]
+        },
+        {
+          "text": "変身前",
+          "translation": "Before transformation",
+          "bbox": [0.4885, 0.9173, 0.0629, 0.0092]
+        },
+        {
+          "text": "変身後\n無し",
+          "translation": "After transformation\nNone",
+          "bbox": [0.4831, 0.9415, 0.0689, 0.0219]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-7.webp",
+      "blocks": [
+        {
+          "text": "変身遊び図はグレアモードの例です。",
+          "translation": "The transformation play diagram is an example of Glare Mode.",
+          "bbox": [0.0387, 0.0263, 0.3833, 0.0155]
+        },
+        {
+          "text": "①タッチセンサーに触れます。\n「変身待機音」が鳴ります。\n再度タッチセンサーに\n触れると止まります。",
+          "translation": "① Touch the touch sensor. \"Transformation standby\" sound will play. Touch the touch sensor again to stop the sound.",
+          "bbox": [0.0435, 0.0562, 0.344, 0.0717]
+        },
+        {
+          "text": "②底面左ボタンを押します。\n各モード毎の「変身」ボイスが\n流れます。",
+          "translation": "② Press the bottom-left button. The \"transformation\" voice for each mode will play.",
+          "bbox": [0.0429, 0.4051, 0.3694, 0.0552]
+        },
+        {
+          "text": "タッチセンサー",
+          "translation": "Touch sensor",
+          "bbox": [0.6294, 0.1478, 0.1342, 0.0098]
+        },
+        {
+          "text": "底面左ボタン",
+          "translation": "Bottom-left button",
+          "bbox": [0.8204, 0.471, 0.1197, 0.0101]
+        },
+        {
+          "text": "③カードをスラッシュします。\n→「変身音」が鳴ります。",
+          "translation": "③ Slash the card. → The \"transformation\" sound will play.",
+          "bbox": [0.0441, 0.6667, 0.3271, 0.035]
+        },
+        {
+          "text": "カード",
+          "translation": "Card",
+          "bbox": [0.295, 0.7296, 0.0568, 0.0094]
+        },
+        {
+          "text": "※1番切り欠きが多い角を\n手前にしてスラッシュ\nしてください。",
+          "translation": "*Place the corner with the most notches toward you when slashing.",
+          "bbox": [0.6971, 0.7007, 0.2328, 0.0404]
+        },
+        {
+          "text": "INSTALL",
+          "translation": "INSTALL",
+          "bbox": [0.1965, 0.7923, 0.0937, 0.003]
+        },
+        {
+          "text": "DOMINATE A SYSTEM",
+          "translation": "DOMINATE A SYSTEM",
+          "bbox": [0.0973, 0.8555, 0.2334, 0.0081]
+        },
+        {
+          "text": "GLARE",
+          "translation": "GLARE",
+          "bbox": [0.1711, 0.8721, 0.0732, 0.0034]
+        },
+        {
+          "text": "スラッシュ部",
+          "translation": "Slash section",
+          "bbox": [0.3755, 0.9114, 0.1119, 0.0101]
+        },
+        {
+          "text": "※変身後60秒放置すると発光が終了しますが、 変身解除はされません。",
+          "translation": "*If left for 60 seconds after transforming, the lighting will turn off; the transformation itself will not be canceled.",
+          "bbox": [0.0453, 0.9461, 0.8247, 0.0145]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-8.webp",
+      "blocks": [
+        {
+          "text": "「DELETE」 必殺技遊び図はグレアモードの例です。",
+          "translation": "'DELETE' finisher-play illustration. This figure is an example of Glare Mode.",
+          "bbox": [0.0417, 0.0631, 0.5562, 0.0432]
+        },
+        {
+          "text": "カードをスラッシュします。\n→ 「DELETE必殺技音」が鳴ります。",
+          "translation": "Slash the card. → The 'DELETE' finisher sound will play.",
+          "bbox": [0.0429, 0.1395, 0.4244, 0.0855]
+        },
+        {
+          "text": "カード",
+          "translation": "Card",
+          "bbox": [0.133, 0.387, 0.058, 0.0241]
+        },
+        {
+          "text": "スラッシュ部",
+          "translation": "Slash area",
+          "bbox": [0.214, 0.8355, 0.1125, 0.0257]
+        },
+        {
+          "text": "※1番切り欠きが多い角を\n手前にしてスラッシュ\nしてください。",
+          "translation": "※Place the corner with the most notches facing you, then slash.",
+          "bbox": [0.5363, 0.3156, 0.2328, 0.0988]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-9.webp",
+      "blocks": [
+        {
+          "text": "「SHUT DOWN」 必殺技遊び ※図はグレアモードの例です。",
+          "translation": "\"SHUT DOWN\" Special Move Play ※The illustration shows an example in Glare Mode.",
+          "bbox": [0.0417, 0.0577, 0.6252, 0.0392]
+        },
+        {
+          "text": "カードを2回連続でスラッシュします。\n(「DELETE必殺技音」 が鳴り始めて3秒以内にスラッシュして下さい)\n→ 「SHUT DOWN必殺技音」が鳴ります。",
+          "translation": "Slash the card twice in succession.\n(Slash within 3 seconds after the \"DELETE\" special-move sound begins to play)\n→ The \"SHUT DOWN\" special-move sound will play.",
+          "bbox": [0.0435, 0.1285, 0.7944, 0.1269]
+        },
+        {
+          "text": "カード",
+          "translation": "Card",
+          "bbox": [0.1167, 0.5469, 0.0574, 0.0215]
+        },
+        {
+          "text": "スラッシュ部",
+          "translation": "Slash section",
+          "bbox": [0.214, 0.8477, 0.1125, 0.0238]
+        },
+        {
+          "text": "※1番切り欠きが多い角を\n手前にしてスラッシュ\nしてください。",
+          "translation": "※Place the corner with the largest number of notches toward you, then slash.",
+          "bbox": [0.5363, 0.3662, 0.2322, 0.0923]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-10.webp",
+      "blocks": [
+        {
+          "text": "バックル必殺技遊び 図はブーストレイズバックル (別売り)の例です。\n①バックルスロットにブーストレイズバックル(以下バックル)を装填します。\n→ 「バックル必殺技待機音」 の音声が流れます。",
+          "translation": "Buckle Special Move Play\nThe illustration shows an example using the Boost Raise Buckle (sold separately).\n① Insert the Boost Raise Buckle (hereinafter referred to as the buckle) into the buckle slot.\n→ The \"Buckle Special Move Standby Sound\" will play.",
+          "bbox": [0.0399, 0.0229, 0.8573, 0.0581]
+        },
+        {
+          "text": "②バックルを操作します。\n→ 「バックル必殺技音」が流れます。",
+          "translation": "② Operate the buckle.\n→ The \"Buckle Special Move Sound\" will play.",
+          "bbox": [0.0429, 0.4533, 0.4057, 0.032]
+        },
+        {
+          "text": "UPGRADE",
+          "translation": "UPGRADE",
+          "bbox": [0.1112, 0.5338, 0.1451, 0.0018]
+        },
+        {
+          "text": "-ブーストレイズバックル\n(別売り)",
+          "translation": "- Boost Raise Buckle\n(Sold separately)",
+          "bbox": [0.7152, 0.2193, 0.2183, 0.0223]
+        },
+        {
+          "text": "・バックルスロット",
+          "translation": "・Buckle slot",
+          "bbox": [0.7938, 0.3931, 0.1554, 0.0097]
+        },
+        {
+          "text": "※取り外す際は、解除ボタンを押しながらバックルを引き抜いて下さい。",
+          "translation": "※ When removing, press the release button while pulling the buckle out.",
+          "bbox": [0.0707, 0.707, 0.8356, 0.0132]
+        },
+        {
+          "text": "解除ボタン",
+          "translation": "Release button",
+          "bbox": [0.2533, 0.8183, 0.1596, 0.0153]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-11.webp",
+      "blocks": [
+        {
+          "text": "洗脳遊び図はグレアモードの例です。",
+          "translation": "Brainwashing Play  ※ The illustration is an example of Glare Mode.",
+          "bbox": [0.0399, 0.06, 0.3984, 0.0377]
+        },
+        {
+          "text": "タッチセンサーに触れます。\n→「HACKING ON」 が鳴ります。",
+          "translation": "Touch the touch sensor.\n→ \"HACKING ON\" will sound.",
+          "bbox": [0.0429, 0.1277, 0.3948, 0.0815]
+        },
+        {
+          "text": "HACKING ON",
+          "translation": "HACKING ON",
+          "bbox": [0.6802, 0.2969, 0.1935, 0.0123]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-12.webp",
+      "blocks": [
+        {
+          "text": "強制武装遊び 洗脳遊びの後に行います。 ※図はブーストレイズバックル (別売り)の例です。\n①バックルスロットにブーストレイズバックル (以下バックル)を装填します。\n→ 「SET UPGRADE」の後、「強制武装待機音」 が鳴ります。",
+          "translation": "Forced Armament Play (perform this after Brainwashing Play). *The illustration shows the Boost Raise Buckle (sold separately) as an example.\n\n① Insert the Boost Raise Buckle (hereinafter “buckle”) into the buckle slot.\n→ After “SET UPGRADE”, the “Forced Armament Standby” sound will play.",
+          "bbox": [0.0399, 0.023, 0.8924, 0.0543]
+        },
+        {
+          "text": "UPGRADE",
+          "translation": "UPGRADE",
+          "bbox": [0.2606, 0.2497, 0.1445, 0.0017]
+        },
+        {
+          "text": "②バックルを操作します。\n→「バックル必殺技音」が流れます。",
+          "translation": "② Operate the buckle.\n→ The “Buckle Finishing‑Move” sound will play.",
+          "bbox": [0.0429, 0.4392, 0.4069, 0.0298]
+        },
+        {
+          "text": "REMOTE CONTROL BOOST",
+          "translation": "REMOTE CONTROL BOOST",
+          "bbox": [0.1173, 0.5029, 0.4008, 0.0136]
+        },
+        {
+          "text": "mi",
+          "translation": "mi",
+          "bbox": [0.6959, 0.3452, 0.0393, 0.0009]
+        },
+        {
+          "text": "-ブーストレイズバックル\n(別売り)",
+          "translation": "- Boost Raise Buckle\n(Sold separately)",
+          "bbox": [0.7158, 0.2239, 0.2164, 0.025]
+        },
+        {
+          "text": "バックルスロット",
+          "translation": "Buckle slot",
+          "bbox": [0.8005, 0.3938, 0.1487, 0.0088]
+        },
+        {
+          "text": "※取り外す際は、解除ボタンを押しながらバックルを引き抜いて下さい。",
+          "translation": "*When removing, press the release button while pulling the buckle out.",
+          "bbox": [0.0707, 0.6841, 0.8356, 0.0128]
+        },
+        {
+          "text": "解除ボタン",
+          "translation": "Release button",
+          "bbox": [0.2533, 0.7918, 0.1596, 0.0148]
+        },
+        {
+          "text": "※強制武装遊びの後はバックル必殺技遊びができません。\n一度、変身解除してから再度お試しください。",
+          "translation": "*After Forced Armament Play, you cannot perform Buckle Finishing‑Move Play.\nPlease cancel the transformation once, then try again.",
+          "bbox": [0.0707, 0.9332, 0.6723, 0.0295]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-13.webp",
+      "blocks": [
+        {
+          "text": "変身解除遊び\n変身状態で底面右ボタンを\n長押しします。\n「変身解除音」が鳴り、\n変身前状態に戻ります。",
+          "translation": "Cancel Transformation Play\nWhile in the transformed state, press and hold the bottom-right button.\nThe \"transformation cancel\" sound will play, and it will return to its pre-transformation state.",
+          "bbox": [0.0399, 0.0801, 0.3174, 0.3205]
+        },
+        {
+          "text": "底面右ボタン",
+          "translation": "Bottom-right button",
+          "bbox": [0.3047, 0.6897, 0.1197, 0.0304]
+        }
+      ]
+    }
+  ]
+}

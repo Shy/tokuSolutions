@@ -1,0 +1,3696 @@
+{
+  "meta": {
+    "manual_name": "Gokai Cellular",
+    "source": "Gokai Cellular.pdf",
+    "source_lang": "ja",
+    "target_lang": "en",
+    "source_url": "",
+    "blog_url": "",
+    "pages": 10,
+    "blocks": 726,
+    "thumbnail": "pages/page-0.webp",
+    "tags": ["dx", "memorial", "sentai"]
+  },
+  "pages": [
+    {
+      "image": "pages/page-0.webp",
+      "blocks": [
+        {
+          "text": "Granad",
+          "translation": "Granad",
+          "bbox": [0.1702, 0.1319, 0.0905, 0.026]
+        },
+        {
+          "text": "slinia",
+          "translation": "slinia",
+          "bbox": [0.3004, 0.0849, 0.0716, 0.0299]
+        },
+        {
+          "text": "WANTED\nGOKAICELLULAR\nMEMORIAL EDITION",
+          "translation": "WANTED\nGokai Cellular\nMemorial Edition",
+          "bbox": [0.5573, 0.0332, 0.3836, 0.2655]
+        },
+        {
+          "text": "POON",
+          "translation": "POON",
+          "bbox": [0.1436, 0.3125, 0.0656, 0.0875]
+        },
+        {
+          "text": "smoo",
+          "translation": "smoo",
+          "bbox": [0.0841, 0.3784, 0.0729, 0.0455]
+        },
+        {
+          "text": "O'S",
+          "translation": "O'S",
+          "bbox": [0.1047, 0.5475, 0.0365, 0.0343]
+        },
+        {
+          "text": "海海賊戦隊",
+          "translation": "Sea Pirate Squadron",
+          "bbox": [0.2152, 0.4512, 0.0837, 0.0247]
+        },
+        {
+          "text": "ゴーガイジン",
+          "translation": "Gokaiger",
+          "bbox": [0.159, 0.4829, 0.1974, 0.0644]
+        },
+        {
+          "text": "5. Oaeft.",
+          "translation": "5. Oaeft.",
+          "bbox": [0.1296, 0.5725, 0.0575, 0.0943]
+        },
+        {
+          "text": "©石森プロ・東映\n©2021 テレビ朝日・東映AG・東映",
+          "translation": "©Ishimori Productions, Toei\n©2021 TV Asahi, Toei AG, Toei",
+          "bbox": [0.2003, 0.6101, 0.1157, 0.0262]
+        },
+        {
+          "text": "SSLst.",
+          "translation": "SSLst.",
+          "bbox": [0.2864, 0.6574, 0.0422, 0.1047]
+        },
+        {
+          "text": "LV",
+          "translation": "LV",
+          "bbox": [0.1142, 0.7338, 0.0297, 0.0275]
+        },
+        {
+          "text": "D",
+          "translation": "D",
+          "bbox": [0.2437, 0.7317, 0.0105, 0.0221]
+        },
+        {
+          "text": "RE",
+          "translation": "RE",
+          "bbox": [0.1805, 0.8182, 0.0722, 0.0348]
+        },
+        {
+          "text": "USER MANUAL",
+          "translation": "USER MANUAL",
+          "bbox": [0.5918, 0.7429, 0.3169, 0.0566]
+        },
+        {
+          "text": "→",
+          "translation": "→",
+          "bbox": [0.5206, 0.8249, 0.0105, 0.0158]
+        },
+        {
+          "text": "目次",
+          "translation": "Table of Contents",
+          "bbox": [0.7394, 0.8234, 0.0241, 0.0171]
+        },
+        {
+          "text": "各部名称・",
+          "translation": "Part Names・",
+          "bbox": [0.5268, 0.8574, 0.0321, 0.0088]
+        },
+        {
+          "text": "_",
+          "translation": "_",
+          "bbox": [0.6485, 0.8522, 0.0112, 0.0114]
+        },
+        {
+          "text": "……………… 1",
+          "translation": "... 1",
+          "bbox": [0.7159, 0.8574, 0.0219, 0.0083]
+        },
+        {
+          "text": "通常変身モード・・・・・・・",
+          "translation": "Standard Transformation Mode...",
+          "bbox": [0.7595, 0.8571, 0.0659, 0.0094]
+        },
+        {
+          "text": "カバーの開閉・・",
+          "translation": "Opening and closing the cover...",
+          "bbox": [0.5274, 0.8732, 0.0454, 0.0078]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.7341, 0.8727, 0.0055, 0.0083]
+        },
+        {
+          "text": "セリフ変身モード・",
+          "translation": "Voice-Line Transformation Mode",
+          "bbox": [0.7591, 0.8722, 0.061, 0.0094]
+        },
+        {
+          "text": ".... 9",
+          "translation": ".... 9",
+          "bbox": [0.9539, 0.8722, 0.0178, 0.0096]
+        },
+        {
+          "text": "ボタン電池の交換/電源の入れ方 ･･････",
+          "translation": "Replacing the button battery / How to turn on the power...",
+          "bbox": [0.5274, 0.8873, 0.1173, 0.0099]
+        },
+        {
+          "text": "・4",
+          "translation": "... 4",
+          "bbox": [0.7308, 0.8896, 0.0075, 0.006]
+        },
+        {
+          "text": "コマンドモード.........",
+          "translation": "Command Mode...",
+          "bbox": [0.7602, 0.8881, 0.0698, 0.0083]
+        },
+        {
+          "text": "･･････ 11",
+          "translation": "... 11",
+          "bbox": [0.9495, 0.8886, 0.0237, 0.007]
+        },
+        {
+          "text": "台座の組み立てと設置・・",
+          "translation": "Assembly and installation of the base...",
+          "bbox": [0.5272, 0.9026, 0.0758, 0.0094]
+        },
+        {
+          "text": "････････ 5",
+          "translation": "... 5",
+          "bbox": [0.7113, 0.9036, 0.0266, 0.0068]
+        },
+        {
+          "text": "エモセリフ変身モード········",
+          "translation": "Emo Dialogue Transformation Mode...",
+          "bbox": [0.76, 0.9026, 0.0881, 0.0094]
+        },
+        {
+          "text": "･･･... 13",
+          "translation": "... 13",
+          "bbox": [0.9491, 0.9036, 0.0237, 0.0075]
+        },
+        {
+          "text": "モードの切り替え・・",
+          "translation": "Switching modes...",
+          "bbox": [0.5272, 0.9177, 0.0602, 0.0096]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.7339, 0.9187, 0.0053, 0.0081]
+        },
+        {
+          "text": "ゴールドアンカーキーの挿入・・・・・",
+          "translation": "Inserting the Gold Anchor Key...",
+          "bbox": [0.7598, 0.9177, 0.1183, 0.0091]
+        },
+        {
+          "text": ".15",
+          "translation": ".15",
+          "bbox": [0.9607, 0.9179, 0.0129, 0.0086]
+        },
+        {
+          "text": "BGMの楽しみ方\n+.",
+          "translation": "How to Enjoy the BGM",
+          "bbox": [0.5206, 0.9322, 0.0589, 0.0395]
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.7343, 0.9338, 0.0048, 0.007]
+        },
+        {
+          "text": "台詞リスト･･･",
+          "translation": "Dialogue List...",
+          "bbox": [0.7598, 0.933, 0.0512, 0.0096]
+        },
+        {
+          "text": "... 16",
+          "translation": "... 16",
+          "bbox": [0.9568, 0.9332, 0.0162, 0.0086]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-1.webp",
+      "blocks": [
+        {
+          "text": "●取扱説明書内の画像はすべてイメージです。",
+          "translation": "● All images in the instruction manual are for illustrative purposes only.",
+          "bbox": [0.2714, 0.0286, 0.1601, 0.0114]
+        },
+        {
+          "text": "各部名称",
+          "translation": "Names of Parts",
+          "bbox": [0.0902, 0.0496, 0.0832, 0.0288]
+        },
+        {
+          "text": "ゴーカイセルラー本体",
+          "translation": "Gokai Cellular unit",
+          "bbox": [0.2668, 0.0486, 0.1296, 0.0208]
+        },
+        {
+          "text": "【側面】",
+          "translation": "[Side]",
+          "bbox": [0.5437, 0.06, 0.0307, 0.0156]
+        },
+        {
+          "text": "セット内容\n取扱説明書/台詞リスト (本書)1\nゴーカイセルラー本体・・・・・・ 1\nレンジャーキー 各1",
+          "translation": "Set Contents\nInstruction Manual / Dialogue List (this booklet) ... 1\nGokai Cellular unit... 1\nRanger Keys... 1 each",
+          "bbox": [0.0782, 0.1083, 0.1091, 0.0714]
+        },
+        {
+          "text": "(ゴーカイシルバー、 タイムファイヤー、アバレキラー、\nドラゴンレンジャー、ツーカイザー)\nゴールドアンカーキー......1",
+          "translation": "(Gokai Silver, Time Fire, Abare Killer,\nDragon Ranger, Twokaiser)\nGold Anchor Key... 1",
+          "bbox": [0.0551, 0.1831, 0.1559, 0.0429]
+        },
+        {
+          "text": "専用台座(台座・支柱)······1",
+          "translation": "Dedicated stand (base & support) ... 1",
+          "bbox": [0.0918, 0.234, 0.0826, 0.0088]
+        },
+        {
+          "text": "【背面】",
+          "translation": "[Back]",
+          "bbox": [0.0435, 0.287, 0.0308, 0.0156]
+        },
+        {
+          "text": "レンジャーキー",
+          "translation": "Ranger Key",
+          "bbox": [0.0437, 0.3216, 0.0674, 0.0135]
+        },
+        {
+          "text": "解除ボタン-",
+          "translation": "Release button",
+          "bbox": [0.0415, 0.3387, 0.0661, 0.0161]
+        },
+        {
+          "text": "押して、",
+          "translation": "Press",
+          "bbox": [0.0419, 0.3623, 0.0268, 0.0101]
+        },
+        {
+          "text": "レンジャーキーを",
+          "translation": "the Ranger Key",
+          "bbox": [0.0435, 0.3769, 0.0604, 0.0104]
+        },
+        {
+          "text": "解除します。",
+          "translation": "is released.",
+          "bbox": [0.0419, 0.3917, 0.043, 0.0114]
+        },
+        {
+          "text": "リーディングバー",
+          "translation": "Reading bar",
+          "bbox": [0.0433, 0.4377, 0.0753, 0.0132]
+        },
+        {
+          "text": "戻しレバー",
+          "translation": "Return lever",
+          "bbox": [0.0411, 0.4556, 0.0509, 0.0138]
+        },
+        {
+          "text": "上にスライドすると、",
+          "translation": "Slide upward",
+          "bbox": [0.0419, 0.4771, 0.072, 0.0109]
+        },
+        {
+          "text": "リーディングバーが",
+          "translation": "the reading bar",
+          "bbox": [0.0432, 0.4922, 0.0678, 0.0101]
+        },
+        {
+          "text": "元に戻ります。\n※梱包時は下がった\n状態です。",
+          "translation": "returns to its original position.\n*The reading bar is in the lowered position for packaging.",
+          "bbox": [0.042, 0.5073, 0.0729, 0.041]
+        },
+        {
+          "text": "変身ボタン\n押すとリーディングバーが\n下がります。",
+          "translation": "Transformation Button\nPress to lower the reading bar.",
+          "bbox": [0.2762, 0.0912, 0.0913, 0.0473]
+        },
+        {
+          "text": "LED",
+          "translation": "LED",
+          "bbox": [0.3103, 0.5151, 0.0222, 0.0106]
+        },
+        {
+          "text": "音声に合わせて光ります。",
+          "translation": "Lights up in time with the sound.",
+          "bbox": [0.31, 0.5338, 0.0911, 0.0106]
+        },
+        {
+          "text": "BGMボタン\nボタンを押すと、\nBGMが鳴ります。",
+          "translation": "BGM Button\nPress to play the BGM.",
+          "bbox": [0.5668, 0.1745, 0.0632, 0.0434]
+        },
+        {
+          "text": "セリフボタン・\nボタンを押すと、\nセリフが鳴ります。",
+          "translation": "Dialogue Button\nPress to play dialogue.",
+          "bbox": [0.5676, 0.2353, 0.0657, 0.0442]
+        },
+        {
+          "text": "カバー",
+          "translation": "Cover",
+          "bbox": [0.7115, 0.3257, 0.0294, 0.0112]
+        },
+        {
+          "text": "両腕",
+          "translation": "Both arms",
+          "bbox": [0.8092, 0.0701, 0.0169, 0.0114]
+        },
+        {
+          "text": "レンジャーキー",
+          "translation": "Ranger Key",
+          "bbox": [0.8397, 0.0468, 0.0885, 0.0179]
+        },
+        {
+          "text": "脚",
+          "translation": "Leg",
+          "bbox": [0.9414, 0.0805, 0.0083, 0.0114]
+        },
+        {
+          "text": "ボタン",
+          "translation": "Button",
+          "bbox": [0.8672, 0.3086, 0.0283, 0.013]
+        },
+        {
+          "text": "レンジャーモード",
+          "translation": "Ranger Mode",
+          "bbox": [0.8004, 0.36, 0.0654, 0.0132]
+        },
+        {
+          "text": "キーモード",
+          "translation": "Key Mode",
+          "bbox": [0.9098, 0.3616, 0.0432, 0.0106]
+        },
+        {
+          "text": "リーディングバー",
+          "translation": "Reading bar",
+          "bbox": [0.6609, 0.3701, 0.0751, 0.0143]
+        },
+        {
+          "text": "※梱包時は下がった状態です。",
+          "translation": "*It is in the lowered position when packed.",
+          "bbox": [0.6605, 0.3917, 0.1091, 0.0114]
+        },
+        {
+          "text": "側面のボタンを押すことで、 変形することが\nできます。",
+          "translation": "Press the button on the side to transform it.",
+          "bbox": [0.8033, 0.3912, 0.1563, 0.027]
+        },
+        {
+          "text": "①両腕を上げます。",
+          "translation": "① Raise both arms.",
+          "bbox": [0.7967, 0.4327, 0.0687, 0.0112]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.6726, 0.5956, 0.014, 0.02]
+        },
+        {
+          "text": "#",
+          "translation": "#",
+          "bbox": [0.6906, 0.6218, 0.0125, 0.0177]
+        },
+        {
+          "text": "オープンボタン",
+          "translation": "Open button",
+          "bbox": [0.7018, 0.4553, 0.069, 0.0138]
+        },
+        {
+          "text": "②側面のボタンを押します。\n※梱包時はキーモードの状態です。\n両腕と脚を展開してから遊んでください。\n※ゴーカイシルバー、ツーカイザーのキーには\n全体に彩色を施しております。\n組み立て~操作の際にキズがつく恐れがありますので\n取り扱いには十分注意してください。",
+          "translation": "② Press the side button.\n*The product is in Key Mode when packaged. Please unfold the arms and legs before playing.\n*The Gokai Silver and Twokaiser keys are fully painted. They may be scratched during assembly or operation, so handle with care.",
+          "bbox": [0.7967, 0.4481, 0.1726, 0.0914]
+        },
+        {
+          "text": "テンキー\n数字(または記号) と\nキャラクターが一緒になっています。\n押すとプッシュ音が鳴ります。\n※キャラクターの部分を押してください。\n※爪や固いもので押さないようにご注意ください。",
+          "translation": "Numeric keypad\nEach key has a number (or symbol) and a character together.\nA sound plays when pressed.\n*Press the character area.\n*Do not press with fingernails or hard objects.",
+          "bbox": [0.7892, 0.5709, 0.1768, 0.0909]
+        },
+        {
+          "text": "△ 注 意 お買い上げのお客様へ 必ずお読みください。\n●本商品の対象年齢は15才以上です。 対象年齢未満のお子様には絶対に与えないでください。\n●小さな部品、 ボタン電池がありますので、小さなお子様が誤って飲み込まないように注意してください。 窒息などの危険があります。\n●尖った部分や鋭い部分がありますので、取扱いや保管場所に注意してください。思わぬケガをする恐れがあります。\n●本商品には電子部品を使用しておりますので、ペースメーカーをご使用の方はご注意ください。\n●耳の近くで使用してはいけません。 誤って使用すると、 聴覚を損なう恐れがあります。\n●LEDの光の点滅を見続けないでください。気分が悪くなったりする恐れがあります。\n《電池を誤使用すると発熱・破裂・液漏れの恐れがあります。 下記に注意してください》\n●万一、 ボタン電池を飲み込んだとき、 ボタン電池から漏れた液が目に入ったときは、すぐに医師に相談してください。\n漏れた液が皮膚や服に付いたときは水で洗ってください。\n●ボタン電池は飲み込むと危険です。 お子様の手の届かない所に保管してください。\n●古い電池と新しい電池、いろいろな種類の電池をまぜて使わないでください。\n+(プラスマイナス)を正しくセットしてください。\n●ショートさせたり充電、 分解、 加熱、火の中に入れたりしないでください。\n●廃棄するときは、 自治体の廃棄物処理の指示に従ってください。",
+          "translation": "△ Caution — Please read before use.\n● This product is intended for ages 15 and up. Do not give it to children below the recommended age.\n● This product contains small parts and button batteries. Keep out of reach of small children to prevent accidental swallowing. There is a risk of choking and other hazards.\n● The product has pointed or sharp parts; take care when handling and storing to avoid unexpected injury.\n● This product uses electronic components; people with pacemakers should exercise caution.\n● Do not use it near the ear. Improper use may damage hearing.\n● Do not stare at flashing LED lights. Prolonged viewing may cause discomfort.\n《Improper battery use can cause overheating, rupture, or leakage. Observe the following:》\n● If a button battery is swallowed, or if battery fluid gets into the eyes, consult a doctor immediately. If leaked fluid contacts skin or clothing, wash with water.\n● Button batteries are dangerous if swallowed. Store them out of the reach of children.\n● Do not mix old and new batteries or different types of batteries.\n● Insert batteries with the correct polarity (+/−).\n● Do not short-circuit, recharge, disassemble, heat, or dispose of batteries in fire.\n● Dispose of batteries according to your local municipality's waste disposal regulations.",
+          "bbox": [0.0332, 0.6184, 0.4157, 0.2158]
+        },
+        {
+          "text": "《使用上の注意》",
+          "translation": "《Precautions for Use》",
+          "bbox": [0.0264, 0.8499, 0.0643, 0.0112]
+        },
+        {
+          "text": "●本商品は精密に作られています。 無理な力を加えたり、落としたりすると破損する恐れがあります。●本商品は精密な電子\n部品で構成されています。 落としたり、水にぬらしたり、汚したりしないでください。 また高温・低温になる所での使用、保管は\nさけてください。●プラスチック棚包材は開封後はすぐに捨ててください。 本商品を樹脂製のソファーやシート、タイルなどの\n上に置かないでください。 長時間接触していると色が移る場合があります。 ●可動部分・取付部分を無理な方向に強く引っ張ったり、\n曲げたりしないでください。 ●発音の一部にイントネーションが違っていたり、 商品の特性上聞き取りにくいものがありますが、\nご了承ください。",
+          "translation": "● This product is precision-made. Applying excessive force or dropping it may cause damage. ● This product contains precision electronic components. Do not drop, wet, or soil it. Avoid using or storing in locations of extreme high or low temperature. ● Dispose of plastic packaging immediately after opening. Do not place this product on resin sofas, seats, tiles, etc.; prolonged contact may cause color transfer. ● Do not forcibly pull or bend moving parts or attachment points in unnatural directions. ● Due to the nature of the product, some pronunciations may have different intonation or be difficult to hear; please understand this in advance.",
+          "bbox": [0.0266, 0.8675, 0.4469, 0.0823]
+        },
+        {
+          "text": "8",
+          "translation": "8",
+          "bbox": [0.6467, 0.6351, 0.0123, 0.0171]
+        },
+        {
+          "text": "※",
+          "translation": "*",
+          "bbox": [0.6403, 0.6974, 0.0108, 0.0151]
+        },
+        {
+          "text": "O",
+          "translation": "O",
+          "bbox": [0.6651, 0.659, 0.0119, 0.0184]
+        },
+        {
+          "text": "【底面】",
+          "translation": "[Bottom]",
+          "bbox": [0.8527, 0.6987, 0.0299, 0.0153]
+        },
+        {
+          "text": "キー挿入口-",
+          "translation": "Key insertion slot",
+          "bbox": [0.821, 0.7494, 0.0633, 0.0153]
+        },
+        {
+          "text": "WEBでは、さらに詳細な説明が載っています。 WEB取説は、コチラから!!",
+          "translation": "The online manual contains more detailed explanations. Access the online manual here!",
+          "bbox": [0.5331, 0.8075, 0.3623, 0.0236]
+        },
+        {
+          "text": "URL",
+          "translation": "URL",
+          "bbox": [0.5465, 0.8439, 0.0151, 0.0091]
+        },
+        {
+          "text": "https://toy.bandai.co.jp/manuals/pdf.php?id=2608046",
+          "translation": "https://toy.bandai.co.jp/manuals/pdf.php?id=2608046",
+          "bbox": [0.6307, 0.8423, 0.2158, 0.0132]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.0195, 0.9691, 0.0061, 0.0096]
+        },
+        {
+          "text": "※通信料はお客様のご負担となります。",
+          "translation": "*Data transmission charges are the responsibility of the customer.",
+          "bbox": [0.9005, 0.8629, 0.0727, 0.0062]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.9748, 0.9694, 0.005, 0.0088]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-2.webp",
+      "blocks": [
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.0196, 0.9688, 0.0051, 0.0094]
+        },
+        {
+          "text": "開く",
+          "translation": "Open",
+          "bbox": [0.0422, 0.1187, 0.0207, 0.0179]
+        },
+        {
+          "text": "カバーの開閉",
+          "translation": "Opening and closing the cover",
+          "bbox": [0.1875, 0.0514, 0.125, 0.0257]
+        },
+        {
+          "text": "オープンボタンを押しながらカバーを開きます。",
+          "translation": "Open the cover while pressing the open button.",
+          "bbox": [0.0274, 0.1551, 0.19, 0.0127]
+        },
+        {
+          "text": "閉じる",
+          "translation": "Close",
+          "bbox": [0.0362, 0.1938, 0.0353, 0.0156]
+        },
+        {
+          "text": "カチッと音がするまでしっかりと閉じます。",
+          "translation": "Close it firmly until it clicks.",
+          "bbox": [0.0275, 0.2281, 0.1704, 0.0125]
+        },
+        {
+          "text": "APTO",
+          "translation": "APTO",
+          "bbox": [0.1304, 0.3003, 0.0553, 0.0712]
+        },
+        {
+          "text": "リーディングバーの戻し方",
+          "translation": "How to return the reading bar",
+          "bbox": [0.1256, 0.5239, 0.2525, 0.0294]
+        },
+        {
+          "text": "オープンボタン",
+          "translation": "Open button",
+          "bbox": [0.379, 0.4556, 0.0542, 0.0104]
+        },
+        {
+          "text": "起動",
+          "translation": "Startup",
+          "bbox": [0.5667, 0.0481, 0.0477, 0.0317]
+        },
+        {
+          "text": "ボタン電池の交換/電源の入れ方",
+          "translation": "Replacing the button battery / Turning on the power",
+          "bbox": [0.6834, 0.0535, 0.2218, 0.0216]
+        },
+        {
+          "text": "初めて遊ぶ前に･･･ 絶縁シートの取り外し方",
+          "translation": "Before playing for the first time... Removing the insulation sheet",
+          "bbox": [0.54, 0.1286, 0.1939, 0.0148]
+        },
+        {
+          "text": "ゴーカイセルラー本体",
+          "translation": "Gokai Cellular unit",
+          "bbox": [0.5349, 0.1587, 0.0769, 0.0109]
+        },
+        {
+          "text": "背面から出ている絶縁シートを",
+          "translation": "the insulation sheet protruding from the back",
+          "bbox": [0.5345, 0.1738, 0.1111, 0.0109]
+        },
+        {
+          "text": "矢印の方向に引き抜きます。",
+          "translation": "Pull it out in the direction of the arrow.",
+          "bbox": [0.534, 0.1886, 0.0995, 0.0112]
+        },
+        {
+          "text": "絶縁シート",
+          "translation": "Insulation sheet",
+          "bbox": [0.7178, 0.1909, 0.0391, 0.0117]
+        },
+        {
+          "text": "【背面】",
+          "translation": "[Back]",
+          "bbox": [0.7451, 0.2532, 0.0299, 0.0145]
+        },
+        {
+          "text": "※電源スイッチがX (OFF)になっていることを\n確認してください。",
+          "translation": "*Confirm that the power switch is set to x (OFF).",
+          "bbox": [0.5279, 0.3083, 0.2174, 0.0351]
+        },
+        {
+          "text": "【背面】",
+          "translation": "[Back]",
+          "bbox": [0.7723, 0.3078, 0.0292, 0.0151]
+        },
+        {
+          "text": "※音が小さくなって聞きとりにくくなったり、",
+          "translation": "*If the sound becomes faint and difficult to hear,",
+          "bbox": [0.5279, 0.3506, 0.1978, 0.0148]
+        },
+        {
+          "text": "音が繰り返し鳴るなどの誤動作をする場合や",
+          "translation": "or if sounds repeatedly play or other malfunctions occur,",
+          "bbox": [0.5376, 0.3727, 0.2086, 0.0151]
+        },
+        {
+          "text": "LEDの発光が弱くなった場合は、\nすべて新しい電池に交換してください。",
+          "translation": "or if the LED's illumination becomes weak, replace all batteries with new ones.",
+          "bbox": [0.5375, 0.394, 0.1788, 0.0374]
+        },
+        {
+          "text": "①電池ぶたを取り外します。",
+          "translation": "① Remove the battery cover.",
+          "bbox": [0.5266, 0.453, 0.1131, 0.013]
+        },
+        {
+          "text": "①-1 本体背面の電池ぶたの穴を先の細い棒などで押し、\n①-2 電池ぶたを取り外します。\n② ボタン電池を入れます。\n古いボタン電池を取り外して、",
+          "translation": "①-1 Using a thin pointed object, press the hole in the battery cover on the back of the unit.\n①-2 Remove the battery cover.\n② Insert the button batteries.\nRemove the old button batteries,",
+          "bbox": [0.5266, 0.4701, 0.24, 0.0631]
+        },
+        {
+          "text": "新しいボタン電池3個 (LR44・別売り)を",
+          "translation": "Three new button batteries (LR44; sold separately).",
+          "bbox": [0.5362, 0.5374, 0.1676, 0.0119]
+        },
+        {
+          "text": "リーディングバー戻しレバーをカチッと音がするまで上にスライドします。\nレバーの動きと連動して、 リーディングバーが上に動きます。",
+          "translation": "Slide the reading bar return lever upward until it clicks.\nThe reading bar moves upward in conjunction with the lever's movement.",
+          "bbox": [0.0272, 0.5761, 0.3966, 0.0491]
+        },
+        {
+          "text": "+に注意してセットします。\n③電池ぶたを戻します。",
+          "translation": "Set them paying attention to the + polarity.\n③ Replace the battery cover.",
+          "bbox": [0.5268, 0.5543, 0.1258, 0.0291]
+        },
+        {
+          "text": "ミゾ・",
+          "translation": "Groove",
+          "bbox": [0.7791, 0.5532, 0.0169, 0.0096]
+        },
+        {
+          "text": "電池ぶたの突起と本体のミゾを合わせ、電池ぶたを閉じます。",
+          "translation": "Align the tab on the battery cover with the slot on the main unit, then close the battery cover.",
+          "bbox": [0.5367, 0.5881, 0.249, 0.0125]
+        },
+        {
+          "text": "【背面】",
+          "translation": "[Back]",
+          "bbox": [0.0279, 0.6416, 0.0321, 0.0153]
+        },
+        {
+          "text": "リーディングバー\n戻しレバー",
+          "translation": "Reading bar return lever",
+          "bbox": [0.2062, 0.6901, 0.0602, 0.0247]
+        },
+        {
+          "text": "RE",
+          "translation": "RE",
+          "bbox": [0.1787, 0.8161, 0.0716, 0.0395]
+        },
+        {
+          "text": "【正面】",
+          "translation": "[Front View]",
+          "bbox": [0.2951, 0.6416, 0.0307, 0.0158]
+        },
+        {
+          "text": "3. Est.",
+          "translation": "3. Est.",
+          "bbox": [0.2868, 0.6577, 0.042, 0.1044]
+        },
+        {
+          "text": "リーディングバー",
+          "translation": "Reading bar",
+          "bbox": [0.2578, 0.786, 0.0599, 0.0114]
+        },
+        {
+          "text": "2 31\n563\n8",
+          "translation": "2 31\n563\n8",
+          "bbox": [0.3917, 0.8696, 0.0219, 0.0377]
+        },
+        {
+          "text": "O",
+          "translation": "O",
+          "bbox": [0.4258, 0.7951, 0.0029, 0.0065]
+        },
+        {
+          "text": "①-1",
+          "translation": "①-1",
+          "bbox": [0.5428, 0.7106, 0.0162, 0.0119]
+        },
+        {
+          "text": "突起一",
+          "translation": "First projection",
+          "bbox": [0.5925, 0.6197, 0.0301, 0.0119]
+        },
+        {
+          "text": "電池ぶた・",
+          "translation": "Battery cover",
+          "bbox": [0.5725, 0.6455, 0.0369, 0.0096]
+        },
+        {
+          "text": "①-2",
+          "translation": "①-2",
+          "bbox": [0.764, 0.6319, 0.016, 0.0117]
+        },
+        {
+          "text": "(3)",
+          "translation": "(3)",
+          "bbox": [0.7683, 0.694, 0.0079, 0.0083]
+        },
+        {
+          "text": "・突起",
+          "translation": "・Protrusion",
+          "bbox": [0.7161, 0.7255, 0.0189, 0.0106]
+        },
+        {
+          "text": "ミゾ・",
+          "translation": "Groove/Channel",
+          "bbox": [0.7791, 0.7286, 0.0169, 0.0106]
+        },
+        {
+          "text": "※ボタン電池は上側が+に\n下側が一になるようにセットします。",
+          "translation": "*Insert the button battery with the positive (+) side facing up and the negative (-) side facing down.",
+          "bbox": [0.5422, 0.7847, 0.1337, 0.0265]
+        },
+        {
+          "text": "LR44 x 3",
+          "translation": "LR44 × 3",
+          "bbox": [0.5946, 0.8657, 0.0461, 0.0158]
+        },
+        {
+          "text": "ボタン電池(LR44) 3個使用(付)\n●セットされている電池は、テスト用です。",
+          "translation": "Uses 3 button-cell batteries (LR44) (included).\n●The batteries installed are for testing purposes.",
+          "bbox": [0.5499, 0.9023, 0.1179, 0.0301]
+        },
+        {
+          "text": "Bio",
+          "translation": "Bio",
+          "bbox": [0.6711, 0.8371, 0.0257, 0.0208]
+        },
+        {
+          "text": "+",
+          "translation": "+",
+          "bbox": [0.7095, 0.8083, 0.0136, 0.0153]
+        },
+        {
+          "text": "++",
+          "translation": "++",
+          "bbox": [0.7214, 0.774, 0.0389, 0.0158]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.7978, 0.7974, 0.005, 0.0078]
+        },
+        {
+          "text": "ゴーカイセルラー本体背面の\n電源スイッチをO (ON)にします。\nLEDが発光し、 起動音が鳴ります。\n※遊び終わった後は、\n必ず電源スイッチを\nx (OFF)にしてください。",
+          "translation": "Set the power switch on the back of the Gokai Cellular unit to O (ON).\nThe LED will light up and a startup sound will play.\n*Be sure to set the power switch to x (OFF) after you finish playing.",
+          "bbox": [0.76, 0.8587, 0.1318, 0.0865]
+        },
+        {
+          "text": "☑",
+          "translation": "☑",
+          "bbox": [0.924, 0.8566, 0.0088, 0.0153]
+        },
+        {
+          "text": "・ミゾ",
+          "translation": "・Groove",
+          "bbox": [0.9396, 0.6655, 0.0185, 0.0112]
+        },
+        {
+          "text": "1月",
+          "translation": "January",
+          "bbox": [0.9708, 0.8003, 0.016, 0.0127]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.9748, 0.9691, 0.0062, 0.0094]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-3.webp",
+      "blocks": [
+        {
+          "text": "飾台",
+          "translation": "Display stand",
+          "bbox": [0.0665, 0.047, 0.0459, 0.0327]
+        },
+        {
+          "text": "~台座の組み立てと設置 ~",
+          "translation": "~ Base Assembly and Installation ~",
+          "bbox": [0.2077, 0.054, 0.1708, 0.0208]
+        },
+        {
+          "text": "台座の凹部と支柱の凸部を",
+          "translation": "the recessed parts of the base and the protruding parts of the support post",
+          "bbox": [0.063, 0.1044, 0.1104, 0.0122]
+        },
+        {
+          "text": "図のように矢印の方向にはめ込みます。",
+          "translation": "Press them together in the direction of the arrows as shown in the illustration.",
+          "bbox": [0.0632, 0.121, 0.1577, 0.0122]
+        },
+        {
+          "text": "M",
+          "translation": "M",
+          "bbox": [0.0957, 0.1512, 0.0883, 0.1195]
+        },
+        {
+          "text": "支柱 —",
+          "translation": "Support post —",
+          "bbox": [0.0751, 0.307, 0.0325, 0.0114]
+        },
+        {
+          "text": "凸部",
+          "translation": "protrusion",
+          "bbox": [0.1743, 0.3151, 0.0165, 0.0112]
+        },
+        {
+          "text": "※図のようにゴーカイセルラー本体を\n設置することができます。",
+          "translation": "Note: You can place the Gokai Cellular main unit on the stand as shown in the illustration.",
+          "bbox": [0.2999, 0.1044, 0.1485, 0.0291]
+        },
+        {
+          "text": "168",
+          "translation": "168",
+          "bbox": [0.3551, 0.4148, 0.0086, 0.0101]
+        },
+        {
+          "text": "台座",
+          "translation": "Base",
+          "bbox": [0.0611, 0.3987, 0.0176, 0.0119]
+        },
+        {
+          "text": "門部",
+          "translation": "Gate Guard Division",
+          "bbox": [0.1581, 0.4047, 0.0163, 0.0112]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.3548, 0.4304, 0.0072, 0.0106]
+        },
+        {
+          "text": "遊戯",
+          "translation": "Play",
+          "bbox": [0.0665, 0.5748, 0.0483, 0.033]
+        },
+        {
+          "text": "~モードの切り替え~",
+          "translation": "~Switching Modes~",
+          "bbox": [0.2231, 0.5808, 0.1412, 0.021]
+        },
+        {
+          "text": "楽曲",
+          "translation": "Music",
+          "bbox": [0.5663, 0.0475, 0.0468, 0.0314]
+        },
+        {
+          "text": "BGMボタンを押します。",
+          "translation": "Press the BGM button.",
+          "bbox": [0.527, 0.113, 0.1339, 0.0187]
+        },
+        {
+          "text": "→押すたびにBGM再生と停止を繰り返します。",
+          "translation": "Each press toggles the BGM playback on and off.",
+          "bbox": [0.5272, 0.1416, 0.1915, 0.0125]
+        },
+        {
+          "text": "※BGMは全部で4種類あります。",
+          "translation": "Note: There are four BGM tracks in total.",
+          "bbox": [0.5277, 0.1579, 0.1326, 0.013]
+        },
+        {
+          "text": "~BGMの楽しみ方~",
+          "translation": "~How to Enjoy BGM~",
+          "bbox": [0.7282, 0.0535, 0.1318, 0.0205]
+        },
+        {
+          "text": "※BGM 「海賊の誇りをかけて」 はBGMボタンを長押しすると流れます。\n※BGMを流しながら各モードで遊ぶことができます。",
+          "translation": "Note: The BGM \"海賊の誇りをかけて\" will play if you press and hold the BGM button.\nYou can play in any mode while the BGM is playing.",
+          "bbox": [0.5277, 0.1751, 0.2888, 0.0294]
+        },
+        {
+          "text": "【側面】",
+          "translation": "[Side]",
+          "bbox": [0.8434, 0.1234, 0.0297, 0.0156]
+        },
+        {
+          "text": "→",
+          "translation": "→",
+          "bbox": [0.596, 0.2332, 0.0101, 0.0182]
+        },
+        {
+          "text": "BGM一覧 35 ←",
+          "translation": "BGM list 35 ←",
+          "bbox": [0.6456, 0.2332, 0.1058, 0.0182]
+        },
+        {
+          "text": "BGM ボタン-",
+          "translation": "BGM Button -",
+          "bbox": [0.8355, 0.2475, 0.0534, 0.0109]
+        },
+        {
+          "text": "鋼の心 ゴーカイシルバー(インストゥルメンタル)",
+          "translation": "Heart of Steel — Gokai Silver (Instrumental)",
+          "bbox": [0.54, 0.2706, 0.267, 0.0166]
+        },
+        {
+          "text": "ギンギンにいくぜ!",
+          "translation": "I'm going full throttle!",
+          "bbox": [0.6212, 0.2964, 0.1006, 0.0156]
+        },
+        {
+          "text": "完成! 豪獣神",
+          "translation": "Complete! Gojujin",
+          "bbox": [0.6383, 0.3213, 0.0711, 0.0164]
+        },
+        {
+          "text": "海賊の誇りをかけて",
+          "translation": "For the Pride of Pirates",
+          "bbox": [0.6205, 0.347, 0.1067, 0.0156]
+        },
+        {
+          "text": "セリフボタンを長押しすることで、",
+          "translation": "By pressing and holding the dialogue button,",
+          "bbox": [0.0274, 0.6403, 0.1359, 0.0125]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.2784, 0.6439, 0.0061, 0.0119]
+        },
+        {
+          "text": "通常変身モード",
+          "translation": "Standard Transformation Mode",
+          "bbox": [0.3215, 0.6421, 0.0812, 0.0169]
+        },
+        {
+          "text": "▶P7",
+          "translation": "▶P7",
+          "bbox": [0.4317, 0.6444, 0.0237, 0.0119]
+        },
+        {
+          "text": "4種類のモードに切り替えることができます。\n電源を入れた状態では「通常変身モード」に\nなっています。",
+          "translation": "You can switch between four modes. When the power is turned on, it is set to \"Standard Transformation Mode.\"",
+          "bbox": [0.0263, 0.6564, 0.1794, 0.0468]
+        },
+        {
+          "text": "切り替え音",
+          "translation": "Switching sound",
+          "bbox": [0.2776, 0.6904, 0.0461, 0.0127]
+        },
+        {
+          "text": "俺の名は鎧。伊狩鎧。 誰よりも\nスーパー戦隊を愛する男です!",
+          "translation": "My name is Gai. Gai Ikari. I'm a man who loves Super Sentai more than anyone else!",
+          "bbox": [0.3344, 0.6831, 0.1105, 0.0278]
+        },
+        {
+          "text": "【側面】",
+          "translation": "[Side]",
+          "bbox": [0.0439, 0.7229, 0.0305, 0.0145]
+        },
+        {
+          "text": "切り替え音",
+          "translation": "Switching sound",
+          "bbox": [0.2014, 0.7787, 0.0466, 0.0117]
+        },
+        {
+          "text": "2 セリフ変身モード ▶P9\n切り替え音 派手にいきましょう!",
+          "translation": "2 Dialogue Transformation Mode ▶P9\nSwitching sound: \"Let's go all out!\"",
+          "bbox": [0.2767, 0.7519, 0.1777, 0.0532]
+        },
+        {
+          "text": "A",
+          "translation": "A",
+          "bbox": [0.5566, 0.7301, 0.042, 0.04]
+        },
+        {
+          "text": "モードチェンジ音",
+          "translation": "Mode change sound",
+          "bbox": [0.1941, 0.8016, 0.0632, 0.0109]
+        },
+        {
+          "text": "5円",
+          "translation": "5 yen",
+          "bbox": [0.0184, 0.9675, 0.0064, 0.0182]
+        },
+        {
+          "text": "セリフボタン-",
+          "translation": "Dialogue Button -",
+          "bbox": [0.036, 0.8769, 0.0544, 0.0099]
+        },
+        {
+          "text": "TO",
+          "translation": "TO",
+          "bbox": [0.0992, 0.9416, 0.013, 0.0088]
+        },
+        {
+          "text": "3\n切り替え音 よし!今こそ俺の出番だ!",
+          "translation": "3\nSwitching sound: \"Alright! Now's my time to shine!\"",
+          "bbox": [0.2773, 0.8473, 0.1441, 0.0532]
+        },
+        {
+          "text": "コマンドモード",
+          "translation": "Command Mode",
+          "bbox": [0.3241, 0.8457, 0.0769, 0.0161]
+        },
+        {
+          "text": "▶P11",
+          "translation": "▶P11",
+          "bbox": [0.4317, 0.8486, 0.0294, 0.0112]
+        },
+        {
+          "text": "C",
+          "translation": "C",
+          "bbox": [0.5793, 0.8613, 0.0264, 0.0252]
+        },
+        {
+          "text": "4 エモセリフ変身モード ▶P13",
+          "translation": "4 Emotional Line Transformation Mode ▶P13",
+          "bbox": [0.2765, 0.9387, 0.186, 0.0179]
+        },
+        {
+          "text": "May",
+          "translation": "May",
+          "bbox": [0.653, 0.6826, 0.0338, 0.0203]
+        },
+        {
+          "text": "Unjag",
+          "translation": "Unjag",
+          "bbox": [0.6098, 0.8073, 0.0667, 0.0317]
+        },
+        {
+          "text": "T",
+          "translation": "T",
+          "bbox": [0.6785, 0.8803, 0.0195, 0.02]
+        },
+        {
+          "text": "TO",
+          "translation": "TO",
+          "bbox": [0.8981, 0.3501, 0.013, 0.0078]
+        },
+        {
+          "text": "Amilas",
+          "translation": "Amilas",
+          "bbox": [0.7628, 0.5179, 0.1015, 0.0377]
+        },
+        {
+          "text": "sidad",
+          "translation": "sidad",
+          "bbox": [0.7626, 0.5997, 0.045, 0.0197]
+        },
+        {
+          "text": "MaConte",
+          "translation": "MaConte",
+          "bbox": [0.838, 0.6125, 0.0779, 0.0571]
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.975, 0.9688, 0.0051, 0.0099]
+        },
+        {
+          "text": "PA",
+          "translation": "PA",
+          "bbox": [0.8779, 0.9756, 0.0046, 0.0036]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-4.webp",
+      "blocks": [
+        {
+          "text": "豪快に変身",
+          "translation": "Bold Transformation",
+          "bbox": [0.0667, 0.0473, 0.1135, 0.033]
+        },
+        {
+          "text": "~通常変身モード~",
+          "translation": "~Normal Transformation Mode~",
+          "bbox": [0.2657, 0.054, 0.1265, 0.0208]
+        },
+        {
+          "text": "「通常変身モード」の状態で行います。 リーディングバーが上にある状態で行います。",
+          "translation": "Perform these steps while in \"Normal Transformation Mode.\" Make sure the reading bar is in the raised (up) position.",
+          "bbox": [0.0578, 0.1184, 0.3913, 0.0153]
+        },
+        {
+          "text": "【側面】",
+          "translation": "[Side]",
+          "bbox": [0.2205, 0.1686, 0.0312, 0.0145]
+        },
+        {
+          "text": "1 セリフボタンを押します。",
+          "translation": "1 Press the dialogue button.",
+          "bbox": [0.0347, 0.1771, 0.1561, 0.0179]
+        },
+        {
+          "text": "→変身アクション音が鳴ります。",
+          "translation": "→ A transformation action sound will play.",
+          "bbox": [0.0525, 0.2047, 0.1293, 0.0125]
+        },
+        {
+          "text": "シャキーン!",
+          "translation": "Shing!",
+          "bbox": [0.1148, 0.2553, 0.1223, 0.0621]
+        },
+        {
+          "text": "PRO",
+          "translation": "PRO",
+          "bbox": [0.141, 0.314, 0.0444, 0.0569]
+        },
+        {
+          "text": "セリフ",
+          "translation": "Dialogue",
+          "bbox": [0.2288, 0.3153, 0.0226, 0.0083]
+        },
+        {
+          "text": "ボタン",
+          "translation": "Button",
+          "bbox": [0.2292, 0.3296, 0.0226, 0.0091]
+        },
+        {
+          "text": "フゥン!",
+          "translation": "Hmph!",
+          "bbox": [0.3509, 0.2548, 0.0773, 0.0481]
+        },
+        {
+          "text": "フゥン!",
+          "translation": "Hmph!",
+          "bbox": [0.384, 0.2849, 0.0793, 0.0501]
+        },
+        {
+          "text": "2 レンジャーキーを\nセットします。\n① オープンボタンを押して、\nカバーを開きます。",
+          "translation": "2 Set the Ranger Key.\n① Press the OPEN button to open the cover.",
+          "bbox": [0.0329, 0.427, 0.1298, 0.08]
+        },
+        {
+          "text": "② レンジャーキーを",
+          "translation": "② Insert the Ranger Key",
+          "bbox": [0.0523, 0.5106, 0.0791, 0.0132]
+        },
+        {
+          "text": "ゴーカイセルラー本体\n内部にセットします。",
+          "translation": "Insert it into the interior of the Gokai Cellular unit.",
+          "bbox": [0.0628, 0.5278, 0.0876, 0.0301]
+        },
+        {
+          "text": "レンジャーキー",
+          "translation": "Ranger Key",
+          "bbox": [0.0334, 0.7234, 0.0529, 0.0106]
+        },
+        {
+          "text": "①",
+          "translation": "①",
+          "bbox": [0.1015, 0.6618, 0.0114, 0.0112]
+        },
+        {
+          "text": "aeft.",
+          "translation": "aeft.",
+          "bbox": [0.1296, 0.613, 0.0336, 0.0538]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.1478, 0.8732, 0.0044, 0.0075]
+        },
+        {
+          "text": "※レンジャーキーは\nゴーカイシルバーで説明します。\n※レンジャーキーによってはセットできません。",
+          "translation": "* Ranger Keys are explained using Gokai Silver.\n* Some Ranger Keys cannot be set.",
+          "bbox": [0.027, 0.9252, 0.141, 0.0374]
+        },
+        {
+          "text": "G",
+          "translation": "G",
+          "bbox": [0.2237, 0.9351, 0.0026, 0.0081]
+        },
+        {
+          "text": "※レンジャーキーは",
+          "translation": "* The Ranger Key...",
+          "bbox": [0.3281, 0.4177, 0.0689, 0.0106]
+        },
+        {
+          "text": "必ず図の状態にして、\n頭部から入れてください。",
+          "translation": "Make sure to position it as shown in the illustration and insert it head-first (top first).",
+          "bbox": [0.336, 0.4327, 0.0891, 0.0265]
+        },
+        {
+          "text": "← カバー",
+          "translation": "← Cover",
+          "bbox": [0.2723, 0.4709, 0.0382, 0.0099]
+        },
+        {
+          "text": "【レンジャーキー背面】",
+          "translation": "[Back of Ranger Key]",
+          "bbox": [0.3287, 0.6551, 0.0777, 0.0122]
+        },
+        {
+          "text": "※腰部のミゾと",
+          "translation": "* Align with the groove on the waist",
+          "bbox": [0.3314, 0.6766, 0.0542, 0.0109]
+        },
+        {
+          "text": "ゴーカイセルラー",
+          "translation": "Gokai Cellular",
+          "bbox": [0.3397, 0.6912, 0.0602, 0.0109]
+        },
+        {
+          "text": "本体内部の\n凸ジョイントを",
+          "translation": "the protruding joint inside the main unit",
+          "bbox": [0.3391, 0.7065, 0.0518, 0.0265]
+        },
+        {
+          "text": "合わせて、",
+          "translation": "Align them,",
+          "bbox": [0.3391, 0.7379, 0.0365, 0.0094]
+        },
+        {
+          "text": "カチッと音が",
+          "translation": "A 'click' sound",
+          "bbox": [0.3399, 0.7522, 0.0465, 0.0104]
+        },
+        {
+          "text": "するまで",
+          "translation": "will be heard",
+          "bbox": [0.339, 0.7675, 0.0308, 0.0104]
+        },
+        {
+          "text": "はめ込みます。",
+          "translation": "when it is snapped into place.",
+          "bbox": [0.3395, 0.7821, 0.0516, 0.0109]
+        },
+        {
+          "text": "ミゾ",
+          "translation": "Groove",
+          "bbox": [0.448, 0.6649, 0.0151, 0.0096]
+        },
+        {
+          "text": "レンジャーキーの解除",
+          "translation": "Removing the Ranger Key",
+          "bbox": [0.8123, 0.0512, 0.0773, 0.0119]
+        },
+        {
+          "text": "3 カバーを",
+          "translation": "3 Close the cover.",
+          "bbox": [0.5332, 0.0608, 0.0683, 0.0171]
+        },
+        {
+          "text": "① ゴーカイセルラー",
+          "translation": "① Gokai Cellular",
+          "bbox": [0.7347, 0.0777, 0.069, 0.0114]
+        },
+        {
+          "text": "閉じます。",
+          "translation": "Close it.",
+          "bbox": [0.5531, 0.0844, 0.0538, 0.0177]
+        },
+        {
+          "text": "本体背面の",
+          "translation": "on the back of the unit",
+          "bbox": [0.7431, 0.0932, 0.0411, 0.0106]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.6546, 0.3252, 0.004, 0.0044]
+        },
+        {
+          "text": "OTS",
+          "translation": "OTS",
+          "bbox": [0.6484, 0.374, 0.0219, 0.0145]
+        },
+        {
+          "text": "レンジャーキー",
+          "translation": "Ranger Key",
+          "bbox": [0.7444, 0.1081, 0.0527, 0.0106]
+        },
+        {
+          "text": "解除ボタンを押します。",
+          "translation": "Press the Ranger Key release button.",
+          "bbox": [0.7427, 0.1236, 0.0823, 0.0112]
+        },
+        {
+          "text": "レンジャーキー\n解除ボタン",
+          "translation": "Ranger Key\nRelease Button",
+          "bbox": [0.7958, 0.1439, 0.0549, 0.0268]
+        },
+        {
+          "text": "【背面】",
+          "translation": "[Back]",
+          "bbox": [0.7383, 0.1901, 0.0312, 0.0153]
+        },
+        {
+          "text": "②レンジャーキーを\n図のようにつまみ、\n足元から取り出します。",
+          "translation": "② Pinch the Ranger Key as shown and pull it out from the bottom.",
+          "bbox": [0.8612, 0.0779, 0.0905, 0.0413]
+        },
+        {
+          "text": "※リーディングバーが上にある状態で行ってください。\nリーディングバーの戻し方はP3をご参照ください。",
+          "translation": "* Do this with the reading bar in the raised position.\nSee p.3 for how to return the reading bar to its original position.",
+          "bbox": [0.7352, 0.3608, 0.1621, 0.0231]
+        },
+        {
+          "text": "4 変身遊びをしたいヒーローの\nテンキーを1回押します。\n→変身待機音が鳴ります。",
+          "translation": "4 Press the numeric keypad key corresponding to the hero you want to transform into once.\n→ The transformation standby sound will play.",
+          "bbox": [0.5329, 0.4278, 0.1811, 0.0634]
+        },
+        {
+          "text": "5 変身待機音が鳴っている間に\n変身ボタンを押します。\n→押したテンキーに応じた音声が鳴り、\nLEDが光り、 リーディングバーが下に動きます。",
+          "translation": "5 Press the transformation button while the transformation-standby sound is playing.\n→ A voice corresponding to the numeric key you pressed will play, the LED will light, and the reading bar will move down.",
+          "bbox": [0.733, 0.4281, 0.2178, 0.08]
+        },
+        {
+          "text": "【セット後正面】",
+          "translation": "[Front view after assembly]",
+          "bbox": [0.3289, 0.8197, 0.0573, 0.0122]
+        },
+        {
+          "text": "オープン",
+          "translation": "Open",
+          "bbox": [0.287, 0.86, 0.0312, 0.0104]
+        },
+        {
+          "text": "凸ジョイント",
+          "translation": "Protruding joint",
+          "bbox": [0.4232, 0.8574, 0.0441, 0.0112]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.5334, 0.8509, 0.0079, 0.0153]
+        },
+        {
+          "text": "・ボタン",
+          "translation": "・Button",
+          "bbox": [0.285, 0.8753, 0.0244, 0.0104]
+        },
+        {
+          "text": "(1)",
+          "translation": "(1)",
+          "bbox": [0.287, 0.9135, 0.0094, 0.0104]
+        },
+        {
+          "text": "HOH",
+          "translation": "HOH",
+          "bbox": [0.3546, 0.9182, 0.0378, 0.0161]
+        },
+        {
+          "text": "ゴーカー",
+          "translation": "Gawker",
+          "bbox": [0.7326, 0.5275, 0.0718, 0.0332]
+        },
+        {
+          "text": "ジャー!",
+          "translation": "Whoosh!",
+          "bbox": [0.7585, 0.5571, 0.0711, 0.0369]
+        },
+        {
+          "text": "変身ボタン",
+          "translation": "Transformation button",
+          "bbox": [0.8983, 0.5717, 0.0398, 0.0117]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.5701, 0.6, 0.0042, 0.0083]
+        },
+        {
+          "text": "2 31",
+          "translation": "2 31",
+          "bbox": [0.5861, 0.6008, 0.0228, 0.0073]
+        },
+        {
+          "text": "ゴーカイジャー",
+          "translation": "Gokaiger",
+          "bbox": [0.6491, 0.6094, 0.0336, 0.0073]
+        },
+        {
+          "text": "55",
+          "translation": "55",
+          "bbox": [0.5854, 0.6174, 0.005, 0.0073]
+        },
+        {
+          "text": "63",
+          "translation": "63",
+          "bbox": [0.6037, 0.6171, 0.0061, 0.0083]
+        },
+        {
+          "text": "※ゴーカイジャーを",
+          "translation": "*Gokaiger",
+          "bbox": [0.6489, 0.6249, 0.0584, 0.0101]
+        },
+        {
+          "text": "18",
+          "translation": "18",
+          "bbox": [0.5848, 0.6345, 0.0053, 0.007]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.6034, 0.6343, 0.0039, 0.0073]
+        },
+        {
+          "text": "押した場合で",
+          "translation": "In the case of pressing...",
+          "bbox": [0.6557, 0.6395, 0.0426, 0.0091]
+        },
+        {
+          "text": "説明します。",
+          "translation": "Explanation follows.",
+          "bbox": [0.6557, 0.653, 0.0375, 0.0086]
+        },
+        {
+          "text": "テンキー",
+          "translation": "Numeric keypad",
+          "bbox": [0.5804, 0.7057, 0.0301, 0.0086]
+        },
+        {
+          "text": "テンキー一覧",
+          "translation": "Numeric Keypad List",
+          "bbox": [0.5589, 0.7377, 0.0479, 0.0112]
+        },
+        {
+          "text": "[1] 2 13",
+          "translation": "[1] 2 13",
+          "bbox": [0.5334, 0.8156, 0.0747, 0.0197]
+        },
+        {
+          "text": "ag",
+          "translation": "ag",
+          "bbox": [0.6506, 0.8166, 0.0259, 0.0244]
+        },
+        {
+          "text": "56 Bio",
+          "translation": "56 Bio",
+          "bbox": [0.5622, 0.8275, 0.1399, 0.0543]
+        },
+        {
+          "text": "18",
+          "translation": "18",
+          "bbox": [0.5619, 0.8818, 0.0118, 0.0213]
+        },
+        {
+          "text": "y",
+          "translation": "y",
+          "bbox": [0.6497, 0.8481, 0.0141, 0.02]
+        },
+        {
+          "text": "To",
+          "translation": "To",
+          "bbox": [0.6785, 0.88, 0.0331, 0.0221]
+        },
+        {
+          "text": "攻撃音を鳴らすこともできます。 【側面】",
+          "translation": "It can also play attack sounds. [Side]",
+          "bbox": [0.7407, 0.8327, 0.1592, 0.0156]
+        },
+        {
+          "text": "ゴーカイセルラー本体",
+          "translation": "Gokai Cellular unit",
+          "bbox": [0.7345, 0.8582, 0.0771, 0.0106]
+        },
+        {
+          "text": "側面のセリフボタンを押します。",
+          "translation": "Press the dialogue button on the side.",
+          "bbox": [0.7336, 0.8725, 0.1133, 0.0119]
+        },
+        {
+          "text": "・押すたびに、",
+          "translation": "・Each time you press it,",
+          "bbox": [0.7404, 0.8888, 0.0465, 0.0106]
+        },
+        {
+          "text": "3種類の攻撃音が",
+          "translation": "Three types of attack sounds",
+          "bbox": [0.742, 0.9034, 0.0633, 0.0112]
+        },
+        {
+          "text": "順に鳴ります。",
+          "translation": "They will play in sequence.",
+          "bbox": [0.7422, 0.9182, 0.0507, 0.0114]
+        },
+        {
+          "text": "セリフ",
+          "translation": "Dialogue",
+          "bbox": [0.8548, 0.899, 0.0228, 0.0088]
+        },
+        {
+          "text": "ボタン",
+          "translation": "Button",
+          "bbox": [0.8551, 0.9132, 0.0226, 0.0101]
+        },
+        {
+          "text": "・リーディングバー",
+          "translation": "・Reading bar",
+          "bbox": [0.9106, 0.7553, 0.0624, 0.0114]
+        },
+        {
+          "text": "8",
+          "translation": "8",
+          "bbox": [0.9745, 0.9691, 0.0061, 0.0094]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-5.webp",
+      "blocks": [
+        {
+          "text": "派手に変身",
+          "translation": "Flashy Transformation",
+          "bbox": [0.0665, 0.0457, 0.1129, 0.0332]
+        },
+        {
+          "text": "~セリフ変身モード~",
+          "translation": "~Dialogue Transformation Mode~",
+          "bbox": [0.2582, 0.0538, 0.1418, 0.0205]
+        },
+        {
+          "text": "「セリフ変身モード」の状態で行います。 リーディングバーが上にある状態で行います。",
+          "translation": "Do this while in \"Dialogue Transformation Mode.\" Make sure the reading bar is in the raised (up) position.",
+          "bbox": [0.054, 0.119, 0.3979, 0.0148]
+        },
+        {
+          "text": "【側面】",
+          "translation": "[Side]",
+          "bbox": [0.2312, 0.1683, 0.0305, 0.0158]
+        },
+        {
+          "text": "1 セリフボタンを押します。",
+          "translation": "1. Press the Dialogue Button.",
+          "bbox": [0.0347, 0.1771, 0.1561, 0.0177]
+        },
+        {
+          "text": "フゥン!",
+          "translation": "Fuun!",
+          "bbox": [0.3581, 0.1639, 0.0589, 0.0361]
+        },
+        {
+          "text": "◆セリフと変身アクション音が鳴ります。\n2周目以降は、「ブゥン! ブゥン!」 と\n「ゴーカイチェンジ!」 が繰り返し鳴ります。",
+          "translation": "◆ Dialogue lines and transformation action sounds will play. On the second and subsequent cycles, \"Buun! Buun!\" and \"Gokai Change!\" will sound repeatedly.",
+          "bbox": [0.0527, 0.2044, 0.1752, 0.0465]
+        },
+        {
+          "text": "いきますよおおお!",
+          "translation": "Here we gooooo!",
+          "bbox": [0.1124, 0.2694, 0.1372, 0.0325]
+        },
+        {
+          "text": "フゥン!",
+          "translation": "Fuun!",
+          "bbox": [0.3893, 0.1891, 0.0578, 0.0369]
+        },
+        {
+          "text": "シャキーン!",
+          "translation": "Shakiin!",
+          "bbox": [0.1006, 0.3195, 0.1241, 0.0582]
+        },
+        {
+          "text": "セリフ\nボタン",
+          "translation": "Dialogue\nButton",
+          "bbox": [0.2393, 0.3148, 0.0222, 0.0247]
+        },
+        {
+          "text": "チェンジ!",
+          "translation": "Change!",
+          "bbox": [0.3619, 0.3029, 0.0979, 0.0652]
+        },
+        {
+          "text": "ゴーカイ",
+          "translation": "Gokai",
+          "bbox": [0.3693, 0.2629, 0.0894, 0.0629]
+        },
+        {
+          "text": "Ve",
+          "translation": "Ve",
+          "bbox": [0.1329, 0.4003, 0.0235, 0.0216]
+        },
+        {
+          "text": "2 レンジャーキーを",
+          "translation": "2. Set the Ranger Key.",
+          "bbox": [0.0323, 0.427, 0.1157, 0.0187]
+        },
+        {
+          "text": "セットします。",
+          "translation": "Set it in place.",
+          "bbox": [0.0533, 0.4499, 0.0753, 0.0182]
+        },
+        {
+          "text": "① オープンボタンを押して、\nカバーを開きます。",
+          "translation": "① Press the open button to open the cover.",
+          "bbox": [0.0521, 0.4766, 0.1105, 0.0309]
+        },
+        {
+          "text": "② レンジャーキーを",
+          "translation": "② Insert the Ranger Key",
+          "bbox": [0.0523, 0.5106, 0.079, 0.0132]
+        },
+        {
+          "text": "ゴーカイセルラー本体\n内部にセットします。",
+          "translation": "into the inside of the Gokai Cellular main unit.",
+          "bbox": [0.0628, 0.5278, 0.0876, 0.0304]
+        },
+        {
+          "text": "レンジャーキー",
+          "translation": "Ranger Key",
+          "bbox": [0.0334, 0.7234, 0.0531, 0.0106]
+        },
+        {
+          "text": "①",
+          "translation": "①",
+          "bbox": [0.1015, 0.6621, 0.0121, 0.0114]
+        },
+        {
+          "text": "aeft.",
+          "translation": "aeft.",
+          "bbox": [0.1296, 0.6127, 0.0336, 0.054]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.1478, 0.8732, 0.0046, 0.0075]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.0187, 0.9688, 0.0061, 0.0096]
+        },
+        {
+          "text": "※レンジャーキーは\nゴーカイシルバーで説明します。\n※レンジャーキーによってはセットできません。",
+          "translation": "* Ranger Keys are shown using Gokai Silver.\n* Some Ranger Keys cannot be set.",
+          "bbox": [0.0272, 0.9255, 0.1408, 0.0371]
+        },
+        {
+          "text": "G",
+          "translation": "G",
+          "bbox": [0.2237, 0.9351, 0.0026, 0.0078]
+        },
+        {
+          "text": "← カバー",
+          "translation": "← Cover",
+          "bbox": [0.2725, 0.4712, 0.0384, 0.0096]
+        },
+        {
+          "text": "② レンジャーキーを\n図のようにつまみ、\n足元から取り出します。",
+          "translation": "② Pinch the Ranger Key as shown and pull it out from the bottom.",
+          "bbox": [0.8614, 0.0779, 0.0905, 0.0413]
+        },
+        {
+          "text": "レンジャーキーの解除",
+          "translation": "Unlocking the Ranger Key",
+          "bbox": [0.8123, 0.0519, 0.0777, 0.0117]
+        },
+        {
+          "text": "3 カバーを",
+          "translation": "3 Close the cover.",
+          "bbox": [0.5332, 0.0605, 0.0681, 0.0174]
+        },
+        {
+          "text": "① ゴーカイセルラー",
+          "translation": "① Gokai Cellular main unit",
+          "bbox": [0.7347, 0.0777, 0.0689, 0.0112]
+        },
+        {
+          "text": "閉じます。",
+          "translation": "Close it.",
+          "bbox": [0.5531, 0.0834, 0.0536, 0.0182]
+        },
+        {
+          "text": "本体背面の",
+          "translation": "on the back of the main unit",
+          "bbox": [0.7431, 0.0932, 0.0411, 0.0104]
+        },
+        {
+          "text": "レンジャーキー",
+          "translation": "Ranger Key",
+          "bbox": [0.7444, 0.1078, 0.0525, 0.0106]
+        },
+        {
+          "text": "解除ボタンを押します。",
+          "translation": "Press the release button.",
+          "bbox": [0.7429, 0.1236, 0.0823, 0.0109]
+        },
+        {
+          "text": "レンジャーキー\n解除ボタン",
+          "translation": "Ranger Key\nRelease Button",
+          "bbox": [0.7958, 0.1439, 0.0547, 0.0268]
+        },
+        {
+          "text": "【背面】",
+          "translation": "[Back]",
+          "bbox": [0.7385, 0.1906, 0.0303, 0.0145]
+        },
+        {
+          "text": "OTS",
+          "translation": "OTS",
+          "bbox": [0.6485, 0.374, 0.0217, 0.0145]
+        },
+        {
+          "text": "※リーディングバーが上にある状態で行ってください。\nリーディングバーの戻し方はP3をご参照ください。",
+          "translation": "* Perform this with the reading bar in the raised position. Refer to P3 for how to return the reading bar.",
+          "bbox": [0.7352, 0.3608, 0.1623, 0.0231]
+        },
+        {
+          "text": "※レンジャーキーは\n必ず図の状態にして、\n頭部から入れてください。",
+          "translation": "* Make sure the Ranger Key is in the position shown in the diagram and insert it head-first.",
+          "bbox": [0.3281, 0.4177, 0.097, 0.0416]
+        },
+        {
+          "text": "4 変身遊びをしたいヒーローの5 変身待機音が鳴っている間に\nテンキーを1回押します。\n変身ボタンを押します。",
+          "translation": "4. Press the numeric keypad key for the hero you want to play as once. → The transformation standby sound will play.\n5. While the transformation standby sound is playing, press the Transformation Button.",
+          "bbox": [0.5327, 0.4252, 0.3854, 0.0449]
+        },
+        {
+          "text": "→変身待機音が鳴ります。",
+          "translation": "→ The transformation standby sound will play.",
+          "bbox": [0.5534, 0.4787, 0.1065, 0.0117]
+        },
+        {
+          "text": "→押したテンキーに応じた音声が鳴り、\nLEDが光り、 リーディングバーが下に動きます。",
+          "translation": "→ A sound corresponding to the pressed keypad number will play, the LED will light, and the reading bar will move downward.",
+          "bbox": [0.7523, 0.4782, 0.1985, 0.0294]
+        },
+        {
+          "text": "【レンジャーキー背面】",
+          "translation": "[Ranger Key Back]",
+          "bbox": [0.3287, 0.6551, 0.0775, 0.0122]
+        },
+        {
+          "text": "ミゾ",
+          "translation": "Groove",
+          "bbox": [0.448, 0.6647, 0.016, 0.0109]
+        },
+        {
+          "text": "※腰部のミゾと",
+          "translation": "※ Align with the groove at the waist.",
+          "bbox": [0.3314, 0.6764, 0.0542, 0.0112]
+        },
+        {
+          "text": "ゴーカイセルラー",
+          "translation": "Gokai Cellular",
+          "bbox": [0.3397, 0.6912, 0.0602, 0.0109]
+        },
+        {
+          "text": "本体内部の\n凸ジョイントを",
+          "translation": "the protruding joint inside the main unit",
+          "bbox": [0.3391, 0.7065, 0.0518, 0.0265]
+        },
+        {
+          "text": "合わせて、",
+          "translation": "Align it with,",
+          "bbox": [0.3391, 0.7379, 0.0365, 0.0096]
+        },
+        {
+          "text": "カチッと音が",
+          "translation": "and push in",
+          "bbox": [0.3399, 0.7522, 0.0466, 0.0104]
+        },
+        {
+          "text": "するまで",
+          "translation": "until you hear a",
+          "bbox": [0.339, 0.7673, 0.0308, 0.0101]
+        },
+        {
+          "text": "はめ込みます。",
+          "translation": "click.",
+          "bbox": [0.3395, 0.7818, 0.0518, 0.0117]
+        },
+        {
+          "text": "12",
+          "translation": "12",
+          "bbox": [0.5696, 0.5997, 0.0211, 0.0099]
+        },
+        {
+          "text": "56\n18 9",
+          "translation": "56\n18 9",
+          "bbox": [0.5848, 0.6171, 0.0224, 0.0244]
+        },
+        {
+          "text": "31",
+          "translation": "31",
+          "bbox": [0.6037, 0.6008, 0.005, 0.0068]
+        },
+        {
+          "text": "ゴーカイジャー",
+          "translation": "Gokaiger",
+          "bbox": [0.6491, 0.6091, 0.034, 0.0073]
+        },
+        {
+          "text": "※ゴーカイジャーを\n押した場合で",
+          "translation": "* If you press Gokaiger,",
+          "bbox": [0.6489, 0.6249, 0.0584, 0.0242]
+        },
+        {
+          "text": "説明します。",
+          "translation": "this example explains the result.",
+          "bbox": [0.6557, 0.653, 0.0375, 0.0088]
+        },
+        {
+          "text": "テンキー",
+          "translation": "Numeric keypad",
+          "bbox": [0.5802, 0.7055, 0.0299, 0.0086]
+        },
+        {
+          "text": "テンキー一覧",
+          "translation": "Numeric Keypad List",
+          "bbox": [0.5589, 0.7377, 0.0479, 0.0114]
+        },
+        {
+          "text": "ゴーカー",
+          "translation": "Gokai",
+          "bbox": [0.7371, 0.5205, 0.0645, 0.0327]
+        },
+        {
+          "text": "ジャー!",
+          "translation": "ger!",
+          "bbox": [0.7609, 0.5501, 0.0637, 0.0327]
+        },
+        {
+          "text": "A",
+          "translation": "A",
+          "bbox": [0.8448, 0.5969, 0.0035, 0.0047]
+        },
+        {
+          "text": "変身ボタン",
+          "translation": "Transformation Button",
+          "bbox": [0.8983, 0.5592, 0.04, 0.0099]
+        },
+        {
+          "text": "ギンギンに",
+          "translation": "Full power!",
+          "bbox": [0.8768, 0.6013, 0.0951, 0.0553]
+        },
+        {
+          "text": "128",
+          "translation": "128",
+          "bbox": [0.5332, 0.8125, 0.0766, 0.0249]
+        },
+        {
+          "text": "ag",
+          "translation": "ag",
+          "bbox": [0.6508, 0.8166, 0.0257, 0.0236]
+        },
+        {
+          "text": "56 Bio",
+          "translation": "56 Bio",
+          "bbox": [0.5622, 0.8275, 0.1399, 0.0543]
+        },
+        {
+          "text": "080",
+          "translation": "080",
+          "bbox": [0.5597, 0.8813, 0.018, 0.0218]
+        },
+        {
+          "text": "M",
+          "translation": "M",
+          "bbox": [0.6074, 0.9122, 0.0206, 0.0252]
+        },
+        {
+          "text": "Pix",
+          "translation": "Pix",
+          "bbox": [0.6825, 0.88, 0.0294, 0.0208]
+        },
+        {
+          "text": "攻撃音を鳴らすこともできます。 【側面】\nゴーカイセルラー本体側面の\nセリフボタンを押します。\n→押すたびに、3種類の攻撃音と\nセリフが順に鳴ります。\n※セリフはランダムに鳴ります。\n詳しくはP16の",
+          "translation": "You can also play attack sounds. [Side] Press the Dialogue Button on the side of the Gokai Cellular main unit. → Each time you press it, three types of attack sounds and dialogue lines will play in sequence. * The dialogue lines play at random. For details, see P16.",
+          "bbox": [0.7341, 0.82, 0.166, 0.1088]
+        },
+        {
+          "text": "セリフ",
+          "translation": "Dialogue",
+          "bbox": [0.8553, 0.8865, 0.0222, 0.0081]
+        },
+        {
+          "text": "ボタン",
+          "translation": "Button",
+          "bbox": [0.8551, 0.9003, 0.0222, 0.0101]
+        },
+        {
+          "text": "「セリフ変身モード音声一覧」をご覧ください。",
+          "translation": "See the \"Dialogue Transformation Mode Voice List.\"",
+          "bbox": [0.7411, 0.933, 0.1414, 0.0096]
+        },
+        {
+          "text": "【セット後正面】",
+          "translation": "[Front view after assembly]",
+          "bbox": [0.3289, 0.8197, 0.0571, 0.0122]
+        },
+        {
+          "text": "オープン",
+          "translation": "Open",
+          "bbox": [0.287, 0.8597, 0.0314, 0.0106]
+        },
+        {
+          "text": "凸ジョイント",
+          "translation": "Male joint",
+          "bbox": [0.4234, 0.8571, 0.0441, 0.0112]
+        },
+        {
+          "text": "[4] 5",
+          "translation": "[4] 5",
+          "bbox": [0.5331, 0.8486, 0.0382, 0.0216]
+        },
+        {
+          "text": "・ボタン",
+          "translation": "・Button",
+          "bbox": [0.285, 0.8751, 0.0246, 0.0106]
+        },
+        {
+          "text": "(1)",
+          "translation": "(1)",
+          "bbox": [0.287, 0.9135, 0.0095, 0.0104]
+        },
+        {
+          "text": "いくぜ",
+          "translation": "Let's go!",
+          "bbox": [0.9159, 0.6447, 0.063, 0.0527]
+        },
+        {
+          "text": "・リーディングバー",
+          "translation": "・Reading bar",
+          "bbox": [0.9111, 0.7423, 0.0615, 0.0114]
+        },
+        {
+          "text": "10t",
+          "translation": "10t",
+          "bbox": [0.9752, 0.9688, 0.0114, 0.0104]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-6.webp",
+      "blocks": [
+        {
+          "text": "11",
+          "translation": "11",
+          "bbox": [0.0149, 0.9678, 0.011, 0.0114]
+        },
+        {
+          "text": "cobo",
+          "translation": "cobo",
+          "bbox": [0.0237, 0.0247, 0.0219, 0.0756]
+        },
+        {
+          "text": "コマンド入力",
+          "translation": "Command Input",
+          "bbox": [0.0694, 0.0483, 0.1208, 0.0312]
+        },
+        {
+          "text": "~コマンドモード~",
+          "translation": "~Command Mode~",
+          "bbox": [0.2778, 0.0551, 0.126, 0.019]
+        },
+        {
+          "text": "「コマンドモード」の状態で行います。 レンジャーキーをセットしていない状態で行います。\n※レンジャーキーをセットしていても音声は変わりません。",
+          "translation": "Perform these operations while in \"Command Mode.\" Make sure no Ranger Key is set.\n*The voice will not change even if a Ranger Key is set.",
+          "bbox": [0.0446, 0.1187, 0.4163, 0.0332]
+        },
+        {
+          "text": "通常コマンド遊び",
+          "translation": "Standard Command Play",
+          "bbox": [0.0569, 0.1821, 0.0995, 0.0179]
+        },
+        {
+          "text": "1 数字を入力します。\nテンキーを押して、3桁の数字を入力します。",
+          "translation": "1 Enter a number.\nPress the keypad to input a 3-digit number.",
+          "bbox": [0.0345, 0.2465, 0.1952, 0.0413]
+        },
+        {
+          "text": "2 を押します。",
+          "translation": "2 Press the icon shown.",
+          "bbox": [0.0274, 0.3296, 0.1254, 0.0221]
+        },
+        {
+          "text": "入力した番号に応じて、\n様々な音声が鳴ります。\n※詳しくは下記対応表をご覧ください。\n※コマンドの途中で「終話」ボタンを押すと、\nキー入力をキャンセルすることが出来ます。",
+          "translation": "Various voice lines will play depending on the number entered.\n*Please refer to the table below for details.\n*You can cancel the key input by pressing the \"End Call\" button while entering a command.",
+          "bbox": [0.054, 0.3597, 0.182, 0.08]
+        },
+        {
+          "text": "※",
+          "translation": "*",
+          "bbox": [0.2942, 0.4161, 0.0059, 0.0145]
+        },
+        {
+          "text": "70",
+          "translation": "70",
+          "bbox": [0.294, 0.3849, 0.0081, 0.0151]
+        },
+        {
+          "text": "56",
+          "translation": "56",
+          "bbox": [0.3246, 0.3504, 0.0413, 0.0164]
+        },
+        {
+          "text": "89",
+          "translation": "89",
+          "bbox": [0.3257, 0.3842, 0.0415, 0.0187]
+        },
+        {
+          "text": "12",
+          "translation": "12",
+          "bbox": [0.294, 0.3177, 0.0397, 0.019]
+        },
+        {
+          "text": "82100",
+          "translation": "82100",
+          "bbox": [0.3245, 0.2803, 0.0285, 0.1577]
+        },
+        {
+          "text": "豪獣ドリル召喚遊び",
+          "translation": "Goujuu Drill Summon Play",
+          "bbox": [0.5544, 0.0457, 0.1142, 0.0174]
+        },
+        {
+          "text": "※コマンドの途中で「終話」ボタンを押すと、\nキー入力をキャンセルすることが出来ます。",
+          "translation": "*Pressing the \"End Call\" button while entering a command will cancel the key input.",
+          "bbox": [0.7024, 0.0403, 0.1735, 0.0299]
+        },
+        {
+          "text": "【側面】",
+          "translation": "[Side]",
+          "bbox": [0.9284, 0.0468, 0.0235, 0.0125]
+        },
+        {
+          "text": "セリフボタンを押します。",
+          "translation": "Press the Dialogue button.",
+          "bbox": [0.5821, 0.1026, 0.1366, 0.0179]
+        },
+        {
+          "text": "「時を超えて出でよ、タイムレンジャーの大いなる力!」 が鳴ります。",
+          "translation": "The line \"Emerge from across time — the great power of the Time Rangers!\" plays.",
+          "bbox": [0.5924, 0.1294, 0.265, 0.0127]
+        },
+        {
+          "text": "2000 を",
+          "translation": "Enter 2000.",
+          "bbox": [0.5621, 0.181, 0.065, 0.0169]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.6719, 0.181, 0.0066, 0.0145]
+        },
+        {
+          "text": "を押します。",
+          "translation": "Press 3.",
+          "bbox": [0.7242, 0.1818, 0.0665, 0.0169]
+        },
+        {
+          "text": "入力します。",
+          "translation": "Enter it.",
+          "bbox": [0.5812, 0.2026, 0.0668, 0.0187]
+        },
+        {
+          "text": "「発進! 豪獣ドリル!」 と効果音が鳴ります。",
+          "translation": "The sound effect \"Launch! Goujuu Drill!\" plays.",
+          "bbox": [0.7011, 0.2088, 0.1702, 0.013]
+        },
+        {
+          "text": "セリフボタン",
+          "translation": "Dialogue button",
+          "bbox": [0.9176, 0.2078, 0.0452, 0.0109]
+        },
+        {
+          "text": "「終話」",
+          "translation": "End Call",
+          "bbox": [0.442, 0.2906, 0.0244, 0.0109]
+        },
+        {
+          "text": "セリフボタンを4回押します。\n→下記音声表の順番に音声が鳴ります。",
+          "translation": "Press the Dialogue button four times.\n→ The sounds will play in the order shown in the audio table below.",
+          "bbox": [0.5817, 0.2621, 0.1598, 0.0382]
+        },
+        {
+          "text": "→「次はこれだ! 出でよ、",
+          "translation": "→ \"Next up is this! Come forth,\"",
+          "bbox": [0.7819, 0.2927, 0.0916, 0.0119]
+        },
+        {
+          "text": "ボタン",
+          "translation": "Button",
+          "bbox": [0.4418, 0.3057, 0.0226, 0.0104]
+        },
+        {
+          "text": "豪獣ドリル召喚遊び 音声表",
+          "translation": "Goujuu Drill Summon Play — Audio Table",
+          "bbox": [0.6177, 0.313, 0.085, 0.0099]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.3603, 0.3203, 0.0059, 0.0135]
+        },
+        {
+          "text": "1 豪獣ドリル!",
+          "translation": "1 Goujuu Drill!",
+          "bbox": [0.5885, 0.3299, 0.0518, 0.0099]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.5872, 0.3478, 0.0062, 0.007]
+        },
+        {
+          "text": "テンキー",
+          "translation": "Numeric keypad",
+          "bbox": [0.442, 0.3514, 0.0303, 0.0091]
+        },
+        {
+          "text": "効果音(ドリル回転音)",
+          "translation": "Sound effect (drill rotation sound)",
+          "bbox": [0.6047, 0.3465, 0.0689, 0.0104]
+        },
+        {
+          "text": "5 再度セリフボタンを押します。",
+          "translation": "5 Press the Dialogue button again.",
+          "bbox": [0.76, 0.2618, 0.1834, 0.02]
+        },
+        {
+          "text": "ジュウレンジャーの大いなる力!」が鳴り、\n【豪獣レックスシーケンス遊び】 に\n移行します。",
+          "translation": "The line \"Appear — the great power of the Zyurangers!\" plays,\nand it proceeds to [Goujuu Rex Sequence Play].",
+          "bbox": [0.7887, 0.3088, 0.162, 0.0465]
+        },
+        {
+          "text": "3 豪獣キャノン! + 効果音 (豪獣キャノン音)\n4 爆発音",
+          "translation": "3 Goujuu Cannon! + sound effect (Goujuu Cannon sound)\n4 Explosion sound",
+          "bbox": [0.5872, 0.3644, 0.1476, 0.0268]
+        },
+        {
+          "text": "豪獣レックスシーケンス遊び",
+          "translation": "Goujuu Rex Sequence Play",
+          "bbox": [0.5325, 0.4127, 0.1585, 0.0177]
+        },
+        {
+          "text": "※コマンドの途中で「終話」ボタンを押すと、\nキー入力をキャンセルすることが出来ます。",
+          "translation": "*Pressing the \"End Call\" button while entering a command will cancel the key input.",
+          "bbox": [0.702, 0.4068, 0.1823, 0.0291]
+        },
+        {
+          "text": "1222を入力します。",
+          "translation": "Enter 1222.",
+          "bbox": [0.5628, 0.4706, 0.1296, 0.0177]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.7382, 0.4709, 0.007, 0.0143]
+        },
+        {
+          "text": "を押します。",
+          "translation": "Press 2.",
+          "bbox": [0.7929, 0.4706, 0.0641, 0.0177]
+        },
+        {
+          "text": "対応表",
+          "translation": "Correspondence Table",
+          "bbox": [0.2372, 0.5203, 0.025, 0.0109]
+        },
+        {
+          "text": "3桁の数字",
+          "translation": "Three-digit number",
+          "bbox": [0.0661, 0.5426, 0.0345, 0.0094]
+        },
+        {
+          "text": "音声",
+          "translation": "Audio",
+          "bbox": [0.2995, 0.5431, 0.0138, 0.0078]
+        },
+        {
+          "text": "123 または 32 1 +",
+          "translation": "123 or 321 +",
+          "bbox": [0.0331, 0.5634, 0.0876, 0.0086]
+        },
+        {
+          "text": "ゴーカイシルバー、応援よろしく!",
+          "translation": "Gokai Silver — please cheer!",
+          "bbox": [0.1458, 0.5616, 0.1183, 0.0119]
+        },
+        {
+          "text": "456 または 654 +",
+          "translation": "456 or 654 +",
+          "bbox": [0.0314, 0.5847, 0.0892, 0.0083]
+        },
+        {
+          "text": "ゴ~カイスピア! + 爆発音",
+          "translation": "Gokai Spear! + Explosion sound",
+          "bbox": [0.1456, 0.5829, 0.0955, 0.0114]
+        },
+        {
+          "text": "3 セリフボタンを3回押します。\n→右記音声表の順番に音声が鳴ります。",
+          "translation": "3 Press the Dialogue button three times.\n→ The sounds will play in the order shown in the audio table to the right.",
+          "bbox": [0.5622, 0.5494, 0.1803, 0.0361]
+        },
+        {
+          "text": "「豪獣レックス!」 と効果音が鳴ります。",
+          "translation": "'Goujuu Rex!' and sound effects play.",
+          "bbox": [0.7672, 0.4987, 0.1535, 0.0125]
+        },
+        {
+          "text": "豪獣レックスシーケンス遊び 音声表\n1 完成!豪獣レックス!\n2 豪獣レーザー + 効果音 (豪獣レーザー音)\n3 爆発音",
+          "translation": "Goujuu Rex Sequence Play — Audio List\n1 \"Complete! Goujuu Rex!\"\n2 Goujuu Laser + sound effect (Goujuu Laser sound)\n3 Explosion sound",
+          "bbox": [0.7885, 0.5317, 0.1693, 0.0753]
+        },
+        {
+          "text": "789 または 987 +",
+          "translation": "789 or 987 +",
+          "bbox": [0.032, 0.6049, 0.0891, 0.0117]
+        },
+        {
+          "text": "ゴーカイシルバーゴールドモード変身音",
+          "translation": "Gokai Silver Gold Mode transformation sound",
+          "bbox": [0.1458, 0.6049, 0.1436, 0.0117]
+        },
+        {
+          "text": "444 または 414 +",
+          "translation": "444 or 414 +",
+          "bbox": [0.0312, 0.626, 0.0887, 0.0119]
+        },
+        {
+          "text": "500 +",
+          "translation": "500 +",
+          "bbox": [0.0589, 0.6486, 0.0384, 0.0081]
+        },
+        {
+          "text": "194 または 491 +",
+          "translation": "194 or 491 +",
+          "bbox": [0.0332, 0.6683, 0.087, 0.0117]
+        },
+        {
+          "text": "555 または 505 +",
+          "translation": "555 or 505 +",
+          "bbox": [0.0318, 0.6901, 0.0891, 0.0109]
+        },
+        {
+          "text": "777 または 258 +",
+          "translation": "777 or 258 +",
+          "bbox": [0.0316, 0.7112, 0.0883, 0.0112]
+        },
+        {
+          "text": "豪快に戦え!ゴーカイシルバー!\nゴーカイジャー?",
+          "translation": "Fight with flair! Gokai Silver!\nGokaiger?",
+          "bbox": [0.1452, 0.626, 0.1116, 0.0322]
+        },
+        {
+          "text": "ゴ~カイスピア! アンカーモード!豪快にいくぜ!\nレッツゴー!ゴーカイジャー!\nゴ~カイスピア!ガンモード!豪快に放て!",
+          "translation": "Gokai Spear! Anchor Mode! Go with gusto!\nLet's go! Gokaiger!\nGokai Spear! Gun Mode! Fire with flair!",
+          "bbox": [0.1458, 0.6683, 0.1689, 0.054]
+        },
+        {
+          "text": "084 または 840 +\n422 +",
+          "translation": "084 or 840 +\n422 +",
+          "bbox": [0.032, 0.7325, 0.0881, 0.0319]
+        },
+        {
+          "text": "グッドモーニング!豪快に起きろ! + 爆発音",
+          "translation": "Good morning! Wake up with a bang! + Explosion sound",
+          "bbox": [0.1454, 0.733, 0.1541, 0.0109]
+        },
+        {
+          "text": "豪獣神シーケンス遊び",
+          "translation": "Goujuujin Sequence Play",
+          "bbox": [0.5481, 0.733, 0.1267, 0.0187]
+        },
+        {
+          "text": "スペシャルモード! +追加戦士を読み上げ + 爆発音",
+          "translation": "Special Mode! + Announces an additional warrior + Explosion sound",
+          "bbox": [0.1456, 0.7535, 0.1856, 0.0119]
+        },
+        {
+          "text": "666 または 333 + ゴ~カイジャー!派手に応援よろしく!",
+          "translation": "666 or 333 + \"Gokai! Please give a flashy cheer!\"",
+          "bbox": [0.032, 0.7753, 0.2457, 0.0109]
+        },
+        {
+          "text": "999 +",
+          "translation": "999 +",
+          "bbox": [0.0588, 0.7982, 0.0373, 0.0086]
+        },
+        {
+          "text": "001~046 +",
+          "translation": "001–046 +",
+          "bbox": [0.0474, 0.8187, 0.0611, 0.0096]
+        },
+        {
+          "text": "※読み上げられる歴代追加戦士の詳細はP16をご覧ください。\n※スーパー戦隊講座の詳細はP17をご覧ください。",
+          "translation": "*Please see P16 for details on the historical additional warriors that are announced.\n*Please see P17 for details on the Super Sentai Course.",
+          "bbox": [0.0274, 0.8421, 0.2486, 0.0294]
+        },
+        {
+          "text": "手洗いうがい、忘れるなよ!",
+          "translation": "Don't forget to wash your hands and gargle!",
+          "bbox": [0.1456, 0.7966, 0.096, 0.0112]
+        },
+        {
+          "text": "スーパー戦隊講座",
+          "translation": "Super Sentai Course",
+          "bbox": [0.1454, 0.8179, 0.0663, 0.0112]
+        },
+        {
+          "text": "1888を入力します。",
+          "translation": "Enter 1888.",
+          "bbox": [0.563, 0.7914, 0.1296, 0.0177]
+        },
+        {
+          "text": "4 再度セリフボタンを押します。\n→ 「出でよ、アバレンジャーの大いなる力!」 が鳴り、\n【豪獣神シーケンス遊び】 に移行します。",
+          "translation": "4 Press the Dialogue button again.\n→ The line \"Appear — the great power of the Abarangers!\" plays, and it switches to [Goujuujin Sequence Play].",
+          "bbox": [0.5619, 0.6506, 0.2244, 0.0584]
+        },
+        {
+          "text": "※コマンドの途中で「終話」ボタンを押すと、\nキー入力をキャンセルすることが出来ます。",
+          "translation": "*Pressing the \"End Call\" button while entering a command will cancel the key input.",
+          "bbox": [0.7022, 0.7296, 0.1822, 0.0291]
+        },
+        {
+          "text": "3 セリフボタンを4回押します。",
+          "translation": "3 Press the Dialogue button four times.",
+          "bbox": [0.5626, 0.8691, 0.1765, 0.0187]
+        },
+        {
+          "text": "約",
+          "translation": "approximately",
+          "bbox": [0.7692, 0.7823, 0.0143, 0.0226]
+        },
+        {
+          "text": "2 を押します。",
+          "translation": "Press 2.",
+          "bbox": [0.7372, 0.7901, 0.119, 0.019]
+        },
+        {
+          "text": "右記音声表の順番に音声が鳴ります。",
+          "translation": "The sounds will play in the order shown in the audio table to the right.",
+          "bbox": [0.5905, 0.8932, 0.1517, 0.0122]
+        },
+        {
+          "text": "「豪獣神!」 と効果音が鳴ります。",
+          "translation": "'Goujuujin!' and sound effects play.",
+          "bbox": [0.7672, 0.8187, 0.1291, 0.0132]
+        },
+        {
+          "text": "豪獣神シーケンス遊び 音声表\n1 完成!豪獣神\n2 効果音 (ドリル回転音)\n3 効果音(豪獣レーザー音)",
+          "translation": "Goujuujin Sequence Play — Audio Table\n1 \"Complete! Goujuujin!\"\n2 Sound effect (drill rotation sound)\n3 Sound effect (Goujuu Laser sound)",
+          "bbox": [0.7885, 0.8525, 0.1392, 0.0758]
+        },
+        {
+          "text": "4 爆発音",
+          "translation": "4 Explosion sound",
+          "bbox": [0.7879, 0.9371, 0.043, 0.0119]
+        },
+        {
+          "text": "12",
+          "translation": "12",
+          "bbox": [0.9754, 0.9686, 0.0097, 0.0104]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-7.webp",
+      "blocks": [
+        {
+          "text": "弩派手に変身",
+          "translation": "Transform in Spectacular Fashion",
+          "bbox": [0.0668, 0.0473, 0.1342, 0.0317]
+        },
+        {
+          "text": "~エモセリフ変身モード~",
+          "translation": "~Emotional Line Transformation Mode~",
+          "bbox": [0.2424, 0.054, 0.1726, 0.0197]
+        },
+        {
+          "text": "「エモセリフ変身モード」の状態で行います。 リーディングバーが上にある状態で行います。",
+          "translation": "Perform this while in \"Emotional Line Transformation Mode\" with the reading bar in the up position.",
+          "bbox": [0.0437, 0.1187, 0.4176, 0.0153]
+        },
+        {
+          "text": "【側面】",
+          "translation": "[Side]",
+          "bbox": [0.2312, 0.1683, 0.0308, 0.0156]
+        },
+        {
+          "text": "1 セリフボタンを押します。",
+          "translation": "1. Press the Dialogue Button.",
+          "bbox": [0.0343, 0.1764, 0.1563, 0.0187]
+        },
+        {
+          "text": "押すたびに、",
+          "translation": "Each time you press it,",
+          "bbox": [0.0624, 0.2052, 0.0507, 0.0122]
+        },
+        {
+          "text": "劇中セリフが順番に鳴ります。\n※詳しくはP18の",
+          "translation": "Lines from the show play in order.\n*For details, see P18.",
+          "bbox": [0.054, 0.2205, 0.1298, 0.0309]
+        },
+        {
+          "text": "「エモセリフ変身モード音声一覧」を",
+          "translation": "the \"Emotional Line Transformation Mode Voice List\"",
+          "bbox": [0.063, 0.254, 0.1469, 0.0148]
+        },
+        {
+          "text": "ご覧ください。",
+          "translation": "Please refer to it.",
+          "bbox": [0.0639, 0.2722, 0.0566, 0.0119]
+        },
+        {
+          "text": "PTO",
+          "translation": "PTO",
+          "bbox": [0.1401, 0.3127, 0.0455, 0.059]
+        },
+        {
+          "text": "2 レンジャーキーを\nセットします。\n① オープンボタンを押して、\nカバーを開きます。",
+          "translation": "2. Set the Ranger Key.\n① Press the Open button to open the cover.",
+          "bbox": [0.032, 0.427, 0.1309, 0.0805]
+        },
+        {
+          "text": "② レンジャーキーを",
+          "translation": "② Insert the Ranger Key",
+          "bbox": [0.0523, 0.5106, 0.079, 0.0132]
+        },
+        {
+          "text": "ゴーカイセルラー本体\n内部にセットします。",
+          "translation": "into the interior of the Gokai Cellular main unit.",
+          "bbox": [0.0628, 0.5281, 0.0876, 0.0299]
+        },
+        {
+          "text": "レンジャーキー",
+          "translation": "Ranger Key",
+          "bbox": [0.0334, 0.7234, 0.0529, 0.0106]
+        },
+        {
+          "text": "①",
+          "translation": "①",
+          "bbox": [0.1017, 0.6618, 0.0116, 0.0112]
+        },
+        {
+          "text": "P",
+          "translation": "P",
+          "bbox": [0.1362, 0.6257, 0.0213, 0.0301]
+        },
+        {
+          "text": "aeft.",
+          "translation": "aeft.",
+          "bbox": [0.1298, 0.613, 0.0334, 0.0535]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.1478, 0.8732, 0.0044, 0.0075]
+        },
+        {
+          "text": "13",
+          "translation": "13",
+          "bbox": [0.0149, 0.9688, 0.0095, 0.0096]
+        },
+        {
+          "text": "※レンジャーキーは\nゴーカイシルバーで説明します。\n※レンジャーキーによってはセットできません。",
+          "translation": "* Ranger Key instructions are shown using Gokai Silver.\n* Some Ranger Keys cannot be set.",
+          "bbox": [0.0272, 0.9255, 0.1408, 0.0371]
+        },
+        {
+          "text": "セリフ",
+          "translation": "Dialogue",
+          "bbox": [0.2393, 0.3143, 0.0222, 0.0099]
+        },
+        {
+          "text": "ボタン",
+          "translation": "Button",
+          "bbox": [0.2393, 0.3288, 0.022, 0.0104]
+        },
+        {
+          "text": "G",
+          "translation": "G",
+          "bbox": [0.2237, 0.9351, 0.0026, 0.0078]
+        },
+        {
+          "text": "← カバー",
+          "translation": "← Cover",
+          "bbox": [0.2725, 0.4704, 0.0382, 0.0106]
+        },
+        {
+          "text": "② レンジャーキーを\n図のようにつまみ、\n足元から取り出します。",
+          "translation": "② Pinch the Ranger Key as shown in the illustration and pull it out from the base.",
+          "bbox": [0.8614, 0.0777, 0.0905, 0.0416]
+        },
+        {
+          "text": "レンジャーキーの解除",
+          "translation": "Ranger Key Release",
+          "bbox": [0.8123, 0.0512, 0.0773, 0.0119]
+        },
+        {
+          "text": "3 カバーを",
+          "translation": "3 Close the cover.",
+          "bbox": [0.5332, 0.0608, 0.0683, 0.0174]
+        },
+        {
+          "text": "① ゴーカイセルラー",
+          "translation": "① Gokai Cellular",
+          "bbox": [0.7347, 0.0779, 0.069, 0.0112]
+        },
+        {
+          "text": "閉じます。",
+          "translation": "Close.",
+          "bbox": [0.5529, 0.0836, 0.0536, 0.0177]
+        },
+        {
+          "text": "本体背面の",
+          "translation": "on the back of the unit",
+          "bbox": [0.7431, 0.0932, 0.0411, 0.0106]
+        },
+        {
+          "text": "レンジャーキー",
+          "translation": "Ranger Key",
+          "bbox": [0.744, 0.1081, 0.0531, 0.0106]
+        },
+        {
+          "text": "解除ボタンを押します。",
+          "translation": "Press the Ranger Key release button.",
+          "bbox": [0.7429, 0.1236, 0.0823, 0.0112]
+        },
+        {
+          "text": "レンジャーキー\n解除ボタン",
+          "translation": "Ranger Key\nRelease Button",
+          "bbox": [0.7958, 0.1439, 0.0549, 0.0268]
+        },
+        {
+          "text": "【背面】",
+          "translation": "[Back]",
+          "bbox": [0.7387, 0.1901, 0.0303, 0.0148]
+        },
+        {
+          "text": "ゴーカー",
+          "translation": "Gokai",
+          "bbox": [0.3733, 0.1556, 0.0824, 0.0579]
+        },
+        {
+          "text": "チェンジ!",
+          "translation": "Change!",
+          "bbox": [0.3652, 0.1948, 0.0962, 0.0652]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.6546, 0.3252, 0.0039, 0.0042]
+        },
+        {
+          "text": "※リーディングバーが上にある状態で行ってください。\nリーディングバーの戻し方はP3をご参照ください。",
+          "translation": "* Please perform this with the reading bar in the up position. For how to return the reading bar, see P3.",
+          "bbox": [0.7352, 0.3608, 0.1623, 0.0229]
+        },
+        {
+          "text": "OTS",
+          "translation": "OTS",
+          "bbox": [0.6484, 0.374, 0.0219, 0.0145]
+        },
+        {
+          "text": "※レンジャーキーは\n必ず図の状態にして、\n頭部から入れてください。",
+          "translation": "* Make sure the Ranger Key is in the position shown in the illustration and insert it head-first.",
+          "bbox": [0.3283, 0.4174, 0.0968, 0.0418]
+        },
+        {
+          "text": "4 変身遊びをしたいヒーローの5 変身待機音が鳴っている間に\nテンキーを1回押します。\n変身ボタンを押します。",
+          "translation": "4. Press the numeric keypad key for the hero you want to play transformation with once.\n5. While the transformation standby sound is playing, press the Transformation Button.",
+          "bbox": [0.5327, 0.4257, 0.3854, 0.0444]
+        },
+        {
+          "text": "→変身待機音が鳴ります。",
+          "translation": "→ The transformation standby sound will play.",
+          "bbox": [0.5534, 0.4787, 0.1065, 0.0117]
+        },
+        {
+          "text": "→押したテンキーに応じた音声が鳴り、\nLEDが光り、 リーディングバーが下に動きます。",
+          "translation": "→ A voice corresponding to the pressed numeric key will play, the LED will light, and the reading bar will move down.",
+          "bbox": [0.7521, 0.4784, 0.1987, 0.0291]
+        },
+        {
+          "text": "【レンジャーキー背面】\n※腰部のミゾと\nゴーカイセルラー\n本体内部の\n凸ジョイントを\n合わせて、",
+          "translation": "[Back of Ranger Key]\n* Align the groove on the waist with the protruding joint inside the Gokai Cellular main unit,",
+          "bbox": [0.3287, 0.6551, 0.0777, 0.0925]
+        },
+        {
+          "text": "カチッと音が",
+          "translation": "A 'click' sound",
+          "bbox": [0.3399, 0.7522, 0.0465, 0.0104]
+        },
+        {
+          "text": "するまで",
+          "translation": "will be",
+          "bbox": [0.339, 0.7673, 0.0308, 0.0101]
+        },
+        {
+          "text": "はめ込みます。",
+          "translation": "heard when it is fully inserted.",
+          "bbox": [0.3397, 0.7826, 0.0518, 0.0104]
+        },
+        {
+          "text": "ミゾ",
+          "translation": "Groove",
+          "bbox": [0.448, 0.6647, 0.0156, 0.0109]
+        },
+        {
+          "text": "ゴーカー",
+          "translation": "Gokai",
+          "bbox": [0.7326, 0.527, 0.0725, 0.0335]
+        },
+        {
+          "text": "ジャー!",
+          "translation": "Whoosh!",
+          "bbox": [0.7585, 0.5571, 0.0711, 0.0366]
+        },
+        {
+          "text": "変身ボタン",
+          "translation": "Transformation Button",
+          "bbox": [0.8983, 0.5722, 0.04, 0.0106]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.5701, 0.6, 0.0042, 0.0083]
+        },
+        {
+          "text": "2 31",
+          "translation": "2 31",
+          "bbox": [0.5861, 0.6008, 0.0228, 0.0073]
+        },
+        {
+          "text": "ゴーカイジャー",
+          "translation": "Gokaiger",
+          "bbox": [0.6491, 0.6094, 0.0336, 0.007]
+        },
+        {
+          "text": "55",
+          "translation": "55",
+          "bbox": [0.5854, 0.6174, 0.0051, 0.0073]
+        },
+        {
+          "text": "63",
+          "translation": "63",
+          "bbox": [0.6037, 0.6171, 0.0062, 0.0083]
+        },
+        {
+          "text": "※ゴーカイジャーを",
+          "translation": "* Gokaiger",
+          "bbox": [0.6489, 0.6249, 0.0584, 0.0101]
+        },
+        {
+          "text": "18",
+          "translation": "18",
+          "bbox": [0.5848, 0.6345, 0.0053, 0.007]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.6034, 0.6343, 0.0039, 0.0073]
+        },
+        {
+          "text": "押した場合で",
+          "translation": "This explains the case when pressed.",
+          "bbox": [0.6557, 0.6395, 0.0426, 0.0094]
+        },
+        {
+          "text": "説明します。",
+          "translation": "Explanation follows.",
+          "bbox": [0.6557, 0.653, 0.0373, 0.0088]
+        },
+        {
+          "text": "テンキー",
+          "translation": "Numeric keypad",
+          "bbox": [0.5804, 0.7057, 0.0301, 0.0088]
+        },
+        {
+          "text": "テンキー一覧",
+          "translation": "Numeric Keypad List",
+          "bbox": [0.5589, 0.7377, 0.0479, 0.0114]
+        },
+        {
+          "text": "[1] [2 [3",
+          "translation": "[1] [2] [3]",
+          "bbox": [0.5336, 0.8156, 0.0757, 0.0203]
+        },
+        {
+          "text": "ag",
+          "translation": "ag",
+          "bbox": [0.6509, 0.8145, 0.0255, 0.0255]
+        },
+        {
+          "text": "56 Bio",
+          "translation": "56 Bio",
+          "bbox": [0.5621, 0.8275, 0.1401, 0.0543]
+        },
+        {
+          "text": "yo",
+          "translation": "Yo.",
+          "bbox": [0.6498, 0.8449, 0.0222, 0.0231]
+        },
+        {
+          "text": "セリフを鳴らすこともできます。 【側面】\nゴーカイセルラー本体側面の\nセリフボタンを押します。",
+          "translation": "You can also play back spoken lines. [Side]\nPress the Dialogue Button on the side of the Gokai Cellular main unit.",
+          "bbox": [0.7343, 0.8322, 0.1656, 0.0509]
+        },
+        {
+          "text": "押すたびに、",
+          "translation": "Each time you press it,",
+          "bbox": [0.7422, 0.8873, 0.0448, 0.0106]
+        },
+        {
+          "text": "Pix",
+          "translation": "Pix",
+          "bbox": [0.6825, 0.8797, 0.0299, 0.0213]
+        },
+        {
+          "text": "劇中セリフが順番に鳴ります。\n※詳しくはP18の",
+          "translation": "Lines from the show play in order.\n*For details, see P18.",
+          "bbox": [0.7347, 0.9021, 0.1142, 0.0281]
+        },
+        {
+          "text": "「エモセリフ変身モード音声一覧」を\nご覧ください。",
+          "translation": "Please refer to the \"Emotional Line Transformation Mode Voice List\".",
+          "bbox": [0.7411, 0.9343, 0.1116, 0.0229]
+        },
+        {
+          "text": "セリフ\nボタン",
+          "translation": "Dialogue\nButton",
+          "bbox": [0.8551, 0.8992, 0.0226, 0.0234]
+        },
+        {
+          "text": "【セット後正面】",
+          "translation": "[Front view after assembly]",
+          "bbox": [0.3287, 0.8195, 0.0577, 0.0125]
+        },
+        {
+          "text": "オープン",
+          "translation": "Open",
+          "bbox": [0.287, 0.8597, 0.0312, 0.0104]
+        },
+        {
+          "text": "西ジョイント",
+          "translation": "West Joint",
+          "bbox": [0.4232, 0.8574, 0.0441, 0.0112]
+        },
+        {
+          "text": "[4] 5",
+          "translation": "[4] 5",
+          "bbox": [0.5331, 0.8486, 0.0382, 0.0216]
+        },
+        {
+          "text": "・ボタン",
+          "translation": "・Button",
+          "bbox": [0.285, 0.8751, 0.0246, 0.0106]
+        },
+        {
+          "text": "(1)",
+          "translation": "(1)",
+          "bbox": [0.287, 0.9135, 0.0097, 0.0104]
+        },
+        {
+          "text": "08",
+          "translation": "08",
+          "bbox": [0.5567, 0.8813, 0.0191, 0.0221]
+        },
+        {
+          "text": "・リーディングバー",
+          "translation": "・Reading bar",
+          "bbox": [0.9108, 0.7553, 0.0622, 0.0114]
+        },
+        {
+          "text": "14",
+          "translation": "14",
+          "bbox": [0.9752, 0.9686, 0.0099, 0.0101]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-8.webp",
+      "blocks": [
+        {
+          "text": "abo",
+          "translation": "abo",
+          "bbox": [0.0222, 0.026, 0.0231, 0.074]
+        },
+        {
+          "text": "弩派手に変身 ~ゴールドアンカーキーの挿入~",
+          "translation": "Go All-Out Flashy Transformation — Inserting the Gold Anchor Key",
+          "bbox": [0.0668, 0.0478, 0.3744, 0.0319]
+        },
+        {
+          "text": "「通常変身モード」とそれ以外のモードで鳴る音声が変わります。",
+          "translation": "The sounds played differ between \"Standard Transformation Mode\" and other modes.",
+          "bbox": [0.105, 0.1184, 0.2954, 0.0156]
+        },
+        {
+          "text": "1 ゴールドアンカーキーを挿入します。\nゴールドアンカーキーを図の向きで\nゴーカイセルラー本体のキー挿入口に差し込みます。\n→モードによって鳴る音声が変わります。",
+          "translation": "1 Insert the Gold Anchor Key.\nInsert the Gold Anchor Key into the key slot of the Gokai Cellular main unit, oriented as shown in the figure.\n→ The sound that plays will change depending on the mode.",
+          "bbox": [0.0347, 0.1769, 0.2293, 0.0738]
+        },
+        {
+          "text": "GO",
+          "translation": "GO",
+          "bbox": [0.3391, 0.247, 0.0029, 0.0091]
+        },
+        {
+          "text": "15",
+          "translation": "15",
+          "bbox": [0.0149, 0.9691, 0.0103, 0.0099]
+        },
+        {
+          "text": "通常変身モード\n→LEDが光り、\n効果音が",
+          "translation": "Standard Transformation Mode\n→ LED lights up,\nand a sound effect plays.",
+          "bbox": [0.0531, 0.2621, 0.0689, 0.0522]
+        },
+        {
+          "text": "鳴ります。",
+          "translation": "A sound plays.",
+          "bbox": [0.0628, 0.3195, 0.0387, 0.0122]
+        },
+        {
+          "text": "通常変身モード以外\n→LEDが光り、効果音と\n「ゴーカイシルバー!\nゴールドモード!」が鳴ります。",
+          "translation": "Modes other than Standard Transformation Mode\n→ LED lights up, a sound effect plays,\nand \"Gokai Silver! Gold Mode!\" is announced.",
+          "bbox": [0.1401, 0.2626, 0.1322, 0.0699]
+        },
+        {
+          "text": "【底面】",
+          "translation": "[Bottom]",
+          "bbox": [0.0984, 0.3805, 0.0303, 0.0158]
+        },
+        {
+          "text": "キー挿入口",
+          "translation": "Key slot",
+          "bbox": [0.0892, 0.4584, 0.0408, 0.0106]
+        },
+        {
+          "text": "2 セリフボタンを押します。",
+          "translation": "2 Press the Dialogue button.",
+          "bbox": [0.0332, 0.6057, 0.157, 0.0187]
+        },
+        {
+          "text": "モードによって鳴る音声が変わります。",
+          "translation": "The voice that plays changes depending on the mode.",
+          "bbox": [0.0643, 0.634, 0.1539, 0.0127]
+        },
+        {
+          "text": "※テンキーを押すと「エラー音」が鳴ります。\n通常変身モード",
+          "translation": "*If you press the numeric keypad, an \"error sound\" will play.\nStandard Transformation Mode",
+          "bbox": [0.0542, 0.6501, 0.1739, 0.0371]
+        },
+        {
+          "text": "押すたびに3種類の\n攻撃音が順に鳴ります。",
+          "translation": "Each time you press it, three types of attack sounds will play in order.",
+          "bbox": [0.0622, 0.6977, 0.0955, 0.0296]
+        },
+        {
+          "text": "【側面】",
+          "translation": "[Side]",
+          "bbox": [0.1678, 0.6956, 0.0301, 0.0156]
+        },
+        {
+          "text": "通常変身モード以外",
+          "translation": "Modes other than Standard Transformation Mode",
+          "bbox": [0.0578, 0.74, 0.0823, 0.0127]
+        },
+        {
+          "text": "「この姿になった俺は\n一味違うぜ!」と鳴り、\n以降は押すたびに3種類の\n攻撃音が順に鳴ります。",
+          "translation": "Plays “In this form I'm a cut above the rest!” and, thereafter, each time you press it, three types of attack sounds will play in order.",
+          "bbox": [0.0622, 0.7636, 0.1083, 0.0623]
+        },
+        {
+          "text": "セリフボタン",
+          "translation": "Dialogue button",
+          "bbox": [0.1487, 0.8779, 0.0455, 0.0104]
+        },
+        {
+          "text": "TO",
+          "translation": "TO",
+          "bbox": [0.2101, 0.9429, 0.0149, 0.0083]
+        },
+        {
+          "text": "台詞リスト",
+          "translation": "Dialogue List",
+          "bbox": [0.7141, 0.0377, 0.0687, 0.0213]
+        },
+        {
+          "text": "セリフ変身モード音声一覧",
+          "translation": "List of Voice Lines for Transformation Mode",
+          "bbox": [0.7007, 0.0875, 0.0986, 0.0114]
+        },
+        {
+          "text": "※セリフはランダムに再生されます。",
+          "translation": "*Lines are played randomly.",
+          "bbox": [0.8518, 0.0891, 0.112, 0.0091]
+        },
+        {
+          "text": "ジョーさん、ここは恐竜戦隊でいきましょう!\n気力転身! ダイレンジャーでいきましょう!\nみなさんみなさん、次はオーレンジャーでいきましょう!\nアイムさん!メガレンジャーなんていかがでしょう!\nみなさん!ガンガンギギン!ギンガマンでいきましょう!\nレスキュー!といったら、ゴーゴーファイブでいきましょう!\nみなさん、タイムレンジャーでいきましょう!\nじゃあここは、ガオレンジャーでいきましょう!\nみなさん、ここはいっちょ忍者でいきましょう!",
+          "translation": "Joe-san, let's go with the Dinosaur Sentai here!\nSpirit Transformation! Let's go with Dairanger!\nEveryone, everyone, next let's go with Ohranger!\nAim-san! How about Megaranger!?\nEveryone! Gan-gan Gigin! Let's go with Gingaman!\nWhen we say \"Rescue!\", let's go with GoGoFive!\nEveryone, let's go with Timeranger!\nThen here, let's go with Gaoranger!\nEveryone, let's go with a ninja this time!",
+          "bbox": [0.532, 0.1096, 0.1743, 0.1436]
+        },
+        {
+          "text": "一気にアバレンジャーでいきましょう!",
+          "translation": "Let's go all out with Abaranger!",
+          "bbox": [0.5325, 0.2608, 0.1155, 0.0091]
+        },
+        {
+          "text": "熱いハートでクールに決めましょう!!\nドンさん!勇気の魔法で行きましょう!\nマーベラスさん!ここは、ちょっとした冒険でいっちゃいましょう!\nニキニキ!ゲキレンジャーでいきましょう!\n1,2,3,4, ゴーオンジャー!なんてどうでしょう!?\nみなさん、ここはシンケンジャーでいきましょう!\nルカさん!天装術を使いましょう!\n一気に決めましょう!\nみなさん、とどめです!",
+          "translation": "Let's make it cool with a hot heart!!\nDon-san! Let's go with the Magic of Courage!\nMarvelous-san! Here, let's go on a little adventure!\nNiki-niki! Let's go with Gekiranger!\n1,2,3,4—Go-onger! How about that!?\nEveryone, let's go with Shinkenger here!\nLuka-san! Let's use Tensou Techniques!\nLet's finish it all at once!\nEveryone, it's the finishing blow!",
+          "bbox": [0.532, 0.2779, 0.1943, 0.1434]
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.339, 0.2655, 0.0037, 0.0083]
+        },
+        {
+          "text": "18",
+          "translation": "18",
+          "bbox": [0.3189, 0.2844, 0.0048, 0.0075]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.3382, 0.2839, 0.0046, 0.0081]
+        },
+        {
+          "text": "ゴーカイ",
+          "translation": "Gokai",
+          "bbox": [0.3795, 0.2777, 0.0771, 0.0491]
+        },
+        {
+          "text": "シルバー!",
+          "translation": "Silver!",
+          "bbox": [0.3933, 0.2927, 0.0859, 0.06]
+        },
+        {
+          "text": "ゴールド",
+          "translation": "Gold",
+          "bbox": [0.3713, 0.3719, 0.0947, 0.0605]
+        },
+        {
+          "text": "モード!",
+          "translation": "Mode!",
+          "bbox": [0.3805, 0.4244, 0.0865, 0.047]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.5314, 0.4678, 0.0141, 0.0088]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.5365, 0.4855, 0.0033, 0.006]
+        },
+        {
+          "text": "ゴールドアンカーキーを取り外すときは･･･",
+          "translation": "When removing the Gold Anchor Key...",
+          "bbox": [0.314, 0.5971, 0.1473, 0.0117]
+        },
+        {
+          "text": "ゴールドアンカーキーを\n矢印の方向に引き抜きます。\n→キー抜き音が鳴ります。",
+          "translation": "Pull the Gold Anchor Key out in the direction of the arrow.\n→ A key-removal sound will play.",
+          "bbox": [0.3063, 0.6218, 0.0995, 0.0408]
+        },
+        {
+          "text": "563",
+          "translation": "563",
+          "bbox": [0.3797, 0.6865, 0.0237, 0.0083]
+        },
+        {
+          "text": "20",
+          "translation": "20",
+          "bbox": [0.3788, 0.7182, 0.0057, 0.0083]
+        },
+        {
+          "text": "2 3 4 5 6 7 8 9",
+          "translation": "2 3 4 5 6 7 8 9",
+          "bbox": [0.5356, 0.5008, 0.0053, 0.1262]
+        },
+        {
+          "text": "ドラゴンレンジャー\nキバレンジャー\nキングレンジャー\nメガシルバー\nタイムファイヤー\nガオシルバー\nシュリケンジャー\nアバレキラー\n9 デカブレイク",
+          "translation": "Dragon Ranger\nKiba Ranger\nKing Ranger\nMegaSilver\nTimeFire\nGaoSilver\nShurikenger\nAbareKiller\n9 DekaBreak",
+          "bbox": [0.5356, 0.4829, 0.0801, 0.1447]
+        },
+        {
+          "text": "10",
+          "translation": "10",
+          "bbox": [0.5338, 0.6364, 0.0105, 0.0068]
+        },
+        {
+          "text": "マジシャイン\n11 ボウケンシルバー",
+          "translation": "MagiShine\n11 Bouken Silver",
+          "bbox": [0.5336, 0.6348, 0.0784, 0.0273]
+        },
+        {
+          "text": "12 ゴーオンウィングス",
+          "translation": "12 Go-on Wings",
+          "bbox": [0.5342, 0.6686, 0.0823, 0.0099]
+        },
+        {
+          "text": "13",
+          "translation": "13",
+          "bbox": [0.534, 0.6865, 0.0095, 0.0065]
+        },
+        {
+          "text": "シンケンゴールド",
+          "translation": "Shinken Gold",
+          "bbox": [0.5571, 0.6855, 0.0542, 0.0094]
+        },
+        {
+          "text": "14",
+          "translation": "14",
+          "bbox": [0.5336, 0.7036, 0.0108, 0.007]
+        },
+        {
+          "text": "ゴセイナイト",
+          "translation": "Gosei Knight",
+          "bbox": [0.5569, 0.7018, 0.0402, 0.0099]
+        },
+        {
+          "text": "15",
+          "translation": "15",
+          "bbox": [0.5338, 0.7205, 0.0105, 0.0065]
+        },
+        {
+          "text": "ゴーカイシルバー",
+          "translation": "Gokai Silver",
+          "bbox": [0.5569, 0.7187, 0.0553, 0.0101]
+        },
+        {
+          "text": "歴代追加戦士読み上げ 音声一覧\n音声",
+          "translation": "List of audio clips: names of additional warriors read aloud\nAudio",
+          "bbox": [0.6904, 0.4465, 0.1188, 0.0299]
+        },
+        {
+          "text": "Omag",
+          "translation": "Omag",
+          "bbox": [0.6105, 0.8062, 0.065, 0.0343]
+        },
+        {
+          "text": "Pia",
+          "translation": "Pia",
+          "bbox": [0.6814, 0.8803, 0.0281, 0.0213]
+        },
+        {
+          "text": "16",
+          "translation": "16",
+          "bbox": [0.9756, 0.9686, 0.0097, 0.0101]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-9.webp",
+      "blocks": [
+        {
+          "text": "17",
+          "translation": "17",
+          "bbox": [0.0149, 0.9691, 0.0101, 0.0099]
+        },
+        {
+          "text": "|3桁の数字",
+          "translation": "|3-digit numbers",
+          "bbox": [0.0268, 0.0647, 0.0369, 0.0091]
+        },
+        {
+          "text": "001",
+          "translation": "001",
+          "bbox": [0.0376, 0.0818, 0.0156, 0.0065]
+        },
+        {
+          "text": "秘密戦隊ゴレンジャーの戦隊講座\n2002 ジャッカー電撃隊の戦隊講座",
+          "translation": "Himitsu Sentai Gorenger: Sentai Course\n002 J.A.K.Q. Dengekitai: Sentai Course",
+          "bbox": [0.0356, 0.0808, 0.1397, 0.027]
+        },
+        {
+          "text": "スーパー戦隊講座 音声一覧\n音声",
+          "translation": "Super Sentai Course: Audio List\nAudio",
+          "bbox": [0.1987, 0.0439, 0.1028, 0.0288]
+        },
+        {
+          "text": "003",
+          "translation": "003",
+          "bbox": [0.0376, 0.1148, 0.0174, 0.0073]
+        },
+        {
+          "text": "バトルフィーバーJの戦隊講座",
+          "translation": "Battle Fever J: Sentai Course",
+          "bbox": [0.0718, 0.1145, 0.0936, 0.0096]
+        },
+        {
+          "text": "004",
+          "translation": "004",
+          "bbox": [0.0378, 0.1317, 0.0174, 0.007]
+        },
+        {
+          "text": "電子戦隊デンジマンの戦隊講座",
+          "translation": "Denshi Sentai Denziman: Sentai Course",
+          "bbox": [0.0718, 0.1312, 0.0986, 0.0096]
+        },
+        {
+          "text": "005",
+          "translation": "005",
+          "bbox": [0.038, 0.1491, 0.0167, 0.0062]
+        },
+        {
+          "text": "太陽戦隊サンバルカンの戦隊講座",
+          "translation": "Taiyo Sentai Sun Vulcan: Sentai Course",
+          "bbox": [0.0716, 0.1478, 0.1058, 0.0099]
+        },
+        {
+          "text": "006",
+          "translation": "006",
+          "bbox": [0.0376, 0.166, 0.0171, 0.0062]
+        },
+        {
+          "text": "大戦隊ゴーグルファイブの戦隊講座",
+          "translation": "Dai Sentai Goggle-V: Sentai Course",
+          "bbox": [0.0714, 0.1642, 0.1107, 0.0104]
+        },
+        {
+          "text": "007",
+          "translation": "007",
+          "bbox": [0.0375, 0.1821, 0.0176, 0.007]
+        },
+        {
+          "text": "科学戦隊ダイナマンの戦隊講座",
+          "translation": "Kagaku Sentai Dynaman: Sentai Course",
+          "bbox": [0.0714, 0.1816, 0.099, 0.0096]
+        },
+        {
+          "text": "2008",
+          "translation": "2008",
+          "bbox": [0.0356, 0.1995, 0.02, 0.0065]
+        },
+        {
+          "text": "超電子バイオマンの戦隊講座",
+          "translation": "Choudenshi Bioman: Sentai Course",
+          "bbox": [0.0716, 0.1987, 0.0914, 0.0094]
+        },
+        {
+          "text": "009",
+          "translation": "009",
+          "bbox": [0.038, 0.2156, 0.0171, 0.0075]
+        },
+        {
+          "text": "電撃戦隊チェンジマンの戦隊講座",
+          "translation": "Dengeki Sentai Changeman: Sentai Course",
+          "bbox": [0.0716, 0.2153, 0.1041, 0.0094]
+        },
+        {
+          "text": "010",
+          "translation": "010",
+          "bbox": [0.0378, 0.233, 0.0171, 0.0062]
+        },
+        {
+          "text": "超新星フラッシュマンの戦隊講座",
+          "translation": "Choushinsei Flashman: Sentai Course",
+          "bbox": [0.0714, 0.2319, 0.1025, 0.0096]
+        },
+        {
+          "text": "011 光戦隊マスクマンの戦隊講座",
+          "translation": "011 Hikari Sentai Maskman: Sentai Course",
+          "bbox": [0.038, 0.2486, 0.1252, 0.0101]
+        },
+        {
+          "text": "エモセリフ変身モード音声一覧\n音声",
+          "translation": "Emotive Line Transformation Mode: Audio List\nAudio",
+          "bbox": [0.6926, 0.0436, 0.1157, 0.0296]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.5312, 0.0647, 0.0141, 0.0094]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.5365, 0.0823, 0.0031, 0.0057]
+        },
+        {
+          "text": "ゴーカイチェンジ!",
+          "translation": "Gokai Change!",
+          "bbox": [0.5569, 0.0805, 0.0555, 0.0094]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.5356, 0.0984, 0.0057, 0.0075]
+        },
+        {
+          "text": "真っ赤な太陽背に受けて、 青き心に正義は宿る!",
+          "translation": "With the blazing red sun at my back, justice dwells in a blue heart!",
+          "bbox": [0.5567, 0.0977, 0.1456, 0.0096]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.5358, 0.1156, 0.0057, 0.0068]
+        },
+        {
+          "text": "黄色い歓声浴びまくり、ぷにぷにほっぺをピンクに染める。",
+          "translation": "Basking in loud yellow cheers, chubby cheeks blush pink.",
+          "bbox": [0.5567, 0.1145, 0.1776, 0.0094]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.5353, 0.1325, 0.0062, 0.007]
+        },
+        {
+          "text": "緑の若葉のニューヒーロー。",
+          "translation": "A new hero of fresh green leaves.",
+          "bbox": [0.5566, 0.1312, 0.087, 0.0101]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.5354, 0.1491, 0.0057, 0.007]
+        },
+        {
+          "text": "ギンギン輝く!その名もゴーカイシルバー!",
+          "translation": "Shining brilliantly! His name is Gokai Silver!",
+          "bbox": [0.5569, 0.1478, 0.1289, 0.0099]
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.5356, 0.166, 0.0053, 0.0068]
+        },
+        {
+          "text": "俺の力を見ててください皆さん! そして俺を仲間にしてください!いくぞ!",
+          "translation": "Everyone, please watch my power! And please make me your comrade! Here I go!",
+          "bbox": [0.5567, 0.1649, 0.2203, 0.0096]
+        },
+        {
+          "text": "7",
+          "translation": "7",
+          "bbox": [0.5358, 0.1826, 0.0055, 0.0073]
+        },
+        {
+          "text": "よし、ゴーオンジャー!やっぱり俺、シルバーだから･･････でも本家は女の子なんだよな。",
+          "translation": "Alright, Go-onger! After all, I'm Silver... but the original is a girl.",
+          "bbox": [0.5569, 0.1813, 0.2607, 0.0099]
+        },
+        {
+          "text": "ゴーオンゴールドは銀じゃないけどパワフルでかっこいいし。うぅん・・・・・・ なやむぅう。",
+          "translation": "Go-on Gold isn't silver, but he's powerful and cool. Hmm... I'm torn.",
+          "bbox": [0.5571, 0.1979, 0.2536, 0.0099]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.5356, 0.2164, 0.0055, 0.007]
+        },
+        {
+          "text": "いっそのこと、お二人同時に変身できれば悩まずに済むんですけど。",
+          "translation": "If only the two of you could transform at the same time, I wouldn't have to worry.",
+          "bbox": [0.5569, 0.2156, 0.2086, 0.0091]
+        },
+        {
+          "text": "10",
+          "translation": "10",
+          "bbox": [0.5338, 0.2335, 0.0101, 0.007]
+        },
+        {
+          "text": "理由なんかどうでもいい!とりあえず、ゴーカイチェンジ!",
+          "translation": "The reason doesn't matter! For now — Gokai Change!",
+          "bbox": [0.5567, 0.2322, 0.171, 0.0094]
+        },
+        {
+          "text": "11",
+          "translation": "11",
+          "bbox": [0.5342, 0.2494, 0.0094, 0.0099]
+        },
+        {
+          "text": "よくわかんないんですけど、イメージしたらできました。",
+          "translation": "I don't really understand it, but when I pictured it I was able to do it.",
+          "bbox": [0.5569, 0.2494, 0.1702, 0.0099]
+        },
+        {
+          "text": "12",
+          "translation": "12",
+          "bbox": [0.5338, 0.2665, 0.0107, 0.0081]
+        },
+        {
+          "text": "歴史を変えた初登場! ゴーオンシルバーとゴーオンゴールド!",
+          "translation": "A debut that changed history! Go-on Silver and Go-on Gold!",
+          "bbox": [0.5567, 0.2655, 0.1844, 0.0099]
+        },
+        {
+          "text": "高速戦隊ターボレンジャーの戦隊講座",
+          "translation": "Kousoku Sentai Turboranger: Sentai Course",
+          "bbox": [0.0716, 0.2823, 0.1181, 0.0101]
+        },
+        {
+          "text": "012",
+          "translation": "012",
+          "bbox": [0.0371, 0.2662, 0.0176, 0.007]
+        },
+        {
+          "text": "超獣戦隊ライブマンの戦隊講座",
+          "translation": "Choujuu Sentai Liveman: Sentai Course",
+          "bbox": [0.0714, 0.2655, 0.0988, 0.0096]
+        },
+        {
+          "text": "013",
+          "translation": "013",
+          "bbox": [0.0382, 0.2823, 0.0169, 0.0101]
+        },
+        {
+          "text": "014",
+          "translation": "014",
+          "bbox": [0.0376, 0.2995, 0.0182, 0.0073]
+        },
+        {
+          "text": "地球戦隊ファイブマンの戦隊講座",
+          "translation": "Chikyu Sentai Fiveman: Sentai Course",
+          "bbox": [0.0716, 0.299, 0.1043, 0.0094]
+        },
+        {
+          "text": "2015",
+          "translation": "2015",
+          "bbox": [0.036, 0.3171, 0.0195, 0.006]
+        },
+        {
+          "text": "鳥人戦隊ジェットマンの戦隊講座",
+          "translation": "Chojin Sentai Jetman: Sentai Course",
+          "bbox": [0.0716, 0.3156, 0.1019, 0.0099]
+        },
+        {
+          "text": "2016 恐竜戦隊ジュウレンジャーの戦隊講座",
+          "translation": "016 Kyoryu Sentai Zyuranger: Sentai Course",
+          "bbox": [0.0354, 0.3325, 0.1528, 0.0099]
+        },
+        {
+          "text": "13 ふたりでひとつのゴーオンウイングス!",
+          "translation": "13 Two-as-one Go-on Wings!",
+          "bbox": [0.534, 0.2818, 0.1408, 0.0109]
+        },
+        {
+          "text": "14 みなさん・・・・・・ みなさんの力を、力を貸してください! みなさんの力をひとつにして、俺に!",
+          "translation": "14 Everyone... please lend me your strength! Unite your power and give it to me!",
+          "bbox": [0.534, 0.2992, 0.291, 0.0096]
+        },
+        {
+          "text": "15",
+          "translation": "15",
+          "bbox": [0.534, 0.3171, 0.0095, 0.0078]
+        },
+        {
+          "text": "お願いします!お願いします!",
+          "translation": "Please! Please!",
+          "bbox": [0.5571, 0.3169, 0.0872, 0.0086]
+        },
+        {
+          "text": "16 どうすればいいんだろう···\n17 できましたドンさん! 15人の戦士の鍵です!",
+          "translation": "16 What should I do...\n17 It's done, Don-san! It's the key of 15 warriors!",
+          "bbox": [0.5338, 0.3335, 0.1557, 0.026]
+        },
+        {
+          "text": "2017",
+          "translation": "2017",
+          "bbox": [0.0353, 0.3504, 0.0207, 0.0068]
+        },
+        {
+          "text": "五星戦隊ダイレンジャーの戦隊講座",
+          "translation": "Gosei Sentai Dairanger: Sentai Course",
+          "bbox": [0.0718, 0.3494, 0.1104, 0.0099]
+        },
+        {
+          "text": "018",
+          "translation": "018",
+          "bbox": [0.0376, 0.367, 0.0178, 0.0068]
+        },
+        {
+          "text": "忍者戦隊カクレンジャーの戦隊講座",
+          "translation": "Ninja Sentai Kakuranger: Sentai Course",
+          "bbox": [0.0714, 0.366, 0.1105, 0.0099]
+        },
+        {
+          "text": "019",
+          "translation": "019",
+          "bbox": [0.0367, 0.3836, 0.0184, 0.007]
+        },
+        {
+          "text": "超力戦隊オーレンジャーの戦隊講座",
+          "translation": "Chouriki Sentai Ohranger: Sentai Course",
+          "bbox": [0.0716, 0.3829, 0.1109, 0.0096]
+        },
+        {
+          "text": "18",
+          "translation": "18",
+          "bbox": [0.5336, 0.3678, 0.0105, 0.0068]
+        },
+        {
+          "text": "俺の夢は、俺が掴みたい夢は!",
+          "translation": "My dream — the dream I want to grasp!",
+          "bbox": [0.5567, 0.367, 0.0913, 0.0091]
+        },
+        {
+          "text": "19",
+          "translation": "19",
+          "bbox": [0.5336, 0.3844, 0.0103, 0.0073]
+        },
+        {
+          "text": "すいません!この星を守るためならヒュウガさんが変身する方がいいかもしれません、でも俺、ゴーカイシルバーやりたいです。",
+          "translation": "Sorry! If it's to protect this planet, it might be better for Hyuga-san to transform — but I want to be Gokai Silver.",
+          "bbox": [0.5569, 0.3834, 0.3867, 0.0096]
+        },
+        {
+          "text": "20",
+          "translation": "20",
+          "bbox": [0.5329, 0.4013, 0.0107, 0.0068]
+        },
+        {
+          "text": "俺がやりたいんです!だから、すみません･･････ヒュウガさんでも譲れません。",
+          "translation": "I want to do it! So, I'm sorry... I can't give it up, even for Hyuga-san.",
+          "bbox": [0.5564, 0.4003, 0.2317, 0.0096]
+        },
+        {
+          "text": "救急戦隊ゴーゴーファイブの戦隊講座\n未来戦隊タイムレンジャーの戦隊講座",
+          "translation": "Kyuukyuu Sentai GoGoFive: Sentai Course\nMirai Sentai Timeranger: Sentai Course",
+          "bbox": [0.0714, 0.4488, 0.1179, 0.026]
+        },
+        {
+          "text": "21 この星は、ヒュウガさんの分まで俺が守ってみせます!\n22 マーベラスさん、ドンさん!二人のレンジャーキーを俺に貸してください!\n23 ほいきた!よ~し、ジングルベルジングルベールジングルベールジン・・・・・・っしゃー!できたあっ! ゴーカイチェンジ!",
+          "translation": "21 I'll protect this planet — even for Hyuga-san!\n22 Marvelous-san, Don-san! Please lend me your two Ranger Keys!\n23 Got it! Alright — jingle bell, jingle bell... Yes! It's done! Gokai Change!",
+          "bbox": [0.5325, 0.4171, 0.3713, 0.0434]
+        },
+        {
+          "text": "24",
+          "translation": "24",
+          "bbox": [0.5325, 0.4691, 0.0125, 0.0065]
+        },
+        {
+          "text": "メリークリスマス!年に一度の聖なる変身!赤と、 緑の、ゴーカイクリスマス!!",
+          "translation": "Merry Christmas! The once-a-year holy transformation! Red and green — Gokai Christmas!",
+          "bbox": [0.5566, 0.4678, 0.2292, 0.0094]
+        },
+        {
+          "text": "25 ゴーカイチェンジ!",
+          "translation": "25 Gokai Change!",
+          "bbox": [0.5329, 0.4839, 0.0793, 0.0099]
+        },
+        {
+          "text": "021",
+          "translation": "021",
+          "bbox": [0.0375, 0.4171, 0.0167, 0.007]
+        },
+        {
+          "text": "020 激走戦隊カーレンジャーの戦隊講座\n電磁戦隊メガレンジャーの戦隊講座",
+          "translation": "020 Gekisou Sentai Carranger: Sentai Course\nDenji Sentai Megaranger: Sentai Course",
+          "bbox": [0.0362, 0.3984, 0.146, 0.0283]
+        },
+        {
+          "text": "022",
+          "translation": "022",
+          "bbox": [0.0371, 0.4338, 0.0178, 0.007]
+        },
+        {
+          "text": "星獣戦隊ギンガマンの戦隊講座",
+          "translation": "Seijuu Sentai Gingaman: Sentai Course",
+          "bbox": [0.0714, 0.4332, 0.099, 0.0101]
+        },
+        {
+          "text": "023",
+          "translation": "023",
+          "bbox": [0.0362, 0.4509, 0.0187, 0.0065]
+        },
+        {
+          "text": "024",
+          "translation": "024",
+          "bbox": [0.038, 0.4657, 0.0176, 0.007]
+        },
+        {
+          "text": "025",
+          "translation": "025",
+          "bbox": [0.038, 0.4826, 0.0169, 0.0073]
+        },
+        {
+          "text": "百獣戦隊ガオレンジャーの戦隊講座",
+          "translation": "Hyakujuu Sentai Gaoranger: Sentai Course",
+          "bbox": [0.0718, 0.4818, 0.1105, 0.0096]
+        },
+        {
+          "text": "026",
+          "translation": "026",
+          "bbox": [0.0362, 0.4979, 0.0184, 0.0091]
+        },
+        {
+          "text": "忍風戦隊ハリケンジャーの戦隊講座",
+          "translation": "Ninpuu Sentai Hurricaneger: Sentai Course",
+          "bbox": [0.0714, 0.4984, 0.1107, 0.0099]
+        },
+        {
+          "text": "027",
+          "translation": "027",
+          "bbox": [0.0373, 0.5158, 0.0189, 0.0075]
+        },
+        {
+          "text": "028",
+          "translation": "028",
+          "bbox": [0.0375, 0.533, 0.018, 0.0062]
+        },
+        {
+          "text": "029",
+          "translation": "029",
+          "bbox": [0.0367, 0.5494, 0.018, 0.0078]
+        },
+        {
+          "text": "030",
+          "translation": "030",
+          "bbox": [0.0378, 0.5665, 0.0173, 0.0073]
+        },
+        {
+          "text": "031",
+          "translation": "031",
+          "bbox": [0.0371, 0.5831, 0.0162, 0.0068]
+        },
+        {
+          "text": "爆竜戦隊アバレンジャーの戦隊講座\n特捜戦隊デカレンジャーの戦隊講座\n魔法戦隊マジレンジャーの戦隊講座\n轟轟戦隊ボウケンジャーの戦隊講座\n獣拳戦隊ゲキレンジャーの戦隊講座",
+          "translation": "Bakuryu Sentai Abaranger: Sentai Course\nTokusou Sentai Dekaranger: Sentai Course\nMahou Sentai Magiranger: Sentai Course\nGoGo Sentai Boukenger: Sentai Course\nJuken Sentai Gekiranger: Sentai Course",
+          "bbox": [0.0712, 0.5153, 0.1118, 0.0769]
+        },
+        {
+          "text": "032",
+          "translation": "032",
+          "bbox": [0.0369, 0.6003, 0.0178, 0.0062]
+        },
+        {
+          "text": "炎神戦隊ゴーオンジャーの戦隊講座",
+          "translation": "Engine Sentai Go-onger: Sentai Course",
+          "bbox": [0.0714, 0.5992, 0.1113, 0.0096]
+        },
+        {
+          "text": "033",
+          "translation": "033",
+          "bbox": [0.0375, 0.6164, 0.0174, 0.0075]
+        },
+        {
+          "text": "侍戦隊シンケンジャーの戦隊講座",
+          "translation": "Samurai Sentai Shinkenger: Sentai Course",
+          "bbox": [0.0714, 0.6161, 0.1041, 0.0099]
+        },
+        {
+          "text": "034",
+          "translation": "034",
+          "bbox": [0.0378, 0.634, 0.0173, 0.007]
+        },
+        {
+          "text": "天装戦隊ゴセイジャーの戦隊講座",
+          "translation": "Tensou Sentai Goseiger: Sentai Course",
+          "bbox": [0.0714, 0.633, 0.1043, 0.0096]
+        },
+        {
+          "text": "035",
+          "translation": "035",
+          "bbox": [0.0378, 0.6509, 0.0169, 0.007]
+        },
+        {
+          "text": "海賊戦隊ゴーカイジャーの戦隊講座",
+          "translation": "Sentai Course: Kaizoku Sentai Gokaiger",
+          "bbox": [0.0714, 0.6494, 0.1113, 0.0101]
+        },
+        {
+          "text": "26",
+          "translation": "26",
+          "bbox": [0.5327, 0.5021, 0.011, 0.007]
+        },
+        {
+          "text": "この姿になった俺は一味違うぜ!",
+          "translation": "I'm a whole different person in this form!",
+          "bbox": [0.5571, 0.5016, 0.0975, 0.0088]
+        },
+        {
+          "text": "27 スーパー戦隊の力、 悪いことには使わせない!",
+          "translation": "27 I won't let the power of Super Sentai be used for evil!",
+          "bbox": [0.5327, 0.5177, 0.1627, 0.0101]
+        },
+        {
+          "text": "036 特命戦隊ゴーバスターズの戦隊講座\n獣電戦隊キョウリュウジャーの戦隊講座\n烈車戦隊トッキュウジャーの戦隊講座",
+          "translation": "036 Sentai Course: Tokumei Sentai Go-Busters\nSentai Course: Zyuden Sentai Kyoryuger\nSentai Course: Ressha Sentai ToQger",
+          "bbox": [0.0375, 0.6665, 0.1553, 0.0436]
+        },
+        {
+          "text": "037",
+          "translation": "037",
+          "bbox": [0.0378, 0.6842, 0.0171, 0.0073]
+        },
+        {
+          "text": "038",
+          "translation": "038",
+          "bbox": [0.038, 0.7013, 0.0171, 0.0073]
+        },
+        {
+          "text": "039",
+          "translation": "039",
+          "bbox": [0.038, 0.7177, 0.0167, 0.0078]
+        },
+        {
+          "text": "手裏剣戦隊ニンニンジャーの戦隊講座",
+          "translation": "Sentai Course: Shuriken Sentai Ninninger",
+          "bbox": [0.0716, 0.7171, 0.1188, 0.0096]
+        },
+        {
+          "text": "040",
+          "translation": "040",
+          "bbox": [0.038, 0.7348, 0.0178, 0.0068]
+        },
+        {
+          "text": "041",
+          "translation": "041",
+          "bbox": [0.038, 0.7512, 0.0158, 0.0075]
+        },
+        {
+          "text": "宇宙戦隊キュウレンジャーの戦隊講座",
+          "translation": "Sentai Course: Uchu Sentai Kyuranger",
+          "bbox": [0.0718, 0.7506, 0.117, 0.0096]
+        },
+        {
+          "text": "042",
+          "translation": "042",
+          "bbox": [0.0373, 0.7683, 0.0176, 0.0068]
+        },
+        {
+          "text": "動物戦隊ジュウオウジャーの戦隊講座",
+          "translation": "Sentai Course: Doubutsu Sentai Zyuohger",
+          "bbox": [0.0716, 0.7338, 0.1166, 0.0099]
+        },
+        {
+          "text": "快盗戦隊ルパンレンジャーVS警察戦隊パトレンジャーの戦隊講座\n043 騎士竜戦隊リュウソウジャーの戦隊講座",
+          "translation": "Sentai Course: Kaitou Sentai Lupinranger VS Keisatsu Sentai Patranger\n043 Sentai Course: Kishiryu Sentai Ryusoulger",
+          "bbox": [0.0378, 0.767, 0.242, 0.0273]
+        },
+        {
+          "text": "044",
+          "translation": "044",
+          "bbox": [0.0378, 0.8018, 0.0178, 0.0068]
+        },
+        {
+          "text": "魔進戦隊キラメイジャーの戦隊講座",
+          "translation": "Sentai Course: Mashin Sentai Kiramager",
+          "bbox": [0.0716, 0.801, 0.1107, 0.0099]
+        },
+        {
+          "text": "045",
+          "translation": "045",
+          "bbox": [0.0378, 0.8187, 0.0173, 0.0068]
+        },
+        {
+          "text": "機界戦隊ゼンカイジャーの戦隊講座",
+          "translation": "Sentai Course: Kikai Sentai Zenkaiger",
+          "bbox": [0.0714, 0.8179, 0.1111, 0.0099]
+        },
+        {
+          "text": "046",
+          "translation": "046",
+          "bbox": [0.0378, 0.8358, 0.0171, 0.007]
+        },
+        {
+          "text": "暴太郎戦隊ドンブラザーズの戦隊講座",
+          "translation": "Sentai Course: Avataro Sentai Donbrothers",
+          "bbox": [0.0716, 0.8345, 0.1184, 0.0101]
+        },
+        {
+          "text": "A",
+          "translation": "A",
+          "bbox": [0.5608, 0.7304, 0.0369, 0.04]
+        },
+        {
+          "text": "May",
+          "translation": "May",
+          "bbox": [0.6544, 0.6821, 0.0371, 0.0242]
+        },
+        {
+          "text": "Unjag",
+          "translation": "Unjag",
+          "bbox": [0.6096, 0.8075, 0.0674, 0.0325]
+        },
+        {
+          "text": "To",
+          "translation": "To",
+          "bbox": [0.6781, 0.8795, 0.0325, 0.0236]
+        },
+        {
+          "text": "cla Conte",
+          "translation": "cla Conte",
+          "bbox": [0.8423, 0.6127, 0.0762, 0.0501]
+        },
+        {
+          "text": "L",
+          "translation": "L",
+          "bbox": [0.9205, 0.6792, 0.0121, 0.0195]
+        },
+        {
+          "text": "18",
+          "translation": "18",
+          "bbox": [0.9754, 0.9688, 0.0092, 0.0094]
+        }
+      ]
+    }
+  ]
+}

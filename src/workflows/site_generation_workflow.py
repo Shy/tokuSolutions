@@ -7,24 +7,28 @@ from temporalio import workflow
 from temporalio.common import RetryPolicy
 
 with workflow.unsafe.imports_passed_through():
-    from src.activities import SiteOutput, generate_site_activity
+    from src.activities.site_generation import SiteOutput, generate_site_activity
+    from src.activities.translation import TranslatedPayload
 
 
 @dataclass
 class SiteGenerationInput:
     """Input for site generation workflow."""
+
     pdf_path: str
-    translated_blocks: list[dict]
+    translated_blocks: list[TranslatedPayload]
     output_dir: str
     source_lang: str
     target_lang: str
     product_url: str
     blog_url: str
+    source_snapshot: str = ""
 
 
 @dataclass
 class SiteGenerationOutput:
     """Output from site generation workflow."""
+
     json_path: str
     html_path: str
     page_count: int
@@ -48,12 +52,14 @@ class SiteGenerationWorkflow:
     Creates:
     - WebP images for each page
     - translations.json with all metadata
-    - index.html viewer
+    - staged manual JSON and pre-cleanup source snapshot
     """
 
     @workflow.run
     async def run(self, input: SiteGenerationInput) -> SiteGenerationOutput:
-        workflow.logger.info(f"[Site Generation Workflow] Creating viewer at {input.output_dir}")
+        workflow.logger.info(
+            f"[Site Generation Workflow] Creating viewer at {input.output_dir}"
+        )
 
         result: SiteOutput = await workflow.execute_activity(
             generate_site_activity,
@@ -65,6 +71,7 @@ class SiteGenerationWorkflow:
                 input.target_lang,
                 input.product_url,
                 input.blog_url,
+                input.source_snapshot,
             ],
             start_to_close_timeout=timedelta(minutes=10),
             retry_policy=QUICK_RETRY,

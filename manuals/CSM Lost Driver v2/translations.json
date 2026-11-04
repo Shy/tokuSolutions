@@ -1,0 +1,4796 @@
+{
+  "meta": {
+    "manual_name": "CSM Lost Driver v2",
+    "source": "CSM Lost Driver v2.pdf",
+    "source_lang": "ja",
+    "target_lang": "en",
+    "source_url": "",
+    "blog_url": "",
+    "pages": 18,
+    "blocks": 938,
+    "thumbnail": "pages/page-0.webp",
+    "tags": ["csm", "kamen-rider", "premium"]
+  },
+  "pages": [
+    {
+      "image": "pages/page-0.webp",
+      "blocks": [
+        {
+          "text": "©石森プロ・東映",
+          "translation": "© Ishimori Productions & Toei",
+          "bbox": [0.9057, 0.0231, 0.0617, 0.0064]
+        },
+        {
+          "text": "COMPLETE SELECTION MODIFICATION\nコンプリートセレクションモディフィケーションロストドライバー ver.2\nLOST DRIVER2",
+          "translation": "COMPLETE SELECTION MODIFICATION LOST DRIVER ver.2",
+          "bbox": [0.2225, 0.0436, 0.5556, 0.0616]
+        },
+        {
+          "text": "△注意",
+          "translation": "△Caution",
+          "bbox": [0.4541, 0.1167, 0.0919, 0.015]
+        },
+        {
+          "text": "お買い上げのお客様へ 必ずお読みください。",
+          "translation": "To customers who purchased this product: Please read this carefully.",
+          "bbox": [0.3585, 0.1454, 0.2817, 0.0107]
+        },
+        {
+          "text": "●本商品の対象年齢は15才以上です。 対象年齢未満のお子様には絶対に与えないでください。 ●小さな部品、電池がありますので、小さなお子様が誤って飲み込\nまないように注意してください。 窒息などの危険があります。 耳の近くで使用してはいけません。 誤って使用すると、聴覚を損なう恐れがあります。 ●可動部分には指\nなどを入れないでください。 はさまれてケガをする恐れがあります。 ●LEDの光の点滅を見続けないでください。気分が悪くなったりするおそれがあります。●本商品に\nは電子部品を使用しておりますので、ペースメーカーをご使用の方はご注意ください。 《電池を誤使用すると発熱・破裂・ 液漏れの恐れがあります。 下記に注意してく\nださい》 二次電池(充電式電池) は、絶対に使用しないでください。●古い電池と新しい電池、いろいろな種類の電池をまぜて使わないでください。 +一(プラスマ\nイナス)を正しくセットしてください。 ●遊んだ後は必ずスイッチを切り電池をはずしてください。 電池を入れたままにしておくと、液漏れの恐れがあり危険です。ショー\nトさせたり充電、分解、 加熱、火の中に入れたりしないでください。 ●万一、電池を飲み込んだとき、電池から漏れた液が目に入ったときは、すぐに医師に相談してくだ\nさい。漏れた液が皮膚や服に付いたときは水で洗ってください。 ボタン電池は飲み込むと危険です。 お子様の手の届かない所に保管してください。●廃棄するとき\nは、自治体の廃棄物処理の指示に従ってください。",
+          "translation": "● This product is intended for Ages 15+. Do not give it to children below the specified age. ● This product contains small parts and batteries; take care to prevent small children from accidentally swallowing them, as there is a risk of choking. Do not use near the ear; improper use may damage hearing. ● Do not put fingers or other objects into moving parts — there is a risk of injury from pinching. ● Do not stare at the flashing LED light for prolonged periods; it may cause discomfort or nausea. ● This product uses electronic components; users of pacemakers should exercise caution. 《If batteries are used incorrectly there is a risk of overheating, rupture, or leakage. Please observe the following:》 Do not use secondary (rechargeable) batteries. ● Do not mix old and new batteries or different types of batteries. Insert batteries with the positive (+) and negative (-) terminals set correctly. ● After use, always turn the power off and remove the batteries. Leaving batteries installed may cause leakage. Do not short-circuit, charge, disassemble, heat, or throw batteries into fire. ● If a battery is swallowed, or if battery fluid gets into the eyes, consult a physician immediately. If leaked fluid contacts the skin or clothing, wash with water. Button batteries are dangerous if swallowed; keep out of the reach of children. ● When disposing of batteries or the product, follow your local municipal waste disposal instructions.",
+          "bbox": [0.0502, 0.1676, 0.896, 0.0992]
+        },
+        {
+          "text": "<使用上の注意> ●本商品はバックル全体に塗装が施されております。 扱い方によっては塗装が傷ついたり、剥がれたりしてしまう恐れがありますのでご注意くださ\nい。●ガイアメモリにセットされている電池はテスト用です。 音が小さくなったり、 光が弱くなったら電池を交換してください。 本商品は精密な電子部品で構成されて\nいます。 落としたり、水にぬらしたり、汚したり、分解したりしないでください。 また、高温・低温になる所での使用、保管はさけてください。 本商品を樹脂製のソファーや\nシート、タイルなどの上に置かないでください。 長時間接触していると色が移る場合があります。 ●可動部分、 取付部分を無理な方向に強く引っ張ったり、曲げたりしな\nいでください。発音の一部にイントネーションが違っていたり、 商品の特性上聞き取りにくいものがありますが、ご了承ください。 ●故障の原因となりますので、本体に\nはガイアメモリ以外は入れないでください。 市販のUSBメモリ等をセットすると破損の原因となります。 また付属のガイアメモリはパソコン等へはセットできませんのでご\n注意ください。 誤動作した場合はリセットボタンを押し、 電源を入れ直してください。 ●商品の特性上、 外観のばらつきがございます。予めご了承ください。 本商品\n付属のガイアメモリは、CSMダブルドライバー ver.2、 CSMエターナルエッジ等、 連動可能な商品以外に装填しないでください。●テレビなど、他の赤外線リモコンで誤\n動作する場合があります。 太陽光の当たる屋外では誤作動する場合があります。 屋内で遊んでください。 ●誤動作した場合は電源を入れ直してください。",
+          "translation": "<Precautions for use> ● The entire buckle is painted. Depending on how it is handled, the paint may be scratched or peeled — handle with care. ● The batteries installed in the Gaia Memory are for testing. Replace the batteries when the sound becomes faint or the lights grow dim. This product is made of precision electronic components. Do not drop it, get it wet, soil it, or disassemble it. Also avoid using or storing it in places of high or low temperature. Do not place this product on resin sofas, seats, tiles, etc.; prolonged contact may cause color transfer. ● Do not forcefully pull or bend movable parts or attachment points in unnatural directions. Some voice lines may have different intonation or be hard to hear due to the nature of the product; please understand this characteristic. ● To avoid malfunction or damage, do not insert anything other than Gaia Memories into the main unit. Inserting commercially available USB memory sticks, etc., can cause damage. Also note the included Gaia Memories cannot be connected to computers or similar devices. If a malfunction occurs, press the reset button and turn the power off and on again. ● Due to the nature of the product, there may be variations in appearance. Please be aware of this in advance. Do not load the Gaia Memories included with this product into devices other than compatible products such as the CSM Double Driver ver.2 or CSM Eternal Edge. ● The unit may malfunction due to signals from other infrared remote controls (for example, televisions). It may also malfunction outdoors in direct sunlight — play with the unit indoors. ● If a malfunction occurs, turn the power off and on again.",
+          "bbox": [0.0502, 0.283, 0.896, 0.1]
+        },
+        {
+          "text": "セット内容 LOST DRIVER ver.2",
+          "translation": "Set contents: LOST DRIVER ver.2",
+          "bbox": [0.0514, 0.4104, 0.4958, 0.012]
+        },
+        {
+          "text": "※取扱説明書の画像と商品とは、\n多少異なりますのでご了承ください。",
+          "translation": "Please note that the product may differ slightly from the images shown in the Instruction Manual.",
+          "bbox": [0.5901, 0.41, 0.1995, 0.0188]
+        },
+        {
+          "text": "ロストドライバーver.2 本体... 1",
+          "translation": "LOST DRIVER ver.2 main unit... 1",
+          "bbox": [0.1784, 0.5562, 0.156, 0.0077]
+        },
+        {
+          "text": "ISKULL",
+          "translation": "ISKULL",
+          "bbox": [0.153, 0.7067, 0.0284, 0.0038]
+        },
+        {
+          "text": "SRULL",
+          "translation": "SRULL",
+          "bbox": [0.1626, 0.711, 0.0224, 0.003]
+        },
+        {
+          "text": "000000000000001",
+          "translation": "000000000000001",
+          "bbox": [0.5024, 0.5733, 0.1143, 0.0051]
+        },
+        {
+          "text": "ベルト(左)...1",
+          "translation": "Belt (left) ... 1",
+          "bbox": [0.6554, 0.5062, 0.0713, 0.0073]
+        },
+        {
+          "text": "ベルト (右)...1",
+          "translation": "Belt (right) ... 1",
+          "bbox": [0.656, 0.5887, 0.0707, 0.0077]
+        },
+        {
+          "text": "ベルトの胴回りサイズ:約75cm~約95cm",
+          "translation": "Belt waist size: approx. 75 cm ~ approx. 95 cm",
+          "bbox": [0.5629, 0.6071, 0.2594, 0.0094]
+        },
+        {
+          "text": "マキシマム",
+          "translation": "Maximum",
+          "bbox": [0.2001, 0.6131, 0.0544, 0.0077]
+        },
+        {
+          "text": "スロット... 1",
+          "translation": "Slot... 1",
+          "bbox": [0.1995, 0.6238, 0.0556, 0.0073]
+        },
+        {
+          "text": "ベルト留め... 1",
+          "translation": "Belt fastener... 1",
+          "bbox": [0.3972, 0.6195, 0.0707, 0.0081]
+        },
+        {
+          "text": "コメ",
+          "translation": "Rice",
+          "bbox": [0.3452, 0.7076, 0.0097, 0.0026]
+        },
+        {
+          "text": "カバーパーツ外し用補助具 ・・・ 2",
+          "translation": "Auxiliary tool for removing cover parts... 2",
+          "bbox": [0.7207, 0.6486, 0.1475, 0.0077]
+        },
+        {
+          "text": "スカルメモリ･･･1",
+          "translation": "Skull Memory... 1",
+          "bbox": [0.1608, 0.7401, 0.081, 0.0073]
+        },
+        {
+          "text": "ジョーカーメモリ(T2)...1",
+          "translation": "Joker Memory (T2)... 1",
+          "bbox": [0.3265, 0.7401, 0.127, 0.0073]
+        },
+        {
+          "text": "スカルメモリ用\nカバーパーツ...1",
+          "translation": "Cover part for Skull Memory... 1",
+          "bbox": [0.5852, 0.7401, 0.0828, 0.018]
+        },
+        {
+          "text": "ジョーカーメモリ (T2)用\nカバーパーツ...1",
+          "translation": "Cover part for Joker Memory (T2) ... 1",
+          "bbox": [0.7358, 0.7396, 0.1203, 0.0192]
+        },
+        {
+          "text": "エターナルメモリ(T2)...1",
+          "translation": "Eternal Memory (T2)... 1",
+          "bbox": [0.1366, 0.8016, 0.1306, 0.0073]
+        },
+        {
+          "text": "エターナルメモリ・・・1",
+          "translation": "Eternal Memory... 1",
+          "bbox": [0.3368, 0.8016, 0.1022, 0.0073]
+        },
+        {
+          "text": "エターナルメモリ (T2)用\nカバーパーツ... 1",
+          "translation": "Cover part for Eternal Memory (T2) ... 1",
+          "bbox": [0.5659, 0.8016, 0.1239, 0.018]
+        },
+        {
+          "text": "エターナルメモリ用\nカバーパーツ... 1",
+          "translation": "Cover part for Eternal Memory... 1",
+          "bbox": [0.7485, 0.8016, 0.0949, 0.018]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.4946, 0.9825, 0.0085, 0.0094]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-1.webp",
+      "blocks": [
+        {
+          "text": "ガイアメモリの絶縁シートの外し方/電池交換",
+          "translation": "How to Remove the Gaia Memory Insulation Sheet / Battery Replacement",
+          "bbox": [0.1917, 0.0342, 0.6155, 0.0222]
+        },
+        {
+          "text": "※誤動作をした場合は、リセットボタンを押してください。\n※音声が小さくなって聞き取りにくくなったり、音が繰り返し鳴ったり、ロストドライバー本体との通信が\n失敗するなどの誤動作をする場合は、ガイアメモリのボタン電池を全て新しいボタン電池に交換してください。",
+          "translation": "* If a malfunction occurs, press the reset button.\n* If the sound becomes faint or hard to hear, the sound repeats, or communication with the Lost Driver main unit fails (or other malfunctions occur), replace all button batteries in the Gaia Memory with new ones.",
+          "bbox": [0.0726, 0.0872, 0.8204, 0.0449]
+        },
+        {
+          "text": "絶縁シートの取り外し方\n①各ガイアメモリの裏側の電池ぶたにある\n絶縁シートを引き抜きます。\n②リセットボタンを先の細い棒などで軽く押します。\n③カバーパーツを裏面に取り付けます。",
+          "translation": "Removing the insulation sheet\n① Pull out the insulation sheet located in the battery cover on the back of each Gaia Memory.\n② Gently press the reset button with a thin pointed object.\n③ Attach the cover part to the back.",
+          "bbox": [0.0586, 0.1582, 0.3337, 0.0868]
+        },
+        {
+          "text": "※カバーパーツには、",
+          "translation": "※On the cover parts,",
+          "bbox": [0.6318, 0.1766, 0.1385, 0.0098]
+        },
+        {
+          "text": "保護シートが",
+          "translation": "a protective sheet",
+          "bbox": [0.6451, 0.1898, 0.0871, 0.0115]
+        },
+        {
+          "text": "貼り付けされています。",
+          "translation": "is attached.",
+          "bbox": [0.6457, 0.2044, 0.1548, 0.0111]
+        },
+        {
+          "text": "②",
+          "translation": "②",
+          "bbox": [0.1935, 0.2864, 0.0145, 0.0081]
+        },
+        {
+          "text": "リセットボタン",
+          "translation": "Reset button",
+          "bbox": [0.1046, 0.3673, 0.0726, 0.0073]
+        },
+        {
+          "text": "絶縁シート",
+          "translation": "Insulation sheet",
+          "bbox": [0.3416, 0.3668, 0.0556, 0.0081]
+        },
+        {
+          "text": "【裏側から見た図】",
+          "translation": "[View from the back]",
+          "bbox": [0.2128, 0.3929, 0.1046, 0.0103]
+        },
+        {
+          "text": "カバーパーツの取り外し方",
+          "translation": "Removing the cover parts",
+          "bbox": [0.0768, 0.4327, 0.2352, 0.0141]
+        },
+        {
+          "text": "①メモリの裏側を上にし、",
+          "translation": "① With the memory's back side facing up,",
+          "bbox": [0.2805, 0.4639, 0.1632, 0.0111]
+        },
+        {
+          "text": "カバーパーツ外し用補助具を\n画像のように押し込みます。",
+          "translation": "press the cover-part removal tool in as shown in the image.",
+          "bbox": [0.2956, 0.4797, 0.1904, 0.0261]
+        },
+        {
+          "text": "カバーパーツ外し用補助具",
+          "translation": "Auxiliary tool for removing cover parts",
+          "bbox": [0.3168, 0.5434, 0.1372, 0.0094]
+        },
+        {
+          "text": "カバーパーツ",
+          "translation": "Cover part",
+          "bbox": [0.5314, 0.2582, 0.0707, 0.0077]
+        },
+        {
+          "text": "②カバーパーツの間に隙間ができるので、\nその隙間に指をかけ、\nカバーパーツを取り外してください。\n・カパーパーツ",
+          "translation": "② A gap will form between the cover parts; insert your finger into that gap and remove the cover parts.\n・Cover parts",
+          "bbox": [0.5707, 0.4297, 0.2721, 0.0624]
+        },
+        {
+          "text": "ボタン電池の交換 裏側カバーパーツがついている場合は、カバーパーツを取り外します。",
+          "translation": "Button battery replacement  ※ If a back cover part is attached, remove the cover part.",
+          "bbox": [0.0647, 0.6511, 0.6487, 0.015]
+        },
+        {
+          "text": "1 電池ぶたの穴を先の細い棒などで押しながら、",
+          "translation": "1 While pressing the hole in the battery cover with a thin pointed object,",
+          "bbox": [0.0659, 0.6828, 0.3102, 0.0103]
+        },
+        {
+          "text": "矢印の方向に取り外します。\n②古いボタン電池を取り外して、",
+          "translation": "remove it in the direction of the arrow.\n② Remove the old button batteries,",
+          "bbox": [0.0586, 0.6982, 0.211, 0.0261]
+        },
+        {
+          "text": "新しいボタン電池3個 (LR44・別売り)を",
+          "translation": "three new button batteries (LR44; sold separately)",
+          "bbox": [0.0738, 0.7294, 0.2672, 0.0107]
+        },
+        {
+          "text": "+に注意してセットします。\n③電池ぶたを元の位置に合わせて閉じます。\n④リセットボタンを先の細い棒などで軽く押します。",
+          "translation": "Set them paying attention to the + polarity.\n③ Align the battery cover with its original position and close it.\n④ Gently press the reset button with a thin pointed object.",
+          "bbox": [0.0586, 0.7448, 0.3337, 0.0415]
+        },
+        {
+          "text": "電池ぶた",
+          "translation": "Battery cover",
+          "bbox": [0.5568, 0.6849, 0.0466, 0.0068]
+        },
+        {
+          "text": "ボタン電池は\n上側が+に、\n下側がに\nなるように\nセットします。",
+          "translation": "Set the button batteries so the top side is + and the bottom side is -.",
+          "bbox": [0.7322, 0.7093, 0.0538, 0.0449]
+        },
+        {
+          "text": "om",
+          "translation": "om",
+          "bbox": [0.5671, 0.7696, 0.0423, 0.012]
+        },
+        {
+          "text": "+",
+          "translation": "+",
+          "bbox": [0.7255, 0.7862, 0.0242, 0.0128]
+        },
+        {
+          "text": "+",
+          "translation": "+",
+          "bbox": [0.7781, 0.7879, 0.0151, 0.0094]
+        },
+        {
+          "text": "(3)",
+          "translation": "(3)",
+          "bbox": [0.5762, 0.8097, 0.0115, 0.0064]
+        },
+        {
+          "text": "リセットボタン-",
+          "translation": "Reset button -",
+          "bbox": [0.3325, 0.817, 0.0792, 0.0086]
+        },
+        {
+          "text": "(+",
+          "translation": "(+",
+          "bbox": [0.7805, 0.814, 0.0163, 0.0188]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.4909, 0.9825, 0.0163, 0.0103]
+        },
+        {
+          "text": "LR44 X 3",
+          "translation": "LR44 X 3",
+          "bbox": [0.8065, 0.8576, 0.0544, 0.0111]
+        },
+        {
+          "text": "ボタン電池(LR44) 3個使用(付)\n●セットされている電池はテスト用です",
+          "translation": "Uses 3 button batteries (LR44) (included)\n● The batteries provided are for testing purposes only.",
+          "bbox": [0.7582, 0.8756, 0.1614, 0.0205]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-2.webp",
+      "blocks": [
+        {
+          "text": "ロストドライバー本体の電池の入れ方",
+          "translation": "How to insert batteries into the Lost Driver unit",
+          "bbox": [0.2527, 0.0351, 0.4933, 0.0209]
+        },
+        {
+          "text": "※電源スイッチがOFFになっていることを",
+          "translation": "* Make sure the power switch is set to OFF.",
+          "bbox": [0.0653, 0.0872, 0.3108, 0.0111]
+        },
+        {
+          "text": "確認してください。",
+          "translation": "Please confirm.",
+          "bbox": [0.0804, 0.1039, 0.1378, 0.0107]
+        },
+        {
+          "text": "※音声が小さくなって聞き取りにくくなったり、\n音が繰り返し鳴ったり、\nガイアメモリとの通信が失敗する場合は、\n電池を全て新しい電池に交換してください。",
+          "translation": "* If the sound becomes faint or hard to hear, if the sound repeats, or if communication with a Gaia Memory fails, replace all batteries with new ones.",
+          "bbox": [0.0653, 0.1201, 0.341, 0.0611]
+        },
+        {
+          "text": "①電池ぶたの穴を細い棒などで押しながら、\nスライドさせて取り外します。\n②単4乾電池2本(別売り)の土日を\nそれぞれ間違えないように入れます。\n③電池ぶたスライドさせて閉じます。",
+          "translation": "① While pressing the hole on the battery cover with a thin rod or similar, slide the cover and remove it. ② Insert two AAA dry-cell batteries (sold separately), making sure not to mix up the + and − polarities for each battery. ③ Slide the battery cover closed.",
+          "bbox": [0.0671, 0.2044, 0.286, 0.0718]
+        },
+        {
+          "text": "①",
+          "translation": "①",
+          "bbox": [0.4692, 0.2018, 0.0121, 0.0128]
+        },
+        {
+          "text": "+1",
+          "translation": "+1",
+          "bbox": [0.4401, 0.2266, 0.0206, 0.0094]
+        },
+        {
+          "text": "単4",
+          "translation": "AAA",
+          "bbox": [0.5091, 0.2501, 0.0254, 0.0124]
+        },
+        {
+          "text": "×2",
+          "translation": "×2",
+          "bbox": [0.5611, 0.2522, 0.0206, 0.0077]
+        },
+        {
+          "text": "単4乾電池2本使用(別売り)\n●アルカリ電池専用",
+          "translation": "Uses 2 AAA dry-cell batteries (sold separately)\n● Use alkaline batteries only",
+          "bbox": [0.4667, 0.2676, 0.1179, 0.0209]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.7406, 0.1565, 0.006, 0.0034]
+        },
+        {
+          "text": "(2)",
+          "translation": "(2)",
+          "bbox": [0.5865, 0.1573, 0.0127, 0.0068]
+        },
+        {
+          "text": "【裏側から見た図】",
+          "translation": "[View from the back]",
+          "bbox": [0.8374, 0.171, 0.104, 0.0103]
+        },
+        {
+          "text": "(3)",
+          "translation": "(3)",
+          "bbox": [0.7557, 0.1941, 0.0133, 0.0073]
+        },
+        {
+          "text": "・電池ぶた",
+          "translation": "・Battery cover",
+          "bbox": [0.8325, 0.2437, 0.0496, 0.0077]
+        },
+        {
+          "text": "ロストドライバーの組み立て方",
+          "translation": "How to assemble the Lost Driver",
+          "bbox": [0.2975, 0.3313, 0.4057, 0.0205]
+        },
+        {
+          "text": "1 ドライバー(右)を閉じ、\nベルト(左)のジョイントを\nロストドライバー本体に\n差し込んで取り付けます。",
+          "translation": "1 Close the Driver (right), then insert the joint of the belt (left) into the Lost Driver unit to attach it.",
+          "bbox": [0.0586, 0.3715, 0.1717, 0.0483]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.5163, 0.3762, 0.0109, 0.0094]
+        },
+        {
+          "text": "ドライバー (右)",
+          "translation": "Driver (Right)",
+          "bbox": [0.3549, 0.3873, 0.0768, 0.0086]
+        },
+        {
+          "text": "ベルト(右)のジョイントを\nロストドライバー本体に\n差し込んで取り付けます。",
+          "translation": "Insert the joint of the belt (right) into the main body of the Lost Driver to attach it.",
+          "bbox": [0.7624, 0.3749, 0.1481, 0.0325]
+        },
+        {
+          "text": "ベルト(左)",
+          "translation": "Belt (left)",
+          "bbox": [0.0611, 0.5071, 0.0562, 0.0086]
+        },
+        {
+          "text": "ジョイント ロストドライバー",
+          "translation": "Joint Lost Driver",
+          "bbox": [0.1584, 0.5015, 0.1511, 0.0107]
+        },
+        {
+          "text": "本体",
+          "translation": "Main unit",
+          "bbox": [0.2551, 0.5118, 0.0248, 0.0086]
+        },
+        {
+          "text": "※取り外すときは、",
+          "translation": "*When removing,",
+          "bbox": [0.0683, 0.5507, 0.1064, 0.0098]
+        },
+        {
+          "text": "ベルト(左) 内側の\n解除ツマミを\n同時に矢印の方向に\nスライドさせて",
+          "translation": "Slide the release tabs on the inside of the left belt in the direction of the arrows simultaneously.",
+          "bbox": [0.0798, 0.5635, 0.1191, 0.0462]
+        },
+        {
+          "text": "引き抜きます。",
+          "translation": "Pull it out.",
+          "bbox": [0.0804, 0.6135, 0.084, 0.0086]
+        },
+        {
+          "text": "解除ツマミ",
+          "translation": "Release knob",
+          "bbox": [0.3083, 0.6186, 0.0562, 0.0094]
+        },
+        {
+          "text": "ジョイント",
+          "translation": "Joint",
+          "bbox": [0.7128, 0.4968, 0.0574, 0.0086]
+        },
+        {
+          "text": "ロストドライバー本体",
+          "translation": "Lost Driver unit",
+          "bbox": [0.5647, 0.5024, 0.1131, 0.009]
+        },
+        {
+          "text": "※取り外すときは、",
+          "translation": "*When removing,",
+          "bbox": [0.526, 0.5387, 0.107, 0.009]
+        },
+        {
+          "text": "ベルト(右)の\n解除ボタンを\n2つ同時に押しながら、\nベルト(右)を\n引き抜いてください。",
+          "translation": "While pressing the two release buttons on the belt (right) simultaneously, pull the belt (right) out.",
+          "bbox": [0.5381, 0.5515, 0.1318, 0.0586]
+        },
+        {
+          "text": "3 腰まわりのサイズに",
+          "translation": "3Adjust to fit your waist size.",
+          "bbox": [0.0574, 0.6665, 0.1385, 0.0128]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.4498, 0.6717, 0.0133, 0.009]
+        },
+        {
+          "text": "ベルト(右)と",
+          "translation": "The belt (right) and",
+          "bbox": [0.4752, 0.6678, 0.075, 0.009]
+        },
+        {
+          "text": "合うよう、ベルト(右)の\nアタッチメントパーツの\n位置を調整します。",
+          "translation": "Adjust the position of the attachment part on the belt (right) so that it fits correctly.",
+          "bbox": [0.081, 0.6798, 0.1366, 0.0325]
+        },
+        {
+          "text": "ベルト (右)",
+          "translation": "Belt (Right)",
+          "bbox": [0.3634, 0.6832, 0.0568, 0.009]
+        },
+        {
+          "text": "ベルト(左)の",
+          "translation": "of the belt (left)",
+          "bbox": [0.4746, 0.6798, 0.078, 0.009]
+        },
+        {
+          "text": "アタッチメントパーツを",
+          "translation": "the attachment parts",
+          "bbox": [0.4752, 0.6913, 0.1348, 0.009]
+        },
+        {
+          "text": "はめ合わせます。",
+          "translation": "Fit them together.",
+          "bbox": [0.4752, 0.7033, 0.0973, 0.009]
+        },
+        {
+          "text": "アタッチメント",
+          "translation": "Attachment",
+          "bbox": [0.159, 0.7354, 0.075, 0.009]
+        },
+        {
+          "text": "パーツ",
+          "translation": "Parts",
+          "bbox": [0.1862, 0.746, 0.0278, 0.0073]
+        },
+        {
+          "text": "6 ベルト(右)にマキシマムスロットを\n図のように巻きつけて留めます。",
+          "translation": "6 Wrap the Maximum Slot around the belt (right) as shown in the diagram and secure it.",
+          "bbox": [0.2884, 0.7824, 0.2231, 0.0205]
+        },
+        {
+          "text": "アタッチメントパーツに",
+          "translation": "To the attachment parts",
+          "bbox": [0.081, 0.7807, 0.1354, 0.009]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.058, 0.7862, 0.0109, 0.0094]
+        },
+        {
+          "text": "ベルト留めを図のように\n巻きつけて留めます。",
+          "translation": "Wrap and fasten the belt strap as shown in the diagram.",
+          "bbox": [0.0816, 0.7926, 0.1397, 0.0209]
+        },
+        {
+          "text": "マキシマム",
+          "translation": "Maximum",
+          "bbox": [0.2848, 0.8093, 0.058, 0.0077]
+        },
+        {
+          "text": "ベルト留め",
+          "translation": "Belt fastening",
+          "bbox": [0.2056, 0.8213, 0.0556, 0.0077]
+        },
+        {
+          "text": "スロット",
+          "translation": "Slot",
+          "bbox": [0.2926, 0.8196, 0.0411, 0.0068]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.4915, 0.9825, 0.0175, 0.0103]
+        },
+        {
+          "text": "ベルト(右)",
+          "translation": "Belt (Right)",
+          "bbox": [0.8531, 0.4391, 0.055, 0.0081]
+        },
+        {
+          "text": "解除ボタン",
+          "translation": "Release button",
+          "bbox": [0.8724, 0.5361, 0.0574, 0.0077]
+        },
+        {
+          "text": "ベルト(左)",
+          "translation": "Belt (left)",
+          "bbox": [0.6312, 0.7542, 0.0568, 0.0081]
+        },
+        {
+          "text": "アタッチメントパーツ",
+          "translation": "Attachment parts",
+          "bbox": [0.7231, 0.7495, 0.1076, 0.009]
+        },
+        {
+          "text": "ベルト(右)",
+          "translation": "Belt (Right)",
+          "bbox": [0.8875, 0.7546, 0.0556, 0.0073]
+        },
+        {
+          "text": "完成!! ロストドライバー",
+          "translation": "Complete! Lost Driver",
+          "bbox": [0.5635, 0.9136, 0.3362, 0.0257]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-3.webp",
+      "blocks": [
+        {
+          "text": "目次",
+          "translation": "Table of Contents",
+          "bbox": [0.0985, 0.0628, 0.0901, 0.0308]
+        },
+        {
+          "text": "詳しい遊び方は、下記の各ページをご確認ください。",
+          "translation": "For detailed play instructions, please refer to the pages below.",
+          "bbox": [0.3017, 0.0761, 0.5931, 0.0188]
+        },
+        {
+          "text": "ロストドライバーの電源の入れ方/モード切替",
+          "translation": "How to turn on the Lost Driver / Switching Modes",
+          "bbox": [0.1004, 0.1466, 0.4407, 0.0154]
+        },
+        {
+          "text": "p.5",
+          "translation": "p. 5",
+          "bbox": [0.8779, 0.1475, 0.0387, 0.0154]
+        },
+        {
+          "text": "ガイアメモリのモード切替",
+          "translation": "Gaia Memory mode switching",
+          "bbox": [0.1004, 0.1779, 0.2509, 0.0154]
+        },
+        {
+          "text": "p.6",
+          "translation": "p. 6",
+          "bbox": [0.8785, 0.1783, 0.0381, 0.0145]
+        },
+        {
+          "text": "ガイアメモリの単体遊び",
+          "translation": "Gaia Memory: Standalone play",
+          "bbox": [0.0998, 0.2086, 0.2334, 0.0145]
+        },
+        {
+          "text": "p.6",
+          "translation": "p. 6",
+          "bbox": [0.8779, 0.2091, 0.0393, 0.0154]
+        },
+        {
+          "text": "■ 変身遊び",
+          "translation": "■ Transformation play",
+          "bbox": [0.0774, 0.2398, 0.1119, 0.015]
+        },
+        {
+          "text": "p.7",
+          "translation": "p. 7",
+          "bbox": [0.8779, 0.2407, 0.0399, 0.015]
+        },
+        {
+          "text": "■ 補足: スリープ状態について",
+          "translation": "■ Note: About Sleep state",
+          "bbox": [0.0774, 0.2698, 0.2896, 0.0162]
+        },
+        {
+          "text": "p.8",
+          "translation": "p. 8",
+          "bbox": [0.8785, 0.2706, 0.0393, 0.015]
+        },
+        {
+          "text": "変身解除 <ロストドライバー/ガイアメモリ>",
+          "translation": "Canceling transformation <Lost Driver / Gaia Memory>",
+          "bbox": [0.0992, 0.301, 0.4383, 0.0158]
+        },
+        {
+          "text": "p.9",
+          "translation": "p. 9",
+          "bbox": [0.8791, 0.3027, 0.0387, 0.0141]
+        },
+        {
+          "text": "必殺技遊び",
+          "translation": "Finisher play",
+          "bbox": [0.0985, 0.3318, 0.1106, 0.015]
+        },
+        {
+          "text": "p.10",
+          "translation": "p. 10",
+          "bbox": [0.8609, 0.3326, 0.058, 0.015]
+        },
+        {
+          "text": "台詞ボタン遊び",
+          "translation": "Dialogue button play",
+          "bbox": [0.0992, 0.363, 0.1505, 0.0154]
+        },
+        {
+          "text": "効果音ボタン遊び",
+          "translation": "Sound effect button play",
+          "bbox": [0.0979, 0.3946, 0.1735, 0.0137]
+        },
+        {
+          "text": "■ BGM遊び",
+          "translation": "■ BGM play",
+          "bbox": [0.0768, 0.4245, 0.1264, 0.0154]
+        },
+        {
+          "text": "| 劇中再現変身遊び",
+          "translation": "Recreate on-screen transformations",
+          "bbox": [0.0774, 0.4558, 0.1965, 0.015]
+        },
+        {
+          "text": "p.11-13",
+          "translation": "pp. 11–13",
+          "bbox": [0.8186, 0.3634, 0.0985, 0.0141]
+        },
+        {
+          "text": "p.14-16",
+          "translation": "pp. 14–16",
+          "bbox": [0.818, 0.3946, 0.0992, 0.0145]
+        },
+        {
+          "text": "p.17",
+          "translation": "p. 17",
+          "bbox": [0.8609, 0.425, 0.0586, 0.0154]
+        },
+        {
+          "text": "S",
+          "translation": "S",
+          "bbox": [0.243, 0.5447, 0.0641, 0.0449]
+        },
+        {
+          "text": "p.18",
+          "translation": "p. 18",
+          "bbox": [0.8609, 0.4562, 0.0568, 0.0141]
+        },
+        {
+          "text": "COMPLETE SELECTION MODIFICATION\nコンプリートセレクションモディフィケーションロストドライバー ver.2\nLOST DRIVER 2",
+          "translation": "COMPLETE SELECTION MODIFICATION\nCOMPLETE SELECTION MODIFICATION LOST DRIVER ver.2\nLOST DRIVER ver.2",
+          "bbox": [0.1765, 0.8568, 0.6511, 0.0735]
+        },
+        {
+          "text": "Ver.",
+          "translation": "Ver.",
+          "bbox": [0.558, 0.9209, 0.0683, 0.0086]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.4909, 0.9825, 0.0169, 0.0098]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-4.webp",
+      "blocks": [
+        {
+          "text": "ロストドライバーの電源の入れ方 モード切替",
+          "translation": "How to turn on the Lost Driver / Mode switching",
+          "bbox": [0.1959, 0.0342, 0.6106, 0.0222]
+        },
+        {
+          "text": "モード切替スイッチ",
+          "translation": "Mode selector switch",
+          "bbox": [0.1753, 0.0949, 0.1264, 0.0107]
+        },
+        {
+          "text": "電源スイッチ",
+          "translation": "Power switch",
+          "bbox": [0.4329, 0.0953, 0.0846, 0.0098]
+        },
+        {
+          "text": "電源の入れ方",
+          "translation": "How to turn on the power",
+          "bbox": [0.6554, 0.0953, 0.1191, 0.0133]
+        },
+        {
+          "text": "[裏側から見た図]",
+          "translation": "[View from the back]",
+          "bbox": [0.3059, 0.1313, 0.0919, 0.0094]
+        },
+        {
+          "text": "電源スイッチをONに入れます。\n「起動音」が鳴ります。",
+          "translation": "Set the power switch to ON.\nA startup sound will play.",
+          "bbox": [0.6572, 0.1261, 0.1814, 0.0222]
+        },
+        {
+          "text": "モード切替スイッチについて",
+          "translation": "About the mode selector switch",
+          "bbox": [0.0659, 0.3142, 0.2509, 0.0141]
+        },
+        {
+          "text": "モードは3種あります。",
+          "translation": "There are 3 modes.",
+          "bbox": [0.0726, 0.3467, 0.1288, 0.0098]
+        },
+        {
+          "text": "[110]",
+          "translation": "[110]",
+          "bbox": [0.3978, 0.1727, 0.0326, 0.0158]
+        },
+        {
+          "text": "※モードごとに「起動音」が異なります。",
+          "translation": "*The startup sound differs for each mode.",
+          "bbox": [0.662, 0.1642, 0.2249, 0.0094]
+        },
+        {
+          "text": "OFF",
+          "translation": "OFF",
+          "bbox": [0.6699, 0.2056, 0.0429, 0.0111]
+        },
+        {
+          "text": "ON",
+          "translation": "ON",
+          "bbox": [0.8458, 0.2065, 0.0308, 0.0115]
+        },
+        {
+          "text": "電源スイッチをONにした状態で、モード切替スイッチを 「2/1/0」にすることで、 下記の各モードに移行します。",
+          "translation": "With the power switch turned ON, set the mode selector switch to \"2 / 1 / 0\" to move to the corresponding modes below.",
+          "bbox": [0.0726, 0.3608, 0.6439, 0.009]
+        },
+        {
+          "text": "モードごとに効果音ボタンを押した時の音声や、台詞ボタンを押した時の音声が変化します。",
+          "translation": "The voice played when you press the sound-effect button and the voice played when you press the phrase (dialogue) button change depending on the mode.",
+          "bbox": [0.0852, 0.3873, 0.8041, 0.0141]
+        },
+        {
+          "text": "「2」 : 左翔太郎モード",
+          "translation": "\"2\": Shotaro Hidari Mode",
+          "bbox": [0.1094, 0.4267, 0.1832, 0.0137]
+        },
+        {
+          "text": "ジョーカー!",
+          "translation": "Joker!",
+          "bbox": [0.1511, 0.4656, 0.1221, 0.0197]
+        },
+        {
+          "text": "2 10",
+          "translation": "2 10",
+          "bbox": [0.1524, 0.5075, 0.0883, 0.0128]
+        },
+        {
+          "text": "「1」: 大道克己モード",
+          "translation": "\"1\": Katsumi Daido Mode",
+          "bbox": [0.4117, 0.4271, 0.1844, 0.0137]
+        },
+        {
+          "text": "エターナル!",
+          "translation": "Eternal!",
+          "bbox": [0.4474, 0.4664, 0.133, 0.0184]
+        },
+        {
+          "text": "2 10",
+          "translation": "2 10",
+          "bbox": [0.4577, 0.5088, 0.0895, 0.0107]
+        },
+        {
+          "text": "「O」: 鳴海荘吉モード",
+          "translation": "\"O\": Sokichi Narumi Mode",
+          "bbox": [0.7122, 0.4258, 0.1832, 0.015]
+        },
+        {
+          "text": "スカル!",
+          "translation": "Skull!",
+          "bbox": [0.7684, 0.4677, 0.081, 0.0167]
+        },
+        {
+          "text": "21",
+          "translation": "21",
+          "bbox": [0.76, 0.5096, 0.0478, 0.0098]
+        },
+        {
+          "text": "電源スイッチをONに入れた状態で\nモード切替スイッチを 「2」に入れます。\n「ジョーカー!」の音声が鳴り、\n「2:左翔太郎モードの<変身前状態>」に\n移行します。",
+          "translation": "With the power switch turned ON, set the mode selector switch to \"2\".\n\"Joker!\" will play, and the unit will move to \"2: Shotaro Hidari Mode <Pre-transformation State>\".",
+          "bbox": [0.0726, 0.5896, 0.2509, 0.062]
+        },
+        {
+          "text": "電源スイッチをONに入れた状態で\nモード切替スイッチを 「1」に入れます。\n「エターナル!」の音声が鳴り、\n「1:大道克己モードの<変身前状態>」に\n移行します。",
+          "translation": "With the power switch turned ON, set the mode selector switch to \"1\".\n\"Eternal!\" will play, and the unit will move to \"1: Katsumi Daido Mode <Pre-transformation State>\".",
+          "bbox": [0.3755, 0.5896, 0.2515, 0.0616]
+        },
+        {
+          "text": "※モード切替ボタンを操作すると、ロストドライバーの音声などは中断し、状態がリセットされます。",
+          "translation": "*If you operate the mode selector switch, the Lost Driver's sounds will be interrupted and its state will be reset.",
+          "bbox": [0.0677, 0.6789, 0.5732, 0.0098]
+        },
+        {
+          "text": "電源スイッチをONに入れた状態で\nモード切替スイッチを 「O」に入れます。\n「スカル!」の音声が鳴り、\n「0: 鳴海荘吉モードの<変身前状態>」に\n移行します。",
+          "translation": "With the power switch turned ON, set the mode selector switch to \"O\".\n\"Skull!\" will play, and the unit will move to \"0: Sokichi Narumi Mode <Pre-transformation State>\".",
+          "bbox": [0.6784, 0.5896, 0.2515, 0.0607]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.4921, 0.9825, 0.0157, 0.0107]
+        },
+        {
+          "text": "LO",
+          "translation": "LO",
+          "bbox": [0.4927, 0.9812, 0.0133, 0.0128]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-5.webp",
+      "blocks": [
+        {
+          "text": "ガイアメモリのモード切替",
+          "translation": "Gaia Memory Mode Switching",
+          "bbox": [0.3259, 0.0333, 0.3464, 0.0227]
+        },
+        {
+          "text": "各ガイアメモリのボタンを2.5秒間長押しします。\n短押し時の音声が鳴った後、",
+          "translation": "Press and hold each Gaia Memory's button for 2.5 seconds.\nAfter the short-press sound plays,",
+          "bbox": [0.0562, 0.0765, 0.2884, 0.0231]
+        },
+        {
+          "text": "長押し0回目\n(電池を入れた後)",
+          "translation": "Press-and-hold 0th time\n(After inserting batteries)",
+          "bbox": [0.7388, 0.0812, 0.0931, 0.0205]
+        },
+        {
+          "text": "長押し1回目",
+          "translation": "Press-and-hold 1st time",
+          "bbox": [0.8525, 0.0864, 0.0774, 0.0107]
+        },
+        {
+          "text": "そのまま長押しを続けると",
+          "translation": "If you continue to press and hold,",
+          "bbox": [0.0701, 0.103, 0.156, 0.009]
+        },
+        {
+          "text": "LSKULL",
+          "translation": "LSKULL",
+          "bbox": [0.3615, 0.1052, 0.0532, 0.0056]
+        },
+        {
+          "text": "「装填音」が鳴り、表の順にモードが",
+          "translation": "A \"loading\" sound plays, and the modes will switch in the order shown in the table.",
+          "bbox": [0.0713, 0.115, 0.2013, 0.0107]
+        },
+        {
+          "text": "スカルメモリ",
+          "translation": "Skull Memory",
+          "bbox": [0.6239, 0.1163, 0.0762, 0.0077]
+        },
+        {
+          "text": "切り替わります。\nモードが一巡するときには、",
+          "translation": "They will switch.\nWhen the modes cycle through,",
+          "bbox": [0.0695, 0.1287, 0.1632, 0.0231]
+        },
+        {
+          "text": "ジョーカーメモリ(T2)",
+          "translation": "Joker Memory (T2)",
+          "bbox": [0.5998, 0.1428, 0.1252, 0.009]
+        },
+        {
+          "text": "切替音は「引き抜き音」になります。",
+          "translation": "The switching sound becomes the \"pull-out\" sound.",
+          "bbox": [0.0695, 0.1552, 0.2037, 0.0098]
+        },
+        {
+          "text": "通常モード",
+          "translation": "Normal Mode",
+          "bbox": [0.7479, 0.1535, 0.0744, 0.0098]
+        },
+        {
+          "text": "台詞モード",
+          "translation": "Dialogue Mode",
+          "bbox": [0.8537, 0.1539, 0.0756, 0.0098]
+        },
+        {
+          "text": "ボタン",
+          "translation": "Button",
+          "bbox": [0.3386, 0.159, 0.0345, 0.0077]
+        },
+        {
+          "text": "エターナルメモリ(T2)",
+          "translation": "Eternal Memory (T2)",
+          "bbox": [0.5979, 0.1693, 0.1294, 0.0098]
+        },
+        {
+          "text": "※「台詞モード」はマキシマムスロットに装填し必殺技を発動する際に\n「掛け声」が付加されます。",
+          "translation": "*In \"Dialogue Mode,\" when a memory is inserted into the Maximum Slot to activate a special move, a \"battle cry\" is added.",
+          "bbox": [0.0665, 0.183, 0.4045, 0.0248]
+        },
+        {
+          "text": "エターナルメモリ",
+          "translation": "Eternal Memory",
+          "bbox": [0.6106, 0.1971, 0.1034, 0.0086]
+        },
+        {
+          "text": "ガイアメモリの単体遊び",
+          "translation": "Playing with a Gaia Memory on its own",
+          "bbox": [0.3392, 0.2578, 0.3235, 0.0209]
+        },
+        {
+          "text": "通常モード スカルメモリ/エターナルメモリ",
+          "translation": "Normal Mode — Skull Memory / Eternal Memory",
+          "bbox": [0.0792, 0.3142, 0.3519, 0.015]
+        },
+        {
+          "text": "「通常モード」の状態でメモリのボタンを短押しします。\nメモリに応じた「メモリ名」が鳴ります。",
+          "translation": "While in \"Normal Mode,\" press the memory's button briefly.\nThe memory's name will play.",
+          "bbox": [0.5532, 0.3121, 0.312, 0.0227]
+        },
+        {
+          "text": "スカル!",
+          "translation": "Skull!",
+          "bbox": [0.3748, 0.3574, 0.081, 0.0167]
+        },
+        {
+          "text": "エターナル!",
+          "translation": "Eternal!",
+          "bbox": [0.7781, 0.3578, 0.1342, 0.0167]
+        },
+        {
+          "text": "ボタン",
+          "translation": "Button",
+          "bbox": [0.0768, 0.3882, 0.0339, 0.0086]
+        },
+        {
+          "text": "ボタン-",
+          "translation": "Button -",
+          "bbox": [0.4976, 0.3891, 0.0405, 0.0073]
+        },
+        {
+          "text": "通常モード ジョーカーメモリ(T2)/エターナルメモリ(T2)",
+          "translation": "Normal Mode — Joker Memory (T2) / Eternal Memory (T2)",
+          "bbox": [0.0792, 0.4224, 0.4359, 0.015]
+        },
+        {
+          "text": "「通常モード」の状態でメモリのボタンを短押しします。\nメモリに応じた「メモリ名」が鳴ります。",
+          "translation": "While in \"Normal Mode,\" press the memory's button briefly.\nThe memory's name will play.",
+          "bbox": [0.5532, 0.4203, 0.312, 0.0222]
+        },
+        {
+          "text": "ジョーカー!",
+          "translation": "Joker!",
+          "bbox": [0.2521, 0.4647, 0.1203, 0.0192]
+        },
+        {
+          "text": "エターナル!",
+          "translation": "Eternal!",
+          "bbox": [0.5163, 0.4656, 0.1324, 0.018]
+        },
+        {
+          "text": "音声",
+          "translation": "Audio",
+          "bbox": [0.792, 0.4617, 0.0339, 0.0103]
+        },
+        {
+          "text": "1回目",
+          "translation": "1st time",
+          "bbox": [0.7207, 0.4895, 0.0345, 0.0098]
+        },
+        {
+          "text": "2回目",
+          "translation": "2nd time",
+          "bbox": [0.7189, 0.5152, 0.0351, 0.009]
+        },
+        {
+          "text": "メモリ名",
+          "translation": "Memory name",
+          "bbox": [0.7987, 0.5293, 0.052, 0.0081]
+        },
+        {
+          "text": "ボタン",
+          "translation": "Button",
+          "bbox": [0.0732, 0.5404, 0.0339, 0.0086]
+        },
+        {
+          "text": "ボタン",
+          "translation": "Button",
+          "bbox": [0.3579, 0.5413, 0.0351, 0.0077]
+        },
+        {
+          "text": "3回目",
+          "translation": "3rd time",
+          "bbox": [0.7183, 0.5421, 0.0351, 0.0086]
+        },
+        {
+          "text": "4回目",
+          "translation": "4th time",
+          "bbox": [0.7183, 0.5673, 0.0369, 0.009]
+        },
+        {
+          "text": "※5回目に「ドーパント変身音」が鳴ります。 ドーパント変身音が鳴っている最中に\n再度ボタンを押すと、ドーパント変身音が途中で停止します。",
+          "translation": "*On the 5th press the \"Dopant transformation sound\" plays. If you press the button again while the Dopant transformation sound is playing, it will stop mid-play.",
+          "bbox": [0.1197, 0.5746, 0.474, 0.0227]
+        },
+        {
+          "text": "5回目",
+          "translation": "5th time",
+          "bbox": [0.7183, 0.593, 0.0357, 0.0086]
+        },
+        {
+          "text": "ドーパント変身音",
+          "translation": "Dopant transformation sound",
+          "bbox": [0.7993, 0.5921, 0.1004, 0.0098]
+        },
+        {
+          "text": "台詞モード スカルメモリ/ジョーカーメモリ (T2)",
+          "translation": "Dialogue Mode — Skull Memory / Joker Memory (T2)",
+          "bbox": [0.0792, 0.6499, 0.3912, 0.0128]
+        },
+        {
+          "text": "音声",
+          "translation": "Audio",
+          "bbox": [0.7926, 0.6541, 0.0339, 0.0107]
+        },
+        {
+          "text": "「台詞モード」の状態でメモリのボタンを短押しします。",
+          "translation": "While in \"Dialogue Mode,\" press the memory's button briefly.",
+          "bbox": [0.0865, 0.6794, 0.312, 0.0094]
+        },
+        {
+          "text": "1回目",
+          "translation": "1st time",
+          "bbox": [0.7201, 0.6828, 0.0345, 0.0103]
+        },
+        {
+          "text": "メモリ名",
+          "translation": "Memory name",
+          "bbox": [0.7987, 0.6819, 0.0508, 0.0098]
+        },
+        {
+          "text": "メモリに応じて、右記表の音声が順番に鳴ります。",
+          "translation": "Depending on the memory, the audio listed in the table to the right will play in order.",
+          "bbox": [0.0979, 0.6922, 0.2884, 0.0094]
+        },
+        {
+          "text": "2回目",
+          "translation": "2nd time",
+          "bbox": [0.7189, 0.7076, 0.0351, 0.009]
+        },
+        {
+          "text": "「変身。」",
+          "translation": "\"Transform.\"",
+          "bbox": [0.7999, 0.7076, 0.0459, 0.0098]
+        },
+        {
+          "text": "SKULL",
+          "translation": "SKULL",
+          "bbox": [0.1584, 0.7281, 0.0326, 0.0047]
+        },
+        {
+          "text": "変身。",
+          "translation": "Transform.",
+          "bbox": [0.3368, 0.7242, 0.0677, 0.0188]
+        },
+        {
+          "text": "※スカルメモリは「台詞モード」で直前に「変身」を鳴らしていなかった場合、\n「0: 鳴海荘吉モード」で変身を行うと自動で変身中に「変身」の台詞が付加されます。",
+          "translation": "*If the Skull Memory is in \"Dialogue Mode\" and \"Transform\" was not played immediately beforehand, then when transforming in \"0: Narumi Sokichi Mode\" the \"Transform\" line will be automatically added during the transformation.",
+          "bbox": [0.4407, 0.7392, 0.4728, 0.0231]
+        },
+        {
+          "text": "ボタン",
+          "translation": "Button",
+          "bbox": [0.0732, 0.7593, 0.0339, 0.0086]
+        },
+        {
+          "text": "台詞モード エターナルメモリ(T2)/エターナルメモリ",
+          "translation": "Dialogue Mode — Eternal Memory (T2) / Eternal Memory",
+          "bbox": [0.0792, 0.7897, 0.4281, 0.0137]
+        },
+        {
+          "text": "「台詞モード」の状態でメモリのボタンを短押しします。\nメモリに応じて、右記表の音声が順番に鳴ります。",
+          "translation": "While in \"Dialogue Mode,\" press the memory's button briefly.\nThe audio listed in the table to the right will play in order, depending on the memory.",
+          "bbox": [0.0865, 0.8204, 0.3108, 0.0222]
+        },
+        {
+          "text": "ボタン",
+          "translation": "Button",
+          "bbox": [0.0732, 0.9038, 0.0351, 0.0077]
+        },
+        {
+          "text": "音声",
+          "translation": "Audio",
+          "bbox": [0.792, 0.7939, 0.0357, 0.0115]
+        },
+        {
+          "text": "1回目",
+          "translation": "1st time",
+          "bbox": [0.7201, 0.8226, 0.0345, 0.009]
+        },
+        {
+          "text": "メモリ名",
+          "translation": "Memory name",
+          "bbox": [0.7987, 0.823, 0.0514, 0.0081]
+        },
+        {
+          "text": "2回目",
+          "translation": "2nd time",
+          "bbox": [0.7201, 0.8487, 0.0345, 0.0086]
+        },
+        {
+          "text": "「変身。」①",
+          "translation": "\"Transform.\" ①",
+          "bbox": [0.7999, 0.8474, 0.0586, 0.0103]
+        },
+        {
+          "text": "変身。",
+          "translation": "Transform.",
+          "bbox": [0.3591, 0.8653, 0.0677, 0.0201]
+        },
+        {
+          "text": "※エターナルメモリ(T2)と\nエターナルメモリは、",
+          "translation": "*The Eternal Memory (T2) and the Eternal Memory",
+          "bbox": [0.4903, 0.8615, 0.1638, 0.0218]
+        },
+        {
+          "text": "3回目",
+          "translation": "3rd time",
+          "bbox": [0.7189, 0.8743, 0.0363, 0.009]
+        },
+        {
+          "text": "メモリ名",
+          "translation": "Memory name",
+          "bbox": [0.7987, 0.8735, 0.0508, 0.009]
+        },
+        {
+          "text": "2パターンの「変身」の",
+          "translation": "Two patterns of \"Transform\"",
+          "bbox": [0.5024, 0.888, 0.1385, 0.0086]
+        },
+        {
+          "text": "音声が鳴ります。",
+          "translation": "Audio will play.",
+          "bbox": [0.503, 0.9, 0.0979, 0.0098]
+        },
+        {
+          "text": "4回目",
+          "translation": "4th time",
+          "bbox": [0.7177, 0.8991, 0.0381, 0.0094]
+        },
+        {
+          "text": "「変身。」②",
+          "translation": "\"Transform.\" ②",
+          "bbox": [0.8005, 0.8991, 0.0593, 0.0103]
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.4927, 0.9825, 0.0133, 0.0103]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-6.webp",
+      "blocks": [
+        {
+          "text": "1 ドライバーにメモリを装填します。",
+          "translation": "1. Insert the Memory into the Driver.",
+          "bbox": [0.0568, 0.0778, 0.2183, 0.0111]
+        },
+        {
+          "text": "「装填音」、「変身待機音」が鳴ります。",
+          "translation": "The \"loading sound\" and the \"transformation standby sound\" will play.",
+          "bbox": [0.0961, 0.0902, 0.211, 0.0103]
+        },
+        {
+          "text": "※ガイアメモリの",
+          "translation": "*Regarding the Gaia Memory",
+          "bbox": [0.0834, 0.118, 0.1034, 0.0098]
+        },
+        {
+          "text": "装填/引き抜きを",
+          "translation": "Insertion/removal",
+          "bbox": [0.0955, 0.1308, 0.1076, 0.0107]
+        },
+        {
+          "text": "繰り返すと、",
+          "translation": "If repeated,",
+          "bbox": [0.0955, 0.1449, 0.0713, 0.009]
+        },
+        {
+          "text": "構造上、ガイアメモリに",
+          "translation": "Because of its construction, the Gaia Memory may",
+          "bbox": [0.0955, 0.1573, 0.1372, 0.0098]
+        },
+        {
+          "text": "擦れ跡がつきます。",
+          "translation": "acquire scuff marks.",
+          "bbox": [0.0961, 0.1706, 0.1131, 0.0094]
+        },
+        {
+          "text": "ドライバー",
+          "translation": "Driver",
+          "bbox": [0.257, 0.1749, 0.0538, 0.0073]
+        },
+        {
+          "text": "S",
+          "translation": "S",
+          "bbox": [0.3392, 0.1073, 0.0266, 0.015]
+        },
+        {
+          "text": "変身遊び",
+          "translation": "Transformation Play",
+          "bbox": [0.4365, 0.0338, 0.1252, 0.0209]
+        },
+        {
+          "text": "2 ドライバーを展開します。",
+          "translation": "2. Open the Driver.",
+          "bbox": [0.5641, 0.0782, 0.1675, 0.0107]
+        },
+        {
+          "text": "受光部が光り 「変身音」が鳴って<変身後状態>になります。",
+          "translation": "The light-receiving section lights up, the \"transformation sound\" plays, and it enters the <post-transformation state>.",
+          "bbox": [0.6004, 0.0919, 0.3464, 0.0094]
+        },
+        {
+          "text": "受光部",
+          "translation": "Light-receiving section",
+          "bbox": [0.8156, 0.2685, 0.0345, 0.0073]
+        },
+        {
+          "text": "※スカルメモリは、\n「鳴海荘吉モード」で\n変身を行うと自動的に変身音が\n「風音付変身音」に変化します。",
+          "translation": "*When using the Skull Memory to transform in \"0: Sokichi Narumi Mode,\" the transformation sound will automatically change to the \"transformation sound with wind effect.\"",
+          "bbox": [0.1953, 0.3275, 0.2201, 0.0646]
+        },
+        {
+          "text": "※エターナルメモリ(T2)は、\n1:大道克己モード」で\n変身を行うと自動的に変身音が\n「AtoZ 効果音付変身音」に変化します。",
+          "translation": "*When using the Eternal Memory (T2) to transform in \"1: Katsumi Daido Mode,\" the transformation sound will automatically change to the \"AtoZ transformation sound with sound effects.\"",
+          "bbox": [0.607, 0.3275, 0.2739, 0.0641]
+        },
+        {
+          "text": "※ジョーカーメモリ(T2)は、",
+          "translation": "*The Joker Memory (T2)",
+          "bbox": [0.1971, 0.4677, 0.188, 0.0111]
+        },
+        {
+          "text": "「2:左翔太郎モード」 で変身を行うと\n自動的に変身音が\n「AtoZ効果音付変身音」に変化します。",
+          "translation": "When you transform in \"2: Shotaro Hidari Mode,\" the transformation sound will automatically change to the \"AtoZ transformation sound with sound effects.\"",
+          "bbox": [0.2116, 0.4861, 0.2594, 0.0466]
+        },
+        {
+          "text": "※ジョーカーメモリ",
+          "translation": "*Joker Memory",
+          "bbox": [0.607, 0.4681, 0.1258, 0.0098]
+        },
+        {
+          "text": "(CSMダブルドライバーver.2付属)は、\n「2:左翔太郎モード」で変身を行うと\n自動的に変身音に\n「49話効果音」が付加されます。",
+          "translation": "The Joker Memory (included with the CSM Double Driver ver.2): when you transform in \"2: Shotaro Hidari Mode,\" the \"Episode 49 sound effect\" will automatically be added to the transformation sound.",
+          "bbox": [0.6215, 0.4853, 0.2666, 0.0658]
+        },
+        {
+          "text": "変身待機音の切り替え (1:大道克己モードのみ)",
+          "translation": "Switching the transformation standby sound (1: Katsumi Daido Mode only)",
+          "bbox": [0.0786, 0.6156, 0.4238, 0.0145]
+        },
+        {
+          "text": "1:大道克己モード」 <変身前状態>で\n効果音ボタン1・2を同時に長押しします。\n→「切替音」が鳴り、",
+          "translation": "In \"1: Katsumi Daido Mode\" <pre-transformation state>, press and hold Effect Buttons 1 and 2 at the same time. → The \"switching sound\" will play,",
+          "bbox": [0.0768, 0.6494, 0.2406, 0.0385]
+        },
+        {
+          "text": "切替音",
+          "translation": "Switching sound",
+          "bbox": [0.3458, 0.6537, 0.0357, 0.0077]
+        },
+        {
+          "text": "変身待機音",
+          "translation": "Transformation standby sound",
+          "bbox": [0.4619, 0.6533, 0.0611, 0.0081]
+        },
+        {
+          "text": "0回目",
+          "translation": "0th time",
+          "bbox": [0.3513, 0.6738, 0.0266, 0.006]
+        },
+        {
+          "text": "劇場版変身待機音",
+          "translation": "Theatrical Version transformation standby sound",
+          "bbox": [0.4081, 0.6734, 0.0756, 0.0064]
+        },
+        {
+          "text": "効果音",
+          "translation": "Sound effect",
+          "bbox": [0.6016, 0.6742, 0.0351, 0.0073]
+        },
+        {
+          "text": "効果音",
+          "translation": "Sound effect",
+          "bbox": [0.8918, 0.6734, 0.0351, 0.009]
+        },
+        {
+          "text": "ボタン1",
+          "translation": "Button 1",
+          "bbox": [0.5985, 0.6841, 0.0393, 0.0086]
+        },
+        {
+          "text": "ボタン2",
+          "translation": "Button 2",
+          "bbox": [0.8888, 0.6845, 0.0411, 0.0077]
+        },
+        {
+          "text": "右記表の順番で「変身待機音」が\n変化します。",
+          "translation": "The \"transformation standby sound\" changes in the order shown in the table on the right.",
+          "bbox": [0.0901, 0.6922, 0.1886, 0.0244]
+        },
+        {
+          "text": "1回目",
+          "translation": "1st time",
+          "bbox": [0.3531, 0.6913, 0.0254, 0.006]
+        },
+        {
+          "text": "2回目",
+          "translation": "2nd time",
+          "bbox": [0.3513, 0.7088, 0.0272, 0.006]
+        },
+        {
+          "text": "劇場版(ディレクターズカット版) 変身待機音\n通常変身待機音",
+          "translation": "Theatrical Version (Director's Cut) transformation standby sound\nStandard transformation standby sound",
+          "bbox": [0.4075, 0.6905, 0.1687, 0.0239]
+        },
+        {
+          "text": "ドライバーとメモリの通信連動について",
+          "translation": "Regarding communication between the Driver and Memories",
+          "bbox": [0.3283, 0.7644, 0.3482, 0.0141]
+        },
+        {
+          "text": "ガイアメモリver.2は、ドライバーが閉じている状態のロストドライバー本体と赤外線通信を行います。\nメモリを装填した際の 「装填音」が鳴り終わるまで通信を行う為、「装填音」が鳴り終わる前にドライバーを展開すると\n通信が失敗する場合がございます。",
+          "translation": "Gaia Memory ver.2 communicates with the Lost Driver main unit by infrared while the Driver is closed. Because communication continues until the \"loading sound\" that plays when a Memory is inserted finishes, opening the Driver before that sound finishes may cause communication to fail.",
+          "bbox": [0.0762, 0.7952, 0.6626, 0.0355]
+        },
+        {
+          "text": "※通信が失敗した場合は、しっかりとドライバーを閉じ、 「閉じ音」が鳴り終わった後、再度展開してください。",
+          "translation": "*If communication fails, fully close the Driver and, after the \"closing sound\" finishes, open it again.",
+          "bbox": [0.0816, 0.8474, 0.6215, 0.0098]
+        },
+        {
+          "text": "※通信が失敗した際は、ロストドライバーに装填した際の挙動になります。",
+          "translation": "*If communication fails, the behavior will be the same as when the Memory is inserted into the Lost Driver.",
+          "bbox": [0.081, 0.8606, 0.4281, 0.0098]
+        },
+        {
+          "text": "※何度も通信失敗する場合は、電池を入れ替えて再度試してください。",
+          "translation": "*If communication fails repeatedly, replace the batteries and try again.",
+          "bbox": [0.0816, 0.8739, 0.4099, 0.009]
+        },
+        {
+          "text": "※通信を行うのはドライバーが閉じている場合のみです。ドライバーが展開している状態でメモリを入れ替えてもフォームの識別は行いません。\n※太陽光の当たる場所では赤外線センサーが正常に反応せず、通信が失敗する可能性があります。 太陽光の当たらない室内で遊んでください。",
+          "translation": "*Communication occurs only when the Driver is closed. If you swap Memories while the Driver is open, the form will not be recognized. *In direct sunlight the infrared sensor may not respond correctly and communication may fail. Play indoors away from direct sunlight.",
+          "bbox": [0.081, 0.8867, 0.8374, 0.0227]
+        },
+        {
+          "text": "7",
+          "translation": "7",
+          "bbox": [0.4915, 0.9825, 0.0169, 0.0103]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-7.webp",
+      "blocks": [
+        {
+          "text": "補足:スリープ状態について",
+          "translation": "Note: About Sleep Mode",
+          "bbox": [0.0677, 0.0436, 0.2884, 0.0167]
+        },
+        {
+          "text": "※電力の消耗を防ぐため、4種のメモリとロストドライバーは5分間操作を行わなかった場合スリープ状態に入ります。\n※ドライバーとメモリがスリープ状態に入った場合、電源を入れなおす、リセットスイッチを押す、あるいは下記の操作で復帰することができます。",
+          "translation": "※To prevent battery drain, the four Memories and the Lost Driver will enter Sleep mode if no operation is performed for 5 minutes.\n※If the Driver or a Memory enters Sleep mode, you can restore it by turning the power off and on again, by pressing the reset switch, or by performing one of the operations described below.",
+          "bbox": [0.0689, 0.0744, 0.8434, 0.0231]
+        },
+        {
+          "text": "ドライバーの復帰方法",
+          "translation": "How to wake the Driver",
+          "bbox": [0.419, 0.1142, 0.1614, 0.0115]
+        },
+        {
+          "text": "ドライバーを展開する",
+          "translation": "Deploy the Driver",
+          "bbox": [0.7092, 0.1586, 0.1288, 0.0103]
+        },
+        {
+          "text": "何らかの",
+          "translation": "Any",
+          "bbox": [0.1463, 0.1855, 0.0526, 0.0081]
+        },
+        {
+          "text": "メモリを装填する",
+          "translation": "Insert the Memory",
+          "bbox": [0.4722, 0.1894, 0.104, 0.0094]
+        },
+        {
+          "text": "ボタン操作を行う",
+          "translation": "Perform a button operation",
+          "bbox": [0.1215, 0.1984, 0.1028, 0.009]
+        },
+        {
+          "text": "ボタンを押す",
+          "translation": "Press the button",
+          "bbox": [0.1094, 0.4455, 0.0792, 0.0086]
+        },
+        {
+          "text": "SKULL",
+          "translation": "SKULL",
+          "bbox": [0.1644, 0.4908, 0.0593, 0.0056]
+        },
+        {
+          "text": "※ドライバーを閉じる操作では復帰しません。",
+          "translation": "※Closing the Driver will not wake it.",
+          "bbox": [0.6397, 0.3382, 0.2654, 0.0094]
+        },
+        {
+          "text": "メモリの復帰方法",
+          "translation": "How to wake the Memory",
+          "bbox": [0.4341, 0.3792, 0.1306, 0.0115]
+        },
+        {
+          "text": "メモリを装填した状態で\nドライバーを展開する",
+          "translation": "Deploy the Driver with the Memory inserted",
+          "bbox": [0.7019, 0.4121, 0.1439, 0.0222]
+        },
+        {
+          "text": "メモリを装填/引き抜く",
+          "translation": "Insert / remove the Memory",
+          "bbox": [0.4281, 0.4549, 0.1415, 0.0107]
+        },
+        {
+          "text": "※ドライバーを閉じる操作では復帰しません。",
+          "translation": "※Closing the Driver will not wake it.",
+          "bbox": [0.6391, 0.6032, 0.266, 0.0098]
+        },
+        {
+          "text": "※下記の状態の場合、メモリとドライバーの赤外通信は行われません。",
+          "translation": "※In the following cases, infrared communication between the Memory and the Driver will not occur.",
+          "bbox": [0.2461, 0.6443, 0.5079, 0.0124]
+        },
+        {
+          "text": "スリープ状態のメモリが",
+          "translation": "Memory in Sleep mode",
+          "bbox": [0.2044, 0.6759, 0.1421, 0.0098]
+        },
+        {
+          "text": "装填された状態でドライバーを展開した場合",
+          "translation": "If the Driver is deployed while the Memory is installed",
+          "bbox": [0.1433, 0.6896, 0.2624, 0.0094]
+        },
+        {
+          "text": "スリープ状態",
+          "translation": "Sleep mode",
+          "bbox": [0.101, 0.7208, 0.078, 0.0111]
+        },
+        {
+          "text": "00",
+          "translation": "00",
+          "bbox": [0.494, 0.982, 0.0115, 0.0111]
+        },
+        {
+          "text": "メモリ、ドライバーのいずれかがスリープ状態で\nドライバーを展開した場合",
+          "translation": "If you deploy the Driver while either the Memory or the Driver is in Sleep mode",
+          "bbox": [0.5859, 0.6755, 0.2787, 0.0235]
+        },
+        {
+          "text": "メモリ、ドライバーのいずれかがスリープ状態",
+          "translation": "Either the Memory or the Driver is in Sleep mode",
+          "bbox": [0.5925, 0.7217, 0.266, 0.0098]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-8.webp",
+      "blocks": [
+        {
+          "text": "変身解除 <ロストドライバー>",
+          "translation": "De-transformation <Lost Driver>",
+          "bbox": [0.2969, 0.0351, 0.4051, 0.0214]
+        },
+        {
+          "text": "<変身後状態>でメモリが装填されていない状態で",
+          "translation": "While in the <post-transformation state> with no Memory inserted,",
+          "bbox": [0.0623, 0.0795, 0.3005, 0.0094]
+        },
+        {
+          "text": "効果音ボタンを押します。",
+          "translation": "press the Sound Effect Button.",
+          "bbox": [0.0611, 0.0928, 0.159, 0.009]
+        },
+        {
+          "text": "ロストドライバーから「変身解除音」が鳴り、",
+          "translation": "The Lost Driver will emit the \"de-transformation\" sound,",
+          "bbox": [0.0768, 0.106, 0.2503, 0.0094]
+        },
+        {
+          "text": "<変身前状態>になります。",
+          "translation": "and it will return to the <pre-transformation state>.",
+          "bbox": [0.0762, 0.1193, 0.162, 0.0086]
+        },
+        {
+          "text": "※ロストドライバーは一度でも変身アクションを行うと\n<変身後状態>に移行しますが、上記の操作で\n「変身解除音」を鳴らすことでく変身前状態>に戻ります。",
+          "translation": "*Once the Lost Driver performs a transformation action even once, it will switch to the <post-transformation state>. However, performing the operation above to play the \"de-transformation\" sound will return it to the <pre-transformation state>.",
+          "bbox": [0.0707, 0.1454, 0.3458, 0.0359]
+        },
+        {
+          "text": "効果音ボタン2-",
+          "translation": "Sound Effect Button 2",
+          "bbox": [0.1826, 0.3241, 0.0834, 0.009]
+        },
+        {
+          "text": "メモリが装填されている状態での変身解除",
+          "translation": "De-transformation while a Memory is inserted",
+          "bbox": [0.295, 0.2069, 0.4093, 0.0154]
+        },
+        {
+          "text": "スカルメモリ:MOVIE大戦COREでの変身解除",
+          "translation": "Skull Memory: De-transformation in MOVIE大戦CORE",
+          "bbox": [0.1016, 0.3784, 0.3567, 0.0115]
+        },
+        {
+          "text": "スカルメモリで変身した後、",
+          "translation": "After transforming with the Skull Memory,",
+          "bbox": [0.2563, 0.407, 0.1572, 0.0094]
+        },
+        {
+          "text": "ISKULL",
+          "translation": "ISKULL",
+          "bbox": [0.1197, 0.4224, 0.0284, 0.0026]
+        },
+        {
+          "text": "「効果音ボタン」を長押しすることで\nメモリが装填されている状態で\n変身解除することができます。",
+          "translation": "while a Memory is inserted, press and hold the \"Sound Effect Button\" to perform de-transformation.",
+          "bbox": [0.2557, 0.422, 0.2189, 0.0376]
+        },
+        {
+          "text": "G",
+          "translation": "G",
+          "bbox": [0.7177, 0.0872, 0.006, 0.003]
+        },
+        {
+          "text": "・効果音ボタン1",
+          "translation": "・Sound Effect Button 1",
+          "bbox": [0.7521, 0.3236, 0.0798, 0.0077]
+        },
+        {
+          "text": "効果音ボタン1",
+          "translation": "Sound Effect Button 1",
+          "bbox": [0.8543, 0.1321, 0.0762, 0.0077]
+        },
+        {
+          "text": "エターナルメモリ:メモリ破損による変身解除",
+          "translation": "Eternal Memory: De-transformation due to Memory damage",
+          "bbox": [0.552, 0.3784, 0.3349, 0.012]
+        },
+        {
+          "text": "エターナルメモリで変身した後、\n「効果音ボタン」を長押しすることで\nメモリが装填されている状態で\n変身解除することができます。",
+          "translation": "After transforming with the Eternal Memory, press and hold the \"Sound Effect Button\" to de-transform while the Memory remains inserted.",
+          "bbox": [0.6971, 0.4079, 0.217, 0.0522]
+        },
+        {
+          "text": "エターナルメモリ(T2): AtoZでの変身解除",
+          "translation": "Eternal Memory (T2): De-transformation in AtoZ",
+          "bbox": [0.1155, 0.4947, 0.3301, 0.0115]
+        },
+        {
+          "text": "エターナルメモリ (T2) で変身した後、\n「効果音ボタン」を長押しすることで\nメモリが装填されている状態で\n変身解除することができます。",
+          "translation": "After transforming with the Eternal Memory (T2), press and hold the \"Sound Effect Button\" to de-transform while the Memory remains inserted.",
+          "bbox": [0.2557, 0.5242, 0.2189, 0.0522]
+        },
+        {
+          "text": "エターナルメモリ : メモリ不調音",
+          "translation": "Eternal Memory: Memory malfunction sound",
+          "bbox": [0.6016, 0.4947, 0.2352, 0.0115]
+        },
+        {
+          "text": "エターナルメモリで変身した後、\n「効果音ボタン2」を長押しすることで\n「エターナルメモリ不調音」が鳴り、\nメモリが装填されている状態で\n変身解除することができます。",
+          "translation": "After transforming with the Eternal Memory, press and hold \"Sound Effect Button 2\" to play the \"Eternal Memory malfunction\" sound, allowing de-transformation while the Memory is inserted.",
+          "bbox": [0.6995, 0.5199, 0.2177, 0.0658]
+        },
+        {
+          "text": "変身解除<ガイアメモリ>",
+          "translation": "De-transformation <Gaia Memory>",
+          "bbox": [0.3235, 0.6503, 0.3513, 0.0227]
+        },
+        {
+          "text": "<変身後>状態で、閉じているドライバーからメモリを引き抜いた後、",
+          "translation": "While in the <post-transformation state>, after pulling the Memory out of the closed Driver,",
+          "bbox": [0.526, 0.6973, 0.3966, 0.0094]
+        },
+        {
+          "text": "2秒以内にボタンを押します。\nメモリから「変身解除音」が鳴ります。\n(変身解除音はメモリごとに異なります。)",
+          "translation": "press the button within 2 seconds. The Memory will play the \"de-transformation\" sound. (The de-transformation sound differs for each Memory.)",
+          "bbox": [0.526, 0.7106, 0.2539, 0.0359]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.4903, 0.982, 0.0163, 0.0111]
+        },
+        {
+          "text": "SKULL",
+          "translation": "SKULL",
+          "bbox": [0.6409, 0.7773, 0.0659, 0.0051]
+        },
+        {
+          "text": "S",
+          "translation": "S",
+          "bbox": [0.7346, 0.7892, 0.0496, 0.0372]
+        },
+        {
+          "text": "ボタン",
+          "translation": "Button",
+          "bbox": [0.6052, 0.8534, 0.0345, 0.0077]
+        },
+        {
+          "text": "※メモリ側から「変身解除音」を鳴らしても\nドライバー側はく変身後状態>のままです。\nドライバー側をく変身前状態>にするには、\nドライバー側で「変身解除」を行ってください。",
+          "translation": "*Even if the Memory side plays the \"de-transformation\" sound, the Driver side will remain in the <post-transformation state>. To return the Driver side to the <pre-transformation state>, perform the de-transformation operation on the Driver itself.",
+          "bbox": [0.5883, 0.8769, 0.2781, 0.0487]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-9.webp",
+      "blocks": [
+        {
+          "text": "必殺技遊び",
+          "translation": "Finisher Play",
+          "bbox": [0.4214, 0.0359, 0.1536, 0.0197]
+        },
+        {
+          "text": "1 ① <変身後状態>で展開状態のドライバーからメモリを引き抜きます。\n→「引き抜き音」が鳴り、「必殺技選択状態」になります。\n②必殺技選択状態のメモリのボタンを押さない、もしくは1回短押しします。\n押した回数に応じて、下記表の「必殺技音」が選択されます。\n(1回短押しすると、端子のLEDが発光します。)",
+          "translation": "1 ① In <Transformed State>, pull a Memory out of the deployed Driver.\n→ A \"pull-out\" sound will play and the device will enter the \"Finisher Selection State.\"\n② While in the Finisher Selection State, either leave the Memory's button unpressed, or press it briefly once.\nThe finisher sound shown in the table below will be selected according to the number of brief presses.\n(If you press it briefly once, the memory's terminal LED will light.)",
+          "bbox": [0.058, 0.077, 0.4547, 0.0616]
+        },
+        {
+          "text": "※2回短押しした場合は「各メモリ名」が鳴り、 必殺技選択状態が解除されます。\n※一度必殺技を選択したメモリは、スリープ状態になるまで選択した\n必殺技の状態を保持します。 新たに必殺技を選択したい場合は、上記の1の\n動作から再度行ってください。",
+          "translation": "※If you press the button briefly twice, the Memory's name will play and the Finisher Selection State will be canceled.\n※A Memory that has had a finisher selected will retain the selected finisher until it enters sleep mode. If you want to select a different finisher, perform the operation in step 1 above again.",
+          "bbox": [0.0895, 0.1505, 0.4353, 0.0492]
+        },
+        {
+          "text": "2 ①メモリをマキシマムスロットに装填します。\n「必殺技待機音」が鳴ります。\n②必殺技待機音が鳴っている間に\nマキシマムスロットのボタンを押します。\n1の②で選択した「必殺技音」が鳴ります。",
+          "translation": "2 ① Insert the Memory into the Maximum Slot.\nThe \"Finisher standby\" sound will play.\n② While the Finisher standby sound is playing, press the button on the Maximum Slot.\nThe finisher sound selected in step 1② will play.",
+          "bbox": [0.5732, 0.0778, 0.2956, 0.0667]
+        },
+        {
+          "text": "※ジョーカーメモリ (CSMダブルドライバーver.2付属)は、一度必殺技を",
+          "translation": "※The Joker Memory (included with the CSM Double Driver ver.2) —",
+          "bbox": [0.0895, 0.2035, 0.4033, 0.009]
+        },
+        {
+          "text": "発動し新たに必殺技を選択したい場合、変身の動作から再度行ってください。",
+          "translation": "If you want to activate a finisher and then select a new finisher, perform the transformation action again from the start.",
+          "bbox": [0.101, 0.2168, 0.4202, 0.0094]
+        },
+        {
+          "text": "S",
+          "translation": "S",
+          "bbox": [0.1155, 0.2783, 0.0357, 0.0239]
+        },
+        {
+          "text": "10x5",
+          "translation": "10x5",
+          "bbox": [0.1421, 0.3108, 0.0163, 0.0111]
+        },
+        {
+          "text": "ボタン",
+          "translation": "Button",
+          "bbox": [0.3972, 0.2745, 0.0339, 0.0081]
+        },
+        {
+          "text": "LED",
+          "translation": "LED",
+          "bbox": [0.4075, 0.3279, 0.0236, 0.0056]
+        },
+        {
+          "text": "S",
+          "translation": "S",
+          "bbox": [0.6058, 0.2274, 0.0193, 0.0137]
+        },
+        {
+          "text": "ボタン",
+          "translation": "Button",
+          "bbox": [0.5846, 0.4121, 0.0339, 0.0077]
+        },
+        {
+          "text": "※破損の原因になるため、",
+          "translation": "※To avoid damage,",
+          "bbox": [0.6687, 0.2215, 0.1536, 0.0094]
+        },
+        {
+          "text": "図の方向以外で装填しないでください。",
+          "translation": "Do not load in any direction other than shown in the illustration.",
+          "bbox": [0.682, 0.2347, 0.231, 0.0094]
+        },
+        {
+          "text": "マキシマムスロット",
+          "translation": "Maximum Slot",
+          "bbox": [0.6904, 0.2826, 0.0979, 0.0077]
+        },
+        {
+          "text": "SKULL",
+          "translation": "SKULL",
+          "bbox": [0.3446, 0.4746, 0.023, 0.003]
+        },
+        {
+          "text": "スカルメモリ",
+          "translation": "Skull Memory",
+          "bbox": [0.0635, 0.4793, 0.0865, 0.009]
+        },
+        {
+          "text": "ジョーカーメモリ(T2)",
+          "translation": "Joker Memory (T2)",
+          "bbox": [0.5206, 0.4784, 0.1518, 0.0103]
+        },
+        {
+          "text": "短押し回数",
+          "translation": "Number of short presses",
+          "bbox": [0.0756, 0.5126, 0.0659, 0.009]
+        },
+        {
+          "text": "必殺技音",
+          "translation": "Finisher sound",
+          "bbox": [0.2999, 0.513, 0.0532, 0.0081]
+        },
+        {
+          "text": "短押し回数",
+          "translation": "Number of short presses",
+          "bbox": [0.5296, 0.5122, 0.0659, 0.0098]
+        },
+        {
+          "text": "必殺技音",
+          "translation": "Finisher sound",
+          "bbox": [0.7539, 0.5126, 0.0538, 0.0086]
+        },
+        {
+          "text": "0回",
+          "translation": "0 times",
+          "bbox": [0.0985, 0.5348, 0.0212, 0.0073]
+        },
+        {
+          "text": "キック必殺技音★",
+          "translation": "Kick finisher sound ★",
+          "bbox": [0.1778, 0.5348, 0.0943, 0.0077]
+        },
+        {
+          "text": "ライダーキック★",
+          "translation": "Rider Kick ★",
+          "bbox": [0.6276, 0.5314, 0.0895, 0.009]
+        },
+        {
+          "text": "0回",
+          "translation": "0 times",
+          "bbox": [0.5526, 0.5387, 0.0212, 0.0073]
+        },
+        {
+          "text": "1回",
+          "translation": "1 time",
+          "bbox": [0.1004, 0.5541, 0.0193, 0.0077]
+        },
+        {
+          "text": "銃撃必殺技音",
+          "translation": "Gun finisher sound",
+          "bbox": [0.1771, 0.5541, 0.0701, 0.0077]
+        },
+        {
+          "text": "装填時に待機音が鳴らず、 ボタンを押してから必殺技音が鳴ります。\nライダーパンチ ★",
+          "translation": "No standby sound on loading; the finisher sound plays after pressing the button.\nRider Punch ★",
+          "bbox": [0.6264, 0.5442, 0.2944, 0.0222]
+        },
+        {
+          "text": "1回",
+          "translation": "1 time",
+          "bbox": [0.5544, 0.5643, 0.0181, 0.0077]
+        },
+        {
+          "text": "2回",
+          "translation": "2 times",
+          "bbox": [0.0985, 0.5737, 0.0212, 0.0068]
+        },
+        {
+          "text": "必殺技選択状態の解除",
+          "translation": "Cancel Finisher Selection State",
+          "bbox": [0.1771, 0.572, 0.1173, 0.0094]
+        },
+        {
+          "text": "2回",
+          "translation": "2 times",
+          "bbox": [0.5526, 0.587, 0.0218, 0.0073]
+        },
+        {
+          "text": "装填時に待機音が鳴らず、 ボタンを押してから必殺技音が鳴ります。\n必殺技選択状態の解除",
+          "translation": "No standby sound on loading; the finisher sound plays after pressing the button.\nCancel Finisher Selection State",
+          "bbox": [0.6264, 0.5708, 0.2944, 0.0239]
+        },
+        {
+          "text": "※別売りのCSMダブルドライバーver.2でサイクロンスカルに変身後、\n必殺技遊びを行うと、「サイクロンスカルキック必殺技音」が鳴ります。",
+          "translation": "※If you transform into Cyclone Skull using the separately sold CSM Double Driver ver.2 and then perform finisher play, the \"Cyclone Skull Kick\" finisher sound will play.",
+          "bbox": [0.0641, 0.596, 0.3676, 0.0192]
+        },
+        {
+          "text": "マキシマムスロットに装填したまま、マキシマムスロットのボタンを押すと\n「ライダーキック」と「ライダーパンチ」が繰り返し交互に鳴ります。",
+          "translation": "If a Memory remains loaded in the Maximum Slot and you press the Maximum Slot button, \"Rider Kick\" and \"Rider Punch\" will play alternately and repeat.",
+          "bbox": [0.5296, 0.6097, 0.3767, 0.0188]
+        },
+        {
+          "text": "エターナルメモリ(T2)",
+          "translation": "Eternal Memory (T2)",
+          "bbox": [0.0641, 0.6571, 0.156, 0.0098]
+        },
+        {
+          "text": "エターナルメモリ",
+          "translation": "Eternal Memory",
+          "bbox": [0.5212, 0.6571, 0.1155, 0.0098]
+        },
+        {
+          "text": "短押し回数",
+          "translation": "Number of short presses",
+          "bbox": [0.0756, 0.6883, 0.0659, 0.0098]
+        },
+        {
+          "text": "必殺技音",
+          "translation": "Finisher sound",
+          "bbox": [0.2999, 0.6892, 0.0532, 0.0094]
+        },
+        {
+          "text": "短押し回数",
+          "translation": "Number of short presses",
+          "bbox": [0.5302, 0.6888, 0.0659, 0.0107]
+        },
+        {
+          "text": "必殺技音",
+          "translation": "Finisher sound",
+          "bbox": [0.7539, 0.6892, 0.0532, 0.009]
+        },
+        {
+          "text": "エターナルレクイエム★",
+          "translation": "Eternal Requiem ★",
+          "bbox": [0.1729, 0.7093, 0.1288, 0.0081]
+        },
+        {
+          "text": "エターナルレクイエム",
+          "translation": "Eternal Requiem",
+          "bbox": [0.6276, 0.7093, 0.1143, 0.0077]
+        },
+        {
+          "text": "0回",
+          "translation": "0 times",
+          "bbox": [0.0985, 0.7157, 0.0212, 0.0073]
+        },
+        {
+          "text": "0回",
+          "translation": "0 times",
+          "bbox": [0.5532, 0.7157, 0.02, 0.0073]
+        },
+        {
+          "text": "装填時に待機音が鳴らず、ボタンを押してから必殺技音が鳴ります。\nネバーエンディングヘル ★",
+          "translation": "No standby sound on loading; press the button to play the finisher sound.\nNever-Ending Hell ★",
+          "bbox": [0.1723, 0.7212, 0.2938, 0.0231]
+        },
+        {
+          "text": "装填時に待機音が鳴らず、 ボタンを押してから必殺技音が鳴ります。\nキック必殺技音★",
+          "translation": "No standby sound on loading; press the button to play the finisher sound.\nKick finisher sound ★",
+          "bbox": [0.627, 0.7208, 0.2938, 0.0239]
+        },
+        {
+          "text": "1回",
+          "translation": "1 time",
+          "bbox": [0.1004, 0.7413, 0.02, 0.0077]
+        },
+        {
+          "text": "装填した後、操作をしなくても必殺技音が一連で鳴ります。",
+          "translation": "After loading, the finisher sound sequence will play automatically without further operation.",
+          "bbox": [0.1723, 0.7478, 0.2539, 0.0073]
+        },
+        {
+          "text": "1回",
+          "translation": "1 time",
+          "bbox": [0.5544, 0.7473, 0.02, 0.0077]
+        },
+        {
+          "text": "装填時に待機音が鳴らず、 ボタンを押してから必殺技音(前半)が\n鳴ります。再度押すと必殺技音(後半)が鳴ります。",
+          "translation": "No standby sound on loading; pressing the button plays the first part of the finisher sound. Press again to play the second part.",
+          "bbox": [0.627, 0.7482, 0.2817, 0.0171]
+        },
+        {
+          "text": "2回",
+          "translation": "2 times",
+          "bbox": [0.0992, 0.7644, 0.0206, 0.0068]
+        },
+        {
+          "text": "必殺技選択状態の解除",
+          "translation": "Cancel Finisher Selection State",
+          "bbox": [0.1723, 0.764, 0.1167, 0.0077]
+        },
+        {
+          "text": "2回",
+          "translation": "2 times",
+          "bbox": [0.5526, 0.7764, 0.0218, 0.0064]
+        },
+        {
+          "text": "必殺技選択状態の解除",
+          "translation": "Cancel Finisher Selection State",
+          "bbox": [0.627, 0.7755, 0.1173, 0.0081]
+        },
+        {
+          "text": "ジョーカーメモリ\n(CSMダブルドライバーver.2 付属)",
+          "translation": "Joker Memory\n(Included with CSM Double Driver ver.2)",
+          "bbox": [0.0641, 0.8089, 0.185, 0.0231]
+        },
+        {
+          "text": "短押し回数",
+          "translation": "Number of short presses",
+          "bbox": [0.0756, 0.8478, 0.0665, 0.009]
+        },
+        {
+          "text": "必殺技音",
+          "translation": "Finisher sound",
+          "bbox": [0.2999, 0.8478, 0.0532, 0.0086]
+        },
+        {
+          "text": "ライダーパンチ★",
+          "translation": "Rider Punch ★",
+          "bbox": [0.1735, 0.867, 0.0937, 0.0094]
+        },
+        {
+          "text": "0回",
+          "translation": "0 times",
+          "bbox": [0.0985, 0.8743, 0.0212, 0.0068]
+        },
+        {
+          "text": "装填時に待機音が鳴らず、ボタンを押してから必殺技音が鳴ります。\nライダーキック★",
+          "translation": "No standby sound on loading; the finisher sound plays after pressing the button.\nRider Kick ★",
+          "bbox": [0.1729, 0.8786, 0.2938, 0.0252]
+        },
+        {
+          "text": "1回",
+          "translation": "1 time",
+          "bbox": [0.1004, 0.8995, 0.0206, 0.0077]
+        },
+        {
+          "text": "装填時に待機音が鳴らず、ボタンを押してから必殺技音が鳴ります。",
+          "translation": "No standby sound on loading; the finisher sound plays after pressing the button.",
+          "bbox": [0.1723, 0.9059, 0.2944, 0.0068]
+        },
+        {
+          "text": "2回",
+          "translation": "2 times",
+          "bbox": [0.0985, 0.9222, 0.0218, 0.0077]
+        },
+        {
+          "text": "必殺技選択状態の解除",
+          "translation": "Cancel Finisher Selection State",
+          "bbox": [0.1723, 0.9218, 0.1179, 0.0081]
+        },
+        {
+          "text": "10",
+          "translation": "10",
+          "bbox": [0.4867, 0.9816, 0.0296, 0.0111]
+        },
+        {
+          "text": "※各メモリが「台詞モード」の場合、\n★の記載がある必殺技音は台詞が付加されます。",
+          "translation": "※When a Memory is set to \"Dialogue Mode,\" finisher sounds marked with ★ will include spoken lines.",
+          "bbox": [0.5478, 0.8645, 0.3748, 0.0286]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-10.webp",
+      "blocks": [
+        {
+          "text": "<変身前状態>台詞ボタン(短押し)",
+          "translation": "<Pre-transformation state> Dialogue Button (press briefly)",
+          "bbox": [0.0659, 0.0808, 0.3144, 0.0145]
+        },
+        {
+          "text": "<変身前状態>で台詞ボタンを短押しします。",
+          "translation": "In the <Pre-transformation state>, press the dialogue button briefly.",
+          "bbox": [0.0659, 0.112, 0.2642, 0.0086]
+        },
+        {
+          "text": "各モードに応じて、下記表の「変身前台詞」が鳴ります。",
+          "translation": "Depending on the mode, the \"Pre-transformation Lines\" shown in the table below will play.",
+          "bbox": [0.0786, 0.1244, 0.315, 0.0098]
+        },
+        {
+          "text": "台詞ボタン遊び",
+          "translation": "Dialogue Button Play",
+          "bbox": [0.3948, 0.0346, 0.208, 0.0218]
+        },
+        {
+          "text": "2:左翔太郎モード",
+          "translation": "2: Shotaro Hidari Mode",
+          "bbox": [0.4389, 0.2172, 0.1227, 0.0098]
+        },
+        {
+          "text": "台詞",
+          "translation": "Lines",
+          "bbox": [0.7128, 0.1035, 0.0242, 0.0081]
+        },
+        {
+          "text": "ボタン",
+          "translation": "Button",
+          "bbox": [0.708, 0.1129, 0.0333, 0.0081]
+        },
+        {
+          "text": "台詞",
+          "translation": "Lines",
+          "bbox": [0.4873, 0.2398, 0.0248, 0.0077]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.0719, 0.2569, 0.0048, 0.0051]
+        },
+        {
+          "text": "スカル・・おやっさん? なんだよ、俺にどうしろって・・・。",
+          "translation": "Skull... Boss? What is it—what do you want me to do...?",
+          "bbox": [0.1016, 0.2574, 0.2116, 0.0064]
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.5097, 0.2569, 0.0079, 0.0051]
+        },
+        {
+          "text": "行くぜ、フィリップ･･･。 いけね、 またクセが。",
+          "translation": "Here we go, Philip... Oh no, there's that habit again.",
+          "bbox": [0.5423, 0.2561, 0.1693, 0.0077]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.0707, 0.2728, 0.0079, 0.006]
+        },
+        {
+          "text": "おい待ってくれよ、おやっさん、おやっさん!･･･これは……。",
+          "translation": "Hey, wait! Oyassan, Oyassan!... What is this...?",
+          "bbox": [0.1022, 0.2732, 0.2195, 0.0068]
+        },
+        {
+          "text": "7",
+          "translation": "7",
+          "bbox": [0.5097, 0.2728, 0.0085, 0.006]
+        },
+        {
+          "text": "いくぜ・・・。",
+          "translation": "Here we go...",
+          "bbox": [0.5423, 0.2732, 0.0399, 0.0064]
+        },
+        {
+          "text": "まさか･･･ここに･･･ここに来てたのか･･･。 なんて運命だ。",
+          "translation": "No way... you were here... you actually came here... What a fate.",
+          "bbox": [0.1016, 0.289, 0.2243, 0.006]
+        },
+        {
+          "text": "8",
+          "translation": "8",
+          "bbox": [0.5097, 0.2886, 0.0079, 0.0056]
+        },
+        {
+          "text": "一体何を企んでやがる財団X。",
+          "translation": "What on earth is Foundation X scheming?",
+          "bbox": [0.5423, 0.289, 0.1209, 0.0064]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.0707, 0.2967, 0.0079, 0.0051]
+        },
+        {
+          "text": "最後の1つが、こいつだったなんて・・・。",
+          "translation": "I can't believe the last one was this...",
+          "bbox": [0.101, 0.3048, 0.1524, 0.006]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.5091, 0.3044, 0.0085, 0.006]
+        },
+        {
+          "text": "男の目元の冷たさと優しさを隠すのが、この帽子の役目ってね。",
+          "translation": "This hat's role is to hide the coldness and the kindness in a man's eyes.",
+          "bbox": [0.5417, 0.3048, 0.2533, 0.006]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.0701, 0.3202, 0.0085, 0.0056]
+        },
+        {
+          "text": "どうやら切り札は、常に俺んとこに来るようだぜ。",
+          "translation": "It seems the trump card always finds its way to me.",
+          "bbox": [0.1022, 0.3202, 0.1911, 0.0064]
+        },
+        {
+          "text": "10",
+          "translation": "10",
+          "bbox": [0.5073, 0.3202, 0.0145, 0.0056]
+        },
+        {
+          "text": "おっと、相手はこの俺だ。",
+          "translation": "Whoa — your opponent is me.",
+          "bbox": [0.5423, 0.3206, 0.0973, 0.006]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.0707, 0.3356, 0.0085, 0.006]
+        },
+        {
+          "text": "じゃ行くかあ。･･････死ぬなよ。 照井。",
+          "translation": "All right, let's go... Don't die on me, Terui.",
+          "bbox": [0.1022, 0.336, 0.1409, 0.0064]
+        },
+        {
+          "text": "11",
+          "translation": "11",
+          "bbox": [0.5073, 0.3356, 0.0133, 0.0056]
+        },
+        {
+          "text": "黒のライダーか。 アンタらとは何か近いものを感じるぜ。",
+          "translation": "A Rider in black, huh. I feel there's something close between us.",
+          "bbox": [0.5417, 0.336, 0.2279, 0.0064]
+        },
+        {
+          "text": "1:大道克己モード",
+          "translation": "1: Katsumi Daido Mode",
+          "bbox": [0.4414, 0.3604, 0.1215, 0.0103]
+        },
+        {
+          "text": "台詞",
+          "translation": "Lines",
+          "bbox": [0.4873, 0.3826, 0.0248, 0.009]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.0713, 0.4002, 0.0048, 0.0051]
+        },
+        {
+          "text": "踊るぞ。 死神のパーティタイムだ。",
+          "translation": "Let's dance. It's the Grim Reaper's party time.",
+          "bbox": [0.1016, 0.401, 0.1372, 0.006]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.0701, 0.416, 0.0085, 0.006]
+        },
+        {
+          "text": "死人の、NEVERの力をいま味合わせてやる",
+          "translation": "I'll make you taste the power of the dead—the power of NEVER—right now.",
+          "bbox": [0.101, 0.4164, 0.1759, 0.0064]
+        },
+        {
+          "text": "8",
+          "translation": "8",
+          "bbox": [0.5097, 0.4168, 0.0073, 0.0056]
+        },
+        {
+          "text": "34",
+          "translation": "34",
+          "bbox": [0.0689, 0.431, 0.0091, 0.0222]
+        },
+        {
+          "text": "違う。 俺は、仮面ライダーだ。",
+          "translation": "No. I am Kamen Rider.",
+          "bbox": [0.101, 0.4322, 0.1155, 0.0064]
+        },
+        {
+          "text": "生きているんだろう! お前達はまだ。 過去が消えていくなら、俺はせめて明日が欲しい。\nだからあがき続けてるんだよ。 なあ。 死人の俺の方が懸命に明日を求めてるってのは、\n一体どういうわけなんだ。",
+          "translation": "You're still alive, aren't you? You still are. If the past is fading away, then at least I want a tomorrow.\nThat's why I keep struggling. Tell me—how is it that I, a dead man, am the one desperately seeking a tomorrow?",
+          "bbox": [0.5423, 0.4002, 0.347, 0.0393]
+        },
+        {
+          "text": "踊れ踊れ! 死神のパーティタイムだ。",
+          "translation": "Dance, dance! It's the Grim Reaper's party time.",
+          "bbox": [0.1016, 0.4481, 0.1457, 0.0068]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.5091, 0.4481, 0.0085, 0.006]
+        },
+        {
+          "text": "お前は忘れるな。 何もかも。 助けて欲しいというお前の気持ち、最初から感じてた。",
+          "translation": "Don't forget—anything. I sensed your wish to be saved from the very beginning.",
+          "bbox": [0.5429, 0.4481, 0.3301, 0.0068]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.0707, 0.4797, 0.0073, 0.0056]
+        },
+        {
+          "text": "都の諸君、朗報だ。 これから街に光が降り注ぎ、諸君らは、死ぬ。 だが安心しろ。\nそれは始まりでもある。 エクスビッカーの光が諸君の肉体を変質させ、俺達と同じ、\n不死身の怪物へと変えてくれるだろう。さあ市民諸君、地獄を楽しみな",
+          "translation": "Citizens of the capital, good news. Light will soon rain down on the city, and you will die. But rest assured—this is also a beginning. The light of Exvicker will alter your flesh and turn you into immortal monsters like us. Now then, citizens—enjoy hell.",
+          "bbox": [0.1016, 0.4639, 0.3301, 0.0381]
+        },
+        {
+          "text": "10",
+          "translation": "10",
+          "bbox": [0.5073, 0.4639, 0.0145, 0.0056]
+        },
+        {
+          "text": "フハハハ。これだよ。 殺されそうな瞬間。 この時だけ、生きてるって錯覚ができるぜ。",
+          "translation": "Hahahaha. This is it—the moment you're about to be killed. Only then can I delude myself into feeling alive.",
+          "bbox": [0.5429, 0.4639, 0.364, 0.0064]
+        },
+        {
+          "text": "無茶言うなよ･･･ これ以上死ねるか。 俺は不死身だ。",
+          "translation": "Don't be ridiculous... Could I possibly die any further? I'm immortal.",
+          "bbox": [0.5423, 0.4797, 0.2019, 0.006]
+        },
+        {
+          "text": "11",
+          "translation": "11",
+          "bbox": [0.5073, 0.487, 0.0133, 0.0056]
+        },
+        {
+          "text": "この世に自分の存在を刻みつけるその日まで。 永遠に。",
+          "translation": "Until the day I carve my existence into this world. Forever.",
+          "bbox": [0.5429, 0.4955, 0.2201, 0.0064]
+        },
+        {
+          "text": "ハッハッハッハッハッハッハッハ。 いい気分だ!",
+          "translation": "Hahahahaha. Feels good!",
+          "bbox": [0.1016, 0.5109, 0.1814, 0.0064]
+        },
+        {
+          "text": "12",
+          "translation": "12",
+          "bbox": [0.5067, 0.5113, 0.0139, 0.0047]
+        },
+        {
+          "text": "永遠。 エターナル。",
+          "translation": "Eternity. Eternal.",
+          "bbox": [0.5423, 0.5109, 0.0768, 0.0064]
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.0707, 0.5195, 0.0079, 0.0056]
+        },
+        {
+          "text": "もう実験台のバケモノは、俺だけじゃない! みんな俺と同じ、生ける死者になれ!",
+          "translation": "I'm not the only monster being experimented on anymore! Everyone, become living dead like me!",
+          "bbox": [0.1016, 0.5271, 0.3144, 0.006]
+        },
+        {
+          "text": "負けたよドクター。 よくこんな残酷な仕打ちを考えつくよ。",
+          "translation": "You win, Doctor. You've come up with some cruel treatment.",
+          "bbox": [0.5417, 0.5271, 0.234, 0.0064]
+        },
+        {
+          "text": "13",
+          "translation": "13",
+          "bbox": [0.5079, 0.5344, 0.0145, 0.0056]
+        },
+        {
+          "text": "理由は分からんが、この曲を聞くと俺は妙に落ち着くんでね。 アンタらにも聞かせてやったのさ。",
+          "translation": "I don't know why, but this song calms me somehow. I let you guys hear it too.",
+          "bbox": [0.1016, 0.543, 0.3712, 0.0064]
+        },
+        {
+          "text": "俺としたことが、一瞬忘れちまってたぜ。 人はみな、悪魔だという事を。",
+          "translation": "For a moment there I—of all people—forgot. That all people are devils.",
+          "bbox": [0.5417, 0.5425, 0.2805, 0.0064]
+        },
+        {
+          "text": "7",
+          "translation": "7",
+          "bbox": [0.0701, 0.5579, 0.0091, 0.006]
+        },
+        {
+          "text": "NEVERになると過去の記憶や人間らしい感情が少しずつ抜け落ちていくらしい。所詮死人\nだからな。 俺にはこれがどんな曲なのかもう全く分からん。 ただ体が覚えているだけだ。",
+          "translation": "They say when you become a NEVER, memories of the past and human emotions gradually fall away. After all, we're the dead. I have no idea anymore what kind of song this is. My body just remembers it.",
+          "bbox": [0.1016, 0.5584, 0.3652, 0.0222]
+        },
+        {
+          "text": "14",
+          "translation": "14",
+          "bbox": [0.5073, 0.5584, 0.0151, 0.0051]
+        },
+        {
+          "text": "所詮は試作品か、またいつか会おう、エターナル。",
+          "translation": "So it was only a prototype after all. We'll meet again someday, Eternal.",
+          "bbox": [0.5423, 0.5584, 0.1953, 0.0068]
+        },
+        {
+          "text": "15",
+          "translation": "15",
+          "bbox": [0.5073, 0.5742, 0.0139, 0.0056]
+        },
+        {
+          "text": "みんな、俺達のゴールは決まったぞ。 風都だ。",
+          "translation": "Everyone, our goal is decided. It's Fuuto.",
+          "bbox": [0.5429, 0.5737, 0.179, 0.0068]
+        },
+        {
+          "text": "0: 鳴海荘吉モード",
+          "translation": "0: Sokichi Narumi Mode",
+          "bbox": [0.4383, 0.5981, 0.1239, 0.0107]
+        },
+        {
+          "text": "台詞",
+          "translation": "Lines",
+          "bbox": [0.4873, 0.6212, 0.0236, 0.0081]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.0719, 0.6383, 0.0042, 0.0051]
+        },
+        {
+          "text": "俺の依頼人に手を出すな。",
+          "translation": "Don't lay a hand on my client.",
+          "bbox": [0.1016, 0.6392, 0.1058, 0.006]
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.5103, 0.6383, 0.0079, 0.0056]
+        },
+        {
+          "text": "眠れ。 相棒。",
+          "translation": "Sleep, partner.",
+          "bbox": [0.5423, 0.6375, 0.049, 0.0077]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.0701, 0.6546, 0.0085, 0.0051]
+        },
+        {
+          "text": "マツ・・・お前は、超えてはならない一線を越えた。",
+          "translation": "Matsu... you've crossed a line that must never be crossed.",
+          "bbox": [0.1016, 0.6546, 0.1898, 0.006]
+        },
+        {
+          "text": "7",
+          "translation": "7",
+          "bbox": [0.5091, 0.6537, 0.0091, 0.006]
+        },
+        {
+          "text": "いつも言ってるよな翔太郎。 半熟のお前に帽子はまだ早い。",
+          "translation": "I'm always telling you, Shotaro: it's too soon for a half-baked guy like you to wear a hat.",
+          "bbox": [0.5429, 0.6546, 0.2382, 0.0064]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.0707, 0.6699, 0.0079, 0.0056]
+        },
+        {
+          "text": "どけ。 用済みはお前だ。",
+          "translation": "Get out of the way. You're the one who's done for.",
+          "bbox": [0.1016, 0.6704, 0.0937, 0.006]
+        },
+        {
+          "text": "8",
+          "translation": "8",
+          "bbox": [0.5097, 0.6699, 0.0079, 0.0056]
+        },
+        {
+          "text": "男の目元の冷たさと、優しさを隠すのがコイツの役目だ。",
+          "translation": "This thing's job is to hide the coldness and the kindness in a man's eyes.",
+          "bbox": [0.5417, 0.6704, 0.2255, 0.0064]
+        },
+        {
+          "text": "ひとつ。 俺はいつもそばにいる仲間の心の闇を知らなかった。",
+          "translation": "First: I didn't know the darkness in the heart of the comrade who was always by my side.",
+          "bbox": [0.1016, 0.6862, 0.2467, 0.0064]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.5091, 0.6853, 0.0091, 0.006]
+        },
+        {
+          "text": "撃っていいのは撃たれる覚悟があるヤツだけだぜ。 レディ。",
+          "translation": "Only those prepared to be shot have the right to shoot. Lady.",
+          "bbox": [0.5423, 0.6858, 0.2358, 0.0073]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.0701, 0.6943, 0.0091, 0.0056]
+        },
+        {
+          "text": "ふたつ。戦う決断が一瞬った。 みっつ。 そのせいで街を泣かせた。",
+          "translation": "Two: I hesitated for a moment in deciding to fight. Three: Because of that, the city was made to weep.",
+          "bbox": [0.1016, 0.7016, 0.2715, 0.0064]
+        },
+        {
+          "text": "10",
+          "translation": "10",
+          "bbox": [0.5073, 0.7016, 0.0139, 0.0056]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.0707, 0.7174, 0.0085, 0.006]
+        },
+        {
+          "text": "俺は自分の罪を数えたぜ。 マツ。 さあ、お前の罪を数えろ。",
+          "translation": "I've counted my own sins, Matsu. Now count yours.",
+          "bbox": [0.1016, 0.7174, 0.2328, 0.0068]
+        },
+        {
+          "text": "11",
+          "translation": "11",
+          "bbox": [0.5073, 0.7174, 0.0127, 0.0056]
+        },
+        {
+          "text": "ガイアメモリを仕事に使わないのが俺のポリシーだったんだが、やむを得ん。\n似合う男になれ。",
+          "translation": "It was my policy not to use Gaia Memories for work, but I have no choice. Become a man they suit.",
+          "bbox": [0.5423, 0.7007, 0.3047, 0.0239]
+        },
+        {
+          "text": "<変身前状態>台詞ボタン(長押し)",
+          "translation": "<Pre-transformation state> Dialogue Button (press and hold)",
+          "bbox": [0.0647, 0.7529, 0.3162, 0.0145]
+        },
+        {
+          "text": "<変身前状態>で台詞ボタンを長押しします。\n各モードに応じて、下記表の「変身前台詞」が鳴ります。",
+          "translation": "In the <Pre-transformation state>, press and hold the dialogue button.\nDepending on the mode, the \"Pre-transformation Lines\" shown in the table below will play.",
+          "bbox": [0.0659, 0.7841, 0.3277, 0.0222]
+        },
+        {
+          "text": "2:左翔太郎モード",
+          "translation": "2: Shotaro Hidari Mode",
+          "bbox": [0.1385, 0.8247, 0.1227, 0.0107]
+        },
+        {
+          "text": "1 :大道克己モード",
+          "translation": "1: Katsumi Daido Mode",
+          "bbox": [0.4414, 0.8251, 0.1209, 0.0103]
+        },
+        {
+          "text": "台詞",
+          "translation": "Lines",
+          "bbox": [0.1868, 0.8478, 0.0236, 0.0077]
+        },
+        {
+          "text": "台詞",
+          "translation": "Lines",
+          "bbox": [0.4879, 0.8478, 0.0242, 0.0073]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.0719, 0.8645, 0.0042, 0.0056]
+        },
+        {
+          "text": "どうやら切り札は、常に俺んとこに来るようだぜ。",
+          "translation": "It seems the trump card always finds its way to me.",
+          "bbox": [0.1022, 0.8653, 0.1923, 0.0064]
+        },
+        {
+          "text": "1 違う。 俺は、仮面ライダーだ。",
+          "translation": "1 No. I am Kamen Rider.",
+          "bbox": [0.373, 0.864, 0.1439, 0.0077]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.0701, 0.8807, 0.0079, 0.0056]
+        },
+        {
+          "text": "いくぜ・・・。",
+          "translation": "Let's go...",
+          "bbox": [0.1016, 0.8803, 0.0393, 0.0068]
+        },
+        {
+          "text": "11",
+          "translation": "11",
+          "bbox": [0.4861, 0.9808, 0.0254, 0.0107]
+        },
+        {
+          "text": "鳴海荘吉モード",
+          "translation": "Sokichi Narumi Mode",
+          "bbox": [0.7594, 0.8251, 0.1034, 0.0103]
+        },
+        {
+          "text": "台詞",
+          "translation": "Dialogue",
+          "bbox": [0.7878, 0.8474, 0.0236, 0.0077]
+        },
+        {
+          "text": "ガイアメモリを仕事に使わないのが",
+          "translation": "Not using Gaia Memories for work...",
+          "bbox": [0.7031, 0.8649, 0.1439, 0.0064]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.6729, 0.8735, 0.006, 0.0051]
+        },
+        {
+          "text": "俺のポリシーだったんだが、やむを得ん。",
+          "translation": "That was my policy, but it can't be helped.",
+          "bbox": [0.7031, 0.8811, 0.1608, 0.0056]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-11.webp",
+      "blocks": [
+        {
+          "text": "<変身待機音中〉台詞ボタン(短押し)",
+          "translation": "<Transformation standby sound> Dialogue Button (press briefly)",
+          "bbox": [0.0653, 0.0432, 0.3343, 0.0137]
+        },
+        {
+          "text": "<変身待機音中>に台詞ボタンを短押しします。\n各モードに応じて、下記表の「変身台詞」が鳴ります。",
+          "translation": "Press the Dialogue Button briefly while the transformation standby sound is playing.\nDepending on the mode, the \"transformation dialogue\" shown in the table below will play.",
+          "bbox": [0.0653, 0.0735, 0.3156, 0.0227]
+        },
+        {
+          "text": "2:左翔太郎モード",
+          "translation": "2: Shotaro Hidari Mode",
+          "bbox": [0.1397, 0.192, 0.1209, 0.0098]
+        },
+        {
+          "text": "ジョーカーメモリ (CSMダブルドライバーver.2 付属)が\n装填されている場合",
+          "translation": "When the Joker Memory (included with the CSM Double Driver ver.2) is loaded",
+          "bbox": [0.0659, 0.2103, 0.2551, 0.0175]
+        },
+        {
+          "text": "1:大道克己モード\n台詞",
+          "translation": "1: Katsumi Daido Mode\nDialogue",
+          "bbox": [0.4407, 0.1911, 0.1221, 0.0312]
+        },
+        {
+          "text": "1 変身! (克己 AtoZ 1)",
+          "translation": "1 Henshin! (Katsumi: AtoZ 1)",
+          "bbox": [0.3736, 0.2317, 0.1179, 0.0073]
+        },
+        {
+          "text": "台同",
+          "translation": "Dialogue",
+          "bbox": [0.1862, 0.236, 0.0248, 0.0086]
+        },
+        {
+          "text": "1 変身。(翔太郎:TV本編1)",
+          "translation": "1 Henshin. (Shotaro: TV Series 1)",
+          "bbox": [0.0719, 0.2535, 0.1324, 0.0068]
+        },
+        {
+          "text": "ジョーカーメモリ (CSMダブルドライバーver.2 付属)以外が",
+          "translation": "When a Memory other than the Joker Memory (included with the CSM Double Driver ver.2) is loaded",
+          "bbox": [0.0665, 0.2728, 0.2763, 0.0086]
+        },
+        {
+          "text": "装填されている場合",
+          "translation": "is loaded",
+          "bbox": [0.0659, 0.2822, 0.0985, 0.0077]
+        },
+        {
+          "text": "1 変身。 (翔太郎: AtoZ)",
+          "translation": "1 Henshin. (Shotaro: AtoZ)",
+          "bbox": [0.0719, 0.3164, 0.1185, 0.0068]
+        },
+        {
+          "text": "台詞",
+          "translation": "Dialogue",
+          "bbox": [0.1862, 0.2993, 0.0248, 0.0077]
+        },
+        {
+          "text": "<変身待機音中台詞ボタン (長押し)",
+          "translation": "<Transformation standby sound> Dialogue Button (press and hold)",
+          "bbox": [0.0647, 0.3519, 0.3337, 0.0137]
+        },
+        {
+          "text": "<変身待機音中>に台詞ボタンを長押しします。\n各モードに応じて、下記表の「変身台詞」が鳴ります。",
+          "translation": "Press and hold the Dialogue Button while the transformation standby sound is playing.\nDepending on the mode, the \"transformation dialogue\" shown in the table below will play.",
+          "bbox": [0.0653, 0.3822, 0.315, 0.0227]
+        },
+        {
+          "text": "2:左翔太郎モード",
+          "translation": "2: Shotaro Hidari Mode",
+          "bbox": [0.1385, 0.422, 0.1233, 0.0103]
+        },
+        {
+          "text": "台詞",
+          "translation": "Dialogue",
+          "bbox": [0.1868, 0.4451, 0.0242, 0.0073]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.0719, 0.4622, 0.0048, 0.0051]
+        },
+        {
+          "text": "俺。 変身。(翔太郎:TV本編2)",
+          "translation": "I. Henshin. (Shotaro: TV Series 2)",
+          "bbox": [0.101, 0.4626, 0.1209, 0.0064]
+        },
+        {
+          "text": "1:大道克己モード",
+          "translation": "1: Katsumi Daido Mode",
+          "bbox": [0.4414, 0.4224, 0.1215, 0.0103]
+        },
+        {
+          "text": "台詞",
+          "translation": "Dialogue",
+          "bbox": [0.4879, 0.4451, 0.0242, 0.0073]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.373, 0.4626, 0.0054, 0.0051]
+        },
+        {
+          "text": "変身。(克己 AtoZ 2)",
+          "translation": "Henshin. (Katsumi: AtoZ 2)",
+          "bbox": [0.4027, 0.4626, 0.0913, 0.0064]
+        },
+        {
+          "text": "12",
+          "translation": "12",
+          "bbox": [0.4861, 0.982, 0.0296, 0.0103]
+        },
+        {
+          "text": "台詞\nボタン",
+          "translation": "Dialogue\nButton",
+          "bbox": [0.7926, 0.071, 0.0333, 0.0171]
+        },
+        {
+          "text": "0: 鳴海荘吉モード",
+          "translation": "0: Sokichi Narumi Mode",
+          "bbox": [0.7394, 0.1915, 0.1227, 0.0107]
+        },
+        {
+          "text": "台詞",
+          "translation": "Dialogue",
+          "bbox": [0.7878, 0.2142, 0.0248, 0.0081]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.6735, 0.2317, 0.0048, 0.0056]
+        },
+        {
+          "text": "変身 (荘吉:2010)",
+          "translation": "Henshin (Sokichi: 2010)",
+          "bbox": [0.7031, 0.2317, 0.0798, 0.0064]
+        },
+        {
+          "text": "0: 鳴海荘吉モード",
+          "translation": "0: Sokichi Narumi Mode",
+          "bbox": [0.7394, 0.4224, 0.1245, 0.0103]
+        },
+        {
+          "text": "台詞",
+          "translation": "Dialogue",
+          "bbox": [0.7878, 0.4442, 0.0248, 0.0086]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.6729, 0.4626, 0.006, 0.0051]
+        },
+        {
+          "text": "変身 (荘吉:2010)",
+          "translation": "Henshin (Sokichi: 2010)",
+          "bbox": [0.7031, 0.4622, 0.0792, 0.0068]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-12.webp",
+      "blocks": [
+        {
+          "text": "<変身後状態>台詞ボタン(短押し)",
+          "translation": "<Transformed State> Dialogue Button (Short Press)",
+          "bbox": [0.0653, 0.0428, 0.315, 0.0145]
+        },
+        {
+          "text": "<変身後状態>で台詞ボタンを短押しします。\n各モードに応じて、下記表の「変身後台詞」が鳴ります。",
+          "translation": "Short-press the dialogue button while in the <Transformed State>.\nDepending on the mode, the \"Post-Transformation Lines\" shown in the table below will play.",
+          "bbox": [0.0653, 0.0735, 0.3289, 0.0227]
+        },
+        {
+          "text": "台詞\nボタン",
+          "translation": "Dialogue\nButton",
+          "bbox": [0.581, 0.0462, 0.0351, 0.0167]
+        },
+        {
+          "text": "2:左翔太郎モード",
+          "translation": "2: Shotaro Hidari Mode",
+          "bbox": [0.4389, 0.1714, 0.1239, 0.0098]
+        },
+        {
+          "text": "台詞",
+          "translation": "Lines",
+          "bbox": [0.4873, 0.1941, 0.0248, 0.0081]
+        },
+        {
+          "text": "1 仮面ライダー、ジョーカー。",
+          "translation": "1 Kamen Rider Joker.",
+          "bbox": [0.0719, 0.2116, 0.1366, 0.0073]
+        },
+        {
+          "text": "8",
+          "translation": "8",
+          "bbox": [0.5097, 0.2116, 0.0073, 0.0056]
+        },
+        {
+          "text": "俺は仮面ライダー、ジョーカー。",
+          "translation": "I'm Kamen Rider Joker.",
+          "bbox": [0.5423, 0.2121, 0.1252, 0.0064]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.0701, 0.227, 0.0079, 0.006]
+        },
+        {
+          "text": "へへっ。 さあ行こうか。 ファイヤーガール",
+          "translation": "Heh. Shall we go? Fire Girl.",
+          "bbox": [0.101, 0.2274, 0.1663, 0.0064]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.5097, 0.227, 0.0079, 0.0056]
+        },
+        {
+          "text": "これで決まりだ。",
+          "translation": "That settles it.",
+          "bbox": [0.5429, 0.2279, 0.0659, 0.0056]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.0707, 0.2433, 0.0085, 0.0056]
+        },
+        {
+          "text": "これで決まりだ。",
+          "translation": "That settles it.",
+          "bbox": [0.1016, 0.2437, 0.0659, 0.0056]
+        },
+        {
+          "text": "10",
+          "translation": "10",
+          "bbox": [0.5073, 0.2433, 0.0145, 0.0056]
+        },
+        {
+          "text": "さあお片付けだ。",
+          "translation": "Now, time to clean up.",
+          "bbox": [0.5429, 0.2437, 0.0689, 0.006]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.0701, 0.2587, 0.0091, 0.0051]
+        },
+        {
+          "text": "次はてめえか。 ああーん?ホアーツ。 行くぜ、マッチョメン。",
+          "translation": "You're next, huh? Ah—? Hwaa! Let's go, Macho Men.",
+          "bbox": [0.1016, 0.2591, 0.2334, 0.0064]
+        },
+        {
+          "text": "11",
+          "translation": "11",
+          "bbox": [0.5073, 0.2587, 0.0121, 0.0051]
+        },
+        {
+          "text": "この街を泣かせる奴は・・・許せねえ!",
+          "translation": "I won't forgive anyone who makes this city cry!",
+          "bbox": [0.5429, 0.2591, 0.1397, 0.0064]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.0707, 0.2745, 0.0085, 0.0056]
+        },
+        {
+          "text": "勝負だ。",
+          "translation": "It's a fight.",
+          "bbox": [0.101, 0.2749, 0.0326, 0.006]
+        },
+        {
+          "text": "12",
+          "translation": "12",
+          "bbox": [0.5067, 0.2749, 0.0139, 0.0047]
+        },
+        {
+          "text": "さーてお片付けだ。一気にキメるぜ?",
+          "translation": "Alright, time to clean up. I'll finish this off in one go!",
+          "bbox": [0.5429, 0.274, 0.1493, 0.0073]
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.0707, 0.2903, 0.0073, 0.0051]
+        },
+        {
+          "text": "ははっ、そこでオネンネしてな。",
+          "translation": "Heh, just go to sleep right there.",
+          "bbox": [0.1022, 0.2907, 0.1233, 0.006]
+        },
+        {
+          "text": "13",
+          "translation": "13",
+          "bbox": [0.5073, 0.2903, 0.0145, 0.0051]
+        },
+        {
+          "text": "もう一発。",
+          "translation": "One more hit.",
+          "bbox": [0.5429, 0.2903, 0.0387, 0.0064]
+        },
+        {
+          "text": "7",
+          "translation": "7",
+          "bbox": [0.0707, 0.3061, 0.0085, 0.0056]
+        },
+        {
+          "text": "ははっ助けに来たぜ、フィリップ。",
+          "translation": "Haha, I came to help, Philip.",
+          "bbox": [0.1022, 0.3053, 0.1282, 0.0077]
+        },
+        {
+          "text": "14",
+          "translation": "14",
+          "bbox": [0.5067, 0.3065, 0.0157, 0.0047]
+        },
+        {
+          "text": "ま、こんなもんだろ。",
+          "translation": "Well, I guess that's about it.",
+          "bbox": [0.5429, 0.3057, 0.0786, 0.0073]
+        },
+        {
+          "text": "1:大道克己モード",
+          "translation": "1: Katsumi Daido Mode",
+          "bbox": [0.4407, 0.3309, 0.1215, 0.0103]
+        },
+        {
+          "text": "台詞",
+          "translation": "Lines",
+          "bbox": [0.4873, 0.354, 0.0236, 0.0077]
+        },
+        {
+          "text": "12",
+          "translation": "12",
+          "bbox": [0.0701, 0.3694, 0.0073, 0.0244]
+        },
+        {
+          "text": "仮面ライダー、エターナル。",
+          "translation": "Kamen Rider Eternal.",
+          "bbox": [0.101, 0.3715, 0.1094, 0.006]
+        },
+        {
+          "text": "11",
+          "translation": "11",
+          "bbox": [0.5073, 0.3707, 0.0127, 0.0051]
+        },
+        {
+          "text": "させるか!",
+          "translation": "I won't let you!",
+          "bbox": [0.5429, 0.372, 0.0387, 0.0047]
+        },
+        {
+          "text": "俺は新しい街の希望だ。 間違ってはいない。",
+          "translation": "I am the hope of the new city. That's not wrong.",
+          "bbox": [0.1016, 0.3869, 0.1753, 0.0064]
+        },
+        {
+          "text": "12",
+          "translation": "12",
+          "bbox": [0.5073, 0.3869, 0.0133, 0.0047]
+        },
+        {
+          "text": "何だと?",
+          "translation": "What did you say?",
+          "bbox": [0.5423, 0.3873, 0.0326, 0.0051]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.0701, 0.4023, 0.0085, 0.0051]
+        },
+        {
+          "text": "さあ、地獄を楽しみな。",
+          "translation": "Now, enjoy hell.",
+          "bbox": [0.1022, 0.4019, 0.0895, 0.0073]
+        },
+        {
+          "text": "13",
+          "translation": "13",
+          "bbox": [0.5079, 0.4023, 0.0133, 0.0051]
+        },
+        {
+          "text": "これが･･･そうか、これが...。",
+          "translation": "This is... I see, so this is...",
+          "bbox": [0.5429, 0.4027, 0.1064, 0.0064]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.0701, 0.4186, 0.0091, 0.0056]
+        },
+        {
+          "text": "終わりだ。 過去の仮面ライダー。",
+          "translation": "It's over. The Kamen Riders of the past.",
+          "bbox": [0.101, 0.4173, 0.1288, 0.0081]
+        },
+        {
+          "text": "14",
+          "translation": "14",
+          "bbox": [0.5067, 0.4177, 0.0163, 0.006]
+        },
+        {
+          "text": "久しぶりだな・・・死ぬのは･･･。 ハハハハハ･･･ハハハ、うわああーっ!(爆発音)",
+          "translation": "It's been a long time... to die... Hahahahaha... Ha ha, waaah! (Explosion sound)",
+          "bbox": [0.5423, 0.4181, 0.3053, 0.0073]
+        },
+        {
+          "text": "俺のエターナルメモリは特別でね。",
+          "translation": "My Eternal Memory is special, you know.",
+          "bbox": [0.101, 0.4344, 0.1415, 0.006]
+        },
+        {
+          "text": "15",
+          "translation": "15",
+          "bbox": [0.5073, 0.4339, 0.0145, 0.0051]
+        },
+        {
+          "text": "あの時、俺との運命を感じ、メモリはお前に使われる事を拒否したようだな。",
+          "translation": "It seems that back then the Memory sensed its destiny with me and refused to be used by you.",
+          "bbox": [0.5423, 0.4339, 0.3005, 0.0068]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.0707, 0.4425, 0.0079, 0.0056]
+        },
+        {
+          "text": "一度発動すればT2以前のガイアメモリを作動不能、エターナルの名の通り、永遠にな。\n都市民諸君につぐ。俺は仮面ライダーエターナル。",
+          "translation": "Once activated, it will render Gaia Memories from before T2 inoperable—eternal, true to the name \"Eternal.\"\nCitizens of the city: I am Kamen Rider Eternal.",
+          "bbox": [0.1016, 0.4498, 0.344, 0.0227]
+        },
+        {
+          "text": "16",
+          "translation": "16",
+          "bbox": [0.5073, 0.4498, 0.0139, 0.0047]
+        },
+        {
+          "text": "分かるぞ。 俺が手にした時、このエターナルは全てのメモリの王者の力を発揮する。",
+          "translation": "I can tell. When I hold it, this Eternal will demonstrate the power of the king of all Memories.",
+          "bbox": [0.5423, 0.4498, 0.3325, 0.0064]
+        },
+        {
+          "text": "17",
+          "translation": "17",
+          "bbox": [0.5073, 0.4656, 0.0145, 0.0051]
+        },
+        {
+          "text": "この俺こそが、真のエターナルだ。",
+          "translation": "I am the true Eternal.",
+          "bbox": [0.5429, 0.466, 0.1354, 0.006]
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.0707, 0.4733, 0.0073, 0.0073]
+        },
+        {
+          "text": "ガイアメモリに命運を握られた、哀れなる箱の住人達を解放する者だ。",
+          "translation": "I am the one who frees the pitiful residents of the box whose fates have been controlled by the Gaia Memories.",
+          "bbox": [0.1016, 0.4814, 0.2884, 0.0064]
+        },
+        {
+          "text": "お前のビレッジより面白い所なんざ、もう本当の地獄くらいしかあるまい。",
+          "translation": "There isn't much more interesting than your village—maybe only real hell.",
+          "bbox": [0.5429, 0.4814, 0.2908, 0.0068]
+        },
+        {
+          "text": "18",
+          "translation": "18",
+          "bbox": [0.5073, 0.4891, 0.0163, 0.0051]
+        },
+        {
+          "text": "789",
+          "translation": "789",
+          "bbox": [0.0695, 0.4959, 0.0073, 0.0393]
+        },
+        {
+          "text": "A to Zo 26本全てのメモリが揃った。",
+          "translation": "All 26 Memories, from A to Z, are complete.",
+          "bbox": [0.101, 0.4972, 0.1554, 0.006]
+        },
+        {
+          "text": "俺達は人間を捨てた、魔物同士だ!",
+          "translation": "We've discarded our humanity—we're monsters among ourselves!",
+          "bbox": [0.1016, 0.513, 0.1372, 0.0064]
+        },
+        {
+          "text": "今さら数え切れるか",
+          "translation": "How could I possibly count them now?",
+          "bbox": [0.1016, 0.5289, 0.0816, 0.006]
+        },
+        {
+          "text": "先に行って、遊んでこい。",
+          "translation": "Go ahead, have fun.",
+          "bbox": [0.5423, 0.4968, 0.0979, 0.0068]
+        },
+        {
+          "text": "19",
+          "translation": "19",
+          "bbox": [0.5073, 0.513, 0.0139, 0.0051]
+        },
+        {
+          "text": "さあ、地獄を楽しみな。",
+          "translation": "Now, enjoy hell.",
+          "bbox": [0.5429, 0.513, 0.0895, 0.006]
+        },
+        {
+          "text": "20",
+          "translation": "20",
+          "bbox": [0.506, 0.5289, 0.0169, 0.0051]
+        },
+        {
+          "text": "たった今から、お前も死体の仲間入りだ。",
+          "translation": "From this moment, you're joining the ranks of the dead.",
+          "bbox": [0.5423, 0.5289, 0.1608, 0.0064]
+        },
+        {
+          "text": "10",
+          "translation": "10",
+          "bbox": [0.0665, 0.5438, 0.0163, 0.0073]
+        },
+        {
+          "text": "さあ、地獄を楽しみな!",
+          "translation": "Now, enjoy hell!",
+          "bbox": [0.1016, 0.5447, 0.0895, 0.006]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.0719, 0.6088, 0.0042, 0.0051]
+        },
+        {
+          "text": "これが俺の体...。",
+          "translation": "This is my body...",
+          "bbox": [0.1016, 0.6092, 0.0683, 0.0056]
+        },
+        {
+          "text": "お前が嫁に行くときには、必ずそばにいてやる。",
+          "translation": "When you get married, I'll be right there by your side.",
+          "bbox": [0.1016, 0.6251, 0.1892, 0.006]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.0707, 0.6327, 0.0085, 0.006]
+        },
+        {
+          "text": "ああ、約束するよ、 亜樹子。 ･･･まだ死ねん!",
+          "translation": "Yeah, I promise, Akiko. ...I can't die yet!",
+          "bbox": [0.1016, 0.6409, 0.1669, 0.006]
+        },
+        {
+          "text": "<変身後状態>台詞ボタン(長押し)",
+          "translation": "<Transformed State> Dialogue Button (Long Press)",
+          "bbox": [0.0647, 0.6913, 0.315, 0.015]
+        },
+        {
+          "text": "<変身後状態>で台詞ボタンを長押しします。\n各モードに応じて、下記表の「変身後台同」が鳴ります。",
+          "translation": "Press and hold the dialogue button while in the <Transformed State>.\nDepending on the mode, the \"Post-Transformation Lines\" shown in the table below will play.",
+          "bbox": [0.0659, 0.7247, 0.3289, 0.0218]
+        },
+        {
+          "text": "2:左翔太郎モード",
+          "translation": "2: Shotaro Hidari Mode",
+          "bbox": [0.1385, 0.7661, 0.1227, 0.0098]
+        },
+        {
+          "text": "0: 鳴海荘吉モード",
+          "translation": "0: Sokichi Narumi Mode",
+          "bbox": [0.4383, 0.5682, 0.1239, 0.0107]
+        },
+        {
+          "text": "台詞",
+          "translation": "Lines",
+          "bbox": [0.4873, 0.5917, 0.0242, 0.0081]
+        },
+        {
+          "text": "ひとつ。俺はいつもそばにいる仲間の心の闇を知らなかった。",
+          "translation": "First: I didn't know the darkness in the heart of the comrade who was always by my side.",
+          "bbox": [0.5429, 0.6092, 0.2461, 0.0064]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.5103, 0.6169, 0.0079, 0.0056]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.5091, 0.6413, 0.0085, 0.0056]
+        },
+        {
+          "text": "ふたつ。 戦う決断が一瞬鈍った。 みっつ。 そのせいで街を泣かせた。\n俺は自分の罪を数えたぜ。マツ。 さあ、お前の罪を数えろ。 (効果音付き)",
+          "translation": "Second: My resolve to fight faltered for a moment. Third: Because of that, I made the city weep.\nI've counted my sins, Matsu. Now, count yours. (With sound effects)",
+          "bbox": [0.5423, 0.6251, 0.2878, 0.0222]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.5103, 0.6567, 0.0079, 0.0056]
+        },
+        {
+          "text": "さあ、お前の罪を数えろ。",
+          "translation": "Now, count your sins.",
+          "bbox": [0.5429, 0.6558, 0.1028, 0.0073]
+        },
+        {
+          "text": "1:大道克己モード",
+          "translation": "1: Katsumi Daido Mode",
+          "bbox": [0.4414, 0.7657, 0.1215, 0.0107]
+        },
+        {
+          "text": "ジョーカーメモリ (CSMダブルドライバーver.2 付属)が\n装填されている場合",
+          "translation": "When the Joker Memory (included with the CSM Double Driver ver.2) is loaded",
+          "bbox": [0.0665, 0.7837, 0.2551, 0.0184]
+        },
+        {
+          "text": "台詞",
+          "translation": "Lines",
+          "bbox": [0.4879, 0.7884, 0.0236, 0.0081]
+        },
+        {
+          "text": "1 さあ、 地獄を楽しみな。",
+          "translation": "1 Now, enjoy hell.",
+          "bbox": [0.3736, 0.8055, 0.1197, 0.0073]
+        },
+        {
+          "text": "台詞",
+          "translation": "Lines",
+          "bbox": [0.1868, 0.811, 0.0242, 0.0073]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.0719, 0.8277, 0.0042, 0.0051]
+        },
+        {
+          "text": "俺は仮面ライダー、ジョーカー。",
+          "translation": "I'm Kamen Rider Joker.",
+          "bbox": [0.1016, 0.8281, 0.1245, 0.0064]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.0701, 0.8435, 0.0079, 0.006]
+        },
+        {
+          "text": "さあ、おまえの罪を数えろ。",
+          "translation": "Now, count your sins.",
+          "bbox": [0.1022, 0.8435, 0.107, 0.0068]
+        },
+        {
+          "text": "ジョーカーメモリ (CSMダブルドライバーver.2 付属)以外が",
+          "translation": "When a Memory other than the Joker Memory (included with the CSM Double Driver ver.2)",
+          "bbox": [0.0671, 0.8632, 0.2757, 0.0086]
+        },
+        {
+          "text": "装填されている場合",
+          "translation": "is inserted",
+          "bbox": [0.0665, 0.873, 0.0985, 0.0077]
+        },
+        {
+          "text": "台詞",
+          "translation": "Dialogue",
+          "bbox": [0.1868, 0.8906, 0.0236, 0.0073]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.0719, 0.9072, 0.0042, 0.0051]
+        },
+        {
+          "text": "仮面ライダー、ジョーカー。",
+          "translation": "Kamen Rider, Joker.",
+          "bbox": [0.101, 0.9081, 0.1064, 0.006]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.0701, 0.9226, 0.0085, 0.0064]
+        },
+        {
+          "text": "さあ、おまえの罪を数えろ。",
+          "translation": "Now, count your sins.",
+          "bbox": [0.1022, 0.9235, 0.1076, 0.006]
+        },
+        {
+          "text": "13",
+          "translation": "13",
+          "bbox": [0.4855, 0.9816, 0.0302, 0.0098]
+        },
+        {
+          "text": "0: 鳴海荘吉モード",
+          "translation": "0: Sokichi Narumi Mode",
+          "bbox": [0.7394, 0.7661, 0.1233, 0.0098]
+        },
+        {
+          "text": "台詞",
+          "translation": "Dialogue",
+          "bbox": [0.7884, 0.7884, 0.0236, 0.0077]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.6735, 0.8059, 0.0048, 0.0056]
+        },
+        {
+          "text": "さあ、お前の罪を数えろ。",
+          "translation": "Now, count your sins.",
+          "bbox": [0.7037, 0.8063, 0.104, 0.006]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-13.webp",
+      "blocks": [
+        {
+          "text": "効果音ボタン遊びく変身前>",
+          "translation": "Sound Effect Button Play <Pre-Transformation>",
+          "bbox": [0.3041, 0.0346, 0.3875, 0.0209]
+        },
+        {
+          "text": "<変身前状態>効果音ボタン遊び",
+          "translation": "<Pre-Transformation State> Sound Effect Button Play",
+          "bbox": [0.0647, 0.0808, 0.2987, 0.0145]
+        },
+        {
+          "text": "<変身前状態>で、ベルト未装着状態で効果音ボタン1または2を押すと、各モードに応じて下記の音声が鳴ります。",
+          "translation": "While in the <Pre-Transformation State> with the belt not attached, press Sound Effect Button 1 or 2 to play the sounds below according to the selected mode.",
+          "bbox": [0.0677, 0.1137, 0.6608, 0.0094]
+        },
+        {
+          "text": "「2:左翔太郎モード」 または 「O:鳴海荘吉モード」",
+          "translation": "\"2: Shotaro Hidari Mode\" or \"O: Sokichi Narumi Mode\"",
+          "bbox": [0.0937, 0.1402, 0.3549, 0.012]
+        },
+        {
+          "text": "1:大道克己モード」",
+          "translation": "\"1: Katsumi Daido Mode\"",
+          "bbox": [0.6584, 0.1398, 0.1421, 0.0124]
+        },
+        {
+          "text": "効果音",
+          "translation": "Sound effect",
+          "bbox": [0.0774, 0.3527, 0.0357, 0.009]
+        },
+        {
+          "text": "ボタン1",
+          "translation": "Sound Effect Button 1",
+          "bbox": [0.0744, 0.3647, 0.0399, 0.0077]
+        },
+        {
+          "text": "効果音ボタン1、 または効果音ボタン2を短押しします。\n下記の音声が交互に鳴ります。",
+          "translation": "Press Sound Effect Button 1 or Sound Effect Button 2 briefly. The following sounds will play alternately.",
+          "bbox": [0.0768, 0.4109, 0.3168, 0.0235]
+        },
+        {
+          "text": "・効果音",
+          "translation": "• Sound effects",
+          "bbox": [0.4117, 0.3531, 0.0387, 0.0081]
+        },
+        {
+          "text": "効果音",
+          "translation": "Sound effect",
+          "bbox": [0.5339, 0.354, 0.0363, 0.0073]
+        },
+        {
+          "text": "ボタン2",
+          "translation": "Sound Effect Button 2",
+          "bbox": [0.4117, 0.3647, 0.0417, 0.0073]
+        },
+        {
+          "text": "ボタン1",
+          "translation": "Sound Effect Button 1",
+          "bbox": [0.5308, 0.3638, 0.0405, 0.0086]
+        },
+        {
+          "text": "効果音ボタン1、 または効果音ボタン2を短押しします。\n下記の音声が順番に鳴ります。",
+          "translation": "Press Sound Effect Button 1 or Sound Effect Button 2 briefly. The following sounds will play in sequence.",
+          "bbox": [0.526, 0.4109, 0.3174, 0.0235]
+        },
+        {
+          "text": "音声",
+          "translation": "Audio",
+          "bbox": [0.1941, 0.4553, 0.0296, 0.009]
+        },
+        {
+          "text": "1回目",
+          "translation": "1st time",
+          "bbox": [0.0937, 0.4788, 0.0314, 0.0086]
+        },
+        {
+          "text": "ベルト構え音",
+          "translation": "Belt-ready sound",
+          "bbox": [0.159, 0.4788, 0.0665, 0.0086]
+        },
+        {
+          "text": "2回目 ベルト装着音(短縮版)",
+          "translation": "2nd time: Belt attachment sound (short version)",
+          "bbox": [0.0919, 0.4998, 0.182, 0.0098]
+        },
+        {
+          "text": "音声",
+          "translation": "Audio",
+          "bbox": [0.6542, 0.4549, 0.0302, 0.0098]
+        },
+        {
+          "text": "1回目",
+          "translation": "1st time",
+          "bbox": [0.5423, 0.4793, 0.0308, 0.009]
+        },
+        {
+          "text": "ベルト構え音",
+          "translation": "Belt-ready sound",
+          "bbox": [0.6076, 0.4793, 0.0671, 0.0077]
+        },
+        {
+          "text": "2回目",
+          "translation": "2nd time",
+          "bbox": [0.5411, 0.5011, 0.0326, 0.0077]
+        },
+        {
+          "text": "3回目",
+          "translation": "3rd time",
+          "bbox": [0.5411, 0.5229, 0.032, 0.0073]
+        },
+        {
+          "text": "ベルト装着音(劇場版ver.)\nベルト構え音",
+          "translation": "Belt attachment sound (Theatrical ver.)\nBelt-ready sound",
+          "bbox": [0.6076, 0.5006, 0.1378, 0.0291]
+        },
+        {
+          "text": "効果音ボタン1、 または効果音ボタン2を長押しします。\n「ベルト装着音(長尺版)」が鳴ります。",
+          "translation": "Press and hold Sound Effect Button 1 or Sound Effect Button 2. The \"Belt attachment sound (long version)\" will play.",
+          "bbox": [0.0768, 0.5387, 0.3186, 0.0239]
+        },
+        {
+          "text": "4回目",
+          "translation": "4th time",
+          "bbox": [0.5405, 0.5442, 0.0326, 0.0073]
+        },
+        {
+          "text": "ベルト装着音(Vシネver.)",
+          "translation": "Belt attachment sound (V-Cinema ver.)",
+          "bbox": [0.6076, 0.5438, 0.1342, 0.0077]
+        },
+        {
+          "text": "「ベルト装着音(長尺版)」が鳴っている間に",
+          "translation": "While the \"Belt attachment sound (long version)\" is playing",
+          "bbox": [0.0919, 0.5673, 0.2479, 0.009]
+        },
+        {
+          "text": "ベルト(右)を装着すると、「ベルト装着完了音」が鳴ります。",
+          "translation": "When you attach the belt (right), the \"Belt attachment completion sound\" will play.",
+          "bbox": [0.0901, 0.5814, 0.3398, 0.0094]
+        },
+        {
+          "text": "効果音ボタン1、 または効果音ボタン2を長押しします。\n下記の音声が交互に鳴ります。",
+          "translation": "Press and hold Sound Effect Button 1 or Sound Effect Button 2. The following sounds will play alternately.",
+          "bbox": [0.526, 0.5819, 0.318, 0.0235]
+        },
+        {
+          "text": "※「ベルト装着音(長尺版)」を鳴らさずにベルト(右)を\n装着した場合は、ベルト装着完了音は鳴りません。",
+          "translation": "*If you attach the belt (right) without playing the \"Belt attachment sound (long version)\", the belt attachment completion sound will not play.",
+          "bbox": [0.0804, 0.6067, 0.3144, 0.0222]
+        },
+        {
+          "text": "14",
+          "translation": "14",
+          "bbox": [0.4867, 0.9816, 0.029, 0.0107]
+        },
+        {
+          "text": "音声",
+          "translation": "Audio",
+          "bbox": [0.6542, 0.6221, 0.0314, 0.0111]
+        },
+        {
+          "text": "1回目 ベルト装着音 (劇場版ver./ 長尺版)",
+          "translation": "1st: Belt attachment sound (Theatrical ver. / long version)",
+          "bbox": [0.5429, 0.6473, 0.2509, 0.0086]
+        },
+        {
+          "text": "2回目 ベルト装着音(Vシネver./ 長尺版)",
+          "translation": "2nd: Belt attachment sound (V-Cinema ver. / long version)",
+          "bbox": [0.5411, 0.6687, 0.2491, 0.0086]
+        },
+        {
+          "text": "「ベルト装着音(長尺版)」が鳴っている間に\nベルト(右)を装着すると、「ベルト装着完了音」が鳴ります。",
+          "translation": "If you attach the belt (right) while the \"Belt attachment sound (long version)\" is playing, the \"Belt attachment completion sound\" will play.",
+          "bbox": [0.526, 0.6926, 0.3392, 0.0252]
+        },
+        {
+          "text": "※「ベルト装着音(長尺版)」を鳴らさずにベルト(右)を\n装着した場合は、ベルト装着完了音は鳴りません。",
+          "translation": "*If you attach the belt (right) without playing the \"Belt attachment sound (long version)\", the belt attachment completion sound will not play.",
+          "bbox": [0.5308, 0.7315, 0.3138, 0.0222]
+        },
+        {
+          "text": "`効果音\nボタン2",
+          "translation": "Sound Effect\nButton 2",
+          "bbox": [0.8664, 0.3536, 0.0435, 0.0184]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-14.webp",
+      "blocks": [
+        {
+          "text": "効果音ボタン1",
+          "translation": "Sound Effect Button 1",
+          "bbox": [0.0641, 0.0812, 0.1318, 0.0137]
+        },
+        {
+          "text": "効果音ボタン遊びく変身後>",
+          "translation": "Sound Effect Button Play <Post-Transformation>",
+          "bbox": [0.3041, 0.0346, 0.3881, 0.0209]
+        },
+        {
+          "text": "<変身後状態>で効果音ボタン1を短押し、 または長押しすると\n装填しているメモリに応じて、下記表の「固有音声」が順番に鳴ります。",
+          "translation": "In the <post-transformation state>, press Sound Effect Button 1 briefly or press and hold it; the \"unique sounds\" listed in the table below will play in order according to the Memory loaded.",
+          "bbox": [0.0635, 0.1124, 0.4008, 0.0222]
+        },
+        {
+          "text": "装填しているメモリ",
+          "translation": "Loaded Memory",
+          "bbox": [0.084, 0.2274, 0.1179, 0.0103]
+        },
+        {
+          "text": "鳴る順番",
+          "translation": "Order played",
+          "bbox": [0.2497, 0.2279, 0.055, 0.0098]
+        },
+        {
+          "text": "ジョーカーメモリ",
+          "translation": "Joker Memory",
+          "bbox": [0.1034, 0.2527, 0.0804, 0.0073]
+        },
+        {
+          "text": "(CSMダブルドライバーver.2 付属)",
+          "translation": "(Included with CSM Double Driver ver.2)",
+          "bbox": [0.0629, 0.2604, 0.162, 0.0081]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.2745, 0.2659, 0.0042, 0.0051]
+        },
+        {
+          "text": "挌闘攻撃音",
+          "translation": "Melee attack sound",
+          "bbox": [0.3337, 0.2655, 0.055, 0.0068]
+        },
+        {
+          "text": "ジョーカーメモリ(T2)",
+          "translation": "Joker Memory (T2)",
+          "bbox": [0.0901, 0.274, 0.1058, 0.0081]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.2745, 0.2976, 0.0042, 0.0051]
+        },
+        {
+          "text": "エターナル挌闘音1",
+          "translation": "Eternal melee attack sound 1",
+          "bbox": [0.3343, 0.2963, 0.0919, 0.0086]
+        },
+        {
+          "text": "エターナルメモリ",
+          "translation": "Eternal Memory",
+          "bbox": [0.1022, 0.3108, 0.0828, 0.0077]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.2733, 0.313, 0.0079, 0.006]
+        },
+        {
+          "text": "エターナル挌闘音2",
+          "translation": "Eternal melee attack sound 2",
+          "bbox": [0.3343, 0.3121, 0.0931, 0.0081]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.2733, 0.3288, 0.0085, 0.0056]
+        },
+        {
+          "text": "エターナル格闘音3",
+          "translation": "Eternal melee attack sound 3",
+          "bbox": [0.3343, 0.3279, 0.0937, 0.0081]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.2745, 0.345, 0.0042, 0.0051]
+        },
+        {
+          "text": "エターナル挌闘音1",
+          "translation": "Eternal melee attack sound 1",
+          "bbox": [0.3343, 0.3442, 0.0925, 0.0073]
+        },
+        {
+          "text": "エターナルメモリ(T2)",
+          "translation": "Eternal Memory (T2)",
+          "bbox": [0.0889, 0.36, 0.11, 0.0073]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.2733, 0.3608, 0.0079, 0.0056]
+        },
+        {
+          "text": "エターナル挌闘音2",
+          "translation": "Eternal melee attack sound 2",
+          "bbox": [0.3343, 0.36, 0.0931, 0.0073]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.2733, 0.3767, 0.0085, 0.0056]
+        },
+        {
+          "text": "エターナル挌闘音3",
+          "translation": "Eternal melee attack sound 3",
+          "bbox": [0.3343, 0.3758, 0.0937, 0.0073]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.2745, 0.392, 0.0042, 0.0047]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.2727, 0.4079, 0.0079, 0.006]
+        },
+        {
+          "text": "挌闘攻撃音",
+          "translation": "Melee attack sound",
+          "bbox": [0.3337, 0.4066, 0.0544, 0.0081]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.2733, 0.4237, 0.0079, 0.0056]
+        },
+        {
+          "text": "スカルメモリ",
+          "translation": "Skull Memory",
+          "bbox": [0.1125, 0.4318, 0.0611, 0.0068]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.2727, 0.4399, 0.0085, 0.0051]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.2733, 0.4553, 0.0079, 0.0056]
+        },
+        {
+          "text": "銃撃音(スカル)",
+          "translation": "Gunshot sound (Skull)",
+          "bbox": [0.3331, 0.454, 0.0768, 0.0081]
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.2733, 0.4707, 0.0079, 0.006]
+        },
+        {
+          "text": "サイクロンメモリ",
+          "translation": "Cyclone Memory",
+          "bbox": [0.1028, 0.5002, 0.0816, 0.0081]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.2739, 0.5024, 0.0042, 0.0047]
+        },
+        {
+          "text": "風つき攻撃音",
+          "translation": "Wind-infused attack sound",
+          "bbox": [0.3331, 0.5019, 0.0659, 0.0073]
+        },
+        {
+          "text": "ヒートメモリ",
+          "translation": "Heat Memory",
+          "bbox": [0.1143, 0.5481, 0.058, 0.0081]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.2745, 0.5502, 0.0042, 0.0047]
+        },
+        {
+          "text": "炎攻撃音",
+          "translation": "Fire attack sound",
+          "bbox": [0.3331, 0.5494, 0.0447, 0.0068]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.2745, 0.5814, 0.0042, 0.0047]
+        },
+        {
+          "text": "シャフト攻撃音1",
+          "translation": "Shaft attack sound 1",
+          "bbox": [0.3337, 0.5883, 0.0768, 0.0081]
+        },
+        {
+          "text": "メタルメモリ",
+          "translation": "Metal Memory",
+          "bbox": [0.1131, 0.596, 0.0599, 0.0077]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.2727, 0.5968, 0.0079, 0.0056]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.2733, 0.6127, 0.0085, 0.0056]
+        },
+        {
+          "text": "シャフト攻撃音2",
+          "translation": "Shaft attack sound 2",
+          "bbox": [0.3337, 0.6114, 0.0768, 0.0077]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.2739, 0.6289, 0.0054, 0.0047]
+        },
+        {
+          "text": "手足が伸びる音1",
+          "translation": "Limb extension sound 1",
+          "bbox": [0.3343, 0.628, 0.081, 0.0073]
+        },
+        {
+          "text": "ルナメモリ",
+          "translation": "Luna Memory",
+          "bbox": [0.1185, 0.643, 0.0508, 0.0077]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.2727, 0.6447, 0.0079, 0.0051]
+        },
+        {
+          "text": "手足が伸びる音2",
+          "translation": "Limb extension sound 2",
+          "bbox": [0.3337, 0.6439, 0.0834, 0.0073]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.2733, 0.6601, 0.0079, 0.0051]
+        },
+        {
+          "text": "手足が伸びる音3",
+          "translation": "Limb extension sound 3",
+          "bbox": [0.3343, 0.6597, 0.0828, 0.0068]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.2739, 0.6764, 0.0054, 0.0047]
+        },
+        {
+          "text": "銃撃音 (トリガー) 1",
+          "translation": "Gunshot sound (Trigger) 1",
+          "bbox": [0.3331, 0.6823, 0.0895, 0.0086]
+        },
+        {
+          "text": "トリガーメモリ",
+          "translation": "Trigger Memory",
+          "bbox": [0.1094, 0.69, 0.0677, 0.0077]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.2721, 0.6913, 0.0091, 0.006]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.2727, 0.7076, 0.0085, 0.0056]
+        },
+        {
+          "text": "銃撃音 (トリガー)2",
+          "translation": "Gunshot sound (Trigger) 2",
+          "bbox": [0.3331, 0.7063, 0.0919, 0.009]
+        },
+        {
+          "text": "15",
+          "translation": "15",
+          "bbox": [0.4861, 0.9825, 0.0278, 0.0107]
+        },
+        {
+          "text": "効果音\nボタン1",
+          "translation": "Sound Effect\nButton 1",
+          "bbox": [0.5169, 0.18, 0.0399, 0.018]
+        },
+        {
+          "text": "効果音ボタン1 (短押しまたは長押し)",
+          "translation": "Sound Effect Button 1 (press briefly or press and hold)",
+          "bbox": [0.5193, 0.2287, 0.2255, 0.009]
+        },
+        {
+          "text": "長押しした場合、「メモリ破損による変身解除音」が鳴ります。",
+          "translation": "If you press and hold it, the \"transformation cancellation sound due to Memory corruption\" will play.",
+          "bbox": [0.6106, 0.3125, 0.2842, 0.0073]
+        },
+        {
+          "text": "長押しした場合、 「AtoZでの変身解除音」が鳴ります。",
+          "translation": "If you press and hold it, the \"AtoZ transformation cancellation sound\" will play.",
+          "bbox": [0.61, 0.3596, 0.2533, 0.0081]
+        },
+        {
+          "text": "長押しした場合、「MOVIE大戦COREでの変身解除音」が鳴ります。",
+          "translation": "If you press and hold it, the \"transformation cancellation sound from MOVIE大戦CORE\" will play.",
+          "bbox": [0.61, 0.4288, 0.3174, 0.0081]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-15.webp",
+      "blocks": [
+        {
+          "text": "効果音ボタン2",
+          "translation": "Sound Effect Button 2",
+          "bbox": [0.0635, 0.0436, 0.1336, 0.0124]
+        },
+        {
+          "text": "<変身後状態>で効果音ボタン2を短押し、 または長押しすると\n装填しているメモリに応じて、下記表の「固有音声」が順番に鳴ります。",
+          "translation": "In the <post-transformation state>, press Sound Effect Button 2 briefly or press and hold it to play the \"unique sounds\" listed in the table below in order, depending on the Memory loaded.",
+          "bbox": [0.0635, 0.0744, 0.4002, 0.0227]
+        },
+        {
+          "text": "効果音\nボタン2",
+          "translation": "Sound Effect\nButton 2",
+          "bbox": [0.8507, 0.1424, 0.0423, 0.0184]
+        },
+        {
+          "text": "装填しているメモリ",
+          "translation": "Loaded Memory",
+          "bbox": [0.084, 0.1903, 0.1185, 0.009]
+        },
+        {
+          "text": "鳴る順番",
+          "translation": "Play order",
+          "bbox": [0.2503, 0.1903, 0.0538, 0.009]
+        },
+        {
+          "text": "効果音ボタン2 (短押しまたは長押し)",
+          "translation": "Sound Effect Button 2 (Press briefly or press and hold)",
+          "bbox": [0.5193, 0.1907, 0.2267, 0.0094]
+        },
+        {
+          "text": "ジョーカーメモリ",
+          "translation": "Joker Memory",
+          "bbox": [0.104, 0.2082, 0.0792, 0.0081]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.2745, 0.2116, 0.0042, 0.0047]
+        },
+        {
+          "text": "手首のスナップ音",
+          "translation": "Wrist-snap sound",
+          "bbox": [0.3331, 0.2103, 0.0852, 0.0081]
+        },
+        {
+          "text": "(CSMダブルドライバーver.2 付属)\nジョーカーメモリ (T2)",
+          "translation": "(Included with CSM Double Driver ver.2)\nJoker Memory (T2)",
+          "bbox": [0.0629, 0.2176, 0.162, 0.0175]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.2727, 0.2274, 0.0085, 0.006]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.2739, 0.2437, 0.0054, 0.0047]
+        },
+        {
+          "text": "メモリブレイク音\nサムズダウンの音",
+          "translation": "Memory break sound\nThumbs-down sound",
+          "bbox": [0.3325, 0.2262, 0.0865, 0.0239]
+        },
+        {
+          "text": "エターナルメモリ",
+          "translation": "Eternal Memory",
+          "bbox": [0.1022, 0.2505, 0.0834, 0.0077]
+        },
+        {
+          "text": "長押しした場合「エターナルメモリ不調音」が鳴ります。",
+          "translation": "If you press and hold, the \"Eternal Memory malfunction sound\" will play.",
+          "bbox": [0.6076, 0.2505, 0.2594, 0.0077]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.2727, 0.2591, 0.0091, 0.0047]
+        },
+        {
+          "text": "メモリブレイク音",
+          "translation": "Memory break sound",
+          "bbox": [0.3325, 0.2574, 0.0834, 0.0086]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.2739, 0.2753, 0.0048, 0.0051]
+        },
+        {
+          "text": "サムズダウンの音",
+          "translation": "Thumbs-down sound",
+          "bbox": [0.3331, 0.2736, 0.0859, 0.0077]
+        },
+        {
+          "text": "エターナルメモリ(T2)",
+          "translation": "Eternal Memory (T2)",
+          "bbox": [0.0889, 0.2822, 0.1106, 0.0081]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.2727, 0.2903, 0.0079, 0.006]
+        },
+        {
+          "text": "光弾攻撃音",
+          "translation": "Light projectile attack sound",
+          "bbox": [0.3331, 0.289, 0.0538, 0.0081]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.2739, 0.3065, 0.006, 0.0047]
+        },
+        {
+          "text": "エターナルメモリ(T2)",
+          "translation": "Eternal Memory (T2)",
+          "bbox": [0.0889, 0.3087, 0.1094, 0.0068]
+        },
+        {
+          "text": "サムズダウンの音",
+          "translation": "Thumbs-down sound",
+          "bbox": [0.3331, 0.3057, 0.0846, 0.0073]
+        },
+        {
+          "text": "(「台同モードである」信号受信した場合)",
+          "translation": "(When a signal indicating \"dialogue mode\" is received)",
+          "bbox": [0.0641, 0.3198, 0.1608, 0.0073]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.2727, 0.3219, 0.0085, 0.006]
+        },
+        {
+          "text": "光弾攻撃音 (メモリが台詞モードの場合、台詞が付加されます。)",
+          "translation": "Light projectile attack sound (If the Memory is in dialogue mode, dialogue lines are added.)",
+          "bbox": [0.3325, 0.3211, 0.2999, 0.0081]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.2745, 0.3382, 0.0042, 0.0047]
+        },
+        {
+          "text": "キック必殺前効果音",
+          "translation": "Pre-kick finisher sound",
+          "bbox": [0.3331, 0.3365, 0.0949, 0.0086]
+        },
+        {
+          "text": "スカルメモリ",
+          "translation": "Skull Memory",
+          "bbox": [0.1131, 0.3459, 0.0611, 0.0064]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.2727, 0.3536, 0.0079, 0.006]
+        },
+        {
+          "text": "メモリブレイク音 ( スカル固有音)",
+          "translation": "Memory break sound (Skull-specific sound)",
+          "bbox": [0.3325, 0.3527, 0.1578, 0.0077]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.2745, 0.3694, 0.0042, 0.0051]
+        },
+        {
+          "text": "風の音",
+          "translation": "Wind sound",
+          "bbox": [0.3325, 0.3681, 0.0314, 0.0081]
+        },
+        {
+          "text": "サイクロンメモリ",
+          "translation": "Cyclone Memory",
+          "bbox": [0.1022, 0.3771, 0.0828, 0.0068]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.2727, 0.3852, 0.0085, 0.006]
+        },
+        {
+          "text": "メモリブレイク音",
+          "translation": "Memory break sound",
+          "bbox": [0.3325, 0.3839, 0.0834, 0.0077]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.2739, 0.401, 0.0048, 0.0051]
+        },
+        {
+          "text": "拳に炎が灯る音",
+          "translation": "Sound of flames igniting on the fist",
+          "bbox": [0.3331, 0.4006, 0.075, 0.0068]
+        },
+        {
+          "text": "ヒートメモリ",
+          "translation": "Heat Memory",
+          "bbox": [0.1143, 0.4074, 0.058, 0.0077]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.2727, 0.4168, 0.0079, 0.006]
+        },
+        {
+          "text": "メモリブレイク音",
+          "translation": "Memory break sound",
+          "bbox": [0.3325, 0.4156, 0.0828, 0.0081]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.2739, 0.4327, 0.0054, 0.0051]
+        },
+        {
+          "text": "シャフト展開音",
+          "translation": "Shaft deployment sound",
+          "bbox": [0.3331, 0.4314, 0.0701, 0.0081]
+        },
+        {
+          "text": "メタルメモリ",
+          "translation": "Metal Memory",
+          "bbox": [0.1131, 0.4395, 0.0611, 0.0073]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.2733, 0.4481, 0.0079, 0.0056]
+        },
+        {
+          "text": "メモリブレイク音",
+          "translation": "Memory break sound",
+          "bbox": [0.3325, 0.4463, 0.0834, 0.0086]
+        },
+        {
+          "text": "ルナメモリ",
+          "translation": "Luna Memory",
+          "bbox": [0.1191, 0.4639, 0.0508, 0.0064]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.2739, 0.4643, 0.0048, 0.0043]
+        },
+        {
+          "text": "メモリブレイク音",
+          "translation": "Memory break sound",
+          "bbox": [0.3325, 0.4622, 0.0828, 0.009]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.2739, 0.4797, 0.0048, 0.0051]
+        },
+        {
+          "text": "銃構え音",
+          "translation": "Gun ready sound",
+          "bbox": [0.3325, 0.4793, 0.0429, 0.0068]
+        },
+        {
+          "text": "トリガーメモリ",
+          "translation": "Trigger Memory",
+          "bbox": [0.1094, 0.4865, 0.0677, 0.0068]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.2727, 0.4955, 0.0079, 0.0056]
+        },
+        {
+          "text": "メモリブレイク音",
+          "translation": "Memory break sound",
+          "bbox": [0.3325, 0.4942, 0.0828, 0.0077]
+        },
+        {
+          "text": "16",
+          "translation": "16",
+          "bbox": [0.4861, 0.982, 0.0296, 0.0107]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-16.webp",
+      "blocks": [
+        {
+          "text": "BGM機能",
+          "translation": "BGM Function",
+          "bbox": [0.0659, 0.0812, 0.0943, 0.0128]
+        },
+        {
+          "text": "BGMボタンを短押しします。",
+          "translation": "Press the BGM button briefly.",
+          "bbox": [0.0707, 0.1107, 0.1657, 0.0103]
+        },
+        {
+          "text": "BGM遊び",
+          "translation": "BGM Play",
+          "bbox": [0.4299, 0.0355, 0.1421, 0.0201]
+        },
+        {
+          "text": "BGMボタン",
+          "translation": "BGM Button",
+          "bbox": [0.4982, 0.1197, 0.0635, 0.0077]
+        },
+        {
+          "text": "モードに応じて、下記表の「BGM」が順番に鳴ります。",
+          "translation": "Depending on the mode, the BGMs listed in the table below will play in order.",
+          "bbox": [0.084, 0.124, 0.3102, 0.0094]
+        },
+        {
+          "text": "※BGMが鳴っている間に、もう一度「BGMボタン」を\n短押しすると、BGMが鳴り止みます。",
+          "translation": "If you press the BGM button briefly again while a BGM is playing, the BGM will stop.",
+          "bbox": [0.0744, 0.1513, 0.3144, 0.0227]
+        },
+        {
+          "text": "2 :左翔太郎モード",
+          "translation": "2: Shotaro Hidari Mode",
+          "bbox": [0.1378, 0.2078, 0.1215, 0.0098]
+        },
+        {
+          "text": "1:大道克己モード",
+          "translation": "1: Katsumi Daido Mode",
+          "bbox": [0.4414, 0.2069, 0.1209, 0.0107]
+        },
+        {
+          "text": "20: 鳴海荘吉モード",
+          "translation": "20: Sokichi Narumi Mode",
+          "bbox": [0.7346, 0.2074, 0.1288, 0.0103]
+        },
+        {
+          "text": "順番/",
+          "translation": "Order/",
+          "bbox": [0.0919, 0.2322, 0.0345, 0.0094]
+        },
+        {
+          "text": "順番/",
+          "translation": "Order/",
+          "bbox": [0.3936, 0.2326, 0.0345, 0.009]
+        },
+        {
+          "text": "順番/",
+          "translation": "Order/",
+          "bbox": [0.6953, 0.2334, 0.0326, 0.0077]
+        },
+        {
+          "text": "BGM",
+          "translation": "BGM",
+          "bbox": [0.2352, 0.2381, 0.0369, 0.0077]
+        },
+        {
+          "text": "BGM",
+          "translation": "BGM",
+          "bbox": [0.5363, 0.2377, 0.0381, 0.0077]
+        },
+        {
+          "text": "BGM",
+          "translation": "BGM",
+          "bbox": [0.8374, 0.2386, 0.0387, 0.0077]
+        },
+        {
+          "text": "スタンバイ回数",
+          "translation": "Standby count",
+          "bbox": [0.0713, 0.2433, 0.0756, 0.0086]
+        },
+        {
+          "text": "スタンバイ回数",
+          "translation": "Standby count",
+          "bbox": [0.3724, 0.2424, 0.0762, 0.0094]
+        },
+        {
+          "text": "スタンバイ回数",
+          "translation": "Standby count",
+          "bbox": [0.6735, 0.2433, 0.0762, 0.0086]
+        },
+        {
+          "text": "1回目",
+          "translation": "1st",
+          "bbox": [0.0949, 0.2655, 0.0308, 0.0073]
+        },
+        {
+          "text": "運命のジョーカー",
+          "translation": "Joker of Fate",
+          "bbox": [0.1735, 0.2651, 0.0895, 0.0081]
+        },
+        {
+          "text": "1回目",
+          "translation": "1st",
+          "bbox": [0.3954, 0.2655, 0.0308, 0.0077]
+        },
+        {
+          "text": "Eの力 【前半】",
+          "translation": "Power of E [first half]",
+          "bbox": [0.4752, 0.2646, 0.0653, 0.0094]
+        },
+        {
+          "text": "1回目",
+          "translation": "1st",
+          "bbox": [0.6965, 0.2655, 0.0314, 0.0077]
+        },
+        {
+          "text": "スカル変身",
+          "translation": "Skull Transformation",
+          "bbox": [0.7757, 0.2651, 0.0586, 0.0081]
+        },
+        {
+          "text": "2回目",
+          "translation": "2nd",
+          "bbox": [0.0937, 0.2877, 0.0308, 0.0073]
+        },
+        {
+          "text": "仮面ライダーエターナル",
+          "translation": "Kamen Rider Eternal",
+          "bbox": [0.1735, 0.2864, 0.1276, 0.0081]
+        },
+        {
+          "text": "2回目",
+          "translation": "2nd",
+          "bbox": [0.3942, 0.2873, 0.032, 0.0081]
+        },
+        {
+          "text": "Eの力 【後半】",
+          "translation": "Power of E [second half]",
+          "bbox": [0.4752, 0.2852, 0.0659, 0.0098]
+        },
+        {
+          "text": "2回目",
+          "translation": "2nd",
+          "bbox": [0.6953, 0.2877, 0.0326, 0.0073]
+        },
+        {
+          "text": "罪のカウント",
+          "translation": "Sin Count",
+          "bbox": [0.7757, 0.2864, 0.0671, 0.0077]
+        },
+        {
+          "text": "3回目",
+          "translation": "3rd",
+          "bbox": [0.0931, 0.3083, 0.0314, 0.0068]
+        },
+        {
+          "text": "プリズムソード",
+          "translation": "Prism Sword",
+          "bbox": [0.1735, 0.3065, 0.0768, 0.0086]
+        },
+        {
+          "text": "3回目",
+          "translation": "3rd",
+          "bbox": [0.3942, 0.3074, 0.032, 0.0081]
+        },
+        {
+          "text": "仮面ライダーエターナル",
+          "translation": "Kamen Rider Eternal",
+          "bbox": [0.474, 0.3074, 0.1288, 0.0081]
+        },
+        {
+          "text": "3回目",
+          "translation": "3rd",
+          "bbox": [0.6947, 0.3065, 0.0326, 0.0094]
+        },
+        {
+          "text": "仮面ライダースカル",
+          "translation": "Kamen Rider Skull",
+          "bbox": [0.7757, 0.3074, 0.104, 0.0081]
+        },
+        {
+          "text": "4回目",
+          "translation": "4th",
+          "bbox": [0.0919, 0.3292, 0.0339, 0.0077]
+        },
+        {
+          "text": "ハードボイルド",
+          "translation": "Hard‑boiled",
+          "bbox": [0.1735, 0.3279, 0.0786, 0.009]
+        },
+        {
+          "text": "4回目",
+          "translation": "4th",
+          "bbox": [0.3936, 0.3292, 0.0333, 0.0081]
+        },
+        {
+          "text": "激闘! 風都タワー【前半】",
+          "translation": "Fierce Battle! Futo Tower [first half]",
+          "bbox": [0.4746, 0.3279, 0.1239, 0.0086]
+        },
+        {
+          "text": "4回目",
+          "translation": "4th",
+          "bbox": [0.6947, 0.3296, 0.0339, 0.0073]
+        },
+        {
+          "text": "Nobody's Perfect",
+          "translation": "Nobody's Perfect",
+          "bbox": [0.7763, 0.3271, 0.1064, 0.0098]
+        },
+        {
+          "text": "5回目",
+          "translation": "5th",
+          "bbox": [0.3942, 0.3506, 0.032, 0.0077]
+        },
+        {
+          "text": "激闘! 風都タワー 【後半】",
+          "translation": "Fierce Battle! Futo Tower [second half]",
+          "bbox": [0.474, 0.3493, 0.1245, 0.0086]
+        },
+        {
+          "text": "6回目",
+          "translation": "6th",
+          "bbox": [0.3948, 0.3715, 0.0314, 0.0068]
+        },
+        {
+          "text": "W (movie edit.)",
+          "translation": "W (movie edit.)",
+          "bbox": [0.474, 0.3698, 0.0937, 0.0094]
+        },
+        {
+          "text": "BGMスタンバイ遊び",
+          "translation": "BGM Standby Play",
+          "bbox": [0.0659, 0.4096, 0.1917, 0.0137]
+        },
+        {
+          "text": "①BGMボタンを長押しします。",
+          "translation": "① Press and hold the BGM button.",
+          "bbox": [0.0701, 0.4399, 0.1802, 0.0094]
+        },
+        {
+          "text": "「スタンバイ音」が鳴ります。",
+          "translation": "The \"standby tone\" will sound.",
+          "bbox": [0.0979, 0.4532, 0.1614, 0.009]
+        },
+        {
+          "text": "※モードに応じてそのまま長押しし続けると、\n「2:左翔太郎モード」→最大4回\n「1:大道克己モード」→最大6回\n「鳴海荘吉モード」→最大4回の「スタンバイ音」が鳴ります。",
+          "translation": "Depending on the mode, if you continue to press and hold, the \"standby tone\" will sound repeatedly up to:\n\"2: Shotaro Hidari Mode\" → up to 4 times\n\"1: Katsumi Daido Mode\" → up to 6 times\n\"Sokichi Narumi Mode\" → up to 4 times.",
+          "bbox": [0.0871, 0.4763, 0.3748, 0.0492]
+        },
+        {
+          "text": "17",
+          "translation": "17",
+          "bbox": [0.4861, 0.9829, 0.0284, 0.0103]
+        },
+        {
+          "text": "②続けて「変身遊び」の操作を行います。",
+          "translation": "② Then perform the \"transformation play\" operation.",
+          "bbox": [0.5121, 0.4399, 0.2322, 0.0094]
+        },
+        {
+          "text": "「変身音」とともに、指定した上記表のBGMが鳴ります。",
+          "translation": "Along with the \"transformation sound,\" the BGM specified in the table above will play.",
+          "bbox": [0.5393, 0.454, 0.3235, 0.0094]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-17.webp",
+      "blocks": [
+        {
+          "text": "劇中再現変身遊び",
+          "translation": "Show-Accurate Transformation Play",
+          "bbox": [0.3767, 0.0338, 0.2455, 0.0227]
+        },
+        {
+          "text": "2 その後変身動作を行います。\n変身に使用したメモリと「劇中再現変身選択音」を\n鳴らした回数に応じて、",
+          "translation": "2. Then perform the transformation motion.\nDepending on the Memory used for the transformation and the number of times the \"Show-Accurate Transformation Selection Sound\" was played,",
+          "bbox": [0.6058, 0.0761, 0.3271, 0.0393]
+        },
+        {
+          "text": "1 <変身前状態>でBGMボタンと台詞ボタンを同時に長押しします。\n「劇中再現変身選択音」が鳴ります。",
+          "translation": "1. While in <変身前状態>, press and hold the BGM button and the Dialogue button at the same time.\nThe \"Show-Accurate Transformation Selection Sound\" will play.",
+          "bbox": [0.0574, 0.0774, 0.4111, 0.0231]
+        },
+        {
+          "text": "BGM",
+          "translation": "BGM",
+          "bbox": [0.1378, 0.1278, 0.029, 0.0064]
+        },
+        {
+          "text": "ボタン",
+          "translation": "Button",
+          "bbox": [0.1336, 0.1372, 0.0333, 0.0073]
+        },
+        {
+          "text": "台詞\nボタン",
+          "translation": "Dialogue\nButton",
+          "bbox": [0.4468, 0.1278, 0.0326, 0.0162]
+        },
+        {
+          "text": "下記表の「劇中再現変身」を行うことができます。",
+          "translation": "You can perform the \"Show-Accurate Transformation\" listed in the table below.",
+          "bbox": [0.6427, 0.1197, 0.2817, 0.009]
+        },
+        {
+          "text": "そのまま長押しし続けるとモードに応じて、「劇中再現変身選択音」が鳴ります。",
+          "translation": "If you continue to hold the buttons, the \"Show-Accurate Transformation Selection Sound\" will play according to the current mode.",
+          "bbox": [0.0828, 0.2381, 0.4565, 0.0098]
+        },
+        {
+          "text": "「2:左翔太郎モード」",
+          "translation": "2: Shotaro Hidari Mode",
+          "bbox": [0.0919, 0.2561, 0.1215, 0.0103]
+        },
+        {
+          "text": "1:大道克己モード」",
+          "translation": "1: Katsumi Daido Mode",
+          "bbox": [0.101, 0.274, 0.1125, 0.0098]
+        },
+        {
+          "text": "「鳴海荘吉モード」",
+          "translation": "Sokichi Narumi Mode",
+          "bbox": [0.0919, 0.2916, 0.1215, 0.0107]
+        },
+        {
+          "text": "最大2回(1回目: 装填音 / 2回目:引き抜き音)",
+          "translation": "Up to 2 times (1st: loading sound / 2nd: pull-out sound)",
+          "bbox": [0.2437, 0.2561, 0.2757, 0.0103]
+        },
+        {
+          "text": "最大3回(1・2回目: 装填音/3回目:引き抜き音)",
+          "translation": "Up to 3 times (1st & 2nd: loading sound / 3rd: pull-out sound)",
+          "bbox": [0.2449, 0.274, 0.2914, 0.0098]
+        },
+        {
+          "text": "2回目:引き抜き音)\n最大2回(1回目:音/",
+          "translation": "2nd: pull-out sound)\nUp to 2 times (1st: sound/",
+          "bbox": [0.2437, 0.2916, 0.2763, 0.0107]
+        },
+        {
+          "text": "※鳴らした回数によって、モードごとに下記表の「劇中再現変身」を行うことができます。\n※「劇中再現変身選択音」が鳴らない場合は、<変身前状態になっていない可能性があるので、\n「変身解除」をするか電源を入れなおしてください。",
+          "translation": "* Depending on the number of times the selection sound is played, you can perform the corresponding \"Show-Accurate Transformation\" listed in the table below for each mode.\n* If the \"Show-Accurate Transformation Selection Sound\" does not play, the unit may not be in <変身前状態>. Please perform \"変身解除\" (De-transformation) or turn the power off and on again.",
+          "bbox": [0.0695, 0.3241, 0.4873, 0.0316]
+        },
+        {
+          "text": "※下記の変身音が鳴らない場合、\nメモリとドライバーの通信が失敗している可能性が\nあります。 一度メモリを引き抜き「変身解除音」を鳴らした後、\n再度「劇中再現変身選択音」を鳴らし、\n変身動作を行ってください。",
+          "translation": "* If the transformation sound below does not play, communication between the Memory and the Driver may have failed.\nRemove the Memory once, play the \"De-transformation sound,\" then play the \"Show-Accurate Transformation Selection Sound\" again and perform the transformation motion.",
+          "bbox": [0.6131, 0.2933, 0.3235, 0.0607]
+        },
+        {
+          "text": "ジョーカーメモリ (T2)を",
+          "translation": "Joker Memory (T2)",
+          "bbox": [0.0689, 0.3848, 0.1663, 0.0115]
+        },
+        {
+          "text": "BOXER",
+          "translation": "BOXER",
+          "bbox": [0.3307, 0.3882, 0.0218, 0.0026]
+        },
+        {
+          "text": "装填した場合",
+          "translation": "If loaded",
+          "bbox": [0.0683, 0.3985, 0.0889, 0.0098]
+        },
+        {
+          "text": "ジョーカーメモリ (CSMダブルドライバーver.2",
+          "translation": "Joker Memory (CSM Double Driver ver.2)",
+          "bbox": [0.526, 0.3844, 0.2273, 0.0128]
+        },
+        {
+          "text": "を装填した場合",
+          "translation": "If loaded",
+          "bbox": [0.5266, 0.398, 0.1034, 0.0107]
+        },
+        {
+          "text": "「2:左翔太郎モード」で",
+          "translation": "In \"2: Shotaro Hidari Mode\"",
+          "bbox": [0.0659, 0.4288, 0.127, 0.0086]
+        },
+        {
+          "text": "劇中再現変身の種類",
+          "translation": "Type of Show-Accurate Transformation",
+          "bbox": [0.2836, 0.4339, 0.1215, 0.0094]
+        },
+        {
+          "text": "選択音を鳴らした回数",
+          "translation": "Number of times the selection sound was played",
+          "bbox": [0.0677, 0.4408, 0.1227, 0.0081]
+        },
+        {
+          "text": "「2:左翔太郎モード」で\n選択音を鳴らした回数",
+          "translation": "Number of times the selection sound was played in \"2: Shotaro Hidari Mode\"",
+          "bbox": [0.5224, 0.4284, 0.1276, 0.0205]
+        },
+        {
+          "text": "劇中再現変身の種類",
+          "translation": "Type of Show-Accurate Transformation",
+          "bbox": [0.7412, 0.4331, 0.1215, 0.0107]
+        },
+        {
+          "text": "1回",
+          "translation": "1 time",
+          "bbox": [0.1203, 0.4622, 0.0187, 0.0073]
+        },
+        {
+          "text": "無し",
+          "translation": "None",
+          "bbox": [0.2122, 0.4622, 0.0242, 0.0073]
+        },
+        {
+          "text": "仮面ライダー大戦版変身",
+          "translation": "Kamen Rider Taisen Version Transformation",
+          "bbox": [0.6693, 0.4613, 0.1282, 0.0086]
+        },
+        {
+          "text": "劇中再現変身設定の解除",
+          "translation": "Cancel Show-Accurate Transformation Setting",
+          "bbox": [0.2122, 0.4814, 0.1288, 0.0081]
+        },
+        {
+          "text": "1回",
+          "translation": "1 time",
+          "bbox": [0.5774, 0.484, 0.0206, 0.0073]
+        },
+        {
+          "text": "2回",
+          "translation": "2 times",
+          "bbox": [0.1191, 0.4891, 0.0206, 0.0068]
+        },
+        {
+          "text": "現在行っている劇中再現変身の設定が解除されます。",
+          "translation": "The current Show-Accurate Transformation setting will be cancelled.",
+          "bbox": [0.2219, 0.4947, 0.2334, 0.0068]
+        },
+        {
+          "text": "※選択音を鳴らさずに変身した場合は、 「AtoZ効果音付変身音」が鳴ります。",
+          "translation": "* If you transform without playing the selection sound, the \"Transformation Sound with AtoZ sound effects\" will play.",
+          "bbox": [0.0665, 0.5212, 0.3906, 0.0086]
+        },
+        {
+          "text": "「名乗り音」と「変身音」 の間が空き、「風効果音」が\n付加されます。\nメモリが台詞モードであった場合、 「変身。」と\n「さあ、おまえの罪を数えろ。」の台詞が付加されます。\n劇中再現変身設定の解除",
+          "translation": "A pause is inserted between the \"name-announce\" and the \"transformation sound,\" and a \"wind sound effect\" is added.\nIf the Memory is in dialogue mode, the lines \"変身.\" (\"Henshin.\") and \"さあ、おまえの罪を数えろ.\" (\"Now, count your sins.\") will be added.\nCancel Show-Accurate Transformation Setting",
+          "bbox": [0.6693, 0.4741, 0.2424, 0.0577]
+        },
+        {
+          "text": "エターナルメモリ(T2)を",
+          "translation": "Eternal Memory (T2)",
+          "bbox": [0.0695, 0.6007, 0.1711, 0.0098]
+        },
+        {
+          "text": "装填した場合",
+          "translation": "If loaded",
+          "bbox": [0.0683, 0.6135, 0.0889, 0.0103]
+        },
+        {
+          "text": "2回",
+          "translation": "2 times",
+          "bbox": [0.5762, 0.531, 0.02, 0.0064]
+        },
+        {
+          "text": "◆現在行っている劇中再現変身の設定が解除されます。",
+          "translation": "◆ The current Show-Accurate Transformation setting will be cancelled.",
+          "bbox": [0.6705, 0.537, 0.2424, 0.0068]
+        },
+        {
+          "text": "※選択音を鳴らさずに変身した場合は、変身音に「49話効果音」が付加されます。",
+          "translation": "* If you transform without playing the selection sound, the \"Episode 49 sound effect\" will be added to the transformation sound.",
+          "bbox": [0.5218, 0.5639, 0.4117, 0.0081]
+        },
+        {
+          "text": "エターナルメモリを\n装填した場合",
+          "translation": "When the Eternal Memory is loaded",
+          "bbox": [0.5248, 0.6003, 0.133, 0.0239]
+        },
+        {
+          "text": "1:大道克己モード」で",
+          "translation": "1: In \"Katsumi Daido Mode\"",
+          "bbox": [0.0744, 0.6533, 0.1185, 0.009]
+        },
+        {
+          "text": "劇中再現変身の種類",
+          "translation": "Type of Show-Accurate Transformation",
+          "bbox": [0.2842, 0.658, 0.1209, 0.0094]
+        },
+        {
+          "text": "選択音を鳴らした回数",
+          "translation": "Number of times the selection sound was played",
+          "bbox": [0.0671, 0.6652, 0.1227, 0.0086]
+        },
+        {
+          "text": "1: 大道克己モード」で\n選択音を鳴らした回数",
+          "translation": "1: Number of times the selection sound was played in \"Katsumi Daido Mode\"",
+          "bbox": [0.5242, 0.6537, 0.1258, 0.0201]
+        },
+        {
+          "text": "劇中再現変身の種類",
+          "translation": "Type of Show-Accurate Transformation",
+          "bbox": [0.7406, 0.6575, 0.1203, 0.0103]
+        },
+        {
+          "text": "AtoZラストバトル版変身",
+          "translation": "AtoZ Last Battle Version Transformation",
+          "bbox": [0.2122, 0.6841, 0.1312, 0.0081]
+        },
+        {
+          "text": "ブルーフレア初変身",
+          "translation": "First Blue Flare Transformation",
+          "bbox": [0.6699, 0.6845, 0.1034, 0.009]
+        },
+        {
+          "text": "1回",
+          "translation": "1 time",
+          "bbox": [0.1203, 0.6947, 0.02, 0.0077]
+        },
+        {
+          "text": "劇場版ラストバトルをイメージした、",
+          "translation": "Inspired by the movie's final-battle sequence,",
+          "bbox": [0.2219, 0.6956, 0.1584, 0.0073]
+        },
+        {
+          "text": "1回",
+          "translation": "1 time",
+          "bbox": [0.5774, 0.693, 0.0206, 0.0077]
+        },
+        {
+          "text": "短縮版の変身音が鳴ります。",
+          "translation": "A shortened version of the transformation sound will play.",
+          "bbox": [0.2225, 0.705, 0.1233, 0.0068]
+        },
+        {
+          "text": "ドライバー側が右記表の",
+          "translation": "The Driver side behaves as shown in the table to the right.",
+          "bbox": [0.2134, 0.7234, 0.1245, 0.0086]
+        },
+        {
+          "text": "2回",
+          "translation": "2 times",
+          "bbox": [0.1191, 0.7302, 0.0212, 0.0068]
+        },
+        {
+          "text": "2回",
+          "translation": "2 times",
+          "bbox": [0.5756, 0.7272, 0.0212, 0.0073]
+        },
+        {
+          "text": "アイズ・ドーパント戦変身と同様の挙動を行います。",
+          "translation": "It performs the same behavior as the transformation during the Eyes Dopant battle.",
+          "bbox": [0.2122, 0.7362, 0.2618, 0.0086]
+        },
+        {
+          "text": "「変身音」が「ブルーフレア変化音付変身音」に変化します。\nアイズ・ドーパント戦変身\n装填時に「エターナル」の音声がベルトから鳴り、\n展開後の変身音から「名乗り音」 が無くなります。",
+          "translation": "The \"transformation sound\" changes to a \"transformation sound with Blue Flare transition effect.\" \nEyes Dopant battle transformation:\nWhen loaded, the voice saying \"Eternal\" is played from the belt, and the \"name-announce\" is removed from the transformation sound played after deployment.",
+          "bbox": [0.6693, 0.6977, 0.2624, 0.0496]
+        },
+        {
+          "text": "劇中再現変身設定の解除",
+          "translation": "Cancel Show-Accurate Transformation Setting",
+          "bbox": [0.2122, 0.7559, 0.1294, 0.0094]
+        },
+        {
+          "text": "劇中再現変身設定の解除",
+          "translation": "Cancel Show-Accurate Transformation Setting",
+          "bbox": [0.6693, 0.7567, 0.1294, 0.0081]
+        },
+        {
+          "text": "3回",
+          "translation": "3 times",
+          "bbox": [0.1191, 0.7623, 0.0206, 0.0068]
+        },
+        {
+          "text": "3回",
+          "translation": "3 times",
+          "bbox": [0.5762, 0.7636, 0.0212, 0.0064]
+        },
+        {
+          "text": "現在行っている劇中再現変身の設定が解除されます。",
+          "translation": "The current Show-Accurate Transformation setting will be cancelled.",
+          "bbox": [0.2225, 0.77, 0.2334, 0.0068]
+        },
+        {
+          "text": "現在行っている劇中再現変身の設定が解除されます。",
+          "translation": "The current Show-Accurate Transformation setting will be cancelled.",
+          "bbox": [0.6796, 0.77, 0.234, 0.0064]
+        },
+        {
+          "text": "※選択音を鳴らさずに変身した場合は、「AtoZ効果音付変身音」が鳴ります。",
+          "translation": "* If you transform without playing the selection sound, the \"Transformation Sound with AtoZ sound effects\" will play.",
+          "bbox": [0.0671, 0.7961, 0.3912, 0.009]
+        },
+        {
+          "text": "スカルメモリを",
+          "translation": "Skull Memory",
+          "bbox": [0.0689, 0.8337, 0.1028, 0.0086]
+        },
+        {
+          "text": "装填した場合",
+          "translation": "If loaded",
+          "bbox": [0.0689, 0.8461, 0.0883, 0.0103]
+        },
+        {
+          "text": "SKULL",
+          "translation": "SKULL",
+          "bbox": [0.3277, 0.835, 0.0236, 0.0034]
+        },
+        {
+          "text": "※選択音を鳴らさずに変身した場合は、「風音付変身音」が鳴ります。\n※スカルメモリが台詞モードかつ、「変身」の台詞を鳴らしていない状態で\n選択音を鳴らさずに変身した場合は、変身音に「変身」の台詞が",
+          "translation": "* If you transform without playing the selection sound, a \"transformation sound with wind effects\" will play.\n* If the Skull Memory is in dialogue mode and its \"Henshin\" line has not yet been played, and you transform without playing the selection sound, the \"Henshin\" line will be added to the transformation sound.",
+          "bbox": [0.0665, 0.8747, 0.373, 0.0321]
+        },
+        {
+          "text": "付加されます。",
+          "translation": "It will be added.",
+          "bbox": [0.0768, 0.9106, 0.0756, 0.0077]
+        },
+        {
+          "text": "「0:東海荘吉モード」で",
+          "translation": "In \"0: Tokai Sokichi Mode\"",
+          "bbox": [0.4794, 0.8354, 0.1276, 0.0086]
+        },
+        {
+          "text": "選択音を鳴らした回数",
+          "translation": "Number of times the selection sound was played",
+          "bbox": [0.4807, 0.8469, 0.1239, 0.0086]
+        },
+        {
+          "text": "18",
+          "translation": "18",
+          "bbox": [0.4867, 0.9825, 0.0278, 0.0107]
+        },
+        {
+          "text": "劇中再現変身の種類",
+          "translation": "Type of Show-Accurate Transformation",
+          "bbox": [0.7201, 0.8401, 0.1209, 0.0094]
+        },
+        {
+          "text": "MOVIE大戦CORE版変身",
+          "translation": "MOVIE War CORE Version Transformation",
+          "bbox": [0.6282, 0.8666, 0.1372, 0.0081]
+        },
+        {
+          "text": "1回",
+          "translation": "1 time",
+          "bbox": [0.5339, 0.873, 0.02, 0.0077]
+        },
+        {
+          "text": "「変身音」が「スカルクリスタルからの変化音付変身」に変化します。",
+          "translation": "The \"transformation sound\" changes to a \"transformation sound accompanied by the transition effect from the Skull Crystal.\"",
+          "bbox": [0.6385, 0.8803, 0.289, 0.0077]
+        },
+        {
+          "text": "劇中再現変身設定の解除",
+          "translation": "Cancel Show-Accurate Transformation Setting",
+          "bbox": [0.6276, 0.8982, 0.1294, 0.0081]
+        },
+        {
+          "text": "2回",
+          "translation": "2 times",
+          "bbox": [0.5326, 0.9038, 0.02, 0.0073]
+        },
+        {
+          "text": "◆現在行っている劇中再現変身の設定が解除されます。",
+          "translation": "◆ The current Show-Accurate Transformation setting will be cancelled.",
+          "bbox": [0.6282, 0.9115, 0.243, 0.0068]
+        }
+      ]
+    }
+  ]
+}

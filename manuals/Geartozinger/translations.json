@@ -1,0 +1,3036 @@
+{
+  "meta": {
+    "manual_name": "Geartozinger",
+    "source": "Geartozinger.pdf",
+    "source_lang": "ja",
+    "target_lang": "en",
+    "source_url": "",
+    "blog_url": "",
+    "pages": 10,
+    "blocks": 594,
+    "thumbnail": "pages/page-0.webp",
+    "tags": ["kamen-rider", "memorial", "sentai"]
+  },
+  "pages": [
+    {
+      "image": "pages/page-0.webp",
+      "blocks": [
+        {
+          "text": "内容物",
+          "translation": "Contents",
+          "bbox": [0.0761, 0.2056, 0.0821, 0.02]
+        },
+        {
+          "text": "トリガー",
+          "translation": "Trigger",
+          "bbox": [0.1726, 0.3682, 0.0419, 0.0079]
+        },
+        {
+          "text": "ギアトジンガー\nMEMORIAL EDITION",
+          "translation": "Geartozinger\nMEMORIAL EDITION",
+          "bbox": [0.247, 0.0266, 0.5051, 0.078]
+        },
+        {
+          "text": "とりあつカイ せつ めい しょ",
+          "translation": "Instruction Manual",
+          "bbox": [0.4222, 0.1252, 0.1564, 0.0091]
+        },
+        {
+          "text": "©2021 テレビ朝日・東映AG・東映",
+          "translation": "©2021 TV Asahi · Toei AG · Toei",
+          "bbox": [0.8231, 0.0798, 0.1359, 0.006]
+        },
+        {
+          "text": "取扱説明書",
+          "translation": "Instruction Manual",
+          "bbox": [0.4111, 0.1342, 0.1795, 0.0248]
+        },
+        {
+          "text": "WEB取扱説明書内の画像は全てイメージです。",
+          "translation": "All images in the online instruction manual are for illustrative purposes only.",
+          "bbox": [0.6872, 0.1747, 0.2726, 0.0109]
+        },
+        {
+          "text": "ギアトジンガー(本体)×1 ダイキャスト製 ダークセンタイギア×8 ダイキャスト製トジルギアx1",
+          "translation": "Geartozinger (main unit) ×1, Die-cast Dark Sentai Gears ×8, Die-cast Tojiru Gear ×1",
+          "bbox": [0.2376, 0.214, 0.5521, 0.0097]
+        },
+        {
+          "text": "16",
+          "translation": "16",
+          "bbox": [0.6222, 0.2582, 0.0137, 0.0115]
+        },
+        {
+          "text": "[ステイシーザー]",
+          "translation": "[Stacaesar]",
+          "bbox": [0.5085, 0.2969, 0.0906, 0.0109]
+        },
+        {
+          "text": "ゼンカイ\nジュラン",
+          "translation": "Zenkai\nJuran",
+          "bbox": [0.6171, 0.2981, 0.0479, 0.02]
+        },
+        {
+          "text": "ゼンカイ 【ゴレンジャー ジュウレンジャー\nガオーン",
+          "translation": "Zenkai [Gorenger, Zyuranger\nGaon",
+          "bbox": [0.6983, 0.2975, 0.2299, 0.0206]
+        },
+        {
+          "text": "25",
+          "translation": "25",
+          "bbox": [0.5325, 0.344, 0.0162, 0.0127]
+        },
+        {
+          "text": "30",
+          "translation": "30",
+          "bbox": [0.7556, 0.3452, 0.0171, 0.0103]
+        },
+        {
+          "text": "ガオレンジャー",
+          "translation": "Gaoranger",
+          "bbox": [0.5179, 0.3833, 0.0701, 0.0091]
+        },
+        {
+          "text": "マジレンジャー",
+          "translation": "Magiranger",
+          "bbox": [0.6265, 0.3845, 0.0778, 0.0079]
+        },
+        {
+          "text": "ボウケンジャー",
+          "translation": "Boukenger",
+          "bbox": [0.7376, 0.3827, 0.0778, 0.0097]
+        },
+        {
+          "text": "トジルギア",
+          "translation": "Tojiru Gear",
+          "bbox": [0.8615, 0.3833, 0.0538, 0.0091]
+        },
+        {
+          "text": "ハンドル",
+          "translation": "Handle",
+          "bbox": [0.2915, 0.4051, 0.0453, 0.0079]
+        },
+        {
+          "text": "【後部】",
+          "translation": "[Rear]",
+          "bbox": [0.0769, 0.4262, 0.0385, 0.0097]
+        },
+        {
+          "text": "電池の替え方と電源",
+          "translation": "Battery replacement and power",
+          "bbox": [0.2838, 0.4274, 0.1889, 0.0169]
+        },
+        {
+          "text": "【側面】",
+          "translation": "[Side]",
+          "bbox": [0.5521, 0.4407, 0.0368, 0.0091]
+        },
+        {
+          "text": "E",
+          "translation": "E",
+          "bbox": [0.7897, 0.4389, 0.0103, 0.0109]
+        },
+        {
+          "text": "単4 x3",
+          "translation": "AAA ×3",
+          "bbox": [0.8231, 0.4371, 0.0684, 0.0097]
+        },
+        {
+          "text": "※電源スイッチがOFFになっていることを\n確認してください。\n電池カバーを取り外し、",
+          "translation": "※Make sure the power switch is set to OFF. Remove the battery cover,",
+          "bbox": [0.2821, 0.4559, 0.241, 0.0339]
+        },
+        {
+          "text": "電池カバー",
+          "translation": "Battery cover",
+          "bbox": [0.5479, 0.4843, 0.059, 0.0079]
+        },
+        {
+          "text": "単4乾電池3本使用(別売り)\n●アルカリ電池専用",
+          "translation": "Uses 3 × AAA dry batteries (sold separately)\n●Alkaline batteries only",
+          "bbox": [0.7641, 0.4601, 0.147, 0.0296]
+        },
+        {
+          "text": "+またはードライバーで",
+          "translation": "Using a + (Phillips) or - (flat‑head) screwdriver",
+          "bbox": [0.2821, 0.4921, 0.1333, 0.0085]
+        },
+        {
+          "text": "電池蓋を取り外して、単4乾電池3本を",
+          "translation": "Remove the battery cover and insert three AAA dry batteries.",
+          "bbox": [0.2821, 0.503, 0.2154, 0.0097]
+        },
+        {
+          "text": "セリフボタン",
+          "translation": "Dialogue button",
+          "bbox": [0.0684, 0.5992, 0.0675, 0.0103]
+        },
+        {
+          "text": "BGMボタン",
+          "translation": "BGM Button",
+          "bbox": [0.1624, 0.6016, 0.0667, 0.0067]
+        },
+        {
+          "text": "正しい向きにセットします。\n電源スイッチをO (ON)の方向に動かすと\nギアトジンガー起動音とともに",
+          "translation": "Set the batteries in the correct orientation. When you move the power switch to O (ON), the Geartozinger will start up with a startup sound,",
+          "bbox": [0.2812, 0.5133, 0.2342, 0.0345]
+        },
+        {
+          "text": "本体が起動します。",
+          "translation": "The unit starts up.",
+          "bbox": [0.2812, 0.5508, 0.1077, 0.0085]
+        },
+        {
+          "text": "※起動時にトリガーを押しながら\n電源をONにすると、\n「介人入れ替わりモード」に移行します。",
+          "translation": "*If you hold down the trigger while turning the power ON at startup, the unit will enter \"Kaito Swap Mode.\"",
+          "bbox": [0.2829, 0.5659, 0.2376, 0.0326]
+        },
+        {
+          "text": "O",
+          "translation": "O",
+          "bbox": [0.7188, 0.5429, 0.0162, 0.0097]
+        },
+        {
+          "text": "電源スイッチ 電池蓋",
+          "translation": "Power switch  Battery cover",
+          "bbox": [0.794, 0.581, 0.1188, 0.0097]
+        },
+        {
+          "text": "△注意 お買い上げのお客様へ 必ずお読みください。\n●本商品の対象年齢は15才以上です。 対象年齢未満のお子様には絶対に与えないでください。\n●小さな部品、電池がありますので、小さなお子様が誤って飲み込まないように注意してください。 窒息などの危険があります。\n●尖った部分や鋭い部分がありますので、取扱いや保管場所に注意してください。思わぬケガをする恐れがあります。\n●耳の近くで使用してはいけません。 誤って使用すると、聴覚を損なう恐れがあります。\n●本商品には電子部品を使用しております。 ペースメーカーをご使用の方は、 本商品を身体に近づけないようご注意ください。\n●LEDの光の点滅を見続けないでください。 気分が悪くなったりする恐れがあります。\n《電池を誤使用すると発熱・破裂・液漏れの恐れがあります。 下記に注意してください》\n●二次電池(充電式電池) は、 絶対に使用しないでください。\n●古い電池と新しい電池、いろいろな種類の電池をまぜて使わないでください。\n●+(プラスマイナス) を正しくセットしてください。",
+          "translation": "△ Caution — Please read before use.\n● This product is for Ages 15+. Never give it to children below the target age.\n● This product contains small parts and batteries. Keep away from small children who might swallow them — risk of choking.\n● The product has pointed or sharp parts. Take care when handling and storing to avoid unexpected injury.\n● Do not use near the ear. Improper use may damage hearing.\n● This product contains electronic components. If you use a pacemaker, keep the product away from your body.\n● Do not stare at flashing LED light; it may cause discomfort.\n《Improper use of batteries may cause overheating, rupture, or leakage. Observe the following:》\n● Never use secondary (rechargeable) batteries.\n● Do not mix old and new batteries or different types of batteries.\n● Insert batteries with correct + and - polarity.",
+          "bbox": [0.0667, 0.6602, 0.8128, 0.1481]
+        },
+        {
+          "text": "●遊んだ後は必ずスイッチを切り電池をはずしてください。 電池を入れたままにしておくと、液漏れの恐れがあり危険です。\n●ショートさせたり充電、分解、 加熱、火の中に入れたりしないでください。\n●万一、電池から漏れた液が目に入ったときはすぐに大量の水で洗い、医師に相談してください。 皮膚や服に付いた時は水で洗ってください。\n●廃棄するときは、 自治体の廃棄物処理の指示に従ってください。",
+          "translation": "● After use, always turn off the switch and remove the batteries. Leaving batteries in the product may cause leakage and is dangerous.\n● Do not short-circuit, charge, disassemble, heat, or put batteries into fire.\n● If battery fluid gets into the eyes, rinse immediately with plenty of water and consult a doctor. If it contacts skin or clothing, wash thoroughly with water.\n● When disposing of batteries or the product, follow your local municipality's waste disposal instructions.",
+          "bbox": [0.0667, 0.8108, 0.8632, 0.0478]
+        },
+        {
+          "text": "《使用上の注意》",
+          "translation": "《Precautions for Use》",
+          "bbox": [0.053, 0.8724, 0.1282, 0.0115]
+        },
+        {
+          "text": "●本商品は精密に作られています。無理な力を加えたり、落としたりすると破損する恐れがあります。 本商品は精密な電子部品で\n構成されています。 落としたり、水に濡らしたり、汚したり、分解したりしないでください。 また、高温・低温になるところでの使用、\n保管はさけてください。 プラスチック梱包材は、開封後はすぐに捨ててください。●本商品には塗装部分がありますので、保管の\n際には他のもの (樹脂製品や家具、ソファー)と接触しないようにしてください。 色が移る場合があります。 ●可動部分・取付部分を\n無理な方向に強く引っ張ったり、曲げたりしないでください。 発音の一部にイントネーションが違っていたり、 商品の特性上聞き\n取りにくいものがありますが、ご了承ください。 ●本商品にはセンタイギア以外はセットしないでください。故障や破損の原因と\nなります。 ●本体にトジルギアをセットしないでください。故障や破損の原因となります。",
+          "translation": "● This product is precision-made. Applying excessive force or dropping it may cause breakage. It contains precision electronic parts; do not drop, get wet, soil, or disassemble it. Also avoid use or storage in places of extremely high or low temperature. Dispose of plastic packaging immediately after opening.\n● Parts of this product are painted; during storage avoid contact with other items (resin products, furniture, sofas) as color transfer may occur.\n● Do not forcefully pull or bend moving parts or attachment points in unnatural directions. Some voice lines may have unusual intonation or be difficult to hear due to product characteristics; please understand this.\n● Only insert Sentai Gears into this product. Inserting other items may cause malfunction or damage.\n● Do not set the Tojiru Gear into the main unit. Doing so may cause malfunction or damage.",
+          "bbox": [0.0538, 0.89, 0.8923, 0.0919]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-1.webp",
+      "blocks": [
+        {
+          "text": "モード切替について",
+          "translation": "About mode switching",
+          "bbox": [0.1197, 0.0423, 0.247, 0.0212]
+        },
+        {
+          "text": "※トリガーを押さずに電源を入れた場合、 邪バーンモードで起動します。\n※特殊な起動をした際に入る 「介人入れ替わりモード」については後述します。",
+          "translation": "※ If you turn the power on without pressing the trigger, the unit will start up in Jaban Mode.\n※ Details about the \"Kaito Swap Mode,\" which is entered by a special startup procedure, are described later.",
+          "bbox": [0.0718, 0.0889, 0.4427, 0.0206]
+        },
+        {
+          "text": "セリフボタンを長押しします。\nボタンを長押しするたびに 「切替セリフ」 が鳴り、\n右のリストの順にモードが切り替わります。",
+          "translation": "Press and hold the Voice button. Each time you press and hold it, a \"mode-change voice\" will play and the mode will advance in the order shown in the list on the right.",
+          "bbox": [0.0709, 0.1342, 0.2889, 0.0333]
+        },
+        {
+          "text": "モード一覧",
+          "translation": "Mode List",
+          "bbox": [0.465, 0.1294, 0.0607, 0.0091]
+        },
+        {
+          "text": "⑤ のあとは①に戻ります。",
+          "translation": "After ⑤ it returns to ①.",
+          "bbox": [0.0838, 0.1705, 0.1444, 0.0085]
+        },
+        {
+          "text": "【後部】",
+          "translation": "[Rear]",
+          "bbox": [0.2205, 0.1965, 0.0368, 0.0085]
+        },
+        {
+          "text": "セリフボタン",
+          "translation": "Voice button",
+          "bbox": [0.1564, 0.2437, 0.0684, 0.0073]
+        },
+        {
+          "text": "通常モード",
+          "translation": "Normal Mode",
+          "bbox": [0.6641, 0.159, 0.0632, 0.0091]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.4615, 0.1832, 0.0231, 0.0073]
+        },
+        {
+          "text": "モード名",
+          "translation": "Mode name",
+          "bbox": [0.553, 0.1826, 0.0436, 0.0079]
+        },
+        {
+          "text": "切替セリフ",
+          "translation": "Mode-change line",
+          "bbox": [0.7692, 0.182, 0.0556, 0.0091]
+        },
+        {
+          "text": "①",
+          "translation": "①",
+          "bbox": [0.4667, 0.2062, 0.0128, 0.0073]
+        },
+        {
+          "text": "邪バーンモード",
+          "translation": "Jaban Mode",
+          "bbox": [0.506, 0.205, 0.0786, 0.0091]
+        },
+        {
+          "text": "ジャバーン",
+          "translation": "Jabaan!",
+          "bbox": [0.6581, 0.2068, 0.0564, 0.0067]
+        },
+        {
+          "text": "②",
+          "translation": "②",
+          "bbox": [0.4667, 0.231, 0.012, 0.0067]
+        },
+        {
+          "text": "フィーバーンモード",
+          "translation": "Feeburn Mode",
+          "bbox": [0.5068, 0.2304, 0.1, 0.0079]
+        },
+        {
+          "text": "フィーバーン",
+          "translation": "Feeburn",
+          "bbox": [0.659, 0.2297, 0.0667, 0.0085]
+        },
+        {
+          "text": "メモリアルモード",
+          "translation": "Memorial Mode",
+          "bbox": [0.6462, 0.2678, 0.1, 0.0079]
+        },
+        {
+          "text": "フィーバーン",
+          "translation": "Feeburn",
+          "bbox": [0.1145, 0.2926, 0.0966, 0.0115]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.4607, 0.2902, 0.0239, 0.0079]
+        },
+        {
+          "text": "モード名",
+          "translation": "Mode name",
+          "bbox": [0.553, 0.2902, 0.0444, 0.0079]
+        },
+        {
+          "text": "切替セリフ",
+          "translation": "Mode-change line",
+          "bbox": [0.7692, 0.2908, 0.0564, 0.0067]
+        },
+        {
+          "text": "③ ステイシー初期モード",
+          "translation": "③ Stacy Initial Mode",
+          "bbox": [0.4667, 0.3126, 0.1521, 0.0091]
+        },
+        {
+          "text": "僕はステイシー。 それ以外の何者でもない。",
+          "translation": "I am Stacy. I am nothing else.",
+          "bbox": [0.6581, 0.3138, 0.2231, 0.0085]
+        },
+        {
+          "text": "④",
+          "translation": "④",
+          "bbox": [0.4667, 0.338, 0.0137, 0.0073]
+        },
+        {
+          "text": "ステイシー中期モード",
+          "translation": "Stacy Mid-Term Mode",
+          "bbox": [0.506, 0.338, 0.1137, 0.0079]
+        },
+        {
+          "text": "僕は諦めない!",
+          "translation": "I won't give up!",
+          "bbox": [0.6581, 0.3386, 0.0744, 0.0073]
+        },
+        {
+          "text": "⑤",
+          "translation": "⑤",
+          "bbox": [0.4667, 0.3628, 0.0137, 0.0073]
+        },
+        {
+          "text": "ステイシー後期モード",
+          "translation": "Stacy Late-Stage Mode",
+          "bbox": [0.506, 0.3615, 0.1137, 0.0091]
+        },
+        {
+          "text": "今度こそ、奪われる前に守ってやる!",
+          "translation": "This time, I'll protect it before it can be taken!",
+          "bbox": [0.6581, 0.3615, 0.1812, 0.0079]
+        },
+        {
+          "text": "BGM遊び",
+          "translation": "BGM Play",
+          "bbox": [0.1188, 0.4202, 0.135, 0.0181]
+        },
+        {
+          "text": "銃撃遊び",
+          "translation": "Shooting Play",
+          "bbox": [0.4453, 0.419, 0.1145, 0.0206]
+        },
+        {
+          "text": "BGMボタンを短押しすると下記のリストの\n順番でBGMを再生します。",
+          "translation": "Press the BGM button briefly to play BGMs in the order shown in the list below.",
+          "bbox": [0.0838, 0.4559, 0.2402, 0.0193]
+        },
+        {
+          "text": "トリガーを押すと銃撃音が鳴ります。\nステイシーモード、",
+          "translation": "Pulling the trigger plays a gunshot sound.\n(Stacy Mode —",
+          "bbox": [0.4017, 0.4559, 0.2017, 0.02]
+        },
+        {
+          "text": "介人入れ替わりモードの場合、",
+          "translation": "In Kaito Swap Mode,",
+          "bbox": [0.4017, 0.4776, 0.1675, 0.0109]
+        },
+        {
+          "text": "1 哀しき戦士",
+          "translation": "1 The Sorrowful Warrior",
+          "bbox": [0.0897, 0.653, 0.0726, 0.0073]
+        },
+        {
+          "text": "2 出現!ワルド怪人",
+          "translation": "2Appearance! World Monster",
+          "bbox": [0.088, 0.6771, 0.1, 0.0079]
+        },
+        {
+          "text": "BGM ボタン",
+          "translation": "BGM Button",
+          "bbox": [0.2598, 0.5998, 0.0658, 0.0085]
+        },
+        {
+          "text": "3回に1回キャラクターの\nセリフが鳴ります。",
+          "translation": "Once every three times, a character voice line will play.",
+          "bbox": [0.4017, 0.4909, 0.1444, 0.02]
+        },
+        {
+          "text": "セリフ遊び\nセリフボタンを短押しすると、\n現在選択しているメモリアルモード セリフボタン\nに応じて、セリフを再生します。\n詳しくは6P以降のセリフリストを\n参照してください。",
+          "translation": "Voice Play\nPress the Voice button briefly to play a voice line corresponding to the currently selected Memorial Mode. For details, see the voice list beginning on page 6.",
+          "bbox": [0.4009, 0.5792, 0.3009, 0.0907]
+        },
+        {
+          "text": "3 大地を揺るがす激闘",
+          "translation": "3A Fierce Battle That Shakes the Earth",
+          "bbox": [0.088, 0.7007, 0.1171, 0.0085]
+        },
+        {
+          "text": "※邪バーンモード、フィーバーンモードの場合、 「機械音」が鳴ります。",
+          "translation": "※ In Jaban Mode or Feeburn Mode, a \"mechanical sound\" will play.",
+          "bbox": [0.4026, 0.7068, 0.3915, 0.0091]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-2.webp",
+      "blocks": [
+        {
+          "text": "変身遊び",
+          "translation": "Transformation Play",
+          "bbox": [0.1838, 0.0429, 0.1137, 0.02]
+        },
+        {
+          "text": "※ダークセンタイギアステイシーザーを使用します。",
+          "translation": "*Uses the Dark Sentai Gear Stacaesar.",
+          "bbox": [0.0709, 0.0822, 0.3026, 0.0097]
+        },
+        {
+          "text": "※メモリアルモードでは、 「暗黒チェンジ」のセリフをハンドル回転前に鳴らすか、ハンドル回転後に鳴らすかを選ぶことができます。",
+          "translation": "*In Memorial Mode, you can choose whether the \"Darkness Change\" voice line plays before or after rotating the handle.",
+          "bbox": [0.0701, 0.0943, 0.7436, 0.0091]
+        },
+        {
+          "text": "ハンドル回転前に「暗黒チェンジ」 を鳴らす場合",
+          "translation": "When triggering the \"Darkness Change\" before rotating the handle",
+          "bbox": [0.5308, 0.13, 0.2701, 0.0091]
+        },
+        {
+          "text": "カバーを開けて、ステイシーザーギアを",
+          "translation": "Open the cover and insert the Stacaesar Gear with the front side facing up,",
+          "bbox": [0.112, 0.1348, 0.2214, 0.0091]
+        },
+        {
+          "text": "表面で入れ、 カバーを閉じます。",
+          "translation": "then close the cover.",
+          "bbox": [0.112, 0.1469, 0.1769, 0.0079]
+        },
+        {
+          "text": "| ステイシーザー",
+          "translation": "| Stacaesar",
+          "bbox": [0.0744, 0.2346, 0.0821, 0.0097]
+        },
+        {
+          "text": "通常/メモリアル",
+          "translation": "Standard/Memorial",
+          "bbox": [0.1291, 0.4329, 0.0974, 0.0109]
+        },
+        {
+          "text": "ハンドル回転後に「暗黒チェンジ」を鳴らす場合",
+          "translation": "When triggering \"Darkness Change\" after rotating the handle",
+          "bbox": [0.0667, 0.48, 0.2692, 0.0085]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.0752, 0.5036, 0.0188, 0.0121]
+        },
+        {
+          "text": "ハンドルを矢印の方向に回転し、 ギアを読み込みます。\n効果音が鳴るので、鳴り終わるまで\nハンドルを回し続けてください。\n読み込みが完了すると、\nメモリアルモードなら 「暗黒チェンジ!」の",
+          "translation": "Rotate the handle in the direction of the arrow to read the Gear. A sound effect will play—keep turning the handle until it finishes. When loading is complete, in Memorial Mode the line \"Darkness Change!\"",
+          "bbox": [0.1154, 0.4982, 0.3034, 0.0568]
+        },
+        {
+          "text": "セリフが鳴ります。",
+          "translation": "\"Darkness Change!\" will play.",
+          "bbox": [0.1291, 0.558, 0.1043, 0.0097]
+        },
+        {
+          "text": "その後、 〈邪バーンモード〉 〈ステイシー初期モード》\nなら 「ジャバーン!」、〈フィーバーンモード》\n<ステイシー中期モード〉 〈ステイシー後期モード》\nなら「フィーバーン!」が鳴ります。",
+          "translation": "After that, \"Jabaan!\" will play for <Jabaan Mode> or <Stacy Initial Mode>, and \"Feebaan!\" will play for <Feebaan Mode>, <Stacy Mid Mode>, or <Stacy Late Mode>.",
+          "bbox": [0.1282, 0.5701, 0.294, 0.0441]
+        },
+        {
+          "text": "暗黒チェンジ!",
+          "translation": "Darkness Change!",
+          "bbox": [0.3675, 0.6245, 0.0863, 0.0085]
+        },
+        {
+          "text": "メモリアル",
+          "translation": "Memorial",
+          "bbox": [0.4504, 0.269, 0.0581, 0.0091]
+        },
+        {
+          "text": "(メモリアルモードの場合)",
+          "translation": "(In Memorial Mode)",
+          "bbox": [0.3427, 0.6348, 0.1282, 0.0103]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.541, 0.1548, 0.0214, 0.0121]
+        },
+        {
+          "text": "カバーを閉じた直後にトリガーを押すと、\nメモリアルモードなら「暗黒チェンジ!」が鳴ります。",
+          "translation": "If you press the trigger immediately after closing the cover, \"Darkness Change!\" will play in Memorial Mode.",
+          "bbox": [0.5812, 0.1511, 0.2829, 0.0206]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.5419, 0.3622, 0.0179, 0.0121]
+        },
+        {
+          "text": "※介人入れ替わりモードでは、「チェンジ全開!」が鳴ります。",
+          "translation": "*In Kaito Body-Swap Mode, \"Change Zenkai!\" will play.",
+          "bbox": [0.5821, 0.1747, 0.3376, 0.0091]
+        },
+        {
+          "text": "暗黒チェンジ!\n(メモリアルモードの場合)",
+          "translation": "Darkness Change!\n(In Memorial Mode)",
+          "bbox": [0.7855, 0.3108, 0.1274, 0.02]
+        },
+        {
+          "text": "ハンドルを矢印の方向に回転し、ギアを読み込みます。\n効果音が鳴るので、鳴り終わるまで\nハンドルを回し続けてください。\n読み込みが完了すると、\n<ステイシー初期モード〉 なら 「ジャバーン」、\n<ステイシー中期モード〉 〈ステイシー後期モード>なら\n「フィーバーン!」が鳴ります。\n※〈介人入れ替わりモード〉では、\n「・・・じゃない、 暗黒チェンジ!」が鳴ります。",
+          "translation": "Rotate the handle in the direction of the arrow to read the Gear. A sound effect will play—keep turning the handle until it finishes. When loading is complete, <Stacy Initial Mode> will play \"Jabaan!\", and <Stacy Mid Mode> or <Stacy Late Mode> will play \"Feebaan!\". *In <Kaito Body-Swap Mode>, \"...Not that — Darkness Change!\" will play.",
+          "bbox": [0.5812, 0.3585, 0.3137, 0.1028]
+        },
+        {
+          "text": "ジャパーン!",
+          "translation": "Jabaan!",
+          "bbox": [0.8342, 0.4849, 0.0795, 0.0115]
+        },
+        {
+          "text": "ステイシーザー!",
+          "translation": "Stacaesar!",
+          "bbox": [0.8205, 0.5913, 0.0897, 0.0115]
+        },
+        {
+          "text": "ジャパーン!",
+          "translation": "Jabaan!",
+          "bbox": [0.3453, 0.7225, 0.0786, 0.0109]
+        },
+        {
+          "text": "変身待機音が鳴るので、トリガーを引きます。\n→現在のモードに応じた変身音が鳴ります。",
+          "translation": "A transformation standby sound will play — pull the trigger. →The transformation sound for the current mode will play.",
+          "bbox": [0.4692, 0.6953, 0.2504, 0.0206]
+        },
+        {
+          "text": "各モードで変身すると、変身後に下記のリストに従った名乗りセリフが鳴ります。",
+          "translation": "When transforming in each mode, a catchphrase corresponding to the list below will play after the transformation.",
+          "bbox": [0.4829, 0.7267, 0.4436, 0.0091]
+        },
+        {
+          "text": "モード名",
+          "translation": "Mode name",
+          "bbox": [0.5103, 0.7588, 0.0436, 0.0073]
+        },
+        {
+          "text": "変身音",
+          "translation": "Transformation sound",
+          "bbox": [0.6692, 0.7582, 0.0359, 0.0079]
+        },
+        {
+          "text": "名乗りセリフ",
+          "translation": "Self-introduction line",
+          "bbox": [0.8256, 0.7588, 0.0675, 0.0073]
+        },
+        {
+          "text": "ステイシーザー!",
+          "translation": "Stacaesar!",
+          "bbox": [0.3291, 0.7624, 0.0906, 0.0097]
+        },
+        {
+          "text": "邪バーンモード",
+          "translation": "Jabaan Mode",
+          "bbox": [0.4752, 0.7817, 0.0803, 0.0073]
+        },
+        {
+          "text": "邪バーン変身音",
+          "translation": "Jabaan transformation sound",
+          "bbox": [0.6479, 0.7811, 0.0761, 0.0091]
+        },
+        {
+          "text": "フィーバーンモード\nステイシー初期モード",
+          "translation": "Feebaan Mode / Stacy Initial Mode",
+          "bbox": [0.4761, 0.8053, 0.1128, 0.0333]
+        },
+        {
+          "text": "フィーバーン変身音",
+          "translation": "Feebaan transformation sound",
+          "bbox": [0.6402, 0.8059, 0.0957, 0.0079]
+        },
+        {
+          "text": "「くっ!」 +邪パーン変身音",
+          "translation": "\"Gah!\" + Jabaan transformation sound",
+          "bbox": [0.6256, 0.8307, 0.1248, 0.0073]
+        },
+        {
+          "text": "暗黒のパワー、ステイシーザー!",
+          "translation": "The power of darkness, Stacaesar!",
+          "bbox": [0.7778, 0.8301, 0.1513, 0.0079]
+        },
+        {
+          "text": "ステイシー中期モード",
+          "translation": "Stacy Mid Mode",
+          "bbox": [0.4761, 0.8543, 0.1137, 0.0079]
+        },
+        {
+          "text": "「くっ!」 + フィーバーン変身音 暗黒のパワー、ステイシーザー!",
+          "translation": "\"Gah!\" + Feebaan transformation sound — The power of darkness, Stacaesar!",
+          "bbox": [0.6145, 0.8549, 0.3154, 0.0073]
+        },
+        {
+          "text": "ステイシー後期モード",
+          "translation": "Stacy Late Mode",
+          "bbox": [0.4752, 0.8779, 0.1137, 0.0097]
+        },
+        {
+          "text": "「はっ!」+フィーバーン変身音 暗黒のパワー、ステイシーザー!",
+          "translation": "\"Hah!\" + Feebaan transformation sound — The power of darkness, Stacaesar!",
+          "bbox": [0.6154, 0.8791, 0.3137, 0.0079]
+        },
+        {
+          "text": "隠しモード",
+          "translation": "Hidden Mode",
+          "bbox": [0.4752, 0.9093, 0.0556, 0.0079]
+        },
+        {
+          "text": "介人入れ替わりモード",
+          "translation": "Kaito Body-Swap Mode",
+          "bbox": [0.4752, 0.9208, 0.1137, 0.0079]
+        },
+        {
+          "text": "「はっ!」+フィーバーン変身音 暗黒のパワー、ステイシーザー!\n(介人)",
+          "translation": "\"Hah!\" + Feebaan transformation sound — The power of darkness, Stacaesar! (Kaito)",
+          "bbox": [0.6154, 0.9081, 0.3128, 0.0242]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.4915, 0.9825, 0.0145, 0.0091]
+        },
+        {
+          "text": "ギア読み込み後フローに移行 (5Pへ)→",
+          "translation": "Proceed to flow after gear loading (to page 5) →",
+          "bbox": [0.6744, 0.9655, 0.2299, 0.0091]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-3.webp",
+      "blocks": [
+        {
+          "text": "ロボ召喚遊び",
+          "translation": "Robot Summoning Play",
+          "bbox": [0.1598, 0.0453, 0.1684, 0.0175]
+        },
+        {
+          "text": "※ダークセンタイギアステイシーザーを例に説明します。 付属のダークセンタイギアゼンカイジュラン/ゼンカイガオーンでも同様に遊びます。",
+          "translation": "*Using the Dark Sentai Gear Staceyzer as an example. You can play the same way with the included Dark Sentai Gears Zenkai Juran / Zenkai Gaon.",
+          "bbox": [0.0709, 0.084, 0.8427, 0.0091]
+        },
+        {
+          "text": "カバーを開けて、ギアを裏面で入れ、カバーを閉じます。",
+          "translation": "Open the cover, insert the gear with its back side facing down, then close the cover.",
+          "bbox": [0.1128, 0.1239, 0.3111, 0.0091]
+        },
+        {
+          "text": "ステイシーザー",
+          "translation": "Staceyzer",
+          "bbox": [0.0667, 0.2128, 0.0761, 0.0091]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.465, 0.1258, 0.0179, 0.0175]
+        },
+        {
+          "text": "読み込みの手順は 「変身遊び」 と同じです。",
+          "translation": "The reading procedure is the same as for \"Transformation Play.\"",
+          "bbox": [0.5043, 0.1239, 0.2385, 0.0091]
+        },
+        {
+          "text": "読み込みが完了したら待機音が鳴り、トリガーを引くと召喚音が鳴ります。\nメモリアルモードの場合、 モードに応じたキャラクターの\nセリフが鳴ります。",
+          "translation": "When reading is complete, a standby tone will play. Pull the trigger to play the summoning sound. In Memorial Mode, the character lines corresponding to the mode will play.",
+          "bbox": [0.5171, 0.136, 0.4162, 0.032]
+        },
+        {
+          "text": "ゆけい!",
+          "translation": "Go!",
+          "bbox": [0.8496, 0.1784, 0.0444, 0.0085]
+        },
+        {
+          "text": "バトルシーザーロボ!",
+          "translation": "Battle Caesar Robo!",
+          "bbox": [0.8094, 0.1904, 0.1154, 0.0097]
+        },
+        {
+          "text": "ビッグバーン!",
+          "translation": "Big Bang!",
+          "bbox": [0.7855, 0.2775, 0.0897, 0.0109]
+        },
+        {
+          "text": "②の後でトリガーを押すと、 さらにロボ召喚音声を聴くことができます。",
+          "translation": "If you press the trigger after step ②, you can hear additional robot summoning audio.",
+          "bbox": [0.112, 0.3356, 0.3966, 0.0091]
+        },
+        {
+          "text": "※ステイシーザーギア裏面を読みこんだ場合、",
+          "translation": "*If the back side of the Staceyzer Gear is read,",
+          "bbox": [0.1137, 0.3458, 0.2624, 0.0109]
+        },
+        {
+          "text": "ゆけ!",
+          "translation": "Go!",
+          "bbox": [0.8077, 0.3495, 0.0444, 0.0091]
+        },
+        {
+          "text": "「バトルシーザーロボ2世召喚音」",
+          "translation": "\"Battle Caesar Robo II Summoning Sound\"",
+          "bbox": [0.1274, 0.3591, 0.1906, 0.0091]
+        },
+        {
+          "text": "バトルシーザーロボ2世!",
+          "translation": "Battle Caesar Robo II!",
+          "bbox": [0.7564, 0.3622, 0.1376, 0.0091]
+        },
+        {
+          "text": "「バトルシーザーロボ3世召喚音」",
+          "translation": "\"Battle Caesar Robo III Summoning Sound\"",
+          "bbox": [0.1274, 0.3706, 0.1906, 0.0091]
+        },
+        {
+          "text": "「バトルシーザーロボ召喚音」が順に鳴ります。",
+          "translation": "The \"Battle Caesar Robo\" summoning sounds will play in sequence.",
+          "bbox": [0.1282, 0.3827, 0.2615, 0.0085]
+        },
+        {
+          "text": "※「バトルシーザーロボ召喚音」の後は",
+          "translation": "*After the \"Battle Caesar Robo\" summoning sound,",
+          "bbox": [0.1137, 0.3948, 0.2205, 0.0085]
+        },
+        {
+          "text": "「バトルシーザーロボ2世召喚音」に戻ります。\n※ゼンカイジュラン ゼンカイガオーン裏面を読みこんだ場合、\n「ゼンカイオー ブラックジュラガオーン合体音」が鳴ります。",
+          "translation": "Returns to the \"Battle Caesar Robo II Summoning Sound\".\n*If the back sides of Zenkai Juran and Zenkai Gaon are read, the \"Zenkai-Oh Black Juragaon Combination Sound\" will play.",
+          "bbox": [0.1128, 0.4063, 0.3624, 0.032]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.4923, 0.9825, 0.0137, 0.0097]
+        },
+        {
+          "text": "暗黒ガッシーン!",
+          "translation": "Dark Gasshin!",
+          "bbox": [0.8376, 0.4117, 0.0906, 0.0097]
+        },
+        {
+          "text": "ゼンカイオー\nジュラガオーン!",
+          "translation": "Zenkai-Oh\nJuragaon!",
+          "bbox": [0.7897, 0.4607, 0.0897, 0.0236]
+        },
+        {
+          "text": "ギア読み込み後フローに移行 (5Pへ)→",
+          "translation": "After the gear is read, proceed to the flow on page 5 →",
+          "bbox": [0.6744, 0.5242, 0.2291, 0.0085]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-4.webp",
+      "blocks": [
+        {
+          "text": "レジェンドギア表面遊び",
+          "translation": "Legend Gear — Front-side Play",
+          "bbox": [0.1154, 0.0429, 0.2974, 0.0206]
+        },
+        {
+          "text": "※ダークセンタイギアゴレンジャーを例に説明します。ダークセンタイギア ジュウレンジャー/マジレンジャー/ボウケンジャーも同様に遊びます。",
+          "translation": "The Dark Sentai Gear Gorenger is used as an example. Dark Sentai Gears Zyuranger, Magiranger, and Boukenger can be played the same way.",
+          "bbox": [0.0718, 0.0822, 0.853, 0.0091]
+        },
+        {
+          "text": "カバーを開けて、ゴレンジャーギアを",
+          "translation": "Open the cover and insert the Gorenger Gear.",
+          "bbox": [0.1128, 0.1131, 0.206, 0.0091]
+        },
+        {
+          "text": "表面で入れ、カバーを閉じます。",
+          "translation": "Insert it with the front side facing up, then close the cover.",
+          "bbox": [0.1128, 0.1252, 0.1769, 0.0085]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.5308, 0.1161, 0.0197, 0.0127]
+        },
+        {
+          "text": "カバーを閉じた直後にトリガーを押すと、\n通常モードなら銃撃音、 メモリアルモードなら\n「暗黒チェンジ!」が鳴ります。",
+          "translation": "If you pull the trigger immediately after closing the cover, it plays a gunshot sound in Normal Mode, or \"Dark Change!\" in Memorial Mode.",
+          "bbox": [0.5718, 0.1131, 0.253, 0.0314]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.0735, 0.419, 0.0171, 0.0109]
+        },
+        {
+          "text": "ゴレンジャー",
+          "translation": "Gorenger",
+          "bbox": [0.1197, 0.214, 0.0624, 0.0079]
+        },
+        {
+          "text": "暗黒チェンジ!\n(メモリアルモードの場合)",
+          "translation": "Dark Change!\n(in Memorial Mode)",
+          "bbox": [0.7803, 0.3102, 0.1274, 0.0206]
+        },
+        {
+          "text": "ハンドルを矢印の方向に回転し、 ギアを読み込みます。\n効果音が鳴るので、鳴り終わるまで\nハンドルを回し続けてください。\n→読み込みが完了すると、 ギア番号を読み上げます。",
+          "translation": "Turn the handle in the direction of the arrow to load the Gear. A sound effect will play, so continue turning the handle until the sound stops.\n→ When loading is complete, the Gear number will be announced.",
+          "bbox": [0.112, 0.4148, 0.3034, 0.0441]
+        },
+        {
+          "text": "変身待機音が鳴るので、トリガーを引きます。\n→ギアに応じた変身音が鳴ります。",
+          "translation": "When the transformation-standby sound plays, pull the trigger.\n→ The transformation sound corresponding to the Gear will play.",
+          "bbox": [0.112, 0.474, 0.2513, 0.0224]
+        },
+        {
+          "text": "バーン!",
+          "translation": "Bang!",
+          "bbox": [0.7821, 0.4202, 0.053, 0.0103]
+        },
+        {
+          "text": "ゴレンジャー!",
+          "translation": "Gorenger!",
+          "bbox": [0.7658, 0.5242, 0.0778, 0.0115]
+        },
+        {
+          "text": "ギア読み込み後フローに移行 (5Pへ)→",
+          "translation": "After loading the Gear, proceed to the flow on page 5 →",
+          "bbox": [0.6761, 0.5659, 0.2274, 0.0097]
+        },
+        {
+          "text": "● レジェンドギア裏面遊び",
+          "translation": "● Legend Gear — Back-side Play",
+          "bbox": [0.0658, 0.6233, 0.3479, 0.0206]
+        },
+        {
+          "text": "※ダークセンタイギアゴレンジャーを例に説明します。ダークセンタイギア ジュウレンジャー/マジレンジャー/ボウケンジャーも同様に遊びます。",
+          "translation": "The Dark Sentai Gear Gorenger is used as an example. Dark Sentai Gears Zyuranger, Magiranger, and Boukenger can be played the same way.",
+          "bbox": [0.0718, 0.662, 0.8521, 0.0097]
+        },
+        {
+          "text": "カバーを開けて、ギアを裏面で入れ、カバーを閉じます。",
+          "translation": "Open the cover, insert the Gear with the back side facing up, then close the cover.",
+          "bbox": [0.1128, 0.7025, 0.3111, 0.0091]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.465, 0.7062, 0.0188, 0.0121]
+        },
+        {
+          "text": "読み込みの手順は 「変身遊び」 と同じです。",
+          "translation": "The loading procedure is the same as for \"Transformation Play.\"",
+          "bbox": [0.5043, 0.7019, 0.2385, 0.0097]
+        },
+        {
+          "text": "読み込みが完了したら待機音が鳴り、トリガーを引くと召喚音が鳴ります。\nメモリアルモードの場合、 モードに応じたキャラクターの\nセリフが鳴ります。",
+          "translation": "When loading is complete, a standby sound will play; pulling the trigger will play a summoning sound. In Memorial Mode, the character lines appropriate to the mode will play.",
+          "bbox": [0.5171, 0.714, 0.4171, 0.0326]
+        },
+        {
+          "text": "ビッグバーン!",
+          "translation": "Big Bang!",
+          "bbox": [0.8145, 0.7551, 0.0897, 0.0103]
+        },
+        {
+          "text": "ゴレンジャー",
+          "translation": "Gorenger",
+          "bbox": [0.0744, 0.792, 0.0632, 0.0073]
+        },
+        {
+          "text": "ゴレンジャー!",
+          "translation": "Gorenger!",
+          "bbox": [0.7949, 0.8458, 0.0795, 0.0097]
+        },
+        {
+          "text": "※レジェンドギア裏面遊び後、 トリガーを押すとロボ召喚音が鳴ります。 トリガーを9回以上連続して押すと、連続ロボ連続召喚音+ロボ消失音+\n「どうやら、 一度にギアを使いすぎると、 ギアトジンガーの方でエネルギー切れを起こすようです、ハイ...」が鳴ります。",
+          "translation": "After playing with a Legend Gear using the back side, pressing the trigger will play the Robo summoning sound. If you press the trigger 9 times or more in succession, repeated Robo-summoning sounds will play, then a Robo disappearance sound, followed by: \"It seems that if you use too many Gears at once, Geartozinger will run out of energy... hai...\"",
+          "bbox": [0.0718, 0.9099, 0.812, 0.0206]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.4915, 0.9831, 0.0154, 0.0097]
+        },
+        {
+          "text": "ギア読み込み後フローに移行 (5Pへ)→",
+          "translation": "After loading the Gear, proceed to the flow on page 5 →",
+          "bbox": [0.6744, 0.9462, 0.2282, 0.0085]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-5.webp",
+      "blocks": [
+        {
+          "text": "銃撃遊び",
+          "translation": "Shooting Play",
+          "bbox": [0.0923, 0.0877, 0.0983, 0.0145]
+        },
+        {
+          "text": "ギア読み込み後フロー",
+          "translation": "Post-Gear-Loading Flow",
+          "bbox": [0.1094, 0.0435, 0.2684, 0.02]
+        },
+        {
+          "text": "チャージ攻撃遊び",
+          "translation": "Charge Attack Play",
+          "bbox": [0.4385, 0.0859, 0.1829, 0.0169]
+        },
+        {
+          "text": "※各ギアの表面を読み込んだ場合に遊べます。\nトリガーを短押しすると銃撃音が鳴ります。",
+          "translation": "Playable when the surface of each Gear has been read.\nPress the trigger briefly to play a gunshot sound.",
+          "bbox": [0.0709, 0.1197, 0.265, 0.0212]
+        },
+        {
+          "text": "<邪バーンモード、ステイシー初期モード〉",
+          "translation": "<Jabaan Mode, Stacy Initial Mode>",
+          "bbox": [0.4291, 0.1191, 0.2325, 0.0091]
+        },
+        {
+          "text": "①トリガーを長押しするとチャージ音が鳴り始めます。",
+          "translation": "① Press and hold the trigger to start the charge sound.",
+          "bbox": [0.4274, 0.1312, 0.3, 0.0085]
+        },
+        {
+          "text": "メモリアルモードの場合、3回に1回\nキャラクターのセリフが鳴ります。",
+          "translation": "In Memorial Mode, a character’s voice line plays one out of every three times.",
+          "bbox": [0.0701, 0.1433, 0.2017, 0.0206]
+        },
+        {
+          "text": "ガトリング攻撃",
+          "translation": "Gatling Attack",
+          "bbox": [0.0718, 0.3851, 0.1556, 0.0151]
+        },
+        {
+          "text": "チャージ攻撃の①でチャージ音を",
+          "translation": "During Charge Attack step ①, after the charge sound plays,",
+          "bbox": [0.0735, 0.4178, 0.1863, 0.0085]
+        },
+        {
+          "text": "鳴らした後、ハンドルを回転させると\nガトリング攻撃音が鳴ります。",
+          "translation": "rotating the handle plays the Gatling attack sound.",
+          "bbox": [0.0726, 0.4293, 0.2034, 0.0206]
+        },
+        {
+          "text": "ハンドルを離すと爆発音が鳴ります。",
+          "translation": "Releasing the handle plays an explosion sound.",
+          "bbox": [0.0726, 0.4528, 0.2043, 0.0085]
+        },
+        {
+          "text": "②トリガーを再度押すと、チャージ攻撃音が鳴ります。",
+          "translation": "② Press the trigger again to play the charge attack sound.",
+          "bbox": [0.4274, 0.1427, 0.2974, 0.0091]
+        },
+        {
+          "text": "<フィーバーンモード、ステイシー中期モード、 後期モード、 介人入れ替わりモード>\n①トリガーを長押しすると、 下記リストの必殺技 ①と② が交互に鳴ります。",
+          "translation": "<Feavern Mode, Stacey Mid-Stage Mode, Late-Stage Mode, Kaito Swap Mode>\n① Press and hold the trigger to alternately play Special Moves ① and ② from the list below.",
+          "bbox": [0.4274, 0.1663, 0.4581, 0.0206]
+        },
+        {
+          "text": "必殺技 ①",
+          "translation": "Special Move 1",
+          "bbox": [0.6162, 0.2074, 0.0479, 0.0073]
+        },
+        {
+          "text": "必殺技②",
+          "translation": "Special Move 2",
+          "bbox": [0.8, 0.2074, 0.047, 0.0073]
+        },
+        {
+          "text": "シーザー邪王咆哮撃音\nセリフ+シーザー邪王咆哮撃音\nセリフ+シーザー邪王咆哮撃音",
+          "translation": "Caesar's Roar of the Evil King sound effect\nDialogue + Caesar's Roar of the Evil King sound effect\nDialogue + Caesar's Roar of the Evil King sound effect",
+          "bbox": [0.7436, 0.2291, 0.159, 0.058]
+        },
+        {
+          "text": "モード名",
+          "translation": "Mode name",
+          "bbox": [0.4538, 0.2074, 0.0444, 0.0073]
+        },
+        {
+          "text": "フィーバーンモード",
+          "translation": "Feavern Mode",
+          "bbox": [0.4197, 0.2304, 0.1, 0.0079]
+        },
+        {
+          "text": "シーザー暗黒流星群音",
+          "translation": "Caesar's Dark Meteor Shower sound",
+          "bbox": [0.5821, 0.2304, 0.1162, 0.0079]
+        },
+        {
+          "text": "ステイシー中期モード\nステイシー後期モード",
+          "translation": "Stacey Mid-Stage Mode\nStacey Late-Stage Mode",
+          "bbox": [0.4197, 0.2533, 0.1137, 0.0345]
+        },
+        {
+          "text": "セリフ+シーザー暗黒流星群音",
+          "translation": "Voice line + Caesar's Dark Meteor Shower sound effect",
+          "bbox": [0.5615, 0.2539, 0.1564, 0.0091]
+        },
+        {
+          "text": "セリフ+シーザー暗黒流星群音",
+          "translation": "Voice line + Caesar's Dark Meteor Shower sound effect",
+          "bbox": [0.5615, 0.2793, 0.1573, 0.0079]
+        },
+        {
+          "text": "隠しモード",
+          "translation": "Hidden Mode",
+          "bbox": [0.4197, 0.3053, 0.0538, 0.0085]
+        },
+        {
+          "text": "シーザー暗黒流星群音",
+          "translation": "Caesar's Dark Meteor Shower sound",
+          "bbox": [0.5821, 0.312, 0.1162, 0.0079]
+        },
+        {
+          "text": "シーザー邪王咆哮撃音",
+          "translation": "Caesar's Roar of the Evil King attack sound",
+          "bbox": [0.765, 0.3102, 0.1171, 0.0103]
+        },
+        {
+          "text": "介人入れ替わりモード",
+          "translation": "Kaito Swap Mode",
+          "bbox": [0.4188, 0.3174, 0.1137, 0.0079]
+        },
+        {
+          "text": "必殺技",
+          "translation": "Special Move",
+          "bbox": [0.1043, 0.5834, 0.0701, 0.0175]
+        },
+        {
+          "text": "ギアを読み込み終わった状態で、 再度ハンドルを\n回転させると、 必殺技待機音が鳴ります。",
+          "translation": "When a Gear has finished being read, rotating the handle again plays the special move standby sound.",
+          "bbox": [0.112, 0.6197, 0.2709, 0.0212]
+        },
+        {
+          "text": "待機音中にトリガーを押すと、",
+          "translation": "If you press the trigger while the standby sound is playing,",
+          "bbox": [0.5556, 0.6191, 0.1658, 0.0097]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.5154, 0.6239, 0.0205, 0.0121]
+        },
+        {
+          "text": "必殺技音声が鳴ります。",
+          "translation": "The special move voice plays.",
+          "bbox": [0.5556, 0.6312, 0.1325, 0.0103]
+        },
+        {
+          "text": "シーザー、暗黒邪爆撃!\n(メモリアルモードの場合)",
+          "translation": "Caesar, Dark Evil Blast!\n(In Memorial Mode)",
+          "bbox": [0.1316, 0.8017, 0.1282, 0.0218]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.4923, 0.9825, 0.0145, 0.0103]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-6.webp",
+      "blocks": [
+        {
+          "text": "セリフリスト: ステイシー初期モード",
+          "translation": "Dialogue List: Stacey Initial Mode",
+          "bbox": [0.1145, 0.0441, 0.4427, 0.0193]
+        },
+        {
+          "text": "曜 12",
+          "translation": "Day of the week 12",
+          "bbox": [0.0701, 0.084, 0.0197, 0.0399]
+        },
+        {
+          "text": "順番 キャラクター",
+          "translation": "Order Character",
+          "bbox": [0.0667, 0.0834, 0.1179, 0.0103]
+        },
+        {
+          "text": "音声",
+          "translation": "Audio",
+          "bbox": [0.3496, 0.084, 0.0282, 0.0091]
+        },
+        {
+          "text": "ステイシー\nイジルデ",
+          "translation": "Stacey\nIjirude",
+          "bbox": [0.1145, 0.1016, 0.0624, 0.0236]
+        },
+        {
+          "text": "酷く汚い世界だな。",
+          "translation": "What a terribly filthy world.",
+          "bbox": [0.1991, 0.1016, 0.1085, 0.0085]
+        },
+        {
+          "text": "ギアトジンガーとアンコクギア。",
+          "translation": "Geartozinger and Ankoku Gear.",
+          "bbox": [0.2, 0.1149, 0.1778, 0.0109]
+        },
+        {
+          "text": "順番 キャラクター\n15 ステイシー\nゾックス",
+          "translation": "Order Character\n15 Stacey\nZox",
+          "bbox": [0.5427, 0.084, 0.1188, 0.0411]
+        },
+        {
+          "text": "音声",
+          "translation": "Audio",
+          "bbox": [0.7923, 0.084, 0.0282, 0.0091]
+        },
+        {
+          "text": "345678",
+          "translation": "345678",
+          "bbox": [0.0718, 0.1469, 0.0128, 0.0834]
+        },
+        {
+          "text": "ステイシー",
+          "translation": "Stacey",
+          "bbox": [0.1145, 0.1475, 0.0624, 0.0073]
+        },
+        {
+          "text": "ステイシー\nステイシー\nステイシー",
+          "translation": "Stacey\nStacey\nStacey",
+          "bbox": [0.1145, 0.1626, 0.0624, 0.0375]
+        },
+        {
+          "text": "ゼンカイジャーのアイテムを参考に開発しました。\n君たちに恨みはないが･･･イジルデからの依頼でね。\n僕はステイシー。 それ以外の何者でもない。",
+          "translation": "It was developed with reference to the Zenkaigers' items.\nI bear you no grudge... but it was at Ijirude's request.\nI am Stacey. Nothing more, nothing less.",
+          "bbox": [0.2, 0.1312, 0.2863, 0.0393]
+        },
+        {
+          "text": "16",
+          "translation": "16",
+          "bbox": [0.5479, 0.1475, 0.0188, 0.006]
+        },
+        {
+          "text": "ステイシー\n介人",
+          "translation": "Stacey\nKaito",
+          "bbox": [0.5915, 0.1324, 0.0624, 0.023]
+        },
+        {
+          "text": "お前ら...!最初から僕を嵌めるために芝居を!\nだってお前より、 介人の方が面白いんだよ!\nそんな･･･そんなことで!",
+          "translation": "You guys...! You staged everything from the start just to frame me!\nBecause Kaito is more interesting than you!\nNo... over something like that!",
+          "bbox": [0.6778, 0.1016, 0.2487, 0.0381]
+        },
+        {
+          "text": "人間かもねえ。 半分は。",
+          "translation": "Might be human. Half of them, anyway.",
+          "bbox": [0.2, 0.1771, 0.1282, 0.0085]
+        },
+        {
+          "text": "君たちに恨みはないが･･･暗黒チェンジ。→変身音",
+          "translation": "I bear you no grudge... Dark Change. → (transformation sound)",
+          "bbox": [0.2, 0.1923, 0.2735, 0.0085]
+        },
+        {
+          "text": "ステイシー\n介人",
+          "translation": "Stacey\nKaito",
+          "bbox": [0.1137, 0.208, 0.0632, 0.0224]
+        },
+        {
+          "text": "暗黒のパワー、ステイシーザー !",
+          "translation": "Power of darkness, Staceyzer!",
+          "bbox": [0.2009, 0.2068, 0.1752, 0.0097]
+        },
+        {
+          "text": "ステイシー",
+          "translation": "Stacey",
+          "bbox": [0.5915, 0.2068, 0.0615, 0.0085]
+        },
+        {
+          "text": "ステイシー!ゾックスたちの...\n|家族を助けたいって思いを利用するなんて、\n許せない!俺を倒したいなら、\n直接俺に向かって来いよ!相手してやる",
+          "translation": "Stacey! To exploit Zox and the others' wish to save their family...\nI won't forgive that! If you want to beat me,\ncome at me directly! I'll take you on.",
+          "bbox": [0.6718, 0.1457, 0.253, 0.055]
+        },
+        {
+          "text": "いいだろう。",
+          "translation": "Very well.",
+          "bbox": [0.6778, 0.2062, 0.0658, 0.0103]
+        },
+        {
+          "text": "わかった。お前と戦うよ。･･･ 俺、 なにがなんでも、",
+          "translation": "All right. I'll fight you... I will—no matter what,",
+          "bbox": [0.2, 0.2225, 0.2632, 0.0085]
+        },
+        {
+          "text": "やられるわけにはいかないから!",
+          "translation": "I won't let myself be beaten!",
+          "bbox": [0.2, 0.2376, 0.1803, 0.0079]
+        },
+        {
+          "text": "17",
+          "translation": "17",
+          "bbox": [0.5479, 0.2382, 0.0188, 0.0067]
+        },
+        {
+          "text": "ヤツデ",
+          "translation": "Yatsude",
+          "bbox": [0.5915, 0.237, 0.0376, 0.0091]
+        },
+        {
+          "text": "トジテンド倒して世界守ったり!",
+          "translation": "Defeat Tojitendo and protect the world!",
+          "bbox": [0.2009, 0.2527, 0.1701, 0.0085]
+        },
+        {
+          "text": "父ちゃん母ちゃん取り戻したり・・・",
+          "translation": "Get Mom and Dad back...",
+          "bbox": [0.2, 0.2666, 0.1812, 0.0103]
+        },
+        {
+          "text": "18",
+          "translation": "18",
+          "bbox": [0.547, 0.2684, 0.0214, 0.006]
+        },
+        {
+          "text": "世界初ゲットしたり!やりたいことたくさんあるから!",
+          "translation": "Get a world-first! There are so many things I want to do!",
+          "bbox": [0.2, 0.2817, 0.2846, 0.0103]
+        },
+        {
+          "text": "ステイシー\nヤツデ",
+          "translation": "Stacey\nYatsude",
+          "bbox": [0.5915, 0.2678, 0.0624, 0.0236]
+        },
+        {
+          "text": "・・・僕も本当は、 お前をこの手で倒したいんだ。\nどんな時もだよ!今とこれからを、\n笑って過ごせる方がいいだろ?\nなんだ?あの異様な集団は・・・?",
+          "translation": "...Honestly, I want to defeat you with my own hands too.\nAlways! It's better to be able to spend the present and the future\nsmiling, right?\nWhat is that? That bizarre group...?",
+          "bbox": [0.6769, 0.2225, 0.2556, 0.0538]
+        },
+        {
+          "text": "あれはね、タケノコ族!気分が晴れるよ、",
+          "translation": "That's the Takenoko Tribe! It'll lift your spirits.",
+          "bbox": [0.6778, 0.283, 0.2171, 0.0085]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.0744, 0.2987, 0.0103, 0.0067]
+        },
+        {
+          "text": "ステイシー",
+          "translation": "Stacey",
+          "bbox": [0.1145, 0.2987, 0.0624, 0.0073]
+        },
+        {
+          "text": "ゼンカイジャー、勝負はまた今度だ。",
+          "translation": "Zenkaigers — we'll settle this another time.",
+          "bbox": [0.2, 0.2981, 0.2, 0.0091]
+        },
+        {
+          "text": "あんたも一緒に踊ってきたら?",
+          "translation": "Why don't you join in and dance too?",
+          "bbox": [0.6778, 0.2981, 0.1692, 0.0085]
+        },
+        {
+          "text": "10",
+          "translation": "10",
+          "bbox": [0.0709, 0.3138, 0.0188, 0.0067]
+        },
+        {
+          "text": "ステイシー",
+          "translation": "Stacey",
+          "bbox": [0.1145, 0.3126, 0.0615, 0.0091]
+        },
+        {
+          "text": "お前、親を取り戻すって言ったなあ・・・",
+          "translation": "You said you'd get your parents back...",
+          "bbox": [0.2009, 0.3132, 0.206, 0.0085]
+        },
+        {
+          "text": "トジテンドにさらわれたのか?じゃあ今頃お前の親も、",
+          "translation": "Were they taken by Tojitendo? Then by now your parents...",
+          "bbox": [0.2009, 0.3277, 0.2949, 0.0091]
+        },
+        {
+          "text": "19",
+          "translation": "19",
+          "bbox": [0.5479, 0.3289, 0.0188, 0.0073]
+        },
+        {
+          "text": "捨てられて野垂れ死んでるかもなあ・・・ 俺の母みたいに!\n・・・いや、逆の可能性もあったな?",
+          "translation": "They might have been abandoned and left to die... like my mother!\n...No, the opposite might also be possible?",
+          "bbox": [0.2, 0.3434, 0.312, 0.0236]
+        },
+        {
+          "text": "a",
+          "translation": "a",
+          "bbox": [0.5453, 0.3404, 0.0162, 0.029]
+        },
+        {
+          "text": "20",
+          "translation": "20",
+          "bbox": [0.5462, 0.344, 0.0222, 0.006]
+        },
+        {
+          "text": "21",
+          "translation": "21",
+          "bbox": [0.5453, 0.3591, 0.0179, 0.0067]
+        },
+        {
+          "text": "ステイシー\nステイシー\nステイシー\nステイシー",
+          "translation": "Stacey\nStacey\nStacey\nStacey",
+          "bbox": [0.5906, 0.3126, 0.0641, 0.0544]
+        },
+        {
+          "text": "・・・!いや、僕は・・・",
+          "translation": "...! No, I...",
+          "bbox": [0.6778, 0.3132, 0.088, 0.0079]
+        },
+        {
+          "text": "母上・・・違う!母上はもう...",
+          "translation": "Mother... No! Mother is already...",
+          "bbox": [0.6769, 0.3271, 0.1427, 0.0103]
+        },
+        {
+          "text": "サトシです!",
+          "translation": "I'm Satoshi!",
+          "bbox": [0.6769, 0.344, 0.065, 0.0073]
+        },
+        {
+          "text": "お前の親はさらわれたんじゃなく、お前を捨てた!",
+          "translation": "Your parents weren't kidnapped—they abandoned you!",
+          "bbox": [0.2009, 0.3736, 0.2718, 0.0079]
+        },
+        {
+          "text": "|バラシタラみたいに。",
+          "translation": "|Like Barashitara.",
+          "bbox": [0.194, 0.3875, 0.1248, 0.0097]
+        },
+        {
+          "text": "22",
+          "translation": "22",
+          "bbox": [0.5453, 0.3894, 0.0205, 0.0054]
+        },
+        {
+          "text": "ヤツデ",
+          "translation": "Yatsude",
+          "bbox": [0.5915, 0.3881, 0.0376, 0.0091]
+        },
+        {
+          "text": "秘密のパワー!ゼンカイザー!全力全開!\nちょあー!... くっ、やるんじゃなかった。\nサトシくん、 またおいでね。",
+          "translation": "Secret power! Zenkaiser! Full throttle!\nWhoa!... Ugh, I shouldn't have done that.\nSatoshi-kun, come again.",
+          "bbox": [0.6778, 0.3579, 0.2188, 0.0393]
+        },
+        {
+          "text": "11",
+          "translation": "11",
+          "bbox": [0.0709, 0.4045, 0.0179, 0.006]
+        },
+        {
+          "text": "介人",
+          "translation": "Kaito",
+          "bbox": [0.1145, 0.4039, 0.0282, 0.0085]
+        },
+        {
+          "text": "それはない!･･･絶対ない。",
+          "translation": "That's impossible!... Absolutely not.",
+          "bbox": [0.2009, 0.4039, 0.1402, 0.0079]
+        },
+        {
+          "text": "ステイシー",
+          "translation": "Stacey",
+          "bbox": [0.5915, 0.4033, 0.0615, 0.0091]
+        },
+        {
+          "text": "今日が･･･最後かもしれません。",
+          "translation": "Today... might be the last.",
+          "bbox": [0.6769, 0.4039, 0.1709, 0.0085]
+        },
+        {
+          "text": "俺の父ちゃん母ちゃんは、そんなことしない!",
+          "translation": "My mom and dad wouldn't do something like that!",
+          "bbox": [0.1991, 0.419, 0.247, 0.0085]
+        },
+        {
+          "text": "ヤツデ",
+          "translation": "Yatsude",
+          "bbox": [0.5915, 0.4184, 0.0385, 0.0091]
+        },
+        {
+          "text": "えっ...",
+          "translation": "Huh...",
+          "bbox": [0.6761, 0.419, 0.0359, 0.0079]
+        },
+        {
+          "text": "ステイシー\n介人",
+          "translation": "Stacey\nKaito",
+          "bbox": [0.1145, 0.4341, 0.0615, 0.023]
+        },
+        {
+          "text": "どうして言い切れる?",
+          "translation": "How can you say that so certainly?",
+          "bbox": [0.2009, 0.4341, 0.1179, 0.0085]
+        },
+        {
+          "text": "23",
+          "translation": "23",
+          "bbox": [0.5462, 0.4347, 0.0214, 0.006]
+        },
+        {
+          "text": "ヤツデ",
+          "translation": "Yatsude",
+          "bbox": [0.5915, 0.4335, 0.0393, 0.0085]
+        },
+        {
+          "text": "またおいでね。 ヘヘヘ。",
+          "translation": "Come back again. Hehehe.",
+          "bbox": [0.6778, 0.4335, 0.1274, 0.0091]
+        },
+        {
+          "text": "俺が、 全力全開で、 信じてるからだ!",
+          "translation": "Because I believe in it with everything I've got!",
+          "bbox": [0.2, 0.4492, 0.1949, 0.0079]
+        },
+        {
+          "text": "24",
+          "translation": "24",
+          "bbox": [0.5462, 0.4498, 0.0205, 0.0067]
+        },
+        {
+          "text": "12",
+          "translation": "12",
+          "bbox": [0.0709, 0.4649, 0.0188, 0.006]
+        },
+        {
+          "text": "ステイシー",
+          "translation": "Stacey",
+          "bbox": [0.1145, 0.4643, 0.0615, 0.0079]
+        },
+        {
+          "text": "君たちに恨みはないと言ったが…少し変わった。",
+          "translation": "I said I bore you no grudge... but that's changed a little.",
+          "bbox": [0.2, 0.4643, 0.2675, 0.0085]
+        },
+        {
+          "text": "ステイシー\n介人",
+          "translation": "Stacey\nKaito",
+          "bbox": [0.5915, 0.448, 0.0615, 0.0242]
+        },
+        {
+          "text": "ゼンカイザー･･･いや五色田介人と言ったな。\n僕はお前が嫌いだ!",
+          "translation": "Zenkaiser... no—Kaito Goshikida, was it? I hate you!",
+          "bbox": [0.2, 0.4788, 0.2462, 0.0236]
+        },
+        {
+          "text": "25",
+          "translation": "25",
+          "bbox": [0.5462, 0.4952, 0.0197, 0.006]
+        },
+        {
+          "text": "介人",
+          "translation": "Kaito",
+          "bbox": [0.5906, 0.4933, 0.0299, 0.0097]
+        },
+        {
+          "text": "13",
+          "translation": "13",
+          "bbox": [0.0709, 0.5103, 0.0197, 0.0067]
+        },
+        {
+          "text": "ステイシー\n介人",
+          "translation": "Stacey\nKaito",
+          "bbox": [0.1137, 0.5103, 0.0632, 0.023]
+        },
+        {
+          "text": "暗黒チェンジ!",
+          "translation": "Dark Change!",
+          "bbox": [0.2009, 0.5085, 0.0761, 0.0097]
+        },
+        {
+          "text": "|チェンジ全開!→変身音",
+          "translation": "|Change Full Throttle! → (transformation sound)",
+          "bbox": [0.1949, 0.5248, 0.1359, 0.0085]
+        },
+        {
+          "text": "14",
+          "translation": "14",
+          "bbox": [0.0709, 0.5405, 0.0188, 0.006]
+        },
+        {
+          "text": "ステイシー",
+          "translation": "Stacey",
+          "bbox": [0.1145, 0.5405, 0.0624, 0.0073]
+        },
+        {
+          "text": "ゼンカイザーを倒してよ。",
+          "translation": "Defeat Zenkaiser.",
+          "bbox": [0.2, 0.5387, 0.1436, 0.0097]
+        },
+        {
+          "text": "ステイシー\n介人",
+          "translation": "Stacey\nKaito",
+          "bbox": [0.5915, 0.5242, 0.0615, 0.0236]
+        },
+        {
+          "text": "報酬は、君の探しているトジルギアだ。",
+          "translation": "The reward is the Tojiru Gear you're looking for.",
+          "bbox": [0.2, 0.5544, 0.212, 0.0091]
+        },
+        {
+          "text": "ステイシー",
+          "translation": "Stacey",
+          "bbox": [0.5915, 0.5556, 0.0624, 0.0073]
+        },
+        {
+          "text": "逃げずに来たのは褒めてやる。\n|ステイシーが、絶対来るって思ったから!\nヤッちゃんと話す時間くれて、ありがとな。\n俺も覚悟決めたから。ステイシーの覚悟、\n全力全開で、ちゃんと受け止めるって!\nそういうところが嫌いなんだ!\n俺も、負けるつもりはない!チェンジ全開!\n| 暗黒チェンジ! → ~2人の変身音~",
+          "translation": "I'll give you credit for coming instead of running away.\n| I knew for sure Stacey would show up!\nThanks for giving me time to talk with Yacchan.\nI've made up my mind too. I'll meet Stacey's resolve\nhead-on, with everything I've got!\nThat's exactly the part I hate about you!\nI don't intend to lose either! Change — Full Throttle!\n| Dark Change! → ~(two transformation sounds)~",
+          "bbox": [0.6709, 0.4492, 0.2385, 0.1143]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.1137, 0.5701, 0.047, 0.0085]
+        },
+        {
+          "text": "へえ・・・それより、俺をトジテンドに連れてってくれよ。",
+          "translation": "Heh... More importantly, take me to Tojitendo.",
+          "bbox": [0.2, 0.5701, 0.2923, 0.0085]
+        },
+        {
+          "text": "欲しいものは自分の手で奪う・・・その方が面白い。",
+          "translation": "I'll take what I want with my own hands... that's more interesting.",
+          "bbox": [0.2, 0.5846, 0.2744, 0.0091]
+        },
+        {
+          "text": "ステイシー",
+          "translation": "Stacey",
+          "bbox": [0.1145, 0.6004, 0.0615, 0.0079]
+        },
+        {
+          "text": "いいよ。協力してくれたら、",
+          "translation": "All right. If you cooperate,",
+          "bbox": [0.2009, 0.5979, 0.1479, 0.0115]
+        },
+        {
+          "text": "トジテンドパレスに連れていこう。",
+          "translation": "I'll take you to Tojitendo Palace.",
+          "bbox": [0.2009, 0.6155, 0.1863, 0.0085]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-7.webp",
+      "blocks": [
+        {
+          "text": "セリフリスト:ステイシー中期モード",
+          "translation": "Dialogue List: Stacey Mid-Stage Mode",
+          "bbox": [0.1145, 0.0441, 0.4444, 0.0187]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.0641, 0.084, 0.0282, 0.0091]
+        },
+        {
+          "text": "キャラクター\n1 イジルデ",
+          "translation": "Character\n1 Ijirude",
+          "bbox": [0.0752, 0.0852, 0.1085, 0.0248]
+        },
+        {
+          "text": "音声",
+          "translation": "Audio",
+          "bbox": [0.3479, 0.084, 0.0291, 0.0091]
+        },
+        {
+          "text": "順番 キャラクター",
+          "translation": "No. Character",
+          "bbox": [0.541, 0.084, 0.1188, 0.0103]
+        },
+        {
+          "text": "ようやく気が付いたか。ゼンカイザーに敗れたお前を、\n吾輩が助けてやったのだ。",
+          "translation": "So you've finally noticed. I was the one who saved you after you were defeated by Zenkaiser.",
+          "bbox": [0.2009, 0.101, 0.3009, 0.0242]
+        },
+        {
+          "text": "15",
+          "translation": "15",
+          "bbox": [0.5462, 0.1022, 0.0179, 0.0067]
+        },
+        {
+          "text": "ステイシー\nハカイザー",
+          "translation": "Stacey\nHakaizer",
+          "bbox": [0.5897, 0.1016, 0.0632, 0.023]
+        },
+        {
+          "text": "･･･何!?",
+          "translation": "...What!?",
+          "bbox": [0.6795, 0.1016, 0.0368, 0.0067]
+        },
+        {
+          "text": "ついでに強化改造もしてやったぞ、感謝しろ。",
+          "translation": "I also upgraded you while I was at it—be grateful.",
+          "bbox": [0.2009, 0.1318, 0.2513, 0.0085]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.0726, 0.1469, 0.0085, 0.0085]
+        },
+        {
+          "text": "ステイシー",
+          "translation": "Stacey",
+          "bbox": [0.1128, 0.1475, 0.0624, 0.0079]
+        },
+        {
+          "text": "ゼンカイザー。久しぶりだな。",
+          "translation": "Zenkaiser. It's been a while.",
+          "bbox": [0.2009, 0.1469, 0.1615, 0.0085]
+        },
+        {
+          "text": "介人",
+          "translation": "Kaito",
+          "bbox": [0.5897, 0.1469, 0.0282, 0.0079]
+        },
+        {
+          "text": "音声",
+          "translation": "Audio",
+          "bbox": [0.7906, 0.084, 0.0291, 0.0091]
+        },
+        {
+          "text": "ここは･･･?ゼンカイザー･･･?\nまさか... 介人・・・?介人なのか!?\nそうだよ･･･俺だよ。 介人だよ。 父ちゃん!",
+          "translation": "Where am I...? Zenkaiser...? Could it be... Kaito...? Is that you, Kaito!? Yes... it's me. I'm Kaito. Dad!",
+          "bbox": [0.6786, 0.1161, 0.2162, 0.0387]
+        },
+        {
+          "text": "介人",
+          "translation": "Kaito",
+          "bbox": [0.112, 0.162, 0.0291, 0.0079]
+        },
+        {
+          "text": "ステイシー･･･よかったー!元気だったんだ!",
+          "translation": "Stacey... thank goodness! You're alive!",
+          "bbox": [0.2009, 0.162, 0.2333, 0.0079]
+        },
+        {
+          "text": "ハカイザー",
+          "translation": "Hakaizer",
+          "bbox": [0.5897, 0.1608, 0.0632, 0.0091]
+        },
+        {
+          "text": "介人･･･!",
+          "translation": "Kaito...!",
+          "bbox": [0.6769, 0.1602, 0.0444, 0.0091]
+        },
+        {
+          "text": "うおおっ、新しい服!?これ!いいねー",
+          "translation": "Whoa—new clothes!? These are great!",
+          "bbox": [0.2017, 0.1771, 0.1991, 0.0085]
+        },
+        {
+          "text": "介人",
+          "translation": "Kaito",
+          "bbox": [0.5897, 0.1771, 0.0282, 0.0079]
+        },
+        {
+          "text": "父ちゃん!",
+          "translation": "Dad!",
+          "bbox": [0.6778, 0.1765, 0.0547, 0.0085]
+        },
+        {
+          "text": "345",
+          "translation": "345",
+          "bbox": [0.0726, 0.2074, 0.0103, 0.0375]
+        },
+        {
+          "text": "6 7",
+          "translation": "6 7",
+          "bbox": [0.0718, 0.2672, 0.0111, 0.0236]
+        },
+        {
+          "text": "ステイシー\nステイシー",
+          "translation": "Stacey\nStacey",
+          "bbox": [0.1128, 0.1923, 0.0624, 0.023]
+        },
+        {
+          "text": "やめろ!",
+          "translation": "Stop it!",
+          "bbox": [0.2, 0.1911, 0.0436, 0.0097]
+        },
+        {
+          "text": "暗黒チェンジ。 →変身音",
+          "translation": "Darkness Change. → Transformation sound",
+          "bbox": [0.2017, 0.2074, 0.1316, 0.0091]
+        },
+        {
+          "text": "ステイシー\nイジルデ",
+          "translation": "Stacey\nIjirude",
+          "bbox": [0.1128, 0.2225, 0.0615, 0.0236]
+        },
+        {
+          "text": "暗黒のパワー、ステイシーザー!",
+          "translation": "Dark power — Staceyzer!",
+          "bbox": [0.2017, 0.2219, 0.1752, 0.0091]
+        },
+        {
+          "text": "ステイシー\nハカイザー\n介人",
+          "translation": "Stacey\nHakaizer\nKaito",
+          "bbox": [0.5897, 0.1923, 0.0632, 0.0375]
+        },
+        {
+          "text": "うう･･･うあああああああああ!!",
+          "translation": "Uu... Aaaaaaah!",
+          "bbox": [0.6786, 0.1917, 0.1701, 0.0085]
+        },
+        {
+          "text": "介人",
+          "translation": "Kaito",
+          "bbox": [0.6778, 0.2068, 0.0282, 0.0085]
+        },
+        {
+          "text": "とうちゃーん!",
+          "translation": "Dad!",
+          "bbox": [0.6786, 0.2219, 0.0752, 0.0085]
+        },
+        {
+          "text": "ステイシー! ステイシーってば! ステイシー!",
+          "translation": "Stacey! Stacey, come on! Stacey!",
+          "bbox": [0.2009, 0.2376, 0.2376, 0.0085]
+        },
+        {
+          "text": "ハカイザー",
+          "translation": "Hakaizer",
+          "bbox": [0.5906, 0.2358, 0.0624, 0.0097]
+        },
+        {
+          "text": "介人、介人ぉ!!",
+          "translation": "Kaito, Kaito!",
+          "bbox": [0.6778, 0.2358, 0.0769, 0.0103]
+        },
+        {
+          "text": "ステイシー",
+          "translation": "Stacey",
+          "bbox": [0.1128, 0.2678, 0.0615, 0.0079]
+        },
+        {
+          "text": "もうう･･･ブラックジュラガオーンを出せ!早く!早く出せって!\n暗黒召喚。→ブラックジュラガオーン召喚音",
+          "translation": "Ugh... Bring out Black Juragaon! Hurry! Hurry and bring it out!\nDark summoning. → Black Juragaon summoning sound",
+          "bbox": [0.2017, 0.2521, 0.3111, 0.0242]
+        },
+        {
+          "text": "16",
+          "translation": "16",
+          "bbox": [0.5462, 0.2533, 0.0188, 0.006]
+        },
+        {
+          "text": "ステイシー",
+          "translation": "Stacey",
+          "bbox": [0.5897, 0.2521, 0.0624, 0.0085]
+        },
+        {
+          "text": "まさか･･･ 五色田介人の父親だったなんて",
+          "translation": "I never imagined... that he was Kaito Goshikida's father.",
+          "bbox": [0.6786, 0.2515, 0.2282, 0.0091]
+        },
+        {
+          "text": "......ヤツデ・・・。",
+          "translation": "...Yatsude...",
+          "bbox": [0.6778, 0.2678, 0.0821, 0.0079]
+        },
+        {
+          "text": "ステイシー",
+          "translation": "Stacey",
+          "bbox": [0.1128, 0.2836, 0.0624, 0.0073]
+        },
+        {
+          "text": "そうさ。僕は諦めない!何度だってゼンカイザーを\n打ち取りにくる!僕の目的の為に!",
+          "translation": "That's right. I won't give up! I'll come back to take down Zenkaiser again and again—for the sake of my goal!",
+          "bbox": [0.2009, 0.2823, 0.2752, 0.0248]
+        },
+        {
+          "text": "17",
+          "translation": "17",
+          "bbox": [0.5462, 0.2836, 0.0179, 0.006]
+        },
+        {
+          "text": "ステイシー",
+          "translation": "Stacey",
+          "bbox": [0.5897, 0.283, 0.0624, 0.0073]
+        },
+        {
+          "text": "あいつは・・・ようやく手に入れた僕の仲間だ。\nすまない、 ヤツデ・・・!",
+          "translation": "He's... a comrade I finally acquired.\nI'm sorry, Yatsude...!",
+          "bbox": [0.6778, 0.2817, 0.2453, 0.0242]
+        },
+        {
+          "text": "8",
+          "translation": "8",
+          "bbox": [0.0735, 0.3138, 0.0094, 0.006]
+        },
+        {
+          "text": "介人",
+          "translation": "Kaito",
+          "bbox": [0.112, 0.3132, 0.0282, 0.0079]
+        },
+        {
+          "text": "・・・そうだよな。 俺だって!諦めなくていいよな!",
+          "translation": "...Yeah. Me too! I don't have to give up, do I?",
+          "bbox": [0.2017, 0.3132, 0.2513, 0.0079]
+        },
+        {
+          "text": "18",
+          "translation": "18",
+          "bbox": [0.547, 0.3138, 0.0162, 0.0067]
+        },
+        {
+          "text": "ステイシー",
+          "translation": "Stacey",
+          "bbox": [0.5897, 0.3126, 0.0615, 0.0085]
+        },
+        {
+          "text": "僕はハカイザーと五色田介人に、",
+          "translation": "To Hakaizer and Kaito Goshikida,",
+          "bbox": [0.6778, 0.312, 0.1829, 0.0091]
+        },
+        {
+          "text": "俺がずっとやられなかったら、 いつか、",
+          "translation": "If I never get taken out, then someday...",
+          "bbox": [0.2009, 0.3283, 0.2085, 0.0079]
+        },
+        {
+          "text": "バラシタラと同じことをしているのか...",
+          "translation": "Are they doing the same thing as Barashitara...?",
+          "bbox": [0.6778, 0.3277, 0.2214, 0.0085]
+        },
+        {
+          "text": "お前の気持ちが変わるかもしれない!",
+          "translation": "Your feelings might change!",
+          "bbox": [0.2017, 0.3422, 0.2068, 0.0097]
+        },
+        {
+          "text": "ステイシー\n介人",
+          "translation": "Stacey\nKaito",
+          "bbox": [0.112, 0.3591, 0.0624, 0.023]
+        },
+        {
+          "text": "何を言っている!",
+          "translation": "What are you talking about!?",
+          "bbox": [0.2009, 0.3591, 0.0915, 0.0073]
+        },
+        {
+          "text": "19",
+          "translation": "19",
+          "bbox": [0.5462, 0.3591, 0.0197, 0.006]
+        },
+        {
+          "text": "ステイシー!またうちの店こいよ!ヤッちゃん、待ってるよ!",
+          "translation": "Stacey! Come by our shop again! Yacchan'll be waiting!",
+          "bbox": [0.2009, 0.3736, 0.3145, 0.0085]
+        },
+        {
+          "text": "20",
+          "translation": "20",
+          "bbox": [0.5444, 0.3742, 0.0214, 0.006]
+        },
+        {
+          "text": "ステイシー\nゾックス",
+          "translation": "Stacey\nZox",
+          "bbox": [0.5897, 0.3585, 0.0624, 0.023]
+        },
+        {
+          "text": "ステイシー",
+          "translation": "Stacey",
+          "bbox": [0.1128, 0.3894, 0.0624, 0.0073]
+        },
+        {
+          "text": "・・・うるさい!",
+          "translation": "...Shut up!",
+          "bbox": [0.2017, 0.3888, 0.0641, 0.0085]
+        },
+        {
+          "text": "介人",
+          "translation": "Kaito",
+          "bbox": [0.112, 0.4045, 0.0291, 0.0079]
+        },
+        {
+          "text": "すぐには無理でも!俺も、諦めないから!",
+          "translation": "Even if it's not possible right away—I'm not giving up either!",
+          "bbox": [0.2017, 0.4039, 0.2154, 0.0085]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.0735, 0.4196, 0.0094, 0.0067]
+        },
+        {
+          "text": "ステイシー",
+          "translation": "Stacey",
+          "bbox": [0.1128, 0.4196, 0.0624, 0.0073]
+        },
+        {
+          "text": "どけ!選手交代だ。",
+          "translation": "Out of the way! Time for a substitution.",
+          "bbox": [0.2017, 0.4178, 0.0991, 0.0103]
+        },
+        {
+          "text": "介人",
+          "translation": "Kaito",
+          "bbox": [0.5897, 0.4184, 0.0274, 0.0079]
+        },
+        {
+          "text": "介人",
+          "translation": "Kaito",
+          "bbox": [0.1128, 0.4347, 0.0282, 0.0079]
+        },
+        {
+          "text": "え!?ステイシー・・・",
+          "translation": "Huh!? Stacey...",
+          "bbox": [0.2009, 0.4335, 0.1009, 0.0085]
+        },
+        {
+          "text": "21",
+          "translation": "21",
+          "bbox": [0.5444, 0.4353, 0.0188, 0.0054]
+        },
+        {
+          "text": "ステイシー",
+          "translation": "Stacey",
+          "bbox": [0.1128, 0.4492, 0.0624, 0.0079]
+        },
+        {
+          "text": "サトシだ!",
+          "translation": "It's Satoshi!",
+          "bbox": [0.2017, 0.4498, 0.0496, 0.0073]
+        },
+        {
+          "text": "10",
+          "translation": "10",
+          "bbox": [0.0701, 0.4649, 0.0188, 0.0067]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.112, 0.4631, 0.047, 0.0109]
+        },
+        {
+          "text": "これが･･･基本に忠実な、パーフェクトなテニス･･･",
+          "translation": "This is... perfect tennis, faithful to the fundamentals...",
+          "bbox": [0.2017, 0.4637, 0.2675, 0.0091]
+        },
+        {
+          "text": "22",
+          "translation": "22",
+          "bbox": [0.5444, 0.4649, 0.0197, 0.0067]
+        },
+        {
+          "text": "介人",
+          "translation": "Kaito",
+          "bbox": [0.5897, 0.4637, 0.0274, 0.0079]
+        },
+        {
+          "text": "ステイシー",
+          "translation": "Stacey",
+          "bbox": [0.1128, 0.4794, 0.0615, 0.0079]
+        },
+        {
+          "text": "テニスは好きだが、お前は嫌いだ!",
+          "translation": "I like tennis, but I hate you!",
+          "bbox": [0.2017, 0.4782, 0.1863, 0.0103]
+        },
+        {
+          "text": "11",
+          "translation": "11",
+          "bbox": [0.0684, 0.494, 0.0205, 0.0079]
+        },
+        {
+          "text": "ハカイザー",
+          "translation": "Hakaizer",
+          "bbox": [0.1137, 0.4946, 0.0624, 0.0079]
+        },
+        {
+          "text": "俺は、キカイのパワー、ハカイザー!",
+          "translation": "I am the power of machines—Hakaizer!",
+          "bbox": [0.2009, 0.494, 0.1957, 0.0091]
+        },
+        {
+          "text": "全力でハカーイ!",
+          "translation": "Full power—HAKAI!",
+          "bbox": [0.2009, 0.5091, 0.0932, 0.0091]
+        },
+        {
+          "text": "あの憎き父親と同じことを...\nこれを分析しろ。",
+          "translation": "Doing the same thing as that hateful father... Analyze this.",
+          "bbox": [0.6786, 0.3416, 0.1615, 0.0248]
+        },
+        {
+          "text": "とある筋からの情報だ。 このデカブツの",
+          "translation": "This is information from a certain source. About this huge thing...",
+          "bbox": [0.6786, 0.3724, 0.2188, 0.0097]
+        },
+        {
+          "text": "待ってな、俺が引っこ抜いてきてやる!\nゾックス、ステイシー･･･ありがとう!\n神ステイシー 実は僕、すべての世界を作った、\n神様なんだよね。\nあんたがステイシーの体使ってるってことは、\nその間ステイシーはどうなってんだよ!\n神ステイシーちょっと意識にお休みしてもらってるだけさ。\n介人\n人の体勝手に乗っ取るようなやつ、",
+          "translation": "Wait — I'll pull it out myself!\nZox, Stacey... thank you!\nGod Stacey: Actually, I'm the god who created all the worlds.\nIf you're using Stacey's body, what happens to Stacey during that time?!\nGod Stacey: I'm just letting his consciousness take a short rest.\nKaito: Someone who'd hijack another person's body like that...",
+          "bbox": [0.5889, 0.4027, 0.3385, 0.1161]
+        },
+        {
+          "text": "頭部に、ハカイザーが埋まってる。",
+          "translation": "Hakaizer is embedded in the head.",
+          "bbox": [0.6778, 0.3881, 0.188, 0.0085]
+        },
+        {
+          "text": "12",
+          "translation": "12",
+          "bbox": [0.0692, 0.5254, 0.0179, 0.006]
+        },
+        {
+          "text": "ハカイザー",
+          "translation": "Hakaizer",
+          "bbox": [0.1128, 0.5248, 0.0641, 0.0079]
+        },
+        {
+          "text": "これからも、一緒に頑張ろうな!",
+          "translation": "Let's keep doing our best together!",
+          "bbox": [0.2017, 0.5248, 0.1718, 0.0085]
+        },
+        {
+          "text": "ステイシー",
+          "translation": "Stacey",
+          "bbox": [0.1128, 0.5399, 0.0624, 0.0085]
+        },
+        {
+          "text": "一緒に･･･?誰が...",
+          "translation": "Together...? Who...?",
+          "bbox": [0.2009, 0.5387, 0.1009, 0.0097]
+        },
+        {
+          "text": "13",
+          "translation": "13",
+          "bbox": [0.0692, 0.5556, 0.0188, 0.006]
+        },
+        {
+          "text": "ステイシー",
+          "translation": "Stacey",
+          "bbox": [0.1128, 0.5556, 0.0624, 0.0073]
+        },
+        {
+          "text": "一緒に頑張ろう、 か ･･･ 僕の目的は、",
+          "translation": "\"Let's do our best together,\" huh... My goal is...",
+          "bbox": [0.2009, 0.555, 0.1897, 0.0085]
+        },
+        {
+          "text": "信じていいって思えない。",
+          "translation": "I can't bring myself to believe you.",
+          "bbox": [0.6778, 0.5242, 0.1444, 0.0085]
+        },
+        {
+          "text": "俺達と話したいなら、俺の体使えよ!",
+          "translation": "If you want to talk to us, use my body!",
+          "bbox": [0.6778, 0.5393, 0.2, 0.0085]
+        },
+        {
+          "text": "神ステイシー わかった。 いいよ介人。",
+          "translation": "God Stacey: Got it. Alright, Kaito.",
+          "bbox": [0.5897, 0.5538, 0.2145, 0.0091]
+        },
+        {
+          "text": "君の言う通り、この体は解放しよう。",
+          "translation": "As you said, I'll release this body.",
+          "bbox": [0.6778, 0.5695, 0.1966, 0.0085]
+        },
+        {
+          "text": "バラシタラを超えること。\nそれが1人である必要は･･･無いのかもしれない。\nハカイザー。 僕と、 組んでみないか?",
+          "translation": "Surpass Barashitara. It may not be necessary for that to be done by just one person... Hakaizer. Won't you team up with me?",
+          "bbox": [0.2009, 0.5689, 0.2718, 0.0405]
+        },
+        {
+          "text": "14",
+          "translation": "14",
+          "bbox": [0.0692, 0.6016, 0.0205, 0.0067]
+        },
+        {
+          "text": "ステイシー",
+          "translation": "Stacey",
+          "bbox": [0.1128, 0.601, 0.0624, 0.0073]
+        },
+        {
+          "text": "ハカイザー",
+          "translation": "Hakaizer",
+          "bbox": [0.1128, 0.6155, 0.0641, 0.0079]
+        },
+        {
+          "text": "え?ふふふ…組むも何も、",
+          "translation": "Huh? Heh heh... 'team up' or whatever—",
+          "bbox": [0.2009, 0.6155, 0.1419, 0.0079]
+        },
+        {
+          "text": "俺たち最初からチームじゃないか。だろ?",
+          "translation": "Weren't we a team from the very beginning? Right?",
+          "bbox": [0.2, 0.6306, 0.2265, 0.0079]
+        },
+        {
+          "text": "ステイシー",
+          "translation": "Stacey",
+          "bbox": [0.1128, 0.6463, 0.0624, 0.0073]
+        },
+        {
+          "text": "...そうか。",
+          "translation": "...I see.",
+          "bbox": [0.2026, 0.6457, 0.0538, 0.0085]
+        },
+        {
+          "text": "7",
+          "translation": "7",
+          "bbox": [0.4923, 0.9825, 0.0154, 0.0103]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-8.webp",
+      "blocks": [
+        {
+          "text": "セリフリスト: ステイシー後期モード",
+          "translation": "Line List: Stacey (Late-Stage Mode)",
+          "bbox": [0.1153, 0.0441, 0.4432, 0.0193]
+        },
+        {
+          "text": "順番 キャラクター",
+          "translation": "No.  Character",
+          "bbox": [0.0666, 0.084, 0.1187, 0.0103]
+        },
+        {
+          "text": "音声",
+          "translation": "Voice",
+          "bbox": [0.3296, 0.084, 0.029, 0.0091]
+        },
+        {
+          "text": "順番 キャラクター",
+          "translation": "No.  Character",
+          "bbox": [0.5021, 0.0834, 0.1196, 0.0103]
+        },
+        {
+          "text": "音声",
+          "translation": "Voice",
+          "bbox": [0.7839, 0.0834, 0.029, 0.0097]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.0769, 0.1022, 0.0051, 0.006]
+        },
+        {
+          "text": "介人",
+          "translation": "Kaito",
+          "bbox": [0.1144, 0.1016, 0.029, 0.0079]
+        },
+        {
+          "text": "ステイシー、お前にちゃんと言えてなかった。\n父ちゃんの事、助けてくれてありがとう。",
+          "translation": "Stacey — I never properly said this to you. Thank you for helping my dad.",
+          "bbox": [0.2015, 0.1016, 0.2485, 0.0236]
+        },
+        {
+          "text": "7",
+          "translation": "7",
+          "bbox": [0.5115, 0.1022, 0.0102, 0.0067]
+        },
+        {
+          "text": "ヤツデ",
+          "translation": "Yatsude",
+          "bbox": [0.55, 0.101, 0.0393, 0.0091]
+        },
+        {
+          "text": "まったく・・・!バカなことをする子だよ!",
+          "translation": "Good grief...! What a foolish kid!",
+          "bbox": [0.6379, 0.1016, 0.2041, 0.0079]
+        },
+        {
+          "text": "ステイシー",
+          "translation": "Stacey",
+          "bbox": [0.1153, 0.1324, 0.0623, 0.0073]
+        },
+        {
+          "text": "･･･ああ",
+          "translation": "...Ah.",
+          "bbox": [0.2032, 0.1318, 0.0384, 0.0073]
+        },
+        {
+          "text": "ステイシー\nヤツデ",
+          "translation": "Stacey\nYatsude",
+          "bbox": [0.55, 0.1167, 0.0623, 0.0242]
+        },
+        {
+          "text": "・・・ごめんなさい!",
+          "translation": "...I'm sorry!",
+          "bbox": [0.6371, 0.1155, 0.0931, 0.0103]
+        },
+        {
+          "text": "介人",
+          "translation": "Kaito",
+          "bbox": [0.1144, 0.1469, 0.0273, 0.0079]
+        },
+        {
+          "text": "本当にありがとう! そんで･･･ごめん。",
+          "translation": "Thank you so much! And... I'm sorry.",
+          "bbox": [0.2024, 0.1469, 0.1964, 0.0085]
+        },
+        {
+          "text": "お前にとっても、",
+          "translation": "For you as well,",
+          "bbox": [0.2032, 0.162, 0.0905, 0.0079]
+        },
+        {
+          "text": "トジテンドでの大事な仲間だったのに。",
+          "translation": "you were an important comrade in Tojitendo.",
+          "bbox": [0.2032, 0.1771, 0.2143, 0.0085]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.0743, 0.1929, 0.0102, 0.0067]
+        },
+        {
+          "text": "ステイシー",
+          "translation": "Stacey",
+          "bbox": [0.1153, 0.1929, 0.0623, 0.0073]
+        },
+        {
+          "text": "･･･何だったんだろうな。",
+          "translation": "...I wonder what that was.",
+          "bbox": [0.2032, 0.1923, 0.1272, 0.0091]
+        },
+        {
+          "text": "僕はただ、バラシタラを超えたかっただけなのに。",
+          "translation": "All I wanted was to surpass Barashitara.",
+          "bbox": [0.2024, 0.2074, 0.275, 0.0085]
+        },
+        {
+          "text": "悩んで、考えて、進めば進むほど迷走して",
+          "translation": "The more I worried and thought about it and tried to move forward, the more I went off the rails.",
+          "bbox": [0.2024, 0.2219, 0.228, 0.0091]
+        },
+        {
+          "text": "このザマだ。 もう疲れた。",
+          "translation": "Look at me now. I'm exhausted.",
+          "bbox": [0.2032, 0.2364, 0.1375, 0.0103]
+        },
+        {
+          "text": "介人",
+          "translation": "Kaito",
+          "bbox": [0.1144, 0.2527, 0.0273, 0.0079]
+        },
+        {
+          "text": "ステイシー･･･",
+          "translation": "Stacey...",
+          "bbox": [0.2024, 0.2515, 0.0734, 0.0103]
+        },
+        {
+          "text": "ステイシー\nヤツデ",
+          "translation": "Stacey\nYatsude",
+          "bbox": [0.55, 0.2382, 0.0623, 0.0224]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.0751, 0.2684, 0.0094, 0.006]
+        },
+        {
+          "text": "介人",
+          "translation": "Kaito",
+          "bbox": [0.1144, 0.2678, 0.0282, 0.0079]
+        },
+        {
+          "text": "ステイシー、俺たちんとこ来いよ!",
+          "translation": "Stacey, come join us!",
+          "bbox": [0.2024, 0.2678, 0.1862, 0.0085]
+        },
+        {
+          "text": "一緒にトジテンド倒そう?",
+          "translation": "Let's take down Tojitendo together!",
+          "bbox": [0.2024, 0.2817, 0.1392, 0.0103]
+        },
+        {
+          "text": "8",
+          "translation": "8",
+          "bbox": [0.5115, 0.2836, 0.0094, 0.0067]
+        },
+        {
+          "text": "ステイシー\nステイシー",
+          "translation": "Stacey\nStacey",
+          "bbox": [0.55, 0.2678, 0.0623, 0.023]
+        },
+        {
+          "text": "ステイシー",
+          "translation": "Stacey",
+          "bbox": [0.1153, 0.2987, 0.0623, 0.0073]
+        },
+        {
+          "text": "･･･え?",
+          "translation": "...Huh?",
+          "bbox": [0.2032, 0.2987, 0.0333, 0.0067]
+        },
+        {
+          "text": "介人",
+          "translation": "Kaito",
+          "bbox": [0.1144, 0.3132, 0.0282, 0.0079]
+        },
+        {
+          "text": "いいじゃんもう。 あんな苦しいとこで、\n無理に頑張んなくてもいいよ、",
+          "translation": "It's fine already. You don't have to force yourself in a place that's so painful.",
+          "bbox": [0.2024, 0.3132, 0.2075, 0.0236]
+        },
+        {
+          "text": "・・・でも、優しい子だ。\n優しいから、つらいところで\nつらいまんま頑張っちゃったんだろう?\nでも無理しなくていいんだよもう。\n全部ポイって捨てて、次進めばいいんだ。\nあったかい場所なんて、\n他でいくらでも作れるんだから。",
+          "translation": "...But you're a kind kid. Because you're kind, you probably kept pushing yourself even when it was painful, right? But you don't have to force yourself anymore. Just toss it all away and move on. You can make a warm place anywhere else.",
+          "bbox": [0.6371, 0.1312, 0.2297, 0.0998]
+        },
+        {
+          "text": "･･･はい!",
+          "translation": "...Yes!",
+          "bbox": [0.6379, 0.2376, 0.0427, 0.0079]
+        },
+        {
+          "text": "もちろん、うちはいつでも大歓迎!だけどね。\nありがとう･･･ありがとうございます...!\nヤツデに全部話した。",
+          "translation": "Of course—our place will always welcome you! But... thank you... thank you so much!... I told Yatsude everything.",
+          "bbox": [0.6379, 0.2515, 0.2434, 0.0405]
+        },
+        {
+          "text": "僕はずっと、トジテンドの常識で動いてきた...\n今ここで寝返ったからって、\n罪滅ぼしにはならないのかもしれない。\nでも、今度は胸を張って、カラフルに行きたいから。",
+          "translation": "I've always acted according to Tojitendo's rules... Even if I switch sides now, it might not atone for what I've done. But this time I want to stand tall and go to Colorful with my head held high.",
+          "bbox": [0.6371, 0.2981, 0.2827, 0.0538]
+        },
+        {
+          "text": "だってステイシー、優しいじゃん!",
+          "translation": "Because you're kind, Stacey!",
+          "bbox": [0.2032, 0.344, 0.1802, 0.0079]
+        },
+        {
+          "text": "ステイシー",
+          "translation": "Stacey",
+          "bbox": [0.1153, 0.3579, 0.0615, 0.0085]
+        },
+        {
+          "text": "やめろ!僕のことはもう、放っといてくれ。",
+          "translation": "Stop it! Just leave me alone already.",
+          "bbox": [0.2024, 0.3585, 0.2246, 0.0085]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.5107, 0.3591, 0.0111, 0.0067]
+        },
+        {
+          "text": "ステイシー",
+          "translation": "Stacey",
+          "bbox": [0.55, 0.3591, 0.0623, 0.0073]
+        },
+        {
+          "text": "え。お前、 トジテンドだったのか。",
+          "translation": "Eh. You were with Tojitendo?",
+          "bbox": [0.6371, 0.3585, 0.1768, 0.0085]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.0743, 0.3742, 0.012, 0.006]
+        },
+        {
+          "text": "介人",
+          "translation": "Kaito",
+          "bbox": [0.1144, 0.3736, 0.0282, 0.0085]
+        },
+        {
+          "text": "でさヤッちゃん。もし･･･もしサトシがいいって\n言ったらなんだけど、あいつ、",
+          "translation": "So, Yacchan—if... if Satoshi says it's okay, then that guy...",
+          "bbox": [0.2024, 0.3736, 0.2485, 0.0236]
+        },
+        {
+          "text": "ふっ･･･なんだよそれ。\n悩んでた僕がバカみたいじゃないか。",
+          "translation": "Heh... what is that. Makes me look like a fool for having worried.",
+          "bbox": [0.6379, 0.3736, 0.2067, 0.0236]
+        },
+        {
+          "text": "うちに呼んでもいいかな?",
+          "translation": "Can I invite you over to my place?",
+          "bbox": [0.2032, 0.4027, 0.146, 0.0097]
+        },
+        {
+          "text": "介人",
+          "translation": "Kaito",
+          "bbox": [0.55, 0.4045, 0.0282, 0.0079]
+        },
+        {
+          "text": "詳しいことは言えないんだけど、あいつ、",
+          "translation": "I can't say the details, but that guy...",
+          "bbox": [0.2032, 0.419, 0.2237, 0.0085]
+        },
+        {
+          "text": "でも俺、そういうステイシーの真面目なとこ、\n好きだよ。",
+          "translation": "But I like that serious side of you, Stacey.",
+          "bbox": [0.6371, 0.4039, 0.2494, 0.0242]
+        },
+        {
+          "text": "一人でずっと苦しんでて･･･ いろんなこと",
+          "translation": "You've been suffering all on your own... with so many things.",
+          "bbox": [0.2024, 0.4329, 0.2237, 0.0097]
+        },
+        {
+          "text": "ステイシー",
+          "translation": "Stacey",
+          "bbox": [0.55, 0.4341, 0.0623, 0.0085]
+        },
+        {
+          "text": "僕はお前の･･･そういう所が嫌いだ。",
+          "translation": "I hate that side of you.",
+          "bbox": [0.6379, 0.4341, 0.1947, 0.0085]
+        },
+        {
+          "text": "信じられなくなってて、 でも、 ヤッちゃんのことは",
+          "translation": "I'd lost the ability to trust, but when it came to Yacchan...",
+          "bbox": [0.2024, 0.4492, 0.2673, 0.0079]
+        },
+        {
+          "text": "10",
+          "translation": "10",
+          "bbox": [0.5073, 0.4498, 0.0205, 0.006]
+        },
+        {
+          "text": "介人",
+          "translation": "Kaito",
+          "bbox": [0.5491, 0.4492, 0.0282, 0.0079]
+        },
+        {
+          "text": "まだ、変わらず好きだと思うんだ。だから...",
+          "translation": "I think I still like you just the same. So...",
+          "bbox": [0.2032, 0.4643, 0.2365, 0.0085]
+        },
+        {
+          "text": "ステイシー",
+          "translation": "Stacey",
+          "bbox": [0.55, 0.4649, 0.0623, 0.0073]
+        },
+        {
+          "text": "ヤツデ",
+          "translation": "Yatsude",
+          "bbox": [0.1153, 0.4788, 0.0384, 0.0085]
+        },
+        {
+          "text": "いいよ。",
+          "translation": "Sure.",
+          "bbox": [0.2032, 0.48, 0.0427, 0.0079]
+        },
+        {
+          "text": "11",
+          "translation": "11",
+          "bbox": [0.5081, 0.48, 0.0154, 0.006]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.5491, 0.4782, 0.047, 0.0097]
+        },
+        {
+          "text": "これが終わったら、一緒にカラフル帰ろう?\nああ。そのつもりで来た。\nまずは･･･バラシタラをぶったおす!",
+          "translation": "Once this is over, let's go back to Colorful together, okay? Yeah — that's why I came. First... we'll take down Barashitara!",
+          "bbox": [0.6379, 0.4486, 0.2357, 0.0399]
+        },
+        {
+          "text": "介人",
+          "translation": "Kaito",
+          "bbox": [0.1144, 0.4946, 0.0282, 0.0079]
+        },
+        {
+          "text": "ほんと?",
+          "translation": "Really?",
+          "bbox": [0.2032, 0.4946, 0.0453, 0.0073]
+        },
+        {
+          "text": "ステイシー",
+          "translation": "Stacey",
+          "bbox": [0.55, 0.4952, 0.0615, 0.0073]
+        },
+        {
+          "text": "お前･･･",
+          "translation": "You...",
+          "bbox": [0.6379, 0.4946, 0.0384, 0.0079]
+        },
+        {
+          "text": "ヤツデ",
+          "translation": "Yatsude",
+          "bbox": [0.1153, 0.5097, 0.0376, 0.0079]
+        },
+        {
+          "text": "いいに決まってんじゃないか。",
+          "translation": "Of course it is!",
+          "bbox": [0.2032, 0.5097, 0.1648, 0.0085]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.5491, 0.5097, 0.047, 0.0085]
+        },
+        {
+          "text": "俺もアイツには借りがあるからな。",
+          "translation": "I owe him one too.",
+          "bbox": [0.6379, 0.5097, 0.1921, 0.0085]
+        },
+        {
+          "text": "いまうちに、何人いると思ってんだい?",
+          "translation": "Do you know how many people we have at my place right now?",
+          "bbox": [0.2032, 0.5248, 0.2118, 0.0085]
+        },
+        {
+          "text": "12",
+          "translation": "12",
+          "bbox": [0.5073, 0.5254, 0.0188, 0.006]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.55, 0.5236, 0.0453, 0.0103]
+        },
+        {
+          "text": "いくぞ、ステイシー!",
+          "translation": "Let's go, Stacey!",
+          "bbox": [0.6379, 0.5236, 0.1085, 0.0097]
+        },
+        {
+          "text": "いつでもあったかいご飯と、おいし〜いおやつ、",
+          "translation": "Always a warm meal and delicious snacks,",
+          "bbox": [0.2032, 0.5399, 0.2622, 0.0079]
+        },
+        {
+          "text": "食べさせてやるよ。 今度サトシくん来たら、",
+          "translation": "I'll feed them to you. Next time Satoshi-kun comes over,",
+          "bbox": [0.2024, 0.5544, 0.2357, 0.0091]
+        },
+        {
+          "text": "ステイシー\nゾックス",
+          "translation": "Stacey\nZox",
+          "bbox": [0.55, 0.5405, 0.0623, 0.023]
+        },
+        {
+          "text": "ああ。",
+          "translation": "Yeah.",
+          "bbox": [0.6388, 0.5399, 0.0307, 0.0079]
+        },
+        {
+          "text": "チェンジ痛快!",
+          "translation": "Change — How exhilarating!",
+          "bbox": [0.6379, 0.5538, 0.0786, 0.0103]
+        },
+        {
+          "text": "言っとくよ。",
+          "translation": "Just so you know.",
+          "bbox": [0.2024, 0.5701, 0.064, 0.0079]
+        },
+        {
+          "text": "介人",
+          "translation": "Kaito",
+          "bbox": [0.1144, 0.5846, 0.0282, 0.0085]
+        },
+        {
+          "text": "ヤッちゃん…ありがとう。",
+          "translation": "Yacchan... thank you.",
+          "bbox": [0.2032, 0.5852, 0.1358, 0.0085]
+        },
+        {
+          "text": "ステイシー\nフリント",
+          "translation": "Stacey\nFlint",
+          "bbox": [0.55, 0.5707, 0.0623, 0.0218]
+        },
+        {
+          "text": "暗黒チェンジ!",
+          "translation": "Dark Change!",
+          "bbox": [0.6388, 0.5701, 0.0769, 0.0079]
+        },
+        {
+          "text": "| ハイ!ハイ!せーのっ!二人は最強!",
+          "translation": "Okay! Okay! Ready—go! The two of us are the strongest!",
+          "bbox": [0.6311, 0.5846, 0.1896, 0.0091]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.0751, 0.601, 0.0094, 0.0067]
+        },
+        {
+          "text": "ヤツデ",
+          "translation": "Yatsude",
+          "bbox": [0.1153, 0.6004, 0.0367, 0.0079]
+        },
+        {
+          "text": "サトシくん。久しぶりだねえ、",
+          "translation": "Satoshi-kun. Long time no see,",
+          "bbox": [0.2024, 0.5992, 0.1563, 0.0109]
+        },
+        {
+          "text": "バラシタラなんかばらしちゃおー!",
+          "translation": "Let's totally take down Barashitara!",
+          "bbox": [0.6379, 0.6004, 0.1896, 0.0085]
+        },
+        {
+          "text": "元気だったかい?・・・ 待ってたんだよ。",
+          "translation": "Have you been well?... We've been waiting for you.",
+          "bbox": [0.2024, 0.6155, 0.2024, 0.0085]
+        },
+        {
+          "text": "2人",
+          "translation": "2 people",
+          "bbox": [0.55, 0.6155, 0.0239, 0.0079]
+        },
+        {
+          "text": "はっ!→2人変身音",
+          "translation": "Ha! → 2-person transformation sound",
+          "bbox": [0.6388, 0.6155, 0.1016, 0.0085]
+        },
+        {
+          "text": "ステイシー",
+          "translation": "Stacey",
+          "bbox": [0.1153, 0.63, 0.0623, 0.0097]
+        },
+        {
+          "text": "あなたに・・・謝らなくてはいけないことがあります。",
+          "translation": "There is something I have to apologize to you for.",
+          "bbox": [0.2032, 0.6306, 0.2784, 0.0079]
+        },
+        {
+          "text": "13",
+          "translation": "13",
+          "bbox": [0.5073, 0.6312, 0.0188, 0.006]
+        },
+        {
+          "text": "ステイシー",
+          "translation": "Stacey",
+          "bbox": [0.55, 0.6312, 0.0623, 0.0073]
+        },
+        {
+          "text": "なんとでも言え!お前のことは憎いが、",
+          "translation": "Say whatever you want! I hate you, but...",
+          "bbox": [0.6379, 0.6288, 0.2109, 0.0103]
+        },
+        {
+          "text": "僕の名前はサトシじゃない。",
+          "translation": "My name isn't Satoshi.",
+          "bbox": [0.2032, 0.6445, 0.152, 0.0103]
+        },
+        {
+          "text": "本当の名前は、ステイシーです。",
+          "translation": "My real name is Stacey.",
+          "bbox": [0.2024, 0.6608, 0.1776, 0.0085]
+        },
+        {
+          "text": "ヤツデ",
+          "translation": "Yatsude",
+          "bbox": [0.1144, 0.6759, 0.0384, 0.0079]
+        },
+        {
+          "text": "ステイシーって、 あ・・・あのトジテンドの!?",
+          "translation": "Stacey... Y-you mean the one from Tojitendo!?",
+          "bbox": [0.2024, 0.6759, 0.2272, 0.0085]
+        },
+        {
+          "text": "これは敵討ちじゃない!\n俺が･･･これから生きる場所を守る。\nそのための戦いだ!",
+          "translation": "This isn't about revenge!\nI'm protecting the place where I'm going to live.\nThat's what this fight is for!",
+          "bbox": [0.6371, 0.6451, 0.1947, 0.0393]
+        },
+        {
+          "text": "ステイシー",
+          "translation": "Stacey",
+          "bbox": [0.1144, 0.6904, 0.0615, 0.0085]
+        },
+        {
+          "text": "はい・・・あなたの孫の、",
+          "translation": "Yes... your grandchild...",
+          "bbox": [0.2041, 0.6911, 0.1204, 0.0085]
+        },
+        {
+          "text": "14",
+          "translation": "14",
+          "bbox": [0.5073, 0.6911, 0.0188, 0.0073]
+        },
+        {
+          "text": "ステイシー",
+          "translation": "Stacey",
+          "bbox": [0.55, 0.6898, 0.0623, 0.0097]
+        },
+        {
+          "text": "今度こそ、奪われる前に守ってやる!",
+          "translation": "This time, I'll protect him before he's taken away!",
+          "bbox": [0.6379, 0.6911, 0.199, 0.0079]
+        },
+        {
+          "text": "五色田介人の命を狙っていました。",
+          "translation": "They were targeting Kaito Goshikida's life.",
+          "bbox": [0.2024, 0.7056, 0.1947, 0.0091]
+        },
+        {
+          "text": "15",
+          "translation": "15",
+          "bbox": [0.5081, 0.7068, 0.0171, 0.006]
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.0751, 0.7219, 0.0094, 0.006]
+        },
+        {
+          "text": "ステイシー",
+          "translation": "Stacey",
+          "bbox": [0.1153, 0.7219, 0.0623, 0.0073]
+        },
+        {
+          "text": "僕の父はトジテンドの幹部で、",
+          "translation": "My father was an executive in Tojitendo,",
+          "bbox": [0.2024, 0.7201, 0.1648, 0.0103]
+        },
+        {
+          "text": "ステイシー\nゾックス",
+          "translation": "Stacey\nZox",
+          "bbox": [0.5491, 0.7068, 0.0632, 0.023]
+        },
+        {
+          "text": "シーザー、邪王咆哮撃!",
+          "translation": "Caesar, Evil King Roaring Blast!",
+          "bbox": [0.6379, 0.7056, 0.1272, 0.0091]
+        },
+        {
+          "text": "ツーカイザー、レックスリフレイザー!",
+          "translation": "Twokaizer, Rex-Reflizer!",
+          "bbox": [0.6371, 0.7213, 0.2058, 0.0085]
+        },
+        {
+          "text": "本当にひどいやつで・・・最初はただ、",
+          "translation": "He was a truly awful guy... at first, it was just...",
+          "bbox": [0.2024, 0.7364, 0.1964, 0.0085]
+        },
+        {
+          "text": "ステイシー",
+          "translation": "Stacey",
+          "bbox": [0.55, 0.7364, 0.0615, 0.0079]
+        },
+        {
+          "text": "お前を、超える!",
+          "translation": "I will surpass you!",
+          "bbox": [0.6388, 0.7358, 0.0854, 0.0085]
+        },
+        {
+          "text": "憎いあいつより偉くなってやる、そのために手柄を",
+          "translation": "I'll be greater than that hateful guy — so I wanted to achieve something to prove it.",
+          "bbox": [0.2024, 0.7515, 0.281, 0.0085]
+        },
+        {
+          "text": "立てたい、それだけでした。 そのうち、",
+          "translation": "I wanted to accomplish that; that was all. Before long,",
+          "bbox": [0.2024, 0.766, 0.2084, 0.0091]
+        },
+        {
+          "text": "ゾックス\n2人",
+          "translation": "Zox\n2 people",
+          "bbox": [0.5491, 0.7515, 0.047, 0.0218]
+        },
+        {
+          "text": "いくぜ!",
+          "translation": "Let's go!",
+          "bbox": [0.6388, 0.7515, 0.0393, 0.0079]
+        },
+        {
+          "text": "介人のことがうらやましくなりました。",
+          "translation": "I found myself envying Kaito.",
+          "bbox": [0.2024, 0.7811, 0.2092, 0.0091]
+        },
+        {
+          "text": "16",
+          "translation": "16",
+          "bbox": [0.5073, 0.7823, 0.0188, 0.0067]
+        },
+        {
+          "text": "ヤツデ",
+          "translation": "Yatsude",
+          "bbox": [0.55, 0.7811, 0.0376, 0.0091]
+        },
+        {
+          "text": "まっすぐに親を信じていられて、",
+          "translation": "He could trust his parents without question,",
+          "bbox": [0.2032, 0.7956, 0.1768, 0.0097]
+        },
+        {
+          "text": "こんなに暖かい場所を持っているあいつが...。",
+          "translation": "Someone who has a place this warm...",
+          "bbox": [0.2032, 0.812, 0.257, 0.0085]
+        },
+        {
+          "text": "僕の勝手な嫉妬で、介人を、倒そうとしていました。\n本当に・・・すみませんでした!",
+          "translation": "Out of my selfish jealousy, I tried to take Kaito down. I'm truly... sorry!",
+          "bbox": [0.2024, 0.8271, 0.2827, 0.023]
+        },
+        {
+          "text": "ステイシー\n介人",
+          "translation": "Stacey\nKaito",
+          "bbox": [0.55, 0.8126, 0.0615, 0.0224]
+        },
+        {
+          "text": "ステイシー",
+          "translation": "Stacey",
+          "bbox": [0.55, 0.8434, 0.0615, 0.0067]
+        },
+        {
+          "text": "17",
+          "translation": "17",
+          "bbox": [0.5073, 0.8881, 0.0188, 0.006]
+        },
+        {
+          "text": "ステイシー",
+          "translation": "Stacey",
+          "bbox": [0.55, 0.8881, 0.0623, 0.0073]
+        },
+        {
+          "text": "はああああああ!",
+          "translation": "Haaaaaaaaaa!",
+          "bbox": [0.6388, 0.7666, 0.0786, 0.0073]
+        },
+        {
+          "text": "あのさ･･･この前も言ったんだけど、\nうちに住んでくれてもいいんだけど・・・\n介人たちと一緒に暮らすのは、 ちょっと...\nえ、ひど\n冗談だ。ここが大切だからこそ、\n息抜きの場にしておきたいんです。\nあっちで、やりたいこともできたし。\n考えたんだ。僕は王にはなれないが、\n君たちと一緒に、新しい世界を作っていくことは\nできる、って。",
+          "translation": "Hey... I said this before, but you're welcome to live at my place... It's just that living together with Kaito and the others is a little... Whoa, that's harsh. I'm joking. Precisely because this place is important to me, I want to keep it as a place to relax. I was able to do the things I wanted to do over there, too. I've thought about it: I can't be a king, but I can help build a new world together with you.",
+          "bbox": [0.6371, 0.7817, 0.2664, 0.1439]
+        },
+        {
+          "text": "8",
+          "translation": "8",
+          "bbox": [0.4919, 0.9819, 0.0154, 0.0103]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-9.webp",
+      "blocks": [
+        {
+          "text": "セリフリスト:介人入れ替わりモード",
+          "translation": "Dialogue List: Kaito Body-Swap Mode",
+          "bbox": [0.1144, 0.0441, 0.4458, 0.0193]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.0666, 0.084, 0.0282, 0.0097]
+        },
+        {
+          "text": "キャラクター",
+          "translation": "Character",
+          "bbox": [0.1144, 0.084, 0.0709, 0.0097]
+        },
+        {
+          "text": "音声",
+          "translation": "Audio",
+          "bbox": [0.3501, 0.084, 0.0282, 0.0097]
+        },
+        {
+          "text": "起動音",
+          "translation": "Startup sound",
+          "bbox": [0.0606, 0.101, 0.0384, 0.0091]
+        },
+        {
+          "text": "介人",
+          "translation": "Kaito",
+          "bbox": [0.1144, 0.101, 0.0265, 0.0091]
+        },
+        {
+          "text": "俺とステイシーが、 逆さま全開だー!",
+          "translation": "Stacey and I are going full-on upside-down!",
+          "bbox": [0.1998, 0.1016, 0.2007, 0.0079]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.0769, 0.1173, 0.0077, 0.0067]
+        },
+        {
+          "text": "介人",
+          "translation": "Kaito",
+          "bbox": [0.1144, 0.1167, 0.029, 0.0079]
+        },
+        {
+          "text": "うわあああ。",
+          "translation": "Waaah!",
+          "bbox": [0.2007, 0.1167, 0.0683, 0.0079]
+        },
+        {
+          "text": "ステイシー",
+          "translation": "Stacey",
+          "bbox": [0.1153, 0.1318, 0.0615, 0.0085]
+        },
+        {
+          "text": "うわああ。",
+          "translation": "Waaah!",
+          "bbox": [0.2007, 0.1318, 0.0564, 0.0085]
+        },
+        {
+          "text": "ステイシー\n介人",
+          "translation": "Stacey\nKaito",
+          "bbox": [0.1144, 0.1475, 0.0632, 0.0224]
+        },
+        {
+          "text": "お前･･･よくもこの僕に攻撃を･･･。",
+          "translation": "You... how dare you attack me...",
+          "bbox": [0.2015, 0.1469, 0.1845, 0.0091]
+        },
+        {
+          "text": "よかったー!俺のゼンリョクゼンカイキャノン。",
+          "translation": "Phew! My Zenryoku Zenkai Cannon.",
+          "bbox": [0.2015, 0.1614, 0.2511, 0.0091]
+        },
+        {
+          "text": "ステイシー",
+          "translation": "Stacey",
+          "bbox": [0.1153, 0.1765, 0.0623, 0.0091]
+        },
+        {
+          "text": "ん?",
+          "translation": "Huh?",
+          "bbox": [0.1998, 0.1778, 0.0222, 0.0067]
+        },
+        {
+          "text": "介人",
+          "translation": "Kaito",
+          "bbox": [0.1144, 0.1917, 0.0299, 0.0085]
+        },
+        {
+          "text": "ん?",
+          "translation": "Huh?",
+          "bbox": [0.2007, 0.1923, 0.0205, 0.0079]
+        },
+        {
+          "text": "2人",
+          "translation": "2 people",
+          "bbox": [0.1153, 0.208, 0.0239, 0.0067]
+        },
+        {
+          "text": "「俺だ!」「僕だ!」",
+          "translation": "\"It's me!\" \"It's me!\"",
+          "bbox": [0.2015, 0.2074, 0.0863, 0.0097]
+        },
+        {
+          "text": "順番 キャラクター",
+          "translation": "Order Character",
+          "bbox": [0.5431, 0.084, 0.1187, 0.0103]
+        },
+        {
+          "text": "音声",
+          "translation": "Audio",
+          "bbox": [0.7925, 0.084, 0.0265, 0.0097]
+        },
+        {
+          "text": "2 介人",
+          "translation": "2 Kaito",
+          "bbox": [0.55, 0.101, 0.0692, 0.0091]
+        },
+        {
+          "text": "俺とステイシーが、 逆さま全開だー!",
+          "translation": "Stacey and I are going full-on upside-down!",
+          "bbox": [0.6772, 0.0998, 0.199, 0.0103]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.5517, 0.1173, 0.0102, 0.0067]
+        },
+        {
+          "text": "介人",
+          "translation": "Kaito",
+          "bbox": [0.5909, 0.1161, 0.029, 0.0091]
+        },
+        {
+          "text": "うん。チェンジゼンカイ!",
+          "translation": "Yeah. Change Zenkai!",
+          "bbox": [0.6772, 0.1167, 0.1307, 0.0085]
+        },
+        {
+          "text": "あーじゃない! 暗黒チェンジ! 変身音",
+          "translation": "Not 'Ah!' Dark Change! Transformation sound",
+          "bbox": [0.6781, 0.1312, 0.2084, 0.0091]
+        },
+        {
+          "text": "4 5 6",
+          "translation": "4 5 6",
+          "bbox": [0.55, 0.1469, 0.012, 0.0381]
+        },
+        {
+          "text": "介人",
+          "translation": "Kaito",
+          "bbox": [0.5909, 0.1469, 0.029, 0.0079]
+        },
+        {
+          "text": "ステイシー",
+          "translation": "Stacey",
+          "bbox": [0.5918, 0.1626, 0.0623, 0.0073]
+        },
+        {
+          "text": "介人",
+          "translation": "Kaito",
+          "bbox": [0.5909, 0.1765, 0.029, 0.0085]
+        },
+        {
+          "text": "|暗黒のパワー! ステイシーザー!\nチェンジ全開!→変身音\nああ、戻ったー!",
+          "translation": "Dark power! Staceyzer!\nFull-on change! → Transformation sound\nAh, I'm back!",
+          "bbox": [0.6712, 0.1469, 0.181, 0.0387]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.4919, 0.9819, 0.0162, 0.0109]
+        }
+      ]
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 // Navigation and routing module
-import { state, DOM, EditSession } from './state.js';
-import { renderManualList, loadManual } from './renderer.js';
+import { state, DOM, EditSession } from './state.js?v=14';
+import { renderManualList, loadManual } from './renderer.js?v=14';
+import { filterManuals as filterCatalogManuals } from './catalog-model.js?v=14';
+import { reduceViewerState } from './viewer-state.js?v=14';
+import { formatPageIndicator } from './reader-controls.js?v=14';
+
+export function manualNameFromHash(hash) {
+  const value = hash.replace(/^#/, '');
+  try {
+    return decodeURIComponent(value);
+  } catch {
+    return value;
+  }
+}
 
 // Navigate between views
 export function navigate(view, manualName = null) {
@@ -24,70 +36,28 @@ export function navigate(view, manualName = null) {
   }
 }
 
-// Toggle overlays
-export function toggleOverlays() {
-  state.showOverlays = !state.showOverlays;
-  document.querySelectorAll('.overlay').forEach((overlay) => {
-    overlay.style.display = state.showOverlays ? 'flex' : 'none';
-  });
-  DOM.overlaysBtn.innerHTML = state.showOverlays
-    ? '<i class="fas fa-eye"></i> Hide Overlays'
-    : '<i class="fas fa-eye-slash"></i> Show Overlays';
-}
-
 // Toggle translations
 export function toggleTranslations() {
-  state.showTranslations = !state.showTranslations;
+  state.viewer = reduceViewerState(state.viewer, {
+    type: 'set-corrected-text-visible',
+    visible: !state.viewer.correctedTextVisible
+  });
   document.querySelectorAll('.overlay').forEach((overlay) => {
-    const pageIdx = parseInt(overlay.dataset.pageId);
-    const blockIdx = parseInt(overlay.dataset.blockId);
-    const block = state.currentManual.pages[pageIdx].blocks[blockIdx];
-    overlay.textContent = state.showTranslations ? block.translation : block.text;
+    overlay.style.display = state.viewer.correctedTextVisible ? 'flex' : 'none';
   });
-  document.querySelectorAll('.text-translation').forEach((el) => {
-    el.style.display = state.showTranslations ? 'block' : 'none';
-  });
-  DOM.translationsBtn.innerHTML = state.showTranslations
-    ? '<i class="fas fa-language"></i> Hide Translations'
-    : '<i class="fas fa-language"></i> Show Translations';
-}
-
-// Toggle sidebar visibility
-export function toggleSidebar() {
-  state.showSidebar = !state.showSidebar;
-  const textPanel = document.querySelector('.text-panel');
-
-  if (state.showSidebar) {
-    textPanel.classList.remove('sidebar-hidden');
-    textPanel.style.display = 'flex';
-  } else {
-    textPanel.classList.add('sidebar-hidden');
-    textPanel.style.display = 'none';
-  }
+  DOM.translationsBtn.textContent = `Corrected text: ${
+    state.viewer.correctedTextVisible ? 'On' : 'Off'
+  }`;
+  DOM.translationsBtn.setAttribute('aria-pressed', String(state.viewer.correctedTextVisible));
 }
 
 // Filter manuals
 export function filterManuals() {
-  const searchTerm = DOM.searchInput.value.toLowerCase().trim();
-
-  let filteredManuals = state.manuals;
-
-  // Filter by search term
-  if (searchTerm) {
-    filteredManuals = filteredManuals.filter((manual) => {
-      const displayName = manual.name.replace(/-/g, ' ').toLowerCase();
-      const source = manual.source?.toLowerCase() || '';
-      return displayName.includes(searchTerm) || source.includes(searchTerm);
-    });
-  }
-
-  // Filter by selected tags
-  if (state.selectedTags.size > 0) {
-    filteredManuals = filteredManuals.filter((manual) => {
-      if (!manual.tags || manual.tags.length === 0) return false;
-      return Array.from(state.selectedTags).every((tagId) => manual.tags.includes(tagId));
-    });
-  }
+  const filteredManuals = filterCatalogManuals(
+    state.manuals,
+    DOM.searchInput.value,
+    state.selectedTags
+  );
 
   renderManualList(filteredManuals);
 }
@@ -124,7 +94,7 @@ export function handlePopState(event) {
     }
   } else {
     // No state - check hash
-    const hash = window.location.hash.slice(1);
+    const hash = manualNameFromHash(window.location.hash);
     if (hash) {
       navigate('viewer', hash);
     } else {
@@ -168,6 +138,15 @@ export function navigatePage(direction) {
   }
 }
 
+export function jumpToPage(pageIndex) {
+  if (!state.currentManual) return false;
+  const pages = DOM.pagePanel.querySelectorAll('.page');
+  const target = pages[pageIndex];
+  if (!target) return false;
+  target.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  return true;
+}
+
 // Update page indicator
 export function updatePageIndicator() {
   if (!state.currentManual) return;
@@ -183,7 +162,12 @@ export function updatePageIndicator() {
   for (let i = 0; i < pages.length; i++) {
     const pageRect = pages[i].getBoundingClientRect();
     if (pageRect.top <= panelCenter && pageRect.bottom >= panelCenter) {
-      DOM.pageIndicator.textContent = `Page ${i + 1} of ${pages.length}`;
+      state.viewer = reduceViewerState(state.viewer, { type: 'set-current-page', page: i });
+      DOM.pageIndicator.textContent = formatPageIndicator(i, pages.length);
+      if (DOM.pageJumpInput) {
+        DOM.pageJumpInput.value = String(i + 1);
+        DOM.pageJumpInput.max = String(pages.length);
+      }
       return;
     }
   }

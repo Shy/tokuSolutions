@@ -1,0 +1,74 @@
+# One-based source PDF page numbers; all cases visually inspected 2026-11-02.
+# Existing JSON is a baseline, never an exhaustive or verified Japanese reference.
+name = "Translation quality pilot v1"
+dpi = 300
+
+[[cases]]
+id = "gokai-keys-p1"
+pdf = "pdfs/GoKaiKeys.pdf"
+manual = "manuals/GoKaiKeys"
+page = 1
+features = ["sentai", "landscape", "scan-quality", "operating-steps", "diagrams"]
+
+[[cases]]
+id = "sengoku-p5"
+pdf = "pdfs/CSM Sengoku Driver Manual.pdf"
+manual = "manuals/CSM Sengoku Driver Manual"
+page = 5
+features = ["kamen-rider", "scanned", "sound-list", "terminology", "diagrams"]
+
+[[cases]]
+id = "sengoku-p6"
+pdf = "pdfs/CSM Sengoku Driver Manual.pdf"
+manual = "manuals/CSM Sengoku Driver Manual"
+page = 6
+features = ["kamen-rider", "dense-table", "small-text", "terminology"]
+
+[[cases]]
+id = "faiz-next-p1"
+pdf = "pdfs/Faiz Driver Next.pdf"
+manual = "manuals/CSM-Faiz-Driver-NEXT"
+page = 1
+features = ["kamen-rider", "warnings", "dense-prose", "parts-list"]
+
+[[cases]]
+id = "faiz-next-p2"
+pdf = "pdfs/Faiz Driver Next.pdf"
+manual = "manuals/CSM-Faiz-Driver-NEXT"
+page = 2
+features = ["kamen-rider", "wireless-specifications", "diagram-callouts", "numbers"]
+
+[[cases]]
+id = "ridewatch-p1"
+pdf = "pdfs/Ridewatch.pdf"
+manual = "manuals/DX-Ridewatch"
+page = 1
+features = ["kamen-rider", "furigana", "warnings", "battery-compartment", "parts-labels"]
+
+[[cases]]
+id = "zero-one-p1"
+pdf = "pdfs/Zero One Limited Clear.pdf"
+manual = "manuals/Zero One Limited Clear"
+page = 1
+features = ["kamen-rider", "furigana", "warnings", "dense-layout", "diagram-labels"]
+
+[[cases]]
+id = "zein-p5"
+pdf = "pdfs/Premium DX Zein Driver.pdf"
+manual = "manuals/Premium DX Zein Driver"
+page = 5
+features = ["kamen-rider", "step-numbers", "operating-steps", "sound-table", "diagrams"]
+
+[[cases]]
+id = "shin-ultraman-p1"
+pdf = "pdfs/ShinUltraman.pdf"
+manual = "manuals/ShinUltraman"
+page = 1
+features = ["ultraman", "parts-labels", "warnings", "furigana"]
+
+[[cases]]
+id = "dengasher-p2"
+pdf = "pdfs/DenGasher.pdf"
+manual = "manuals/CSM-DenGasher"
+page = 2
+features = ["kamen-rider", "battery-polarity", "screwdriver", "assembly", "diagram-callouts"]

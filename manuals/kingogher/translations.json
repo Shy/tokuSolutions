@@ -1,0 +1,4601 @@
+{
+  "meta": {
+    "manual_name": "kingogher",
+    "source": "kingogher.pdf",
+    "source_lang": "ja",
+    "target_lang": "en",
+    "source_url": "",
+    "blog_url": "",
+    "pages": 30,
+    "blocks": 887,
+    "thumbnail": "pages/page-0.webp",
+    "tags": ["dx", "kamen-rider", "memorial", "sentai"]
+  },
+  "pages": [
+    {
+      "image": "pages/page-0.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0369, 0.0346, 0.1637, 0.0145]
+        },
+        {
+          "text": "© テレビ朝日・東映AG・東映",
+          "translation": "© TV Asahi · Toei AG · Toei",
+          "bbox": [0.2725, 0.0641, 0.1372, 0.0073]
+        },
+        {
+          "text": "オージャカリバー",
+          "translation": "Ohger Calibur",
+          "bbox": [0.2477, 0.1145, 0.3565, 0.0321]
+        },
+        {
+          "text": "-MEMORIAL EDITION- の遊び方",
+          "translation": "How to Play the -MEMORIAL EDITION-",
+          "bbox": [0.1076, 0.153, 0.7625, 0.0321]
+        },
+        {
+          "text": "セット内容 スタートガイド・・・1",
+          "translation": "Set Contents  Start Guide... 1",
+          "bbox": [0.1082, 0.2333, 0.3245, 0.0197]
+        },
+        {
+          "text": "オージャカリバー",
+          "translation": "Ohger Calibur",
+          "bbox": [0.229, 0.3457, 0.1517, 0.0128]
+        },
+        {
+          "text": "-MEMORIAL EDITION- 本体・・・1",
+          "translation": "-MEMORIAL EDITION- Main unit... 1",
+          "bbox": [0.229, 0.362, 0.3154, 0.0132]
+        },
+        {
+          "text": "※WEB取扱説明書内の画像はイメージです。",
+          "translation": "*Images in the WEB Instruction Manual are for illustrative purposes only.",
+          "bbox": [0.0725, 0.4184, 0.3329, 0.0124]
+        },
+        {
+          "text": "△注意 お買い上げのお客様へ 必ずお読みください。\n●本商品の対象年齢は15才以上です。 対象年齢未満のお子様には絶対に与えないでください。 ●WEB取扱説明書を必ずお読み\nください。●小さな部品がありますので、小さなお子様が誤って飲み込まないように注意してください。 窒息などの危険があります。\n●尖った部分や鋭い部分がありますので、取扱いや保管場所に注意してください。思わぬケガをする恐れがあります。●耳の近くで\n使用してはいけません。 誤って使用すると、聴覚を損なう恐れがあります。●本商品には電子部品を使用しておりますので、ペース\nメーカーをご使用の方はご注意ください。 回転部に指や髪の毛や衣服などをはさまれないように注意してください。 ●可動部の\n隙間には指などを入れないでください。はさまれてケガをする恐れがあります。LEDの光の点滅を見続けないでください。気分が悪く\nなったりする恐れがあります。 《電池を誤使用すると発熱・破裂・ 液漏れの恐れがあります。 下記に注意してください》 ●二次電池\n(充電式電池) は、 絶対に使用しないでください。 古い電池と新しい電池、 いろいろな種類の電池をまぜて使わないでください。\n+(プラスマイナス)を正しくセットしてください。 ●遊んだ後は必ずスイッチを切り電池をはずしてください。 電池を入れたままに\nしておくと、液漏れの恐れがあり危険です。ショートさせたり充電、分解、加熱、火の中に入れたりしないでください。●万一、\n電池から漏れた液が目に入ったときはすぐに大量の水で洗い、医師に相談してください。 皮膚や服に付いた時は水で洗ってくだ\nさい。廃棄するときは、 自治体の廃棄物処理の指示に従ってください。",
+          "translation": "△ Caution: To customers — Please read carefully.\n● This product is intended for Ages 15+. Do not give it to children younger than the specified age. ● Be sure to read the WEB Instruction Manual. ● This product contains small parts. Take care to prevent small children from accidentally swallowing them, as there is a risk of choking. ● There are pointed and sharp parts; handle and store with care to avoid unexpected injury. ● Do not use near your ears; improper use may damage hearing. ● This product contains electronic components; users with pacemakers should exercise caution. Be careful not to get fingers, hair, or clothing caught in rotating parts. ● Do not put fingers or other objects into gaps of moving parts, as they may become caught and cause injury. ● Do not stare at flashing LED lights for long periods; this may cause discomfort.\n《Improper battery use may cause overheating, rupture, or leakage. Observe the following:》\n● Do not use secondary (rechargeable) batteries. Do not mix old and new batteries or different types of batteries. ● Insert batteries with the + (plus) and - (minus) terminals correctly. ● After use, always turn the switch off and remove the batteries. Leaving batteries installed may cause leakage. Do not short-circuit, recharge, disassemble, heat, or throw batteries into fire. ● If battery fluid gets into the eyes, rinse immediately with plenty of water and consult a doctor. If it gets on skin or clothing, wash with water. ● When disposing of batteries or the product, follow your local municipality's waste disposal instructions.",
+          "bbox": [0.1184, 0.4927, 0.7637, 0.1932]
+        },
+        {
+          "text": "《使用上の注意》",
+          "translation": "《Precautions for Use》",
+          "bbox": [0.1088, 0.7009, 0.1076, 0.0094]
+        },
+        {
+          "text": "●本商品は精密に作られています。無理な力を加えたり、落としたりすると破損する恐れがあります。 本商品は精密な電子部品で構成\nされています。落としたり、水に濡らしたり、汚したり、分解したりしないでください。 また、高温・低温になるところでの使用、保管は避けて\nください。●プラスチック梱包材は、 開封後はすぐに捨ててください。 ●本商品には塗装部分がありますので、 保管の際には他のもの\n(樹脂製品や家具、ソファー)と接触しないようにしてください。 色が移る場合があります。●可動部分・取付部分を無理な方向に強く\n引っ張ったり、曲げたりしないでください。 発音の一部にイントネーションが違っていたり、 商品の特性上聞き取りにくいものがありますが、\nご了承ください。●オージャカリバー -MEMORIAL EDITION -には、対応しているMEMOREALIZE DATA CARD以外をセット\nしないでください。故障や破損の原因となります。",
+          "translation": "● This product is made with precision parts. Applying excessive force, dropping, or otherwise mishandling it may cause breakage. The product contains delicate electronic components; do not drop it, get it wet, soil it, or disassemble it. Also avoid using or storing it in places of extreme heat or cold. ● Dispose of plastic packaging immediately after opening. ● This product has painted surfaces; when storing, avoid contact with other items (such as resin products, furniture, or sofas), as color transfer may occur. ● Do not forcibly pull or bend movable or attachment parts in unnatural directions. ● Due to the nature of the product, some spoken phrases may have different intonation or may be difficult to hear; please understand this in advance. ● Do not insert anything other than the compatible MEMOREALIZE DATA CARD into the Ohger Calibur -MEMORIAL EDITION-; doing so may cause malfunction or damage.",
+          "bbox": [0.1082, 0.7192, 0.7825, 0.0944]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.4931, 0.9692, 0.0109, 0.0107]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-1.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0375, 0.0389, 0.165, 0.0163]
+        },
+        {
+          "text": "各部名称",
+          "translation": "Names of Parts",
+          "bbox": [0.4411, 0.1378, 0.116, 0.024]
+        },
+        {
+          "text": "オージャカリバー -MEMORIAL EDITION-",
+          "translation": "Ohger Calibur -MEMORIAL EDITION-",
+          "bbox": [0.1221, 0.2219, 0.339, 0.0134]
+        },
+        {
+          "text": "【正面】",
+          "translation": "[Front]",
+          "bbox": [0.136, 0.2743, 0.0483, 0.0134]
+        },
+        {
+          "text": "【側面】",
+          "translation": "[Side]",
+          "bbox": [0.136, 0.4524, 0.0471, 0.0134]
+        },
+        {
+          "text": "【背面】",
+          "translation": "[Back]",
+          "bbox": [0.1366, 0.5596, 0.0471, 0.0125]
+        },
+        {
+          "text": "カマキリトリガー",
+          "translation": "Mantis Trigger",
+          "bbox": [0.6713, 0.2526, 0.1233, 0.0125]
+        },
+        {
+          "text": "クワガタトリガー",
+          "translation": "Kuwagata Trigger",
+          "bbox": [0.4242, 0.268, 0.1239, 0.012]
+        },
+        {
+          "text": "-パピヨントリガー",
+          "translation": "-Papillon Trigger",
+          "bbox": [0.7063, 0.2906, 0.1329, 0.0125]
+        },
+        {
+          "text": "LED",
+          "translation": "LED",
+          "bbox": [0.2961, 0.3852, 0.0338, 0.0096]
+        },
+        {
+          "text": "トンボトリガー",
+          "translation": "Dragonfly Trigger",
+          "bbox": [0.4272, 0.3915, 0.0943, 0.0115]
+        },
+        {
+          "text": "ハチトリガー",
+          "translation": "Hachi Trigger",
+          "bbox": [0.4822, 0.4155, 0.0834, 0.0125]
+        },
+        {
+          "text": "BGM ボタン",
+          "translation": "BGM Button",
+          "bbox": [0.6423, 0.44, 0.0937, 0.0115]
+        },
+        {
+          "text": "グリップ",
+          "translation": "Grip",
+          "bbox": [0.8211, 0.3828, 0.0616, 0.0115]
+        },
+        {
+          "text": "トリガー",
+          "translation": "Trigger",
+          "bbox": [0.7408, 0.391, 0.0586, 0.013]
+        },
+        {
+          "text": "シーン再現ボタン",
+          "translation": "Scene Reproduction Button",
+          "bbox": [0.6326, 0.5504, 0.1184, 0.0139]
+        },
+        {
+          "text": "カードカバーパーツ",
+          "translation": "Card Cover Part",
+          "bbox": [0.1807, 0.5898, 0.1335, 0.0125]
+        },
+        {
+          "text": "カバーパーツ",
+          "translation": "Cover Part",
+          "bbox": [0.2326, 0.6907, 0.0912, 0.012]
+        },
+        {
+          "text": "【各カバーを取り外した状態】",
+          "translation": "[With Covers Removed]",
+          "bbox": [0.136, 0.7334, 0.2097, 0.0139]
+        },
+        {
+          "text": "電源スイッチ",
+          "translation": "Power Switch",
+          "bbox": [0.2224, 0.7719, 0.0852, 0.011]
+        },
+        {
+          "text": "電池ぶた",
+          "translation": "Battery Cover",
+          "bbox": [0.2236, 0.8655, 0.0604, 0.011]
+        },
+        {
+          "text": "スロット",
+          "translation": "Slot",
+          "bbox": [0.4538, 0.891, 0.0544, 0.0115]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.4894, 0.9673, 0.0193, 0.0139]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-2.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0375, 0.0342, 0.165, 0.015]
+        },
+        {
+          "text": "矢印一覧",
+          "translation": "Arrow guide",
+          "bbox": [0.2634, 0.035, 0.0798, 0.0145]
+        },
+        {
+          "text": "■ 取り付けます。 |",
+          "translation": "■ Attach.",
+          "bbox": [0.3855, 0.0342, 0.1952, 0.015]
+        },
+        {
+          "text": "取り外します。 動かします。",
+          "translation": "Remove. Move.",
+          "bbox": [0.6332, 0.0346, 0.3057, 0.0154]
+        },
+        {
+          "text": "乾電池の入れ方",
+          "translation": "How to insert the batteries",
+          "bbox": [0.3897, 0.1209, 0.2218, 0.0226]
+        },
+        {
+          "text": "※電源スイッチがX (OFF)になっていることを確認してください。\n※音が小さくなったり、ノイズで聞き取りにくくなる場合は、\nすべて新しい電池に交換してください。\n※誤動作が繰り返される場合は、一度電源を切って再度電源をつけてください。",
+          "translation": "※ Ensure the power switch is set to X (OFF).\n※ If the sound becomes faint or noisy and is hard to hear, replace all batteries with new ones.\n※ If malfunctions continue, turn the power off once and then turn it on again.",
+          "bbox": [0.0906, 0.197, 0.6508, 0.0782]
+        },
+        {
+          "text": "①カバーパーツを取り外します。\n本体背面のカバーパーツを取り外します。\n②電池ぶたを取り外します。",
+          "translation": "① Remove the cover part.\nRemove the cover part on the back of the unit.\n② Remove the battery cover.",
+          "bbox": [0.0798, 0.2996, 0.368, 0.0551]
+        },
+        {
+          "text": "②-1 本体内側の電池ぶたのネジを⊕または、ドライバーで矢印の方向に回し、",
+          "translation": "②-1 Using a Phillips (+) screwdriver, turn the screw on the inside of the battery cover in the direction of the arrow.",
+          "bbox": [0.0997, 0.3607, 0.6701, 0.0141]
+        },
+        {
+          "text": "②-2 電池ぶたを取り外します。\n③乾電池を入れます。",
+          "translation": "②-2 Remove the battery cover.\n③ Insert the batteries.",
+          "bbox": [0.081, 0.3808, 0.2792, 0.0333]
+        },
+        {
+          "text": "単3乾電池3本(別売り) の + をそれぞれ間違えないように入れます。",
+          "translation": "Insert three AA (単3) batteries (sold separately), making sure the + and − polarities are not reversed.",
+          "bbox": [0.1003, 0.4209, 0.5831, 0.0141]
+        },
+        {
+          "text": "④電池ぶたを戻します。",
+          "translation": "④ Put the battery cover back.",
+          "bbox": [0.0804, 0.4419, 0.2012, 0.0124]
+        },
+        {
+          "text": "単3 x3",
+          "translation": "3 x AA",
+          "bbox": [0.8326, 0.1876, 0.0604, 0.0081]
+        },
+        {
+          "text": "単3乾電池3本使用(別売り)",
+          "translation": "Uses 3AA batteries (sold separately)",
+          "bbox": [0.7807, 0.2077, 0.1293, 0.0077]
+        },
+        {
+          "text": "●アルカリ電池専用",
+          "translation": "● For alkaline batteries only",
+          "bbox": [0.7801, 0.2278, 0.1275, 0.0103]
+        },
+        {
+          "text": "電池ぶたの突起と本体のミゾを合わせ、ネジを矢印と逆方向に回して電池ぶたを閉じます。\n⑤カバーパーツを戻します。",
+          "translation": "Align the protrusion on the battery cover with the groove on the main unit, then turn the screw in the direction opposite the arrow to close the battery cover.\n⑤ Put the cover part back in place.",
+          "bbox": [0.0804, 0.4615, 0.774, 0.0333]
+        },
+        {
+          "text": "【背面】",
+          "translation": "[Back]",
+          "bbox": [0.1051, 0.5244, 0.0477, 0.0107]
+        },
+        {
+          "text": "カバーパーツ",
+          "translation": "Cover part",
+          "bbox": [0.1825, 0.5457, 0.1208, 0.0137]
+        },
+        {
+          "text": "②-1",
+          "translation": "②-1",
+          "bbox": [0.148, 0.6957, 0.0435, 0.015]
+        },
+        {
+          "text": "ネジ",
+          "translation": "Screw",
+          "bbox": [0.1468, 0.8085, 0.0393, 0.0115]
+        },
+        {
+          "text": "電池ぶた",
+          "translation": "Battery cover",
+          "bbox": [0.1988, 0.8316, 0.0798, 0.012]
+        },
+        {
+          "text": "③",
+          "translation": "③",
+          "bbox": [0.5003, 0.5829, 0.0205, 0.012]
+        },
+        {
+          "text": "①",
+          "translation": "①",
+          "bbox": [0.4066, 0.6004, 0.0278, 0.015]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.3311, 0.6393, 0.0169, 0.0111]
+        },
+        {
+          "text": "突起",
+          "translation": "Protrusion",
+          "bbox": [0.3208, 0.8192, 0.0411, 0.015]
+        },
+        {
+          "text": "②-2",
+          "translation": "②-2",
+          "bbox": [0.4079, 0.7175, 0.0459, 0.0141]
+        },
+        {
+          "text": "(3)",
+          "translation": "(3)",
+          "bbox": [0.5057, 0.7415, 0.0211, 0.012]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.4906, 0.9701, 0.0175, 0.0115]
+        },
+        {
+          "text": "|-----",
+          "translation": "|-----",
+          "bbox": [0.5299, 0.709, 0.0139, 0.0449]
+        },
+        {
+          "text": "オージャカリバー",
+          "translation": "Ohger Calibur",
+          "bbox": [0.6532, 0.5145, 0.1505, 0.0132]
+        },
+        {
+          "text": "-MEMORIAL EDITION-",
+          "translation": "-MEMORIAL EDITION-",
+          "bbox": [0.6526, 0.5316, 0.2465, 0.0111]
+        },
+        {
+          "text": "ミゾ",
+          "translation": "Groove",
+          "bbox": [0.6906, 0.7795, 0.0405, 0.0132]
+        },
+        {
+          "text": "93",
+          "translation": "93",
+          "bbox": [0.9015, 0.6603, 0.0163, 0.0047]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-3.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0375, 0.0335, 0.165, 0.0147]
+        },
+        {
+          "text": "矢印一覧 ■ 取り付けます。 | 取り外します。 動かします。",
+          "translation": "Arrow legend ■ Attach. | Remove. | Move.",
+          "bbox": [0.2628, 0.0331, 0.6761, 0.0168]
+        },
+        {
+          "text": "4つの遊び方について",
+          "translation": "About the four ways to play",
+          "bbox": [0.3426, 0.1194, 0.3094, 0.0201]
+        },
+        {
+          "text": "※本商品は電源の入れ方によって4つの遊び方があります。\n※カバーパーツを外した状態で説明します。",
+          "translation": "This product has four play modes depending on how the power is turned on.\nExplanations are given with the cover parts removed.",
+          "bbox": [0.0906, 0.1965, 0.5039, 0.0318]
+        },
+        {
+          "text": "【背面】",
+          "translation": "[Back]",
+          "bbox": [0.6387, 0.2342, 0.0483, 0.0109]
+        },
+        {
+          "text": "オージャカリバー遊び",
+          "translation": "Ohger Calibur play",
+          "bbox": [0.0991, 0.2501, 0.1921, 0.0147]
+        },
+        {
+          "text": "【拡大図】",
+          "translation": "[Enlarged view]",
+          "bbox": [0.4091, 0.2539, 0.064, 0.0113]
+        },
+        {
+          "text": "ON",
+          "translation": "ON",
+          "bbox": [0.5384, 0.2547, 0.0272, 0.0088]
+        },
+        {
+          "text": "起動方法 電源をオンにします。",
+          "translation": "Activation method: Turn the power ON.",
+          "bbox": [0.0961, 0.2882, 0.2773, 0.0134]
+        },
+        {
+          "text": "各キングオージャーの",
+          "translation": "Each King-Ohger's",
+          "bbox": [0.0894, 0.318, 0.1897, 0.0134]
+        },
+        {
+          "text": "電源スイッチ",
+          "translation": "Power switch",
+          "bbox": [0.4091, 0.3255, 0.0967, 0.0126]
+        },
+        {
+          "text": "セリフとともに遊べます。",
+          "translation": "Play along with their voice lines.",
+          "bbox": [0.0912, 0.3381, 0.2127, 0.0117]
+        },
+        {
+          "text": "OFF",
+          "translation": "OFF",
+          "bbox": [0.5299, 0.346, 0.0381, 0.008]
+        },
+        {
+          "text": "なりきり遊び",
+          "translation": "Role-play mode",
+          "bbox": [0.0991, 0.3678, 0.1166, 0.0134]
+        },
+        {
+          "text": "起動方法 BGMボタンを",
+          "translation": "Activation method: Press and hold the BGM button",
+          "bbox": [0.0961, 0.4043, 0.2266, 0.013]
+        },
+        {
+          "text": "押したまま電源をオンにします。",
+          "translation": "Turn the power ON while holding the BGM button.",
+          "bbox": [0.09, 0.4265, 0.2719, 0.0134]
+        },
+        {
+          "text": "剣撃音が鳴れば成功です。",
+          "translation": "If the sword-swing sound plays, the activation is successful.",
+          "bbox": [0.0888, 0.4462, 0.2266, 0.0134]
+        },
+        {
+          "text": "×",
+          "translation": "×",
+          "bbox": [0.4731, 0.4612, 0.0163, 0.0075]
+        },
+        {
+          "text": "各キングオージャーのセリフが",
+          "translation": "Each King-Ohger's voice lines",
+          "bbox": [0.0804, 0.4734, 0.2665, 0.0138]
+        },
+        {
+          "text": "鳴らないシンプルな遊び方です。",
+          "translation": "This is a simple play mode in which the voice lines do not play.",
+          "bbox": [0.0816, 0.4935, 0.2767, 0.0134]
+        },
+        {
+          "text": "シュゴッドに選ばれる遊び",
+          "translation": "Play: Being chosen by Shugod",
+          "bbox": [0.0997, 0.5249, 0.229, 0.0147]
+        },
+        {
+          "text": "【側面】",
+          "translation": "[Side]",
+          "bbox": [0.5734, 0.3938, 0.0465, 0.0113]
+        },
+        {
+          "text": "BGMボタン",
+          "translation": "BGM Button",
+          "bbox": [0.6586, 0.496, 0.0943, 0.0109]
+        },
+        {
+          "text": "トリガー",
+          "translation": "Trigger",
+          "bbox": [0.832, 0.53, 0.0538, 0.0101]
+        },
+        {
+          "text": "起動方法 トリガーを\n押したまま電源をオンにします。\n剣先が発光すれば成功です。",
+          "translation": "Activation method: Turn the power ON while holding the trigger. If the sword tip lights up, activation is successful.",
+          "bbox": [0.09, 0.5601, 0.2725, 0.0549]
+        },
+        {
+          "text": "第25話のシーン再現が楽しめます。",
+          "translation": "You can enjoy recreating scenes from Episode 25.",
+          "bbox": [0.09, 0.6309, 0.31, 0.013]
+        },
+        {
+          "text": "メモリアライズ遊び (別売りのMEMOREALIZE DATA CARDが必要です。)",
+          "translation": "Memorealize play (requires the separately sold MEMOREALIZE DATA CARD.)",
+          "bbox": [0.0991, 0.6561, 0.6489, 0.0134]
+        },
+        {
+          "text": "起動方法 カードカバーパーツを外して、MEMOREALIZE DATA CARDの\nロゴ面を下に向けてスロットに差し、電源をオンにします。セリフが流れれば成功です。",
+          "translation": "Activation method: Remove the card cover part, insert the MEMOREALIZE DATA CARD into the slot with the logo side facing down, and turn the power ON. If voice lines play, activation is successful.",
+          "bbox": [0.0918, 0.69, 0.7275, 0.0364]
+        },
+        {
+          "text": "MEMOREALIZE DATA CARDに\n収録したキャラクターの音声が楽しめます。",
+          "translation": "Enjoy the character voice recordings stored on the MEMOREALIZE DATA CARD.",
+          "bbox": [0.0804, 0.7432, 0.3668, 0.0327]
+        },
+        {
+          "text": "©T・T・T",
+          "translation": "©T・T・T",
+          "bbox": [0.2526, 0.8672, 0.0393, 0.0046]
+        },
+        {
+          "text": "BANDAI",
+          "translation": "BANDAI",
+          "bbox": [0.2532, 0.8743, 0.0356, 0.0046]
+        },
+        {
+          "text": "MADE IN CHINA\n2746729",
+          "translation": "MADE IN CHINA\n2746729",
+          "bbox": [0.2532, 0.881, 0.0653, 0.0109]
+        },
+        {
+          "text": "MEMOREALIZE DATA CARD",
+          "translation": "MEMOREALIZE DATA CARD",
+          "bbox": [0.0973, 0.9162, 0.2816, 0.0109]
+        },
+        {
+          "text": "【背面】",
+          "translation": "[Back]",
+          "bbox": [0.3946, 0.7918, 0.0453, 0.0109]
+        },
+        {
+          "text": "×",
+          "translation": "×",
+          "bbox": [0.5559, 0.8106, 0.0211, 0.0075]
+        },
+        {
+          "text": "カードカバーパーツ",
+          "translation": "Card cover part",
+          "bbox": [0.7498, 0.8186, 0.1601, 0.0117]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.4882, 0.9715, 0.0205, 0.0113]
+        },
+        {
+          "text": "スロット",
+          "translation": "Slot",
+          "bbox": [0.7825, 0.9108, 0.0713, 0.0101]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-4.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "Online Instruction Manual",
+          "bbox": [0.0375, 0.0336, 0.165, 0.0141]
+        },
+        {
+          "text": "矢印一覧 ■■ 取り付けます。 取り外します。 動かします。",
+          "translation": "Arrow legend — Attach. Remove. Move.",
+          "bbox": [0.2628, 0.0332, 0.6779, 0.0162]
+        },
+        {
+          "text": "オージャカリバー遊び",
+          "translation": "Ohger Calibur Play",
+          "bbox": [0.3474, 0.1177, 0.3051, 0.0207]
+        },
+        {
+          "text": "BGMを鳴らす",
+          "translation": "Play BGM",
+          "bbox": [0.1686, 0.1924, 0.1752, 0.0187]
+        },
+        {
+          "text": "①BGMボタンを押します。\n表の順番に音楽が流れます。",
+          "translation": "① Press the BGM button.\nMusic will play in the order shown in the table.",
+          "bbox": [0.0991, 0.2409, 0.2683, 0.0323]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.5148, 0.2409, 0.0332, 0.0104]
+        },
+        {
+          "text": "BGM",
+          "translation": "BGM",
+          "bbox": [0.6677, 0.2409, 0.0453, 0.0091]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.5263, 0.2682, 0.0073, 0.0066]
+        },
+        {
+          "text": "俺様が世界を支配する!",
+          "translation": "I shall rule the world!",
+          "bbox": [0.5891, 0.2666, 0.1559, 0.0104]
+        },
+        {
+          "text": "② もう一度、 BGMボタンを押します。",
+          "translation": "② Press the BGM button again.",
+          "bbox": [0.0997, 0.2786, 0.3251, 0.0129]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.5245, 0.2906, 0.0127, 0.0075]
+        },
+        {
+          "text": "全力キング (TVサイズ)",
+          "translation": "Full-Power King (TV size)",
+          "bbox": [0.5891, 0.2894, 0.1589, 0.0104]
+        },
+        {
+          "text": "音楽が1秒かけてゆっくり停止します。",
+          "translation": "The music will gradually stop over the course of one second.",
+          "bbox": [0.1202, 0.2977, 0.3281, 0.0133]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.5251, 0.3138, 0.0127, 0.007]
+        },
+        {
+          "text": "降臨せよ! キングオージャー!",
+          "translation": "Descend! King-Ohger!",
+          "bbox": [0.5891, 0.3126, 0.1867, 0.0104]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.5239, 0.3367, 0.0145, 0.0075]
+        },
+        {
+          "text": "シュゴッド大集合",
+          "translation": "Shugod Grand Gathering",
+          "bbox": [0.5897, 0.3354, 0.11, 0.0095]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.5251, 0.3599, 0.0115, 0.0075]
+        },
+        {
+          "text": "10",
+          "translation": "10",
+          "bbox": [0.5263, 0.3586, 0.0097, 0.0087]
+        },
+        {
+          "text": "集結せし、5人の王",
+          "translation": "Five Kings Assembled",
+          "bbox": [0.5891, 0.3586, 0.1239, 0.01]
+        },
+        {
+          "text": "※5の後は1に戻ります。",
+          "translation": "*After 5, it returns to 1.",
+          "bbox": [0.4816, 0.3823, 0.1631, 0.0091]
+        },
+        {
+          "text": "BGMボタン",
+          "translation": "BGM Button",
+          "bbox": [0.2163, 0.483, 0.0943, 0.0116]
+        },
+        {
+          "text": "①シーン再現",
+          "translation": "① Scene Reproduction",
+          "bbox": [0.1758, 0.5531, 0.1619, 0.0187]
+        },
+        {
+          "text": "1 音声を鳴らす",
+          "translation": "1 Play sound",
+          "bbox": [0.0997, 0.5987, 0.1613, 0.017]
+        },
+        {
+          "text": "シーン再現ボタンを短押しすると、\nモードに応じた音声が順番に鳴ります。\nオージャカリバー遊びで起動直後は、\nギラモードから始まります。\n※詳しくは次のページを参照してください。",
+          "translation": "Press the Scene Reproduction button briefly to play the voice lines for the current mode in order.\nWhen starting Ohger Calibur Play, it begins in Gira Mode.\n*For details, see the next page.",
+          "bbox": [0.1003, 0.6252, 0.3789, 0.0867]
+        },
+        {
+          "text": "②モードを変える",
+          "translation": "② Change mode",
+          "bbox": [0.5196, 0.6053, 0.1819, 0.0153]
+        },
+        {
+          "text": "シーン再現ボタンを1秒以上長押しします。\n表の順にモードが切り替わります。",
+          "translation": "Press and hold the Scene Reproduction button for at least one second.\nModes will switch in the order shown in the table.",
+          "bbox": [0.5202, 0.6314, 0.3782, 0.0315]
+        },
+        {
+          "text": "【側面】",
+          "translation": "[Side]",
+          "bbox": [0.0828, 0.7417, 0.0465, 0.0116]
+        },
+        {
+          "text": "シーン再現ボタン",
+          "translation": "Scene Reproduction Button",
+          "bbox": [0.0846, 0.7782, 0.1311, 0.0104]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.4405, 0.7388, 0.0332, 0.01]
+        },
+        {
+          "text": "モード",
+          "translation": "Mode",
+          "bbox": [0.5486, 0.7388, 0.0477, 0.0095]
+        },
+        {
+          "text": "モード切り替え音",
+          "translation": "Mode change sound",
+          "bbox": [0.7202, 0.7388, 0.1269, 0.0108]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.4538, 0.7658, 0.0066, 0.0062]
+        },
+        {
+          "text": "ギラモード",
+          "translation": "Gira Mode",
+          "bbox": [0.4967, 0.7641, 0.0689, 0.01]
+        },
+        {
+          "text": "俺様が世界を支配する!",
+          "translation": "I shall rule the world!",
+          "bbox": [0.6634, 0.7645, 0.1486, 0.01]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.4508, 0.7881, 0.0139, 0.0083]
+        },
+        {
+          "text": "ヤンマモード",
+          "translation": "Yanma Mode",
+          "bbox": [0.4967, 0.7873, 0.0828, 0.0087]
+        },
+        {
+          "text": "うるせぇスカポンタヌキ",
+          "translation": "Shut up, you moron.",
+          "bbox": [0.664, 0.7877, 0.1529, 0.0095]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.4514, 0.8114, 0.0115, 0.0079]
+        },
+        {
+          "text": "ヒメノモード",
+          "translation": "Himeno Mode",
+          "bbox": [0.4967, 0.8105, 0.081, 0.0087]
+        },
+        {
+          "text": "ただ我がままに我が道をゆく!",
+          "translation": "I will go my own selfish way!",
+          "bbox": [0.664, 0.8105, 0.1915, 0.0091]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.4508, 0.8342, 0.0139, 0.0083]
+        },
+        {
+          "text": "リタモード",
+          "translation": "Rita Mode",
+          "bbox": [0.4967, 0.8337, 0.0671, 0.0087]
+        },
+        {
+          "text": "裁くぞ。",
+          "translation": "I will pass judgment on you.",
+          "bbox": [0.6628, 0.8325, 0.0483, 0.01]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.4514, 0.8578, 0.0109, 0.0075]
+        },
+        {
+          "text": "01",
+          "translation": "01",
+          "bbox": [0.4544, 0.8561, 0.0079, 0.0095]
+        },
+        {
+          "text": "カグラギモード",
+          "translation": "Kaguragi Mode",
+          "bbox": [0.4961, 0.8566, 0.0973, 0.0091]
+        },
+        {
+          "text": "民のためには、 泥に塗れて手を汚す。",
+          "translation": "For the people, I will get muddy and soil my hands.",
+          "bbox": [0.6634, 0.8566, 0.2363, 0.0095]
+        },
+        {
+          "text": "6 キングオージャー(前期) 王様戦隊キングオージャー",
+          "translation": "6 King-Ohger (early) — Ousama Sentai King-Ohger",
+          "bbox": [0.452, 0.8794, 0.3801, 0.0108]
+        },
+        {
+          "text": "7",
+          "translation": "7",
+          "bbox": [0.4514, 0.9034, 0.0121, 0.0079]
+        },
+        {
+          "text": "キングオージャー (後期) キングオージャー!",
+          "translation": "King-Ohger (later) — King-Ohger!",
+          "bbox": [0.4967, 0.9022, 0.2828, 0.0108]
+        },
+        {
+          "text": "※7の後は1に戻ります。",
+          "translation": "*After 7, it returns to 1.",
+          "bbox": [0.4266, 0.9258, 0.1619, 0.0091]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.49, 0.9714, 0.0187, 0.0124]
+        },
+        {
+          "text": "LO",
+          "translation": "LO",
+          "bbox": [0.4912, 0.9697, 0.0163, 0.0153]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-5.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "Online Instruction Manual",
+          "bbox": [0.0375, 0.022, 0.1637, 0.0092]
+        },
+        {
+          "text": "オージャカリバー遊び",
+          "translation": "Playing with the Ohger Calibur",
+          "bbox": [0.3474, 0.0771, 0.3045, 0.0136]
+        },
+        {
+          "text": "①シーン再現 音声表",
+          "translation": "① Scene Re-enactment Audio Chart",
+          "bbox": [0.1311, 0.1268, 0.2471, 0.0114]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.1142, 0.1801, 0.0326, 0.0071]
+        },
+        {
+          "text": "ギラモード",
+          "translation": "Gira Mode",
+          "bbox": [0.4405, 0.16, 0.119, 0.0106]
+        },
+        {
+          "text": "セリフ",
+          "translation": "Dialogue",
+          "bbox": [0.5221, 0.1803, 0.0465, 0.0062]
+        },
+        {
+          "text": "モード切替音 俺様が世界を支配する!",
+          "translation": "Mode switch sound: I will rule the world!",
+          "bbox": [0.0876, 0.1972, 0.258, 0.0071]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.1269, 0.2135, 0.0073, 0.0043]
+        },
+        {
+          "text": "貴様の語る正義などくだらん! つまらん! 気に食わん!",
+          "translation": "The \"justice\" you talk about is rubbish! Boring! I don't like it!",
+          "bbox": [0.1891, 0.2124, 0.3571, 0.0065]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.1245, 0.2279, 0.0127, 0.0049]
+        },
+        {
+          "text": "子供たちを犠牲にすることが正義なら俺は正義をぶっ潰す悪になってやる!",
+          "translation": "If sacrificing children is justice, then I'll become the evil that smashes that justice!",
+          "bbox": [0.1891, 0.2276, 0.5009, 0.0062]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.1251, 0.2431, 0.0121, 0.0052]
+        },
+        {
+          "text": "恐怖しろ! そしておののけ! 一切の情け容赦なく一木一草ことごとく!",
+          "translation": "Tremble in fear! Quake! With no mercy whatsoever—leaving not a single tree or blade of grass!",
+          "bbox": [0.1891, 0.2428, 0.4568, 0.0065]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.1245, 0.2586, 0.0139, 0.0049]
+        },
+        {
+          "text": "貴様を討ち滅ぼす者の名はギラ!邪悪の王となる男!",
+          "translation": "The one who will destroy you is called Gira! The man who will become the King of Evil!",
+          "bbox": [0.1891, 0.2575, 0.3402, 0.0065]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.1245, 0.2732, 0.0121, 0.0052]
+        },
+        {
+          "text": "61",
+          "translation": "61",
+          "bbox": [0.1257, 0.2724, 0.0097, 0.0065]
+        },
+        {
+          "text": "俺様が世界を支配する!",
+          "translation": "I will rule the world!",
+          "bbox": [0.1891, 0.2727, 0.1565, 0.0062]
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.1257, 0.2884, 0.0115, 0.0052]
+        },
+        {
+          "text": "わーはっはっはっはは! ひねり潰してくれるわーっ!",
+          "translation": "Wah-hahaha! I'll crush you to bits!",
+          "bbox": [0.1891, 0.2879, 0.3275, 0.0062]
+        },
+        {
+          "text": "7",
+          "translation": "7",
+          "bbox": [0.1251, 0.3034, 0.0127, 0.0049]
+        },
+        {
+          "text": "降臨せよ、キングオージャー!",
+          "translation": "Descend, King-Ohger!",
+          "bbox": [0.1891, 0.3028, 0.1885, 0.0068]
+        },
+        {
+          "text": "※最後のセリフの後は1に戻ります。",
+          "translation": "*After the final line, the sequence returns to 1.",
+          "bbox": [0.0792, 0.3186, 0.2381, 0.0065]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.1142, 0.3571, 0.0338, 0.0071]
+        },
+        {
+          "text": "モード切替音 うるせえスカポンタヌキ。",
+          "translation": "Mode switch sound: Shut up, Skapon-tanuki.",
+          "bbox": [0.0876, 0.3743, 0.2731, 0.0065]
+        },
+        {
+          "text": "ヤンマモード",
+          "translation": "Yanma Mode",
+          "bbox": [0.4272, 0.337, 0.145, 0.0103]
+        },
+        {
+          "text": "セリフ",
+          "translation": "Dialogue",
+          "bbox": [0.5221, 0.3574, 0.0459, 0.006]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.1263, 0.3903, 0.0079, 0.0041]
+        },
+        {
+          "text": "俺がテッペンだ",
+          "translation": "I'm the top.",
+          "bbox": [0.1879, 0.3892, 0.1027, 0.0065]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.1245, 0.4049, 0.0127, 0.0049]
+        },
+        {
+          "text": "ンコンパ流でぶちのめすぞ!",
+          "translation": "I'll beat you using the Nkonpa style!",
+          "bbox": [0.1885, 0.4044, 0.1837, 0.0062]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.1245, 0.4199, 0.0121, 0.0049]
+        },
+        {
+          "text": "俺は媚びねェへつらわねェ。",
+          "translation": "I won't pander and I won't kowtow.",
+          "bbox": [0.1885, 0.4196, 0.1813, 0.0062]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.1233, 0.4354, 0.0133, 0.0046]
+        },
+        {
+          "text": "誰が相手になろうとも、意地とドタマでブッチギる",
+          "translation": "No matter who I'm up against, I'll cut them down with stubbornness and raw force.",
+          "bbox": [0.1885, 0.4343, 0.3257, 0.0068]
+        },
+        {
+          "text": "10",
+          "translation": "10",
+          "bbox": [0.1257, 0.4495, 0.0097, 0.006]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.1251, 0.4503, 0.0115, 0.0049]
+        },
+        {
+          "text": "それが、ンコンパ総長、ヤンマ・ガストだ!",
+          "translation": "That's the Nkonpa leader, Yanma Gast!",
+          "bbox": [0.1885, 0.4495, 0.2616, 0.0068]
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.1251, 0.4652, 0.0115, 0.0049]
+        },
+        {
+          "text": "うるせぇスカポンタヌキ",
+          "translation": "Shut up, Skapon-tanuki.",
+          "bbox": [0.1879, 0.465, 0.1619, 0.0062]
+        },
+        {
+          "text": "※最後のセリフの後は1に戻ります。",
+          "translation": "*After the final line, the sequence returns to 1.",
+          "bbox": [0.0792, 0.4804, 0.2375, 0.0065]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.1142, 0.5182, 0.0326, 0.0076]
+        },
+        {
+          "text": "モード切替音 ただ我がままに我が道をゆく!",
+          "translation": "Mode switch sound: Simply following my own path!",
+          "bbox": [0.087, 0.5359, 0.3033, 0.0068]
+        },
+        {
+          "text": "ヒメノモード",
+          "translation": "Himeno Mode",
+          "bbox": [0.4302, 0.4986, 0.1408, 0.0098]
+        },
+        {
+          "text": "セリフ",
+          "translation": "Dialogue",
+          "bbox": [0.5221, 0.5185, 0.0465, 0.0065]
+        },
+        {
+          "text": "怪我でもした? 治せばいいじゃない。 ここは美と医療の国なんだから。",
+          "translation": "Did you get injured? Just heal it. This is the land of beauty and medicine, after all.",
+          "bbox": [0.1885, 0.5508, 0.452, 0.0065]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.1263, 0.5516, 0.0073, 0.0046]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.1245, 0.5665, 0.0127, 0.0049]
+        },
+        {
+          "text": "身を汚せど、 魂は輝く。",
+          "translation": "Even if the body gets dirty, the soul still shines.",
+          "bbox": [0.1885, 0.5657, 0.1468, 0.0065]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.1245, 0.5815, 0.0121, 0.0049]
+        },
+        {
+          "text": "力を奪えど心はきらめく。美とは生き様!",
+          "translation": "Even if strength is taken, the heart still sparkles. Beauty is a way of life!",
+          "bbox": [0.1885, 0.5812, 0.2616, 0.0062]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.1239, 0.597, 0.0139, 0.0046]
+        },
+        {
+          "text": "我が名はイシャバーナの女王ヒメノ・ラン",
+          "translation": "My name is Himeno Ran, Queen of Ishabana.",
+          "bbox": [0.1879, 0.5959, 0.2828, 0.0065]
+        },
+        {
+          "text": "LO",
+          "translation": "LO",
+          "bbox": [0.1245, 0.6108, 0.0097, 0.006]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.1245, 0.6119, 0.0121, 0.0046]
+        },
+        {
+          "text": "ただ我がままに我が道をゆく!",
+          "translation": "Simply following my own path!",
+          "bbox": [0.1891, 0.6114, 0.2006, 0.006]
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.1251, 0.6271, 0.0103, 0.0046]
+        },
+        {
+          "text": "散ることを知らぬ花・・・。 その気高きを知るがよい!",
+          "translation": "A flower that does not know how to fall... Know its nobility!",
+          "bbox": [0.1885, 0.6263, 0.3245, 0.0062]
+        },
+        {
+          "text": "※最後のセリフの後は1に戻ります。",
+          "translation": "*After the final line, the sequence returns to 1.",
+          "bbox": [0.0792, 0.6426, 0.2375, 0.0062]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.1142, 0.6809, 0.0338, 0.0068]
+        },
+        {
+          "text": "モード切替音裁くぞ。",
+          "translation": "Mode switch sound: I will judge!",
+          "bbox": [0.087, 0.6972, 0.1517, 0.0073]
+        },
+        {
+          "text": "リタモード",
+          "translation": "Rita Mode",
+          "bbox": [0.4423, 0.6608, 0.1154, 0.0106]
+        },
+        {
+          "text": "セリフ",
+          "translation": "Dialogue",
+          "bbox": [0.5221, 0.6806, 0.0459, 0.0065]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.1263, 0.7137, 0.0079, 0.0041]
+        },
+        {
+          "text": "ゴッカンの吹雪に震えろ。",
+          "translation": "Tremble before Gokkan's blizzard.",
+          "bbox": [0.1891, 0.7127, 0.1668, 0.0062]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.1245, 0.7284, 0.0127, 0.0049]
+        },
+        {
+          "text": "死罪だ",
+          "translation": "It is a capital offense.",
+          "bbox": [0.1885, 0.7281, 0.0459, 0.006]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.1245, 0.7436, 0.0115, 0.0046]
+        },
+        {
+          "text": "我々のやるべきことは一つ。ただ不動を貫くだけだ。",
+          "translation": "There is only one thing for us to do: remain unmoving.",
+          "bbox": [0.1879, 0.7428, 0.3408, 0.0068]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.1239, 0.7588, 0.0133, 0.0049]
+        },
+        {
+          "text": "法とは王を穿つ矛。 法とは民を守る盾。 なればこそ、ゴッカンは不動なり。",
+          "translation": "The law is a spear that pierces the king. The law is a shield that protects the people. That is why Gokkan remains immovable.",
+          "bbox": [0.1885, 0.7577, 0.4713, 0.0065]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.1245, 0.7735, 0.0121, 0.0052]
+        },
+        {
+          "text": "地が裂け天が降ろうともこのリタ・カニスカは揺るがない!",
+          "translation": "Even if the earth splits and the heavens fall, I, Rita Kaniska, will not waver!",
+          "bbox": [0.1885, 0.7732, 0.3837, 0.0065]
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.1251, 0.7887, 0.0115, 0.0049]
+        },
+        {
+          "text": "五王国、異様事案対策用戦略救命部隊。通称は、守護神の名に由来し･･･。 王様戦隊キングオージャーとする。",
+          "translation": "A strategic rescue unit formed by the Five Kingdoms to deal with extraordinary incidents. Its name is derived from the guardian deity... It shall be called Ohsama Sentai King-Ohger.",
+          "bbox": [0.1885, 0.7882, 0.6937, 0.0068]
+        },
+        {
+          "text": "※最後のセリフの後は1に戻ります。",
+          "translation": "*After the final line, the sequence returns to 1.",
+          "bbox": [0.0792, 0.8045, 0.2369, 0.0065]
+        },
+        {
+          "text": "カグラギモード",
+          "translation": "Kaguragi Mode",
+          "bbox": [0.4157, 0.8218, 0.1674, 0.012]
+        },
+        {
+          "text": "セリフ",
+          "translation": "Dialogue",
+          "bbox": [0.5215, 0.8427, 0.0465, 0.0062]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.1148, 0.8427, 0.0314, 0.0065]
+        },
+        {
+          "text": "モード切替音民のためには、泥に塗れて手を汚す。",
+          "translation": "Mode switch sound: For the people, I will soil my hands in the mud.",
+          "bbox": [0.0876, 0.8596, 0.3511, 0.0068]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.1257, 0.8756, 0.0085, 0.0041]
+        },
+        {
+          "text": "外道には外道ですよ。",
+          "translation": "To beat wickedness, respond with wickedness.",
+          "bbox": [0.1879, 0.8748, 0.148, 0.0065]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.1245, 0.8903, 0.0133, 0.0052]
+        },
+        {
+          "text": "民とは命なり。民のためには、 泥に塗れて手を汚す。",
+          "translation": "The people are life itself. For their sake, I will soil my hands in the mud.",
+          "bbox": [0.1885, 0.89, 0.3444, 0.006]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.1245, 0.9055, 0.0127, 0.0046]
+        },
+        {
+          "text": "それが私 大殿様 カグラギ・ディボウスキなのです",
+          "translation": "That is I, the great lord Kaguragi Dybowski.",
+          "bbox": [0.1885, 0.9049, 0.3341, 0.0065]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.1233, 0.9207, 0.0145, 0.0049]
+        },
+        {
+          "text": "あっ一騎当千!",
+          "translation": "Oh — a one-man army!",
+          "bbox": [0.1891, 0.9196, 0.0931, 0.0071]
+        },
+        {
+          "text": "50",
+          "translation": "50",
+          "bbox": [0.1263, 0.9351, 0.0079, 0.0054]
+        },
+        {
+          "text": "よいしょーっ!",
+          "translation": "Heave-ho!",
+          "bbox": [0.1891, 0.9348, 0.0876, 0.0071]
+        },
+        {
+          "text": "※最後のセリフの後は1に戻ります。",
+          "translation": "*After the final line, the sequence returns to 1.",
+          "bbox": [0.0792, 0.9506, 0.2387, 0.0065]
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.49, 0.9807, 0.0193, 0.0081]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-6.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "Online Instruction Manual",
+          "bbox": [0.0375, 0.0246, 0.1637, 0.0103]
+        },
+        {
+          "text": "オージャカリバー遊び",
+          "translation": "Playing with the Ohger Calibur",
+          "bbox": [0.3468, 0.0854, 0.3051, 0.0161]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.1142, 0.175, 0.0326, 0.0082]
+        },
+        {
+          "text": "キングオージャー(前期) モード",
+          "translation": "King-Ohger (Early) Mode",
+          "bbox": [0.3311, 0.1525, 0.3396, 0.0134]
+        },
+        {
+          "text": "セリフ",
+          "translation": "Dialogue",
+          "bbox": [0.5221, 0.1759, 0.0471, 0.0064]
+        },
+        {
+          "text": "モード切替音王様戦隊キングオージャー",
+          "translation": "Mode-switching sound: Ohsama Sentai King-Ohger",
+          "bbox": [0.0876, 0.1942, 0.2773, 0.0079]
+        },
+        {
+          "text": "宇宙の片隅の惑星チキュー。5つの王国が治めるこの星に巨大な危機が迫っている。",
+          "translation": "Chikyu—a planet in a corner of the universe. A massive crisis is looming over this world, which is ruled by five kingdoms.",
+          "bbox": [0.1897, 0.2115, 0.5486, 0.007]
+        },
+        {
+          "text": "これは平和を守る王たちの物語。 そして、王になる男の物語である。",
+          "translation": "This is the story of the kings who protect the peace. And it is the story of the man who will become king.",
+          "bbox": [0.1897, 0.2285, 0.4405, 0.0067]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.1239, 0.2458, 0.0133, 0.0058]
+        },
+        {
+          "text": "でも・・・僕は・・・王様じゃない。",
+          "translation": "But... I'm not... a king.",
+          "bbox": [0.1897, 0.2449, 0.1843, 0.007]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.1251, 0.2628, 0.0115, 0.0052]
+        },
+        {
+          "text": "何ふ抜けてんだタコメンチ。",
+          "translation": "What are you spacing out for, Takomenchi?",
+          "bbox": [0.1891, 0.2619, 0.1849, 0.0073]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.1239, 0.2796, 0.0151, 0.0055]
+        },
+        {
+          "text": "いつもなんちゃらの王だののたまってただろうが。",
+          "translation": "You were always going on about being some kind of king, weren't you?",
+          "bbox": [0.1897, 0.2789, 0.3329, 0.007]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.1245, 0.2966, 0.0127, 0.0052]
+        },
+        {
+          "text": "LO",
+          "translation": "LO",
+          "bbox": [0.1257, 0.296, 0.0103, 0.0064]
+        },
+        {
+          "text": "0)",
+          "translation": "0)",
+          "bbox": [0.1269, 0.3127, 0.0091, 0.007]
+        },
+        {
+          "text": "王と名乗れば王。 ワガママを通せばいいじゃない。",
+          "translation": "If you call yourself a king, then you're a king. Why not just have things your own way?",
+          "bbox": [0.1891, 0.2957, 0.3263, 0.007]
+        },
+        {
+          "text": "相手が守護神であろうと欺いてやればいいのです。",
+          "translation": "Even if your opponent is a guardian deity, you simply need to deceive them.",
+          "bbox": [0.1885, 0.3127, 0.3408, 0.007]
+        },
+        {
+          "text": "民を守るためだ罪には問わない。",
+          "translation": "It was to protect the people; you will not be held liable.",
+          "bbox": [0.1885, 0.3297, 0.223, 0.0067]
+        },
+        {
+          "text": "7",
+          "translation": "7",
+          "bbox": [0.1245, 0.33, 0.0133, 0.0058]
+        },
+        {
+          "text": "8",
+          "translation": "8",
+          "bbox": [0.1245, 0.347, 0.0115, 0.0055]
+        },
+        {
+          "text": "聞こえるか?守護神!",
+          "translation": "Can you hear me, Guardian?",
+          "bbox": [0.1903, 0.3464, 0.1341, 0.0067]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.1239, 0.3637, 0.0139, 0.0061]
+        },
+        {
+          "text": "その伝説の力この邪悪の王に差し出せ!",
+          "translation": "Surrender that legendary power to this King of Evil!",
+          "bbox": [0.1897, 0.3634, 0.264, 0.007]
+        },
+        {
+          "text": "10",
+          "translation": "10",
+          "bbox": [0.1196, 0.3813, 0.0242, 0.0052]
+        },
+        {
+          "text": "俺様が世界を支配する!",
+          "translation": "I shall rule the world!",
+          "bbox": [0.1891, 0.3801, 0.1571, 0.0073]
+        },
+        {
+          "text": "11",
+          "translation": "11",
+          "bbox": [0.1202, 0.3978, 0.0205, 0.0052]
+        },
+        {
+          "text": "一に王二に王三四が王で五にも王!",
+          "translation": "First the King, second the King, third and fourth the King, and fifth the King too!",
+          "bbox": [0.1891, 0.3971, 0.2441, 0.007]
+        },
+        {
+          "text": "12",
+          "translation": "12",
+          "bbox": [0.1202, 0.4145, 0.0224, 0.0055]
+        },
+        {
+          "text": "序列無く異なる高みを極めし英傑!",
+          "translation": "Heroes who have reached distinct heights beyond ranking!",
+          "bbox": [0.1891, 0.4139, 0.2326, 0.0073]
+        },
+        {
+          "text": "13",
+          "translation": "13",
+          "bbox": [0.1202, 0.4315, 0.0211, 0.0052]
+        },
+        {
+          "text": "不倶戴天の仲なれど民の為今交わらん!",
+          "translation": "Though we are sworn enemies, for the sake of the people, let us now join forces!",
+          "bbox": [0.1891, 0.4309, 0.2647, 0.0073]
+        },
+        {
+          "text": "14",
+          "translation": "14",
+          "bbox": [0.1208, 0.4482, 0.0224, 0.0058]
+        },
+        {
+          "text": "孤高を捨て連帯し 王冠を戴く戦士となる!",
+          "translation": "Abandon your solitary pride, unite, and become a warrior who wears the crown!",
+          "bbox": [0.1885, 0.4476, 0.2773, 0.0076]
+        },
+        {
+          "text": "15",
+          "translation": "15",
+          "bbox": [0.1202, 0.4655, 0.0218, 0.0052]
+        },
+        {
+          "text": "降臨せよ!レジェンドキングオージャー!",
+          "translation": "Descend! Legend King-Ohger!",
+          "bbox": [0.1891, 0.4643, 0.255, 0.0079]
+        },
+        {
+          "text": "16",
+          "translation": "16",
+          "bbox": [0.1208, 0.4822, 0.0224, 0.0049]
+        },
+        {
+          "text": "さぁ、奇跡を起こしてやろうじゃないか!",
+          "translation": "Now, let's make a miracle happen!",
+          "bbox": [0.1897, 0.4816, 0.2556, 0.007]
+        },
+        {
+          "text": "※最後のセリフの後は1に戻ります。",
+          "translation": "*After the final line, the sequence returns to 1.",
+          "bbox": [0.0785, 0.4974, 0.2387, 0.007]
+        },
+        {
+          "text": "キングオージャー(後期) モード",
+          "translation": "King-Ohger (Late) Mode",
+          "bbox": [0.3311, 0.5178, 0.3396, 0.0134]
+        },
+        {
+          "text": "セリフ",
+          "translation": "Dialogue",
+          "bbox": [0.5221, 0.5409, 0.0465, 0.0064]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.1148, 0.5406, 0.032, 0.0073]
+        },
+        {
+          "text": "モード切替音 キングオージャー!",
+          "translation": "Mode switching sound: King-Ohger!",
+          "bbox": [0.087, 0.5591, 0.2224, 0.0076]
+        },
+        {
+          "text": "宇宙の片隅の惑星 チキュー。6つの王国が治めるこの星に巨大な危機が迫っている。",
+          "translation": "Chikyu—a planet in a corner of the universe. A massive crisis is looming over this world, which is ruled by six kingdoms.",
+          "bbox": [0.1891, 0.5764, 0.5541, 0.007]
+        },
+        {
+          "text": "これは平和を守る王たちの物語。 そして、 反逆の戦士たちの物語である。",
+          "translation": "This is the story of kings who protect the peace. And it is the story of rebel warriors.",
+          "bbox": [0.1897, 0.5934, 0.4713, 0.007]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.1245, 0.6108, 0.0121, 0.0058]
+        },
+        {
+          "text": "我々は新たに世界を脅かす敵が到来した時に備え",
+          "translation": "We are preparing for the arrival of a new enemy that threatens the world.",
+          "bbox": [0.1891, 0.6105, 0.3269, 0.007]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.1245, 0.6278, 0.0121, 0.0052]
+        },
+        {
+          "text": "国境を超え、利害を排除し、国同士が一丸となって、敵を打ち倒すため新たな組織を結成した。",
+          "translation": "Transcending national borders and setting aside conflicting interests, nations united to form a new organization for the purpose of defeating the enemy.",
+          "bbox": [0.1897, 0.6269, 0.6097, 0.0076]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.1239, 0.6448, 0.0139, 0.0052]
+        },
+        {
+          "text": "五王国、異様事案対策用戦略救命部隊。",
+          "translation": "Five Kingdoms Strategic Life-Saving Unit for Anomalous Incidents.",
+          "bbox": [0.1891, 0.6439, 0.2574, 0.0076]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.1251, 0.6615, 0.0109, 0.0055]
+        },
+        {
+          "text": "07",
+          "translation": "07",
+          "bbox": [0.1269, 0.6606, 0.0085, 0.0073]
+        },
+        {
+          "text": "60",
+          "translation": "60",
+          "bbox": [0.1251, 0.6776, 0.0097, 0.0064]
+        },
+        {
+          "text": "通称は、守護神の名に由来し･･･。 王様戦隊キングオージャーとする。",
+          "translation": "Its common name is derived from that of the guardian deity... and is designated as Ohsama Sentai King-Ohger.",
+          "bbox": [0.1891, 0.6606, 0.4369, 0.0076]
+        },
+        {
+          "text": "降臨せよ!エクストリームキングオージャー!",
+          "translation": "Descend! Extreme King-Ohger!",
+          "bbox": [0.1891, 0.6776, 0.2864, 0.0076]
+        },
+        {
+          "text": "7",
+          "translation": "7",
+          "bbox": [0.1245, 0.6952, 0.0133, 0.0055]
+        },
+        {
+          "text": "俺は媚びねぇ、へつらわねぇ。誰が相手になろうとも、意地とドタマでブッチギる。",
+          "translation": "I don't pander, and I don't grovel. No matter who stands in my way, I'll leave them in the dust—driven by sheer grit and my own headstrong will.",
+          "bbox": [0.1891, 0.6943, 0.5227, 0.0076]
+        },
+        {
+          "text": "8",
+          "translation": "8",
+          "bbox": [0.1245, 0.7122, 0.0121, 0.0052]
+        },
+        {
+          "text": "それが、ンコンパ総長、ヤンマ・ガストだ。",
+          "translation": "That is Nkompa President Yamma Gast.",
+          "bbox": [0.1897, 0.7113, 0.264, 0.0073]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.1233, 0.7287, 0.0145, 0.0061]
+        },
+        {
+          "text": "我が名はイシャバーナの女王ヒメノ・ラン。",
+          "translation": "My name is Himeno Ran, Queen of Ishabana.",
+          "bbox": [0.1891, 0.728, 0.2882, 0.0076]
+        },
+        {
+          "text": "10",
+          "translation": "10",
+          "bbox": [0.1202, 0.7457, 0.0236, 0.0061]
+        },
+        {
+          "text": "ただ我がままに我が道をゆく!散ることを知らぬ花･･･。 その気高きを知るがよい!",
+          "translation": "I walk my own path, true only to myself! A flower that knows not how to wither... Behold its noble majesty!",
+          "bbox": [0.1897, 0.7454, 0.5251, 0.007]
+        },
+        {
+          "text": "11",
+          "translation": "11",
+          "bbox": [0.1208, 0.7618, 0.0193, 0.0064]
+        },
+        {
+          "text": "民とは命なり。民のためには、 泥に塗れて手を汚す。",
+          "translation": "The people are life itself. For their sake, I will soil my hands and be covered in mud.",
+          "bbox": [0.1891, 0.7624, 0.3438, 0.0067]
+        },
+        {
+          "text": "12",
+          "translation": "12",
+          "bbox": [0.1208, 0.7797, 0.0211, 0.0055]
+        },
+        {
+          "text": "それが豊穣の大殿様 カグラギ・ディボウスキ。",
+          "translation": "That is the Great Lord of Abundance, Kaguragi Dybowski.",
+          "bbox": [0.1897, 0.7791, 0.3196, 0.0073]
+        },
+        {
+          "text": "13",
+          "translation": "13",
+          "bbox": [0.1208, 0.7967, 0.0224, 0.0049]
+        },
+        {
+          "text": "法とは王を穿つ矛。 法とは民を守る盾。 なればこそ、ゴッカンは不動なり。",
+          "translation": "The law is a spear that pierces the king. The law is a shield that protects the people. That is precisely why Gokkan stands immovable.",
+          "bbox": [0.1885, 0.7958, 0.4725, 0.0073]
+        },
+        {
+          "text": "14",
+          "translation": "14",
+          "bbox": [0.1202, 0.8137, 0.023, 0.0049]
+        },
+        {
+          "text": "地が裂け天が降ろうともこのリタ・カニスカは揺るがない!",
+          "translation": "Even if the earth splits and the heavens fall, I, Rita Kaniska, shall not waver!",
+          "bbox": [0.1891, 0.8128, 0.3843, 0.007]
+        },
+        {
+          "text": "15",
+          "translation": "15",
+          "bbox": [0.1202, 0.8304, 0.0224, 0.0052]
+        },
+        {
+          "text": "俺は、ジェラミー・イドモナラク・ネ・ブラシエリ。",
+          "translation": "I am Jeramie Idmonarak ne Brasieri.",
+          "bbox": [0.1885, 0.8292, 0.31, 0.0073]
+        },
+        {
+          "text": "16",
+          "translation": "16",
+          "bbox": [0.1202, 0.8472, 0.023, 0.0052]
+        },
+        {
+          "text": "人、バグナラク、全てを統べて、世界の運命を定める狭間の王様、",
+          "translation": "The King of the In-Between who rules over all—humans and Bugnarak alike—and determines the fate of the world,",
+          "bbox": [0.1885, 0.8462, 0.4199, 0.0076]
+        },
+        {
+          "text": "17",
+          "translation": "17",
+          "bbox": [0.1208, 0.8642, 0.0218, 0.0058]
+        },
+        {
+          "text": "その有様を、永久に語り継ぐといい!",
+          "translation": "See to it that the tale of that spectacle is passed down forever!",
+          "bbox": [0.1897, 0.8636, 0.2332, 0.0073]
+        },
+        {
+          "text": "18",
+          "translation": "18",
+          "bbox": [0.1202, 0.8812, 0.0242, 0.0052]
+        },
+        {
+          "text": "恐怖しろ! そしておののけ! 一切の情け容赦なく一木一草ことごとく!",
+          "translation": "Tremble in fear! Quake! Without a shred of mercy—leaving not a single tree or blade of grass standing!",
+          "bbox": [0.1885, 0.8803, 0.458, 0.0076]
+        },
+        {
+          "text": "19",
+          "translation": "19",
+          "bbox": [0.1202, 0.8982, 0.0218, 0.0049]
+        },
+        {
+          "text": "貴様を討ち滅ぼす者の名はギラ・ハスティー! そして",
+          "translation": "The name of the one who will destroy you is Gira Husty! And...",
+          "bbox": [0.1891, 0.897, 0.339, 0.0073]
+        },
+        {
+          "text": "20",
+          "translation": "20",
+          "bbox": [0.1184, 0.9146, 0.0236, 0.0055]
+        },
+        {
+          "text": "王様戦隊キングオージャー!",
+          "translation": "Ohsama Sentai King-Ohger!",
+          "bbox": [0.1891, 0.914, 0.1825, 0.0076]
+        },
+        {
+          "text": "21",
+          "translation": "21",
+          "bbox": [0.1184, 0.9319, 0.0211, 0.0055]
+        },
+        {
+          "text": "俺様たちが世界を支配する!",
+          "translation": "We're going to rule the world!",
+          "bbox": [0.1885, 0.931, 0.1873, 0.0073]
+        },
+        {
+          "text": "※最後のセリフの後は1に戻ります。",
+          "translation": "*After the final line, the sequence returns to 1.",
+          "bbox": [0.0792, 0.9471, 0.2387, 0.007]
+        },
+        {
+          "text": "7",
+          "translation": "7",
+          "bbox": [0.4894, 0.9781, 0.0205, 0.0091]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-7.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "Online Instruction Manual",
+          "bbox": [0.0375, 0.0292, 0.165, 0.0128]
+        },
+        {
+          "text": "矢印一覧 11 取り付けます。 | 取り外します。 動かします。",
+          "translation": "Arrow legend 11 — Attach. | Remove. | Move.",
+          "bbox": [0.2628, 0.0281, 0.6761, 0.0153]
+        },
+        {
+          "text": "オージャカリバー遊び",
+          "translation": "Playing with the Ohger Calibur",
+          "bbox": [0.3474, 0.1028, 0.3051, 0.019]
+        },
+        {
+          "text": "②変身シークエンス",
+          "translation": "② Transformation sequence",
+          "bbox": [0.136, 0.1702, 0.2381, 0.0153]
+        },
+        {
+          "text": "変身遊びではモードに関係なく、\n最初に操作したトリガーに応じた",
+          "translation": "During transformation play, regardless of mode, the character transformation sequence that corresponds to the trigger operated first will begin.",
+          "bbox": [0.0991, 0.2114, 0.2888, 0.0299]
+        },
+        {
+          "text": "キャラクターの変身シークエンスが始まります。",
+          "translation": "The character's transformation sequence begins.",
+          "bbox": [0.1003, 0.2449, 0.4163, 0.0117]
+        },
+        {
+          "text": "クワガタトリガー 16",
+          "translation": "Kuwagata Trigger 16",
+          "bbox": [0.623, 0.2431, 0.168, 0.0117]
+        },
+        {
+          "text": "①でクワガタトリガー操作した場合を",
+          "translation": "Below is an example for when the Kuwagata Trigger is operated in step ①.",
+          "bbox": [0.0991, 0.2613, 0.3275, 0.012]
+        },
+        {
+          "text": "例に説明します。",
+          "translation": "Explained as an example.",
+          "bbox": [0.0997, 0.277, 0.1468, 0.012]
+        },
+        {
+          "text": "①トリガーを操作します。\nトリガーに応じた\n「トリガー操作音」が鳴り、\n「変身待機音」が鳴り、LEDが光ります。\n☆変身待機音中にトリガーを長押し\nすると、 「王鎧武装」 が鳴ります。",
+          "translation": "① Operate the trigger. The trigger operation sound corresponding to the trigger will play, 'Transformation Standby Sound ①' will play, and the LED will light. ☆ If you press and hold the trigger while the transformation standby sound is playing, the 'King Armor Armament' sound will play.",
+          "bbox": [0.0985, 0.3112, 0.3752, 0.0995]
+        },
+        {
+          "text": "②トンボトリガーを操作します。",
+          "translation": "② Operate the Tonbo Trigger.",
+          "bbox": [0.0985, 0.4238, 0.2755, 0.0113]
+        },
+        {
+          "text": "「操作音」と「変身待機音②」が鳴り、",
+          "translation": "The \"operation sound\" and \"transformation standby sound ②\" play,",
+          "bbox": [0.1215, 0.4402, 0.3015, 0.0117]
+        },
+        {
+          "text": "LEDの発光が黄色に変わります。",
+          "translation": "The LED light changes to yellow.",
+          "bbox": [0.1202, 0.4555, 0.2864, 0.0124]
+        },
+        {
+          "text": "③カマキリトリガーを操作します。",
+          "translation": "③ Operate the Mantis Trigger.",
+          "bbox": [0.0991, 0.4723, 0.2979, 0.0124]
+        },
+        {
+          "text": "「操作音」と「変身待機音3」が鳴り、",
+          "translation": "The \"operation sound\" and \"transformation standby sound 3\" play,",
+          "bbox": [0.1215, 0.4887, 0.3009, 0.0117]
+        },
+        {
+          "text": "LEDの発光が紫色に変わります。",
+          "translation": "The LED light changes to purple.",
+          "bbox": [0.1208, 0.504, 0.284, 0.0131]
+        },
+        {
+          "text": "④パピヨントリガーを操作します。",
+          "translation": "④ Operate the Papillon trigger.",
+          "bbox": [0.0985, 0.5208, 0.2979, 0.0124]
+        },
+        {
+          "text": "◆「操作音」と「変身待機音④」 が鳴り、",
+          "translation": "◆ The \"operation sound\" and \"transformation standby sound ④\" play,",
+          "bbox": [0.1112, 0.5375, 0.3124, 0.0117]
+        },
+        {
+          "text": "LEDの発光が白色に変わります。",
+          "translation": "The LED light changes to white.",
+          "bbox": [0.1202, 0.5536, 0.2852, 0.0109]
+        },
+        {
+          "text": "10",
+          "translation": "10",
+          "bbox": [0.8157, 0.2832, 0.0562, 0.0237]
+        },
+        {
+          "text": "カマキリトリガー",
+          "translation": "Mantis Trigger",
+          "bbox": [0.7855, 0.6148, 0.1227, 0.0102]
+        },
+        {
+          "text": "パピヨントリガー",
+          "translation": "Papillon Trigger",
+          "bbox": [0.5607, 0.6556, 0.1227, 0.0095]
+        },
+        {
+          "text": "ハチトリガー",
+          "translation": "Hachi-Trigger",
+          "bbox": [0.7299, 0.6556, 0.0931, 0.0095]
+        },
+        {
+          "text": "⑤ハチトリガーを操作します。\n「操作音」 と 「変身待機音5」が鳴り、",
+          "translation": "⑤ Operate the Hachi Trigger.\nThe \"operation sound\" and \"transformation standby sound 5\" will play,",
+          "bbox": [0.0991, 0.5696, 0.3227, 0.0281]
+        },
+        {
+          "text": "LEDの発光が赤色に変わります。",
+          "translation": "The LED light changes to red.",
+          "bbox": [0.1202, 0.6013, 0.2846, 0.0124]
+        },
+        {
+          "text": "⑥クワガタトリガーを引きます。",
+          "translation": "⑥ Pull the Stag Beetle Trigger.",
+          "bbox": [0.0991, 0.6177, 0.2785, 0.012]
+        },
+        {
+          "text": "「操作音」と「シュゴット登場音」が",
+          "translation": "The 'operation sound' and the 'Shugotto appearance sound' will play.",
+          "bbox": [0.1215, 0.6345, 0.2828, 0.012]
+        },
+        {
+          "text": "鳴ります。 その後、 「クワガタオージャー\n変身音」が鳴ります。",
+          "translation": "After that, the 'Kuwagata Ohger transformation sound' will play.",
+          "bbox": [0.1196, 0.6509, 0.3353, 0.0277]
+        },
+        {
+          "text": "☆「シュゴット登場音」の間に\nトリガーを押すと\n「クワガタオージャー変身音」まで\nスキップすることができます。",
+          "translation": "☆ If you press the trigger during the 'Shugotto appearance sound', you can skip ahead to the 'Kuwagata Ohger transformation sound'.",
+          "bbox": [0.1094, 0.6931, 0.313, 0.0616]
+        },
+        {
+          "text": "トンボトリガー",
+          "translation": "Dragonfly Trigger",
+          "bbox": [0.4937, 0.6152, 0.1051, 0.0091]
+        },
+        {
+          "text": "変身する戦士\nクワガタオージャー\nトンボオージャー\nカマキリオージャー\nパピヨンオージャー",
+          "translation": "Transforming Warriors\nKuwagata Ohger\nTonbo Ohger\nKamakiri Ohger\nPapillon Ohger",
+          "bbox": [0.3402, 0.8116, 0.1305, 0.0922]
+        },
+        {
+          "text": "①で操作するトリガー\nクワガタトリガー\nトンボトリガー\nカマキリトリガー\nパピヨントリガー",
+          "translation": "Triggers operated in step ①\nStag Beetle Trigger\nDragonfly Trigger\nMantis Trigger\nPapillon Trigger",
+          "bbox": [0.4955, 0.8116, 0.1619, 0.0926]
+        },
+        {
+          "text": "⑥で鳴る 「変身音」",
+          "translation": "The \"transformation sound\" that plays at ⑥",
+          "bbox": [0.7166, 0.8112, 0.1347, 0.0106]
+        },
+        {
+          "text": "「クワガタオージャー変身音」",
+          "translation": "Kuwagata Ohger Transformation Sound",
+          "bbox": [0.6906, 0.8349, 0.1891, 0.0102]
+        },
+        {
+          "text": "ハチオージャー",
+          "translation": "Hachi Ohger",
+          "bbox": [0.3408, 0.9147, 0.1009, 0.0095]
+        },
+        {
+          "text": "ハチトリガー",
+          "translation": "Hachi-Trigger",
+          "bbox": [0.5045, 0.9158, 0.0846, 0.0077]
+        },
+        {
+          "text": "「トンボオージャー変身音」\n「カマキリオージャー変身音」\n「パピヨンオージャー変身音」\n「ハチオージャー変身音」",
+          "translation": "'Tonbo Ohger Transformation Sound'\n'Kamakiri Ohger Transformation Sound'\n'Papillon Ohger Transformation Sound'\n'Hachi Ohger Transformation Sound'",
+          "bbox": [0.6906, 0.8553, 0.1897, 0.07]
+        },
+        {
+          "text": "00",
+          "translation": "00",
+          "bbox": [0.4906, 0.9734, 0.0169, 0.0131]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-8.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "Online Instruction Manual",
+          "bbox": [0.0369, 0.0529, 0.1656, 0.0222]
+        },
+        {
+          "text": "矢印一覧 ■■ 取り付けます。 | 取り外します。 動かします。",
+          "translation": "Arrow legend  ■■ Attach. | Remove. | Move.",
+          "bbox": [0.2628, 0.0516, 0.6767, 0.0255]
+        },
+        {
+          "text": "オージャカリバー遊び",
+          "translation": "Oja Calibur Play",
+          "bbox": [0.3474, 0.1847, 0.3057, 0.0333]
+        },
+        {
+          "text": "攻撃シークエンス",
+          "translation": "Attack Sequence",
+          "bbox": [0.1498, 0.3042, 0.2103, 0.0268]
+        },
+        {
+          "text": "①通常攻撃\nトリガーを短押しします。\nトリガーを短押しするたびに、\n「攻撃音1」、 「攻撃音2」、 「攻撃音3」、",
+          "translation": "① Normal attack\nPress the trigger briefly.\nEach time you press the trigger briefly,\n\"Attack Sound 1\", \"Attack Sound 2\", \"Attack Sound 3\",",
+          "bbox": [0.0997, 0.3779, 0.336, 0.1201]
+        },
+        {
+          "text": "「セリフ」が下記の順に鳴ります。",
+          "translation": "The \"dialogue\" lines will play in the order shown below.",
+          "bbox": [0.1221, 0.5046, 0.2755, 0.0202]
+        },
+        {
+          "text": "※変身シークエンスを終了する前に\nこの遊びを行うと、LEDが発光しません。",
+          "translation": "※ If you perform this play before the transformation sequence is finished, the LED will not light.",
+          "bbox": [0.1015, 0.5339, 0.3674, 0.0496]
+        },
+        {
+          "text": "①攻撃音1",
+          "translation": "① Attack Sound 1",
+          "bbox": [0.1257, 0.6456, 0.0634, 0.0131]
+        },
+        {
+          "text": "⑤ 攻撃音1",
+          "translation": "⑤ Attack Sound 1",
+          "bbox": [0.2429, 0.6449, 0.0634, 0.0131]
+        },
+        {
+          "text": "⑨攻撃音1",
+          "translation": "⑨ Attack Sound 1",
+          "bbox": [0.3607, 0.6449, 0.0628, 0.0144]
+        },
+        {
+          "text": "⑩ 攻撃音1",
+          "translation": "⑩ Attack Sound 1",
+          "bbox": [0.4779, 0.6449, 0.0622, 0.0137]
+        },
+        {
+          "text": "⑦ 攻撃音 1",
+          "translation": "⑦ Attack Sound 1",
+          "bbox": [0.5952, 0.6449, 0.0622, 0.0137]
+        },
+        {
+          "text": "②攻撃音2",
+          "translation": "② Attack Sound 2",
+          "bbox": [0.1263, 0.7095, 0.064, 0.0124]
+        },
+        {
+          "text": "⑥攻撃音2",
+          "translation": "⑥ Attack Sound 2",
+          "bbox": [0.2435, 0.7089, 0.0634, 0.0131]
+        },
+        {
+          "text": "⑩ 攻撃音2",
+          "translation": "⑩ Attack Sound 2",
+          "bbox": [0.3607, 0.7089, 0.0647, 0.0124]
+        },
+        {
+          "text": "⑩ 攻撃音2",
+          "translation": "⑩ Attack Sound 2",
+          "bbox": [0.4773, 0.7095, 0.064, 0.0124]
+        },
+        {
+          "text": "⑩8 攻撃音2",
+          "translation": "⑩8Attack Sound 2",
+          "bbox": [0.5952, 0.7095, 0.064, 0.0124]
+        },
+        {
+          "text": "③攻撃音3",
+          "translation": "③ Attack Sound 3",
+          "bbox": [0.1257, 0.7728, 0.0653, 0.0137]
+        },
+        {
+          "text": "⑦攻撃音3",
+          "translation": "⑦ Attack Sound 3",
+          "bbox": [0.2435, 0.7735, 0.0647, 0.0137]
+        },
+        {
+          "text": "① 攻撃音3",
+          "translation": "① Attack Sound 3",
+          "bbox": [0.3607, 0.7735, 0.0653, 0.0131]
+        },
+        {
+          "text": "⑩攻撃音3",
+          "translation": "⑩ Attack Sound 3",
+          "bbox": [0.4779, 0.7735, 0.064, 0.0131]
+        },
+        {
+          "text": "⑩9 攻撃音3",
+          "translation": "⑩9Attack Sound 3",
+          "bbox": [0.5952, 0.7728, 0.0647, 0.0137]
+        },
+        {
+          "text": "④セリフ1",
+          "translation": "④ Dialogue 1",
+          "bbox": [0.1275, 0.8362, 0.0598, 0.0144]
+        },
+        {
+          "text": "⑧ セリフ2",
+          "translation": "⑧ Dialogue 2",
+          "bbox": [0.2447, 0.8362, 0.0598, 0.0144]
+        },
+        {
+          "text": "1 セリフ 3",
+          "translation": "1 Dialogue 3",
+          "bbox": [0.3619, 0.8375, 0.0622, 0.0117]
+        },
+        {
+          "text": "⑩6 セリフ4",
+          "translation": "⑩6 Dialogue 4",
+          "bbox": [0.4792, 0.8375, 0.0628, 0.0124]
+        },
+        {
+          "text": "20 セリフ 5",
+          "translation": "20 Dialogue 5",
+          "bbox": [0.5964, 0.8368, 0.0622, 0.0131]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.4894, 0.953, 0.0199, 0.0215]
+        },
+        {
+          "text": "トリガー",
+          "translation": "Trigger",
+          "bbox": [0.7613, 0.5104, 0.0713, 0.0222]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-9.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "Online Instruction Manual",
+          "bbox": [0.0369, 0.0424, 0.1637, 0.0183]
+        },
+        {
+          "text": "矢印一覧 ■取り付けます。 取り外します。 動かします。",
+          "translation": "Arrow legend ■ Attach.  Remove.  Move.",
+          "bbox": [0.2628, 0.0424, 0.6773, 0.0194]
+        },
+        {
+          "text": "オージャカリバー遊び",
+          "translation": "Playing with the Ohger Calibur",
+          "bbox": [0.3474, 0.1481, 0.3057, 0.0267]
+        },
+        {
+          "text": "攻撃シークエンス",
+          "translation": "Attack Sequence",
+          "bbox": [0.1505, 0.2444, 0.2103, 0.0209]
+        },
+        {
+          "text": "②必殺技遊び\n①トリガーを長押しします。\nLEDが発光し、「必殺技待機音」が\n鳴ります。\n②クワガタトリガーを3回引きます。\nレバーを操作するたびに、\nLEDが発光し、 「効果音」 が鳴った後、\n「最終必殺技待機音」が鳴ります。",
+          "translation": "② Finishing Move Play\n① Press and hold the trigger.\n→ The LED lights, and the \"Finishing Move Standby Sound\" plays.\n② Pull the Kuwagata Trigger three times.\n→ Each time you operate the lever, the LED lights and a sound effect plays; after the sound effect, the \"Final Finishing Move Standby Sound\" plays.",
+          "bbox": [0.0991, 0.3025, 0.336, 0.1894]
+        },
+        {
+          "text": "③トリガーを短押しします。",
+          "translation": "③ Press the trigger briefly.",
+          "bbox": [0.0991, 0.4961, 0.2387, 0.0183]
+        },
+        {
+          "text": "◆LEDが発光し、 「必殺技音」が",
+          "translation": "◆ The LED lights, and the \"Finishing Move Sound\"",
+          "bbox": [0.1003, 0.5217, 0.2707, 0.0157]
+        },
+        {
+          "text": "鳴ります。",
+          "translation": "plays.",
+          "bbox": [0.1202, 0.5453, 0.0828, 0.0147]
+        },
+        {
+          "text": "※②で同じトリガーを3回操作する前に\n別のトリガーを操作すると、\n1回操作した状態に戻ります。\n※②でグリップのトリガーを押すと\nキャンセルされます。",
+          "translation": "※ During ②, if you operate a different trigger before operating the same trigger three times, the sequence will revert to the state after one operation.\n※ Pressing the grip trigger during ② cancels the sequence.",
+          "bbox": [0.1009, 0.573, 0.3378, 0.1083]
+        },
+        {
+          "text": "クワガタトリガー",
+          "translation": "Kuwagata Trigger",
+          "bbox": [0.5958, 0.3025, 0.1239, 0.0131]
+        },
+        {
+          "text": "(2)",
+          "translation": "(2)",
+          "bbox": [0.7269, 0.2977, 0.0145, 0.0099]
+        },
+        {
+          "text": "トリガー",
+          "translation": "Trigger",
+          "bbox": [0.7885, 0.5102, 0.0707, 0.0157]
+        },
+        {
+          "text": "②で操作する\nトリガー",
+          "translation": "Trigger operated in ②",
+          "bbox": [0.1184, 0.731, 0.1015, 0.0324]
+        },
+        {
+          "text": "③で鳴る 「必殺技音」",
+          "translation": "The \"Finishing Move Sound\" that plays at ③",
+          "bbox": [0.2822, 0.7399, 0.1523, 0.0141]
+        },
+        {
+          "text": "クワガタトリガー\nトンボトリガー\nカマキリトリガー",
+          "translation": "Kuwagata Trigger\nTonbo Trigger\nKamakiri Trigger",
+          "bbox": [0.113, 0.7802, 0.1112, 0.0701]
+        },
+        {
+          "text": "パピヨントリガー\nハチトリガー",
+          "translation": "Papillon Trigger\nHachi Trigger",
+          "bbox": [0.1124, 0.8676, 0.1124, 0.0408]
+        },
+        {
+          "text": "「クワガタオージャー必殺技音」\n「トンボオージャー必殺技音」\n「カマキリオージャー必殺技音」\n「パピヨンオージャー必殺技音」\n「ハチオージャー必殺技音」",
+          "translation": "\"Kuwagata-Ohger Finishing Move Sound\"\n\"Tonbo-Ohger Finishing Move Sound\"\n\"Kamakiri-Ohger Finishing Move Sound\"\n\"Papillon-Ohger Finishing Move Sound\"\n\"Hachi-Ohger Finishing Move Sound\"",
+          "bbox": [0.2598, 0.7813, 0.2042, 0.1298]
+        },
+        {
+          "text": "10",
+          "translation": "10",
+          "bbox": [0.4834, 0.9613, 0.0369, 0.0194]
+        },
+        {
+          "text": "①③",
+          "translation": "①③",
+          "bbox": [0.7088, 0.6824, 0.0338, 0.0115]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-10.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0375, 0.0361, 0.1656, 0.0176]
+        },
+        {
+          "text": "矢印一覧 ■取り付けます。 取り外します。 動かします。",
+          "translation": "Arrow legend ■ Attach. Remove. Move.",
+          "bbox": [0.2634, 0.0361, 0.6773, 0.0199]
+        },
+        {
+          "text": "オージャカリバー遊び",
+          "translation": "Playing with the Ohger Calibur",
+          "bbox": [0.348, 0.1302, 0.3045, 0.0245]
+        },
+        {
+          "text": "合体シークエンス",
+          "translation": "Combination sequence",
+          "bbox": [0.1498, 0.2163, 0.2103, 0.0185]
+        },
+        {
+          "text": "※合体シークエンスの間はBGMを鳴らしたり、\n停止したりすることはできません。",
+          "translation": "*You cannot start or stop the BGM during the combination sequence.",
+          "bbox": [0.1021, 0.2705, 0.4133, 0.0352]
+        },
+        {
+          "text": "クワガタトリガーを1秒以上引っ張ります。\nギラモード/ヤンマモード/ヒメノモード/\nリタモード/カグラギモード\nBGMが再生されている場合、BGMを停止し、\n「シュゴッド大集合」 のBGMが流れます。\n同時に、 「キングオージャーの合体音」が\n鳴ります。 その後、 「キングオージャー\n合体完了音」が鳴ります。",
+          "translation": "Pull and hold the Kuwagata Trigger for at least 1 second.\nGira Mode / Yanma Mode / Himeno Mode /\nRita Mode / Kaguragi Mode\nIf BGM is playing, it will stop and the \"Shugod Grand Assembly\" BGM will play.\nAt the same time, the \"King-Ohger combination\" sound will play. After that, the \"King-Ohger combination complete\" sound will play.",
+          "bbox": [0.0997, 0.3367, 0.4151, 0.1746]
+        },
+        {
+          "text": "キングオージャー (前期) モード",
+          "translation": "King-Ohger (Early) Mode",
+          "bbox": [0.1106, 0.534, 0.2707, 0.0153]
+        },
+        {
+          "text": "◆BGMが再生されている場合、BGMを停止し、\n「シュゴッド大集合」 のBGMが流れます。\n同時に、 「レジェンドキングオージャーの合体音」\nが鳴ります。 その後、「レジェンド\nキングオージャー合体完了音が鳴ります。",
+          "translation": "If BGM is playing, it will stop and the \"Shugod Grand Assembly\" BGM will play.\nAt the same time, the \"Legend King-Ohger combination\" sound will play. After that, the \"Legend King-Ohger combination complete\" sound will play.",
+          "bbox": [0.11, 0.5646, 0.4073, 0.0977]
+        },
+        {
+          "text": "キングオージャー(後期) モード\nBGMが再生されている場合、\nBGMが停止します。",
+          "translation": "King-Ohger (Late) Mode\nIf BGM is playing,\nthe BGM will stop.",
+          "bbox": [0.1172, 0.686, 0.2719, 0.0681]
+        },
+        {
+          "text": "同時に、 「エクストリームキングオージャーの\n合体音」が鳴ります。 その後、\n「エクストリームキングオージャー\n合体完了音」が鳴ります。",
+          "translation": "At the same time, the \"Extreme King-Ohger combination\" sound will play. After that, the \"Extreme King-Ohger combination complete\" sound will play.",
+          "bbox": [0.119, 0.7587, 0.3795, 0.0783]
+        },
+        {
+          "text": "☆どのモードでも合体音が流れている間に\nトリガーを押すと、合体完了音まで\nスキップすることができます。",
+          "translation": "☆ In any mode, while the combination sound is playing, pressing the trigger will skip ahead to the combination completion sound.",
+          "bbox": [0.1094, 0.8578, 0.3764, 0.056]
+        },
+        {
+          "text": "11",
+          "translation": "11",
+          "bbox": [0.4828, 0.9662, 0.0338, 0.0139]
+        },
+        {
+          "text": "クワガタトリガー",
+          "translation": "Kuwagata Trigger",
+          "bbox": [0.6236, 0.3108, 0.1245, 0.0116]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-11.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0375, 0.0329, 0.1662, 0.0162]
+        },
+        {
+          "text": "矢印一覧 ■■■ 取り付けます。 取り外します。 動かします。",
+          "translation": "Arrow Legend ■■■ Attach. Remove. Move.",
+          "bbox": [0.2628, 0.035, 0.6785, 0.015]
+        },
+        {
+          "text": "オージャカリバー遊び",
+          "translation": "Playing with the Ohger Calibur",
+          "bbox": [0.3474, 0.1209, 0.3051, 0.0214]
+        },
+        {
+          "text": "凌牙一閃シークエンス",
+          "translation": "Ryoga Issen Sequence",
+          "bbox": [0.1227, 0.1996, 0.2647, 0.0175]
+        },
+        {
+          "text": "①シーン再現ボタンとBGMボタンを同時に押します。",
+          "translation": "① Press the Scene Reproduction Button and the BGM Button at the same time.",
+          "bbox": [0.0991, 0.2564, 0.4435, 0.0137]
+        },
+        {
+          "text": "→起動音が鳴ります。",
+          "translation": "→ A startup sound will play.",
+          "bbox": [0.1069, 0.2748, 0.1843, 0.015]
+        },
+        {
+          "text": "☆起動音が完全に鳴り終わる前にトリガーを\n押すと、一部音声をスキップできます。",
+          "translation": "☆ If you press the trigger before the startup sound finishes completely, you can skip part of the audio.",
+          "bbox": [0.1088, 0.3047, 0.3831, 0.0325]
+        },
+        {
+          "text": "②クワガタトリガー/トンボトリガー/\nカマキリトリガー/パピヨントリガー/\nハチトリガーのいずれか操作します。\n操作したトリガーに応じた 「操作音」が鳴り、",
+          "translation": "② Operate one of the following triggers: Kuwagata Trigger / Tonbo Trigger / Kamakiri Trigger / Papillon Trigger / Hachi Trigger. An \"operation sound\" corresponding to the trigger you operated will play,",
+          "bbox": [0.0985, 0.3547, 0.3879, 0.0726]
+        },
+        {
+          "text": "LEDが発光します。\n③トリガーを押します。\nモードに応じた 「王鎧武装凌牙一閃」の",
+          "translation": "The LED lights up.\n③ Press the trigger.\nThe mode-specific line of \"王鎧武装凌牙一閃\" will play.",
+          "bbox": [0.0985, 0.4308, 0.3535, 0.0538]
+        },
+        {
+          "text": "セリフが流れます。\n④③の後にトリガーを押します。\n「凌牙一閃変身音」が鳴ります。",
+          "translation": "A line of dialogue will play.\n④ Press the trigger after step ③.\nThe \"凌牙一閃変身音\" (Ryoga Issen transformation sound) will play.",
+          "bbox": [0.0991, 0.488, 0.2858, 0.0526]
+        },
+        {
+          "text": "シーン再現ボタン ①",
+          "translation": "Scene Reproduction Button ①",
+          "bbox": [0.6133, 0.2338, 0.1553, 0.0158]
+        },
+        {
+          "text": "BGMボタン ①",
+          "translation": "BGM Button ①",
+          "bbox": [0.6429, 0.3162, 0.1257, 0.0141]
+        },
+        {
+          "text": "(34)",
+          "translation": "(34)",
+          "bbox": [0.7208, 0.538, 0.0314, 0.0073]
+        },
+        {
+          "text": "その後、凌牙一閃変身状態になります。",
+          "translation": "After that, it will enter the Ryoga Issen transformation state.",
+          "bbox": [0.1208, 0.5457, 0.3329, 0.0141]
+        },
+        {
+          "text": "②",
+          "translation": "②",
+          "bbox": [0.481, 0.6222, 0.0121, 0.0068]
+        },
+        {
+          "text": "クワガタトリガー",
+          "translation": "Kuwagata Trigger",
+          "bbox": [0.284, 0.7222, 0.1239, 0.0107]
+        },
+        {
+          "text": "トンボトリガー",
+          "translation": "Tonbo Trigger",
+          "bbox": [0.4937, 0.7205, 0.1039, 0.0115]
+        },
+        {
+          "text": "12",
+          "translation": "12",
+          "bbox": [0.484, 0.9697, 0.0356, 0.0141]
+        },
+        {
+          "text": "カマキリトリガー",
+          "translation": "Kamakiri Trigger",
+          "bbox": [0.7855, 0.7205, 0.1239, 0.0124]
+        },
+        {
+          "text": "パピヨントリガー",
+          "translation": "Papillon Trigger",
+          "bbox": [0.5601, 0.7688, 0.1245, 0.0111]
+        },
+        {
+          "text": "ハチトリガー",
+          "translation": "Hachi Trigger",
+          "bbox": [0.7299, 0.7684, 0.0931, 0.0111]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-12.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0369, 0.0333, 0.1668, 0.0162]
+        },
+        {
+          "text": "矢印一覧 ◆取り付けます。 | 取り外します。 動かします。",
+          "translation": "Arrow legend ◆ Attach. | Remove. Move.",
+          "bbox": [0.2628, 0.0338, 0.6761, 0.0167]
+        },
+        {
+          "text": "オージャカリバー遊び",
+          "translation": "Playing with the Ohja Calibur",
+          "bbox": [0.3474, 0.1209, 0.3057, 0.0218]
+        },
+        {
+          "text": "凌牙一閃変身状態",
+          "translation": "Ryoga Issen Transformation State",
+          "bbox": [0.148, 0.1991, 0.2151, 0.0188]
+        },
+        {
+          "text": "①クワガタトリガー/トンボトリガー/\nカマキリトリガー/パピヨントリガー/\nハチトリガーを操作します。",
+          "translation": "① Operate the Kuwagata Trigger / Tonbo Trigger / Kamakiri Trigger / Papillon Trigger / Hachi Trigger.",
+          "bbox": [0.0991, 0.256, 0.3414, 0.0521]
+        },
+        {
+          "text": "操作したトリガーに応じた「操作音」が\n鳴り、LEDが発光します。",
+          "translation": "An \"operation sound\" corresponding to the trigger you operated will play, and the LED will light.",
+          "bbox": [0.1196, 0.3137, 0.3239, 0.0321]
+        },
+        {
+          "text": "トンボトリガー",
+          "translation": "Tonbo Trigger",
+          "bbox": [0.0961, 0.5056, 0.1045, 0.0111]
+        },
+        {
+          "text": "②トリガーを短押しします。",
+          "translation": "② Press the trigger briefly.",
+          "bbox": [0.0991, 0.541, 0.2387, 0.0132]
+        },
+        {
+          "text": "カマキリトリガー",
+          "translation": "Kamakiri Trigger",
+          "bbox": [0.3323, 0.5056, 0.1239, 0.0107]
+        },
+        {
+          "text": "トリガーを短押しするたびに、\n「攻撃音1」、 「攻撃音2」、 「攻撃音3」、\n「セリフ」が下記の順に鳴ります。",
+          "translation": "Each time you press the trigger briefly, \"Attack Sound 1\", \"Attack Sound 2\", \"Attack Sound 3\" and \"Dialogue\" will play in the order shown below.",
+          "bbox": [0.1221, 0.5607, 0.313, 0.0509]
+        },
+        {
+          "text": "クワガタトリガー ①",
+          "translation": "Kuwagata Trigger ①",
+          "bbox": [0.5076, 0.2474, 0.1517, 0.0137]
+        },
+        {
+          "text": "10",
+          "translation": "10",
+          "bbox": [0.7057, 0.297, 0.0502, 0.0265]
+        },
+        {
+          "text": "パピヨントリガー",
+          "translation": "Papillon Trigger",
+          "bbox": [0.5462, 0.3726, 0.1233, 0.012]
+        },
+        {
+          "text": "ハチトリガー",
+          "translation": "Hachi Trigger",
+          "bbox": [0.7166, 0.3722, 0.0924, 0.0115]
+        },
+        {
+          "text": "②③",
+          "translation": "②③",
+          "bbox": [0.6218, 0.6141, 0.0332, 0.0094]
+        },
+        {
+          "text": "①攻撃音1",
+          "translation": "① Attack Sound 1",
+          "bbox": [0.1311, 0.641, 0.0622, 0.0085]
+        },
+        {
+          "text": "⑤ 攻撃音1",
+          "translation": "⑤ Attack Sound 1",
+          "bbox": [0.2483, 0.6402, 0.0622, 0.0098]
+        },
+        {
+          "text": "⑨攻撃音",
+          "translation": "⑨ Attack Sound",
+          "bbox": [0.3656, 0.6415, 0.0544, 0.0081]
+        },
+        {
+          "text": "3 攻撃音1",
+          "translation": "③ Attack Sound 1",
+          "bbox": [0.4882, 0.641, 0.058, 0.0085]
+        },
+        {
+          "text": "⑦ 攻撃音1",
+          "translation": "⑦ Attack Sound 1",
+          "bbox": [0.5994, 0.641, 0.0634, 0.0085]
+        },
+        {
+          "text": "②攻撃音2",
+          "translation": "② Attack Sound 2",
+          "bbox": [0.1311, 0.6833, 0.064, 0.0077]
+        },
+        {
+          "text": "⑥攻撃音2",
+          "translation": "⑥ Attack Sound 2",
+          "bbox": [0.2483, 0.6833, 0.0647, 0.0081]
+        },
+        {
+          "text": "⑩ 攻撃音2",
+          "translation": "⑩ Attack Sound 2",
+          "bbox": [0.3656, 0.6833, 0.064, 0.0077]
+        },
+        {
+          "text": "⑩ 攻撃音2",
+          "translation": "⑩ Attack Sound 2",
+          "bbox": [0.4828, 0.6833, 0.0634, 0.0081]
+        },
+        {
+          "text": "⑩8 攻撃音2",
+          "translation": "⑩8Attack Sound 2",
+          "bbox": [0.5994, 0.6833, 0.0647, 0.0081]
+        },
+        {
+          "text": "③攻撃音3",
+          "translation": "③ Attack Sound 3",
+          "bbox": [0.1311, 0.7244, 0.0647, 0.0094]
+        },
+        {
+          "text": "⑦攻撃音3",
+          "translation": "⑦ Attack Sound 3",
+          "bbox": [0.2483, 0.7252, 0.0647, 0.0081]
+        },
+        {
+          "text": "① 攻撃音3",
+          "translation": "① Attack Sound 3",
+          "bbox": [0.3656, 0.7252, 0.0647, 0.0085]
+        },
+        {
+          "text": "⑩攻撃音3",
+          "translation": "⑩ Attack Sound 3",
+          "bbox": [0.4828, 0.7252, 0.0647, 0.0081]
+        },
+        {
+          "text": "⑩9 攻撃音3",
+          "translation": "⑩9Attack Sound 3",
+          "bbox": [0.6, 0.7252, 0.064, 0.0085]
+        },
+        {
+          "text": "④セリフ1",
+          "translation": "④ Dialogue 1",
+          "bbox": [0.1323, 0.7667, 0.0598, 0.0085]
+        },
+        {
+          "text": "⑧セリフ2",
+          "translation": "⑧ Dialogue 2",
+          "bbox": [0.2495, 0.7667, 0.0604, 0.0085]
+        },
+        {
+          "text": "1 セリフ 3",
+          "translation": "1 Dialogue 3",
+          "bbox": [0.3668, 0.7671, 0.0622, 0.0077]
+        },
+        {
+          "text": "⑩6 セリフ 4",
+          "translation": "⑩6 Dialogue 4",
+          "bbox": [0.484, 0.7671, 0.0634, 0.0081]
+        },
+        {
+          "text": "20 セリフ 5",
+          "translation": "20 Dialogue 5",
+          "bbox": [0.6012, 0.7671, 0.0628, 0.0081]
+        },
+        {
+          "text": "③トリガーを1秒以上長押しします。\n・モードに応じた 「凌牙一閃必殺技音」が流れます。\nその後、凌牙一閃シークエンスは終わりとなります。",
+          "translation": "③ Press and hold the trigger for 1 second or longer.\n・The \"Ryoga Issen Finishing Move Sound\" for the current mode will play.\nAfter that, the Ryoga Issen sequence will end.",
+          "bbox": [0.0991, 0.8205, 0.4634, 0.0517]
+        },
+        {
+          "text": "☆「凌牙一閃必殺技音」が流れている間にトリガーを押すと、一部音声をスキップできます。",
+          "translation": "☆ While the \"Ryoga Issen Finishing Move Sound\" is playing, pressing the trigger will skip part of the audio.",
+          "bbox": [0.1118, 0.8889, 0.768, 0.0132]
+        },
+        {
+          "text": "13",
+          "translation": "13",
+          "bbox": [0.484, 0.9697, 0.0344, 0.012]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-13.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0369, 0.0329, 0.1668, 0.0167]
+        },
+        {
+          "text": "矢印一覧 ◆取り付けます。",
+          "translation": "Arrow Legend ◆ Attach.",
+          "bbox": [0.2628, 0.0333, 0.2828, 0.0162]
+        },
+        {
+          "text": "取り外します。 動かします。",
+          "translation": "Detach. Move.",
+          "bbox": [0.6332, 0.0346, 0.3057, 0.0158]
+        },
+        {
+          "text": "BGMを鳴らす",
+          "translation": "Play BGM",
+          "bbox": [0.1686, 0.1983, 0.1746, 0.0188]
+        },
+        {
+          "text": "①BGMボタンを押します。",
+          "translation": "① Press the BGM button.",
+          "bbox": [0.0991, 0.2491, 0.2399, 0.0132]
+        },
+        {
+          "text": "なりきり遊び",
+          "translation": "Pretend Play",
+          "bbox": [0.4085, 0.1205, 0.1843, 0.0222]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.5148, 0.2483, 0.0326, 0.0111]
+        },
+        {
+          "text": "BGM",
+          "translation": "BGM",
+          "bbox": [0.6943, 0.2491, 0.0447, 0.0081]
+        },
+        {
+          "text": "順番に音楽が流れます。\n② もう一度、 BGM ボタンを押します。",
+          "translation": "The music will play in sequence.\n② Press the BGM button again.",
+          "bbox": [0.0997, 0.2684, 0.3257, 0.0321]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.5263, 0.2761, 0.0073, 0.0064]
+        },
+        {
+          "text": "俺様が世界を支配する!",
+          "translation": "I'll rule the world!",
+          "bbox": [0.5885, 0.2748, 0.1565, 0.0103]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.5245, 0.2996, 0.0127, 0.0081]
+        },
+        {
+          "text": "全力キング (TVサイズ)",
+          "translation": "Full-Power King (TV size)",
+          "bbox": [0.5885, 0.2983, 0.1589, 0.0103]
+        },
+        {
+          "text": "音楽が1秒かけてゆっくり停止します。",
+          "translation": "The music will slowly stop over 1 second.",
+          "bbox": [0.1202, 0.3068, 0.3287, 0.0132]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.5251, 0.3235, 0.0127, 0.0073]
+        },
+        {
+          "text": "降臨せよ!キングオージャー !",
+          "translation": "Descend! King-Ohger!",
+          "bbox": [0.5891, 0.3214, 0.1861, 0.0115]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.5239, 0.347, 0.0133, 0.0073]
+        },
+        {
+          "text": "シュゴッド大集合",
+          "translation": "Shugod Grand Gathering",
+          "bbox": [0.5897, 0.3457, 0.1094, 0.0103]
+        },
+        {
+          "text": "51",
+          "translation": "51",
+          "bbox": [0.5257, 0.3697, 0.0103, 0.0098]
+        },
+        {
+          "text": "集結せし、5人の王",
+          "translation": "Five Kings Assembled",
+          "bbox": [0.5891, 0.3697, 0.1233, 0.0107]
+        },
+        {
+          "text": "※5の後は1に戻ります。",
+          "translation": "*After step 5, it returns to step 1.",
+          "bbox": [0.4816, 0.394, 0.1625, 0.0094]
+        },
+        {
+          "text": "BGMボタン",
+          "translation": "BGM Button",
+          "bbox": [0.2163, 0.4979, 0.0937, 0.0115]
+        },
+        {
+          "text": "モードを変える",
+          "translation": "Change Modes",
+          "bbox": [0.1668, 0.5701, 0.1801, 0.0184]
+        },
+        {
+          "text": "シーン再現ボタンを\n1秒以上長押しします。",
+          "translation": "Press and hold the Scene Reproduction button for at least one second.",
+          "bbox": [0.1009, 0.6244, 0.1994, 0.0325]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.4586, 0.6201, 0.0332, 0.0115]
+        },
+        {
+          "text": "モード",
+          "translation": "Mode",
+          "bbox": [0.5976, 0.6205, 0.0489, 0.0107]
+        },
+        {
+          "text": "モード切り替え音",
+          "translation": "Mode change sound",
+          "bbox": [0.7547, 0.6201, 0.1281, 0.0115]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.4713, 0.6487, 0.0066, 0.0064]
+        },
+        {
+          "text": "|ノーマルモード",
+          "translation": "|Normal Mode",
+          "bbox": [0.5094, 0.6453, 0.1033, 0.0115]
+        },
+        {
+          "text": "|剣撃音",
+          "translation": "Sword-slash sound",
+          "bbox": [0.7208, 0.6474, 0.0526, 0.0094]
+        },
+        {
+          "text": "→表の順にモードが切り替わります。",
+          "translation": "→ The modes switch in the order shown in the table.",
+          "bbox": [0.0997, 0.6624, 0.313, 0.0137]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.4689, 0.6714, 0.0121, 0.0077]
+        },
+        {
+          "text": "キングオージャー(前期)モード",
+          "translation": "King-Ohger (Early) Mode",
+          "bbox": [0.5172, 0.6701, 0.194, 0.0115]
+        },
+        {
+          "text": "王様戦隊キングオージャー!",
+          "translation": "Ohsama Sentai King-Ohger!",
+          "bbox": [0.7275, 0.6701, 0.171, 0.0115]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.4695, 0.6953, 0.0127, 0.0073]
+        },
+        {
+          "text": "キングオージャー(後期)モード",
+          "translation": "King-Ohger (Late) Mode",
+          "bbox": [0.5172, 0.694, 0.194, 0.0111]
+        },
+        {
+          "text": "キングオージャー!",
+          "translation": "King-Ohger!",
+          "bbox": [0.7281, 0.694, 0.1202, 0.0111]
+        },
+        {
+          "text": "※3の後は1に戻ります。",
+          "translation": "*After step 3, return to step 1.",
+          "bbox": [0.4423, 0.7171, 0.1619, 0.0098]
+        },
+        {
+          "text": "【側面】 シーン再現ボタン",
+          "translation": "[Side] Scene Reproduction Button",
+          "bbox": [0.0882, 0.738, 0.2145, 0.0124]
+        },
+        {
+          "text": "14",
+          "translation": "14",
+          "bbox": [0.484, 0.9688, 0.0375, 0.0132]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-14.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0369, 0.0284, 0.1662, 0.0138]
+        },
+        {
+          "text": "矢印一覧",
+          "translation": "Arrow Guide",
+          "bbox": [0.2628, 0.0299, 0.0798, 0.0124]
+        },
+        {
+          "text": "■ 取り付けます。 取り外します。動かします。",
+          "translation": "■ Attach. Detach. Move.",
+          "bbox": [0.3855, 0.0299, 0.5547, 0.0128]
+        },
+        {
+          "text": "②変身シークエンス",
+          "translation": "② Transformation sequence",
+          "bbox": [0.1366, 0.1698, 0.2375, 0.0157]
+        },
+        {
+          "text": "変身遊びではモードに関係なく、",
+          "translation": "In transformation play, regardless of mode,",
+          "bbox": [0.0991, 0.2125, 0.284, 0.0113]
+        },
+        {
+          "text": "最初に操作したトリガーに応じた",
+          "translation": "the character's transformation sequence corresponding to the first trigger operated",
+          "bbox": [0.0997, 0.2289, 0.2876, 0.0117]
+        },
+        {
+          "text": "なりきり遊び",
+          "translation": "Role-play",
+          "bbox": [0.4079, 0.1024, 0.1843, 0.019]
+        },
+        {
+          "text": "キャラクターの変身シークエンスが始まります。",
+          "translation": "The character's transformation sequence begins.",
+          "bbox": [0.1003, 0.2449, 0.4169, 0.0113]
+        },
+        {
+          "text": "クワガタトリガー ① ⑥",
+          "translation": "Kuwagata Trigger ① ⑥",
+          "bbox": [0.623, 0.2427, 0.168, 0.0124]
+        },
+        {
+          "text": "①でクワガタトリガー操作した場合を",
+          "translation": "As an example, when the Kuwagata Trigger is operated at ①,",
+          "bbox": [0.0991, 0.2609, 0.3275, 0.012]
+        },
+        {
+          "text": "例に説明します。",
+          "translation": "We will explain using an example.",
+          "bbox": [0.0991, 0.2777, 0.1468, 0.0109]
+        },
+        {
+          "text": "①トリガーを操作します。\nトリガーに応じた\n「トリガー操作音」が鳴り、\n「変身待機音」が鳴り、LEDが光ります。\n☆変身待機音中にトリガーを長押し\nすると、 「王鎧武装」 が鳴ります。",
+          "translation": "① Operate the trigger.\nThe trigger's corresponding \"trigger operation sound\" will play, then \"transformation standby sound ①\" will play, and the LED will light.\n☆ If you press and hold the trigger while \"transformation standby sound ①\" is playing, \"王鎧武装\" will play.",
+          "bbox": [0.0991, 0.3109, 0.374, 0.0999]
+        },
+        {
+          "text": "② トンボトリガーを操作します。",
+          "translation": "② Operate the Tonbo Trigger.",
+          "bbox": [0.0985, 0.4238, 0.2755, 0.0113]
+        },
+        {
+          "text": "「操作音」 と 「変身待機音②」が鳴り、",
+          "translation": "The \"operation sound\" and \"transformation standby sound ②\" will play,",
+          "bbox": [0.1215, 0.4402, 0.3009, 0.0117]
+        },
+        {
+          "text": "LEDの発光が黄色に変わります。",
+          "translation": "and the LED light will change to yellow.",
+          "bbox": [0.1215, 0.4566, 0.284, 0.0106]
+        },
+        {
+          "text": "③カマキリトリガーを操作します。",
+          "translation": "③ Operate the Kamakiri Trigger.",
+          "bbox": [0.0997, 0.4723, 0.2973, 0.0124]
+        },
+        {
+          "text": "「操作音」と「変身待機音3」が鳴り、",
+          "translation": "The \"operation sound\" and \"transformation standby sound ③\" will play,",
+          "bbox": [0.1221, 0.4887, 0.3015, 0.012]
+        },
+        {
+          "text": "LEDの発光が紫色に変わります。",
+          "translation": "and the LED light will change to purple.",
+          "bbox": [0.1202, 0.5051, 0.2852, 0.0106]
+        },
+        {
+          "text": "④パピヨントリガーを操作します。",
+          "translation": "④ Operate the Papillon Trigger.",
+          "bbox": [0.0991, 0.5208, 0.2979, 0.0124]
+        },
+        {
+          "text": "◆「操作音」と「変身待機音④」 が鳴り、",
+          "translation": "◆ The \"operation sound\" and \"transformation standby sound ④\" will play,",
+          "bbox": [0.1106, 0.5372, 0.3124, 0.012]
+        },
+        {
+          "text": "LEDの発光が白色に変わります。",
+          "translation": "and the LED light will change to white.",
+          "bbox": [0.1202, 0.5536, 0.2852, 0.0109]
+        },
+        {
+          "text": "10",
+          "translation": "10",
+          "bbox": [0.8127, 0.2861, 0.0622, 0.023]
+        },
+        {
+          "text": "カマキリトリガー",
+          "translation": "Kamakiri Trigger",
+          "bbox": [0.7855, 0.6148, 0.1233, 0.0098]
+        },
+        {
+          "text": "パピヨントリガー",
+          "translation": "Papillon Trigger",
+          "bbox": [0.5607, 0.6556, 0.1227, 0.0095]
+        },
+        {
+          "text": "ハチトリガー",
+          "translation": "Hachi Trigger",
+          "bbox": [0.7299, 0.6552, 0.0931, 0.0095]
+        },
+        {
+          "text": "⑤ハチトリガーを操作します。\n→「操作音」 と 「変身待機音5」 が鳴り、",
+          "translation": "⑤ Operate the Hachi Trigger.\n→ The \"operation sound\" and \"transformation standby sound ⑤\" will play,",
+          "bbox": [0.0991, 0.5689, 0.3239, 0.0295]
+        },
+        {
+          "text": "LEDの発光が赤色に変わります。",
+          "translation": "and the LED light will change to red.",
+          "bbox": [0.1208, 0.602, 0.2852, 0.0109]
+        },
+        {
+          "text": "⑥クワガタトリガーを引きます。",
+          "translation": "⑥ Pull the Kuwagata Trigger.",
+          "bbox": [0.0991, 0.6177, 0.2785, 0.0117]
+        },
+        {
+          "text": "「操作音」と「シュゴット登場音」が",
+          "translation": "The \"operation sound\" and the \"シュゴット登場音\" will play,",
+          "bbox": [0.1215, 0.6341, 0.2834, 0.0124]
+        },
+        {
+          "text": "鳴ります。 その後、「クワガタオージャー\n変身音」が鳴ります。",
+          "translation": "and then the \"クワガタオージャー変身音\" will play.",
+          "bbox": [0.1202, 0.6505, 0.3353, 0.0281]
+        },
+        {
+          "text": "☆「シュゴット登場音」の間に\nトリガーを押すと\n「クワガタオージャー変身音」まで\nスキップすることができます。",
+          "translation": "☆ If you press the trigger while the \"シュゴット登場音\" is playing, you can skip ahead to the \"クワガタオージャー変身音.\"",
+          "bbox": [0.1094, 0.6935, 0.3124, 0.0609]
+        },
+        {
+          "text": "トンボトリガー",
+          "translation": "Tonbo Trigger",
+          "bbox": [0.4943, 0.6152, 0.1051, 0.0091]
+        },
+        {
+          "text": "(5)",
+          "translation": "(5)",
+          "bbox": [0.7263, 0.6884, 0.0139, 0.0066]
+        },
+        {
+          "text": "変身する戦士\nクワガタオージャー\nトンボオージャー\nカマキリオージャー\nパピヨンオージャー\nハチオージャー",
+          "translation": "Transforming warriors\nKuwagata-Ohger\nTonbo-Ohger\nKamakiri-Ohger\nPapillon-Ohger\nHachi-Ohger",
+          "bbox": [0.3402, 0.8116, 0.1311, 0.1122]
+        },
+        {
+          "text": "①で操作するトリガー\nクワガタトリガー\nトンボトリガー\nカマキリトリガー\nパピヨントリガー\nハチトリガー",
+          "translation": "Triggers operated at ①\nKuwagata Trigger\nTonbo Trigger\nKamakiri Trigger\nPapillon Trigger\nHachi Trigger",
+          "bbox": [0.4961, 0.8116, 0.1619, 0.1115]
+        },
+        {
+          "text": "⑥で鳴る 「変身音」",
+          "translation": "The \"transformation sound\" that plays at ⑥",
+          "bbox": [0.716, 0.8109, 0.136, 0.0109]
+        },
+        {
+          "text": "「クワガタオージャー変身音」\n「トンボオージャー変身音」\n「カマキリオージャー変身音」\n「パピヨンオージャー変身音」",
+          "translation": "\"Kuwagata-Ohger transformation sound\"\n\"Tonbo-Ohger transformation sound\"\n\"Kamakiri-Ohger transformation sound\"\n\"Papillon-Ohger transformation sound\"",
+          "bbox": [0.6906, 0.8349, 0.1897, 0.0707]
+        },
+        {
+          "text": "「ハチオージャー変身音」",
+          "translation": "\"Hachi-Ohger transformation sound\"",
+          "bbox": [0.6906, 0.9165, 0.1619, 0.0087]
+        },
+        {
+          "text": "15",
+          "translation": "15",
+          "bbox": [0.4834, 0.9741, 0.035, 0.012]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-15.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0375, 0.0566, 0.165, 0.0248]
+        },
+        {
+          "text": "矢印一覧",
+          "translation": "Arrow legend",
+          "bbox": [0.2628, 0.0594, 0.0804, 0.0212]
+        },
+        {
+          "text": "■ 取り付けます。 取り外します。 |",
+          "translation": "■ Attach. Remove. |",
+          "bbox": [0.3855, 0.0559, 0.4054, 0.0262]
+        },
+        {
+          "text": "| ◆動かします。",
+          "translation": "| ◆Move.",
+          "bbox": [0.7819, 0.0537, 0.1583, 0.029]
+        },
+        {
+          "text": "攻撃シークエンス",
+          "translation": "Attack sequence",
+          "bbox": [0.1498, 0.3296, 0.2103, 0.029]
+        },
+        {
+          "text": "①通常攻撃",
+          "translation": "① Normal attack",
+          "bbox": [0.0997, 0.4102, 0.116, 0.0262]
+        },
+        {
+          "text": "・トリガーを短押しする度に",
+          "translation": "・Each time you press the trigger briefly",
+          "bbox": [0.1009, 0.4533, 0.2332, 0.0219]
+        },
+        {
+          "text": "3種類の攻撃音が順番に流れます。",
+          "translation": "Three types of attack sounds will play in order.",
+          "bbox": [0.1003, 0.4851, 0.3021, 0.0212]
+        },
+        {
+          "text": "なりきり遊び",
+          "translation": "Role-play",
+          "bbox": [0.4091, 0.1987, 0.1831, 0.0375]
+        },
+        {
+          "text": "※変身シークエンスを終了する前に\nこの遊びを行うと、LEDが発光しません。",
+          "translation": "※If you perform this play before the transformation sequence finishes, the LED will not light.",
+          "bbox": [0.1015, 0.5156, 0.3674, 0.0537]
+        },
+        {
+          "text": "モード",
+          "translation": "Mode",
+          "bbox": [0.1734, 0.6181, 0.0483, 0.017]
+        },
+        {
+          "text": "LED発光",
+          "translation": "LED lighting",
+          "bbox": [0.3263, 0.6188, 0.0749, 0.017]
+        },
+        {
+          "text": "ノーマルモード",
+          "translation": "Normal mode",
+          "bbox": [0.0943, 0.662, 0.1015, 0.0163]
+        },
+        {
+          "text": "赤",
+          "translation": "Red",
+          "bbox": [0.3275, 0.6627, 0.0151, 0.0156]
+        },
+        {
+          "text": "キングオージャー(前期) モード",
+          "translation": "King-Ohger (early) mode",
+          "bbox": [0.0949, 0.7016, 0.2048, 0.0184]
+        },
+        {
+          "text": "7色",
+          "translation": "7 colors",
+          "bbox": [0.3281, 0.7023, 0.0278, 0.0156]
+        },
+        {
+          "text": "キングオージャー(後期) モード",
+          "translation": "King-Ohger (late) mode",
+          "bbox": [0.0955, 0.7412, 0.2042, 0.017]
+        },
+        {
+          "text": "7色",
+          "translation": "7 colors",
+          "bbox": [0.3281, 0.7419, 0.0278, 0.0156]
+        },
+        {
+          "text": "16",
+          "translation": "16",
+          "bbox": [0.4828, 0.9491, 0.0381, 0.0219]
+        },
+        {
+          "text": "トリガー",
+          "translation": "Trigger",
+          "bbox": [0.7492, 0.5552, 0.0707, 0.0205]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-16.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0369, 0.0402, 0.1656, 0.0198]
+        },
+        {
+          "text": "矢印一覧",
+          "translation": "Arrow guide",
+          "bbox": [0.2628, 0.0428, 0.0798, 0.0177]
+        },
+        {
+          "text": "■ 取り付けます。 取り外します。 動かします。",
+          "translation": "■ Attach. Detach. Move.",
+          "bbox": [0.3855, 0.0428, 0.5547, 0.0183]
+        },
+        {
+          "text": "なりきり遊び",
+          "translation": "Pretend Play",
+          "bbox": [0.4085, 0.1472, 0.1825, 0.0271]
+        },
+        {
+          "text": "攻撃シークエンス",
+          "translation": "Attack sequence",
+          "bbox": [0.1498, 0.2432, 0.2103, 0.0219]
+        },
+        {
+          "text": "②必殺技遊び\n①トリガーを長押しします。\nLEDが発光し、「必殺技待機音」が\n鳴ります。\n②クワガタトリガーを3回引きます。\nレバーを操作するたびに、\nLEDが発光し、 「効果音」 が鳴った後、\n「最終必殺技待機音」が鳴ります。\n③トリガーを短押しします。\nLEDが発光し、 「必殺技音」が",
+          "translation": "② Special Move Play\n① Press and hold the trigger.\n➜ The LED lights up, and the \"Special Move Standby Sound\" plays.\n② Pull the Kuwagata Trigger three times.\n➜ Each time you operate the lever, the LED lights up and an \"effect sound\" plays; after that the \"Final Special Move Standby Sound\" plays.\n③ Press the trigger briefly.\n➜ The LED lights up, and the \"Special Move Sound\"",
+          "bbox": [0.0991, 0.3022, 0.3341, 0.2343]
+        },
+        {
+          "text": "鳴ります。",
+          "translation": "plays.",
+          "bbox": [0.1208, 0.5433, 0.0828, 0.0162]
+        },
+        {
+          "text": "※②で同じトリガーを3回操作する前に\n別のトリガーを操作すると、\n1回操作した状態に戻ります。\n※②でグリップのトリガーを押すと\nキャンセルされます。",
+          "translation": "※ In ②, if you operate a different trigger before operating the same trigger three times, the sequence resets to the one-operation state.\n※ In ②, pressing the grip trigger cancels the sequence.",
+          "bbox": [0.1009, 0.5715, 0.3372, 0.1075]
+        },
+        {
+          "text": "②で操作する\nトリガー",
+          "translation": "Trigger operated in ②",
+          "bbox": [0.1184, 0.7291, 0.1009, 0.0324]
+        },
+        {
+          "text": "③で鳴る 「必殺技音」",
+          "translation": "The \"Special Move Sound\" that plays at ③",
+          "bbox": [0.2822, 0.738, 0.1511, 0.0136]
+        },
+        {
+          "text": "クワガタトリガー\nトンボトリガー\nカマキリトリガー",
+          "translation": "Kuwagata Trigger\nTonbo Trigger\nKamakiri Trigger",
+          "bbox": [0.1124, 0.7782, 0.1118, 0.0699]
+        },
+        {
+          "text": "パピヨントリガー\nハチトリガー",
+          "translation": "Papillon Trigger\nHachi Trigger",
+          "bbox": [0.1124, 0.8648, 0.1118, 0.0407]
+        },
+        {
+          "text": "「クワガタオージャー必殺技音」\n「トンボオージャー必殺技音」\n「カマキリオージャー必殺技音」\n「パピヨンオージャー必殺技音」\n「ハチオージャー必殺技音」",
+          "translation": "\"Kuwagata Ohger Special Move Sound\"\n\"Tonbo Ohger Special Move Sound\"\n\"Kamakiri Ohger Special Move Sound\"\n\"Papillon Ohger Special Move Sound\"\n\"Hachi Ohger Special Move Sound\"",
+          "bbox": [0.2592, 0.7792, 0.2048, 0.1294]
+        },
+        {
+          "text": "17",
+          "translation": "17",
+          "bbox": [0.4846, 0.964, 0.0332, 0.0157]
+        },
+        {
+          "text": "(2",
+          "translation": "(2",
+          "bbox": [0.7559, 0.297, 0.0127, 0.0099]
+        },
+        {
+          "text": "クワガタトリガー",
+          "translation": "Kuwagata Trigger",
+          "bbox": [0.597, 0.322, 0.1239, 0.0125]
+        },
+        {
+          "text": "①③",
+          "translation": "①③",
+          "bbox": [0.7088, 0.6806, 0.0332, 0.0115]
+        },
+        {
+          "text": "トリガー",
+          "translation": "Trigger",
+          "bbox": [0.7885, 0.5089, 0.0701, 0.0151]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-17.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書 矢印一覧 取り付けます。",
+          "translation": "WEB Instruction Manual — Arrow Legend: Attach.",
+          "bbox": [0.0369, 0.0356, 0.5069, 0.0197]
+        },
+        {
+          "text": "■",
+          "translation": "■",
+          "bbox": [0.3927, 0.0431, 0.0073, 0.008]
+        },
+        {
+          "text": "取り外します。 動かします。",
+          "translation": "Remove. Move.",
+          "bbox": [0.6332, 0.0375, 0.3063, 0.0169]
+        },
+        {
+          "text": "なりきり遊び",
+          "translation": "Role-Play",
+          "bbox": [0.4091, 0.1316, 0.1843, 0.0243]
+        },
+        {
+          "text": "合体シークエンス",
+          "translation": "Combination sequence",
+          "bbox": [0.1498, 0.2186, 0.2103, 0.0187]
+        },
+        {
+          "text": "※合体シークエンスの間はBGMを鳴らしたり、",
+          "translation": "*During the combination sequence, you may not play or stop BGM.",
+          "bbox": [0.1009, 0.2729, 0.4133, 0.0145]
+        },
+        {
+          "text": "停止したりすることはできません。",
+          "translation": "You cannot do so.",
+          "bbox": [0.119, 0.2931, 0.3015, 0.0159]
+        },
+        {
+          "text": "②必殺技遊び",
+          "translation": "② Special Move Play",
+          "bbox": [0.0997, 0.3343, 0.142, 0.0173]
+        },
+        {
+          "text": "クワガタトリガーを1秒以上引っ張ります。",
+          "translation": "Pull the Kuwagata Trigger and hold for at least 1 second.",
+          "bbox": [0.1003, 0.3596, 0.3601, 0.0169]
+        },
+        {
+          "text": "[ノーマルモード",
+          "translation": "[Normal Mode]",
+          "bbox": [0.0997, 0.3862, 0.145, 0.015]
+        },
+        {
+          "text": "BGMが再生されている場合、\nBGMを停止し、「シュゴッド大集合」 の",
+          "translation": "If BGM is playing, it will stop and the \"Shugod Grand Assembly\" BGM will start.",
+          "bbox": [0.1202, 0.419, 0.3293, 0.0356]
+        },
+        {
+          "text": "BGMが流れます。",
+          "translation": "That BGM will play.",
+          "bbox": [0.1208, 0.4593, 0.1625, 0.0159]
+        },
+        {
+          "text": "同時に、 「キングオージャーの合体音」が鳴ります。\nその後、キングオージャー合体完了音が鳴ります。",
+          "translation": "At the same time, the \"King-Ohger combination\" sound will play.\nAfter that, the King-Ohger combination completion sound will play.",
+          "bbox": [0.1202, 0.4808, 0.432, 0.036]
+        },
+        {
+          "text": "キングオージャー (前期) モード\nBGMが再生されている場合、BGMを停止し、\n「シュゴッド大集合」のBGMが流れます。\n同時に、 「レジェンドキングオージャーの合体音」\nが鳴ります。 その後、「レジェンド\nキングオージャー合体完了音が鳴ります。",
+          "translation": "King-Ohger (Early Mode)\nIf BGM is playing, it will stop and the \"Shugod Grand Assembly\" BGM will play.\nAt the same time, the \"Legend King-Ohger combination\" sound will play.\nAfter that, the \"Legend King-Ohger combination completion\" sound will play.",
+          "bbox": [0.11, 0.5398, 0.4169, 0.1297]
+        },
+        {
+          "text": "キングオージャー(後期) モード",
+          "translation": "King-Ohger (Late Mode)",
+          "bbox": [0.1172, 0.6938, 0.2725, 0.0154]
+        },
+        {
+          "text": "BGMが再生されている場合、BGMが停止します。\n同時に、「エクストリームキングオージャーの",
+          "translation": "If BGM is playing, it will stop. At the same time, the \"Extreme King-Ohger combination\" sound will play.",
+          "bbox": [0.1208, 0.7261, 0.4459, 0.036]
+        },
+        {
+          "text": "合体音」が鳴ります。",
+          "translation": "A \"combination\" sound will play.",
+          "bbox": [0.1196, 0.7678, 0.1758, 0.015]
+        },
+        {
+          "text": "その後、「エクストリームキングオージャー\n合体完了音」が鳴ります。",
+          "translation": "After that, the \"Extreme King-Ohger combination completion\" sound will play.",
+          "bbox": [0.1196, 0.7879, 0.368, 0.0365]
+        },
+        {
+          "text": "☆どのモードでも合体音が流れている間に\nトリガーを押すと、合体完了音まで\nスキップすることができます。",
+          "translation": "☆In any mode, while the combination sound is playing, pressing the trigger will skip ahead to the combination completion sound.",
+          "bbox": [0.1094, 0.8488, 0.3746, 0.0557]
+        },
+        {
+          "text": "18",
+          "translation": "18",
+          "bbox": [0.4834, 0.9672, 0.0344, 0.015]
+        },
+        {
+          "text": "クワガタトリガー",
+          "translation": "Kuwagata Trigger",
+          "bbox": [0.6236, 0.3141, 0.1245, 0.0117]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-18.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "Online Instruction Manual",
+          "bbox": [0.0375, 0.0346, 0.165, 0.0145]
+        },
+        {
+          "text": "矢印一覧 ◆ 取り付けます。 |",
+          "translation": "Arrow Legend ◆ Attach.",
+          "bbox": [0.2634, 0.0333, 0.3154, 0.0162]
+        },
+        {
+          "text": "取り外します。 動かします。",
+          "translation": "Remove. Move.",
+          "bbox": [0.6332, 0.0342, 0.3063, 0.0158]
+        },
+        {
+          "text": "なりきり遊び",
+          "translation": "Role-play",
+          "bbox": [0.4091, 0.1205, 0.1837, 0.0214]
+        },
+        {
+          "text": "凌牙一閃シークエンス",
+          "translation": "Ryoga Issen Sequence",
+          "bbox": [0.1233, 0.2, 0.264, 0.0179]
+        },
+        {
+          "text": "シーン再現ボタン ①",
+          "translation": "Scene Reproduction Button ①",
+          "bbox": [0.6133, 0.2338, 0.1553, 0.0158]
+        },
+        {
+          "text": "①シーン再現ボタンとBGMボタンを\n同時に押します。",
+          "translation": "① Press the Scene Reproduction Button and the BGM Button at the same time.",
+          "bbox": [0.0991, 0.256, 0.3281, 0.0333]
+        },
+        {
+          "text": "起動音が鳴ります。",
+          "translation": "A startup sound will play.",
+          "bbox": [0.1269, 0.2949, 0.1619, 0.0128]
+        },
+        {
+          "text": "☆起動音が完全に鳴り終わる前にトリガーを\n押すと、一部音声をスキップできます。\n②クワガタトリガー/トンボトリガー/\nカマキリトリガー/パピヨントリガー/\nハチトリガーを操作します。\n操作したトリガーに応じた操作音が鳴り、",
+          "translation": "☆If you press a trigger before the startup sound finishes, you can skip part of the audio.\n②Operate the Kuwagata Trigger / Tonbo Trigger / Kamakiri Trigger / Papillon Trigger / Hachi Trigger.\nA sound corresponding to the trigger you operated will play, and",
+          "bbox": [0.0997, 0.3205, 0.4006, 0.1154]
+        },
+        {
+          "text": "LEDが発光します。\n③トリガーを押します。\n「凌牙一閃変身音」が鳴ります。\nその後、凌牙一閃変身状態になります。",
+          "translation": "The LED will light up.\n③ Press the trigger.\nThe \"Ryoga Issen transformation\" sound will play.\nAfter that, the toy enters the Ryoga Issen transformation state.",
+          "bbox": [0.0991, 0.4402, 0.3553, 0.0722]
+        },
+        {
+          "text": "クワガタトリガー",
+          "translation": "Kuwagata Trigger",
+          "bbox": [0.2846, 0.7222, 0.1239, 0.0111]
+        },
+        {
+          "text": "トンボトリガー",
+          "translation": "Tonbo Trigger",
+          "bbox": [0.4937, 0.7214, 0.1051, 0.0107]
+        },
+        {
+          "text": "19",
+          "translation": "19",
+          "bbox": [0.4834, 0.9701, 0.0363, 0.0124]
+        },
+        {
+          "text": "BGMボタン ①",
+          "translation": "BGM Button ①",
+          "bbox": [0.6429, 0.3171, 0.1269, 0.0137]
+        },
+        {
+          "text": "カマキリトリガー",
+          "translation": "Kamakiri Trigger",
+          "bbox": [0.7855, 0.7209, 0.1227, 0.012]
+        },
+        {
+          "text": "パピヨントリガー",
+          "translation": "Papillon Trigger",
+          "bbox": [0.5601, 0.7692, 0.1245, 0.0107]
+        },
+        {
+          "text": "ハチトリガー",
+          "translation": "Hachi Trigger",
+          "bbox": [0.7299, 0.7692, 0.0931, 0.0103]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-19.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書 矢印一覧 取り付けます。 |",
+          "translation": "WEB Instruction Manual — Arrow Legend: Attach.",
+          "bbox": [0.0375, 0.0379, 0.5414, 0.0199]
+        },
+        {
+          "text": "取り外します。 動かします。",
+          "translation": "Remove. Move.",
+          "bbox": [0.6332, 0.0389, 0.3069, 0.018]
+        },
+        {
+          "text": "なりきり遊び",
+          "translation": "Role Play",
+          "bbox": [0.4091, 0.137, 0.1843, 0.0243]
+        },
+        {
+          "text": "凌牙一閃変身状態",
+          "translation": "Ryoga Issen Transformation State",
+          "bbox": [0.148, 0.2254, 0.2151, 0.0219]
+        },
+        {
+          "text": "①クワガタトリガー/トンボトリガー/\nカマキリトリガー/パピヨントリガー/\nハチトリガーを操作します。",
+          "translation": "① Operate the Kuwagata Trigger / Dragonfly Trigger / Mantis Trigger / Papillon Trigger / Hachi Trigger.",
+          "bbox": [0.0991, 0.2909, 0.342, 0.0593]
+        },
+        {
+          "text": "操作したトリガーに応じた「操作音」が\n鳴り、LEDが発光します。",
+          "translation": "An operation sound corresponding to the trigger you operated will play, and the LED will light.",
+          "bbox": [0.1202, 0.3565, 0.3239, 0.0364]
+        },
+        {
+          "text": "トンボトリガー",
+          "translation": "Dragonfly Trigger",
+          "bbox": [0.0961, 0.5741, 0.1045, 0.0131]
+        },
+        {
+          "text": "②トリガーを短押しします。",
+          "translation": "② Press the trigger briefly.",
+          "bbox": [0.0991, 0.6153, 0.2387, 0.0146]
+        },
+        {
+          "text": "カマキリトリガー",
+          "translation": "Mantis Trigger",
+          "bbox": [0.3323, 0.5746, 0.1245, 0.0126]
+        },
+        {
+          "text": "クワガタトリガー ①",
+          "translation": "Kuwagata Trigger ①",
+          "bbox": [0.5076, 0.2812, 0.1511, 0.0155]
+        },
+        {
+          "text": "トリガーを短押しするたびに、\n「攻撃音1」、 「攻撃音2」、 「攻撃音3」が鳴ります。",
+          "translation": "Each time you press the trigger briefly, \"Attack Sound 1\", \"Attack Sound 2\", and \"Attack Sound 3\" will play.",
+          "bbox": [0.1215, 0.6372, 0.4103, 0.0374]
+        },
+        {
+          "text": "パピヨントリガー",
+          "translation": "Papillon Trigger",
+          "bbox": [0.5462, 0.424, 0.1239, 0.0131]
+        },
+        {
+          "text": "ハチトリガー",
+          "translation": "Hachi Trigger",
+          "bbox": [0.7172, 0.4235, 0.0918, 0.0131]
+        },
+        {
+          "text": "②③",
+          "translation": "②③",
+          "bbox": [0.626, 0.7013, 0.0338, 0.0112]
+        },
+        {
+          "text": "③トリガーを1秒以上長押しします。\n・モードに応じた「凌牙一閃必殺技音」が流れます。\nその後、凌牙一閃シークエンスは終わりとなります。",
+          "translation": "③ Press and hold the trigger for at least one second.\n・The \"Ryoga Issen Finishing Move\" sound corresponding to the mode will play.\nAfter that, the Ryoga Issen sequence will end.",
+          "bbox": [0.0985, 0.7965, 0.4653, 0.0588]
+        },
+        {
+          "text": "☆「凌牙一閃必殺技音」が流れている間にトリガーを押すと、一部音声をスキップできます。",
+          "translation": "☆ If you press the trigger while the \"Ryoga Issen Finishing Move\" sound is playing, you can skip part of the audio.",
+          "bbox": [0.1118, 0.8732, 0.7722, 0.0155]
+        },
+        {
+          "text": "20",
+          "translation": "20",
+          "bbox": [0.4798, 0.9655, 0.0399, 0.0155]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-20.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "Online Instruction Manual",
+          "bbox": [0.0369, 0.0329, 0.1656, 0.0158]
+        },
+        {
+          "text": "矢印一覧 ■ 取り付けます。 | 取り外します。 動かします。",
+          "translation": "Arrow legend: Attach. | Remove. Move.",
+          "bbox": [0.2634, 0.0338, 0.6767, 0.0167]
+        },
+        {
+          "text": "シュゴッドに選ばれる遊び",
+          "translation": "Play: Being Chosen by Shugod",
+          "bbox": [0.319, 0.1214, 0.3637, 0.0209]
+        },
+        {
+          "text": "シュゴットに選ばれる遊びの間はトンボトリガー/カマキリトリガー/パピヨントリガー/\nハチトリガーを操作しても音声は鳴りません。\nまた、クワガタトリガーを短時間(一秒以内) 操作した場合も音声は鳴りません。",
+          "translation": "While \"Being Chosen by Shugod\" is active, operating the Dragonfly Trigger, Mantis Trigger, Papillon Trigger, or Bee Trigger will not produce any sound. Also, operating the Stag Beetle Trigger for a short time (within one second) will not produce sound.",
+          "bbox": [0.1003, 0.1868, 0.7474, 0.0526]
+        },
+        {
+          "text": "BGMを鳴らす",
+          "translation": "Play BGM",
+          "bbox": [0.1692, 0.2856, 0.1746, 0.0171]
+        },
+        {
+          "text": "①BGMボタンを押します。\n順番に音楽が流れます。\n② もう一度、BGMボタンを押します。\n音楽が1秒かけてゆっくり停止します。",
+          "translation": "① Press the BGM button. The music tracks will play in sequence. ② Press the BGM button again. The music will slowly stop over the course of one second.",
+          "bbox": [0.0997, 0.3399, 0.3498, 0.0727]
+        },
+        {
+          "text": "シーン再現",
+          "translation": "Scene playback",
+          "bbox": [0.1903, 0.5186, 0.1347, 0.0162]
+        },
+        {
+          "text": "BGMボタン",
+          "translation": "BGM Button",
+          "bbox": [0.5511, 0.4109, 0.0931, 0.0107]
+        },
+        {
+          "text": "シーン再現ボタンを短押しします。",
+          "translation": "Press the scene playback button briefly.",
+          "bbox": [0.1009, 0.5703, 0.3015, 0.0137]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.4834, 0.5686, 0.0338, 0.0115]
+        },
+        {
+          "text": "セリフ",
+          "translation": "Dialogue",
+          "bbox": [0.7033, 0.5682, 0.0477, 0.0107]
+        },
+        {
+          "text": "押す度に順番にセリフを再生します。\n※シーン再現ボタンを押すと、",
+          "translation": "Each press plays the lines in order. *When you press the scene playback button,",
+          "bbox": [0.1015, 0.5896, 0.342, 0.0321]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.4961, 0.608, 0.0066, 0.0081]
+        },
+        {
+          "text": "これからキングオージャーで大きな戦いに出る。\n一緒に来てほしい。",
+          "translation": "We're about to head into a big battle with King-Ohger. I want you to come with me.",
+          "bbox": [0.542, 0.5981, 0.3045, 0.0286]
+        },
+        {
+          "text": "他のシークエンスをキャンセルして、\nセリフが鳴ります。",
+          "translation": "It cancels other sequences and plays the line.",
+          "bbox": [0.119, 0.6272, 0.3154, 0.0321]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.4943, 0.6443, 0.0127, 0.0077]
+        },
+        {
+          "text": "僕が必ず守る。一緒に必ず帰る。 絶対だ。",
+          "translation": "I'll protect you without fail. We'll definitely return together. Absolutely.",
+          "bbox": [0.542, 0.643, 0.252, 0.0103]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.4949, 0.6678, 0.0115, 0.0073]
+        },
+        {
+          "text": "チキューの真ん中･･･ 灼熱の地獄ん中突っ込むんだぞ。",
+          "translation": "We're plunging into the very center of the Earth... into a blazing inferno.",
+          "bbox": [0.542, 0.667, 0.3311, 0.0103]
+        },
+        {
+          "text": "【側面】 シーン再現ボタン",
+          "translation": "[Side] Scene playback button",
+          "bbox": [0.0888, 0.6858, 0.2133, 0.0128]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.4937, 0.6917, 0.0133, 0.0073]
+        },
+        {
+          "text": "行くぞ",
+          "translation": "Let's go.",
+          "bbox": [0.5408, 0.6909, 0.0417, 0.0094]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.4949, 0.7157, 0.0121, 0.0068]
+        },
+        {
+          "text": "ずっと花が散るのがきらいだったの。",
+          "translation": "I've always disliked the way flowers scatter.",
+          "bbox": [0.542, 0.7148, 0.229, 0.0094]
+        },
+        {
+          "text": "でも種を飛ばしてもっとたくさんの",
+          "translation": "But if by scattering seeds we can make many more",
+          "bbox": [0.5426, 0.7409, 0.2211, 0.009]
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.4949, 0.7631, 0.0109, 0.0073]
+        },
+        {
+          "text": "花を咲かせるためだと思えば受け入れられる。",
+          "translation": "If I think of it as being to make flowers bloom, I can accept it.",
+          "bbox": [0.5414, 0.7619, 0.2912, 0.0103]
+        },
+        {
+          "text": "ひどいワガママ聞いてくれる?",
+          "translation": "Will you grant a really selfish request?",
+          "bbox": [0.542, 0.7832, 0.1915, 0.0098]
+        },
+        {
+          "text": "7",
+          "translation": "7",
+          "bbox": [0.4937, 0.8102, 0.0133, 0.0081]
+        },
+        {
+          "text": "民とは命なり。民のためには泥にまみれて手を汚す。",
+          "translation": "The people are life. For the people, I will soil my hands and be covered in mud.",
+          "bbox": [0.5414, 0.8097, 0.3245, 0.0098]
+        },
+        {
+          "text": "8",
+          "translation": "8",
+          "bbox": [0.4943, 0.8341, 0.0115, 0.0077]
+        },
+        {
+          "text": "しかし今だけはこの汚れた手を握ってはくれませぬか?",
+          "translation": "But for now, won't you hold this dirty hand?",
+          "bbox": [0.5432, 0.8333, 0.3468, 0.0098]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.4931, 0.8576, 0.0139, 0.009]
+        },
+        {
+          "text": "これは仕事じゃない･･･。 公平でもない･･･。 でも･･･だから･･･。",
+          "translation": "This is not work... It's not fair... But... that's exactly why...",
+          "bbox": [0.5426, 0.8572, 0.3577, 0.0098]
+        },
+        {
+          "text": "10",
+          "translation": "10",
+          "bbox": [0.49, 0.8816, 0.0218, 0.0077]
+        },
+        {
+          "text": "私のために一緒に戦ってくれ。 ずっと・・・一緒だから。",
+          "translation": "Please fight with me for my sake. We'll be together... always.",
+          "bbox": [0.5414, 0.8807, 0.3202, 0.0098]
+        },
+        {
+          "text": "※10の後は1に戻ります。",
+          "translation": "*After 10, it returns to 1.",
+          "bbox": [0.4671, 0.9081, 0.1752, 0.0094]
+        },
+        {
+          "text": "21",
+          "translation": "21",
+          "bbox": [0.4792, 0.9701, 0.0356, 0.0141]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-21.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "Online Instruction Manual",
+          "bbox": [0.0369, 0.0333, 0.1644, 0.0154]
+        },
+        {
+          "text": "矢印一覧 ■取り付けます。 | 取り外します。 動かします。",
+          "translation": "Arrow legend ■ Attach. | Remove. | Move.",
+          "bbox": [0.2628, 0.0338, 0.6767, 0.0162]
+        },
+        {
+          "text": "シュゴッドに選ばれる遊び",
+          "translation": "Game: Being chosen by Shugodd",
+          "bbox": [0.319, 0.1214, 0.3631, 0.0209]
+        },
+        {
+          "text": "シュゴットに選ばれるシークエンス",
+          "translation": "Shugott Selection Sequence",
+          "bbox": [0.0991, 0.1988, 0.406, 0.0175]
+        },
+        {
+          "text": "トリガーを押します。\n→LEDが光り、シュゴットに",
+          "translation": "Press the trigger.\n→ The LED lights, and the sound for the chosen Shugott plays.",
+          "bbox": [0.0997, 0.2505, 0.2314, 0.0333]
+        },
+        {
+          "text": "選ばれた音が鳴ります。",
+          "translation": "The selected sound plays.",
+          "bbox": [0.1196, 0.2894, 0.2024, 0.0133]
+        },
+        {
+          "text": "トリガー",
+          "translation": "Trigger",
+          "bbox": [0.6224, 0.3583, 0.0701, 0.0133]
+        },
+        {
+          "text": "ゴッドキングオージャー合体シークエンス",
+          "translation": "God King-Ohger Combination Sequence",
+          "bbox": [0.0991, 0.5879, 0.4846, 0.0184]
+        },
+        {
+          "text": "クワガタトリガーを1秒以上引っ張ります。",
+          "translation": "Pull and hold the Kuwagata (stag-beetle) trigger for 1 second or longer.",
+          "bbox": [0.0997, 0.6387, 0.3692, 0.0145]
+        },
+        {
+          "text": "「ゴッドキングオージャーの合体音」 が鳴り、 その後、「ゴッドキングオージャー合体完了音」が\n鳴ります。 その後、各キングオージャーのセリフが流れます。\n☆合体音再生中にトリガーを操作すると、合体完了音までスキップできます。",
+          "translation": "The \"God King-Ohger combination\" sound plays, followed by the \"God King-Ohger combination complete\" sound. After that, each King-Ohger's voice lines will play.\n☆ If you operate the trigger while the combination sound is playing, you can skip ahead to the combination completion sound.",
+          "bbox": [0.1088, 0.6575, 0.7843, 0.0573]
+        },
+        {
+          "text": "22",
+          "translation": "22",
+          "bbox": [0.4785, 0.9692, 0.0411, 0.015]
+        },
+        {
+          "text": "セリフ",
+          "translation": "Voice lines",
+          "bbox": [0.5813, 0.7631, 0.0465, 0.0094]
+        },
+        {
+          "text": "王と民、等しく一人!\n一と一、重ねて!\n十重二十重の誓いの力!\nやがて人の理を超え...。\n神へと届く。\n人神融合!\n王鎧無双!",
+          "translation": "King and people, equally one!\nOne and one, layered together!\nThe power of vows, tenfold and twentyfold!\nSoon transcending human reason...\nReaching the gods.\nMan–God fusion!\nUnrivaled royal armor!",
+          "bbox": [0.5118, 0.7879, 0.1511, 0.1167]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-22.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0369, 0.0329, 0.1656, 0.0162]
+        },
+        {
+          "text": "矢印一覧",
+          "translation": "Arrow legend",
+          "bbox": [0.2628, 0.0359, 0.081, 0.0128]
+        },
+        {
+          "text": "■ 取り付けます。 | 取り外します。 動かします。",
+          "translation": "■ Attach. | Remove. | Move.",
+          "bbox": [0.3934, 0.0338, 0.5468, 0.0158]
+        },
+        {
+          "text": "メモリアライズ遊び",
+          "translation": "MEMOREALIZE Play",
+          "bbox": [0.3601, 0.121, 0.2767, 0.0214]
+        },
+        {
+          "text": "詳しい遊び方や音声については、別売りのMEMOREALIZE DATA CARDの\n取扱説明書をご確認ください。",
+          "translation": "For detailed play instructions and audio information, please consult the Instruction Manual for the separately sold MEMOREALIZE DATA CARD.",
+          "bbox": [0.0991, 0.1847, 0.7124, 0.0325]
+        },
+        {
+          "text": "BGMを鳴らす",
+          "translation": "Play BGM",
+          "bbox": [0.1686, 0.2629, 0.1752, 0.018]
+        },
+        {
+          "text": "①BGMボタンを押します。\n順番に音楽が流れます。\n②もう一度、 BGM ボタンを押します。\n音楽が1秒かけてゆっくり停止します。",
+          "translation": "① Press the BGM button.\nMusic will play in sequence.\n② Press the BGM button again.\nThe music will fade out slowly over 1 second.",
+          "bbox": [0.0991, 0.313, 0.3492, 0.0723]
+        },
+        {
+          "text": "①②",
+          "translation": "①②",
+          "bbox": [0.2767, 0.4968, 0.0344, 0.0098]
+        },
+        {
+          "text": "BGMボタン",
+          "translation": "BGM Button",
+          "bbox": [0.2163, 0.5135, 0.0937, 0.0107]
+        },
+        {
+          "text": "シーン再現シークエンス",
+          "translation": "Scene Reproduction Sequence",
+          "bbox": [0.1118, 0.5827, 0.2894, 0.0171]
+        },
+        {
+          "text": "①音声を鳴らす",
+          "translation": "① Play audio",
+          "bbox": [0.0997, 0.6302, 0.1601, 0.0158]
+        },
+        {
+          "text": "シーン再現ボタンを短押しします。\n→各MEMOREALIZE DATA CARDに\n応じた音声が順番に再生されます。",
+          "translation": "Briefly press the Scene Reproduction button.\n→ Audio corresponding to each MEMOREALIZE DATA CARD will play in sequence.",
+          "bbox": [0.1003, 0.6554, 0.3601, 0.0509]
+        },
+        {
+          "text": "②遊びを切り替える\nシーン再現ボタンを長押しします。\nメモリアライズ遊び内シュゴットに\n選ばれる遊びができます。",
+          "translation": "② Switch play modes\nPress and hold the Scene Reproduction button.\nWithin MEMOREALIZE Play, you can switch to the play that will be selected for \"Shugod\".",
+          "bbox": [0.5462, 0.6302, 0.3148, 0.0765]
+        },
+        {
+          "text": "※詳しい音声については、別売りの\nMEMOREALIZE DATA CARDの\nWEB取説をご確認ください。",
+          "translation": "*For details regarding audio, please check the WEB Instruction Manual for the separately sold MEMOREALIZE DATA CARD.",
+          "bbox": [0.1015, 0.7127, 0.3414, 0.0509]
+        },
+        {
+          "text": "【側面】 シーン再現ボタン",
+          "translation": "[Side] Scene Reproduction Button",
+          "bbox": [0.0882, 0.7888, 0.2139, 0.0111]
+        },
+        {
+          "text": "23",
+          "translation": "23",
+          "bbox": [0.4798, 0.9696, 0.0393, 0.0133]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-23.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "Online Instruction Manual",
+          "bbox": [0.0369, 0.0288, 0.1656, 0.0131]
+        },
+        {
+          "text": "矢印一覧 ◆取り付けます。 | 取り外します。 動かします。",
+          "translation": "Arrow legend  ◆ Attach. | Remove.  Move.",
+          "bbox": [0.2628, 0.0284, 0.6773, 0.0142]
+        },
+        {
+          "text": "メモリアライズ遊び(通常)",
+          "translation": "Memorialize Play (Standard)",
+          "bbox": [0.313, 0.1035, 0.3698, 0.0179]
+        },
+        {
+          "text": "②変身シークエンス",
+          "translation": "② Transformation Sequence",
+          "bbox": [0.136, 0.1695, 0.2381, 0.016]
+        },
+        {
+          "text": "変身遊びではモードに関係なく、",
+          "translation": "In Transformation play, regardless of mode,",
+          "bbox": [0.0991, 0.2128, 0.284, 0.0109]
+        },
+        {
+          "text": "最初に操作したトリガーに応じた",
+          "translation": "the transformation sequence for the character corresponding to the trigger operated first",
+          "bbox": [0.0991, 0.2285, 0.2882, 0.012]
+        },
+        {
+          "text": "キャラクターの変身シークエンスが始まります。",
+          "translation": "will begin.",
+          "bbox": [0.1009, 0.2449, 0.4169, 0.0117]
+        },
+        {
+          "text": "クワガタトリガー ① ⑥",
+          "translation": "Kuwagata Trigger ① ⑥",
+          "bbox": [0.623, 0.2427, 0.1674, 0.012]
+        },
+        {
+          "text": "①でクワガタトリガー操作した場合を",
+          "translation": "The following explains the case where the Kuwagata Trigger is operated at ① as an example.",
+          "bbox": [0.0991, 0.2609, 0.3275, 0.0117]
+        },
+        {
+          "text": "例に説明します。",
+          "translation": "As an example.",
+          "bbox": [0.0997, 0.2766, 0.1456, 0.012]
+        },
+        {
+          "text": "①トリガーを操作します。\nトリガーに応じた\n「トリガー操作音」が鳴り、\n「変身待機音」が鳴り、LEDが光ります。\n☆変身待機音中にトリガーを長押し\nすると、 「王鎧武装」が鳴ります。",
+          "translation": "① Operate the trigger.\nA \"trigger operation sound\" corresponding to the trigger will play, then \"transformation standby sound ①\" will play and the LED will light.\n☆ If you press and hold the trigger while the transformation standby sound is playing, the \"Royal Armor Armament\" sound will play.",
+          "bbox": [0.0991, 0.3109, 0.374, 0.0995]
+        },
+        {
+          "text": "②トンボトリガーを操作します。\n「操作音」 と 「変身待機音②」が鳴り、\nLEDの発光が黄色に変わります。\n③カマキリトリガーを操作します。",
+          "translation": "② Operate the Tonbo Trigger.\nAn \"operation sound\" and \"transformation standby sound ②\" will play, and the LED will change to yellow.\n③ Operate the Kamakiri Trigger.",
+          "bbox": [0.0991, 0.4227, 0.3233, 0.062]
+        },
+        {
+          "text": "「操作音」と「変身待機音3」 が鳴り、",
+          "translation": "The \"operation sound\" and \"transformation standby sound ③\" will play,",
+          "bbox": [0.1221, 0.4876, 0.3009, 0.0135]
+        },
+        {
+          "text": "LEDの発光が紫色に変わります。",
+          "translation": "and the LED will change to purple.",
+          "bbox": [0.1208, 0.5047, 0.2846, 0.0109]
+        },
+        {
+          "text": "④パピヨントリガーを操作します。",
+          "translation": "④ Operate the Papillon Trigger.",
+          "bbox": [0.0991, 0.5208, 0.2973, 0.0124]
+        },
+        {
+          "text": "「操作音」と「変身待機音④」 が鳴り、",
+          "translation": "The \"operation sound\" and \"transformation standby sound ④\" will play,",
+          "bbox": [0.1215, 0.5372, 0.3015, 0.012]
+        },
+        {
+          "text": "LEDの発光が白色に変わります。",
+          "translation": "and the LED will change to white.",
+          "bbox": [0.1208, 0.5532, 0.2846, 0.0117]
+        },
+        {
+          "text": "LEDの発光が赤色に変わります。",
+          "translation": "and the LED will change to red.",
+          "bbox": [0.1208, 0.602, 0.2846, 0.0109]
+        },
+        {
+          "text": "⑥クワガタトリガーを引きます。",
+          "translation": "⑥ Pull the Kuwagata Trigger.",
+          "bbox": [0.0991, 0.6173, 0.2779, 0.012]
+        },
+        {
+          "text": "⑤ハチトリガーを操作します。\n→「操作音」と「変身待機音5」 が鳴り、",
+          "translation": "⑤ Operate the Hachi Trigger.\n→ An \"operation sound\" and \"transformation standby sound ⑤\" will play,",
+          "bbox": [0.0991, 0.5689, 0.3227, 0.0299]
+        },
+        {
+          "text": "トンボトリガー",
+          "translation": "Tonbo Trigger",
+          "bbox": [0.4937, 0.6144, 0.1045, 0.0102]
+        },
+        {
+          "text": "カマキリトリガー",
+          "translation": "Kamakiri Trigger",
+          "bbox": [0.7855, 0.6152, 0.1233, 0.0091]
+        },
+        {
+          "text": "「操作音」と「シュゴット登場音」が",
+          "translation": "The \"operation sound\" and the \"Shugod arrival sound\"",
+          "bbox": [0.1215, 0.6341, 0.2816, 0.012]
+        },
+        {
+          "text": "鳴ります。 その後、「クワガタオージャー\n変身音」が鳴ります。",
+          "translation": "will play. After that, the \"Kuwagata-Ohger transformation sound\" will play.",
+          "bbox": [0.1202, 0.6505, 0.3353, 0.0281]
+        },
+        {
+          "text": "パピヨントリガー",
+          "translation": "Papillon Trigger",
+          "bbox": [0.5589, 0.6549, 0.1239, 0.0106]
+        },
+        {
+          "text": "ハチトリガー",
+          "translation": "Hachi Trigger",
+          "bbox": [0.7299, 0.6549, 0.0924, 0.0098]
+        },
+        {
+          "text": "☆「シュゴット登場音」の間に\nトリガーを押すと\n「クワガタオージャー変身音」まで\nスキップすることができます。",
+          "translation": "☆ If you press the trigger while the \"Shugod arrival sound\" is playing, you can skip ahead and go directly to the \"Kuwagata-Ohger transformation sound.\"",
+          "bbox": [0.1094, 0.6939, 0.3124, 0.0601]
+        },
+        {
+          "text": "(5)",
+          "translation": "(5)",
+          "bbox": [0.7263, 0.688, 0.0145, 0.0069]
+        },
+        {
+          "text": "変身する戦士\nクワガタオージャー\nトンボオージャー\nカマキリオージャー\nパピヨンオージャー\nハチオージャー",
+          "translation": "Transforming Warriors\nKuwagata-Ohger\nTonbo-Ohger\nKamakiri-Ohger\nPapillon-Ohger\nHachi-Ohger",
+          "bbox": [0.3408, 0.8105, 0.1305, 0.1133]
+        },
+        {
+          "text": "①で操作するトリガー\nクワガタトリガー\nトンボトリガー\nカマキリトリガー\nパピヨントリガー\nハチトリガー",
+          "translation": "Triggers operated at ①\nKuwagata Trigger\nTonbo Trigger\nKamakiri Trigger\nPapillon Trigger\nHachi Trigger",
+          "bbox": [0.4955, 0.8105, 0.1619, 0.1126]
+        },
+        {
+          "text": "⑥で鳴る 「変身音」",
+          "translation": "The \"transformation sound\" that plays at ⑥",
+          "bbox": [0.716, 0.8105, 0.136, 0.0113]
+        },
+        {
+          "text": "「クワガタオージャー変身音」\n「トンボオージャー変身音」\n「カマキリオージャー変身音」",
+          "translation": "\"Kuwagata-Ohger transformation sound\"\n\"Tonbo-Ohger transformation sound\"\n\"Kamakiri-Ohger transformation sound\"",
+          "bbox": [0.6834, 0.8356, 0.1897, 0.0492]
+        },
+        {
+          "text": "「パピヨンオージャー変身音」",
+          "translation": "\"Papillon-Ohger transformation sound\"",
+          "bbox": [0.6834, 0.8965, 0.1891, 0.0084]
+        },
+        {
+          "text": "「ハチオージャー変身音」",
+          "translation": "\"Hachi-Ohger transformation sound\"",
+          "bbox": [0.6834, 0.9165, 0.1613, 0.0087]
+        },
+        {
+          "text": "24",
+          "translation": "24",
+          "bbox": [0.4785, 0.9745, 0.0405, 0.0109]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-24.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0369, 0.0402, 0.165, 0.0193]
+        },
+        {
+          "text": "矢印一覧 ◆取り付けます。",
+          "translation": "Arrow Guide ◆Attach.",
+          "bbox": [0.2628, 0.0407, 0.2828, 0.0193]
+        },
+        {
+          "text": "取り外します。 動かします。",
+          "translation": "Remove. Move.",
+          "bbox": [0.6326, 0.0418, 0.3063, 0.0193]
+        },
+        {
+          "text": "メモリアライズ遊び(通常)",
+          "translation": "Memorialize Play (Normal)",
+          "bbox": [0.313, 0.1482, 0.3698, 0.0256]
+        },
+        {
+          "text": "攻撃シークエンス",
+          "translation": "Attack Sequence",
+          "bbox": [0.1492, 0.2427, 0.2115, 0.0224]
+        },
+        {
+          "text": "① 必殺技遊び\n①トリガーを長押しします。\n◆LEDが発光し、 「必殺技待機音」が\n鳴ります。\n②クワガタトリガーを3回引きます。\nレバーを操作するたびに、\nLEDが発光し、 「効果音」 が鳴った後、\n「最終必殺技待機音」が鳴ります。\n③トリガーを短押しします。\nLEDが発光し、「必殺技音」が",
+          "translation": "① Finishing Move Play\n① Press and hold the trigger.\n◆ The LED lights, and the \"Finishing Move Standby Sound\" plays.\n② Pull the Kuwagata Trigger three times.\n◆ Each time you operate the lever, the LED lights and a \"sound effect\" plays; after that the \"Final Finishing Move Standby Sound\" plays.\n③ Press the trigger briefly.\n◆ The LED lights and the \"Finishing Move Sound\"",
+          "bbox": [0.0985, 0.3017, 0.3347, 0.2349]
+        },
+        {
+          "text": "鳴ります。",
+          "translation": "plays.",
+          "bbox": [0.1202, 0.5433, 0.0834, 0.0157]
+        },
+        {
+          "text": "※②で同じトリガーを3回操作する前に\n別のトリガーを操作すると、\n1回操作した状態に戻ります。\n※②でグリップのトリガーを押すと\nキャンセルされます。",
+          "translation": "※ If, in step ②, you operate a different trigger before completing the same trigger’s three operations, it will revert to the state after one operation.\n※ Pressing the grip trigger during ② will cancel the sequence.",
+          "bbox": [0.1015, 0.5705, 0.3456, 0.1086]
+        },
+        {
+          "text": "クワガタトリガー",
+          "translation": "Kuwagata Trigger",
+          "bbox": [0.597, 0.3215, 0.1239, 0.0136]
+        },
+        {
+          "text": "(2)",
+          "translation": "(2)",
+          "bbox": [0.7559, 0.297, 0.0151, 0.0094]
+        },
+        {
+          "text": "トリガー",
+          "translation": "Trigger",
+          "bbox": [0.7885, 0.5078, 0.0695, 0.0167]
+        },
+        {
+          "text": "②で操作する\nトリガー",
+          "translation": "Trigger operated in ②",
+          "bbox": [0.1184, 0.7286, 0.1015, 0.0334]
+        },
+        {
+          "text": "③で鳴る 「必殺技音」",
+          "translation": "The \"Finishing Move Sound\" that plays at ③",
+          "bbox": [0.2822, 0.7375, 0.1511, 0.0141]
+        },
+        {
+          "text": "クワガタトリガー\nトンボトリガー\nカマキリトリガー",
+          "translation": "Kuwagata Trigger\nTonbo Trigger\nKamakiri Trigger",
+          "bbox": [0.1124, 0.7771, 0.1118, 0.071]
+        },
+        {
+          "text": "パピヨントリガー\nハチトリガー",
+          "translation": "Papillon Trigger\nHachi Trigger",
+          "bbox": [0.1124, 0.8648, 0.1118, 0.0412]
+        },
+        {
+          "text": "「クワガタオージャー必殺技音」\n「トンボオージャー必殺技音」\n「カマキリオージャー必殺技音」\n「パピヨンオージャー必殺技音」\n「ハチオージャー必殺技音」",
+          "translation": "\"Kuwagata-Ohger Finishing Move Sound\"\n\"Tonbo-Ohger Finishing Move Sound\"\n\"Kamakiri-Ohger Finishing Move Sound\"\n\"Papillon-Ohger Finishing Move Sound\"\n\"Hachi-Ohger Finishing Move Sound\"",
+          "bbox": [0.2592, 0.7797, 0.2048, 0.1289]
+        },
+        {
+          "text": "25",
+          "translation": "25",
+          "bbox": [0.4779, 0.9629, 0.0411, 0.0162]
+        },
+        {
+          "text": "①③",
+          "translation": "①③",
+          "bbox": [0.7088, 0.6806, 0.0332, 0.011]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-25.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "Online Instruction Manual",
+          "bbox": [0.0369, 0.0329, 0.1662, 0.0162]
+        },
+        {
+          "text": "矢印一覧 ■ 取り付けます。 | 取り外します。 動かします。",
+          "translation": "Arrow Legend ■ Attach. | Detach. | Move.",
+          "bbox": [0.2628, 0.0338, 0.6773, 0.0158]
+        },
+        {
+          "text": "メモリアライズ遊び(通常)",
+          "translation": "Memorealize Play (Normal)",
+          "bbox": [0.313, 0.1214, 0.3704, 0.0214]
+        },
+        {
+          "text": "攻撃シークエンス",
+          "translation": "Attack Sequence",
+          "bbox": [0.1498, 0.1991, 0.2103, 0.0179]
+        },
+        {
+          "text": "②通常攻撃\n・トリガーを短押しする度に",
+          "translation": "② Normal Attack\n・Each time you press the trigger briefly,",
+          "bbox": [0.0997, 0.2479, 0.2344, 0.0389]
+        },
+        {
+          "text": "3種類の攻撃音が順番に流れます。",
+          "translation": "Three different attack sounds will play in order.",
+          "bbox": [0.1142, 0.2927, 0.3015, 0.0128]
+        },
+        {
+          "text": "※変身シークエンスを終了する前に\nこの遊びを行うと、LEDが発光しません。\n・3種類の攻撃音の後は\nMEMOREALIZE DATA CARDに応じた\nキングオージャーのセリフが鳴ります。",
+          "translation": "※ If you perform this play before the transformation sequence finishes, the LED will not light.\n・After the three attack sounds, a King-Ohger line corresponding to the MEMOREALIZE DATA CARD will play.",
+          "bbox": [0.1009, 0.3115, 0.3897, 0.0897]
+        },
+        {
+          "text": "合体シークエンス",
+          "translation": "Combination Sequence",
+          "bbox": [0.1498, 0.5697, 0.2109, 0.0171]
+        },
+        {
+          "text": "※合体シークエンスの間はBGMを鳴らしたり、\n停止したりすることはできません。",
+          "translation": "※ During the combination sequence you cannot start or stop the BGM.",
+          "bbox": [0.1015, 0.6188, 0.4133, 0.0329]
+        },
+        {
+          "text": "クワガタトリガーを1秒以上引っ張ります。\nBGMが再生されている場合、 BGMを停止し、\n「シュゴッド大集合」 のBGMが流れます。\n同時に、 「キングオージャーの合体音」が\n鳴ります。 その後、「キングオージャー\n合体完了音」が鳴ります。\n☆合体音が流れている間に\nトリガーを押すと、合体完了音まで\nスキップすることができます。",
+          "translation": "Pull the Kuwagata Trigger for at least 1 second.\nIf BGM is playing, it will stop and the \"Shugod Grand Assembly\" BGM will play.\nAt the same time, the \"King-Ohger Combination\" sound will play.\nAfter that, the \"King-Ohger Combination Complete\" sound will play.\n☆If you press the trigger while the combination sound is playing, you can skip ahead to the combination complete sound.",
+          "bbox": [0.0997, 0.6803, 0.4151, 0.1735]
+        },
+        {
+          "text": "26",
+          "translation": "26",
+          "bbox": [0.4798, 0.9697, 0.0399, 0.0137]
+        },
+        {
+          "text": "クワガタトリガー",
+          "translation": "Kuwagata Trigger",
+          "bbox": [0.6242, 0.6385, 0.1233, 0.0107]
+        },
+        {
+          "text": "トリガー",
+          "translation": "Trigger",
+          "bbox": [0.7498, 0.3342, 0.0701, 0.0137]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-26.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0369, 0.0329, 0.1656, 0.0162]
+        },
+        {
+          "text": "矢印一覧 ◆取り付けます。 | 取り外します。 動かします。",
+          "translation": "Arrow guide ◆ Attach. | Remove. Move.",
+          "bbox": [0.2628, 0.0329, 0.6767, 0.0171]
+        },
+        {
+          "text": "メモリアライズ遊び(通常)",
+          "translation": "Memorealize Play (Standard)",
+          "bbox": [0.313, 0.1214, 0.3698, 0.0214]
+        },
+        {
+          "text": "凌牙一閃シークエンス",
+          "translation": "Ryoga Issen Sequence",
+          "bbox": [0.1233, 0.2, 0.264, 0.0175]
+        },
+        {
+          "text": "※使用中のMEMOREALIZE DATA CARDに\nよって、一部挙動が異なる場合があります。\n詳しくは、各MEMOREALIZE DATA\nCARDのWEB取説をご確認ください。",
+          "translation": "*Depending on the MEMOREALIZE DATA CARD in use, some behavior may differ. For details, please check the WEB Instruction Manual for each MEMOREALIZE DATA CARD.",
+          "bbox": [0.1015, 0.2496, 0.4248, 0.0697]
+        },
+        {
+          "text": "①シーン再現ボタンとBGMボタンを同時に押します。",
+          "translation": "① Press the Scene Reproduction button and the BGM button at the same time.",
+          "bbox": [0.0991, 0.347, 0.4429, 0.0137]
+        },
+        {
+          "text": "→起動音が鳴ります。",
+          "translation": "→ A startup sound will play.",
+          "bbox": [0.1057, 0.3654, 0.1849, 0.0145]
+        },
+        {
+          "text": "☆起動音が完全に鳴り終わる前にトリガーを\n押すと一部音声をスキップできます。\n②クワガタトリガー/トンボトリガー/カマキリトリガー/\nパピヨントリガー/ハチトリガーを操作します。\n操作したトリガーに応じた操作音が鳴り、LEDが発光します。",
+          "translation": "☆If you press a trigger before the startup sound has completely finished, you can skip part of the audio.\n② Operate the Kuwagata Trigger / Tonbo Trigger / Kamakiri Trigger / Papillon Trigger / Hachi Trigger.\nThe operation sound for the trigger you used will play, and the LED will light.",
+          "bbox": [0.0991, 0.385, 0.4937, 0.0897]
+        },
+        {
+          "text": "③トリガーを押します。\nモードに応じた 「王鎧武装\n④③の後にトリガーを押します。\n「凌牙一閃変身音」が鳴ります。",
+          "translation": "③ Press a trigger.\n→ The mode-appropriate 「王鎧武装」 sound will play.\n④ After ③, press the trigger again.\n→ The 「凌牙一閃変身音」 (Ryoga Issen transformation sound) will play.",
+          "bbox": [0.0991, 0.4799, 0.2858, 0.0714]
+        },
+        {
+          "text": "一閃」が鳴ります。",
+          "translation": "\"Issen\" will sound.",
+          "bbox": [0.3831, 0.4996, 0.1529, 0.0132]
+        },
+        {
+          "text": "その後、凌牙一閃変身状態になります。",
+          "translation": "After that, it enters the Ryoga Issen transformation state.",
+          "bbox": [0.1208, 0.556, 0.3323, 0.0141]
+        },
+        {
+          "text": "シーン再現ボタン ①",
+          "translation": "Scene Reproduction Button ①",
+          "bbox": [0.6139, 0.2338, 0.1547, 0.0158]
+        },
+        {
+          "text": "BGMボタン ①",
+          "translation": "BGM Button ①",
+          "bbox": [0.6429, 0.3167, 0.1257, 0.0141]
+        },
+        {
+          "text": "②",
+          "translation": "②",
+          "bbox": [0.4804, 0.6218, 0.0127, 0.0073]
+        },
+        {
+          "text": "クワガタトリガー",
+          "translation": "Kuwagata Trigger",
+          "bbox": [0.284, 0.7222, 0.1245, 0.0107]
+        },
+        {
+          "text": "トンボトリガー",
+          "translation": "Tonbo Trigger",
+          "bbox": [0.4937, 0.7209, 0.1045, 0.0115]
+        },
+        {
+          "text": "27",
+          "translation": "27",
+          "bbox": [0.4792, 0.9701, 0.0387, 0.0137]
+        },
+        {
+          "text": "カマキリトリガー",
+          "translation": "Kamakiri Trigger",
+          "bbox": [0.7849, 0.7214, 0.1245, 0.0111]
+        },
+        {
+          "text": "パピヨントリガー",
+          "translation": "Papillon Trigger",
+          "bbox": [0.5607, 0.7688, 0.1227, 0.0111]
+        },
+        {
+          "text": "ハチトリガー",
+          "translation": "Hachi Trigger",
+          "bbox": [0.7293, 0.7684, 0.0931, 0.0115]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-27.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0369, 0.0329, 0.1668, 0.0167]
+        },
+        {
+          "text": "矢印一覧 ◆取り付けます。 | 取り外します。 動かします。",
+          "translation": "Arrow legend ◆ Attach. | Remove. Move.",
+          "bbox": [0.2628, 0.0329, 0.6761, 0.0171]
+        },
+        {
+          "text": "メモリアライズ遊び(通常)",
+          "translation": "Memorialize Play (Standard)",
+          "bbox": [0.313, 0.1214, 0.3698, 0.0214]
+        },
+        {
+          "text": "凌牙一閃変身状態",
+          "translation": "Ryoga Issen Transformation State",
+          "bbox": [0.1474, 0.1983, 0.2157, 0.0192]
+        },
+        {
+          "text": "①クワガタトリガー/トンボトリガー/\nカマキリトリガー/パピヨントリガー/\nハチトリガーを操作します。\n→操作したトリガーに応じた「操作音」が\n鳴り、LEDが発光します。",
+          "translation": "① Operate the Kuwagata Trigger / Tonbo Trigger / Kamakiri Trigger / Papillon Trigger / Hachi Trigger.\n→ An \"operation sound\" corresponding to the trigger you operated will play, and the LED will light.",
+          "bbox": [0.0985, 0.256, 0.3456, 0.0897]
+        },
+        {
+          "text": "クワガタトリガー ①",
+          "translation": "Kuwagata Trigger ①",
+          "bbox": [0.5076, 0.2474, 0.1511, 0.0141]
+        },
+        {
+          "text": "トンボトリガー",
+          "translation": "Tonbo Trigger",
+          "bbox": [0.0961, 0.5056, 0.1045, 0.0107]
+        },
+        {
+          "text": "②トリガーを短押しします。",
+          "translation": "② Press the trigger briefly.",
+          "bbox": [0.0991, 0.541, 0.2387, 0.0132]
+        },
+        {
+          "text": "カマキリトリガー",
+          "translation": "Kamakiri Trigger",
+          "bbox": [0.3323, 0.5056, 0.1239, 0.0107]
+        },
+        {
+          "text": "トリガーを短押しするたびに、\n「攻撃音1」、 「攻撃音2」、 「攻撃音3」、\n「セリフ」が下記の順に鳴ります。",
+          "translation": "Each time you press the trigger briefly, \"Attack Sound 1\", \"Attack Sound 2\", \"Attack Sound 3\", and a \"Voice line\" will play in the order shown below.",
+          "bbox": [0.1215, 0.5598, 0.313, 0.0521]
+        },
+        {
+          "text": "10",
+          "translation": "10",
+          "bbox": [0.7045, 0.2987, 0.0465, 0.0261]
+        },
+        {
+          "text": "パピヨントリガー",
+          "translation": "Papillon Trigger",
+          "bbox": [0.5462, 0.3726, 0.1239, 0.0115]
+        },
+        {
+          "text": "ハチトリガー",
+          "translation": "Hachi Trigger",
+          "bbox": [0.7166, 0.3726, 0.0918, 0.0111]
+        },
+        {
+          "text": "②③",
+          "translation": "②③",
+          "bbox": [0.6266, 0.6171, 0.0332, 0.0094]
+        },
+        {
+          "text": "① 攻撃音 1",
+          "translation": "① Attack Sound 1",
+          "bbox": [0.1311, 0.641, 0.0634, 0.0085]
+        },
+        {
+          "text": "⑤ 攻撃音1",
+          "translation": "⑤ Attack Sound 1",
+          "bbox": [0.2477, 0.6402, 0.0622, 0.0098]
+        },
+        {
+          "text": "⑨攻撃音1",
+          "translation": "⑨ Attack Sound 1",
+          "bbox": [0.3656, 0.641, 0.0616, 0.009]
+        },
+        {
+          "text": "攻撃音",
+          "translation": "Attack Sound",
+          "bbox": [0.4955, 0.6415, 0.0417, 0.0081]
+        },
+        {
+          "text": "⑦ 攻撃音 1",
+          "translation": "⑦ Attack Sound 1",
+          "bbox": [0.6, 0.6406, 0.0622, 0.0094]
+        },
+        {
+          "text": "②攻撃音2",
+          "translation": "② Attack Sound 2",
+          "bbox": [0.1311, 0.6833, 0.064, 0.0081]
+        },
+        {
+          "text": "⑥攻撃音2",
+          "translation": "⑥ Attack Sound 2",
+          "bbox": [0.2477, 0.6833, 0.0653, 0.0081]
+        },
+        {
+          "text": "⑩ 攻撃音2",
+          "translation": "⑩ Attack Sound 2",
+          "bbox": [0.3656, 0.6833, 0.064, 0.0077]
+        },
+        {
+          "text": "⑩ 攻撃音2",
+          "translation": "⑩ Attack Sound 2",
+          "bbox": [0.4822, 0.6829, 0.064, 0.0085]
+        },
+        {
+          "text": "⑩8 攻撃音2",
+          "translation": "⑩8Attack Sound 2",
+          "bbox": [0.6, 0.6833, 0.0634, 0.0081]
+        },
+        {
+          "text": "③攻撃音3",
+          "translation": "③ Attack Sound 3",
+          "bbox": [0.1311, 0.7244, 0.064, 0.0094]
+        },
+        {
+          "text": "⑦攻撃音3",
+          "translation": "⑦ Attack Sound 3",
+          "bbox": [0.2477, 0.7252, 0.0647, 0.0081]
+        },
+        {
+          "text": "⑩ 攻撃音3",
+          "translation": "⑩ Attack Sound 3",
+          "bbox": [0.3656, 0.7252, 0.0653, 0.0081]
+        },
+        {
+          "text": "⑩15 攻撃音3",
+          "translation": "⑩15Attack Sound 3",
+          "bbox": [0.4822, 0.7252, 0.064, 0.0085]
+        },
+        {
+          "text": "⑩9 攻撃音3",
+          "translation": "⑩9Attack Sound 3",
+          "bbox": [0.6, 0.7256, 0.0653, 0.0081]
+        },
+        {
+          "text": "④セリフ1",
+          "translation": "④ Voice Line 1",
+          "bbox": [0.1323, 0.7667, 0.0604, 0.009]
+        },
+        {
+          "text": "⑧セリフ2",
+          "translation": "⑧ Voice Line 2",
+          "bbox": [0.2495, 0.7667, 0.0616, 0.0085]
+        },
+        {
+          "text": "1 セリフ 3",
+          "translation": "① Voice Line 3",
+          "bbox": [0.3668, 0.7671, 0.0622, 0.0077]
+        },
+        {
+          "text": "⑩ セリフ4",
+          "translation": "⑩ Voice Line 4",
+          "bbox": [0.484, 0.7658, 0.0634, 0.0098]
+        },
+        {
+          "text": "20 セリフ5",
+          "translation": "20Voice Line 5",
+          "bbox": [0.6006, 0.7671, 0.0634, 0.0077]
+        },
+        {
+          "text": "③トリガーを1秒以上長押しします。\n・モードに応じた「凌牙一閃必殺技音」が流れます。\nその後、凌牙一閃シークエンスは終わりとなります。",
+          "translation": "③ Press and hold the trigger for 1 second or longer.\n・The \"Ryoga Issen Finishing Move Sound\" corresponding to the mode will play.\nAfter that, the Ryoga Issen sequence ends.",
+          "bbox": [0.0991, 0.8205, 0.4634, 0.0517]
+        },
+        {
+          "text": "☆「凌牙一閃必殺技音」が流れている間にトリガーを押すと、一部音声をスキップできます。",
+          "translation": "☆ While the \"Ryoga Issen Finishing Move Sound\" is playing, pressing the trigger will skip part of the audio.",
+          "bbox": [0.1118, 0.8889, 0.7692, 0.0132]
+        },
+        {
+          "text": "28",
+          "translation": "28",
+          "bbox": [0.4792, 0.9684, 0.0399, 0.015]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-28.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0369, 0.0329, 0.1668, 0.0167]
+        },
+        {
+          "text": "矢印一覧 ◆取り付けます。 | 取り外します。 動かします。",
+          "translation": "Arrow legend ◆ Attach. | Remove. Move.",
+          "bbox": [0.2628, 0.0329, 0.6761, 0.0171]
+        },
+        {
+          "text": "メモリアライズ遊び内シュゴットに選ばれる遊び",
+          "translation": "Play selected when a Shugotto is chosen during MEMOREALIZE play",
+          "bbox": [0.1644, 0.1209, 0.6701, 0.0226]
+        },
+        {
+          "text": "BGMを鳴らす",
+          "translation": "Play BGM",
+          "bbox": [0.1692, 0.1983, 0.1746, 0.0192]
+        },
+        {
+          "text": "メモリアライズ遊び内シュゴットに選ばれる遊びの間はトンボトリガー/カマキリトリガー/\nパピヨントリガー/ハチトリガーを操作しても音声は鳴りません。\nまた、クワガタトリガーを短時間(一秒以内) 操作した場合も音声は鳴りません。",
+          "translation": "While MEMOREALIZE play has a Shugotto selected, operating the Dragonfly Trigger / Mantis Trigger / Papillon Trigger / Bee Trigger will not produce sound. Also, if the Stag Beetle Trigger is operated for a short time (within one second), no sound will play.",
+          "bbox": [0.0991, 0.2491, 0.7831, 0.0526]
+        },
+        {
+          "text": "①BGMボタンを押します。\n順番に音楽が流れます。\n②もう一度、 BGM ボタンを押します。\n音楽が1秒かけてゆっくり停止します。",
+          "translation": "① Press the BGM button.\n→ Music will play in sequence.\n② Press the BGM button again.\n→ The music will slowly stop over one second.",
+          "bbox": [0.0991, 0.3235, 0.3486, 0.0718]
+        },
+        {
+          "text": "①②",
+          "translation": "①②",
+          "bbox": [0.2731, 0.5167, 0.0332, 0.0098]
+        },
+        {
+          "text": "BGMボタン",
+          "translation": "BGM button",
+          "bbox": [0.2163, 0.5329, 0.0943, 0.0111]
+        },
+        {
+          "text": "シーン再現",
+          "translation": "Scene Replay",
+          "bbox": [0.1903, 0.6017, 0.1347, 0.0175]
+        },
+        {
+          "text": "シーン再現ボタンを短押しします。\n押す度に順番に音声を再生します。\n※詳しくは各MEMOREALIZE DATA CARDの\nWEB取説をご確認ください。\n※シーン再現ボタンを押すと、他のシークエンスを\nキャンセルして、音声が鳴ります。",
+          "translation": "Press the Scene Replay button briefly.\nEach press plays the next audio in sequence.\n*For details, check the WEB Instruction Manual for each MEMOREALIZE DATA CARD.\n*Pressing the Scene Replay button cancels other sequences and plays the audio.",
+          "bbox": [0.1003, 0.6543, 0.4356, 0.1081]
+        },
+        {
+          "text": "【側面】 シーン再現ボタン",
+          "translation": "[Side] Scene Replay button",
+          "bbox": [0.0882, 0.7855, 0.2127, 0.0115]
+        },
+        {
+          "text": "シーン再現ボタンを長押しします。\n→通常のメモリアライズ遊びに\n戻ります。",
+          "translation": "Press and hold the Scene Replay button.\n→ Returns to normal MEMOREALIZE play.",
+          "bbox": [0.5952, 0.6538, 0.3027, 0.0513]
+        },
+        {
+          "text": "29",
+          "translation": "29",
+          "bbox": [0.4792, 0.9692, 0.0381, 0.0141]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-29.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0369, 0.0329, 0.1668, 0.0162]
+        },
+        {
+          "text": "矢印一覧 ■ 取り付けます。 | 取り外します。 動かします。",
+          "translation": "Arrow list ■ Attach. | Remove. Move.",
+          "bbox": [0.2628, 0.0338, 0.6761, 0.0162]
+        },
+        {
+          "text": "メモリアライズ遊び内シュゴットに選ばれる遊び",
+          "translation": "Play: Being chosen as a Shugod within Memorialize play",
+          "bbox": [0.1644, 0.1209, 0.6707, 0.0226]
+        },
+        {
+          "text": "シュゴットに選ばれるシークエンス",
+          "translation": "Sequence when chosen as a Shugod",
+          "bbox": [0.0991, 0.1987, 0.4066, 0.0184]
+        },
+        {
+          "text": "トリガーを押します。\n→LEDが光り、シュゴットに\n選ばれた音が鳴ります。",
+          "translation": "Press the trigger. → The LED lights up and the sound for the chosen Shugod plays.",
+          "bbox": [0.0997, 0.2513, 0.2332, 0.0513]
+        },
+        {
+          "text": "トリガー",
+          "translation": "Trigger",
+          "bbox": [0.7492, 0.3556, 0.0689, 0.0137]
+        },
+        {
+          "text": "ゴッドキングオージャー合体シークエンス",
+          "translation": "God King-Ohger Combination Sequence",
+          "bbox": [0.0991, 0.5876, 0.4846, 0.0188]
+        },
+        {
+          "text": "クワガタトリガーを1秒以上引っ張ります。",
+          "translation": "Pull and hold the Kuwagata trigger for 1 second or longer.",
+          "bbox": [0.0997, 0.6385, 0.3686, 0.0145]
+        },
+        {
+          "text": "「ゴッドキングオージャーの合体音」が鳴り、 その後、「ゴッドキングオージャー合体完了音」が\n鳴ります。 その後、各キングオージャーのセリフが流れます。\n☆合体音再生中にトリガーを操作すると、合体完了音までスキップできます。",
+          "translation": "The \"God King-Ohger combination\" sound plays, then the \"God King-Ohger combination complete\" sound plays. After that, each King-Ohger's lines will play.\n☆ If you operate the trigger while the combination sound is playing, you can skip ahead to the combination-complete sound.",
+          "bbox": [0.1094, 0.6573, 0.7849, 0.0568]
+        },
+        {
+          "text": "30",
+          "translation": "30",
+          "bbox": [0.4798, 0.9697, 0.0399, 0.0132]
+        },
+        {
+          "text": "セリフ",
+          "translation": "Lines",
+          "bbox": [0.5807, 0.7645, 0.0471, 0.0098]
+        },
+        {
+          "text": "王と民、等しく一人!\n一と一、重ねて!\n十重二十重の誓いの力!",
+          "translation": "King and people, equally as one!\nOne and one, layered!\nThe power of vows tenfold, twentyfold!",
+          "bbox": [0.5118, 0.7902, 0.1486, 0.0457]
+        },
+        {
+          "text": "やがて人の理を超え...。",
+          "translation": "Soon surpassing the bounds of human reason...",
+          "bbox": [0.5124, 0.8432, 0.1511, 0.0103]
+        },
+        {
+          "text": "神へと届く。\n人神融合!\n王鎧無双!",
+          "translation": "Reaches the gods.\nHuman–god fusion!\nPeerless royal armor!",
+          "bbox": [0.5118, 0.8611, 0.0761, 0.0457]
+        }
+      ]
+    }
+  ]
+}

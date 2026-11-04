@@ -6,10 +6,9 @@
     "target_lang": "en",
     "source_url": "https://toy.bandai.co.jp/manuals/files/2687102.pdf?ver=stnsuf",
     "pages": 7,
-    "blocks": 352,
+    "blocks": 345,
     "thumbnail": "pages/page-0.webp",
-    "tags": ["dx", "kamen-rider", "premium"],
-   
+    "tags": ["dx", "kamen-rider", "premium"]
   },
   "pages": [
     {
@@ -22,17 +21,17 @@
         },
         {
           "text": "変身ベルト\nPREMIUMDX",
-          "translation": "Transformation Belt Premium DX Zein Driver",
+          "translation": "Transformation Belt PREMIUM DX",
           "bbox": [0.234, 0.0306, 0.1233, 0.0265]
         },
         {
           "text": "ゼインドライバーの選び方",
-          "translation": "How to Use the Zein Driver",
+          "translation": "How to Choose the Zein Driver",
           "bbox": [0.3549, 0.0182, 0.5508, 0.0454]
         },
         {
           "text": "2EIN",
-          "translation": "ZEIN",
+          "translation": "2EIN",
           "bbox": [0.4807, 0.0605, 0.0629, 0.0041]
         },
         {
@@ -47,17 +46,17 @@
         },
         {
           "text": "ゼインドライバー本体・・・ 1",
-          "translation": "Zein Driver main unit... 1",
+          "translation": "Zein Driver main unit ... 1",
           "bbox": [0.1451, 0.0973, 0.1318, 0.0069]
         },
         {
           "text": "ベルト右 (R)...1 ベルト左(L)... 1 ベルト留め... 1 ゼインプログライズキー... 1",
-          "translation": "Right Belt (R)...1 Left Belt (L)...1 Belt Clasp...1 Zein Progrise Key...1",
+          "translation": "Belt Right (R) ... 1  Belt Left (L) ... 1  Belt clasp ... 1  Zein Progrise Key ... 1",
           "bbox": [0.2999, 0.0969, 0.4619, 0.0072]
         },
         {
           "text": "ゼインカード･･･\n5",
-          "translation": "Zein Card... 5",
+          "translation": "Zein Card ... 5",
           "bbox": [0.7848, 0.0973, 0.0859, 0.0065]
         },
         {
@@ -67,7 +66,7 @@
         },
         {
           "text": "【裁断カードがでた図】",
-          "translation": "[Diagram of ejected shredded card pieces]",
+          "translation": "[Diagram: cut card ejected]",
           "bbox": [0.4438, 0.1237, 0.1125, 0.0065]
         },
         {
@@ -77,7 +76,7 @@
         },
         {
           "text": "裁断カード",
-          "translation": "Shredded Card Pieces",
+          "translation": "Cut card",
           "bbox": [0.48, 0.2117, 0.0478, 0.0055]
         },
         {
@@ -87,7 +86,7 @@
         },
         {
           "text": "【正面】",
-          "translation": "【front】",
+          "translation": "【Front】",
           "bbox": [0.0998, 0.2375, 0.0345, 0.0072]
         },
         {
@@ -97,22 +96,22 @@
         },
         {
           "text": "スピーカー",
-          "translation": "speaker",
+          "translation": "Speaker",
           "bbox": [0.6983, 0.2251, 0.0496, 0.0058]
         },
         {
           "text": "【天面】",
-          "translation": "[Top]",
+          "translation": "【Top】",
           "bbox": [0.5393, 0.2371, 0.0333, 0.0069]
         },
         {
           "text": "レバー",
-          "translation": "lever",
+          "translation": "Lever",
           "bbox": [0.471, 0.2478, 0.0296, 0.0048]
         },
         {
           "text": "【背面】",
-          "translation": "[Back]",
+          "translation": "【Back】",
           "bbox": [0.1372, 0.3464, 0.032, 0.0062]
         },
         {
@@ -122,12 +121,12 @@
         },
         {
           "text": "【底面】",
-          "translation": "[Bottom]",
+          "translation": "【Bottom】",
           "bbox": [0.5393, 0.346, 0.0339, 0.0065]
         },
         {
           "text": "カード取り出し口",
-          "translation": "Card Ejection Port",
+          "translation": "Card ejection port",
           "bbox": [0.6874, 0.343, 0.0756, 0.0055]
         },
         {
@@ -142,7 +141,7 @@
         },
         {
           "text": "【背面】",
-          "translation": "[Back]",
+          "translation": "【Back】",
           "bbox": [0.3603, 0.4924, 0.0333, 0.0065]
         },
         {
@@ -157,7 +156,7 @@
         },
         {
           "text": "突起",
-          "translation": "protrusion",
+          "translation": "Protrusion",
           "bbox": [0.1022, 0.5258, 0.0206, 0.0052]
         },
         {
@@ -167,17 +166,17 @@
         },
         {
           "text": "ボタン",
-          "translation": "button",
+          "translation": "Button",
           "bbox": [0.5859, 0.4564, 0.0296, 0.0055]
         },
         {
           "text": "裁断カード\n収納レバー",
-          "translation": "Shredded Card Pieces Storage Lever",
+          "translation": "Cut card storage lever",
           "bbox": [0.7358, 0.4567, 0.0502, 0.0134]
         },
         {
           "text": "【背面】",
-          "translation": "[Back]",
+          "translation": "【Back】",
           "bbox": [0.7944, 0.4928, 0.0339, 0.0062]
         },
         {
@@ -187,7 +186,7 @@
         },
         {
           "text": "調節穴",
-          "translation": "adjustment hole",
+          "translation": "Adjustment hole",
           "bbox": [0.8942, 0.5309, 0.0296, 0.0055]
         },
         {
@@ -207,12 +206,12 @@
         },
         {
           "text": "ゼインプログライズキー",
-          "translation": "Zane Progrise Key",
+          "translation": "Zein Progrise Key",
           "bbox": [0.1856, 0.6031, 0.1252, 0.0062]
         },
         {
           "text": "キーパーツ",
-          "translation": "Zein Progrise Key",
+          "translation": "Key parts",
           "bbox": [0.4299, 0.6038, 0.0514, 0.0052]
         },
         {
@@ -222,12 +221,12 @@
         },
         {
           "text": "【正面】",
-          "translation": "【front】",
+          "translation": "【Front】",
           "bbox": [0.2944, 0.6203, 0.0351, 0.0065]
         },
         {
           "text": "【背面】",
-          "translation": "[Back]",
+          "translation": "【Back】",
           "bbox": [0.5762, 0.6196, 0.032, 0.0076]
         },
         {
@@ -237,27 +236,27 @@
         },
         {
           "text": "【側面】",
-          "translation": "KAMEN RIDER ZEIN",
+          "translation": "【Side】",
           "bbox": [0.8748, 0.6192, 0.0326, 0.0079]
         },
         {
           "text": "ゼインカード",
-          "translation": "Zane Card",
+          "translation": "Zein Card",
           "bbox": [0.0381, 0.6921, 0.0671, 0.0058]
         },
         {
           "text": "KAMEN FEER KROSS SABER",
-          "translation": "Zein Card",
+          "translation": "KAMEN FEER KROSS SABER",
           "bbox": [0.1372, 0.7488, 0.0677, 0.0031]
         },
         {
           "text": "KAMEN FRER ULTIMATE REVI",
-          "translation": "KAMEN RIDER Xross Saber",
+          "translation": "KAMEN FRER ULTIMATE REVI",
           "bbox": [0.2606, 0.7488, 0.0677, 0.0031]
         },
         {
           "text": "KAMENRIDE",
-          "translation": "KAMEN RIDER Ultimate Revi",
+          "translation": "KAMENRIDE",
           "bbox": [0.1378, 0.7553, 0.0314, 0.0021]
         },
         {
@@ -277,12 +276,12 @@
         },
         {
           "text": "DIMENSION",
-          "translation": "KAMEN RIDER Ultimate Vice",
+          "translation": "DIMENSION",
           "bbox": [0.6421, 0.7491, 0.0514, 0.0031]
         },
         {
           "text": "KAMENRIDE",
-          "translation": "KAMEN RIDER Geats Mark IX",
+          "translation": "KAMENRIDE",
           "bbox": [0.3839, 0.7557, 0.032, 0.0017]
         },
         {
@@ -292,7 +291,7 @@
         },
         {
           "text": "検出スイッチ",
-          "translation": "Detector Switch",
+          "translation": "Detection switch",
           "bbox": [0.8489, 0.6481, 0.058, 0.0052]
         },
         {
@@ -302,22 +301,22 @@
         },
         {
           "text": "お買い上げのお客様へ 必ずお読みください。",
-          "translation": "To all customers, please be sure to read this.",
+          "translation": "To customers who purchased this product: Please be sure to read this.",
           "bbox": [0.341, 0.8134, 0.318, 0.0093]
         },
         {
           "text": "●本商品の対象年齢は15才以上です。 対象年齢未満のお子様には絶対に与えないでください。 ●小さな部品がありますので、小さなお子様が誤って飲み込まない\nように注意してください。 窒息などの危険があります。 《電池を誤使用すると発熱・破裂・液漏れの恐れがあります。 下記に注意してください》 ●万一、 ボタン電池を\n飲み込んだとき、 ボタン電池から漏れた液が目に入ったときは、すぐに医師に相談してください。漏れた液が皮膚や服に付いたときは水で洗ってください。 ボタン\n電池は飲み込むと危険です。 お子様の手の届かない所に保管してください。 古い電池と新しい電池、いろいろな種類の電池をまぜて使わないでください。\n+-(プラスマイナス)を正しくセットしてください。 ●ショートさせたり充電、分解、加熱、火の中に入れたりしないでください。●廃棄するときは、 自治体の廃棄処理の\n指示に従ってください。 ●耳の近くで使用してはいけません。 誤って使用すると、 聴覚を損なう恐れがあります。●本商品には電子部品を使用しております。ペース\nメーカーをご使用の方は、本商品を身体に近づけないようご注意ください。",
-          "translation": "●This product is intended for children 15 years of age and older. Never give it to children under this age. ●This product contains small parts. Please take care to prevent small children from accidentally swallowing them. There is a risk of choking and other hazards. {Misuse of batteries may result in overheating, explosion, or leakage. Please observe the following:} ●If a button battery is swallowed or if leaking battery fluid gets into eyes, consult a doctor immediately. If leaking battery fluid comes into contact with skin or clothing, wash with water. Button batteries are dangerous if swallowed. Keep out of reach of children. Do not mix old and new batteries or different types of batteries.\nEnsure that the +/- terminals are correctly aligned. ●Do not short-circuit, recharge, disassemble, heat, or dispose of in fire. ●When disposing of this product, follow local disposal instructions. ●Do not use near the ear. Misuse may cause hearing damage. ●This product contains electronic components. If you use a pacemaker, please keep this product away from your body.",
+          "translation": "● This product is for ages 15 and up. Do not give to children younger than the recommended age. ● This product contains small parts; take care that small children do not accidentally swallow them. There is a risk of choking. Misuse of batteries may cause overheating, rupture, or leakage. Observe the following precautions: ● If a button battery is swallowed, or if leaking battery fluid gets in the eye, consult a physician immediately. If leaking fluid contacts skin or clothing, wash with water. Button batteries are dangerous if swallowed—keep them out of children’s reach. Do not mix old and new batteries or different types of batteries. Set +- (プラスマイナス) correctly. ● Do not short-circuit, recharge, disassemble, heat, or throw batteries into fire. ● When disposing of this product, follow your local waste-disposal regulations. ● Do not use this product near the ear. Misuse may cause hearing damage. ● This product contains electronic components. If you use a pacemaker, keep this product away from your body.",
           "bbox": [0.0375, 0.8309, 0.925, 0.0759]
         },
         {
           "text": "<使用上の注意>",
-          "translation": "<Precautions for use>",
+          "translation": "<Precautions for Use>",
           "bbox": [0.0296, 0.9206, 0.0985, 0.0076]
         },
         {
           "text": "●本商品は精密に作られています。無理な力を加えたり、落としたりすると破損する恐れがあります。 本商品には塗装部分がありますので、 保管の際には他のもの\n(樹脂製品や家具、ソファー)と接触しないようにしてください。 色が移る場合があります。 発音の一部にイントネーションが違っていたり、 商品の特性上聞き取りにくい\nものがありますが、ご了承ください。 ●セットされている電池はテスト用です。 音声が小さくなったら電池をご交換ください。 誤動作した場合はリセットボタンを押して\nください。",
-          "translation": "●This product is precision-made. Applying excessive force or dropping it may cause damage. This product has painted parts, so when storing it, please avoid contact with other objects (resin products, furniture, sofas). Colors may transfer. Please note that some pronunciations may have different intonations or may be difficult to hear due to the characteristics of the product. ●The batteries included are for testing purposes. Replace the batteries if the volume becomes low. If the product malfunctions, press the reset button.",
+          "translation": "● This product is manufactured with precision. Excessive force, dropping, or similar mistreatment may cause damage. ● This product has painted parts. When storing, avoid contact with other items (resin products, furniture, sofas), as color transfer may occur. Some voiced lines may have different intonation or be hard to hear due to the product’s characteristics; please understand this in advance. ● The batteries included are for testing. Replace the batteries when the sound becomes weak. If the product malfunctions, press the reset button.",
           "bbox": [0.0278, 0.9299, 0.9395, 0.0467]
         }
       ]
@@ -337,12 +336,12 @@
         },
         {
           "text": "①電池ぶたを取り外します。\n①-1 本体背面の電池ぶたの穴を\n先の細い棒などで押しながら、\n①-2 電池ぶたを矢印の方向に",
-          "translation": "① Remove the battery cover. ①-1 While pressing the hole in the battery cover on the back of the unit with a thin stick, ①-2 remove the battery cover in the direction of the arrow.",
+          "translation": "① Remove the battery cover. ①-1 While pressing the hole in the battery cover on the back of the main body with the tip of a thin rod, ①-2 slide the battery cover off in the direction of the arrow.",
           "bbox": [0.0405, 0.128, 0.2201, 0.0573]
         },
         {
           "text": "取り外します。\n②乾電池を入れます。\n単4乾電池2本(別売り)の+を",
-          "translation": "② Insert batteries. Insert the + terminals of two AAA batteries (sold separately), making sure not to make any mistakes when inserting each one.",
+          "translation": "② Insert the dry batteries. Insert two AAA (単4) batteries (sold separately), taking care to observe the + and − orientations.",
           "bbox": [0.0405, 0.191, 0.2062, 0.0422]
         },
         {
@@ -377,7 +376,7 @@
         },
         {
           "text": "電源スイッチをON) にします。\nC+ 起動音が鳴ります。",
-          "translation": "Turn the power switch ON.\nC+ The startup sound will play.",
+          "translation": "Turn the power switch to ON. The startup sound will play.",
           "bbox": [0.6566, 0.2237, 0.2576, 0.0275]
         },
         {
@@ -387,12 +386,12 @@
         },
         {
           "text": "ミゾ",
-          "translation": "Turn the power switch on the back of the unit to ON. The startup sound will play.",
+          "translation": "Groove",
           "bbox": [0.2999, 0.3398, 0.0193, 0.0066]
         },
         {
           "text": "1-2",
-          "translation": "③ Put the battery cover back on. Align the protrusion on the battery cover with the groove on the main body, and then attach the battery cover.",
+          "translation": "1-2",
           "bbox": [0.3446, 0.3408, 0.029, 0.0104]
         },
         {
@@ -403,7 +402,7 @@
         {
           "text": "+ ▽",
           "translation": "+▽",
-          "bbox": [0.5447, 0.2588, -0.0859, 0.0175]
+          "bbox": [0.4588, 0.2588, 0.0859, 0.0175]
         },
         {
           "text": "2019 藤プロ・テレビ朝日・ADK・東映",
@@ -412,7 +411,7 @@
         },
         {
           "text": "BANDA, MADE IN CHINA",
-          "translation": "BANDA, MADE IN CHINA",
+          "translation": "BANDAI, MADE IN CHINA",
           "bbox": [0.3295, 0.4014, 0.0949, 0.0066]
         },
         {
@@ -427,7 +426,7 @@
         },
         {
           "text": "電源スイッチ",
-          "translation": "BANDAI, MADE IN CHINA",
+          "translation": "Power switch",
           "bbox": [0.7666, 0.3408, 0.0562, 0.0071]
         },
         {
@@ -442,7 +441,7 @@
         },
         {
           "text": "※遊び終わった後は、必ず電源スイッチを",
-          "translation": "* After playing, be sure to turn off the power switch",
+          "translation": "* After playing, be sure to set the power switch to X (OFF).",
           "bbox": [0.7231, 0.464, 0.1814, 0.0071]
         },
         {
@@ -457,17 +456,17 @@
         },
         {
           "text": "ゼインプログライズキーのボタン電池の交換",
-          "translation": "* After playing, be sure to turn off the power switch to X (OFF).",
+          "translation": "Zein Progrise Key — Button battery replacement",
           "bbox": [0.0417, 0.5284, 0.526, 0.0209]
         },
         {
           "text": "初めて遊ぶ前に･･･\n絶縁シートの外し方\n①ゼインプログライズキー背面から出ている\n絶縁シートを矢印の方向に引き抜きます。",
-          "translation": "Before playing for the first time...\nHow to remove the insulation sheet\n1. Pull the insulation sheet protruding from the back of the Zane Progrise Key in the direction of the arrow.",
+          "translation": "Before playing for the first time... How to remove the insulation sheet ① Pull the insulation sheet protruding from the back of the Zein Progrise Key out in the direction of the arrow.",
           "bbox": [0.0399, 0.5744, 0.2594, 0.0815]
         },
         {
           "text": "【背面】 絶縁シート ゼインプログライズキー",
-          "translation": "[Back] Insulation sheet Zane Progrise Key",
+          "translation": "[Back] Insulation sheet Zein Progrise Key",
           "bbox": [0.0653, 0.6754, 0.2231, 0.009]
         },
         {
@@ -482,7 +481,7 @@
         },
         {
           "text": "1-1",
-          "translation": "Before playing for the first time... How to remove the insulation sheet 1. Pull the insulation sheet protruding from the back of the Zein Progrise Key in the direction of the arrow.",
+          "translation": "1-1",
           "bbox": [0.8368, 0.637, 0.0266, 0.0085]
         },
         {
@@ -497,12 +496,12 @@
         },
         {
           "text": "·突起",
-          "translation": "① Remove the battery cover. ①-1 While pressing the hole in the battery cover on the back of the Zein Progrise Key with a thin stick, ①-2 Remove the battery cover. ② Insert the battery. Remove the old button battery,",
+          "translation": "·protrusion",
           "bbox": [0.8531, 0.6919, 0.023, 0.0076]
         },
         {
           "text": "②リセットボタンを先の細い棒などで\n軽く押します。",
-          "translation": "2) Lightly press the reset button with a thin stick.",
+          "translation": "② Lightly press the reset button with the tip of a thin rod.",
           "bbox": [0.0405, 0.8071, 0.2152, 0.0251]
         },
         {
@@ -512,7 +511,7 @@
         },
         {
           "text": "新しいボタン電池3個 (LR44・別売り)を",
-          "translation": "Three new button batteries (LR44, sold separately)",
+          "translation": "Set three new button batteries (LR44, sold separately).",
           "bbox": [0.3398, 0.7327, 0.2364, 0.01]
         },
         {
@@ -527,7 +526,7 @@
         },
         {
           "text": "LR44 x 3",
-          "translation": "LR44 x 3",
+          "translation": "LR44 × 3",
           "bbox": [0.3881, 0.8251, 0.0635, 0.0133]
         },
         {
@@ -542,7 +541,7 @@
         },
         {
           "text": "●セットされている電池は、テスト用です。 +",
-          "translation": "The battery included is for testing purposes.",
+          "translation": "The batteries installed are for testing purposes.",
           "bbox": [0.3241, 0.8706, 0.2068, 0.009]
         },
         {
@@ -552,7 +551,7 @@
         },
         {
           "text": "ボタン電池は上側が十に下側\nがになるようにセットします。",
-          "translation": "Place the button battery so that the top is aligned with the bottom.",
+          "translation": "Set the button batteries so the upper side is + and the lower side is −.",
           "bbox": [0.3368, 0.8981, 0.1487, 0.0213]
         },
         {
@@ -577,7 +576,7 @@
       "blocks": [
         {
           "text": "ゼインドライバーの組み立てと装着の仕方",
-          "translation": "How to assemble and install the Zane Driver",
+          "translation": "How to assemble and wear the Zein Driver",
           "bbox": [0.0496, 0.0243, 0.4946, 0.0132]
         },
         {
@@ -587,12 +586,12 @@
         },
         {
           "text": "矢印を",
-          "translation": "Arrow",
+          "translation": "arrows",
           "bbox": [0.8972, 0.0351, 0.0302, 0.0043]
         },
         {
           "text": "上にします。",
-          "translation": "Put it on top.",
+          "translation": "point upward.",
           "bbox": [0.8972, 0.0427, 0.052, 0.0049]
         },
         {
@@ -602,12 +601,12 @@
         },
         {
           "text": "ベルト右 (R) ・ベルト左 (L)の取り付け",
-          "translation": "Installation of the right (R) and left (L) belts",
+          "translation": "Attaching Belt Right (R) and Belt Left (L)",
           "bbox": [0.0992, 0.0615, 0.2491, 0.0077]
         },
         {
           "text": "ゼインドライバー本体背面を図の向きにして\nベルト右(R) ・ベルト左 (L) 裏側の刻印(R・L)の\n矢印が上向きになるようにします。",
-          "translation": "Place the back of the Zain Driver unit in the orientation shown in the diagram, and make sure the arrows (R and L) on the back of the right (R) and left (L) belts are pointing upwards.",
+          "translation": "With the back of the Zein Driver main unit oriented as shown, make sure the arrows on the markings (R/L) on the reverse side of Belt Right (R) and Belt Left (L) are pointing upward.",
           "bbox": [0.058, 0.0818, 0.2727, 0.0271]
         },
         {
@@ -622,12 +621,12 @@
         },
         {
           "text": "刻印",
-          "translation": "Engraving",
+          "translation": "marking",
           "bbox": [0.448, 0.1292, 0.02, 0.0046]
         },
         {
           "text": "刻印",
-          "translation": "Engraving",
+          "translation": "marking",
           "bbox": [0.8241, 0.1292, 0.0206, 0.0046]
         },
         {
@@ -637,7 +636,7 @@
         },
         {
           "text": "①ベルト右(R)の着脱ボタンを押しながら、\n②ゼインドライバー本体背面の凹ジョイント(R)に",
-          "translation": "① While pressing the release button on the right (R) belt,\n② insert it into the concave joint (R) on the back of the Zain Driver body.",
+          "translation": "① While pressing the detachment button on Belt Right (R), ② align it with the concave joint (R) on the back of the Zein Driver main unit.",
           "bbox": [0.0405, 0.1485, 0.2902, 0.0172]
         },
         {
@@ -647,22 +646,22 @@
         },
         {
           "text": "③着脱ボタンを離して、凹凸ジョイントを\nしっかりとはめ込みます。\n※ベルト左(L)も同様に行います。",
-          "translation": "③ Release the release button and firmly snap the concave and convex joints into place. \nDo the same for the left (L) belt.",
+          "translation": "③ Release the detachment button and firmly seat the concave and convex joints. ※Do the same for Belt Left (L).",
           "bbox": [0.4202, 0.1485, 0.2334, 0.0268]
         },
         {
           "text": "ベルト留めに",
-          "translation": "For belt fastening",
+          "translation": "Through the belt fastener,",
           "bbox": [0.7612, 0.1534, 0.0762, 0.0055]
         },
         {
           "text": "ベルト右 (R) を通します。",
-          "translation": "Pass the right (R) belt through.",
+          "translation": "pass Belt Right (R) through.",
           "bbox": [0.7612, 0.1627, 0.1433, 0.0071]
         },
         {
           "text": "着脱ボタン",
-          "translation": "Detachable button",
+          "translation": "detachment button",
           "bbox": [0.636, 0.1771, 0.0508, 0.0046]
         },
         {
@@ -672,7 +671,7 @@
         },
         {
           "text": "着脱ボタン",
-          "translation": "Detachable button",
+          "translation": "detachment button",
           "bbox": [0.3501, 0.1817, 0.0496, 0.0046]
         },
         {
@@ -687,32 +686,32 @@
         },
         {
           "text": "着脱ボタン",
-          "translation": "Detachable button",
+          "translation": "detachment button",
           "bbox": [0.3531, 0.2472, 0.049, 0.0046]
         },
         {
           "text": "3 ベルトの調整",
-          "translation": "3 Adjusting the belt",
+          "translation": "3 Belt adjustment",
           "bbox": [0.0562, 0.2786, 0.1276, 0.0129]
         },
         {
           "text": "※パチンと音がするまで、",
-          "translation": "* Until you hear a snap.",
+          "translation": "※Insert until you hear a \"click\".",
           "bbox": [0.3549, 0.2804, 0.1221, 0.0052]
         },
         {
           "text": "はめ込みます。",
-          "translation": "Fit it in.",
+          "translation": "Snap it in.",
           "bbox": [0.3664, 0.2909, 0.0732, 0.0055]
         },
         {
           "text": "①ベルト左 (L)が外側になるように腰に巻き付け、\n体に合わせた",
-          "translation": "① Wrap the belt around your waist with the left (L) side facing outward, and adjust it to your body.",
+          "translation": "① Wrap the belt around your waist so that Belt Left (L) is on the outside, and at a position that fits your body,",
           "bbox": [0.0556, 0.3017, 0.2836, 0.0166]
         },
         {
           "text": "突起",
-          "translation": "protrusion",
+          "translation": "protrusions",
           "bbox": [0.3773, 0.3026, 0.0193, 0.0052]
         },
         {
@@ -727,12 +726,12 @@
         },
         {
           "text": "はめ込みます。",
-          "translation": "Fit it in.",
+          "translation": "into place.",
           "bbox": [0.0701, 0.3426, 0.084, 0.0071]
         },
         {
           "text": "②ベルト留めを",
-          "translation": "② Belt fastener",
+          "translation": "② Slide the belt fastener",
           "bbox": [0.0423, 0.389, 0.0895, 0.0062]
         },
         {
@@ -742,7 +741,7 @@
         },
         {
           "text": "ベルト留め",
-          "translation": "Belt closure",
+          "translation": "belt fastener",
           "bbox": [0.7582, 0.2482, 0.0484, 0.0052]
         },
         {
@@ -752,12 +751,12 @@
         },
         {
           "text": "①着脱ボタンを上下同時に押しながら、",
-          "translation": "① Press the upper and lower buttons simultaneously,",
+          "translation": "① While pressing the top and bottom detachment buttons at the same time,",
           "bbox": [0.5036, 0.3924, 0.2267, 0.0065]
         },
         {
           "text": "②ベルト右 (R) を",
-          "translation": "② Belt right (R)",
+          "translation": "② pull Belt Right (R)",
           "bbox": [0.5036, 0.4025, 0.0985, 0.0068]
         },
         {
@@ -767,37 +766,37 @@
         },
         {
           "text": "ゼインドライバー",
-          "translation": "Zane Driver",
+          "translation": "Zein Driver",
           "bbox": [0.8035, 0.322, 0.1524, 0.0111]
         },
         {
           "text": "完成!",
-          "translation": "Completed!",
+          "translation": "Complete!",
           "bbox": [0.8313, 0.337, 0.0719, 0.0148]
         },
         {
           "text": "ベルトが重なっている",
-          "translation": "The belt is overlapping",
+          "translation": "to the overlapped section",
           "bbox": [0.0562, 0.3988, 0.127, 0.0068]
         },
         {
           "text": "部分まで移動させます。",
-          "translation": "Move it to the part.",
+          "translation": "Move it to that section.",
           "bbox": [0.0562, 0.4093, 0.1366, 0.0065]
         },
         {
           "text": "-ベルト留め",
-          "translation": "-Belt closure",
+          "translation": "-Belt fastener",
           "bbox": [0.4226, 0.4151, 0.0508, 0.0052]
         },
         {
           "text": "※ベルト左(L)も同様に行います。",
-          "translation": "*Do the same for the left belt (L).",
+          "translation": "※Do the same for Belt Left (L).",
           "bbox": [0.5048, 0.4305, 0.1717, 0.0055]
         },
         {
           "text": "ゼインドライバー単体の遊び方",
-          "translation": "How to play with the Zane Driver alone",
+          "translation": "How to play with the Zein Driver on its own",
           "bbox": [0.0411, 0.4776, 0.3634, 0.0138]
         },
         {
@@ -807,22 +806,22 @@
         },
         {
           "text": "※ゼインドライバーが完成した\n状態から始めます。",
-          "translation": "Start with a completed Zane Driver.",
+          "translation": "Start with the Zein Driver assembled.",
           "bbox": [0.0423, 0.5317, 0.2249, 0.0203]
         },
         {
           "text": "※説明の図ではベルトを省略しています。\nゼインドライバー底面のボタンを長押しします。\n下記表の1~3が順番に鳴ります。\n※起動音と同様の音声となります。",
-          "translation": "*The belt is omitted from the illustration.\nPress and hold the button on the bottom of the Zain Driver.\nYou will hear messages 1 to 3 in the order shown in the table below.\n*The sound will be the same as the startup sound.",
+          "translation": "※The belt is omitted in the illustration. Press and hold the button on the bottom of the Zein Driver. The sounds numbered 1–3 in the table below will play in order. ※These are the same as the startup sounds.",
           "bbox": [0.0429, 0.5557, 0.3017, 0.0431]
         },
         {
           "text": "音声",
-          "translation": "audio",
+          "translation": "Sound",
           "bbox": [0.1657, 0.6085, 0.0272, 0.0065]
         },
         {
           "text": "ゼインドライバー",
-          "translation": "Zane Driver",
+          "translation": "Zein Driver",
           "bbox": [0.7267, 0.5363, 0.0895, 0.0055]
         },
         {
@@ -832,17 +831,17 @@
         },
         {
           "text": "【正面】",
-          "translation": "【front】",
+          "translation": "[Front]",
           "bbox": [0.6233, 0.5397, 0.0333, 0.0062]
         },
         {
           "text": "順番",
-          "translation": "order",
+          "translation": "Order",
           "bbox": [0.055, 0.6092, 0.0278, 0.0062]
         },
         {
           "text": "ベルト装着音(乗っ取り状態)",
-          "translation": "Belt fastening sound (hijacked state)",
+          "translation": "Belt equip sound (hijacked state)",
           "bbox": [0.1016, 0.6233, 0.1651, 0.0065]
         },
         {
@@ -857,7 +856,7 @@
         },
         {
           "text": "ベルト装着音",
-          "translation": "Belt fastening sound",
+          "translation": "Belt equip sound",
           "bbox": [0.1016, 0.6525, 0.0768, 0.0065]
         },
         {
@@ -867,7 +866,7 @@
         },
         {
           "text": "ゼインドライバー",
-          "translation": "Zane Driver",
+          "translation": "Zein Driver",
           "bbox": [0.7267, 0.6922, 0.0901, 0.0058]
         },
         {
@@ -882,17 +881,17 @@
         },
         {
           "text": "ゼインドライバーの底面ボタンを押すと",
-          "translation": "Press the button on the bottom of the Zane Driver",
+          "translation": "When you press the bottom button of the Zein Driver,",
           "bbox": [0.0484, 0.7066, 0.2304, 0.0065]
         },
         {
           "text": "下記リストの順で台詞が鳴ります。",
-          "translation": "The lines will be played in the order listed below.",
+          "translation": "the lines will play in the order listed below.",
           "bbox": [0.0484, 0.7165, 0.1971, 0.0068]
         },
         {
           "text": "※台詞遊びはプログライズキーが\n装填された状態でも行うことができます。",
-          "translation": "*Line play can be performed even when a Progrise Key is loaded.",
+          "translation": "※Dialogue play can also be performed while a Progrise Key is loaded.",
           "bbox": [0.049, 0.7269, 0.2539, 0.0169]
         },
         {
@@ -907,22 +906,22 @@
         },
         {
           "text": "順番",
-          "translation": "order",
+          "translation": "Order",
           "bbox": [0.0538, 0.8269, 0.0278, 0.0062]
         },
         {
           "text": "セリフ",
-          "translation": "Dialogue",
+          "translation": "Line",
           "bbox": [0.2763, 0.8272, 0.0363, 0.0052]
         },
         {
           "text": "順番",
-          "translation": "order",
+          "translation": "Order",
           "bbox": [0.5073, 0.8269, 0.0272, 0.0065]
         },
         {
           "text": "セリフ",
-          "translation": "Dialogue",
+          "translation": "Line",
           "bbox": [0.7291, 0.8266, 0.0363, 0.0058]
         },
         {
@@ -937,7 +936,7 @@
         },
         {
           "text": "ゼイン。この次元の、救世主です。",
-          "translation": "Zane, the savior of this dimension.",
+          "translation": "Zein. The savior of this dimension.",
           "bbox": [0.101, 0.857, 0.1898, 0.0065]
         },
         {
@@ -947,7 +946,7 @@
         },
         {
           "text": "悪しき心を持つ者には、天罰を下す。",
-          "translation": "Those with evil hearts will be punished by God.",
+          "translation": "Those with wicked hearts will receive divine punishment.",
           "bbox": [0.1004, 0.8715, 0.2074, 0.0062]
         },
         {
@@ -957,7 +956,7 @@
         },
         {
           "text": "濫用?悪しき心を宿す人間を呼び寄せるために",
-          "translation": "Abuse? To attract people with evil intentions",
+          "translation": "Abuse? To draw in people who harbor wicked hearts",
           "bbox": [0.101, 0.8875, 0.2684, 0.0068]
         },
         {
@@ -967,7 +966,7 @@
         },
         {
           "text": "有効利用させてもらっただけだ･･･ 仮面ライダーゲンム。",
-          "translation": "I just put it to good use... Kamen Rider Genm.",
+          "translation": "I merely made effective use of it... Kamen Rider Genm.",
           "bbox": [0.1004, 0.8985, 0.3174, 0.0068]
         },
         {
@@ -982,7 +981,7 @@
         },
         {
           "text": "ゼイン。すべての悪意を駆逐する仮面ライダー。",
-          "translation": "Zane, the Kamen Rider who banishes all evil.",
+          "translation": "Zein. A Kamen Rider who eradicates all malice.",
           "bbox": [0.5538, 0.9148, 0.2751, 0.0065]
         },
         {
@@ -992,22 +991,22 @@
         },
         {
           "text": "14 赤心少林拳で終わらせましょう。",
-          "translation": "14 Let's end with Red Heart Shaolin Kung Fu.",
+          "translation": "14 Let's end with Red Heart Shaolin Fist.",
           "bbox": [0.5121, 0.9296, 0.2249, 0.0062]
         },
         {
           "text": "仮面ライダーゼロツーの力で、未来を予測する。",
-          "translation": "Kamen Rider Zero Two's powers allow him to predict the future.",
+          "translation": "Using the power of Kamen Rider Zero-Two, I will predict the future.",
           "bbox": [0.1004, 0.944, 0.2745, 0.0065]
         },
         {
           "text": "アウトサイダーにしては弱すぎる。 偽物でしたか・・・。",
-          "translation": "Too weak to be an Outsider. Was it a fake?",
+          "translation": "Too weak for an Outsider. Was it a fake...?",
           "bbox": [0.5538, 0.944, 0.2926, 0.0068]
         },
         {
           "text": "※15の後は1に戻ります。",
-          "translation": "*After 15, it will return to 1.",
+          "translation": "※After 15 it returns to 1.",
           "bbox": [0.7963, 0.96, 0.1554, 0.0062]
         }
       ]
@@ -1017,17 +1016,17 @@
       "blocks": [
         {
           "text": "仮面ライダーゼインへの変身の遊び方\n※ゼインドライバーが完成した状態から始めます。\n※説明の図ではベルトを省略しています。",
-          "translation": "How to transform into Kamen Rider Zane\n*Start with a completed Zane Driver.\n*The belt has been omitted from the illustration.",
+          "translation": "How to transform into Kamen Rider Zein\n※Start with the Zein Driver fully assembled.\n※The belt is omitted from the illustrations.",
           "bbox": [0.0399, 0.0487, 0.4498, 0.0973]
         },
         {
           "text": "ゼインプログライズキーのボタンを押します。\n1 キーが展開し「ゼイン音」と「変身待機音」が鳴ります。\n※もう一度ボタンを押すと、 「ゼインズアビリティ音」が鳴り\n「変身待機音」 が止まります。",
-          "translation": "Press the button on the Zane Progrise Key.\nThe key will unfold and the Zane sound and transformation standby sound will play.\n*Press the button again to play the Zane ability sound and stop the transformation standby sound.",
+          "translation": "Press the button on the Zein Progrise Key.\nThe key will open and play the \"Zein\" sound and the transformation standby sound.\n※If you press the button again, the \"Zein's Ability\" sound will play and the transformation standby sound will stop.",
           "bbox": [0.0599, 0.1659, 0.3767, 0.0786]
         },
         {
           "text": "ゼイン",
-          "translation": "Zayn",
+          "translation": "Zein",
           "bbox": [0.7715, 0.1229, 0.0472, 0.0175]
         },
         {
@@ -1037,12 +1036,12 @@
         },
         {
           "text": "变身",
-          "translation": "change of body",
+          "translation": "Transform",
           "bbox": [0.8773, 0.1865, 0.0339, 0.0175]
         },
         {
           "text": "ゼインプログライズキーのボタンを長押しします。\n「変身」台詞が鳴ります。",
-          "translation": "Press and hold the button on the Zane Progrise Key. \nThe \"Transform\" line will be heard.",
+          "translation": "Press and hold the button on the Zein Progrise Key.\nThe \"Transform\" voice line will play.",
           "bbox": [0.1028, 0.2745, 0.2866, 0.0368]
         },
         {
@@ -1052,22 +1051,22 @@
         },
         {
           "text": "ゼインプログライズキー",
-          "translation": "Zane Progrise Key",
+          "translation": "Zein Progrise Key",
           "bbox": [0.6058, 0.3144, 0.107, 0.0106]
         },
         {
           "text": "ゼインプログライズキーを",
-          "translation": "Zane Progrise Key",
+          "translation": "Zein Progrise Key",
           "bbox": [0.1016, 0.3506, 0.1542, 0.0131]
         },
         {
           "text": "ゼインドライバーのキースロットに\n装填して奥まで押し込みます。",
-          "translation": "Insert it into the Zane Driver's key slot and push it in all the way.",
+          "translation": "Insert the Zein Progrise Key into the Zein Driver's key slot and push it all the way in.",
           "bbox": [0.1016, 0.3724, 0.1983, 0.0331]
         },
         {
           "text": "ゼインライズ",
-          "translation": "Zane Rise",
+          "translation": "Zein Rise",
           "bbox": [0.3797, 0.3805, 0.0949, 0.0187]
         },
         {
@@ -1087,7 +1086,7 @@
         },
         {
           "text": "「変身音」が鳴ります。",
-          "translation": "The transformation sound will be heard.",
+          "translation": "The transformation sound will play.",
           "bbox": [0.1161, 0.4136, 0.1227, 0.0137]
         },
         {
@@ -1102,7 +1101,7 @@
         },
         {
           "text": "※変身遊び後に行います。\nゼインプログライズキーを押し込みます。\n「必殺技音」が鳴ります。",
-          "translation": "*Do this after playing transformation games.\nPress the Zane Progrise Key.\nThe \"special move sound\" will play.",
+          "translation": "※Do this after the transformation play.\nPush the Zein Progrise Key in.\nThe \"Special Move\" sound will play.",
           "bbox": [0.0429, 0.7505, 0.2394, 0.0649]
         },
         {
@@ -1122,22 +1121,22 @@
       "blocks": [
         {
           "text": "シュレッダー能力の遊び方",
-          "translation": "How to play the Shredder ability",
+          "translation": "How to Play the \"Shredder\" Ability",
           "bbox": [0.0405, 0.0245, 0.3089, 0.0147]
         },
         {
           "text": "※変身遊び後に行います。 ※ゼインドライバーに必ずカードがセットされていない状態で行ってください。",
-          "translation": "*Perform this after playing transformation games. *Make sure there are no cards set in the Zane Driver before performing this.",
+          "translation": "※Perform this after transformation play. ※Be sure to perform this with no cards set in the Zein Driver.",
           "bbox": [0.0429, 0.0545, 0.7787, 0.0091]
         },
         {
           "text": "ゼインプログライズキーのボタンを短押しします。",
-          "translation": "Short press the button on the Zane Progrise Key.",
+          "translation": "Press the button on the Zein Progrise Key briefly.",
           "bbox": [0.1046, 0.0727, 0.2872, 0.0068]
         },
         {
           "text": "→下記リスト順で 「基本フォームライダー名」が鳴ります。\nボタンを長押しすると「モード切り替え音」が鳴り、\n再度ボタンを短押しするとリストの続きの順番から\n「パワーアップフォームライダー名」が鳴ります。\n※「基本フォームライダー名」に戻す場合は同様の手順を行います。\n※ゼインプログライズキーをゼインドライバーから一度取り外すと、\nライダー名音の順番は1に戻ります。",
-          "translation": "→The \"Basic Form Rider Names\" will be played in the order listed below.\nPress and hold the button to play the \"Mode Switch Sound,\"\nand short press the button again to play the next \"Power Up Form Rider Names\" in the list.\n*To return to the \"Basic Form Rider Names,\" follow the same procedure.\n*Once the Zane Progrise Key is removed from the Zane Driver,\nthe rider name sound order will return to 1.",
+          "translation": "→The \"Basic Form Rider Name\" sounds will play in the order shown below.\nPress and hold the button to play the \"Mode-change\" sound, then press the button briefly again to continue from the next item in the list and play the \"Power-up Form Rider Name(s).\"\n※To return to the \"Basic Form Rider Name(s),\" repeat the same procedure.\n※If you remove the Zein Progrise Key from the Zein Driver even once, the rider-name sound order will return to 1.",
           "bbox": [0.1046, 0.0835, 0.3888, 0.0724]
         },
         {
@@ -1147,7 +1146,7 @@
         },
         {
           "text": "順番 基本フォーム",
-          "translation": "Order Basic Form",
+          "translation": "No.  Basic Form",
           "bbox": [0.0562, 0.2009, 0.1391, 0.0072]
         },
         {
@@ -1157,7 +1156,7 @@
         },
         {
           "text": "順番",
-          "translation": "order",
+          "translation": "No.",
           "bbox": [0.5091, 0.2012, 0.0272, 0.0065]
         },
         {
@@ -1202,7 +1201,7 @@
         },
         {
           "text": "ウィザード インフィニティースタイル\n鎧武 極アームズ",
-          "translation": "Wizard Infinity Style Gaim Kiwami Arms",
+          "translation": "Wizard Infinity Style\nGaim Kiwami Arms",
           "bbox": [0.6814, 0.2169, 0.214, 0.0222]
         },
         {
@@ -1217,7 +1216,7 @@
         },
         {
           "text": "ドライブ",
-          "translation": "drive",
+          "translation": "Drive",
           "bbox": [0.5859, 0.2469, 0.0472, 0.0072]
         },
         {
@@ -1237,7 +1236,7 @@
         },
         {
           "text": "ゴースト",
-          "translation": "ghost",
+          "translation": "Ghost",
           "bbox": [0.5846, 0.2622, 0.0496, 0.0078]
         },
         {
@@ -1297,7 +1296,7 @@
         },
         {
           "text": "ビルドジーニアスフォーム\nグランドジオウ",
-          "translation": "Build Genius Form Grand Zi-O",
+          "translation": "Build Genius Form\nGrand Zi-O",
           "bbox": [0.682, 0.2939, 0.1548, 0.0219]
         },
         {
@@ -1322,7 +1321,7 @@
         },
         {
           "text": "キバ",
-          "translation": "fangs",
+          "translation": "Kiva",
           "bbox": [0.1433, 0.3402, 0.0272, 0.0065]
         },
         {
@@ -1357,7 +1356,7 @@
         },
         {
           "text": "リバイ",
-          "translation": "Rebuy",
+          "translation": "Revi",
           "bbox": [0.5913, 0.3555, 0.0375, 0.0065]
         },
         {
@@ -1382,12 +1381,12 @@
         },
         {
           "text": "ギーツ",
-          "translation": "Geets",
+          "translation": "Geats",
           "bbox": [0.5895, 0.3862, 0.0405, 0.0065]
         },
         {
           "text": "アルティメットリバイ\nアルティメットバイス\nギーツIX",
-          "translation": "Ultimate Revise\nUltimate Vice\nGeets IX",
+          "translation": "Ultimate Revi\nUltimate Vice\nGeats IX",
           "bbox": [0.6814, 0.3555, 0.1209, 0.0372]
         },
         {
@@ -1397,37 +1396,37 @@
         },
         {
           "text": "フォーゼコズミックステイツ",
-          "translation": "Fourth Cosmic States",
+          "translation": "Fourze Cosmic States",
           "bbox": [0.2285, 0.4015, 0.1675, 0.0072]
         },
         {
           "text": "スーパー1",
-          "translation": "Super 1",
+          "translation": "Super-1",
           "bbox": [0.578, 0.4022, 0.0605, 0.0062]
         },
         {
           "text": "スーパー1",
-          "translation": "Super 1",
+          "translation": "Super-1",
           "bbox": [0.682, 0.4018, 0.0593, 0.0062]
         },
         {
           "text": "で好きなライダー名音を鳴らした後、ゼインカードをゼインドライバーのカードスロットにセットします。\n「カード装填音」 と 「待機音」が鳴ります。\n※ゼインドライバーにカード個別認識機能はありません。装填するゼインカードの種類はどれでも問題ありません。",
-          "translation": "After playing your favorite rider name sound, insert the Zane Card into the Zane Driver's card slot.\nThe \"card loading sound\" and \"standby sound\" will play.\n*The Zane Driver does not have an individual card recognition function. It doesn't matter what type of Zane Card you load.",
+          "translation": "After sounding the rider name you want, set the Zein Card into the Zein Driver's card slot.\nThe \"card loading sound\" and \"standby sound\" will play.\n※The Zein Driver does not have an individual card recognition function. The type of Zein Card you insert does not matter.",
           "bbox": [0.1022, 0.4374, 0.6536, 0.029]
         },
         {
           "text": "※ゼインカードが突起の下に入るように\nセットしてください。",
-          "translation": "*Please make sure the Zane card is placed under the protrusion.",
+          "translation": "※Set the Zein Card so that it fits under the protrusion.",
           "bbox": [0.1034, 0.4768, 0.2273, 0.0186]
         },
         {
           "text": "突起",
-          "translation": "protrusion",
+          "translation": "Protrusion",
           "bbox": [0.5236, 0.4785, 0.0236, 0.0075]
         },
         {
           "text": "カードスロット",
-          "translation": "Card slots",
+          "translation": "Card slot",
           "bbox": [0.3954, 0.4863, 0.0756, 0.0055]
         },
         {
@@ -1437,67 +1436,67 @@
         },
         {
           "text": "・ゼインカード",
-          "translation": "・Zane Card",
+          "translation": "・Zein Card",
           "bbox": [0.6584, 0.4843, 0.0713, 0.0065]
         },
         {
           "text": "※26の後は1に戻ります。",
-          "translation": "*After 26, it will return to 1.",
+          "translation": "※After 26, it returns to 1.",
           "bbox": [0.7981, 0.4191, 0.1554, 0.0068]
         },
         {
           "text": "ゼインドライバーのレバーを矢印の方向に引いて手を離します。 (レバーが引けなくなるぐらい最後まで引ききってください。)\n→レバーが自動で戻り 「執行音」と「シュレッダー音」が鳴り、",
-          "translation": "Pull the Zane Driver lever in the direction of the arrow and release it. (Pull it all the way until it can no longer be pulled.)\n-> The lever will automatically return to its original position, and the \"execution sound\" and \"shredder sound\" will be heard.",
+          "translation": "Pull the Zein Driver lever in the direction of the arrow and release it. (Pull it all the way until it can no longer be pulled.)\n→The lever will automatically return and the \"execution\" sound and the \"shredder\" sound will play.",
           "bbox": [0.1016, 0.6363, 0.7189, 0.0179]
         },
         {
           "text": "装填したゼインカードがドライバー内部に収納され、裁断カードがドライバー下部から現れます。",
-          "translation": "The loaded Zane card is stored inside the driver, and the cut card appears from the bottom of the driver.",
+          "translation": "The loaded Zein Card is stored inside the Zein Driver, and a shredded card appears from the bottom of the Zein Driver.",
           "bbox": [0.1149, 0.6575, 0.5568, 0.0075]
         },
         {
           "text": "※レバーが自動で戻る際、 指はさみに",
-          "translation": "*When the lever automatically returns, your fingers may get caught.",
+          "translation": "※When the lever returns automatically, take care not to pinch your fingers.",
           "bbox": [0.7019, 0.6605, 0.2201, 0.0068]
         },
         {
           "text": "執行!",
-          "translation": "Execution!",
+          "translation": "Execute!",
           "bbox": [0.1554, 0.6791, 0.0399, 0.0095]
         },
         {
           "text": "レバー",
-          "translation": "lever",
+          "translation": "Lever",
           "bbox": [0.5871, 0.6921, 0.0345, 0.0052]
         },
         {
           "text": "ご注意ください。また、レバーを無理やり\n押し込まないでください。\n破損する恐れがあります。",
-          "translation": "Please be careful. Also, do not push the lever in with force. This may cause damage.",
+          "translation": "Please be careful. Also, do not force the lever inward. It may be damaged.",
           "bbox": [0.714, 0.6712, 0.234, 0.029]
         },
         {
           "text": "裁断カード",
-          "translation": "Cutting Card",
+          "translation": "Shredded Card",
           "bbox": [0.3204, 0.7792, 0.049, 0.0049]
         },
         {
           "text": "プログライズキーを押し込みます。",
-          "translation": "Press the program key.",
+          "translation": "Push the Progrise Key in.",
           "bbox": [0.1022, 0.7952, 0.1983, 0.0072]
         },
         {
           "text": "「能力発動音」と①②で選んだライダーの「ライダー能力音」が鳴ります。\n※ライダーごとに「ライダー能力音」は異なりますが、\n基本フォームとパワーアップフォーム間の「能力音」 は共通となります。\n※ライダー名を鳴らさずに進めた場合、 「能力発動音」のみ鳴ります。\n※12 の「ライダー名」 音を鳴らしてから\n約30秒以内に④までを行わなかった場合、\n「ライダー能力音」は鳴りません。\n※装填したゼインカードはゼインドライバーの\nカード取り出し口から引き抜きます。\n※出現した裁断カードはゼインドライバーの裁断カード",
-          "translation": "The \"ability activation sound\" and the \"rider ability sound\" of the rider selected in steps ① and ② will be played.\n*The \"rider ability sound\" will differ for each rider,\nbut the \"ability sound\" will be the same between the basic form and the power-up form.\n*If you proceed without playing the rider name, only the \"ability activation sound\" will be played.\n*If you do not perform steps ④ within approximately 30 seconds after playing the \"rider name\" sound in step 12,\nthe \"rider ability sound\" will not be played.\n*The loaded Zane card can be removed from the card removal slot of the Zane Driver.\n*The cutting card that appears is the Zane Driver's cutting card.",
+          "translation": "The \"ability activation\" sound and the selected rider's \"rider ability\" sound (chosen in ① and ②) will play.\n※Each rider's \"rider ability\" sound differs, but the \"ability\" sound is the same between a basic form and its power-up form.\n※If you proceed without sounding a rider name, only the \"ability activation\" sound will play.\n※If you do not perform step ④ within about 30 seconds after sounding the rider-name sound in step 12, the \"rider ability\" sound will not play.\n※Remove the loaded Zein Card from the Zein Driver's card extraction slot.\n※The shredded card that appears is the Zein Driver's shredded card.",
           "bbox": [0.1022, 0.8063, 0.4414, 0.105]
         },
         {
           "text": "収納レバーを引くと再度ドライバー内部に収納されます。",
-          "translation": "Pull the storage lever to store it back inside the driver.",
+          "translation": "Pull the storage lever to retract it back into the Driver.",
           "bbox": [0.1155, 0.9149, 0.3271, 0.0075]
         },
         {
           "text": "※裁断カードは取り外しできません。\n※ゼインドライバーに装填できるカードは1枚のみです。\n必ずカードスロット及びカード取り出し口にゼインカードがない状態で",
-          "translation": "*The cutting card cannot be removed.\n*Only one card can be loaded into the Zane Driver.\nMake sure there is no Zane card in the card slot or card removal slot.",
+          "translation": "※The shredded card cannot be removed.\n※Only one card can be loaded into the Zein Driver.\nMake sure there are no Zein Cards in the card slot or card extraction slot.",
           "bbox": [0.1022, 0.926, 0.4135, 0.029]
         },
         {
@@ -1517,67 +1516,67 @@
       "blocks": [
         {
           "text": "ゼインカードの取り出し方",
-          "translation": "How to get the Zane card",
+          "translation": "How to remove the Zein Card",
           "bbox": [0.0417, 0.025, 0.3047, 0.0165]
         },
         {
           "text": "①ゼインカードを引き抜きます。",
-          "translation": "①Pull out the Zane card.",
+          "translation": "① Pull out the Zein Card.",
           "bbox": [0.0399, 0.0573, 0.185, 0.0075]
         },
         {
           "text": "②ゼインドライバー底面の",
-          "translation": "②The bottom of the Zane Driver",
+          "translation": "② On the bottom of the Zein Driver,",
           "bbox": [0.0399, 0.1635, 0.1536, 0.0075]
         },
         {
           "text": "裁断カード収納レバーを右に押して離します。",
-          "translation": "Push the cut card storage lever to the right and release it.",
+          "translation": "push the cut-card storage lever to the right, then release it.",
           "bbox": [0.0532, 0.1752, 0.2618, 0.0072]
         },
         {
           "text": "裁断カードが元に戻ります。",
-          "translation": "The cut card will return to its original state.",
+          "translation": "The cut card will return to its original position.",
           "bbox": [0.0532, 0.1865, 0.1614, 0.0075]
         },
         {
           "text": "ディメンション能力の遊び方",
-          "translation": "How to play the Dimension ability",
+          "translation": "How to play the Dimension Ability",
           "bbox": [0.0417, 0.2955, 0.3295, 0.0147]
         },
         {
           "text": "※変身遊び後に行います。",
-          "translation": "*This will be done after the transformation game.",
+          "translation": "*Do this after transformation play.",
           "bbox": [0.0423, 0.3264, 0.1904, 0.0093]
         },
         {
           "text": "ゼインドライバー底面のボタンを長押しします。\n「ディメンション音」が鳴り、\nディメンションモードに移行します。",
-          "translation": "Press and hold the button on the bottom of the Zane Driver.\nYou will hear the \"dimension sound\" and\nwill enter Dimension Mode.",
+          "translation": "Press and hold the button on the bottom of the Zein Driver. The \"Dimension\" sound will play and the driver will enter Dimension Mode.",
           "bbox": [0.104, 0.3469, 0.2733, 0.0309]
         },
         {
           "text": "ゼインカードをゼインドライバーのカードスロットにセットします。\n「カード装填音」 と 「待機音」が鳴ります。\n※ゼインドライバーにカード個別認識機能はありません。",
-          "translation": "Insert the Zane Card into the Zane Driver's card slot.\nThe \"card loading sound\" and \"standby sound\" will play.\n*The Zane Driver does not have an individual card recognition function.",
+          "translation": "Insert the Zein Card into the Zein Driver's card slot. The \"card loading\" and \"standby\" sounds will play. *The Zein Driver does not have individual card recognition.",
           "bbox": [0.104, 0.4529, 0.3718, 0.0302]
         },
         {
           "text": "装填するゼインカードの種類はどれでも問題ありません。",
-          "translation": "It doesn't matter what type of Zane card you load.",
+          "translation": "Any type of Zein Card may be loaded.",
           "bbox": [0.1173, 0.4871, 0.3283, 0.0072]
         },
         {
           "text": "ゼインドライバーのレバーを矢印の方向に引いて手を離します。\n(レバーが引けなくなるぐらい最後まで引ききってください。)\nレバーが自動で戻り「執行音」と「シュレッダー音」が鳴り、\n装填したゼインカードがドライバー内部に収納され、\n裁断カードがドライバー下部から現れます。",
-          "translation": "Pull the lever on the Zane Driver in the direction of the arrow and release it.\n(Pull the lever all the way until it can no longer be pulled.)\nThe lever will automatically return, an \"execution sound\" and a \"shredder sound\" will be heard,\nthe loaded Zane Card will be stored inside the Driver,\nand the shredded card will emerge from the bottom of the Driver.",
+          "translation": "Pull the Zein Driver's lever in the direction of the arrow, then release it. (Pull it fully until it can no longer be pulled.) The lever will return automatically and the \"Execution\" and \"Shredder\" sounds will play. The loaded Zein Card will be stored inside the driver, and the cut card will appear from the bottom of the driver.",
           "bbox": [0.104, 0.58, 0.3682, 0.0531]
         },
         {
           "text": "・ゼインカード",
-          "translation": "・Zane Card",
+          "translation": "・Zein Card",
           "bbox": [0.6898, 0.0782, 0.0611, 0.0051]
         },
         {
           "text": "裁断カード\n収納レバー",
-          "translation": "Cutting card storage lever",
+          "translation": "Cut-card storage lever",
           "bbox": [0.6614, 0.1694, 0.0496, 0.0147]
         },
         {
@@ -1587,7 +1586,7 @@
         },
         {
           "text": "ディメンション",
-          "translation": "dimension",
+          "translation": "Dimension",
           "bbox": [0.7854, 0.3065, 0.1064, 0.0103]
         },
         {
@@ -1597,12 +1596,12 @@
         },
         {
           "text": "※レバーが自動で戻る際、指はさみに\nご注意ください。 また、レバーを無理やり\n押し込まないでください。",
-          "translation": "*Please be careful not to pinch your fingers when the lever automatically returns to its original position. Also, do not forcefully push the lever in.",
+          "translation": "*Be careful not to pinch your fingers when the lever returns automatically. Also, do not forcefully push the lever in.",
           "bbox": [0.7019, 0.6075, 0.2461, 0.0302]
         },
         {
           "text": "レバー",
-          "translation": "lever",
+          "translation": "Lever",
           "bbox": [0.584, 0.6428, 0.0333, 0.0051]
         },
         {
@@ -1612,22 +1611,22 @@
         },
         {
           "text": "プログライズキーを押し込みます。",
-          "translation": "Press the program key.",
+          "translation": "Push the Progrise Key in.",
           "bbox": [0.104, 0.7545, 0.1995, 0.0072]
         },
         {
           "text": "「ディメンション能力音」が鳴ります。\n※「ディメンション能力音」 後に 「ディメンションモード」は解除されます。",
-          "translation": "The \"Dimension Ability Sound\" will be heard. \n* After the \"Dimension Ability Sound\" is heard, \"Dimension Mode\" will be canceled.",
+          "translation": "The \"Dimension Ability\" sound will play. *After the \"Dimension Ability\" sound plays, Dimension Mode will be canceled.",
           "bbox": [0.1046, 0.7662, 0.4057, 0.0189]
         },
         {
           "text": "※①~③で再度ゼインドライバーの底面ボタンを長押しすると",
-          "translation": "※If you press and hold the bottom button of the Zane Driver again in ①~③",
+          "translation": "*If you press and hold the bottom button of the Zein Driver again during steps ①–③,",
           "bbox": [0.1052, 0.7888, 0.3597, 0.0075]
         },
         {
           "text": "「モード切り替え音」 が鳴り、 ディメンションモードが解除されます。\n※ゼインプログライズキーの「ライダー名」 音を鳴らしてから約30秒以内に",
-          "translation": "A \"mode switching sound\" will play and Dimension Mode will be released. \n*Zane Progrise Key \"Rider name\" within approximately 30 seconds of the sound being played",
+          "translation": "a \"mode switching\" sound will play and Dimension Mode will be canceled. *Within approximately 30 seconds after the Zein Progrise Key's \"Rider name\" sound is played,",
           "bbox": [0.1052, 0.8005, 0.4323, 0.0189]
         },
         {
@@ -1637,22 +1636,22 @@
         },
         {
           "text": "「ディメンション能力遊び」をした場合、",
-          "translation": "If you play \"Dimension Ability Play\",",
+          "translation": "If you performed the \"Dimension Ability\" play,",
           "bbox": [0.1185, 0.8231, 0.2177, 0.0079]
         },
         {
           "text": "「ディメンション能力音」と",
-          "translation": "\"Dimension ability sound\"",
+          "translation": "both the \"Dimension Ability\" sound",
           "bbox": [0.1185, 0.8344, 0.1463, 0.0075]
         },
         {
           "text": "「ライダー能力音」の両方が鳴ります。\n※装填したゼインカードはゼインドライバーの\nカード取り出し口から引き抜きます。\n※出現した裁断カードはゼインドライバーの\n裁断カード収納レバーを引くと\n再度ドライバー内部に収納されます。\n※裁断カードは取り外しできません。\n※ゼインドライバーに装填できるカードは1枚のみです。\n必ずカードスロット及びカード取り出し口にゼインカードがない状態で",
-          "translation": "Both \"Rider ability sounds\" will sound.\n*The loaded Zane Card can be removed from the Zane Driver's card ejection slot.\n*The released Cut Card will be stored back inside the driver by pulling the Zane Driver's Cut Card storage lever.\n*Cut Cards cannot be removed.\n*Only one card can be loaded into the Zane Driver.\nMake sure there is no Zane Card in the card slot or card ejection slot.",
+          "translation": "and the \"Rider ability\" sound will play. *Remove the loaded Zein Card from the Zein Driver by pulling it out from the card ejection slot. *To store the cut card that has appeared back into the driver, pull the Zein Driver's cut-card storage lever; it will be stored inside the driver again. *The cut card cannot be detached. *Only one card can be loaded into the Zein Driver. Be sure there is no Zein Card in the card slot or card ejection slot before",
           "bbox": [0.1046, 0.8461, 0.4135, 0.0994]
         },
         {
           "text": "カードを装填してください。",
-          "translation": "Please load a card.",
+          "translation": "loading a card. (Please load a card.)",
           "bbox": [0.1173, 0.9489, 0.1566, 0.0072]
         }
       ]
@@ -1667,67 +1666,67 @@
         },
         {
           "text": "プログライズキーを矢印の方向に手で引き抜きます。",
-          "translation": "Pull out the Progrise Key by hand in the direction of the arrow.",
+          "translation": "Pull the Progrise Key out by hand in the direction of the arrow.",
           "bbox": [0.0417, 0.0785, 0.3053, 0.0103]
         },
         {
           "text": "変身解除音が鳴ります。",
-          "translation": "The transformation cancellation sound will be heard.",
+          "translation": "A transformation-cancel sound will play.",
           "bbox": [0.0544, 0.0982, 0.1366, 0.0098]
         },
         {
           "text": "別売りの飛電ゼロワンドライバーで変身!\n※詳しくは別売りのDX飛電ゼロワンドライバーの\nWEB取説もご参照ください。\nゼインプログライズキーのボタンを押します。\n→キーが展開し「ゼイン音」と「変身待機音」が鳴ります。\n※もう一度ボタンを押すと、「ゼインズアビリティ音」が鳴り",
-          "translation": "Transform with the separately sold Hiden Zero-One Driver!\n*For more details, please refer to the web instruction manual for the separately sold DX Hiden Zero-One Driver.\nPress the button on the Zane Progrise Key.\n→The key will unfold and the \"Zane sound\" and \"transformation standby sound\" will play.\n*Press the button again to play the \"Zane's ability sound.\"",
+          "translation": "Transform using the separately sold Hiden Zero-One Driver!\n*For details, please also refer to the web instruction manual for the separately sold DX Hiden Zero-One Driver.\nPress the button on the Zein Progrise Key.\n→ The key will unfold and the “Zein” sound and the “transformation standby” sound will play.\n*If you press the button again, the “Zein’s Ability” sound will play.",
           "bbox": [0.0405, 0.2468, 0.4782, 0.1201]
         },
         {
           "text": "「変身待機音」 が止まります。",
-          "translation": "The \"transformation standby sound\" will stop.",
+          "translation": "The “transformation standby” sound will stop.",
           "bbox": [0.1167, 0.3726, 0.1614, 0.0103]
         },
         {
           "text": "約30秒以内に飛電ゼロワンドライバーの\n2 スキャンエリアに、プログライズキーを図の向きにしてかざします。",
-          "translation": "Within approximately 30 seconds, hold the Progrise Key over the Hiden Zero-One Driver's \n2 scan area in the orientation shown in the diagram.",
+          "translation": "Within approximately 30 seconds, hold the Progrise Key over the Hiden Zero-One Driver’s 2 scan area with the key oriented as shown.",
           "bbox": [0.058, 0.4525, 0.4232, 0.0257]
         },
         {
           "text": "飛電ゼロワンドライバー",
-          "translation": "Hiden Zero One Driver",
+          "translation": "Hiden Zero-One Driver",
           "bbox": [0.1028, 0.496, 0.1433, 0.0094]
         },
         {
           "text": "「スキャン音」の後、「変身待機音」が鳴り、\nLEDが約30秒間点滅します。",
-          "translation": "After the scanning sound, a transformation standby sound will sound and\nthe LED will flash for about 30 seconds.",
+          "translation": "After the “scan” sound, the “transformation standby” sound will play and the LED will blink for about 30 seconds.",
           "bbox": [0.1167, 0.5161, 0.2352, 0.0257]
         },
         {
           "text": "プログライズキー\n「オーソライズ」の音声が鳴ります。",
-          "translation": "PROGRAM KEY\nYou will hear the voice saying \"Authorize.\"",
+          "translation": "The Progrise Key will play the voice “Authorize.”",
           "bbox": [0.1028, 0.5652, 0.2158, 0.0313]
         },
         {
           "text": "※スキャンをしても「オーソライズ」の\n音声が鳴らない場合は、そのまま変身遊びを\n続けても正しく変身できません。\n1のボタンを押すところから操作を\nやり直してください。",
-          "translation": "*If you don't hear the \"Authorize\" sound after scanning, you won't be able to transform correctly even if you continue playing the transformation game.\nPlease start over from pressing button 1.",
+          "translation": "*If the “Authorize” voice does not play after scanning, you will not be able to transform correctly by continuing. Please start the procedure over from the step of pressing button 1.",
           "bbox": [0.1064, 0.6129, 0.2715, 0.0729]
         },
         {
           "text": "「変身待機音」が鳴っている間に、 プログライズキーを\n飛電ゼロワンドライバーのスロットに奥までしっかりと挿入します。",
-          "translation": "While the transformation standby sound is playing, insert the Progrise Key all the way into the slot on the Hiden Zero-One Driver.",
+          "translation": "While the “transformation standby” sound is playing, firmly insert the Progrise Key all the way into the slot of the Hiden Zero-One Driver.",
           "bbox": [0.1022, 0.7129, 0.3791, 0.0257]
         },
         {
           "text": "飛電ゼロワンドライバー",
-          "translation": "Hiden Zero One Driver",
+          "translation": "Hiden Zero-One Driver",
           "bbox": [0.1028, 0.7578, 0.1433, 0.0094]
         },
         {
           "text": "カバーパーツがスライドし、",
-          "translation": "The cover parts slide,",
+          "translation": "The cover parts will slide,",
           "bbox": [0.1161, 0.7784, 0.1602, 0.0094]
         },
         {
           "text": "「プログライズ!」の音声が鳴り、LEDが光ります。",
-          "translation": "The voice will say \"Progrise!\" and the LED will light up.",
+          "translation": "the voice “Progrise!” will play and the LED will light.",
           "bbox": [0.1167, 0.7934, 0.283, 0.0108]
         },
         {
@@ -1737,12 +1736,12 @@
         },
         {
           "text": "「変身音」が鳴ります。",
-          "translation": "The transformation sound will be heard.",
+          "translation": "A transformation sound will play.",
           "bbox": [0.1167, 0.8481, 0.1233, 0.0103]
         },
         {
           "text": "ゼイン",
-          "translation": "Zayn",
+          "translation": "Zein",
           "bbox": [0.783, 0.3072, 0.049, 0.0136]
         },
         {
@@ -1752,12 +1751,12 @@
         },
         {
           "text": "プログライズ",
-          "translation": "Programme",
+          "translation": "Progrise",
           "bbox": [0.4879, 0.7709, 0.0973, 0.0136]
         },
         {
           "text": "オーソライズ",
-          "translation": "Authorization",
+          "translation": "Authorize",
           "bbox": [0.662, 0.4675, 0.0985, 0.0126]
         },
         {

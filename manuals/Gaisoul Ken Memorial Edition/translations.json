@@ -1,0 +1,2096 @@
+{
+  "meta": {
+    "manual_name": "Gaisoul Ken Memorial Edition",
+    "source": "Gaisoul Ken Memorial Edition.pdf",
+    "source_lang": "ja",
+    "target_lang": "en",
+    "source_url": "",
+    "blog_url": "",
+    "pages": 16,
+    "blocks": 400,
+    "thumbnail": "pages/page-0.webp",
+    "tags": ["dx", "kamen-rider", "memorial", "sentai"]
+  },
+  "pages": [
+    {
+      "image": "pages/page-0.webp",
+      "blocks": [
+        {
+          "text": "©2019 テレビ朝日・東映AG・東映",
+          "translation": "©2019 TV Asahi・Toei AG・Toei",
+          "bbox": [0.0712, 0.1372, 0.1621, 0.0073]
+        },
+        {
+          "text": "ヴィソーケン",
+          "translation": "Gaisoul Ken",
+          "bbox": [0.1286, 0.3603, 0.7238, 0.1106]
+        },
+        {
+          "text": "-MEMORIAL",
+          "translation": "-MEMORIAL",
+          "bbox": [0.1612, 0.4849, 0.3165, 0.0151]
+        },
+        {
+          "text": "EDITION-",
+          "translation": "EDITION-",
+          "bbox": [0.5326, 0.4849, 0.2521, 0.0145]
+        },
+        {
+          "text": "取扱説明書",
+          "translation": "Instruction Manual",
+          "bbox": [0.3842, 0.5423, 0.2281, 0.032]
+        },
+        {
+          "text": "目次",
+          "translation": "Table of Contents",
+          "bbox": [0.1304, 0.627, 0.0515, 0.0181]
+        },
+        {
+          "text": "ガイソーケンの各部名称 -",
+          "translation": "Names of Gaisoul Ken's Parts -",
+          "bbox": [0.1295, 0.6644, 0.2298, 0.0127]
+        },
+        {
+          "text": "セリフ遊び",
+          "translation": "Voice Line Play",
+          "bbox": [0.5403, 0.6651, 0.0986, 0.0109]
+        },
+        {
+          "text": "8",
+          "translation": "8",
+          "bbox": [0.8568, 0.6669, 0.0086, 0.0067]
+        },
+        {
+          "text": "電池の入れ方",
+          "translation": "How to Insert the Batteries",
+          "bbox": [0.1286, 0.6953, 0.1235, 0.0121]
+        },
+        {
+          "text": "特殊変身遊び",
+          "translation": "Special Transformation Play",
+          "bbox": [0.5386, 0.6935, 0.1244, 0.0139]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.8559, 0.6971, 0.0103, 0.0073]
+        },
+        {
+          "text": "電源の入れ方",
+          "translation": "How to Turn On the Power",
+          "bbox": [0.1278, 0.7255, 0.1244, 0.0115]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.4666, 0.7285, 0.0103, 0.0067]
+        },
+        {
+          "text": "BGM遊び",
+          "translation": "BGM Play",
+          "bbox": [0.5403, 0.7255, 0.0926, 0.0115]
+        },
+        {
+          "text": "ガイソーケン単体の遊び方",
+          "translation": "How to Play with the Gaisoul Ken (Standalone)",
+          "bbox": [0.1295, 0.7557, 0.241, 0.0133]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.4657, 0.7588, 0.012, 0.0048]
+        },
+        {
+          "text": "カナエソウル特別挙動",
+          "translation": "Kanae Soul Special Actions",
+          "bbox": [0.5403, 0.7551, 0.2007, 0.0133]
+        },
+        {
+          "text": "リュウソウルの各部名称\nリュウソウルの遊び方",
+          "translation": "Names of Ryusoul Parts\nHow to Play with Ryusouls",
+          "bbox": [0.1312, 0.786, 0.2136, 0.0429]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.4657, 0.789, 0.0103, 0.0073]
+        },
+        {
+          "text": "【特別メッセージ】-",
+          "translation": "[Special Message] -",
+          "bbox": [0.5403, 0.7842, 0.1707, 0.0145]
+        },
+        {
+          "text": "10",
+          "translation": "10",
+          "bbox": [0.8533, 0.7872, 0.0172, 0.0079]
+        },
+        {
+          "text": "カナエソウル特別挙動",
+          "translation": "Kanae Soul Special Actions",
+          "bbox": [0.5403, 0.8156, 0.2007, 0.0133]
+        },
+        {
+          "text": "ガイソーケンの遊び方",
+          "translation": "How to Play with the Gaisoul Ken",
+          "bbox": [0.1295, 0.8458, 0.199, 0.0139]
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.4657, 0.8495, 0.0094, 0.0067]
+        },
+        {
+          "text": "【幻の7人並び変身】",
+          "translation": "[The Phantom 7-Person Lineup Transformation]",
+          "bbox": [0.5395, 0.844, 0.1827, 0.0145]
+        },
+        {
+          "text": "-----",
+          "translation": "-----",
+          "bbox": [0.783, 0.8507, 0.0532, 0.0042]
+        },
+        {
+          "text": "必殺攻撃遊び",
+          "translation": "Finishing Attack Play",
+          "bbox": [0.1286, 0.8779, 0.1252, 0.0121]
+        },
+        {
+          "text": "セリフ一覧",
+          "translation": "List of Lines",
+          "bbox": [0.5403, 0.8761, 0.0969, 0.0139]
+        },
+        {
+          "text": "10",
+          "translation": "10",
+          "bbox": [0.8533, 0.8482, 0.0172, 0.0079]
+        },
+        {
+          "text": "11~14",
+          "translation": "11~14",
+          "bbox": [0.8105, 0.8767, 0.0626, 0.0121]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-1.webp",
+      "blocks": [
+        {
+          "text": "セット内容",
+          "translation": "Set Contents",
+          "bbox": [0.1312, 0.0949, 0.0969, 0.0145]
+        },
+        {
+          "text": "取扱説明書",
+          "translation": "Instruction Manual",
+          "bbox": [0.2624, 0.0907, 0.072, 0.0097]
+        },
+        {
+          "text": "--1",
+          "translation": "--1",
+          "bbox": [0.4605, 0.0913, 0.018, 0.0079]
+        },
+        {
+          "text": "ガイソウル",
+          "translation": "Gaisoul",
+          "bbox": [0.506, 0.0913, 0.0686, 0.0079]
+        },
+        {
+          "text": "JASRAC",
+          "translation": "JASRAC",
+          "bbox": [0.783, 0.0786, 0.0935, 0.0187]
+        },
+        {
+          "text": "ガイソーケン",
+          "translation": "Gaisouken",
+          "bbox": [0.2633, 0.1064, 0.0823, 0.0079]
+        },
+        {
+          "text": "..1 カナエソウル",
+          "translation": "... 1 Kanae Seoul",
+          "bbox": [0.4623, 0.1064, 0.1269, 0.0085]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.7127, 0.107, 0.006, 0.0067]
+        },
+        {
+          "text": "T-2180066",
+          "translation": "T-2180066",
+          "bbox": [0.7882, 0.1052, 0.0806, 0.0079]
+        },
+        {
+          "text": "△注意",
+          "translation": "△Caution",
+          "bbox": [0.1458, 0.1669, 0.0969, 0.0151]
+        },
+        {
+          "text": "お買い上げのお客様へ 必ずお読みください。",
+          "translation": "To customers who purchased this product: Please read this carefully.",
+          "bbox": [0.2753, 0.1675, 0.3696, 0.0133]
+        },
+        {
+          "text": "●本商品の対象年齢は15才以上です。 対象年齢未満のお子様には絶対に与えないでください。\n●小さな部品、電池がありますので、小さなお子様が誤って飲み込まないように注意してください。\n窒息などの危険があります。\n●尖った部分や鋭い部分がありますので、取扱や保管場所に注意してください。思わぬケガをする\n恐れがあります。\n●本商品には電子部品を使用しておりますので、ペースメーカーをご使用の方はご注意ください。\n●耳の近くで使用してはいけません。 誤って使用すると、聴覚を損なう恐れがあります。\nLEDの光の点滅を見続けないでください。 気分が悪くなったりする恐れがあります。\n<電池を誤使用すると発熱・破裂・ 液漏れの恐れがあります。 下記に注意してください)\n●二次電池(充電式電池) は、 絶対に使用しないでください。\n●古い電池と新しい電池、 いろいろな種類の電池をまぜて使わないでください。\n+(プラスマイナス) を正しくセットしてください。\n●遊んだ後は必ずスイッチを切り電池をはずしてください。 電池を入れたままにしておくと、液漏れの\n恐れがあり危険です。\n●ショートさせたり充電、 分解、 加熱、火の中に入れたりしないでください。\n●万一、 電池から漏れた液が目に入ったときはすぐに大量の水で洗い、医師に相談してください。\n皮膚や服に付いた時は水で洗ってください。\n●廃棄するときは、 自治体の廃棄処理の指示に従ってください。",
+          "translation": "● This product is for Ages 15+. Do not give it to children under the target age.\n● This product contains small parts and batteries. Take care that small children do not accidentally swallow them; there is a risk of choking.\n● There are pointed and sharp parts. Handle and store with care to avoid accidental injury.\n● This product contains electronic components; people using pacemakers should exercise caution.\n● Do not use near the ear. If used improperly, hearing may be damaged.\n● Do not stare at flashing LED lights. Continuous viewing of flashing LED light may cause discomfort or illness.\n<Improper use of batteries may cause overheating, rupture, or leakage. Observe the following:>\n● Do not use secondary (rechargeable) batteries under any circumstances.\n● Do not mix old and new batteries or different types of batteries.\n● Set the +− (plus/minus) correctly.\n● After playing, always turn the switch off and remove the batteries. Leaving batteries installed may cause leakage and is dangerous.\n● Do not short-circuit, attempt to charge, disassemble, heat, or put batteries into fire.\n● If battery fluid gets into your eyes, immediately rinse with plenty of water and consult a physician. If it gets on skin or clothing, wash with water.\n● When disposing of the product, follow your local municipality's disposal instructions.",
+          "bbox": [0.1304, 0.1977, 0.7376, 0.2823]
+        },
+        {
+          "text": "【使用上の注意>",
+          "translation": "[Precautions for Use]",
+          "bbox": [0.1175, 0.4982, 0.1278, 0.0127]
+        },
+        {
+          "text": "●プラスチック梱包材は開封後はすぐに捨ててください。\n●本商品には塗装部分がありますので、保管の際には他のもの (樹脂製品や家具、ソファー)と接触しない\nようにしてください。 色が移る場合があります。\n●可動部分・取付部分を無理な方向に強く引っ張ったり、曲げたりしないでください。\n●発音の一部にイントネーションが違っていたり、 商品の特性上聞き取りにくいものがありますが、ご了承\nください。",
+          "translation": "● Dispose of plastic packaging material immediately after opening.\n● This product has painted parts; when storing, do not let it contact other items (such as resin products, furniture, or sofas). Color transfer may occur.\n● Do not forcefully pull, bend, or twist movable parts or attachment points in directions they are not intended to move.\n● Some spoken lines may have different intonation or may be difficult to understand due to the nature of the product; please understand.",
+          "bbox": [0.1304, 0.5169, 0.7513, 0.0913]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-2.webp",
+      "blocks": [
+        {
+          "text": "ガイソーケンの各部名称",
+          "translation": "Names of the parts of the Gaisouken",
+          "bbox": [0.1707, 0.055, 0.4717, 0.029]
+        },
+        {
+          "text": "全体図",
+          "translation": "Overall view",
+          "bbox": [0.1192, 0.1252, 0.0789, 0.0181]
+        },
+        {
+          "text": "トリガー",
+          "translation": "Trigger",
+          "bbox": [0.1278, 0.8495, 0.0626, 0.0115]
+        },
+        {
+          "text": "電源スイッチ",
+          "translation": "Power switch",
+          "bbox": [0.5223, 0.3132, 0.1063, 0.0121]
+        },
+        {
+          "text": "解除ボタン",
+          "translation": "Release button",
+          "bbox": [0.7736, 0.3349, 0.0883, 0.0139]
+        },
+        {
+          "text": "電池ぶた A-",
+          "translation": "Battery cover A-",
+          "bbox": [0.5609, 0.4111, 0.0995, 0.0097]
+        },
+        {
+          "text": "LED",
+          "translation": "LED",
+          "bbox": [0.3962, 0.4456, 0.0395, 0.0097]
+        },
+        {
+          "text": "レバー",
+          "translation": "Lever",
+          "bbox": [0.4022, 0.5949, 0.0506, 0.0091]
+        },
+        {
+          "text": "ロック解除グリップ",
+          "translation": "Lock release grip",
+          "bbox": [0.3431, 0.7775, 0.1578, 0.0133]
+        },
+        {
+          "text": "グリップ",
+          "translation": "Grip",
+          "bbox": [0.3276, 0.8761, 0.0712, 0.0109]
+        },
+        {
+          "text": "拡大図",
+          "translation": "Enlarged view",
+          "bbox": [0.7933, 0.7164, 0.078, 0.0163]
+        },
+        {
+          "text": "セリフボタン",
+          "translation": "Dialogue button",
+          "bbox": [0.7196, 0.896, 0.1029, 0.0115]
+        },
+        {
+          "text": "BGMボタン",
+          "translation": "BGM button",
+          "bbox": [0.8508, 0.8948, 0.0978, 0.0127]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.9357, 0.9528, 0.0154, 0.0103]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-3.webp",
+      "blocks": [
+        {
+          "text": "電池の入れ方",
+          "translation": "How to insert the batteries",
+          "bbox": [0.1664, 0.0544, 0.2727, 0.0284]
+        },
+        {
+          "text": "※電源スイッチがOFFになっていることを確認してください。\n※音が小さくなって聞きとりにくくなったり、 音が止まるなどの誤動作をする場合や、\nLEDの発光が弱くなった場合は、すべて新しい電池に交換してください。",
+          "translation": "Ensure that the power switch is OFF.\nReplace all batteries with new ones if the sound becomes faint or difficult to hear, if the sound stops or other malfunctions occur, or if the LED illumination becomes weak.",
+          "bbox": [0.0635, 0.1203, 0.518, 0.0435]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.8293, 0.1197, 0.0103, 0.0097]
+        },
+        {
+          "text": "単4 x3",
+          "translation": "AAA ×3",
+          "bbox": [0.8619, 0.1179, 0.0686, 0.0091]
+        },
+        {
+          "text": "単4乾電池3本使用(別売り)",
+          "translation": "Uses 3 AAA batteries (sold separately)",
+          "bbox": [0.8027, 0.1415, 0.1492, 0.0079]
+        },
+        {
+          "text": "●アルカリ電池推奨",
+          "translation": "●Alkaline batteries recommended",
+          "bbox": [0.8027, 0.159, 0.1458, 0.0121]
+        },
+        {
+          "text": "電池ぶた A",
+          "translation": "Battery cover A",
+          "bbox": [0.1775, 0.3271, 0.0712, 0.0085]
+        },
+        {
+          "text": "電池ぶた B",
+          "translation": "Battery cover B",
+          "bbox": [0.5412, 0.3458, 0.0695, 0.0079]
+        },
+        {
+          "text": "1.電池ぶたAを下部から取り外します。",
+          "translation": "1. Remove battery cover A from the bottom.",
+          "bbox": [0.0635, 0.6004, 0.295, 0.0181]
+        },
+        {
+          "text": "突起",
+          "translation": "Protrusion",
+          "bbox": [0.1852, 0.7684, 0.0292, 0.0091]
+        },
+        {
+          "text": "2. ①電池ぶたBを取り外します。\n①-1 ガイソーケン背面の電池ぶたBの\nネジ2箇所を+または、ドライバーで\n矢印の方向に回し、\n①-2 電池ぶたBを取り外します。",
+          "translation": "2. ① Remove battery cover B.\n①-1 Turn the two screws on battery cover B on the back of the Gaisouken in the direction of the arrows using a + (Phillips) or − (flat) screwdriver.\n①-2 Remove battery cover B.",
+          "bbox": [0.5626, 0.4867, 0.3628, 0.0846]
+        },
+        {
+          "text": "②乾電池を入れます。",
+          "translation": "② Insert the batteries.",
+          "bbox": [0.6003, 0.5768, 0.1552, 0.0109]
+        },
+        {
+          "text": "単4乾電池3本(別売り)の+をそれぞれ\n間違えないように入れます。",
+          "translation": "Insert three AAA batteries (sold separately), taking care to align the + terminal of each correctly.",
+          "bbox": [0.6184, 0.5931, 0.3045, 0.0284]
+        },
+        {
+          "text": "突起",
+          "translation": "Protrusion",
+          "bbox": [0.6449, 0.7297, 0.0292, 0.0085]
+        },
+        {
+          "text": "ミゾ",
+          "translation": "Groove",
+          "bbox": [0.9245, 0.7485, 0.0283, 0.0079]
+        },
+        {
+          "text": "ミゾ",
+          "translation": "Groove",
+          "bbox": [0.163, 0.8452, 0.0257, 0.0085]
+        },
+        {
+          "text": "3.電池ぶたBを戻します。\n電池ぶたBの突起とガイソーケンのミゾを合わせ、\n電池ぶたBのネジ2箇所を①-1と逆方向に回して閉じます。",
+          "translation": "3. Replace battery cover B.\nAlign the protrusion of battery cover B with the groove on the Gaisouken, then turn the two screws on battery cover B in the direction opposite to ①-1 to close it.",
+          "bbox": [0.0592, 0.873, 0.4503, 0.0526]
+        },
+        {
+          "text": "【裏側から見た図】",
+          "translation": "[View from the back]",
+          "bbox": [0.5643, 0.8446, 0.1132, 0.0103]
+        },
+        {
+          "text": "4. 電池ぶたAを戻します。\n電池ぶたAの突起とガイソーケンのミゾを\nそれぞれ合わせ、カチッと音が鳴るまで\nはめ込みます。",
+          "translation": "4. Reattach battery cover A.\nAlign the protrusion of battery cover A with the groove on the Gaisouken and press it in until it clicks.",
+          "bbox": [0.5626, 0.8755, 0.3379, 0.0665]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-4.webp",
+      "blocks": [
+        {
+          "text": "電源の入れ方\nガイソーケン背面の電源スイッチを",
+          "translation": "How to turn on the power\nSet the power switch on the back of the Gaisoul Ken",
+          "bbox": [0.0703, 0.0532, 0.3645, 0.0683]
+        },
+        {
+          "text": "ONにします。\n「ガイソーケン!」が鳴り、\nLEDが光ります。",
+          "translation": "to ON. \"Gaisoul Ken!\" will sound, and the LED will light.",
+          "bbox": [0.0695, 0.1282, 0.1947, 0.049]
+        },
+        {
+          "text": "※遊び終わった後は、必ず電源スイッチを",
+          "translation": "*After playing, be sure to set the power switch",
+          "bbox": [0.0703, 0.205, 0.301, 0.0115]
+        },
+        {
+          "text": "OFFにしてください。",
+          "translation": "to OFF.",
+          "bbox": [0.0858, 0.2237, 0.1501, 0.0109]
+        },
+        {
+          "text": "電源スイッチ",
+          "translation": "Power switch",
+          "bbox": [0.8293, 0.1161, 0.0815, 0.0097]
+        },
+        {
+          "text": "OFF→ON",
+          "translation": "OFF→ON",
+          "bbox": [0.8165, 0.2213, 0.0875, 0.0085]
+        },
+        {
+          "text": "ガイソーケン単体の遊び方",
+          "translation": "How to play with the Gaisoul Ken on its own",
+          "bbox": [0.169, 0.2975, 0.5232, 0.0302]
+        },
+        {
+          "text": "※ガイソウルを\nセットしない状態\nから始めます。",
+          "translation": "*Start with the Gaisoul not set.",
+          "bbox": [0.0703, 0.3555, 0.1801, 0.0574]
+        },
+        {
+          "text": "斬撃遊び",
+          "translation": "Slash action",
+          "bbox": [0.1184, 0.4371, 0.1184, 0.0181]
+        },
+        {
+          "text": "トリガーを短押しします。\n→押す度に 「斬撃音」が鳴り、\nLEDが光ります。",
+          "translation": "Press the trigger briefly.\n→ Each time you press, the \"slashing\" sound plays and the LED lights.",
+          "bbox": [0.0686, 0.477, 0.2075, 0.0478]
+        },
+        {
+          "text": "レバー操作〈口の開閉〉の仕方",
+          "translation": "Lever operation (opening/closing the mouth)",
+          "bbox": [0.536, 0.3597, 0.3593, 0.02]
+        },
+        {
+          "text": "ロック解除グリップを\n握りながら、 レバーを\n下げ、口を開けます。\n「口開き音」が",
+          "translation": "While holding the lock release grip, lower the lever to open the mouth.\nThe \"mouth-opening\" sound",
+          "bbox": [0.5206, 0.3978, 0.1552, 0.0665]
+        },
+        {
+          "text": "鳴ります。",
+          "translation": "will sound.",
+          "bbox": [0.5377, 0.4722, 0.0678, 0.0115]
+        },
+        {
+          "text": "レバー",
+          "translation": "Lever",
+          "bbox": [0.8062, 0.4148, 0.0497, 0.0097]
+        },
+        {
+          "text": "※ロック解除\nグリップを\n握りながら\n行います。",
+          "translation": "*Perform while holding the lock release grip.",
+          "bbox": [0.8834, 0.4075, 0.0746, 0.0429]
+        },
+        {
+          "text": "●「セリフ遊び」で\nノーマルモード以外の際は、\nトリガーを押すと\n「斬撃音」とかけ声が\n交互に鳴ります。",
+          "translation": "● In \"Dialogue Play,\" when in modes other than Normal Mode, pressing the trigger will alternately play the \"slashing\" sound and a battle cry.",
+          "bbox": [0.0746, 0.5635, 0.2118, 0.0919]
+        },
+        {
+          "text": "※「セリフ遊び」の詳細は、",
+          "translation": "*For details on \"Dialogue Play,\"",
+          "bbox": [0.0703, 0.6747, 0.1835, 0.0109]
+        },
+        {
+          "text": "ロック解除グリップ",
+          "translation": "Lock release grip",
+          "bbox": [0.8276, 0.5665, 0.1218, 0.0103]
+        },
+        {
+          "text": "本書8ページをご覧ください。",
+          "translation": "Please see page 8 of this manual.",
+          "bbox": [0.0858, 0.6935, 0.2084, 0.0109]
+        },
+        {
+          "text": "ロック解除グリップを\n握りながら、 レバーを\n上げ、口を閉じます。\n「口閉じ音」が鳴り、\nLEDが光ります。",
+          "translation": "While holding the lock release grip, lift the lever to close the mouth. The \"mouth-closing\" sound will play, and the LED will light.",
+          "bbox": [0.5206, 0.7183, 0.1561, 0.0859]
+        },
+        {
+          "text": "※ロック解除\nグリップを\n握りながら\n行います。",
+          "translation": "*Perform while holding the lock release grip.",
+          "bbox": [0.8825, 0.8065, 0.0746, 0.0435]
+        },
+        {
+          "text": "トリガー",
+          "translation": "Trigger",
+          "bbox": [0.2736, 0.8924, 0.0489, 0.0097]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.9357, 0.9541, 0.0154, 0.0091]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-5.webp",
+      "blocks": [
+        {
+          "text": "リュウソウルの各部名称",
+          "translation": "Ryusoul — Part Names",
+          "bbox": [0.1741, 0.0544, 0.4631, 0.0284]
+        },
+        {
+          "text": "ガイソウル",
+          "translation": "Gaisoul",
+          "bbox": [0.2153, 0.1294, 0.1158, 0.0157]
+        },
+        {
+          "text": "カナエソウル",
+          "translation": "Kanae Soul",
+          "bbox": [0.6621, 0.1306, 0.1407, 0.0139]
+        },
+        {
+          "text": "正面から見た図",
+          "translation": "Front view",
+          "bbox": [0.0823, 0.1729, 0.1467, 0.0151]
+        },
+        {
+          "text": "背面から見た図",
+          "translation": "Rear view",
+          "bbox": [0.3113, 0.1735, 0.1441, 0.0133]
+        },
+        {
+          "text": "正面から見た図",
+          "translation": "Front view",
+          "bbox": [0.542, 0.1735, 0.1458, 0.0139]
+        },
+        {
+          "text": "背面から見た図",
+          "translation": "Rear view",
+          "bbox": [0.7702, 0.1735, 0.1458, 0.0139]
+        },
+        {
+          "text": "上半身",
+          "translation": "Upper body",
+          "bbox": [0.2075, 0.2527, 0.0583, 0.0139]
+        },
+        {
+          "text": "変形ボタン",
+          "translation": "Transformation button",
+          "bbox": [0.1904, 0.4559, 0.0909, 0.0115]
+        },
+        {
+          "text": "凸部",
+          "translation": "Protrusion",
+          "bbox": [0.3954, 0.4577, 0.036, 0.0127]
+        },
+        {
+          "text": "3 リュウソウルの遊び方",
+          "translation": "3 How to Play with Ryusouls",
+          "bbox": [0.0858, 0.5073, 0.5197, 0.0314]
+        },
+        {
+          "text": "※ガイソウルを例に\n説明します。",
+          "translation": "*Gaisoul is used as an example.",
+          "bbox": [0.0815, 0.5671, 0.1775, 0.0405]
+        },
+        {
+          "text": "上半身をカチッと\n鳴るまで折りたたむと\nナイトモードから\nソウルモードに\n変形します。",
+          "translation": "Fold the upper body until it clicks to transform from Knight Mode to Soul Mode.",
+          "bbox": [0.0789, 0.6239, 0.1595, 0.0859]
+        },
+        {
+          "text": "ナイトモード",
+          "translation": "Knight Mode",
+          "bbox": [0.2873, 0.8585, 0.1467, 0.0169]
+        },
+        {
+          "text": "※パーツが外れた場合は、 元の位置に戻してください。",
+          "translation": "*If any parts come off, return them to their original positions.",
+          "bbox": [0.0806, 0.9057, 0.3894, 0.0109]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.048, 0.9534, 0.0154, 0.0115]
+        },
+        {
+          "text": "※カナエソウルも同様の遊び方となります。",
+          "translation": "*Kanae Soul is played in the same way.",
+          "bbox": [0.0806, 0.9238, 0.3079, 0.0115]
+        },
+        {
+          "text": "上半身",
+          "translation": "Upper body",
+          "bbox": [0.6664, 0.2527, 0.0609, 0.0133]
+        },
+        {
+          "text": "変形ボタン",
+          "translation": "Transformation button",
+          "bbox": [0.6501, 0.4547, 0.0901, 0.0127]
+        },
+        {
+          "text": "凸部",
+          "translation": "Protrusion",
+          "bbox": [0.8542, 0.4577, 0.036, 0.0127]
+        },
+        {
+          "text": "変形ボタンを押すと\nソウルモードから\nナイトモードに変形します。",
+          "translation": "Press the Transformation button to transform from Soul Mode to Knight Mode.",
+          "bbox": [0.765, 0.575, 0.1955, 0.0484]
+        },
+        {
+          "text": "変形ボタン",
+          "translation": "Transformation button",
+          "bbox": [0.7178, 0.8156, 0.0901, 0.0115]
+        },
+        {
+          "text": "ソウルモード",
+          "translation": "Soul Mode",
+          "bbox": [0.699, 0.8591, 0.1492, 0.0169]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-6.webp",
+      "blocks": [
+        {
+          "text": "ガイソーケンの遊び方",
+          "translation": "How to Play with the Gaisouken",
+          "bbox": [0.1698, 0.0538, 0.4348, 0.0302]
+        },
+        {
+          "text": "ガイソウルのセットの仕方\n※ガイソーケンの口を開けた状態でナイトモードの\nガイソウルをセットします。\n※ガイソーケンの電源スイッチを入れる前に\nガイソウルがセットされていると\nガイソウルを認識出来ませんので\n電源を入れてからセットしください。",
+          "translation": "How to set the Gaisoul\n※ Set the Gaisoul in Knight Mode while the mouth of the Gaisouken is open.\n※ If the Gaisoul is set before turning on the Gaisouken power switch, the Gaisoul cannot be recognized. Turn on the power first, then set the Gaisoul.",
+          "bbox": [0.0806, 0.1161, 0.4605, 0.1602]
+        },
+        {
+          "text": "①ガイソウルを\n矢印の方向に",
+          "translation": "① Set the Gaisoul in the direction of the arrow.",
+          "bbox": [0.0789, 0.2956, 0.1158, 0.0296]
+        },
+        {
+          "text": "セットします。",
+          "translation": "Set it.",
+          "bbox": [0.0961, 0.3331, 0.0961, 0.0109]
+        },
+        {
+          "text": "「セット音」、",
+          "translation": "\"Set\" sound,",
+          "bbox": [0.1132, 0.3513, 0.0823, 0.0115]
+        },
+        {
+          "text": "「ガイソーチェンジ」",
+          "translation": "\"Gaiso Change\"",
+          "bbox": [0.1123, 0.3694, 0.1415, 0.0103]
+        },
+        {
+          "text": "「変身待機音」が鳴り、",
+          "translation": "The \"transformation standby\" sound plays,",
+          "bbox": [0.1132, 0.3881, 0.1552, 0.0109]
+        },
+        {
+          "text": "LEDが光ります。",
+          "translation": "The LED lights up.",
+          "bbox": [0.1123, 0.4069, 0.1226, 0.0109]
+        },
+        {
+          "text": "ガイソーケンの\nスロット部に合わせて\nガイソウルの\n凸部をセットします。",
+          "translation": "Align the Gaisoul's protrusion with the Gaisouken's slot and set it.",
+          "bbox": [0.1381, 0.4589, 0.1587, 0.0665]
+        },
+        {
+          "text": "スロット部",
+          "translation": "Slot",
+          "bbox": [0.2067, 0.552, 0.0669, 0.0079]
+        },
+        {
+          "text": "②ロック解除グリップを握り、レバー操作で口を閉じます。\n「変身音」が鳴り、LEDが光ります。",
+          "translation": "② Hold the lock-release grip and operate the lever to close the mouth. The \"transformation\" sound plays, and the LED lights up.",
+          "bbox": [0.0789, 0.6608, 0.416, 0.029]
+        },
+        {
+          "text": "③トリガーを短押しします。\n→押す度に「斬撃音」が鳴り、\nLEDが光ります。",
+          "translation": "③ Press the trigger briefly.\n→ Each time you press it, a \"slashing\" sound plays and the LED lights up.",
+          "bbox": [0.0789, 0.7177, 0.223, 0.0478]
+        },
+        {
+          "text": "※「セリフ遊び」でノーマルモード以外の際は、\n「かけ声」 と 「斬撃音」が交互に鳴ります。",
+          "translation": "※ In \"Dialogue Mode,\" when not in Normal Mode, \"shouts\" and \"slashing\" sounds alternate.",
+          "bbox": [0.0806, 0.7757, 0.3268, 0.0314]
+        },
+        {
+          "text": "④トリガーを長押しします。\n「強攻撃音」が鳴り、LEDが光ります。",
+          "translation": "④ Press and hold the trigger. The \"strong attack\" sound plays, and the LED lights up.",
+          "bbox": [0.0789, 0.8331, 0.2993, 0.0314]
+        },
+        {
+          "text": "※「セリフ遊び」でノーマルモード以外の際は、\n「強攻撃音」以外の音声が鳴ります。",
+          "translation": "※ In \"Dialogue Mode,\" when not in Normal Mode, sounds other than the \"strong attack\" sound will play.",
+          "bbox": [0.0798, 0.8797, 0.3259, 0.0314]
+        },
+        {
+          "text": "※「セリフ遊び」の詳細は、\n本書8ページをご覧ください。",
+          "translation": "※ For details on \"Dialogue Mode,\" see page 8 of this manual.",
+          "bbox": [0.0806, 0.9317, 0.2238, 0.0308]
+        },
+        {
+          "text": "トリガー",
+          "translation": "Trigger",
+          "bbox": [0.5566, 0.9553, 0.0489, 0.0079]
+        },
+        {
+          "text": "凸部",
+          "translation": "Protrusion",
+          "bbox": [0.669, 0.5937, 0.03, 0.0091]
+        },
+        {
+          "text": "※ロック解除\nグリップを\n握りながら\n行います。",
+          "translation": "※ Perform while holding the lock-release grip.",
+          "bbox": [0.8825, 0.8597, 0.0729, 0.0441]
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.9365, 0.9541, 0.0137, 0.0109]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-7.webp",
+      "blocks": [
+        {
+          "text": "必殺攻撃遊び",
+          "translation": "Special Attack Play",
+          "bbox": [0.1671, 0.0544, 0.2742, 0.0284]
+        },
+        {
+          "text": "※6ページ「リュウソウルのセットの仕方」 ② 以降から始めます。",
+          "translation": "Start from step ② of \"How to Set the Ryusoul\" on page 6.",
+          "bbox": [0.0805, 0.1058, 0.5741, 0.0139]
+        },
+        {
+          "text": "1. レバー操作で口を開きます。\n「必殺待機音」が始まり、LEDが光ります。",
+          "translation": "1. Operate the lever to open the mouth.\n→ The \"special attack standby\" sound will play and the LED will light.",
+          "bbox": [0.0823, 0.1451, 0.3548, 0.0369]
+        },
+        {
+          "text": "※ロック解除\nグリップを\n握りながら\n行います。",
+          "translation": "*When unlocking, hold the unlock grip while performing the action.",
+          "bbox": [0.4447, 0.2062, 0.0728, 0.0435]
+        },
+        {
+          "text": "2.必殺待機音中にレバーで口を閉じます。\n→ 「必殺攻撃音」 が鳴り、LEDが光ります。",
+          "translation": "2. While the \"special attack standby\" sound is playing, close the mouth using the lever.\n→ The \"special attack\" sound will play and the LED will light.",
+          "bbox": [0.0805, 0.5181, 0.3419, 0.0375]
+        },
+        {
+          "text": "※「セリフ遊び」の各モード状態の際は、\n別の音声が鳴ります。\n※「セリフ遊び」の詳細は、\n本書8ページをご覧ください。",
+          "translation": "*Different sounds will play when in the various \"Dialogue Play\" modes.\n*For details on \"Dialogue Play,\" see page 8 of this Instruction Manual.",
+          "bbox": [0.1191, 0.5689, 0.2819, 0.0665]
+        },
+        {
+          "text": "リュウソウルの取り外し方",
+          "translation": "How to remove the Ryusoul",
+          "bbox": [0.1354, 0.7219, 0.2991, 0.02]
+        },
+        {
+          "text": "ロック解除グリップを握り、\nレバー操作で口を開け、\n解除ボタンを押して、\nガイソウルを矢印の方向に\n引き抜きます。\n「解除音」が鳴ります。",
+          "translation": "Hold the unlock grip, operate the lever to open the mouth, press the release button, and pull the Gaisoul out in the direction of the arrow.\n→ A \"release\" sound will play.",
+          "bbox": [0.1174, 0.7684, 0.1962, 0.1028]
+        },
+        {
+          "text": "トリガー",
+          "translation": "Trigger",
+          "bbox": [0.6341, 0.6004, 0.0497, 0.0103]
+        },
+        {
+          "text": "解除ボタン",
+          "translation": "Release button",
+          "bbox": [0.6315, 0.9528, 0.0703, 0.0091]
+        },
+        {
+          "text": "※ロック解除\nグリップを\n握りながら\n行います。",
+          "translation": "*When unlocking, hold the unlock grip while performing the action.",
+          "bbox": [0.8757, 0.315, 0.0737, 0.0435]
+        },
+        {
+          "text": "必殺攻撃!!",
+          "translation": "Special Attack!",
+          "bbox": [0.8895, 0.4982, 0.0506, 0.188]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-8.webp",
+      "blocks": [
+        {
+          "text": "セリフ遊び",
+          "translation": "Dialogue Play",
+          "bbox": [0.1681, 0.0544, 0.2127, 0.0266]
+        },
+        {
+          "text": "※ガイソウルをセットしている、いないに関わらず遊べます。\n※起動時は「ノーマルモード」になっています。",
+          "translation": "※You can play regardless of whether a Gaisoul is set or not.\n※At startup, the device is in \"Normal Mode.\"",
+          "bbox": [0.0806, 0.1052, 0.5532, 0.0405]
+        },
+        {
+          "text": "1.セリフボタンを短押しします。\n「口開き音」が鳴ります。",
+          "translation": "1. Press the Dialogue Button briefly.\n→A \"mouth-opening\" sound will play.",
+          "bbox": [0.0832, 0.1838, 0.2436, 0.0369]
+        },
+        {
+          "text": "2.①セリフボタンを長押しします。\n長押しする度に、下記の表の順に\nモードが切り替えセリフが鳴り、\nLEDが光ります。",
+          "translation": "2. ① Press and hold the Dialogue Button.\n→Each time you press and hold, the mode will switch in the order shown in the table below, a line of dialogue will play, and the LED will light.",
+          "bbox": [0.0789, 0.2479, 0.307, 0.0732]
+        },
+        {
+          "text": "長押し",
+          "translation": "Press and hold",
+          "bbox": [0.0978, 0.3349, 0.0412, 0.0097]
+        },
+        {
+          "text": "モード",
+          "translation": "Mode",
+          "bbox": [0.2256, 0.3343, 0.042, 0.0103]
+        },
+        {
+          "text": "起動時",
+          "translation": "At startup",
+          "bbox": [0.0978, 0.3579, 0.042, 0.0079]
+        },
+        {
+          "text": "ノーマルモード",
+          "translation": "Normal Mode",
+          "bbox": [0.1964, 0.3561, 0.0969, 0.0091]
+        },
+        {
+          "text": "1回",
+          "translation": "1 time",
+          "bbox": [0.1063, 0.3755, 0.0283, 0.0097]
+        },
+        {
+          "text": "ガイソーグセリフモード",
+          "translation": "Gaisorg Dialogue Mode",
+          "bbox": [0.1707, 0.3748, 0.1501, 0.0097]
+        },
+        {
+          "text": "セリフ\nガイソーケン!\n我が名はガイソーグ。",
+          "translation": "Dialogue\nGaisoul Ken!\nMy name is Gaisorg.",
+          "bbox": [0.3654, 0.3362, 0.1312, 0.0484]
+        },
+        {
+          "text": "2回",
+          "translation": "2 times",
+          "bbox": [0.1046, 0.3948, 0.0317, 0.0097]
+        },
+        {
+          "text": "ナダ登場初期モード",
+          "translation": "Nada (Initial Appearance) Mode",
+          "bbox": [0.1835, 0.3942, 0.1252, 0.0091]
+        },
+        {
+          "text": "ほんまに嫌いや・・・。",
+          "translation": "I really hate it...",
+          "bbox": [0.3731, 0.3948, 0.1184, 0.0085]
+        },
+        {
+          "text": "3回",
+          "translation": "3 times",
+          "bbox": [0.1038, 0.4141, 0.03, 0.0085]
+        },
+        {
+          "text": "ナダ後期モード",
+          "translation": "Nada (Late-stage) Mode",
+          "bbox": [0.1973, 0.4135, 0.0978, 0.0091]
+        },
+        {
+          "text": "不屈の騎士! ガイソーグ!",
+          "translation": "Indomitable Knight! Gaisorg!",
+          "bbox": [0.3568, 0.4129, 0.1492, 0.0097]
+        },
+        {
+          "text": "② モードを選択後、セリフボタンを短押しします。\n→短押しする度に、各モードのセリフが順に\nLEDの発光と共に鳴ります。",
+          "translation": "② After selecting a mode, press the Dialogue Button briefly.\n→Each time you press briefly, the lines for that mode will play in order, accompanied by the LED lighting.",
+          "bbox": [0.1141, 0.4498, 0.3516, 0.049]
+        },
+        {
+          "text": "※長押し3回目の「ナダ後期モード」の後は、\n起動時の「ノーマルモード」に戻ります。\n※電源スイッチをOFFにするまで、 他の遊びを\n行っても最後に再生されたセリフの次の\nセリフから始まります。",
+          "translation": "※After pressing and holding three times (the \"Nada Late-stage Mode\"), the unit will return to the startup \"Normal Mode\".\n※Until the power switch is turned OFF, even if you use other functions, playback will resume starting from the line after the one that was last played.",
+          "bbox": [0.1158, 0.52, 0.3328, 0.0846]
+        },
+        {
+          "text": "※各モードのセリフは、P.11~14ページの\n「セリフ一覧」をご覧ください。",
+          "translation": "※For the lines used in each mode, see the \"List of Lines\" on pages 11–14.",
+          "bbox": [0.1158, 0.708, 0.3319, 0.0314]
+        },
+        {
+          "text": "wwww",
+          "translation": "wwww",
+          "bbox": [0.5506, 0.6874, 0.0763, 0.0278]
+        },
+        {
+          "text": "「BGM遊び」 で、 BGMを再生中に\n「セリフ遊び」の 1.~2. の操作をすることで\nBGMとセリフを同時に再生することができます。\n「セリフ遊び」で「ガイソーグセリフモード」\n「ナダ登場初期モード」「ナダ後期モード」の際は\nトリガーを短押しすると 「斬撃音」と「かけ声」が\n交互に鳴ります。",
+          "translation": "While playing BGM in \"BGM Play,\" performing operations 1–2 of \"Dialogue Play\" will allow BGM and dialogue to play at the same time. In \"Dialogue Play,\" when set to \"Gaisorg Dialogue Mode,\" \"Nada (Initial Appearance) Mode,\" or \"Nada (Late-stage) Mode,\" briefly pressing the trigger will alternately play a slashing sound and a shout.",
+          "bbox": [0.1312, 0.7932, 0.3516, 0.1282]
+        },
+        {
+          "text": "セリフボタン",
+          "translation": "Dialogue Button",
+          "bbox": [0.7556, 0.8283, 0.0789, 0.0085]
+        },
+        {
+          "text": "8",
+          "translation": "8",
+          "bbox": [0.9357, 0.9534, 0.0163, 0.0115]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-9.webp",
+      "blocks": [
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.0471, 0.9534, 0.0154, 0.0115]
+        },
+        {
+          "text": "特殊変身遊び\n※ナダ後期モードで行います。\n※リュウソウルをセットしない状態で行います。",
+          "translation": "Special Transformation Play\n※Perform this in Nada late-stage mode.\n※Perform this with no Ryusoul set.",
+          "bbox": [0.0805, 0.0532, 0.4276, 0.0925]
+        },
+        {
+          "text": "1. トリガーを長押しします。\n「リュウソウ、リュウソウガイソー!あぁっ!」が鳴ります。",
+          "translation": "1. Press and hold the trigger.\n\"Ryusoul, Ryusoul Gaisoul! Aah!\" will sound.",
+          "bbox": [0.0805, 0.1687, 0.449, 0.0369]
+        },
+        {
+          "text": "2.ガイソウルセットします。\n「ガイソーチェンジ」 「そっちかいな」が鳴ります。",
+          "translation": "2. Set the Gaisoul.\n\"Gaiso-Change\" and \"So that's it?\" will sound.",
+          "bbox": [0.0805, 0.2213, 0.3942, 0.0399]
+        },
+        {
+          "text": "3. レバー操作を行います。\n→変身音「不屈の騎士! ガイソーグ!",
+          "translation": "3. Operate the lever.\n→ Transformation sound: \"Indomitable Knight! Gaisoulg!\"",
+          "bbox": [0.0823, 0.2763, 0.2913, 0.0381]
+        },
+        {
+          "text": "www",
+          "translation": "www",
+          "bbox": [0.545, 0.2987, 0.048, 0.0218]
+        },
+        {
+          "text": "俺の騎士道、見せたるわい!って",
+          "translation": "\"I'll show you my knightly way!\"",
+          "bbox": [0.1345, 0.3198, 0.2322, 0.0109]
+        },
+        {
+          "text": "※ロック解除",
+          "translation": "※Unlock",
+          "bbox": [0.8423, 0.3452, 0.0728, 0.0097]
+        },
+        {
+          "text": "言うてみたかったんや~っ、これ!」が",
+          "translation": "\"I've always wanted to say this!\"",
+          "bbox": [0.1345, 0.338, 0.2759, 0.0115]
+        },
+        {
+          "text": "グリップを\n握りながら\n行います。",
+          "translation": "Perform this while holding the grip.",
+          "bbox": [0.8543, 0.3591, 0.0617, 0.0308]
+        },
+        {
+          "text": "鳴ります。",
+          "translation": "It will sound.",
+          "bbox": [0.1354, 0.3561, 0.0686, 0.0127]
+        },
+        {
+          "text": "3. の後に、ガイソウルを取り外した後、\n1. の操作を行うと「ガイソーチェンジ!」が鳴り、\n2.~3. の操作を行うと 「不屈の騎士 ! ガイソーグ!\n俺の騎士道、見せたるわい!」が鳴ります。",
+          "translation": "After step 3, if you remove the Gaisoul and then perform the operation in 1, \"Gaiso-Change!\" will sound. If you perform the operations in 2–3, \"Indomitable Knight! Gaisoulg! I'll show you my knightly way!\" will sound.",
+          "bbox": [0.0797, 0.3815, 0.371, 0.0707]
+        },
+        {
+          "text": "※ 「セリフ遊び」の詳細は、 本書8ページをご覧ください。",
+          "translation": "※For details on \"Dialogue Play,\" see page 8 of this Instruction Manual.",
+          "bbox": [0.0805, 0.4776, 0.3942, 0.0109]
+        },
+        {
+          "text": "トリガー",
+          "translation": "Trigger",
+          "bbox": [0.5613, 0.4528, 0.0471, 0.0085]
+        },
+        {
+          "text": "※途中で上記以外の操作を行うと、特殊変身モードが解除されます。",
+          "translation": "※If you perform any operation other than those above during the sequence, the special transformation mode will be cancelled.",
+          "bbox": [0.0814, 0.4958, 0.4901, 0.0115]
+        },
+        {
+          "text": "BGM遊び",
+          "translation": "BGM Play",
+          "bbox": [0.168, 0.532, 0.2031, 0.0284]
+        },
+        {
+          "text": "BGMボタンを短押しします。\n下記の表のBGM1~3が順に流れます。\nBGM3の後は、 BGM1に戻ります。",
+          "translation": "Press the BGM button briefly.\nBGM1–3 listed in the table below will play in order.\nAfter BGM3, playback returns to BGM1.",
+          "bbox": [0.0797, 0.61, 0.2939, 0.0478]
+        },
+        {
+          "text": "「ガイソーグを打ち砕け」",
+          "translation": "\"Smash Gaisoulg\"",
+          "bbox": [0.2082, 0.6723, 0.1534, 0.0103]
+        },
+        {
+          "text": "BGM1",
+          "translation": "BGM1",
+          "bbox": [0.0908, 0.6735, 0.0566, 0.0085]
+        },
+        {
+          "text": "BGM2",
+          "translation": "BGM2",
+          "bbox": [0.0908, 0.6917, 0.0548, 0.0091]
+        },
+        {
+          "text": "「竜の鎧」",
+          "translation": "\"Dragon Armor\"",
+          "bbox": [0.2571, 0.6923, 0.0557, 0.0085]
+        },
+        {
+          "text": "「騎士竜戦隊リュウソウジャー",
+          "translation": "\"Kishiryu Sentai Ryusoulger",
+          "bbox": [0.1962, 0.711, 0.1817, 0.0097]
+        },
+        {
+          "text": "BGM3",
+          "translation": "BGM3",
+          "bbox": [0.0908, 0.7201, 0.0566, 0.0079]
+        },
+        {
+          "text": "(インストゥルメンタル)」",
+          "translation": "(Instrumental)\"",
+          "bbox": [0.2074, 0.7279, 0.1534, 0.0091]
+        },
+        {
+          "text": "BGMの再生中にもう一度、BGMボタンを\n短押しすると、BGMが停止します。\n停止後、再びBGMボタンを短押しすると、\n次のBGMが流れます。",
+          "translation": "While a BGM is playing, press the BGM button briefly again to stop the BGM. After stopping, press the BGM button briefly again to play the next BGM.",
+          "bbox": [0.0985, 0.7678, 0.2965, 0.0683]
+        },
+        {
+          "text": "※電源スイッチをOFFにするまで、 他の遊びを行っても\n最後に再生されたBGMの次のBGMから始まります。",
+          "translation": "※Until the power switch is turned OFF, even if you play other modes, playback will start from the BGM following the last one played.",
+          "bbox": [0.0865, 0.8742, 0.3959, 0.0284]
+        },
+        {
+          "text": "BGMボタン",
+          "translation": "BGM Button",
+          "bbox": [0.7258, 0.8948, 0.0754, 0.0079]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-10.webp",
+      "blocks": [
+        {
+          "text": "カナエソウル特別挙動 【特別メッセージ】",
+          "translation": "Kanae Soul Special Behavior [Special Message]",
+          "bbox": [0.1697, 0.0562, 0.7172, 0.0278]
+        },
+        {
+          "text": "【ナダの特別メッセージ1再生方法】",
+          "translation": "How to Play Nada's Special Message 1",
+          "bbox": [0.0823, 0.11, 0.3239, 0.0157]
+        },
+        {
+          "text": "1. カナエソウルをセットして、口を閉じます。\n「カナエソウル!」が鳴ります。",
+          "translation": "1. Set the Kanae Soul and close the mouth.\n→ \"Kanae Soul!\" will play.",
+          "bbox": [0.0805, 0.1536, 0.3308, 0.0369]
+        },
+        {
+          "text": "2.レバー操作で口の開閉を5回行います。\n→ナダの「特別メッセージ1」が鳴ります。",
+          "translation": "2. Operate the lever to open and close the mouth five times.\n→ Nada's \"Special Message 1\" will play.",
+          "bbox": [0.0805, 0.2074, 0.3282, 0.0375]
+        },
+        {
+          "text": "3. トリガーを短押しします。",
+          "translation": "3. Press the trigger briefly.",
+          "bbox": [0.0805, 0.2612, 0.2159, 0.0193]
+        },
+        {
+          "text": "本書13ページ",
+          "translation": "See page 13 of this Instruction Manual.",
+          "bbox": [0.1311, 0.2872, 0.0977, 0.0109]
+        },
+        {
+          "text": "「ナダ後期モードセリフ一覧表」の\n番号20の音声が鳴ります。",
+          "translation": "The voice for No. 20 in the \"Nada Late-Mode Dialogue List\" will play.",
+          "bbox": [0.132, 0.3053, 0.2459, 0.029]
+        },
+        {
+          "text": "【ナダの特別メッセージ2再生方法】",
+          "translation": "How to Play Nada's Special Message 2",
+          "bbox": [0.0823, 0.3851, 0.3222, 0.0157]
+        },
+        {
+          "text": "【ナダの特別メッセージ1再生方法】 3. の後に、\nレバー操作で口の開閉を追加で5回行います。\n→ナダの「特別メッセージ2」が鳴ります。",
+          "translation": "After Step 3 of \"How to Play Nada's Special Message 1,\" operate the lever to open and close the mouth five additional times.\n→ Nada's \"Special Message 2\" will play.",
+          "bbox": [0.0788, 0.4256, 0.3368, 0.049]
+        },
+        {
+          "text": "トリガー",
+          "translation": "Trigger",
+          "bbox": [0.4927, 0.4534, 0.0488, 0.0079]
+        },
+        {
+          "text": "※ロック解除",
+          "translation": "*Unlock",
+          "bbox": [0.7746, 0.3464, 0.072, 0.0079]
+        },
+        {
+          "text": "グリップを\n握りながら\n行います。",
+          "translation": "Do this while holding the grip.",
+          "bbox": [0.7875, 0.3585, 0.0608, 0.0308]
+        },
+        {
+          "text": "特別メッセージ",
+          "translation": "Special Message",
+          "bbox": [0.8706, 0.2158, 0.0506, 0.269]
+        },
+        {
+          "text": "カナエソウル特別挙動【幻の7人並び変身】",
+          "translation": "Kanae Soul Special Behavior [Phantom 7-Person Lineup Transformation]",
+          "bbox": [0.1697, 0.5472, 0.7515, 0.029]
+        },
+        {
+          "text": "1. カナエソウルをセットして、口を閉じます。\n→ 「カナエソウル!」が鳴ります。",
+          "translation": "1. Set the Kanae Soul and close the mouth.\n→ \"Kanae Soul!\" will play.",
+          "bbox": [0.0797, 0.6185, 0.3325, 0.0369]
+        },
+        {
+          "text": "2. トリガーを長押しします。\n「7人の並び変身音」が鳴ります。",
+          "translation": "2. Press and hold the trigger.\n→ The \"7-person lineup transformation\" sound will play.",
+          "bbox": [0.0797, 0.6723, 0.2862, 0.0375]
+        },
+        {
+          "text": "3. トリガーを短押しします。\n→トリガーを短押しする度に\n「名乗りセリフ」が鳴ります。",
+          "translation": "3. Press the trigger briefly.\n→ Each time you press the trigger briefly, an \"introduction phrase\" will play.",
+          "bbox": [0.0797, 0.7261, 0.2494, 0.0574]
+        },
+        {
+          "text": "※ロック解除\nグリップを",
+          "translation": "*Unlock",
+          "bbox": [0.7755, 0.8186, 0.0728, 0.0206]
+        },
+        {
+          "text": "握りながら",
+          "translation": "Hold the grip",
+          "bbox": [0.7875, 0.8416, 0.0608, 0.0091]
+        },
+        {
+          "text": "行います。",
+          "translation": "while doing this.",
+          "bbox": [0.7875, 0.8543, 0.0566, 0.0073]
+        },
+        {
+          "text": "幻の7人並び変身!",
+          "translation": "Phantom 7-Person Lineup Transformation!",
+          "bbox": [0.8715, 0.6058, 0.0488, 0.341]
+        },
+        {
+          "text": "10",
+          "translation": "10",
+          "bbox": [0.9297, 0.9534, 0.0257, 0.0121]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-11.webp",
+      "blocks": [
+        {
+          "text": "セリフ一覧",
+          "translation": "List of Lines",
+          "bbox": [0.1681, 0.055, 0.2136, 0.0284]
+        },
+        {
+          "text": "ガイソーグセリフモードセリフ一覧表",
+          "translation": "Gaisoulg Dialogue Mode — Line List",
+          "bbox": [0.2436, 0.1318, 0.5403, 0.0242]
+        },
+        {
+          "text": "台詞モードを切り替えた際の音声 (ガイソーグ) 我が名はガイソーグ。",
+          "translation": "Voice when switching dialogue mode (Gaisoulg): \"My name is Gaisoulg.\"",
+          "bbox": [0.1141, 0.185, 0.4949, 0.0109]
+        },
+        {
+          "text": "番号",
+          "translation": "Number",
+          "bbox": [0.1166, 0.211, 0.0386, 0.0127]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.1304, 0.2328, 0.0077, 0.0079]
+        },
+        {
+          "text": "もっと強さを。",
+          "translation": "Give me more strength.",
+          "bbox": [0.1973, 0.2316, 0.0849, 0.0103]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.1278, 0.2521, 0.0129, 0.0091]
+        },
+        {
+          "text": "一番強いのはお前か。",
+          "translation": "Are you the strongest?",
+          "bbox": [0.1964, 0.2515, 0.1338, 0.0103]
+        },
+        {
+          "text": "2 3 4 5 6 7",
+          "translation": "2 3 4 5 6 7",
+          "bbox": [0.1269, 0.2515, 0.0146, 0.1076]
+        },
+        {
+          "text": "セリフ内容",
+          "translation": "Dialogue content",
+          "bbox": [0.4974, 0.2122, 0.0806, 0.0103]
+        },
+        {
+          "text": "我に勝て。",
+          "translation": "Beat me.",
+          "bbox": [0.1964, 0.2715, 0.0609, 0.0097]
+        },
+        {
+          "text": "我が名はガイソーグ、 宇宙最強を求める者。",
+          "translation": "My name is Gaisoulg. I seek the greatest strength in the universe.",
+          "bbox": [0.1964, 0.2914, 0.2624, 0.0097]
+        },
+        {
+          "text": "フフフフフフ、お楽しみはまだまだこれからだ。",
+          "translation": "Hehehehe... the real fun is only just beginning.",
+          "bbox": [0.1964, 0.312, 0.2813, 0.0091]
+        },
+        {
+          "text": "貴様らの相手は俺だ。",
+          "translation": "I'll be your opponent.",
+          "bbox": [0.1955, 0.3313, 0.1329, 0.0097]
+        },
+        {
+          "text": "フハハハハハハハ、もっと俺を楽しませろぉ!うおおおおおおおお!",
+          "translation": "Fuhahahahaha—entertain me more! Uooooooo!",
+          "bbox": [0.1964, 0.3513, 0.3945, 0.0091]
+        },
+        {
+          "text": "一番強いのは誰だぁ!",
+          "translation": "Who is the strongest?!",
+          "bbox": [0.1964, 0.3712, 0.1286, 0.0091]
+        },
+        {
+          "text": "もっと楽しませろぉ!",
+          "translation": "Entertain me more!",
+          "bbox": [0.1964, 0.3912, 0.1192, 0.0091]
+        },
+        {
+          "text": "89",
+          "translation": "89",
+          "bbox": [0.1286, 0.3706, 0.0111, 0.0302]
+        },
+        {
+          "text": "ナダ登場初期モードセリフ一覧表",
+          "translation": "Nada — Initial Appearance Mode — Line List",
+          "bbox": [0.2642, 0.4389, 0.5051, 0.0248]
+        },
+        {
+          "text": "台詞モードを切り替えた際の音声 (ナダ) ほんまに嫌いや...。",
+          "translation": "Voice when switching dialogue mode (Nada): \"I really hate this...\"",
+          "bbox": [0.1141, 0.4909, 0.4434, 0.0145]
+        },
+        {
+          "text": "番号",
+          "translation": "Number",
+          "bbox": [0.1175, 0.5187, 0.0377, 0.0115]
+        },
+        {
+          "text": "セリフ内容",
+          "translation": "Dialogue content",
+          "bbox": [0.4974, 0.52, 0.0806, 0.0103]
+        },
+        {
+          "text": "(ナダ) あの、 おやじ見ませんでした?? はぁ、こっち来たら見えたんですけどねぇ。 あの、体ね、真っ赤っかで、であの、",
+          "translation": "(Nada) Uh—have you seen my old man? Huh... I thought I saw him when I came this way. His body was completely red, and, um...",
+          "bbox": [0.1973, 0.5393, 0.6904, 0.0103]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.1304, 0.5502, 0.0069, 0.0079]
+        },
+        {
+          "text": "身長がこれぐらいで、でー、足が1本で、口がこう2個、 ついてるんで、多分わかる思うんですけど、",
+          "translation": "He's about this tall, um—he's got one leg and, like, two mouths like this, so you'll probably know who I mean.",
+          "bbox": [0.1964, 0.5599, 0.5866, 0.0097]
+        },
+        {
+          "text": "(ナダ) ポス・・・?おやじ。笑うてくれた。 あんたそっちの方が似合うで。 ほな。",
+          "translation": "(Nada) Pos...? My old man. He actually smiled. That look suits you better. Bye.",
+          "bbox": [0.1973, 0.5792, 0.4451, 0.0097]
+        },
+        {
+          "text": "(ナダ) いやあ探したで探したで。 あんたがレッドか?",
+          "translation": "(Nada) Man, I've been looking all over for you. So, you're Red?",
+          "bbox": [0.1981, 0.5992, 0.307, 0.0097]
+        },
+        {
+          "text": "(ナダ) あんたやったんか。 マスターが意志を託したんは。\n(ナダ) 残念ながら、リュウソウジャーにはなられへんかったけどな。\n(ナダ)なんやドルイドンが攻めてきとるんやろ。俺にも力にならせてくれ。\n(ナダ) 俺が相手や!\n(ナダ) 立ち向かわんと後悔するくらいなら、立ち向かって後悔するわい!",
+          "translation": "(Nada) So it was you—the one Master entrusted his will to.\n(Nada) Too bad I never became a Ryusoulger myself.\n(Nada) I hear the Druidon are attacking. Let me be of help too.\n(Nada) I'll take them on!\n(Nada) If I'm going to regret something, I'd rather regret having fought than regret not fighting!",
+          "bbox": [0.1973, 0.6191, 0.4443, 0.0889]
+        },
+        {
+          "text": "(ナダ) 村は出たけど、 俺かてリュウソウ族の端くれ。 なんか力になりたかったんや。\n(ナダ) なんや、 自分はリュウソウジャー失格や言うたらしいな･･･ドアホ!マスターレッドがお前を選んだ理由、\nお前何も分かってないやないか。\n(ナダ) メルトに聞いたで。 お前は、自分でやさしさを手に入れたんや・・・。",
+          "translation": "(Nada) I left the village, but I'm still part of the Ryusoul tribe. I wanted to be of some help.\n(Nada) I heard you said you were unfit to be a Ryusoulger... idiot! You don't understand why Master Red chose you, do you?\n(Nada) I heard it from Melt. You gained your kindness by yourself...",
+          "bbox": [0.1973, 0.7183, 0.6475, 0.0689]
+        },
+        {
+          "text": "2 3 4 5 6 7 8 9",
+          "translation": "2 3 4 5 6 7 8 9",
+          "bbox": [0.1261, 0.5786, 0.0146, 0.1487]
+        },
+        {
+          "text": "10",
+          "translation": "10",
+          "bbox": [0.1244, 0.7485, 0.0232, 0.0091]
+        },
+        {
+          "text": "11",
+          "translation": "11",
+          "bbox": [0.1235, 0.7975, 0.0214, 0.0079]
+        },
+        {
+          "text": "ちゅうことは、奪われても何回でも手に入れられるっちゅうことちゃうんか? それがお前の強さなんとちゃうんか!",
+          "translation": "So that means even if it's taken away, you can get it back again and again, right? Isn't that your strength?",
+          "bbox": [0.1964, 0.7969, 0.6758, 0.0097]
+        },
+        {
+          "text": "・・・マスターが俺やのうて、お前をリュウソウジャーに選んだ理由ちゃうんか!",
+          "translation": "...Isn't that the reason Master chose you to be a Ryusoulger instead of me?",
+          "bbox": [0.1964, 0.8174, 0.4554, 0.0091]
+        },
+        {
+          "text": "12",
+          "translation": "12",
+          "bbox": [0.1235, 0.838, 0.0223, 0.0067]
+        },
+        {
+          "text": "(ナダ) これで終わりちゃうやろ!見せてみんかい、お前の強さを!",
+          "translation": "(Nada) This isn't over! Show me your strength!",
+          "bbox": [0.1981, 0.8368, 0.3825, 0.0103]
+        },
+        {
+          "text": "(ナダ) いや......そうは言うても、リーダーのお前に何かあったらどないすんねん。",
+          "translation": "(Nada) Well... even so, what would we do if something happened to you, the leader?",
+          "bbox": [0.1973, 0.8567, 0.4931, 0.0097]
+        },
+        {
+          "text": "13",
+          "translation": "13",
+          "bbox": [0.1235, 0.8676, 0.0232, 0.0079]
+        },
+        {
+          "text": "ここはメルトかアスナに行かせるべきや。",
+          "translation": "We should send Melt or Asuna for this.",
+          "bbox": [0.1973, 0.8767, 0.2479, 0.0091]
+        },
+        {
+          "text": "14",
+          "translation": "14",
+          "bbox": [0.1226, 0.8972, 0.0249, 0.0079]
+        },
+        {
+          "text": "(ナダ) そや、レッドはリーダーやろ?お前が一番なんや。 メルトとアスナはリーダーを守るために......。",
+          "translation": "(Nada) That's right—Red is the leader, isn't he? You're the most important. Melt and Asuna are there to protect the leader...",
+          "bbox": [0.1981, 0.896, 0.6063, 0.0103]
+        },
+        {
+          "text": "15",
+          "translation": "15",
+          "bbox": [0.1235, 0.9166, 0.0232, 0.0079]
+        },
+        {
+          "text": "(コウ) 違う、誰がリーダーとか、 誰が一番とか、そういうのじゃない。俺達は、みんなでひとつなんだ!",
+          "translation": "(Kou) No, it's not about who's the leader or who's number one. We're all one!",
+          "bbox": [0.1973, 0.916, 0.5961, 0.0097]
+        },
+        {
+          "text": "16",
+          "translation": "16",
+          "bbox": [0.1235, 0.9365, 0.0232, 0.0073]
+        },
+        {
+          "text": "(ナダ) マスターレッド、 あんたは正しかったようやな。",
+          "translation": "(Nada) Master Red, it seems you were right.",
+          "bbox": [0.1973, 0.9359, 0.3173, 0.0097]
+        },
+        {
+          "text": "11",
+          "translation": "11",
+          "bbox": [0.0463, 0.9541, 0.0172, 0.0115]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-12.webp",
+      "blocks": [
+        {
+          "text": "番号",
+          "translation": "Number",
+          "bbox": [0.1183, 0.0478, 0.0377, 0.0109]
+        },
+        {
+          "text": "セリフ内容",
+          "translation": "Dialogue content",
+          "bbox": [0.4979, 0.0472, 0.0814, 0.0103]
+        },
+        {
+          "text": "17",
+          "translation": "17",
+          "bbox": [0.1243, 0.0677, 0.0223, 0.0085]
+        },
+        {
+          "text": "(ナダ) 自分でも分かってると思うけど、ここぞっちゅう時の攻撃に乱れがあるで。",
+          "translation": "(Nada) You probably know this yourself, but your attacks get shaky at the crucial moments.",
+          "bbox": [0.1979, 0.0677, 0.4841, 0.0097]
+        },
+        {
+          "text": "18",
+          "translation": "18",
+          "bbox": [0.1251, 0.0877, 0.0206, 0.0085]
+        },
+        {
+          "text": "(ナダ) まあ、ほんのちょびっとやから。 な? そんなに気にすることないわ。",
+          "translation": "(Nada) It's only a tiny bit, right? So don't worry about it that much.",
+          "bbox": [0.1988, 0.0877, 0.4336, 0.0097]
+        },
+        {
+          "text": "19",
+          "translation": "19",
+          "bbox": [0.1251, 0.1076, 0.0231, 0.0085]
+        },
+        {
+          "text": "(ナダ) ドアホ!アスナの命に「もう一度」は無いんやぞ!",
+          "translation": "(Nada) Idiot! There's no \"second time\" for Asuna's life!",
+          "bbox": [0.1979, 0.107, 0.3222, 0.0097]
+        },
+        {
+          "text": "20",
+          "translation": "20",
+          "bbox": [0.1217, 0.1276, 0.0266, 0.0085]
+        },
+        {
+          "text": "(ナダ)......お前はレッド失格や。",
+          "translation": "(Nada) ...You're unfit to be Red.",
+          "bbox": [0.1988, 0.127, 0.1928, 0.0091]
+        },
+        {
+          "text": "21",
+          "translation": "21",
+          "bbox": [0.1217, 0.1475, 0.0231, 0.0085]
+        },
+        {
+          "text": "(ナダ) コウ、 安心せえ。俺がちゃんとレッドを受け継いだる。",
+          "translation": "(Nada) Koh, don't worry. I'll properly inherit the Red mantle.",
+          "bbox": [0.1979, 0.1469, 0.3548, 0.0097]
+        },
+        {
+          "text": "22",
+          "translation": "22",
+          "bbox": [0.1217, 0.1669, 0.0266, 0.0079]
+        },
+        {
+          "text": "(ナダ) この鎧を長くまとった者は、いつしか心の弱い部分につけこまれて、鎧に支配される。",
+          "translation": "(Nada) Those who wear this armor for a long time eventually have their weak points preyed on and end up being controlled by the armor.",
+          "bbox": [0.1979, 0.1663, 0.5518, 0.0097]
+        },
+        {
+          "text": "23",
+          "translation": "23",
+          "bbox": [0.1217, 0.1868, 0.0274, 0.0085]
+        },
+        {
+          "text": "24",
+          "translation": "24",
+          "bbox": [0.1225, 0.2068, 0.0257, 0.0073]
+        },
+        {
+          "text": "25",
+          "translation": "25",
+          "bbox": [0.1217, 0.2267, 0.0257, 0.0085]
+        },
+        {
+          "text": "26",
+          "translation": "26",
+          "bbox": [0.1225, 0.2461, 0.0257, 0.0085]
+        },
+        {
+          "text": "27",
+          "translation": "27",
+          "bbox": [0.1217, 0.2654, 0.0257, 0.0097]
+        },
+        {
+          "text": "28",
+          "translation": "28",
+          "bbox": [0.1217, 0.286, 0.0274, 0.0079]
+        },
+        {
+          "text": "(ナダ) 最強を求めて彷徨うガイソーグの鎧。 リュウソウジャーになれんかった俺は、みんなを見返す力が欲しかった。\n(ナダ)だから探して、探して!宇宙の果てまで行って!やっと!\n(ナダ) 俺は強くなった。 誰にも負けへん力を手に入れた!・・・でもな・・・・・・ 強なってもあんま楽しないんや。\n(ナダ) いくら相手を打ち負かしても、どっかにもっと強いヤツがおるんちゃうか。 そんなことばっかり考えてしまうんや!\n(ガイソーグ) そいつは強いのか。\n(ナダ) 敵も味方も無い。 この鎧は、 ただ強い相手を求めとる。",
+          "translation": "(Nada) Gaisoulg's armor wanders in search of the strongest. I couldn't become a Ryusoulger, so I wanted the power to prove everyone wrong.\n(Nada) So I searched and searched — I went to the ends of the universe! Finally!\n(Nada) I became strong. I gained power that wouldn't lose to anyone! ...But even so... becoming strong isn't really that fun.\n(Nada) No matter how many opponents I beat, I keep thinking there's someone stronger out there. That's all I can think about!\n(Gaisoulg) Is that one strong?\n(Nada) It makes no distinction between enemy or ally. This armor simply seeks a strong opponent.",
+          "bbox": [0.1979, 0.1862, 0.6967, 0.1088]
+        },
+        {
+          "text": "29",
+          "translation": "29",
+          "bbox": [0.1217, 0.3059, 0.0257, 0.0085]
+        },
+        {
+          "text": "(ナダ) 俺はガイソーグや。それでもか。",
+          "translation": "(Nada) I'm Gaisoulg. Even so?",
+          "bbox": [0.1988, 0.3047, 0.2314, 0.0103]
+        },
+        {
+          "text": "30",
+          "translation": "30",
+          "bbox": [0.1225, 0.3253, 0.0257, 0.0085]
+        },
+        {
+          "text": "(コウ) ガイソーグだろうと関係ない!ナダはナダだ!",
+          "translation": "(Koh) It doesn't matter if he's Gaisoulg! Nada is Nada!",
+          "bbox": [0.1979, 0.3247, 0.3059, 0.0097]
+        },
+        {
+          "text": "31",
+          "translation": "31",
+          "bbox": [0.1217, 0.3452, 0.0231, 0.0097]
+        },
+        {
+          "text": "(ナダ) やっぱりお前は、 マスターレッドが認めた男だけあるんやな。 かなわんわ。",
+          "translation": "(Nada) As I thought, you're the kind of man Master Red acknowledged. I'm no match for you.",
+          "bbox": [0.1979, 0.3446, 0.4807, 0.0103]
+        },
+        {
+          "text": "32",
+          "translation": "32",
+          "bbox": [0.1225, 0.3652, 0.024, 0.0079]
+        },
+        {
+          "text": "(ナダ) くやしいなぁ、俺は・・・・・・俺は。",
+          "translation": "(Nada) I'm so frustrated... I... I...",
+          "bbox": [0.1979, 0.3646, 0.2151, 0.0091]
+        },
+        {
+          "text": "33",
+          "translation": "33",
+          "bbox": [0.1225, 0.3851, 0.0266, 0.0085]
+        },
+        {
+          "text": "(コウ) やっぱりナダは俺達の仲間だ!これからは一緒に戦おうぜ!",
+          "translation": "(Koh) Just as I thought — Nada is one of us! From now on, let's fight together!",
+          "bbox": [0.1979, 0.3845, 0.3865, 0.0097]
+        },
+        {
+          "text": "34",
+          "translation": "34",
+          "bbox": [0.1225, 0.4051, 0.024, 0.0079]
+        },
+        {
+          "text": "(ナダ) 俺は、お前のそういうところがほんまに嫌いや。",
+          "translation": "(Nada) I really hate that part of you.",
+          "bbox": [0.1988, 0.4045, 0.3248, 0.0097]
+        },
+        {
+          "text": "35",
+          "translation": "35",
+          "bbox": [0.1225, 0.425, 0.024, 0.0079]
+        },
+        {
+          "text": "(ナダ) 関係あらへんやろが、 何様やねんお前!",
+          "translation": "(Nada) That's none of your business — who do you think you are?!",
+          "bbox": [0.1988, 0.4244, 0.2742, 0.0097]
+        },
+        {
+          "text": "36",
+          "translation": "36",
+          "bbox": [0.1217, 0.4444, 0.0266, 0.0085]
+        },
+        {
+          "text": "(ナダ) ええ加減、鬱陶しいねん、お前。",
+          "translation": "(Nada) Honestly, you're getting really annoying.",
+          "bbox": [0.1979, 0.4444, 0.2271, 0.0097]
+        },
+        {
+          "text": "37",
+          "translation": "37",
+          "bbox": [0.1225, 0.4643, 0.024, 0.0085]
+        },
+        {
+          "text": "(ナダ) もう時間が無いみたいやな･･････。",
+          "translation": "(Nada) Looks like there's not much time left...",
+          "bbox": [0.1979, 0.4631, 0.2408, 0.0115]
+        },
+        {
+          "text": "38",
+          "translation": "38",
+          "bbox": [0.1217, 0.4837, 0.0283, 0.0091]
+        },
+        {
+          "text": "(ガイソーグ) 無駄な抵抗を･･････諦めろ･･････。",
+          "translation": "(Gaisoulg) Useless resistance... give up...",
+          "bbox": [0.1979, 0.4831, 0.2682, 0.0103]
+        },
+        {
+          "text": "39",
+          "translation": "39",
+          "bbox": [0.1217, 0.5042, 0.0249, 0.0085]
+        },
+        {
+          "text": "(ナダ) うわあああああああ",
+          "translation": "(Nada) Uwaaaaaaah!",
+          "bbox": [0.1988, 0.5036, 0.1637, 0.0097]
+        },
+        {
+          "text": "----!!! <ガイソーグ変身音>",
+          "translation": "----! <Gaisoulg Transformation Sound>",
+          "bbox": [0.401, 0.5024, 0.1954, 0.0115]
+        },
+        {
+          "text": "40",
+          "translation": "40",
+          "bbox": [0.1217, 0.5242, 0.0257, 0.0079]
+        },
+        {
+          "text": "41",
+          "translation": "41",
+          "bbox": [0.1217, 0.5441, 0.0223, 0.0079]
+        },
+        {
+          "text": "42",
+          "translation": "42",
+          "bbox": [0.1217, 0.5635, 0.0249, 0.0073]
+        },
+        {
+          "text": "43",
+          "translation": "43",
+          "bbox": [0.1217, 0.5828, 0.0266, 0.0085]
+        },
+        {
+          "text": "(ガイソーグ)はぁああああああ。一番強いのは誰だ･･････?お前か、お前かぁぁあ?\n(ガイソーグ)一番強いのは誰だ･･・・・・一番強いのは誰だぁああ!\n(コウ) 誰よりもリュウソウジャーになりたかった、リュウソウ族としての誇りを、 誰よりも大切に思ってた\n(コウ) その気高き魂・・・ 俺たちと、ソウルはひとつ･･･。",
+          "translation": "(Gaisoulg) Haaaah... Who is the strongest...? Is it you? Is it youuu?!\n(Gaisoulg) Who is the strongest... who is the strongest?!\n(Koh) He wanted to become a Ryusoulger more than anyone; he treasured his pride as a member of the Ryusoul Tribe above all.\n(Koh) That noble spirit... Our souls are one.",
+          "bbox": [0.1979, 0.523, 0.617, 0.0701]
+        },
+        {
+          "text": "44",
+          "translation": "44",
+          "bbox": [0.1208, 0.6034, 0.0266, 0.0079]
+        },
+        {
+          "text": "(コウ) ナダもリュウソウジャーだ。",
+          "translation": "(Koh) Nada is a Ryusoulger, too.",
+          "bbox": [0.1979, 0.6022, 0.2022, 0.0103]
+        },
+        {
+          "text": "45",
+          "translation": "45",
+          "bbox": [0.1217, 0.6227, 0.0257, 0.0085]
+        },
+        {
+          "text": "<剣を掴む効果音>",
+          "translation": "<Sound effect: grabbing the sword>",
+          "bbox": [0.1971, 0.6215, 0.1217, 0.0103]
+        },
+        {
+          "text": "46",
+          "translation": "46",
+          "bbox": [0.1217, 0.6427, 0.0249, 0.0079]
+        },
+        {
+          "text": "(ナダ) 先輩に説教するとは、 ええ度胸や。",
+          "translation": "(Nada) You've got some nerve lecturing a senior like that.",
+          "bbox": [0.1979, 0.6421, 0.2468, 0.0097]
+        },
+        {
+          "text": "47",
+          "translation": "47",
+          "bbox": [0.1217, 0.6626, 0.0257, 0.0085]
+        },
+        {
+          "text": "(ナダ) 俺は、お前らのそういうところがほんまに･･･・・・嫌いや。",
+          "translation": "(Nada) I really... hate that side of you guys.",
+          "bbox": [0.1979, 0.662, 0.365, 0.0091]
+        },
+        {
+          "text": "12",
+          "translation": "12",
+          "bbox": [0.9306, 0.9534, 0.0266, 0.0115]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-13.webp",
+      "blocks": [
+        {
+          "text": "13",
+          "translation": "13",
+          "bbox": [0.042, 0.9534, 0.0266, 0.0115]
+        },
+        {
+          "text": "ナダ後期モード セリフ一覧表",
+          "translation": "Nada Late-Stage Mode: List of Lines",
+          "bbox": [0.301, 0.0399, 0.4322, 0.0248]
+        },
+        {
+          "text": "台詞モードを切り替えた際の音声",
+          "translation": "Audio played when switching dialogue modes",
+          "bbox": [0.1141, 0.0913, 0.2436, 0.0109]
+        },
+        {
+          "text": "(ナダ) 不屈の騎士!ガイソーグ!",
+          "translation": "(Nada) Indomitable Knight! Gaisoulg!",
+          "bbox": [0.4005, 0.0913, 0.1878, 0.0097]
+        },
+        {
+          "text": "番号",
+          "translation": "Number",
+          "bbox": [0.1175, 0.1191, 0.0377, 0.0103]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.1304, 0.1391, 0.006, 0.0073]
+        },
+        {
+          "text": "2 3 4 5 6 7",
+          "translation": "2 3 4 5 6 7",
+          "bbox": [0.1244, 0.1578, 0.0163, 0.1052]
+        },
+        {
+          "text": "7",
+          "translation": "7",
+          "bbox": [0.1278, 0.2576, 0.0146, 0.0085]
+        },
+        {
+          "text": "あぁ~、 背中かゆ。",
+          "translation": "Ah—my back itches.",
+          "bbox": [0.1964, 0.1385, 0.1098, 0.0091]
+        },
+        {
+          "text": "ほんま、自分らのおかげや。おおきに。おおきに。",
+          "translation": "Really — it's all thanks to you. Thank you, thank you.",
+          "bbox": [0.1973, 0.1578, 0.2882, 0.0103]
+        },
+        {
+          "text": "セリフ内容",
+          "translation": "Line content",
+          "bbox": [0.4983, 0.1185, 0.0798, 0.0103]
+        },
+        {
+          "text": "俺な、お前らに会うまで、 自分のことが嫌いで仕方なかった。\n才能があるとかないとか、選ばれるや選ばれへんやとか。 そんなことばっかり気にしてな。\nでもな、そんなことどうでもええって、 お前らが教えてくれたんや。",
+          "translation": "You know, before I met you guys, I couldn't stand myself. I was always worrying about whether I had talent or not, whether I'd be chosen or not. But you all taught me that none of that matters.",
+          "bbox": [0.1955, 0.1784, 0.5395, 0.049]
+        },
+        {
+          "text": "それを教えてくれた仲間と一緒に戦っていけるなんて･･･ はは、 俺ワクワクが止まらんわ、コウ。",
+          "translation": "To be able to fight alongside the comrades who taught me that... haha, I can't stop being excited, Kou.",
+          "bbox": [0.1964, 0.2376, 0.5669, 0.0091]
+        },
+        {
+          "text": "ただ、大事な人を守るためには、 まだまだ足らんモンがある。 せやから俺な......。",
+          "translation": "But to protect the people who matter to me, I'm still missing some things. That's why I...",
+          "bbox": [0.1964, 0.2576, 0.5034, 0.0091]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.1269, 0.2969, 0.0137, 0.0091]
+        },
+        {
+          "text": "80",
+          "translation": "80",
+          "bbox": [0.1286, 0.2763, 0.0111, 0.026]
+        },
+        {
+          "text": "俺もいくで。",
+          "translation": "I'll go too.",
+          "bbox": [0.1955, 0.2775, 0.0746, 0.0085]
+        },
+        {
+          "text": "リュウソウ!･･････リュウソウガイソー!・・・・・・ああっ! <ガイソーチェンジ!>そっちかいな。",
+          "translation": "Ryusoul! ...Ryusoul Gaisoul! ...Ah! <Gaisoul Change!> So that's the one, huh.",
+          "bbox": [0.1973, 0.2969, 0.5086, 0.0091]
+        },
+        {
+          "text": "10",
+          "translation": "10",
+          "bbox": [0.1235, 0.3174, 0.0232, 0.0079]
+        },
+        {
+          "text": "<変身音>",
+          "translation": "<Transformation Sound>",
+          "bbox": [0.1964, 0.3168, 0.0669, 0.0091]
+        },
+        {
+          "text": "11",
+          "translation": "11",
+          "bbox": [0.1244, 0.3368, 0.0197, 0.0085]
+        },
+        {
+          "text": "12",
+          "translation": "12",
+          "bbox": [0.1235, 0.3567, 0.024, 0.0085]
+        },
+        {
+          "text": "不屈の騎士!ガイソーグ! 俺の騎士道、見せたるわい!",
+          "translation": "Indomitable Knight! Gaisoulg! I'll show you my code of chivalry!",
+          "bbox": [0.1964, 0.3362, 0.3268, 0.0097]
+        },
+        {
+          "text": "って言うてみたかったんや~っ、これ!",
+          "translation": "I've always wanted to say that!",
+          "bbox": [0.1964, 0.3567, 0.2238, 0.0091]
+        },
+        {
+          "text": "13",
+          "translation": "13",
+          "bbox": [0.1235, 0.3767, 0.0249, 0.0073]
+        },
+        {
+          "text": "さあ、いくでぇっ!",
+          "translation": "Alright, let's go!",
+          "bbox": [0.1964, 0.3767, 0.1021, 0.0085]
+        },
+        {
+          "text": "14",
+          "translation": "14",
+          "bbox": [0.1235, 0.3972, 0.0257, 0.0073]
+        },
+        {
+          "text": "15",
+          "translation": "15",
+          "bbox": [0.1235, 0.4166, 0.024, 0.0073]
+        },
+        {
+          "text": "16",
+          "translation": "16",
+          "bbox": [0.1244, 0.4353, 0.0214, 0.0091]
+        },
+        {
+          "text": "立ち向かわんと、 後悔するくらいなら・・・・・・ 立ち向かって後悔する方がええ!",
+          "translation": "If the choice is between not facing it and regretting that, or facing it and regretting that... I'd rather face it and regret it!",
+          "bbox": [0.1964, 0.396, 0.4494, 0.0097]
+        },
+        {
+          "text": "俺は･･････リュウソウジャー。 不屈の騎士や!",
+          "translation": "I'm... a Ryusoulger. An indomitable knight!",
+          "bbox": [0.1964, 0.416, 0.2521, 0.0097]
+        },
+        {
+          "text": "何してるっ!俺はええから、あいつをはよ倒せぇっ!・・・じゃないと、みんなの命が危ない･･････!",
+          "translation": "What are you doing?! Don't worry about me—take him down now! If you don't, everyone's lives will be in danger...!",
+          "bbox": [0.1964, 0.4359, 0.5429, 0.0091]
+        },
+        {
+          "text": "17",
+          "translation": "17",
+          "bbox": [0.1244, 0.4559, 0.0214, 0.0085]
+        },
+        {
+          "text": "俺のソウル......お前に託す。",
+          "translation": "I entrust my soul... to you.",
+          "bbox": [0.1955, 0.4559, 0.1741, 0.0091]
+        },
+        {
+          "text": "18",
+          "translation": "18",
+          "bbox": [0.1235, 0.4758, 0.0223, 0.0085]
+        },
+        {
+          "text": "みんなを救え!コウ!",
+          "translation": "Save everyone! Kou!",
+          "bbox": [0.1964, 0.474, 0.1175, 0.0115]
+        },
+        {
+          "text": "19",
+          "translation": "19",
+          "bbox": [0.1235, 0.4952, 0.0214, 0.0085]
+        },
+        {
+          "text": "ああ・・・・・・最後に、ええ仲間に会えて、ほんま･･････。",
+          "translation": "Ah... in the end, I'm really glad I met such good comrades...",
+          "bbox": [0.1964, 0.4952, 0.2967, 0.0091]
+        },
+        {
+          "text": "20",
+          "translation": "20",
+          "bbox": [0.1218, 0.5943, 0.0257, 0.0091]
+        },
+        {
+          "text": "これちゃんと撮れてんのか、これ。はぁっ、どうも、 まいどです。 ナダです。 え~、 ま、 別にあらたまって言うようなこと\nじゃないんやけど、 俺、 みんなの足引っ張りたないから、ちょっと修行の旅に出ようと思ってます。\nだから、ま、ちょっとおらんようなるけど、 ま、寂しがらんといてな、な? はぁ・・・・・・ まあ、ぶっちゃけ、ドルイドンは強い。\nでも、みんなと一緒やったら、 不思議と怖ないんや。カナロとバンバはめちゃくちゃ強いし、\nトワはすばしっこくて勇気もある。 メルトはちゃーんとした作戦考えてくれるし、アスナはほら、なんてったってほら、\nカワイイ。 コウ。コウはちょっと、向こう見ずなとこあるけど、 その勇気が、 みんなの力を引き上げてる。 ほんまええ\nチームや。そんでもって俺が帰ってきたらもう最強や。 ドルイドン一緒に倒してな、この星に平和が来たら、 また、\n卓球しよな、遊ぼうな、 いっぱいアホな話しような。 挨拶はこんぐらいにして、 ほなまた••••。\nそういや、照れくさくて、 まだちゃんと言えてなかったな・・・・・・ みんな、ありがとう。",
+          "translation": "Is this recording alright? *Sigh* Hey there — I'm Nada. Well, it's not anything that needs a big announcement, but I don't want to hold everyone back, so I'm going on a training journey for a while. I'll be away for a bit, so don't get too lonely, okay? *Sigh*... Honestly, the Druidon are strong. But when I'm with you all, somehow I'm not afraid. Kanalo and Bamba are insanely strong, Towa is nimble and courageous, Melt comes up with solid plans, and Asuna — well, above all — she's cute. Kou... Kou can be a bit reckless, but that very courage lifts everyone's spirits. We're a really great team. And when I come back, we'll be the strongest. Let's defeat the Druidon together, and when peace returns to this planet, let's play table tennis again, hang out, and tell a bunch of stupid stories. That's about all for the greeting — see you later... Oh, and I was too shy to say it properly before, but... thank you, everyone.",
+          "bbox": [0.1964, 0.5145, 0.6895, 0.1687]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-14.webp",
+      "blocks": [
+        {
+          "text": "カナエソウル特別挙動音声",
+          "translation": "Kanae Soul Special Action Voice Lines",
+          "bbox": [0.3213, 0.0393, 0.401, 0.0242]
+        },
+        {
+          "text": "【ナダの特別メッセージ1】",
+          "translation": "[Nada's Special Message 1]",
+          "bbox": [0.3796, 0.0913, 0.2442, 0.0121]
+        },
+        {
+          "text": "なんか力が入らんなぁ。 こんなんじゃ、あいつらの足手まといになってまう･･････。 俺自身の力で、強くなるしかないか。",
+          "translation": "I can't seem to get any strength into me. At this rate, I'll end up being a burden to those guys... I have no choice but to become stronger by my own power.",
+          "bbox": [0.1208, 0.1119, 0.7009, 0.0097]
+        },
+        {
+          "text": "よし決めた。俺はもう一度修行に出る。 先輩の威厳を守らんとな。\nま、一応、あいつらにも伝えとくか。 けど面と向かっては言いづらいしな。",
+          "translation": "All right, I've decided. I'm going out to train once more. I have to uphold my dignity as a senior. Well, I should let those guys know too, just in case. But it's hard to say it to their faces.",
+          "bbox": [0.1217, 0.1318, 0.4336, 0.029]
+        },
+        {
+          "text": "そや、ええこと思いついた! 確かこのへんにういちゃんのカメラが・・・・・・ あった!",
+          "translation": "That's it — I've got a good idea! Ui-chan's camera should be around here somewhere... There it is!",
+          "bbox": [0.1208, 0.1717, 0.4781, 0.0091]
+        },
+        {
+          "text": "※【ナダの特別メッセージ1】の後にトリガーを短押しすると、本書13ページ 「ナダ後期モードセリフ一覧表」の\n番号20の音声が鳴ります。",
+          "translation": "If you press the trigger briefly after [Nada's Special Message 1], the voice for number 20 from the \"Nada Late-Stage Mode Dialogue List\" on page 13 of this manual will play.",
+          "bbox": [0.0985, 0.2001, 0.7789, 0.0326]
+        },
+        {
+          "text": "【ナダの特別メッセージ2】",
+          "translation": "[Nada's Special Message 2]",
+          "bbox": [0.3787, 0.2799, 0.2451, 0.0121]
+        },
+        {
+          "text": "自分ら、ええやつやなぁ。離れ離れになっても、ずっとソウルは一緒や。\n独りやない。仲間は必ずいるはずや。 諦めへん限り、願いは叶う。叶えてみせる",
+          "translation": "You guys are really good people. Even if we're separated, our souls will always be together. You're not alone. There will always be comrades. As long as you don't give up, wishes come true. I'll make it happen.",
+          "bbox": [0.1208, 0.3011, 0.4704, 0.0296]
+        },
+        {
+          "text": "【幻の7人並び変身】",
+          "translation": "[Phantom 7-Person Lineup Transformation]",
+          "bbox": [0.4105, 0.3827, 0.1825, 0.0121]
+        },
+        {
+          "text": "トリガーを長押し",
+          "translation": "Press and hold the trigger.",
+          "bbox": [0.12, 0.4359, 0.1234, 0.0121]
+        },
+        {
+          "text": "した際の音声",
+          "translation": "Audio that plays when the trigger is pressed and held.",
+          "bbox": [0.1328, 0.4565, 0.096, 0.0115]
+        },
+        {
+          "text": "(コウ) 行くぞッ!\n(ナダ) 今度は迷わんで。",
+          "translation": "(Koh) Let's go!\n(Nada) Don't hesitate this time.",
+          "bbox": [0.2896, 0.4166, 0.1448, 0.0308]
+        },
+        {
+          "text": "(コウ、メルト、 アスナ、 トワ、バンバ、カナロ) リュウソウチェンジ!!\n(ナダ) ガイソーチェンジ!",
+          "translation": "(Koh, Melt, Asuna, Towa, Bamba, Kanalo) Ryusoul Change!\n(Nada) Gaisoul Change!",
+          "bbox": [0.2896, 0.4565, 0.3805, 0.0296]
+        },
+        {
+          "text": "番号",
+          "translation": "Number",
+          "bbox": [0.1165, 0.5018, 0.0403, 0.0139]
+        },
+        {
+          "text": "セリフ内容",
+          "translation": "Dialogue content",
+          "bbox": [0.4987, 0.503, 0.0788, 0.0109]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.1311, 0.5248, 0.006, 0.0079]
+        },
+        {
+          "text": "(コウ) 勇猛の騎士、リュウソウレッド!",
+          "translation": "(Koh) The Valiant Knight, Ryusoul Red!",
+          "bbox": [0.1979, 0.5236, 0.2177, 0.0097]
+        },
+        {
+          "text": "(メルト) 叡智の騎士、リュウソウブルー!",
+          "translation": "(Melt) The Knight of Wisdom, Ryusoul Blue!",
+          "bbox": [0.1979, 0.5423, 0.2356, 0.0109]
+        },
+        {
+          "text": "2 3 4 5 6 7",
+          "translation": "2 3 4 5 6 7",
+          "bbox": [0.1251, 0.5435, 0.018, 0.1082]
+        },
+        {
+          "text": "8",
+          "translation": "8",
+          "bbox": [0.1285, 0.6729, 0.012, 0.0085]
+        },
+        {
+          "text": "00",
+          "translation": "00",
+          "bbox": [0.1285, 0.6723, 0.012, 0.0109]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.1277, 0.7025, 0.0137, 0.0091]
+        },
+        {
+          "text": "(アスナ) 剛健の騎士、リュウソウピンク!",
+          "translation": "(Asuna) The Stalwart Knight, Ryusoul Pink!",
+          "bbox": [0.1988, 0.5629, 0.2374, 0.0097]
+        },
+        {
+          "text": "(トワ) 疾風の騎士、リュウソウグリーン!\n(バンバ) 威風の騎士、リュウソウブラック!\n(カナロ) 栄光の騎士、リュウソウゴールド!\n(ナダ) 不屈の騎士、 ガイソーグ!\n(全員) 正義に仕える、気高き魂!\n(全員) 騎士竜戦隊! リュウソウジャー!\n(コウ) 俺達の騎士道、見せてやる!",
+          "translation": "(Towa) The Knight of the Gale, Ryusoul Green!\n(Bamba) The Knight of Majesty, Ryusoul Black!\n(Kanalo) The Knight of Glory, Ryusoul Gold!\n(Nada) The Knight of Indomitable Spirit, Gaisorg!\n(All) Noble souls serving justice!\n(All) Kishiryu Sentai! Ryusoulger!\n(Koh) We'll show you our way of knighthood!",
+          "bbox": [0.1979, 0.5828, 0.2511, 0.1288]
+        },
+        {
+          "text": "※セリフ再生中に開閉操作、 トリガー操作を行うと音声は止まります。",
+          "translation": "If you operate the open/close mechanism or the trigger while a line is playing, the audio will stop.",
+          "bbox": [0.407, 0.7316, 0.4936, 0.0115]
+        },
+        {
+          "text": "14",
+          "translation": "14",
+          "bbox": [0.9306, 0.9534, 0.0257, 0.0109]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-15.webp",
+      "blocks": [
+        {
+          "text": "騎士竜戦隊",
+          "translation": "Kishiryu Sentai",
+          "bbox": [0.4216, 0.4625, 0.1328, 0.0218]
+        }
+      ]
+    }
+  ]
+}

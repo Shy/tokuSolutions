@@ -1,0 +1,1316 @@
+{
+  "meta": {
+    "manual_name": "Gokaiger",
+    "source": "Gokaiger.pdf",
+    "source_lang": "ja",
+    "target_lang": "en",
+    "source_url": "",
+    "blog_url": "",
+    "pages": 8,
+    "blocks": 252,
+    "thumbnail": "pages/page-0.webp",
+    "tags": ["memorial", "sentai"]
+  },
+  "pages": [
+    {
+      "image": "pages/page-0.webp",
+      "blocks": [
+        {
+          "text": "G",
+          "translation": "G",
+          "bbox": [0.1693, 0.136, 0.0175, 0.0224]
+        },
+        {
+          "text": "APTON",
+          "translation": "APTON",
+          "bbox": [0.1304, 0.2956, 0.0795, 0.1022]
+        },
+        {
+          "text": "lista",
+          "translation": "list",
+          "bbox": [0.3194, 0.0834, 0.0513, 0.0302]
+        },
+        {
+          "text": "WANTED\nGOKAI SABER\nGOKAI GUN\nMEMORIAL EDITION",
+          "translation": "WANTED\nGOKAI SABER\nGOKAI GUN\nMEMORIAL EDITION",
+          "bbox": [0.5554, 0.0393, 0.3831, 0.2956]
+        },
+        {
+          "text": "海賊戦隊",
+          "translation": "Kaizoku Sentai",
+          "bbox": [0.2206, 0.4504, 0.0744, 0.0242]
+        },
+        {
+          "text": "ゴーカイジ",
+          "translation": "Gokaiger",
+          "bbox": [0.1535, 0.4831, 0.1706, 0.0701]
+        },
+        {
+          "text": "5. Ouelt",
+          "translation": "5. Ouelt",
+          "bbox": [0.1283, 0.5677, 0.059, 0.0955]
+        },
+        {
+          "text": "©石森プロ・東映",
+          "translation": "© Ishimori Productions & Toei",
+          "bbox": [0.2287, 0.6088, 0.0581, 0.0121]
+        },
+        {
+          "text": "RE",
+          "translation": "RE",
+          "bbox": [0.1783, 0.8162, 0.0718, 0.0369]
+        },
+        {
+          "text": "S. Est",
+          "translation": "S. Est",
+          "bbox": [0.286, 0.6572, 0.0402, 0.0979]
+        },
+        {
+          "text": "USER MANUAL",
+          "translation": "USER MANUAL",
+          "bbox": [0.5921, 0.7606, 0.3134, 0.0514]
+        },
+        {
+          "text": "←",
+          "translation": "←",
+          "bbox": [0.5199, 0.8386, 0.015, 0.0175]
+        },
+        {
+          "text": "目次",
+          "translation": "Table of Contents",
+          "bbox": [0.7392, 0.838, 0.0248, 0.0181]
+        },
+        {
+          "text": "+3←",
+          "translation": "+3←",
+          "bbox": [0.9466, 0.8386, 0.0325, 0.0169]
+        },
+        {
+          "text": "各部名称・・・",
+          "translation": "Names of parts...",
+          "bbox": [0.5267, 0.8706, 0.0355, 0.0109]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.7341, 0.873, 0.0034, 0.0067]
+        },
+        {
+          "text": "ゴーカイガン 必殺技遊び・",
+          "translation": "GOKAI GUN — Special Move Play",
+          "bbox": [0.7593, 0.8706, 0.0829, 0.0103]
+        },
+        {
+          "text": "7",
+          "translation": "7",
+          "bbox": [0.9658, 0.873, 0.0051, 0.0073]
+        },
+        {
+          "text": "電池の交換/電源の入れ方",
+          "translation": "Battery Replacement / How to Turn On the Power",
+          "bbox": [0.5267, 0.8851, 0.0795, 0.0115]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.7341, 0.8875, 0.0038, 0.0073]
+        },
+        {
+          "text": "特殊必殺技遊び",
+          "translation": "Special Move Play",
+          "bbox": [0.7593, 0.8869, 0.0496, 0.0091]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.9662, 0.8875, 0.0047, 0.0079]
+        },
+        {
+          "text": "ゴーカイサーベル 通常攻撃遊び･･･",
+          "translation": "GOKAI SABER — Standard Attack Play...",
+          "bbox": [0.5271, 0.9015, 0.1107, 0.0097]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.7341, 0.9033, 0.0043, 0.0073]
+        },
+        {
+          "text": "特殊必殺技遊び (5刀流)",
+          "translation": "Special Finishing Move Play (5-Sword Style)",
+          "bbox": [0.7589, 0.9015, 0.0757, 0.0103]
+        },
+        {
+          "text": "11",
+          "translation": "11",
+          "bbox": [0.9649, 0.9033, 0.0077, 0.006]
+        },
+        {
+          "text": "ゴーカイサーベル 必殺技遊び",
+          "translation": "GOKAI SABER — Special Move Play",
+          "bbox": [0.5271, 0.916, 0.0953, 0.0109]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.7341, 0.9178, 0.0038, 0.0073]
+        },
+        {
+          "text": "レンジャーキーの取り外し方",
+          "translation": "How to Remove the Ranger Key",
+          "bbox": [0.7606, 0.9166, 0.0906, 0.0103]
+        },
+        {
+          "text": "13",
+          "translation": "13",
+          "bbox": [0.9662, 0.9184, 0.0064, 0.006]
+        },
+        {
+          "text": "ゴーカイガン 通常攻撃遊び・",
+          "translation": "GOKAI GUN — Standard Attack Play",
+          "bbox": [0.5271, 0.9317, 0.0915, 0.0097]
+        },
+        {
+          "text": "7",
+          "translation": "7",
+          "bbox": [0.7341, 0.9329, 0.0043, 0.0073]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-1.webp",
+      "blocks": [
+        {
+          "text": "各部名称",
+          "translation": "Names of Parts",
+          "bbox": [0.0906, 0.0496, 0.0842, 0.029]
+        },
+        {
+          "text": "セット内容",
+          "translation": "Set Contents",
+          "bbox": [0.1038, 0.1088, 0.059, 0.0169]
+        },
+        {
+          "text": "ゴーカイサーベル本体 ...... 1",
+          "translation": "Gokai Saber main unit... 1",
+          "bbox": [0.0897, 0.1354, 0.0855, 0.0109]
+        },
+        {
+          "text": "ゴーカイガン本体......1\nレンジャーキー･･･各1",
+          "translation": "Gokai Gun main unit... 1\nRanger Keys... 1 each",
+          "bbox": [0.0983, 0.1524, 0.0709, 0.0266]
+        },
+        {
+          "text": "(ゴーカイレッド・ゴーカイプルー・ゴーカイイエロー・ゴーカイグリーンゴーカイピンク)",
+          "translation": "(Gokai Red, Gokai Blue, Gokai Yellow, Gokai Green, Gokai Pink)",
+          "bbox": [0.0303, 0.1832, 0.2068, 0.0097]
+        },
+        {
+          "text": "ゴーカイサーベルの剣先を曲げたり、",
+          "translation": "Bending the tip of the Gokai Saber,",
+          "bbox": [0.1034, 0.2793, 0.1308, 0.0133]
+        },
+        {
+          "text": "●WEB取扱説明書内の画像はすべてイメージです。\nゴーカイサーベル本体\nsliga",
+          "translation": "●All images in the WEB Instruction Manual are for illustrative purposes only.\nGokai Saber main unit",
+          "bbox": [0.265, 0.029, 0.188, 0.0859]
+        },
+        {
+          "text": "シリンダー",
+          "translation": "Cylinder",
+          "bbox": [0.5043, 0.0907, 0.0457, 0.0139]
+        },
+        {
+          "text": "【別角度】",
+          "translation": "[Different angle]",
+          "bbox": [0.4205, 0.1179, 0.0406, 0.0145]
+        },
+        {
+          "text": "キー挿入口 -",
+          "translation": "Key slot",
+          "bbox": [0.4201, 0.1844, 0.0581, 0.0157]
+        },
+        {
+          "text": "無理な力を加えたりすると変形や破損の恐れがあります。\n取扱いには十分にご注意ください。",
+          "translation": "Applying excessive force may cause deformation or damage.\nPlease handle with care.",
+          "bbox": [0.1026, 0.295, 0.2064, 0.0278]
+        },
+        {
+          "text": "LED",
+          "translation": "LED",
+          "bbox": [0.4658, 0.2993, 0.0231, 0.0115]
+        },
+        {
+          "text": "LED (刃)",
+          "translation": "LED (Blade)",
+          "bbox": [0.1244, 0.5133, 0.0436, 0.0157]
+        },
+        {
+          "text": "ロック解除ボタン",
+          "translation": "Lock release button",
+          "bbox": [0.3637, 0.5357, 0.0791, 0.0145]
+        },
+        {
+          "text": "レンジャーキー",
+          "translation": "Ranger Key",
+          "bbox": [0.6483, 0.0411, 0.0872, 0.02]
+        },
+        {
+          "text": "ボタン",
+          "translation": "Button",
+          "bbox": [0.6778, 0.3047, 0.0286, 0.0121]
+        },
+        {
+          "text": "レンジャーモード",
+          "translation": "Ranger Mode",
+          "bbox": [0.6043, 0.3561, 0.0658, 0.0115]
+        },
+        {
+          "text": "キーモード",
+          "translation": "Key Mode",
+          "bbox": [0.7132, 0.3567, 0.0444, 0.0109]
+        },
+        {
+          "text": "トリガー",
+          "translation": "Trigger",
+          "bbox": [0.6953, 0.4692, 0.0363, 0.0127]
+        },
+        {
+          "text": "側面のボタンを押すことで、\n変形することができます。",
+          "translation": "Pressing the side button will transform it.",
+          "bbox": [0.7927, 0.1457, 0.0991, 0.026]
+        },
+        {
+          "text": "①両腕を上げます。\n② 側面のボタンを押します。\n※梱包時はキーモードの状態です。\n両腕と脚を展開してから遊んでください。\n※レンジャーキーには全体に彩色を施しております。\n組み立て~操作の際にキズがつく恐れがありますので\n取扱いには十分注意してください。",
+          "translation": "① Raise both arms.\n② Press the side button.\n*The product is in Key Mode when packaged.\nPlease deploy both the arms and legs before playing.\n*The Ranger Keys are painted all over. Scratches may occur during assembly or operation, so please handle with care.",
+          "bbox": [0.7863, 0.1856, 0.1688, 0.0943]
+        },
+        {
+          "text": "シリンダー",
+          "translation": "Cylinder",
+          "bbox": [0.8718, 0.5659, 0.0462, 0.0127]
+        },
+        {
+          "text": "【別角度】",
+          "translation": "[Different angle]",
+          "bbox": [0.7889, 0.5804, 0.0393, 0.0163]
+        },
+        {
+          "text": "△ 注意 お買い上げのお客様へ 必ずお読みください。\n●本商品の対象年齢は15才以上です。 対象年齢未満のお子様には絶対に与えないでください。",
+          "translation": "△ Caution — To customers: Please read carefully.\n● This product is for Ages 15 and up. Do not give it to children below the recommended age.",
+          "bbox": [0.0372, 0.5901, 0.2996, 0.0351]
+        },
+        {
+          "text": "●小さな部品、電池がありますので、小さなお子様が誤って飲み込まないように注意してください。 窒息などの危険があります。",
+          "translation": "● This product contains small parts and batteries; take care that small children do not accidentally swallow them. There is a risk of choking.",
+          "bbox": [0.038, 0.6294, 0.4017, 0.0103]
+        },
+        {
+          "text": "ゴーカイガン本体",
+          "translation": "Gokai Gun main unit",
+          "bbox": [0.5385, 0.6276, 0.1056, 0.02]
+        },
+        {
+          "text": "●本商品には電子部品を使用しておりますので、ペースメーカーをご使用の方はご注意ください。",
+          "translation": "● This product contains electronic components; if you use a pacemaker, please exercise caution.",
+          "bbox": [0.0376, 0.6433, 0.3068, 0.0097]
+        },
+        {
+          "text": "●尖った部分や鋭い部分がありますので、取扱いや保管場所に注意してください。思わぬケガをする恐れがあります。",
+          "translation": "● This product has pointed and sharp parts; be careful when handling and storing it. There is a risk of unexpected injury.",
+          "bbox": [0.0372, 0.6572, 0.3705, 0.0097]
+        },
+        {
+          "text": "キー挿入口",
+          "translation": "Key slot",
+          "bbox": [0.788, 0.6614, 0.0521, 0.0151]
+        },
+        {
+          "text": "●耳の近くで使用してはいけません。 誤って使用すると、聴覚を損なう恐れがあります。",
+          "translation": "● Do not use near the ear. Doing so may damage hearing.",
+          "bbox": [0.0372, 0.6711, 0.2739, 0.0097]
+        },
+        {
+          "text": "●LEDの光の点滅を見続けないでください。気分が悪くなったりする恐れがあります。\n<電池を誤使用すると発熱・破裂・液漏れの恐れがあります。 下記に注意してください。>\n●二次電池(充電式電池) は、 絶対に使用しないでください。\n●古い電池と新しい電池、いろいろな種類の電池をまぜて使わないでください。",
+          "translation": "● Do not stare at flashing LED lights. Prolonged viewing may cause discomfort.\n<Improper use of batteries may cause overheating, rupture, or leakage. Please observe the following:>\n● Never use secondary (rechargeable) batteries.\n● Do not mix old and new batteries or different types of batteries.",
+          "bbox": [0.0333, 0.6856, 0.2739, 0.0508]
+        },
+        {
+          "text": "●+(プラスマイナス)を正しくセットしてください。",
+          "translation": "● Set the + and − (plus/minus) correctly.",
+          "bbox": [0.038, 0.7406, 0.1628, 0.0103]
+        },
+        {
+          "text": "●遊んだ後は必ずスイッチを切り電池をはずしてください。 電池を入れたままにしておくと、液漏れの恐れがあり危険です。",
+          "translation": "● After playing, always turn off the switch and remove the batteries. Leaving batteries installed can lead to leakage and is dangerous.",
+          "bbox": [0.0372, 0.7551, 0.3893, 0.0097]
+        },
+        {
+          "text": "LED (銃口)",
+          "translation": "LED (Muzzle)",
+          "bbox": [0.5628, 0.7122, 0.0543, 0.0151]
+        },
+        {
+          "text": "●ショートさせたり充電、 分解、 加熱、火の中に入れたりしないでください。\n●万一、 電池から漏れた液が目に入ったときはすぐに大量の水で洗い、医師に相談してください。 皮膚や服に付いたときは水で洗って\nください。",
+          "translation": "● Do not short-circuit, charge, disassemble, heat, or dispose of batteries in fire.\n● If battery fluid gets into the eyes, rinse immediately with plenty of water and consult a doctor. If it gets on skin or clothing, wash with water.",
+          "bbox": [0.0338, 0.7672, 0.4329, 0.0459]
+        },
+        {
+          "text": "●廃棄するときは、 自治体の廃棄物処理の指示に従ってください。",
+          "translation": "● When disposing of this product, follow your local municipal waste disposal instructions.",
+          "bbox": [0.0333, 0.8108, 0.212, 0.0097]
+        },
+        {
+          "text": "《使用上の注意》",
+          "translation": "《Precautions for Use》",
+          "bbox": [0.0265, 0.838, 0.0645, 0.0121]
+        },
+        {
+          "text": "●本商品は精密に作られています。 無理な力を加えたり、落としたりすると破損する恐れがあります。●本商品は精密な電子\n部品で構成されています。 落としたり、水にぬらしたり、汚したり、分解したりしないでください。 また、高温・低温になる所での\n使用、保管は避けてください。 プラスチック梱包材は、 開封後はすぐに捨ててください。●本商品を樹脂製のソファーやシート、\nタイルなどの上に置かないでください。 長時間接触していると色が移る場合があります。 ●可動部分・取付部分を無理な方向に\n強く引っ張ったり、曲げたりしないでください。 ●発音の一部にイントネーションが違っていたり、 商品の特性上聞き取りにくい\nものがありますが、ご了承ください。 本商品には、対応しているレンジャーキー以外はセットしないでください。 故障や破損の\n原因となります。",
+          "translation": "● This product is precisely manufactured. Applying excessive force or dropping it may cause damage. ● The product contains delicate electronic components. Do not drop, immerse in water, soil, or disassemble. Avoid using or storing in extremely hot or cold places. Dispose of plastic packaging immediately after opening. ● Do not place this product on resin sofas, seats, tiles, etc.; prolonged contact may cause color transfer. ● Do not pull or bend movable or attached parts forcefully in unnatural directions. ● Some spoken lines may have different intonation or be difficult to hear due to the product's characteristics; please understand this in advance. ● Do not insert Ranger Keys other than those compatible with this product. Doing so may cause malfunction or damage.",
+          "bbox": [0.0269, 0.8561, 0.4462, 0.0967]
+        },
+        {
+          "text": "ロック解除ボタン",
+          "translation": "Lock release button",
+          "bbox": [0.6487, 0.8688, 0.0799, 0.0145]
+        },
+        {
+          "text": "LED",
+          "translation": "LED",
+          "bbox": [0.8662, 0.7424, 0.0226, 0.0109]
+        },
+        {
+          "text": "トリガー",
+          "translation": "Trigger",
+          "bbox": [0.9162, 0.838, 0.0359, 0.0127]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-2.webp",
+      "blocks": [
+        {
+          "text": "起動",
+          "translation": "Startup",
+          "bbox": [0.0646, 0.0466, 0.05, 0.0326]
+        },
+        {
+          "text": "電池の交換/電源の入れ方",
+          "translation": "Battery replacement / How to turn on the power",
+          "bbox": [0.2044, 0.0538, 0.1757, 0.0212]
+        },
+        {
+          "text": "※電源スイッチがX (OFF)になっていることを確認してください。\n※音が小さくなって聞きとりにくくなったり、音が繰り返し鳴るなどの誤動作をする場合や\nLEDの発光が弱くなった場合は、すべて新しい電池に交換してください。",
+          "translation": "※ Confirm the power switch is set to X (OFF).\n※ If the sound becomes faint or hard to hear, if erroneous operation such as repeated sounds occurs, or if the LED becomes dim, replace all batteries with new ones.",
+          "bbox": [0.0265, 0.1119, 0.4079, 0.058]
+        },
+        {
+          "text": "ゴーカイサーベル\n①カバーパーツを取り外します。",
+          "translation": "Gokai Saber\n① Remove the cover part.",
+          "bbox": [0.0257, 0.1886, 0.1124, 0.0435]
+        },
+        {
+          "text": "本体側面のカバーパーツを印の箇所に指を掛け、取り外します。",
+          "translation": "Hook your finger on the ○ mark on the cover part on the side of the main unit and remove it.",
+          "bbox": [0.0338, 0.2352, 0.2411, 0.0115]
+        },
+        {
+          "text": "②電池ぶたを取り外します。",
+          "translation": "② Remove the battery cover.",
+          "bbox": [0.0252, 0.2503, 0.0996, 0.0115]
+        },
+        {
+          "text": "②-1 本体内側の電池ぶたのネジを+または、ドライバーで矢印の方向に回し、",
+          "translation": "②-1 Turn the screw on the battery cover inside the main unit in the direction of the arrow using a + or - screwdriver,",
+          "bbox": [0.0338, 0.2654, 0.2817, 0.0109]
+        },
+        {
+          "text": "②-2 電池ぶたを取り外します。\n③電池を入れます。",
+          "translation": "②-2 Remove the battery cover.\n③ Insert the batteries.",
+          "bbox": [0.0257, 0.2799, 0.1171, 0.0272]
+        },
+        {
+          "text": "単4乾電池3本(別売り)の土をそれぞれ間違えないように入れます。",
+          "translation": "Insert 3 AAA batteries (sold separately), making sure to observe the correct polarity for each battery.",
+          "bbox": [0.0342, 0.3108, 0.2488, 0.0115]
+        },
+        {
+          "text": "④電池ぶたを戻します。",
+          "translation": "④ Put the battery cover back on.",
+          "bbox": [0.0252, 0.3253, 0.0847, 0.0115]
+        },
+        {
+          "text": "電池ぶたの突起と本体のミゾを合わせ、電池ぶたのネジを ②-1と逆方向に回して閉じます。\n⑤カバーパーツを戻します。\nカバーパーツの凸部と本体の凹部を合わせ、 カバーパーツを戻します。",
+          "translation": "Align the protrusion on the battery cover with the groove on the main unit, then turn the battery cover screw in the direction opposite to ②-1 to close it.\n⑤ Reattach the cover part.\nAlign the protruding part of the cover part with the recessed part of the main unit, then reattach the cover part.",
+          "bbox": [0.0252, 0.3398, 0.3309, 0.0429]
+        },
+        {
+          "text": "ゴーカイガン",
+          "translation": "Gokai Gun",
+          "bbox": [0.5442, 0.0441, 0.0778, 0.0163]
+        },
+        {
+          "text": "①カバーパーツを取り外します。",
+          "translation": "① Remove the cover part.",
+          "bbox": [0.5263, 0.0798, 0.1129, 0.0115]
+        },
+        {
+          "text": "本体背面のカバーパーツを本体側面の印の箇所に指を掛け、取り外します。\n②電池ぶたを取り外します。\n②-1 本体内側の電池ぶたのネジを+または、ドライバーで矢印の方向に回し、\n②-2 電池ぶたを取り外します。",
+          "translation": "Hook your finger on the marked spot on the side of the main unit and remove the cover part from the back of the main unit.\n② Remove the battery cover.\n②-1 Turn the screw on the battery cover inside the main unit in the direction of the arrow using a + or - screwdriver,\n②-2 Remove the battery cover.",
+          "bbox": [0.5263, 0.0943, 0.2912, 0.0574]
+        },
+        {
+          "text": "③電池を入れます。",
+          "translation": "③ Insert the batteries.",
+          "bbox": [0.5263, 0.1554, 0.0684, 0.0115]
+        },
+        {
+          "text": "単4乾電池2本(別売り)の土をそれぞれ間違えないように入れます。\n④電池ぶたを戻します。\n電池ぶたの突起と本体のミゾを合わせ、電池ぶたのネジを\n②-1と逆方向に回して閉じます。\n⑤カバーパーツを戻します。",
+          "translation": "Insert 2 AAA batteries (sold separately), making sure to observe the correct polarity for each battery.\n④ Replace the battery cover.\nAlign the protrusion on the battery cover with the groove on the main unit, then turn the battery cover screw in the direction opposite to ②-1 to close it.\n⑤ Reattach the cover part.",
+          "bbox": [0.5263, 0.1705, 0.2578, 0.0719]
+        },
+        {
+          "text": "AR",
+          "translation": "AR",
+          "bbox": [0.8414, 0.0478, 0.0898, 0.0417]
+        },
+        {
+          "text": "Acors inful",
+          "translation": "Acors inful",
+          "bbox": [0.8166, 0.2225, 0.1022, 0.0272]
+        },
+        {
+          "text": "カバーパーツの凸部と本体の凹部を合わせ、 カバーパーツを戻します。",
+          "translation": "Align the protruding part of the cover part with the recessed part of the main unit, and reattach the cover part.",
+          "bbox": [0.5357, 0.2461, 0.2463, 0.0109]
+        },
+        {
+          "text": "【背面】",
+          "translation": "[Back]",
+          "bbox": [0.5413, 0.3059, 0.0265, 0.0127]
+        },
+        {
+          "text": "凸部",
+          "translation": "Protrusion",
+          "bbox": [0.5947, 0.3083, 0.0167, 0.0121]
+        },
+        {
+          "text": "カバーパーツ",
+          "translation": "Cover part",
+          "bbox": [0.711, 0.3083, 0.047, 0.0091]
+        },
+        {
+          "text": "阿部",
+          "translation": "Abe",
+          "bbox": [0.7841, 0.3724, 0.0171, 0.0115]
+        },
+        {
+          "text": "【側面】",
+          "translation": "[Side]",
+          "bbox": [0.0308, 0.4045, 0.0269, 0.0157]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.0201, 0.968, 0.0056, 0.0097]
+        },
+        {
+          "text": "【背面】",
+          "translation": "[Back]",
+          "bbox": [0.1445, 0.3978, 0.0274, 0.0133]
+        },
+        {
+          "text": "凸部",
+          "translation": "protrusion",
+          "bbox": [0.1834, 0.4027, 0.0175, 0.0115]
+        },
+        {
+          "text": "カバーパーツ",
+          "translation": "Cover part",
+          "bbox": [0.1227, 0.7854, 0.047, 0.0085]
+        },
+        {
+          "text": "単4",
+          "translation": "AAA",
+          "bbox": [0.0624, 0.8083, 0.0098, 0.0091]
+        },
+        {
+          "text": "x3",
+          "translation": "x3",
+          "bbox": [0.0851, 0.8071, 0.0115, 0.0097]
+        },
+        {
+          "text": "単4乾電池3本使用(別売り)",
+          "translation": "Uses 3 AAA batteries (sold separately)",
+          "bbox": [0.0325, 0.8301, 0.074, 0.0085]
+        },
+        {
+          "text": "【背面】",
+          "translation": "[Back]",
+          "bbox": [0.1253, 0.838, 0.0265, 0.0127]
+        },
+        {
+          "text": "凸部",
+          "translation": "protrusion",
+          "bbox": [0.1625, 0.8446, 0.018, 0.0109]
+        },
+        {
+          "text": "●アルカリ電池専用",
+          "translation": "● Use alkaline batteries only",
+          "bbox": [0.0325, 0.8537, 0.0718, 0.0109]
+        },
+        {
+          "text": "突起",
+          "translation": "Protrusion",
+          "bbox": [0.3989, 0.4921, 0.0175, 0.0109]
+        },
+        {
+          "text": "門部・",
+          "translation": "Gate Guard Division /",
+          "bbox": [0.2274, 0.5193, 0.0188, 0.0127]
+        },
+        {
+          "text": "51",
+          "translation": "51",
+          "bbox": [0.2813, 0.5193, 0.0137, 0.0097]
+        },
+        {
+          "text": "ミゾー",
+          "translation": "Mizo",
+          "bbox": [0.2313, 0.5375, 0.018, 0.0097]
+        },
+        {
+          "text": "―ミゾ",
+          "translation": "—Groove",
+          "bbox": [0.3236, 0.5381, 0.0197, 0.0097]
+        },
+        {
+          "text": "①",
+          "translation": "①",
+          "bbox": [0.2283, 0.5562, 0.0107, 0.0115]
+        },
+        {
+          "text": "← 電池ぶた",
+          "translation": "← Battery cover",
+          "bbox": [0.416, 0.5689, 0.0504, 0.0127]
+        },
+        {
+          "text": "②-2",
+          "translation": "②-2",
+          "bbox": [0.3514, 0.6094, 0.0158, 0.0109]
+        },
+        {
+          "text": "阿部",
+          "translation": "Abe",
+          "bbox": [0.3155, 0.7981, 0.0167, 0.0115]
+        },
+        {
+          "text": "+",
+          "translation": "+",
+          "bbox": [0.3472, 0.8017, 0.009, 0.0109]
+        },
+        {
+          "text": "②-1",
+          "translation": "②-1",
+          "bbox": [0.3938, 0.7993, 0.0162, 0.0109]
+        },
+        {
+          "text": "ゴーカイサーベル本体の\n電源スイッチを○ (ON)にします。\nLEDが発光し、起動音が鳴ります。\n遊び終わった後は、必ず電源スイッチを\nx (OFF)にしてください。",
+          "translation": "Set the Gokai Saber's power switch on the main unit to ○ (ON).\nThe LED will light and a startup sound will play.\nAfter playing, be sure to set the power switch to x (OFF).",
+          "bbox": [0.221, 0.8337, 0.1484, 0.0744]
+        },
+        {
+          "text": "ネジ",
+          "translation": "Screw",
+          "bbox": [0.4267, 0.7031, 0.0145, 0.0097]
+        },
+        {
+          "text": "【側面】",
+          "translation": "[Side]",
+          "bbox": [0.5391, 0.5, 0.0265, 0.0133]
+        },
+        {
+          "text": "・凸部",
+          "translation": "・Protrusion",
+          "bbox": [0.5819, 0.4468, 0.0201, 0.0109]
+        },
+        {
+          "text": "Raw",
+          "translation": "Raw",
+          "bbox": [0.5814, 0.838, 0.0453, 0.026]
+        },
+        {
+          "text": "電源スイッチ",
+          "translation": "Power switch",
+          "bbox": [0.4049, 0.8567, 0.0475, 0.0103]
+        },
+        {
+          "text": "CE",
+          "translation": "CE",
+          "bbox": [0.581, 0.8603, 0.0265, 0.0224]
+        },
+        {
+          "text": "☑",
+          "translation": "☑",
+          "bbox": [0.4532, 0.8869, 0.0115, 0.0133]
+        },
+        {
+          "text": "※ロック解除ボタンを押しシリンダーを\n起こした状態で、トリガーを押しながら",
+          "translation": "※ While holding the lock-release button so the cylinder is raised, and while pressing the trigger,",
+          "bbox": [0.2215, 0.9105, 0.1466, 0.026]
+        },
+        {
+          "text": "電源を入れるとP.5以降のモードで",
+          "translation": "If you turn the power on in that state, in the modes described from P.5 onward,",
+          "bbox": [0.23, 0.9401, 0.1253, 0.0109]
+        },
+        {
+          "text": "ゴーカイサーベルのLED (刃) は発光しなくなります。",
+          "translation": "the Gokai Saber's LED (blade) will not light.",
+          "bbox": [0.2309, 0.9553, 0.1864, 0.0115]
+        },
+        {
+          "text": "阿部・",
+          "translation": "Abe...",
+          "bbox": [0.7225, 0.5103, 0.0188, 0.0115]
+        },
+        {
+          "text": "ミゾ",
+          "translation": "Groove",
+          "bbox": [0.7666, 0.4033, 0.0162, 0.0103]
+        },
+        {
+          "text": "+",
+          "translation": "+",
+          "bbox": [0.8093, 0.5762, 0.0098, 0.0121]
+        },
+        {
+          "text": "①",
+          "translation": "①",
+          "bbox": [0.8179, 0.5992, 0.0094, 0.0157]
+        },
+        {
+          "text": "OL",
+          "translation": "OL",
+          "bbox": [0.7815, 0.6312, 0.0141, 0.0242]
+        },
+        {
+          "text": "電池ぶた",
+          "translation": "Battery cover",
+          "bbox": [0.8247, 0.6439, 0.0338, 0.0097]
+        },
+        {
+          "text": "+",
+          "translation": "+",
+          "bbox": [0.7905, 0.6651, 0.0081, 0.0103]
+        },
+        {
+          "text": "②-1",
+          "translation": "②-1",
+          "bbox": [0.8529, 0.6983, 0.018, 0.0109]
+        },
+        {
+          "text": "単4",
+          "translation": "AAA",
+          "bbox": [0.7482, 0.6971, 0.0103, 0.0073]
+        },
+        {
+          "text": "x2",
+          "translation": "x2",
+          "bbox": [0.7708, 0.6959, 0.0115, 0.0079]
+        },
+        {
+          "text": "単4乾電池2本使用(別売り)",
+          "translation": "Uses 2 AAA batteries (sold separately)",
+          "bbox": [0.7187, 0.717, 0.0731, 0.0097]
+        },
+        {
+          "text": "●アルカリ電池専用",
+          "translation": "● Use alkaline batteries only",
+          "bbox": [0.7183, 0.7418, 0.0723, 0.0109]
+        },
+        {
+          "text": "ゴーカイガン本体の\n電源スイッチをO (ON)にします。\nLEDが発光し、 起動音が鳴ります。\n※遊び終わった後は、必ず電源スイッチを\nx (OFF)にしてください。",
+          "translation": "Set the Gokai Gun's power switch on the main unit to O (ON).\nThe LED will light and a startup sound will play.\n※ After playing, be sure to set the power switch to x (OFF).",
+          "bbox": [0.6721, 0.7854, 0.1479, 0.0732]
+        },
+        {
+          "text": "ネジ",
+          "translation": "Screw",
+          "bbox": [0.8935, 0.6064, 0.0141, 0.0091]
+        },
+        {
+          "text": "突起",
+          "translation": "Protrusion",
+          "bbox": [0.9153, 0.5272, 0.018, 0.0121]
+        },
+        {
+          "text": "電源スイッチ",
+          "translation": "Power switch",
+          "bbox": [0.8619, 0.7902, 0.0475, 0.0097]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-3.webp",
+      "blocks": [
+        {
+          "text": "豪快に攻撃",
+          "translation": "Launch a powerful attack",
+          "bbox": [0.0671, 0.0472, 0.1124, 0.0339]
+        },
+        {
+          "text": "~通常攻撃遊び ~",
+          "translation": "~Normal Attack Play~",
+          "bbox": [0.2735, 0.0538, 0.112, 0.0206]
+        },
+        {
+          "text": "2 キーを挿入します。",
+          "translation": "2 Insert the key.",
+          "bbox": [0.5325, 0.0605, 0.1239, 0.02]
+        },
+        {
+          "text": "ゴーカイサーベル",
+          "translation": "Gokai Saber",
+          "bbox": [0.0325, 0.1112, 0.1051, 0.0169]
+        },
+        {
+          "text": "1 トリガーを押します。\nLED (刃)が白色に発光し、 「通常攻撃音」が鳴ります。\n※トリガーを押すごとにLEDの発光する色が変わります。",
+          "translation": "1 Press the trigger.\nLED (Blade) lights white, and the \"normal attack\" sound plays.\n*Each time you press the trigger, the LED color changes.",
+          "bbox": [0.0346, 0.1693, 0.2496, 0.0593]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.0197, 0.9686, 0.006, 0.0097]
+        },
+        {
+          "text": "asmo",
+          "translation": "asmo",
+          "bbox": [0.0714, 0.3718, 0.0585, 0.0417]
+        },
+        {
+          "text": "LED (刃)",
+          "translation": "LED (Blade)",
+          "bbox": [0.1312, 0.4123, 0.0342, 0.0121]
+        },
+        {
+          "text": "LED",
+          "translation": "LED",
+          "bbox": [0.3085, 0.3168, 0.0179, 0.0085]
+        },
+        {
+          "text": "トリガー",
+          "translation": "Trigger",
+          "bbox": [0.3731, 0.3724, 0.0278, 0.0109]
+        },
+        {
+          "text": "・レンジャーキー",
+          "translation": "・Ranger Key",
+          "bbox": [0.6504, 0.1403, 0.041, 0.0079]
+        },
+        {
+          "text": "3 キーを捻ります。\nLEDがキーに対応した色に発光し、\n「効果音」が鳴ります。",
+          "translation": "3 Turn the key.\nThe LED lights up in the color corresponding to the key,\nand a sound effect plays.",
+          "bbox": [0.7684, 0.0605, 0.1739, 0.058]
+        },
+        {
+          "text": "派手に攻撃\n※ゴーカイレッドキーを例に説明します。\n※キーに対応した色でLEDが発光します。\n詳しくは下記表をご確認ください。",
+          "translation": "Perform a flashy attack.\n*The following uses the Gokai Red Key as an example.\n*The LED lights in the color corresponding to the key.\nPlease refer to the table below for details.",
+          "bbox": [0.047, 0.5453, 0.1932, 0.1131]
+        },
+        {
+          "text": "(",
+          "translation": "(",
+          "bbox": [0.4791, 0.5387, 0.0141, 0.0127]
+        },
+        {
+          "text": "~必殺技遊び~",
+          "translation": "~Special Move Play~",
+          "bbox": [0.2816, 0.5514, 0.0949, 0.0206]
+        },
+        {
+          "text": "<1 ロック解除ボタンを押します。\nシリンダーが上がり、 LEDが白色に発光し、\n「効果音が鳴ります。",
+          "translation": "<1 Press the unlock button.\nThe cylinder rises, the LED lights white,\nand an \"effect\" sound plays.",
+          "bbox": [0.265, 0.6245, 0.2073, 0.0593]
+        },
+        {
+          "text": "4 ① シリンダーを倒します。\nLEDがキーに対応した色に発光し、\nその後、LEDの発光する色が変わり、\n「必殺技待機音」が鳴ります。\n※LED (刃)はキーに対応した色で発光します。",
+          "translation": "4 ① Fold the cylinder down.\nThe LED lights in the color corresponding to the key,\nthen the LED color changes and the \"Special Move standby\" sound plays.\n*LED (Blade) lights in the color corresponding to the key.",
+          "bbox": [0.5329, 0.5496, 0.2111, 0.0907]
+        },
+        {
+          "text": "②トリガーを押します。\n→LEDとLED (刃)がキーに対応した色に\n発光し、 「必殺技音」が鳴ります。",
+          "translation": "② Press the trigger.\n→ The LED and LED (Blade) light in the color corresponding to the key,\nand the \"special move\" sound plays.",
+          "bbox": [0.7551, 0.5496, 0.1714, 0.0574]
+        },
+        {
+          "text": "Ja Conte",
+          "translation": "Ja Conte",
+          "bbox": [0.8432, 0.6131, 0.0748, 0.0526]
+        },
+        {
+          "text": "対応表",
+          "translation": "Correspondence Table",
+          "bbox": [0.1188, 0.7146, 0.0248, 0.0115]
+        },
+        {
+          "text": "ゴーカイレッド 赤\n| ゴーカイブルー 青\n|ゴーカイイエロー 黄\nゴーカイグリーン緑\nゴーカイピンク 桃",
+          "translation": "Gokai Red — Red\nGokai Blue — Blue\nGokai Yellow — Yellow\nGokai Green — Green\nGokai Pink — Pink",
+          "bbox": [0.0838, 0.7322, 0.088, 0.101]
+        },
+        {
+          "text": "FRE",
+          "translation": "FRE",
+          "bbox": [0.1628, 0.8162, 0.088, 0.0345]
+        },
+        {
+          "text": "シリンダー",
+          "translation": "Cylinder",
+          "bbox": [0.4073, 0.7304, 0.0368, 0.0091]
+        },
+        {
+          "text": "KU",
+          "translation": "KU",
+          "bbox": [0.5393, 0.8349, 0.0342, 0.032]
+        },
+        {
+          "text": "②",
+          "translation": "②",
+          "bbox": [0.8312, 0.9238, 0.0098, 0.0103]
+        },
+        {
+          "text": "corn",
+          "translation": "corn",
+          "bbox": [0.9316, 0.8216, 0.0278, 0.0139]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-4.webp",
+      "blocks": [
+        {
+          "text": "豪快に攻撃",
+          "translation": "Launch a powerful attack",
+          "bbox": [0.0671, 0.0472, 0.1124, 0.0345]
+        },
+        {
+          "text": "~通常攻撃遊び ~",
+          "translation": "~Standard Attack Play~",
+          "bbox": [0.2736, 0.0538, 0.1112, 0.0206]
+        },
+        {
+          "text": "2キーを挿入します。",
+          "translation": "2 Insert the key.",
+          "bbox": [0.5327, 0.0593, 0.1244, 0.0206]
+        },
+        {
+          "text": "3 キーを捻ります。",
+          "translation": "3 Turn the key.",
+          "bbox": [0.7614, 0.0593, 0.1112, 0.0218]
+        },
+        {
+          "text": "LEDがキーに対応した色に発光し、\n「効果音」が鳴ります。",
+          "translation": "The LED lights in the color corresponding to the key, and an effect sound plays.",
+          "bbox": [0.7918, 0.0877, 0.1441, 0.029]
+        },
+        {
+          "text": "ゴーカイガン",
+          "translation": "Gokai Gun",
+          "bbox": [0.0325, 0.1094, 0.0774, 0.0193]
+        },
+        {
+          "text": "1 トリガーを押します。\nLED (銃口)がオレンジ色に発光し、 「通常攻撃音」 が鳴ります。\n※トリガーを押すごとにLEDの発光する色が変わります。",
+          "translation": "1 Press the trigger.\nLED (muzzle) lights orange and the \"standard attack sound\" plays.\n*The LED color changes each time the trigger is pressed.",
+          "bbox": [0.0342, 0.1699, 0.2775, 0.0574]
+        },
+        {
+          "text": "LED (銃口)",
+          "translation": "LED (muzzle)",
+          "bbox": [0.0829, 0.2515, 0.0428, 0.0109]
+        },
+        {
+          "text": "asmo",
+          "translation": "asmo",
+          "bbox": [0.0714, 0.3712, 0.062, 0.0417]
+        },
+        {
+          "text": "LED",
+          "translation": "LED",
+          "bbox": [0.1714, 0.3301, 0.0175, 0.0103]
+        },
+        {
+          "text": "トリガー",
+          "translation": "Trigger",
+          "bbox": [0.3194, 0.3452, 0.0282, 0.0091]
+        },
+        {
+          "text": "派手に攻撃\n※ゴーカイレッドキーを例に説明します。\n※キーに対応した色でLEDが発光します。\n詳しくは下記表をご確認ください。",
+          "translation": "Launch a flashy attack.\n*The explanation uses the Gokai Red Key as an example.\n*The LED lights up in a color corresponding to the key.\nPlease refer to the table below for details.",
+          "bbox": [0.047, 0.5453, 0.1928, 0.1125]
+        },
+        {
+          "text": "~必殺技遊び~",
+          "translation": "~Special Move Play~",
+          "bbox": [0.2813, 0.5508, 0.0945, 0.0206]
+        },
+        {
+          "text": "1 ロック解除ボタンを押します。",
+          "translation": "1 Press the unlock button.",
+          "bbox": [0.2715, 0.6245, 0.183, 0.0206]
+        },
+        {
+          "text": "7",
+          "translation": "7",
+          "bbox": [0.0197, 0.9661, 0.0056, 0.0127]
+        },
+        {
+          "text": "対応表",
+          "translation": "Correspondence Table",
+          "bbox": [0.1189, 0.7152, 0.0244, 0.0115]
+        },
+        {
+          "text": "ゴーカイレッド 赤\nゴーカイブルー 青\nゴーカイイエロー 黄",
+          "translation": "Gokai Red (Red)\nGokai Blue (Blue)\nGokai Yellow (Yellow)",
+          "bbox": [0.0872, 0.7352, 0.0834, 0.055]
+        },
+        {
+          "text": "| ゴーカイグリーン 緑",
+          "translation": "| Gokai Green (Green)",
+          "bbox": [0.0838, 0.7993, 0.0855, 0.0121]
+        },
+        {
+          "text": "ゴーカイピンク 桃",
+          "translation": "Gokai Pink (Pink)",
+          "bbox": [0.0876, 0.8198, 0.0752, 0.0121]
+        },
+        {
+          "text": "FRE",
+          "translation": "FRE",
+          "bbox": [0.159, 0.8168, 0.0881, 0.0326]
+        },
+        {
+          "text": "シリンダーが上がり、 LEDが白色に発光し、\n「効果音」が鳴ります。",
+          "translation": "The cylinder rises, the LED lights white, and an effect sound plays.",
+          "bbox": [0.3006, 0.6518, 0.1714, 0.032]
+        },
+        {
+          "text": "シリンダー",
+          "translation": "Cylinder",
+          "bbox": [0.3942, 0.7261, 0.0368, 0.0091]
+        },
+        {
+          "text": "4 ① シリンダーを倒します。\nLEDがキー対応した色に発光します。\nその後、「必殺技待機音」 が鳴ります。\n※LEDとLED (銃口)は発光しません。",
+          "translation": "4 ① Tilt the cylinder.\nThe LED lights in the color corresponding to the key.\nAfter that, the \"special move standby sound\" plays.\n*Note: LED and LED (muzzle) will not light.",
+          "bbox": [0.5331, 0.5683, 0.183, 0.0744]
+        },
+        {
+          "text": "②トリガーを押します。\n→LEDとLED(銃口)がキーに対応した色に\n発光し、「必殺技音」が鳴ります。",
+          "translation": "② Press the trigger.\n→LED and LED (muzzle) light in the color corresponding to the key, and the \"special move sound\" plays.",
+          "bbox": [0.755, 0.5683, 0.1813, 0.0574]
+        },
+        {
+          "text": "A",
+          "translation": "A",
+          "bbox": [0.5609, 0.7261, 0.0351, 0.0472]
+        },
+        {
+          "text": "CE",
+          "translation": "CE",
+          "bbox": [0.581, 0.8603, 0.0261, 0.0224]
+        },
+        {
+          "text": "石",
+          "translation": "Stone",
+          "bbox": [0.608, 0.8041, 0.0184, 0.0284]
+        },
+        {
+          "text": "vato",
+          "translation": "vato",
+          "bbox": [0.6511, 0.9033, 0.0312, 0.0169]
+        },
+        {
+          "text": "corn",
+          "translation": "corn",
+          "bbox": [0.932, 0.8222, 0.0282, 0.0139]
+        },
+        {
+          "text": "8",
+          "translation": "8",
+          "bbox": [0.9739, 0.9686, 0.006, 0.0091]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-5.webp",
+      "blocks": [
+        {
+          "text": "弩派手に攻撃",
+          "translation": "Over‑the‑top Attack",
+          "bbox": [0.0671, 0.0472, 0.1363, 0.0333]
+        },
+        {
+          "text": "特殊必殺技遊び",
+          "translation": "Special Finishing Move Play",
+          "bbox": [0.2748, 0.0538, 0.1081, 0.0212]
+        },
+        {
+          "text": "※ゴーカイサーベル、ゴーカイガン、",
+          "translation": "*Gokai Sabre, Gokai Gun,",
+          "bbox": [0.0474, 0.1191, 0.1585, 0.0139]
+        },
+        {
+          "text": "下記表のキーのうち2種を使用します。\n※どの組み合わせでキーを使用した場合も、\n同様の遊びが可能です。",
+          "translation": "Use two types of keys from the table below.\n*The same play is possible regardless of which combination of keys is used.",
+          "bbox": [0.0474, 0.1372, 0.2021, 0.0526]
+        },
+        {
+          "text": "1 ロック解除ボタンを押します。\nシリンダーが上がり、 LEDが白色に発光し、\n「効果音」が鳴ります。",
+          "translation": "1 Press the unlock button.\nThe cylinder rises, the LED lights white, and a sound effect plays.",
+          "bbox": [0.2718, 0.1378, 0.2004, 0.0574]
+        },
+        {
+          "text": "4 ① シリンダーを同時に倒します。\nLEDがキーに対応した色に発光し、\nその後、LEDの発光する色が変わり、\n「必殺技待機音」が鳴ります。\n※LED (刃)とLED (銃口)が\nキーに対応した色で発光します。",
+          "translation": "4 ① Tilt the cylinders down at the same time.\nThe LEDs light in the color corresponding to the key, then the LED color changes and the \"Special Move standby sound\" plays.\n*LED (blade) and LED (muzzle) light in the color corresponding to the key.",
+          "bbox": [0.5325, 0.0605, 0.1957, 0.1076]
+        },
+        {
+          "text": "②トリガーを同時に押します。\n→LEDとLED (刃)、LED (銃口)が\nキーに対応した色に発光し、\n「特殊必殺技音」が鳴ります。",
+          "translation": "② Press the triggers simultaneously.\n→ LED, LED (blade) and LED (muzzle) light in the color corresponding to the key, and the \"Special Finishing Move sound\" plays.",
+          "bbox": [0.7551, 0.0623, 0.1641, 0.0726]
+        },
+        {
+          "text": "※キーに対応した色でそれぞれのLEDが\n発光します。\n詳しくは下記表をご確認ください。\n※①~③をゴーカイガンも同様に行います。",
+          "translation": "*Each LED lights in the color corresponding to its key.\nPlease refer to the table below for details.\n*Perform steps ①–③ the same way for the Gokai Gun.",
+          "bbox": [0.0474, 0.1898, 0.1987, 0.0744]
+        },
+        {
+          "text": "対応表",
+          "translation": "Color Correspondence Table",
+          "bbox": [0.1188, 0.3096, 0.0239, 0.0115]
+        },
+        {
+          "text": "ゴーカイレッド 赤\n| ゴーカイブルー 青\n| ゴーカイイエロー 黄\n| ゴーカイグリーン 緑\nゴーカイピンク 桃",
+          "translation": "Gokai Red → Red\nGokai Blue → Blue\nGokai Yellow → Yellow\nGokai Green → Green\nGokai Pink → Pink",
+          "bbox": [0.0838, 0.3295, 0.0876, 0.0992]
+        },
+        {
+          "text": "2 キーを挿入します。",
+          "translation": "2 Insert the key.",
+          "bbox": [0.0325, 0.5381, 0.1235, 0.0181]
+        },
+        {
+          "text": "3 トリガーを押しながら",
+          "translation": "3 While pressing the trigger",
+          "bbox": [0.2705, 0.5369, 0.1406, 0.0187]
+        },
+        {
+          "text": "キーを捻ります。",
+          "translation": "Turn the key.",
+          "bbox": [0.2915, 0.5586, 0.091, 0.02]
+        },
+        {
+          "text": "LEDが白色に発光し、 「効果音」 が鳴ります。",
+          "translation": "The LED lights white and a sound effect plays.",
+          "bbox": [0.3009, 0.5852, 0.1769, 0.0133]
+        },
+        {
+          "text": "Antillas Ini\ndasw",
+          "translation": "Antillas Ini\ndasw",
+          "bbox": [0.7568, 0.5145, 0.15, 0.0423]
+        },
+        {
+          "text": "de",
+          "translation": "de",
+          "bbox": [0.794, 0.5611, 0.0256, 0.0248]
+        },
+        {
+          "text": "Gonsequa",
+          "translation": "Gonsequa",
+          "bbox": [0.8179, 0.5586, 0.0799, 0.0272]
+        },
+        {
+          "text": "fa\ncja \nConte",
+          "translation": "fa\ncja\nConte",
+          "bbox": [0.838, 0.6088, 0.0795, 0.0623]
+        },
+        {
+          "text": "Onjag\nSaw wow Rio",
+          "translation": "Onjag\nSaw wow Rio",
+          "bbox": [0.5726, 0.8041, 0.1265, 0.0738]
+        },
+        {
+          "text": "orn",
+          "translation": "orn",
+          "bbox": [0.9368, 0.8235, 0.0244, 0.0121]
+        },
+        {
+          "text": "10",
+          "translation": "10",
+          "bbox": [0.9748, 0.968, 0.0094, 0.0103]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-6.webp",
+      "blocks": [
+        {
+          "text": "「必殺技待機音」が鳴ります。",
+          "translation": "The \"Special Move Standby\" sound plays.",
+          "bbox": [0.5637, 0.0883, 0.1154, 0.0127]
+        },
+        {
+          "text": "MAR",
+          "translation": "MAR",
+          "bbox": [0.7897, 0.0411, 0.1423, 0.055]
+        },
+        {
+          "text": "弩派手に攻撃",
+          "translation": "Attack in an extremely flashy style",
+          "bbox": [0.0671, 0.0484, 0.1346, 0.0308]
+        },
+        {
+          "text": "特殊必殺技遊び (5刀流)",
+          "translation": "Special Finishing Move Play (5-Sword Style)",
+          "bbox": [0.2598, 0.0568, 0.1363, 0.0181]
+        },
+        {
+          "text": "4 シリンダーを倒します。",
+          "translation": "4 Flip the cylinder down.",
+          "bbox": [0.5325, 0.0611, 0.1453, 0.0193]
+        },
+        {
+          "text": "※ゴーカイブルーキーを使用します。",
+          "translation": "*Use the Gokai Blue Key.",
+          "bbox": [0.05, 0.11, 0.1654, 0.0151]
+        },
+        {
+          "text": "1 ロック解除ボタンを押します。\n→LEDが白色に発光し、 「効果音」が鳴ります。",
+          "translation": "1 Press the lock release button.\n→The LED lights white and the \"effect sound\" plays.",
+          "bbox": [0.035, 0.156, 0.2051, 0.0411]
+        },
+        {
+          "text": "2 キーを挿入します。",
+          "translation": "2 Insert the key.",
+          "bbox": [0.0325, 0.5466, 0.1239, 0.0193]
+        },
+        {
+          "text": "35回連続キーを捻ります。",
+          "translation": "3 Turn the key five times in succession.",
+          "bbox": [0.259, 0.5472, 0.1568, 0.0193]
+        },
+        {
+          "text": "LEDが青色に発光し、 「特殊効果音」が鳴ります。",
+          "translation": "The LED lights blue and the \"special effect sound\" plays.",
+          "bbox": [0.2906, 0.5738, 0.1953, 0.0127]
+        },
+        {
+          "text": "11",
+          "translation": "11",
+          "bbox": [0.0154, 0.9667, 0.0103, 0.0109]
+        },
+        {
+          "text": "S.S.Est",
+          "translation": "S.S.Est",
+          "bbox": [0.2863, 0.6572, 0.0397, 0.0985]
+        },
+        {
+          "text": "5 トリガーを押します。\n→LEDとLED (刃) が青色に発光し、\n「特殊必殺技音 (5刀流)」 が鳴ります。",
+          "translation": "5 Press the trigger.\n→The LED and the LED (blade) light blue, and the \"Special Finishing Move sound (5-Sword Style)\" plays.",
+          "bbox": [0.5329, 0.5453, 0.1791, 0.0586]
+        },
+        {
+          "text": "Antillas\nel de Fonuqua",
+          "translation": "Antillas\nel de Fonuqua",
+          "bbox": [0.7573, 0.5193, 0.1415, 0.0707]
+        },
+        {
+          "text": "MaConte",
+          "translation": "MaConte",
+          "bbox": [0.8372, 0.6112, 0.0778, 0.0574]
+        },
+        {
+          "text": "Raws",
+          "translation": "Raws",
+          "bbox": [0.5795, 0.8386, 0.0709, 0.0278]
+        },
+        {
+          "text": "※5回連続の読み込みに失敗した場合、1からやり直してください。",
+          "translation": "*If reading fails 5 consecutive times, start again from step 1.",
+          "bbox": [0.5274, 0.9214, 0.2671, 0.0127]
+        },
+        {
+          "text": "12",
+          "translation": "12",
+          "bbox": [0.9744, 0.968, 0.009, 0.0097]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-7.webp",
+      "blocks": [
+        {
+          "text": "レンジャーキーの取り外し方\n※ゴーカイサーベルを例に説明します。※必殺技遊びの後に行います。",
+          "translation": "How to remove the Ranger Key\n*The Gokai Saber is shown as an example. *Perform this after using the Special Move play.",
+          "bbox": [0.05, 0.0496, 0.3312, 0.078]
+        },
+        {
+          "text": "1 ロック解除ボタンを押します。\nLEDが白色に発光し、 「効果音」 が鳴ります。",
+          "translation": "1 Press the unlock button.\n→ The LED will light white, and a sound effect will play.",
+          "bbox": [0.0342, 0.1554, 0.2068, 0.0375]
+        },
+        {
+          "text": "2 キーを捻ります。\n→LEDがキーに対応した色に発光し、\n「効果音」が鳴ります。",
+          "translation": "2 Turn the key.\n→ The LED will light in the color corresponding to the key, and a sound effect will play.",
+          "bbox": [0.0333, 0.5496, 0.1748, 0.0526]
+        },
+        {
+          "text": "13",
+          "translation": "13",
+          "bbox": [0.0158, 0.9674, 0.0085, 0.0103]
+        },
+        {
+          "text": "Coucit",
+          "translation": "Coucit",
+          "bbox": [0.1308, 0.5871, 0.0462, 0.0719]
+        },
+        {
+          "text": "U",
+          "translation": "U",
+          "bbox": [0.297, 0.5895, 0.0368, 0.0526]
+        },
+        {
+          "text": "3 キーを取り外します。",
+          "translation": "3 Remove the key.",
+          "bbox": [0.5329, 0.0599, 0.1355, 0.0206]
+        },
+        {
+          "text": "AR",
+          "translation": "AR",
+          "bbox": [0.8526, 0.0502, 0.0791, 0.0411]
+        },
+        {
+          "text": "4 シリンダーを倒します。\n→LEDが白色に発光し、「効果音」が鳴ります。",
+          "translation": "4 Fold down the cylinder.\n→ The LED will light white, and a sound effect will play.",
+          "bbox": [0.5329, 0.5478, 0.2085, 0.0393]
+        },
+        {
+          "text": "Andlas",
+          "translation": "Andlas",
+          "bbox": [0.7581, 0.52, 0.1073, 0.0326]
+        },
+        {
+          "text": "da Conte",
+          "translation": "da Conte",
+          "bbox": [0.8436, 0.6149, 0.0735, 0.0556]
+        },
+        {
+          "text": "14",
+          "translation": "14",
+          "bbox": [0.9748, 0.9686, 0.0098, 0.0091]
+        }
+      ]
+    }
+  ]
+}

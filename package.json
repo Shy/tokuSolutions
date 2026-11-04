@@ -4,11 +4,12 @@
   "type": "module",
   "description": "Web viewer for translated toy manuals",
   "scripts": {
-    "serve": "python -m http.server 8000",
-    "lint": "prettier --check 'manuals/**/translations.json' 'web/**/*.{js,json,html,css}'",
-    "format": "prettier --write 'manuals/**/translations.json' 'web/**/*.{js,json,html,css}'"
+    "serve": "python3 -m http.server 8767 --bind 127.0.0.1 --directory _site",
+    "test": "node --test tests/web/*.test.js",
+    "lint": "prettier --check 'manuals/**/translations.json' 'web/**/*.{js,json,html,css}' '*.md' 'docs/**/*.md' 'benchmarks/**/*.md' 'credentials/**/*.md' '.github/workflows/*.{yml,yaml}'",
+    "format": "prettier --write 'manuals/**/translations.json' 'web/**/*.{js,json,html,css}' '*.md' 'docs/**/*.md' 'benchmarks/**/*.md' 'credentials/**/*.md' '.github/workflows/*.{yml,yaml}'"
   },
   "devDependencies": {
-    "prettier": "^3.7.4"
+    "prettier": "^3.9.10"
   }
 }

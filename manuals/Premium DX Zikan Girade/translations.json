@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "manual_name": "Premium DX Zikan Girade",
+    "source": "Premium DX Zikan Girade.pdf",
+    "source_lang": "ja",
+    "target_lang": "en",
+    "source_url": "",
+    "blog_url": "",
+    "pages": 8,
+    "blocks": 135,
+    "thumbnail": "pages/page-0.webp",
+    "tags": ["dx", "kamen-rider", "premium"]
+  },
+  "pages": [
+    {
+      "image": "pages/page-0.webp",
+      "blocks": [
+        {
+          "text": "PREMIUMOX",
+          "translation": "PREMIUMOX",
+          "bbox": [0.3089, 0.0068, 0.1554, 0.01]
+        },
+        {
+          "text": "シンギレード\nzik AN @ 0 R A D G",
+          "translation": "Zikan Girade",
+          "bbox": [0.2576, 0.0181, 0.5012, 0.029]
+        },
+        {
+          "text": "の遊び方",
+          "translation": "How to Play",
+          "bbox": [0.7013, 0.0366, 0.1233, 0.01]
+        },
+        {
+          "text": "セット内容",
+          "translation": "Set Contents",
+          "bbox": [0.0393, 0.061, 0.1239, 0.0098]
+        },
+        {
+          "text": "ジカンギレード本体··· 1\nライドウォッチスロット... 1",
+          "translation": "Zikan Girade main unit... 1\nRidewatch slot... 1",
+          "bbox": [0.1995, 0.0566, 0.2678, 0.0213]
+        },
+        {
+          "text": "ケンモード用刀身パーツ... 1",
+          "translation": "Ken Mode blade part... 1",
+          "bbox": [0.477, 0.0571, 0.2878, 0.0081]
+        },
+        {
+          "text": "各部名称",
+          "translation": "Names of Parts",
+          "bbox": [0.0605, 0.0889, 0.0816, 0.0059]
+        },
+        {
+          "text": "ジカンギレード本体",
+          "translation": "Zikan Girade main unit",
+          "bbox": [0.3422, 0.0939, 0.2884, 0.0118]
+        },
+        {
+          "text": "【正面】",
+          "translation": "[Front]",
+          "bbox": [0.0635, 0.108, 0.0647, 0.0081]
+        },
+        {
+          "text": "ボタン",
+          "translation": "Button",
+          "bbox": [0.7696, 0.1074, 0.058, 0.0061]
+        },
+        {
+          "text": "【背面】",
+          "translation": "[Back]",
+          "bbox": [0.0641, 0.414, 0.0635, 0.0076]
+        },
+        {
+          "text": "電池ぶた",
+          "translation": "Battery cover",
+          "bbox": [0.1669, 0.5155, 0.0804, 0.0061]
+        },
+        {
+          "text": "解除スイッチ",
+          "translation": "Release switch",
+          "bbox": [0.3065, 0.2746, 0.1143, 0.0068]
+        },
+        {
+          "text": "トリガー",
+          "translation": "Trigger",
+          "bbox": [0.4462, 0.3151, 0.0701, 0.0068]
+        },
+        {
+          "text": "電源スイッチ",
+          "translation": "Power switch",
+          "bbox": [0.5248, 0.5538, 0.1137, 0.0063]
+        },
+        {
+          "text": "ライドウォッチスロット",
+          "translation": "Ridewatch slot",
+          "bbox": [0.3368, 0.6372, 0.3295, 0.0115]
+        },
+        {
+          "text": "ケンモード用刀身パーツ",
+          "translation": "Ken Mode blade part",
+          "bbox": [0.3216, 0.7398, 0.3603, 0.012]
+        },
+        {
+          "text": "背面ボタン",
+          "translation": "Back button",
+          "bbox": [0.7044, 0.4939, 0.0979, 0.0065]
+        },
+        {
+          "text": "※構造上、振るとカタカタという物理音がします。\n(本体に装填されている刀身パーツも同様です。)",
+          "translation": "*Because of the structure, shaking it may produce a rattling noise. (The blade part installed in the main unit behaves the same.)",
+          "bbox": [0.0617, 0.8225, 0.4504, 0.0163]
+        },
+        {
+          "text": "△ 注意",
+          "translation": "△ Caution",
+          "bbox": [0.4432, 0.8582, 0.1106, 0.0083]
+        },
+        {
+          "text": "お買い上げのお客様へ 必ずお読みください。",
+          "translation": "To customers: Please read this carefully.",
+          "bbox": [0.341, 0.8709, 0.3186, 0.0057]
+        },
+        {
+          "text": "●本商品の対象年齢は15才以上です。 対象年齢未満のお子様には絶対に与えないでください。 ●小さな部品がありますので、小さなお子様が誤って飲み込まない\nように注意してください。 窒息などの危険があります。 ●耳の近くで使用してはいけません。 誤って使用すると、聴覚を損なう恐れがあります。●可動部分には指などを\n入れないでください。はさまれてケガをする恐れがあります。 本商品には電子部品を使用しておりますので、ペースメーカーをご使用の方はご注意ください。 《電池を\n誤使用すると発熱・ 破裂 液漏れの恐れがあります。 下記に注意してください》 二次電池(充電式電池) は、絶対に使用しないでください。 ●古い電池と新しい\n電池、いろいろな種類の電池をまぜて使わないでください。 ●十一(プラスマイナス) を正しくセットしてください。 ●遊んだ後は必ずスイッチを切り電池をはずしてくだ\nさい。 電池を入れたままにしておくと、液漏れの恐れがあり危険です。ショートさせたり充電、分解、 加熱、 火の中に入れたりしないでください。 ●万一、電池から\n漏れた液が目に入ったときはすぐに大量の水で洗い、医師に相談してください。 皮膚や服に付いた時は水で洗ってください。 ●廃棄するときは、自治体の廃棄物\n処理の指示に従ってください。",
+          "translation": "● This product is for ages 15 and up. Do not give it to children younger than the specified age. ● Contains small parts; take care that small children do not accidentally swallow them, as there is a risk of choking. ● Do not use near the ear; improper use may damage hearing. ● Do not insert fingers or other objects into moving parts; there is a risk of pinching and injury. ● This product contains electronic components; people using pacemakers should exercise caution. 《Improper use of batteries may cause overheating, rupture, or leakage. Observe the following:》 Do not use secondary (rechargeable) batteries. ● Do not mix old and new batteries or different types of batteries. ● Insert batteries with the positive (+) and negative (−) ends correctly aligned. ● After use, always turn off the switch and remove the batteries. Leaving batteries installed may cause leakage and is dangerous. Do not short-circuit, recharge, disassemble, heat, or throw batteries into fire. ● If battery fluid gets into your eyes, rinse immediately with plenty of water and consult a physician. If it gets on skin or clothing, wash with water. ● When disposing of the product or batteries, follow your local municipality's waste disposal instructions.",
+          "bbox": [0.0381, 0.882, 0.9244, 0.0551]
+        },
+        {
+          "text": "<使用上の注意>",
+          "translation": "<Precautions for Use>",
+          "bbox": [0.0296, 0.9473, 0.0979, 0.005]
+        },
+        {
+          "text": "●本商品は精密な電子部品で構成されています。 落としたり、水にぬらしたり、 汚したり、 分解したりしないでください。 また、 高温・低温になる所での使用、保管はさけて\nください。プラスチック梱包材は開封後にはすぐに捨ててください。●本商品を樹脂製のソファーやシート、タイルなどの上に置かないでください。 長時間接触して\nいると色が移る場合があります。 ●可動部分・取付部分を無理な方向に強く引っ張ったり、曲げたりしないでください。 ●発音の一部にイントネーションが違っていたり、\n商品の特性上聞き取りにくいものがありますが、ご了承ください。",
+          "translation": "● This product contains precision electronic components. Do not drop it, get it wet, soil it, or disassemble it. Also avoid using or storing it in locations of very high or very low temperature. Dispose of plastic packaging immediately after opening. ● Do not place this product on plastic (resin) sofas, seats, or tiles for long periods; prolonged contact may cause color transfer. ● Do not forcibly pull or bend movable or attached parts in directions they are not intended to move. ● Some sound output may have different intonation or be difficult to hear due to the product's characteristics; please understand.",
+          "bbox": [0.0284, 0.9547, 0.9371, 0.0266]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.494, 0.9919, 0.0085, 0.0048]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-1.webp",
+      "blocks": [
+        {
+          "text": "乾電池の入れ方",
+          "translation": "How to insert the batteries",
+          "bbox": [0.0411, 0.027, 0.1826, 0.0147]
+        },
+        {
+          "text": "※電源スイッチが× (OFF)になっていることを確認してください。\n※音が小さくなって聞きとりにくくなったり、\n音が繰り返し鳴るなどの誤動作をする場合、\nすべて新しい電池に交換してください。",
+          "translation": "※Make sure the power switch is set to × (OFF).\n※If the sound becomes faint and hard to hear, or if malfunctions such as repeated sounds occur, replace all batteries with new ones.",
+          "bbox": [0.0447, 0.0652, 0.7636, 0.0768]
+        },
+        {
+          "text": "①電池ぶたを取り外します。\n①-1 背面の電池ぶたのネジを⊕または、\n○ドライバーで矢印の方向に回し、",
+          "translation": "① Remove the battery cover.\n①-1 Turn the screw on the rear battery cover with a Phillips (⊕) or flat (−) screwdriver in the direction of the arrow,",
+          "bbox": [0.0453, 0.1634, 0.4958, 0.0563]
+        },
+        {
+          "text": "たん",
+          "translation": "tan",
+          "bbox": [0.7358, 0.1904, 0.0163, 0.0034]
+        },
+        {
+          "text": "単4",
+          "translation": "AAA",
+          "bbox": [0.8198, 0.1709, 0.0272, 0.0085]
+        },
+        {
+          "text": "x2",
+          "translation": "x2",
+          "bbox": [0.8845, 0.1692, 0.0308, 0.0092]
+        },
+        {
+          "text": "かんでん ち",
+          "translation": "dry cell",
+          "bbox": [0.7672, 0.1897, 0.0429, 0.0044]
+        },
+        {
+          "text": "ほん しよう べつう",
+          "translation": "Distinction between the fundamental and the secondary",
+          "bbox": [0.8325, 0.189, 0.0859, 0.0051]
+        },
+        {
+          "text": "単4乾電池2本使用(別売り)",
+          "translation": "Requires 2AAA batteries (sold separately)",
+          "bbox": [0.7352, 0.1948, 0.2086, 0.0099]
+        },
+        {
+          "text": "でん ちせんよう",
+          "translation": "For battery use only",
+          "bbox": [0.8495, 0.2146, 0.0931, 0.0058]
+        },
+        {
+          "text": "①-2 電池ぶたを取り外します。",
+          "translation": "①-2 Remove the battery cover.",
+          "bbox": [0.0719, 0.2259, 0.3579, 0.0147]
+        },
+        {
+          "text": "②乾電池を入れます。\n単4乾電池2本(別売り)の土日を",
+          "translation": "② Insert the batteries.\nInsert two AAA (単4) batteries (sold separately), making sure the + and − polarities are placed correctly.",
+          "bbox": [0.0447, 0.247, 0.4105, 0.0355]
+        },
+        {
+          "text": "●アルカリ電池専用",
+          "translation": "●For alkaline batteries only",
+          "bbox": [0.731, 0.2214, 0.2128, 0.013]
+        },
+        {
+          "text": "【背面】",
+          "translation": "[Back]",
+          "bbox": [0.526, 0.2303, 0.0617, 0.0123]
+        },
+        {
+          "text": "ミゾ",
+          "translation": "Groove",
+          "bbox": [0.6874, 0.2334, 0.0387, 0.0102]
+        },
+        {
+          "text": "突起",
+          "translation": "Protrusion",
+          "bbox": [0.5393, 0.2767, 0.0399, 0.0113]
+        },
+        {
+          "text": "それぞれ間違えないように入れます。\n③電池ぶたを戻します。",
+          "translation": "Insert them so they are not placed incorrectly.\n③ Replace the battery cover.",
+          "bbox": [0.0459, 0.2886, 0.4522, 0.0348]
+        },
+        {
+          "text": "電池ぶたの突起とミゾを合わせ、\n電池ぶたを閉じます。\n電池ぶたのネジを\n②-1と逆方向に回して閉じます。",
+          "translation": "Align the protrusion on the battery cover with the groove, and close the battery cover.\nTurn the battery cover screw in the direction opposite to ②-1 to close it.",
+          "bbox": [0.0719, 0.3299, 0.3755, 0.0774]
+        },
+        {
+          "text": "電池ぶた",
+          "translation": "Battery cover",
+          "bbox": [0.477, 0.4507, 0.0804, 0.0092]
+        },
+        {
+          "text": "【内側】",
+          "translation": "[Inside]",
+          "bbox": [0.0726, 0.4527, 0.0635, 0.0136]
+        },
+        {
+          "text": "ミゾ",
+          "translation": "Groove",
+          "bbox": [0.3253, 0.4568, 0.0411, 0.0099]
+        },
+        {
+          "text": "ミゾ",
+          "translation": "Groove",
+          "bbox": [0.0973, 0.4845, 0.0405, 0.0109]
+        },
+        {
+          "text": "電源の入れ方",
+          "translation": "How to turn on the power",
+          "bbox": [0.0411, 0.6151, 0.1566, 0.014]
+        },
+        {
+          "text": "©I・T278250%",
+          "translation": "©I・T278250%",
+          "bbox": [0.6282, 0.2747, 0.0816, 0.0324]
+        },
+        {
+          "text": "O",
+          "translation": "O",
+          "bbox": [0.6433, 0.3166, 0.0133, 0.0072]
+        },
+        {
+          "text": "突起",
+          "translation": "Protrusion",
+          "bbox": [0.7696, 0.3589, 0.0387, 0.0109]
+        },
+        {
+          "text": "①-2",
+          "translation": "①-2",
+          "bbox": [0.6264, 0.4115, 0.0399, 0.0099]
+        },
+        {
+          "text": "(3",
+          "translation": "(3",
+          "bbox": [0.7322, 0.4132, 0.0121, 0.0072]
+        },
+        {
+          "text": "突起",
+          "translation": "Protrusion",
+          "bbox": [0.7932, 0.4347, 0.0399, 0.0109]
+        },
+        {
+          "text": "CI&T\nB. CHINA",
+          "translation": "CI&T\nB. CHINA",
+          "bbox": [0.6366, 0.4613, 0.0478, 0.0232]
+        },
+        {
+          "text": "電池ぶたの穴",
+          "translation": "Hole in the battery cover",
+          "bbox": [0.6578, 0.5595, 0.1203, 0.0099]
+        },
+        {
+          "text": "①-1",
+          "translation": "①-1",
+          "bbox": [0.5224, 0.5732, 0.0393, 0.0102]
+        },
+        {
+          "text": "本体背面の電源スイッチをO(ON)にします。",
+          "translation": "Set the power switch on the back of the unit to O (ON).",
+          "bbox": [0.0453, 0.6441, 0.5206, 0.015]
+        },
+        {
+          "text": "→「起動音」が鳴ります。",
+          "translation": "→ The \"startup sound\" will play.",
+          "bbox": [0.0453, 0.6656, 0.2745, 0.0143]
+        },
+        {
+          "text": "ジカンギレード!",
+          "translation": "Jikan Girade!",
+          "bbox": [0.5599, 0.6871, 0.2672, 0.03]
+        },
+        {
+          "text": "※遊び終わった後は、必ず電源スイッチをX (OFF)にしてください。",
+          "translation": "※After finishing play, be sure to set the power switch to × (OFF).",
+          "bbox": [0.0671, 0.9348, 0.5901, 0.0113]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.494, 0.987, 0.0109, 0.0072]
+        },
+        {
+          "text": "ON\n突起",
+          "translation": "ON\nProtrusion",
+          "bbox": [0.7545, 0.7857, 0.0393, 0.029]
+        },
+        {
+          "text": "・電源スイッチ",
+          "translation": "・Power switch",
+          "bbox": [0.7503, 0.8212, 0.1179, 0.0102]
+        },
+        {
+          "text": "OFF",
+          "translation": "OFF",
+          "bbox": [0.7551, 0.8441, 0.0453, 0.0082]
+        },
+        {
+          "text": "+",
+          "translation": "+",
+          "bbox": [0.9232, 0.3784, 0.0127, 0.0089]
+        },
+        {
+          "text": "①",
+          "translation": "①",
+          "bbox": [0.9002, 0.3951, 0.0121, 0.0109]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-2.webp",
+      "blocks": [
+        {
+          "text": "ケンモードへの変形",
+          "translation": "Transforming to Ken Mode",
+          "bbox": [0.0405, 0.0147, 0.231, 0.0105]
+        },
+        {
+          "text": "①背面ボタンを押しながら、 刀身を回転させます。\n「ケン!」と鳴ります。",
+          "translation": "① While pressing the rear button, rotate the blade. \"Ken!\" will sound.",
+          "bbox": [0.0423, 0.0381, 0.5689, 0.025]
+        },
+        {
+          "text": "② 「ケ」を外します。",
+          "translation": "② Remove the \"ケ\".",
+          "bbox": [0.0429, 0.3427, 0.2177, 0.01]
+        },
+        {
+          "text": "破損の恐れがあるため、",
+          "translation": "As there is a risk of damage,",
+          "bbox": [0.0653, 0.3686, 0.2092, 0.0075]
+        },
+        {
+          "text": "ゆっくり慎重に外してください。",
+          "translation": "Please remove it slowly and carefully.",
+          "bbox": [0.0665, 0.3791, 0.2751, 0.0077]
+        },
+        {
+          "text": "背面ボタン",
+          "translation": "Rear button",
+          "bbox": [0.4178, 0.0696, 0.0979, 0.007]
+        },
+        {
+          "text": "<m",
+          "translation": "<m",
+          "bbox": [0.4347, 0.3892, 0.0133, 0.0385]
+        },
+        {
+          "text": "C",
+          "translation": "C",
+          "bbox": [0.523, 0.3109, 0.0097, 0.003]
+        },
+        {
+          "text": "GO",
+          "translation": "GO",
+          "bbox": [0.6421, 0.4707, 0.0333, 0.0037]
+        },
+        {
+          "text": "③背面のロックをつまみながら、刀身を引き抜きます。",
+          "translation": "③ While pinching the rear lock, pull the blade out.",
+          "bbox": [0.0429, 0.5041, 0.6173, 0.01]
+        },
+        {
+          "text": "ロック",
+          "translation": "Lock",
+          "bbox": [0.5109, 0.5345, 0.0544, 0.0068]
+        },
+        {
+          "text": "④ ケンモード用刀身パーツを挿し、\n⑤ 「ケ」を付けます。",
+          "translation": "④ Insert the blade part for Ken Mode.\n⑤ Attach the \"ケ\".",
+          "bbox": [0.0423, 0.7127, 0.3966, 0.0248]
+        },
+        {
+          "text": "GO",
+          "translation": "GO",
+          "bbox": [0.5236, 0.9236, 0.0345, 0.0037]
+        },
+        {
+          "text": "※ジュウモードへの変形は逆の手順で行ってください。",
+          "translation": "※To transform to Juu Mode, perform the steps in reverse order.",
+          "bbox": [0.0641, 0.9549, 0.6336, 0.0103]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.494, 0.9914, 0.0115, 0.0049]
+        },
+        {
+          "text": "④",
+          "translation": "④",
+          "bbox": [0.7461, 0.7694, 0.0218, 0.0068]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-3.webp",
+      "blocks": [
+        {
+          "text": "通常遊び 図示はジュウモードです。",
+          "translation": "Standard play  ※The illustration shows Ju Mode.",
+          "bbox": [0.0399, 0.0473, 0.37, 0.0285]
+        },
+        {
+          "text": "トリガーを引きます。",
+          "translation": "Pull the trigger.",
+          "bbox": [0.0459, 0.1, 0.2328, 0.0273]
+        },
+        {
+          "text": "→ケンモード: 剣戟音",
+          "translation": "→ Ken Mode: sword clash sound",
+          "bbox": [0.0435, 0.1358, 0.269, 0.0279]
+        },
+        {
+          "text": "が鳴ります。",
+          "translation": "will sound.",
+          "bbox": [0.3229, 0.1552, 0.1415, 0.0261]
+        },
+        {
+          "text": "→ジュウモード: 銃撃音",
+          "translation": "→ Ju Mode: gunfire sound",
+          "bbox": [0.0435, 0.1745, 0.269, 0.0273]
+        },
+        {
+          "text": "トリガー",
+          "translation": "Trigger",
+          "bbox": [0.445, 0.8145, 0.0689, 0.0194]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.4933, 0.9788, 0.0127, 0.0121]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-4.webp",
+      "blocks": [
+        {
+          "text": "必殺技遊び",
+          "translation": "Special Move Play",
+          "bbox": [0.0393, 0.0372, 0.1348, 0.0215]
+        },
+        {
+          "text": "①ボタンを押します。",
+          "translation": "① Press the button.",
+          "bbox": [0.0435, 0.0802, 0.2418, 0.0196]
+        },
+        {
+          "text": "→ 「タイムチャージ!」 の後に「5・4･3･2･1!ゼロタイム!」の",
+          "translation": "→ After \"Time Charge!\", \"5... 4... 3... 2... 1! Zero Time!\"",
+          "bbox": [0.0429, 0.1098, 0.6898, 0.0196]
+        },
+        {
+          "text": "カウントダウン音が鳴ります。",
+          "translation": "A countdown sound will play.",
+          "bbox": [0.0707, 0.1379, 0.344, 0.021]
+        },
+        {
+          "text": "②トリガーを引きます。",
+          "translation": "② Pull the trigger.",
+          "bbox": [0.0447, 0.1914, 0.263, 0.0215]
+        },
+        {
+          "text": "→ケンモード: 「ギリギリ斬り!」",
+          "translation": "→ Ken Mode: \"Giri Giri Slash!\"",
+          "bbox": [0.0459, 0.221, 0.3742, 0.0229]
+        },
+        {
+          "text": "が鳴ります。",
+          "translation": "A sound will play.",
+          "bbox": [0.4383, 0.2348, 0.1415, 0.0196]
+        },
+        {
+          "text": "→ジュウモード: 「スレスレ撃ち!」",
+          "translation": "→ Gun Mode: \"Close-Call Shot!\"",
+          "bbox": [0.0466, 0.2506, 0.3821, 0.0205]
+        },
+        {
+          "text": "カウントダウン音の途中でトリガーを引くと、小必殺技音が鳴ります。",
+          "translation": "If you pull the trigger during the countdown, a mini special-move sound will play.",
+          "bbox": [0.0453, 0.3222, 0.7817, 0.021]
+        },
+        {
+          "text": "トリガー",
+          "translation": "Trigger",
+          "bbox": [0.445, 0.8439, 0.0695, 0.0143]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.4933, 0.9828, 0.0109, 0.01]
+        },
+        {
+          "text": "ボタン",
+          "translation": "Button",
+          "bbox": [0.6421, 0.4115, 0.058, 0.0138]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-5.webp",
+      "blocks": [
+        {
+          "text": "ライドウォッチ必殺技遊び",
+          "translation": "Ridewatch Finisher Play",
+          "bbox": [0.0405, 0.0165, 0.3041, 0.0087]
+        },
+        {
+          "text": "①ライドウォッチスロットをセットします。",
+          "translation": "① Insert the Ridewatch into the Ridewatch slot.",
+          "bbox": [0.0435, 0.0345, 0.4589, 0.0087]
+        },
+        {
+          "text": "②ボタンとピンを同時押しし、鳴らしたい必殺技をセレクトします。\n→セレクトに応じたライダー名が鳴ります。",
+          "translation": "② Press the button and pin at the same time to select the finisher you want to play.\n→ The Rider name corresponding to your selection will play.",
+          "bbox": [0.0429, 0.2917, 0.7551, 0.0215]
+        },
+        {
+          "text": "ボタン",
+          "translation": "Button",
+          "bbox": [0.7273, 0.3118, 0.0574, 0.0058]
+        },
+        {
+          "text": "ピン",
+          "translation": "Pin",
+          "bbox": [0.7944, 0.5167, 0.0417, 0.0068]
+        },
+        {
+          "text": "モード\nケンモード",
+          "translation": "Mode\nKen Mode",
+          "bbox": [0.0998, 0.5992, 0.1294, 0.0252]
+        },
+        {
+          "text": "セレクト無し",
+          "translation": "No selection",
+          "bbox": [0.3126, 0.599, 0.1511, 0.0091]
+        },
+        {
+          "text": "汎用必殺技",
+          "translation": "Universal finisher",
+          "bbox": [0.3192, 0.6159, 0.136, 0.0089]
+        },
+        {
+          "text": "同時押し1回目\nジオウ",
+          "translation": "Simultaneous press 1st time\nZi-O",
+          "bbox": [0.5218, 0.599, 0.1753, 0.0252]
+        },
+        {
+          "text": "同時押し2回目",
+          "translation": "Simultaneous press 2nd time",
+          "bbox": [0.7455, 0.599, 0.1753, 0.0091]
+        },
+        {
+          "text": "オーズ",
+          "translation": "OOO",
+          "bbox": [0.795, 0.6151, 0.0804, 0.0091]
+        },
+        {
+          "text": "ジュウモード",
+          "translation": "Juu Mode",
+          "bbox": [0.0889, 0.632, 0.1518, 0.0093]
+        },
+        {
+          "text": "汎用必殺技",
+          "translation": "Universal finisher",
+          "bbox": [0.3192, 0.6326, 0.133, 0.0089]
+        },
+        {
+          "text": "W",
+          "translation": "W",
+          "bbox": [0.5961, 0.6337, 0.026, 0.006]
+        },
+        {
+          "text": "フォーゼ",
+          "translation": "Fourze",
+          "bbox": [0.7842, 0.6322, 0.1034, 0.0091]
+        },
+        {
+          "text": "③ライドウォッチをセットします。",
+          "translation": "③ Insert the Ridewatch.",
+          "bbox": [0.0435, 0.6605, 0.367, 0.0087]
+        },
+        {
+          "text": "「必殺技待機音」が鳴ります。",
+          "translation": "The \"finisher standby sound\" will play.",
+          "bbox": [0.0713, 0.6733, 0.3283, 0.0089]
+        },
+        {
+          "text": "④トリガーを引きます。\n→ライドウォッチ:「ライダー名音声」\n→ジカンギレード:セレクトした「必殺技音」",
+          "translation": "④ Pull the trigger.\n→ Ridewatch: \"Rider name audio\"\n→ Zikan Girade: the selected \"finisher sound\" will play.",
+          "bbox": [0.0429, 0.6971, 0.5006, 0.0337]
+        },
+        {
+          "text": "CO",
+          "translation": "CO",
+          "bbox": [0.4952, 0.9917, 0.0085, 0.0048]
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.494, 0.9924, 0.0115, 0.0043]
+        },
+        {
+          "text": "が鳴ります。",
+          "translation": "will sound.",
+          "bbox": [0.5556, 0.7147, 0.1415, 0.0085]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-6.webp",
+      "blocks": [
+        {
+          "text": "ライドウォッチスロットの外し方",
+          "translation": "How to remove the Ridewatch slot",
+          "bbox": [0.0405, 0.0494, 0.3694, 0.0266]
+        },
+        {
+          "text": "解除ボタンを上に上げ、ツメを下に下げながら、スロットを引き抜きます。",
+          "translation": "Lift the release button up, and while lowering the tab, pull the slot out.",
+          "bbox": [0.0429, 0.1026, 0.8271, 0.0278]
+        },
+        {
+          "text": "7",
+          "translation": "7",
+          "bbox": [0.4933, 0.9778, 0.0121, 0.013]
+        },
+        {
+          "text": "解除ボタン",
+          "translation": "Release button",
+          "bbox": [0.6771, 0.7522, 0.0992, 0.0192]
+        },
+        {
+          "text": "ツメ",
+          "translation": "Tab",
+          "bbox": [0.8077, 0.5859, 0.0375, 0.0167]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-7.webp",
+      "blocks": [
+        {
+          "text": "BGM遊び",
+          "translation": "BGM Play",
+          "bbox": [0.0411, 0.0406, 0.1264, 0.0203]
+        },
+        {
+          "text": "ボタンを長押しする度に、下記5曲が再生・停止できます。",
+          "translation": "Each time you press and hold the button, you can start or stop playback of the following five songs.",
+          "bbox": [0.0441, 0.0847, 0.6584, 0.0228]
+        },
+        {
+          "text": "1 『Over \"Quartzer\"』 (TV size)",
+          "translation": "1 \"Over 'Quartzer'\" (TV size)",
+          "bbox": [0.0689, 0.1304, 0.4154, 0.0249]
+        },
+        {
+          "text": "2 『ジオウ誕生』\n3 『ジオウ変身』\n4 『アーマータイム』",
+          "translation": "2 \"Birth of Zi-O\"\n3 \"Zi-O Transformation\"\n4 \"Armor Time\"",
+          "bbox": [0.0641, 0.1745, 0.2527, 0.1055]
+        },
+        {
+          "text": "5 『P.A.R.T.Y.~ユニバース・フェスティバル』 (ショートver.)",
+          "translation": "5 \"P.A.R.T.Y. ~Universe Festival~\" (Short ver.)",
+          "bbox": [0.0659, 0.2998, 0.7062, 0.0213]
+        },
+        {
+          "text": "8",
+          "translation": "8",
+          "bbox": [0.494, 0.9817, 0.0097, 0.0101]
+        },
+        {
+          "text": "ボタン",
+          "translation": "Button",
+          "bbox": [0.6572, 0.3658, 0.0568, 0.0147]
+        }
+      ]
+    }
+  ]
+}

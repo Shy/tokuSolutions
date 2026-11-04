@@ -1,0 +1,2816 @@
+{
+  "meta": {
+    "manual_name": "Mobilates",
+    "source": "Mobilates.pdf",
+    "source_lang": "ja",
+    "target_lang": "en",
+    "source_url": "",
+    "blog_url": "",
+    "pages": 8,
+    "blocks": 552,
+    "thumbnail": "pages/page-0.webp",
+    "tags": ["kamen-rider", "memorial", "sentai"]
+  },
+  "pages": [
+    {
+      "image": "pages/page-0.webp",
+      "blocks": [
+        {
+          "text": "\"",
+          "translation": "\"",
+          "bbox": [0.0329, 0.9293, 0.0111, 0.0151]
+        },
+        {
+          "text": "WANTED\nMOBIRATES\nMEMORIAL EDITION",
+          "translation": "WANTED\nMOBIRATES\nMEMORIAL EDITION",
+          "bbox": [0.0607, 0.0284, 0.3718, 0.2932]
+        },
+        {
+          "text": "お宝の各部名称・",
+          "translation": "Names of the Treasure's Parts・",
+          "bbox": [0.5944, 0.0635, 0.0863, 0.0175]
+        },
+        {
+          "text": "電池の入れ方/電源の入れ方",
+          "translation": "How to Insert Batteries / How to Turn On the Power",
+          "bbox": [0.5944, 0.0979, 0.1449, 0.0163]
+        },
+        {
+          "text": "台座の組み立てと設置・",
+          "translation": "Assembly and Installation of the Stand",
+          "bbox": [0.5944, 0.1318, 0.1222, 0.0151]
+        },
+        {
+          "text": "モードの切り替え・・",
+          "translation": "Switching Modes",
+          "bbox": [0.5949, 0.1657, 0.0983, 0.0157]
+        },
+        {
+          "text": "目次",
+          "translation": "Table of Contents",
+          "bbox": [0.7359, 0.0339, 0.0308, 0.0224]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.8966, 0.0647, 0.0043, 0.0121]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.8962, 0.0992, 0.0051, 0.0157]
+        },
+        {
+          "text": "BGMの楽しみ方・\n通常変身モード\nセリフ変身モード・",
+          "translation": "How to Enjoy the BGM\nNormal Transformation Mode\nDialogue Transformation Mode",
+          "bbox": [0.5944, 0.1995, 0.0991, 0.081]
+        },
+        {
+          "text": "初回変身モード・",
+          "translation": "Initial Transformation Mode",
+          "bbox": [0.5936, 0.2993, 0.094, 0.0163]
+        },
+        {
+          "text": "最終回変身モード・",
+          "translation": "Final Episode Transformation Mode",
+          "bbox": [0.594, 0.3331, 0.0974, 0.0151]
+        },
+        {
+          "text": "お宝ナビゲート",
+          "translation": "Treasure Navigation",
+          "bbox": [0.5944, 0.367, 0.0821, 0.0157]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.8966, 0.1318, 0.0047, 0.0121]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.8957, 0.1657, 0.0056, 0.0121]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.8962, 0.2001, 0.0047, 0.0133]
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.8966, 0.2334, 0.0047, 0.0127]
+        },
+        {
+          "text": "7",
+          "translation": "7",
+          "bbox": [0.8953, 0.2684, 0.0077, 0.0115]
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.8957, 0.3011, 0.0056, 0.0103]
+        },
+        {
+          "text": "+3←",
+          "translation": "+3←",
+          "bbox": [0.5205, 0.4256, 0.0333, 0.0163]
+        },
+        {
+          "text": "台詞リスト",
+          "translation": "Dialogue List",
+          "bbox": [0.5944, 0.4008, 0.0564, 0.0145]
+        },
+        {
+          "text": "△注意",
+          "translation": "△Caution",
+          "bbox": [0.541, 0.4704, 0.0487, 0.0139]
+        },
+        {
+          "text": "お買い上げのお客様へ 必ずお読みください。",
+          "translation": "To customers: Please be sure to read this.",
+          "bbox": [0.6056, 0.471, 0.1838, 0.0133]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.8953, 0.3349, 0.0073, 0.0127]
+        },
+        {
+          "text": "10",
+          "translation": "10",
+          "bbox": [0.8932, 0.3688, 0.012, 0.0121]
+        },
+        {
+          "text": "11~13",
+          "translation": "11–13",
+          "bbox": [0.8932, 0.4008, 0.0321, 0.0127]
+        },
+        {
+          "text": "128",
+          "translation": "128",
+          "bbox": [0.1944, 0.6221, 0.0278, 0.0278]
+        },
+        {
+          "text": "456",
+          "translation": "456",
+          "bbox": [0.1906, 0.6348, 0.0265, 0.026]
+        },
+        {
+          "text": "789",
+          "translation": "789",
+          "bbox": [0.1885, 0.6487, 0.0256, 0.0248]
+        },
+        {
+          "text": "#",
+          "translation": "#",
+          "bbox": [0.2034, 0.6771, 0.0064, 0.0091]
+        },
+        {
+          "text": "USER MANUAL",
+          "translation": "USER MANUAL",
+          "bbox": [0.0906, 0.7418, 0.3162, 0.055]
+        },
+        {
+          "text": "海賊戦隊",
+          "translation": "Pirate Sentai",
+          "bbox": [0.2295, 0.8591, 0.0402, 0.0133]
+        },
+        {
+          "text": "ゴーカイジ",
+          "translation": "Gokaiji",
+          "bbox": [0.1872, 0.8755, 0.0983, 0.0411]
+        },
+        {
+          "text": "●本商品の対象年齢は15才以上です。 対象年齢未満のお子様には絶対に与えないでください。\n●小さな部品、電池がありますので、小さなお子様が誤って飲み込まないように注意してください。 窒息などの危険があります。\n●尖った部分や鋭い部分がありますので、取扱や保管場所に注意してください。思わぬケガをする恐れがあります。\n●本商品には電子部品を使用しておりますので、ペースメーカーをご使用の方はご注意ください。\n●耳の近くで使用してはいけません。 誤って使用すると、 聴覚を損なう恐れがあります。\n●LEDの光の点滅を見続けないでください。 気分が悪くなったりする恐れがあります。\n《電池を誤使用すると発熱・破裂・ 液漏れの恐れがあります。 下記に注意してください》\n●二次電池(充電式電池) は、 絶対に使用しないでください。\n●古い電池と新しい電池、いろいろな種類の電池をまぜて使わないでください。\n●+(プラスマイナス)を正しくセットしてください。",
+          "translation": "● Ages 15+. Do not give this product to children under the specified age.\n● This product contains small parts and batteries. Keep out of reach of small children to prevent accidental ingestion. There is a risk of choking.\n● There are pointed or sharp parts; handle and store with care to avoid unexpected injury.\n● This product contains electronic components. People with pacemakers should take care.\n● Do not use near the ear. Improper use may damage hearing.\n● Do not stare at the flashing LED light. Prolonged viewing may cause discomfort.\n《Improper use of batteries may cause overheating, rupture, or leakage. Observe the following》\n● Never use secondary (rechargeable) batteries.\n● Do not mix old and new batteries or different types of batteries.\n● Install the + (plus) and - (minus) terminals correctly.",
+          "bbox": [0.5333, 0.4958, 0.4068, 0.1342]
+        },
+        {
+          "text": "●遊んだ後は必ずスイッチを切り電池をはずしてください。 電池を入れたままにしておくと、液漏れの恐れがあり危険です。\n●ショートさせたり充電、 分解、 加熱、火の中に入れたりしないでください。\n●万一、 電池から漏れた液が目に入ったときはすぐに大量の水で洗い、医師に相談してください。 皮膚や服に付いた時は水で洗って\nください。",
+          "translation": "● After playing, always turn the switch off and remove the batteries. Leaving batteries installed may cause leakage and is dangerous.\n● Do not short-circuit, recharge, disassemble, heat, or throw batteries into fire.\n● If battery fluid gets into the eyes, rinse immediately with plenty of water and consult a physician. If it gets on skin or clothing, wash with water.",
+          "bbox": [0.5359, 0.6342, 0.4299, 0.0526]
+        },
+        {
+          "text": "●廃棄するときは、 自治体の廃棄処理の指示に従ってください。",
+          "translation": "● When disposing of the product, follow your municipality's disposal procedures.",
+          "bbox": [0.5338, 0.6904, 0.2034, 0.0097]
+        },
+        {
+          "text": "《使用上の注意》",
+          "translation": "《Precautions for Use》",
+          "bbox": [0.5274, 0.7158, 0.0641, 0.0109]
+        },
+        {
+          "text": "●プラスチック梱包材は開封後はすぐに捨ててください。",
+          "translation": "● Discard plastic packaging immediately after opening.",
+          "bbox": [0.5329, 0.7334, 0.1953, 0.0103]
+        },
+        {
+          "text": "●本商品には塗装部分がありますので、 保管の際には他のもの (樹脂製品や家具、 ソファー) と接触しないようにしてください。\n色が移る場合があります。\n■可動部分・取付部分を無理な方向に強く引っ張ったり、 曲げたりしないでください。\n●発音の一部にイントネーションが違っていたり、 商品の特性上聞き取りにくいものがありますが、 ご了承ください。",
+          "translation": "● This product has painted parts. When storing, avoid contact with other items (resin products, furniture, sofas) as color transfer may occur.\n■ Do not pull or bend movable or attached parts forcefully in unnatural directions.\n● Some spoken lines may have different intonation or be difficult to hear due to the product's characteristics. Please understand this in advance.",
+          "bbox": [0.5329, 0.7473, 0.4397, 0.0538]
+        },
+        {
+          "text": "●画像はイメージです。",
+          "translation": "● The image is for illustrative purposes only.",
+          "bbox": [0.5274, 0.8083, 0.0594, 0.0091]
+        },
+        {
+          "text": "amaz",
+          "translation": "amaz",
+          "bbox": [0.6081, 0.8216, 0.0701, 0.0127]
+        },
+        {
+          "text": "バンマニを見るべし!\nアクションや詳しい遊び方を紹介しています。\nURL https://youtu.be/iq0EOzR9lxY",
+          "translation": "Watch Banmani!\nIt introduces actions and detailed ways to play.\nURL: https://youtu.be/iq0EOzR9lxY",
+          "bbox": [0.5692, 0.8507, 0.294, 0.1004]
+        },
+        {
+          "text": "©石森プロ・東映",
+          "translation": "© Ishimori Productions・Toei",
+          "bbox": [0.2235, 0.9516, 0.05, 0.0085]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-1.webp",
+      "blocks": [
+        {
+          "text": "お宝の各部名称",
+          "translation": "Names of each part of the treasure",
+          "bbox": [0.0594, 0.0484, 0.1479, 0.0296]
+        },
+        {
+          "text": "セット内容\n取扱説明書･････1\n台詞リスト······1\nモバイレーツ本体......1\nレンジャーキー",
+          "translation": "Set contents\nInstruction Manual... 1\nDialogue List... 1\nMobilates main unit... 1\nRanger Keys... 1 each",
+          "bbox": [0.0974, 0.1179, 0.0714, 0.0865]
+        },
+        {
+          "text": "各1",
+          "translation": "1 each",
+          "bbox": [0.1585, 0.1953, 0.0103, 0.0091]
+        },
+        {
+          "text": "(ゴーカイレッド・ゴーカイブルー・ゴーカイイエローゴーカイグリーン・ゴーカイピンク)",
+          "translation": "(Gokai Red, Gokai Blue, Gokai Yellow, Gokai Green, Gokai Pink)",
+          "bbox": [0.0308, 0.2068, 0.2056, 0.0097]
+        },
+        {
+          "text": "クロスボーン\nレンジャーキーを挿入してひねると\n図のように開きます。\n梱包時はクロスボーンが開いた状態です。\nクロスボーンを閉じてから遊んでください。\nクロスボーン (上部) をそれぞれ、\n矢印の方向に閉じます。",
+          "translation": "Crossbone\nInsert a Ranger Key and turn it to open as shown in the illustration.\nThe crossbone is in the open position for packaging.\nClose the crossbone before playing.\nClose each upper crossbone in the direction of the arrows.",
+          "bbox": [0.4983, 0.0466, 0.1547, 0.1179]
+        },
+        {
+          "text": "※カチッと音がするまで閉じてください。",
+          "translation": "※Close until you hear a \"click.\"",
+          "bbox": [0.4987, 0.1669, 0.1432, 0.0127]
+        },
+        {
+          "text": "※レンジャーキーを挿入し、ひねった状態では、\nクロスボーンを閉じることができません。\n※クロスボーン(下部) は連動して閉じます。",
+          "translation": "※You cannot close the crossbone while the Ranger Key is inserted and turned.\n※The lower crossbone closes in tandem.",
+          "bbox": [0.4987, 0.1832, 0.1654, 0.0411]
+        },
+        {
+          "text": "+",
+          "translation": "+",
+          "bbox": [0.7, 0.208, 0.0137, 0.0163]
+        },
+        {
+          "text": "両腕",
+          "translation": "Both arms",
+          "bbox": [0.791, 0.0943, 0.0162, 0.0121]
+        },
+        {
+          "text": "専用台座(台座・支柱)······1",
+          "translation": "Dedicated stand (base and support) ... 1",
+          "bbox": [0.0919, 0.2243, 0.0829, 0.0085]
+        },
+        {
+          "text": "モバイレーツ本体",
+          "translation": "Mobilates main unit",
+          "bbox": [0.1739, 0.3077, 0.1077, 0.0193]
+        },
+        {
+          "text": "Onelt",
+          "translation": "Onelt",
+          "bbox": [0.1274, 0.2944, 0.0556, 0.0804]
+        },
+        {
+          "text": "asmoo",
+          "translation": "asmoo",
+          "bbox": [0.0667, 0.3724, 0.0944, 0.058]
+        },
+        {
+          "text": "smo's o",
+          "translation": "smo's o",
+          "bbox": [0.0889, 0.5387, 0.0645, 0.0562]
+        },
+        {
+          "text": "LED",
+          "translation": "LED",
+          "bbox": [0.1585, 0.5151, 0.0235, 0.0115]
+        },
+        {
+          "text": "音声に合わせて光ります。",
+          "translation": "Lights up in time with the sounds.",
+          "bbox": [0.159, 0.5339, 0.091, 0.0109]
+        },
+        {
+          "text": "レンジャーキー",
+          "translation": "Ranger Key",
+          "bbox": [0.8286, 0.058, 0.0893, 0.0181]
+        },
+        {
+          "text": "【側面】 BGM ボタン\nボタンを押すと、\nBGMが鳴ります。",
+          "translation": "[Side] BGM Button\nPress the button to play the background music.",
+          "bbox": [0.5684, 0.3319, 0.103, 0.0459]
+        },
+        {
+          "text": "セリフボタン-\nボタンを押すと、",
+          "translation": "Dialogue Button\nWhen you press the button,",
+          "bbox": [0.609, 0.3906, 0.0607, 0.0278]
+        },
+        {
+          "text": "セリフが鳴ります。",
+          "translation": "a line of dialogue will play.",
+          "bbox": [0.609, 0.4208, 0.0654, 0.0133]
+        },
+        {
+          "text": "レンジャーモード",
+          "translation": "Ranger Mode",
+          "bbox": [0.7756, 0.3785, 0.0654, 0.0121]
+        },
+        {
+          "text": "ボタン",
+          "translation": "Button",
+          "bbox": [0.8427, 0.3259, 0.0282, 0.0133]
+        },
+        {
+          "text": "キーモード",
+          "translation": "Key Mode",
+          "bbox": [0.9158, 0.3773, 0.0432, 0.0127]
+        },
+        {
+          "text": "側面のボタンを押すことで、変形することができます。",
+          "translation": "Press the side button to transform it.",
+          "bbox": [0.7761, 0.4541, 0.1915, 0.0109]
+        },
+        {
+          "text": "① 両腕を上げます。\n② 側面のボタンを押します。\n※梱包時はキーモードの状態です。\n両腕と脚を展開してから遊んでください。",
+          "translation": "① Raise both arms.\n② Press the side button.\n※The product is in Key Mode for packaging.\nPlease unfold the arms and legs before playing.",
+          "bbox": [0.7718, 0.4794, 0.1556, 0.0574]
+        },
+        {
+          "text": "S. Ouelt.",
+          "translation": "S. Ouelt.",
+          "bbox": [0.1214, 0.5713, 0.065, 0.0979]
+        },
+        {
+          "text": "レンジャーキー挿入口」",
+          "translation": "Ranger Key Slot",
+          "bbox": [0.2547, 0.5961, 0.103, 0.0175]
+        },
+        {
+          "text": "これはすげぇ",
+          "translation": "This is amazing.",
+          "bbox": [0.0209, 0.6197, 0.2778, 0.1657]
+        },
+        {
+          "text": "通話ボタン",
+          "translation": "Call button",
+          "bbox": [0.3158, 0.6614, 0.0521, 0.0115]
+        },
+        {
+          "text": "押すと、約5秒後にキャラクター\nから電話がかかってきます。",
+          "translation": "Pressing it will make a character call after about 5 seconds.",
+          "bbox": [0.3162, 0.682, 0.1107, 0.0254]
+        },
+        {
+          "text": "お玉だっ!!",
+          "translation": "It's Otama!",
+          "bbox": [0.0423, 0.7485, 0.3145, 0.1451]
+        },
+        {
+          "text": "エンターキー\n・キーを押すと起動音が\n鳴ります。\n・決定機能があります。",
+          "translation": "Enter Key\n・Pressing the key plays a startup sound.\n・Functions as the confirm (OK) button.",
+          "bbox": [0.4483, 0.8579, 0.0855, 0.0605]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.5962, 0.6657, 0.0137, 0.0212]
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.6462, 0.6814, 0.0137, 0.0193]
+        },
+        {
+          "text": "19",
+          "translation": "19",
+          "bbox": [0.6316, 0.6524, 0.0171, 0.026]
+        },
+        {
+          "text": "1/\n4",
+          "translation": "1/\n4",
+          "bbox": [0.5748, 0.685, 0.0368, 0.052]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.6132, 0.6868, 0.0115, 0.0193]
+        },
+        {
+          "text": "78",
+          "translation": "78",
+          "bbox": [0.6077, 0.708, 0.0342, 0.0484]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.6171, 0.6372, 0.0132, 0.02]
+        },
+        {
+          "text": "#",
+          "translation": "#",
+          "bbox": [0.662, 0.6995, 0.0162, 0.023]
+        },
+        {
+          "text": "※(こめじるし) ボタン\nボタンを押すと、ナレーションと、\n全員名乗りが鳴ります。",
+          "translation": "※(こめじるし) Button\nPressing the button plays the narration and the team's roll call.",
+          "bbox": [0.6158, 0.9057, 0.115, 0.0466]
+        },
+        {
+          "text": "切ボタン",
+          "translation": "Off Button",
+          "bbox": [0.7427, 0.5992, 0.0402, 0.0139]
+        },
+        {
+          "text": "リセット機能があります。",
+          "translation": "It has a reset function.",
+          "bbox": [0.7444, 0.6203, 0.0872, 0.0103]
+        },
+        {
+          "text": "ja Conte",
+          "translation": "ja Conte",
+          "bbox": [0.8479, 0.6155, 0.0735, 0.0538]
+        },
+        {
+          "text": "# (シャープ)ボタン\nボタンを押すと、\nモードが切り替わります。",
+          "translation": "# (Sharp) Button\nPressing the button switches the mode.",
+          "bbox": [0.8034, 0.6826, 0.0897, 0.0478]
+        },
+        {
+          "text": "1~0ボタン\nボタンを押すと、\nプッシュ音が鳴ります。",
+          "translation": "Buttons 1–0\nPressing a button produces a push tone.",
+          "bbox": [0.7722, 0.8489, 0.0808, 0.0459]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-2.webp",
+      "blocks": [
+        {
+          "text": "起動",
+          "translation": "Startup",
+          "bbox": [0.0667, 0.0478, 0.0487, 0.0333]
+        },
+        {
+          "text": "~電池の入れ方/電源の入れ方~",
+          "translation": "~How to Insert Batteries / How to Turn On the Power~",
+          "bbox": [0.1893, 0.0538, 0.2085, 0.0218]
+        },
+        {
+          "text": "※電源スイッチがX (OFF)になっていることを確認してください。\n※音が小さくなって聞きとりにくくなったり、",
+          "translation": "※Make sure the power switch is set to X (OFF).\n※If the sound becomes faint and difficult to hear,",
+          "bbox": [0.0274, 0.1161, 0.3, 0.0357]
+        },
+        {
+          "text": "音が繰り返し鳴るなどの誤動作をする場合やLEDの発光が\n弱くなった場合は、すべて新しい電池に交換してください。",
+          "translation": "If the unit malfunctions (for example, the sound repeatedly plays) or the LED light becomes weak, replace all batteries with new ones.",
+          "bbox": [0.0363, 0.156, 0.2769, 0.0326]
+        },
+        {
+          "text": "①電池ぶたを取り外します。",
+          "translation": "① Remove the battery cover.",
+          "bbox": [0.0265, 0.2279, 0.0996, 0.0109]
+        },
+        {
+          "text": "①-1 モバイレーツ本体背面の電池ぶたの穴を先の細い棒などで押しながら、",
+          "translation": "①-1 While pressing into the hole of the battery cover on the back of the Mobilates main unit with the tip of a thin rod or similar object,",
+          "bbox": [0.0346, 0.2424, 0.2744, 0.0109]
+        },
+        {
+          "text": "①-2 電池ぶたを取り外します。\n②電池を入れます。",
+          "translation": "①-2 Remove the battery cover.\n② Insert the batteries.",
+          "bbox": [0.0265, 0.2576, 0.1175, 0.0266]
+        },
+        {
+          "text": "単4乾電池2本(別売り)の土をそれぞれ間違えないように入れます。",
+          "translation": "Insert two AAA (R03) dry batteries (sold separately), making sure not to reverse the polarities.",
+          "bbox": [0.0355, 0.2878, 0.2487, 0.0115]
+        },
+        {
+          "text": "③電池ぶたを戻します。",
+          "translation": "③ Reattach the battery cover.",
+          "bbox": [0.0265, 0.3017, 0.0838, 0.0127]
+        },
+        {
+          "text": "電池ぶたの突起と本体のミゾを合わせ、電池ぶたを閉じます。",
+          "translation": "Align the protrusion on the battery cover with the groove on the main unit, then close the battery cover.",
+          "bbox": [0.0355, 0.318, 0.2188, 0.0115]
+        },
+        {
+          "text": "電池を使用する際は、次の項目に注意するべし!\n遊び終わったら電源をOFFにしてください。\nまた、長時間使用しないときは必ず電池を取り外してください。",
+          "translation": "When using batteries, observe the following precautions!\nTurn the power OFF after you finish playing.\nAlso, if you will not use the product for an extended period, be sure to remove the batteries.",
+          "bbox": [0.0474, 0.3579, 0.2214, 0.0532]
+        },
+        {
+          "text": "+",
+          "translation": "+",
+          "bbox": [0.2474, 0.5012, 0.012, 0.0181]
+        },
+        {
+          "text": "d",
+          "translation": "d",
+          "bbox": [0.1658, 0.5526, 0.0073, 0.0109]
+        },
+        {
+          "text": "単4 lx2",
+          "translation": "AAA x2",
+          "bbox": [0.1825, 0.552, 0.0333, 0.0103]
+        },
+        {
+          "text": "②",
+          "translation": "②",
+          "bbox": [0.2979, 0.5689, 0.0098, 0.0103]
+        },
+        {
+          "text": "単4乾電池2本使用(別売り)",
+          "translation": "Uses two AAA (R03) dry batteries (sold separately)",
+          "bbox": [0.1526, 0.5744, 0.0739, 0.0109]
+        },
+        {
+          "text": "●アルカリ電池推奨",
+          "translation": "●Alkaline batteries recommended",
+          "bbox": [0.1526, 0.5998, 0.0726, 0.0103]
+        },
+        {
+          "text": "smo's o",
+          "translation": "smo's o",
+          "bbox": [0.0868, 0.5399, 0.0628, 0.0556]
+        },
+        {
+          "text": "モバイレーツ本体背面の\n電源スイッチを○ (ON) にします。\nLEDが発光し、 起動音が鳴ります。\n※遊び終わった後は、\n必ず電源スイッチを\nx (OFF)にしてください。",
+          "translation": "Set the power switch on the back of the Mobilates main unit to ○ (ON).\nThe LED will light and a startup sound will play.\n※After playing, be sure to set the power switch to x (OFF).",
+          "bbox": [0.0269, 0.6511, 0.1325, 0.0865]
+        },
+        {
+          "text": "☑",
+          "translation": "☑",
+          "bbox": [0.0598, 0.7914, 0.0103, 0.0133]
+        },
+        {
+          "text": "突起",
+          "translation": "Protrusion",
+          "bbox": [0.1987, 0.7521, 0.0171, 0.0109]
+        },
+        {
+          "text": "R",
+          "translation": "R",
+          "bbox": [0.1752, 0.8241, 0.0286, 0.0333]
+        },
+        {
+          "text": "+",
+          "translation": "+",
+          "bbox": [0.2688, 0.6469, 0.012, 0.02]
+        },
+        {
+          "text": "ミゾ・",
+          "translation": "Groove/Channel",
+          "bbox": [0.3077, 0.7068, 0.0179, 0.0097]
+        },
+        {
+          "text": "突起",
+          "translation": "Protrusion",
+          "bbox": [0.312, 0.8906, 0.0171, 0.0103]
+        },
+        {
+          "text": "電池ぶた",
+          "translation": "Battery cover",
+          "bbox": [0.1842, 0.9178, 0.0333, 0.0091]
+        },
+        {
+          "text": "P",
+          "translation": "P",
+          "bbox": [0.4047, 0.3017, 0.0068, 0.0073]
+        },
+        {
+          "text": "BESIVOS",
+          "translation": "BESIVOS",
+          "bbox": [0.3645, 0.3132, 0.0538, 0.0097]
+        },
+        {
+          "text": "①-2",
+          "translation": "①-2",
+          "bbox": [0.338, 0.7975, 0.0167, 0.0115]
+        },
+        {
+          "text": "①-1",
+          "translation": "①-1",
+          "bbox": [0.3286, 0.9565, 0.0171, 0.0121]
+        },
+        {
+          "text": "飾台",
+          "translation": "Display stand",
+          "bbox": [0.5658, 0.0478, 0.0453, 0.0308]
+        },
+        {
+          "text": "~台座の組み立てと設置~",
+          "translation": "~Assembling and Installing the Base~",
+          "bbox": [0.7068, 0.055, 0.1722, 0.0193]
+        },
+        {
+          "text": "※図のようにモバイレーツ本体を\n設置することができます。",
+          "translation": "※You can place the Mobilates main unit on the base as shown in the illustration.",
+          "bbox": [0.7594, 0.1064, 0.1162, 0.0254]
+        },
+        {
+          "text": "台座の凹部と支柱の凸部を",
+          "translation": "Fit the recessed sections of the base and the protruding parts of the support post together.",
+          "bbox": [0.5812, 0.1064, 0.0974, 0.0103]
+        },
+        {
+          "text": "【背面】",
+          "translation": "[Back]",
+          "bbox": [0.4432, 0.1252, 0.0299, 0.0157]
+        },
+        {
+          "text": "図のように矢印の方向にはめ込みます。",
+          "translation": "Insert in the direction of the arrow as shown in the figure.",
+          "bbox": [0.5812, 0.1215, 0.1393, 0.0103]
+        },
+        {
+          "text": "支柱・",
+          "translation": "Support post",
+          "bbox": [0.5748, 0.2787, 0.0252, 0.0157]
+        },
+        {
+          "text": "G",
+          "translation": "G",
+          "bbox": [0.6154, 0.1524, 0.0752, 0.1058]
+        },
+        {
+          "text": "凸部",
+          "translation": "Protrusion",
+          "bbox": [0.6829, 0.3863, 0.0167, 0.0109]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.8333, 0.4208, 0.0051, 0.0067]
+        },
+        {
+          "text": "台座",
+          "translation": "Base",
+          "bbox": [0.5641, 0.3742, 0.0222, 0.0151]
+        },
+        {
+          "text": "・門部",
+          "translation": "・Gate Division",
+          "bbox": [0.6799, 0.4081, 0.0188, 0.0115]
+        },
+        {
+          "text": "遊戯",
+          "translation": "Play",
+          "bbox": [0.5662, 0.575, 0.0491, 0.0333]
+        },
+        {
+          "text": "247",
+          "translation": "247",
+          "bbox": [0.8342, 0.3918, 0.0291, 0.0169]
+        },
+        {
+          "text": "GOODA",
+          "translation": "GOODA",
+          "bbox": [0.8308, 0.3906, 0.0111, 0.0671]
+        },
+        {
+          "text": "12 3",
+          "translation": "12 3",
+          "bbox": [0.8432, 0.4099, 0.0179, 0.0121]
+        },
+        {
+          "text": "Gooot",
+          "translation": "Good",
+          "bbox": [0.8491, 0.3978, 0.0154, 0.0683]
+        },
+        {
+          "text": "56\n789",
+          "translation": "56\n789",
+          "bbox": [0.8303, 0.4214, 0.0308, 0.0302]
+        },
+        {
+          "text": "A",
+          "translation": "A",
+          "bbox": [0.7598, 0.529, 0.0201, 0.0242]
+        },
+        {
+          "text": "~モードの切り替え~",
+          "translation": "~Switching Modes~",
+          "bbox": [0.7231, 0.581, 0.1402, 0.0224]
+        },
+        {
+          "text": "ミゾ",
+          "translation": "Groove",
+          "bbox": [0.4547, 0.604, 0.0175, 0.0133]
+        },
+        {
+          "text": "# (シャープ)ボタンを押すことで、",
+          "translation": "By pressing the # (sharp) button,",
+          "bbox": [0.5282, 0.6415, 0.1201, 0.0109]
+        },
+        {
+          "text": "5種類のモードに切り替えることができます。\n電源を入れた状態では「通常変身モード」に\nなっています。",
+          "translation": "you can switch among five modes.\nWhen the power is on, the unit starts in \"Standard Transformation Mode.\"",
+          "bbox": [0.5269, 0.6566, 0.1577, 0.0411]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.7615, 0.6584, 0.0077, 0.0157]
+        },
+        {
+          "text": "通常変身モード",
+          "translation": "Standard Transformation Mode",
+          "bbox": [0.8094, 0.659, 0.0825, 0.0157]
+        },
+        {
+          "text": "▶P6",
+          "translation": "▶P6",
+          "bbox": [0.9316, 0.6614, 0.0226, 0.0109]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.5957, 0.8083, 0.0064, 0.0115]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.6184, 0.8089, 0.0077, 0.0097]
+        },
+        {
+          "text": "[[5]",
+          "translation": "[[5]",
+          "bbox": [0.612, 0.8216, 0.0162, 0.0266]
+        },
+        {
+          "text": "*",
+          "translation": "*",
+          "bbox": [0.594, 0.8857, 0.0103, 0.0091]
+        },
+        {
+          "text": "8",
+          "translation": "8",
+          "bbox": [0.6184, 0.8597, 0.0077, 0.0097]
+        },
+        {
+          "text": "47",
+          "translation": "47",
+          "bbox": [0.5932, 0.8325, 0.0094, 0.0381]
+        },
+        {
+          "text": "C369",
+          "translation": "C369",
+          "bbox": [0.6376, 0.7842, 0.0145, 0.0889]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.7598, 0.7304, 0.0103, 0.0139]
+        },
+        {
+          "text": "セリフ変身モード",
+          "translation": "Dialogue Transformation Mode",
+          "bbox": [0.8051, 0.7285, 0.0915, 0.0163]
+        },
+        {
+          "text": "▶P7",
+          "translation": "▶P7",
+          "bbox": [0.9316, 0.7316, 0.0231, 0.0109]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.7603, 0.7999, 0.0103, 0.0145]
+        },
+        {
+          "text": "初回変身モード",
+          "translation": "Initial Transformation Mode",
+          "bbox": [0.8094, 0.7987, 0.0821, 0.0163]
+        },
+        {
+          "text": "▶P9",
+          "translation": "▶P9",
+          "bbox": [0.9312, 0.8005, 0.0231, 0.0121]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.7594, 0.8706, 0.012, 0.0139]
+        },
+        {
+          "text": "最終回変身モード",
+          "translation": "Final Episode Transformation Mode",
+          "bbox": [0.8038, 0.8694, 0.0936, 0.0157]
+        },
+        {
+          "text": "▶P9",
+          "translation": "▶P9",
+          "bbox": [0.9312, 0.8718, 0.0239, 0.0109]
+        },
+        {
+          "text": "#",
+          "translation": "#",
+          "bbox": [0.6423, 0.8857, 0.0068, 0.0067]
+        },
+        {
+          "text": "01",
+          "translation": "01",
+          "bbox": [0.762, 0.9383, 0.0081, 0.0169]
+        },
+        {
+          "text": "お宝ナビゲート",
+          "translation": "Treasure Navigation",
+          "bbox": [0.8107, 0.9377, 0.0799, 0.0169]
+        },
+        {
+          "text": "P10",
+          "translation": "P10",
+          "bbox": [0.9389, 0.9414, 0.0235, 0.0109]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-3.webp",
+      "blocks": [
+        {
+          "text": "楽曲",
+          "translation": "Music",
+          "bbox": [0.0662, 0.0484, 0.0453, 0.0308]
+        },
+        {
+          "text": "~BGMの楽しみ方~",
+          "translation": "~How to Enjoy BGM~",
+          "bbox": [0.2278, 0.0526, 0.1316, 0.0212]
+        },
+        {
+          "text": "BGM遊び",
+          "translation": "BGM Play",
+          "bbox": [0.062, 0.1179, 0.059, 0.0175]
+        },
+        {
+          "text": "BGMボタンを押します。",
+          "translation": "Press the BGM button.",
+          "bbox": [0.0269, 0.1457, 0.1355, 0.0302]
+        },
+        {
+          "text": "→押すたびにBGM再生と停止を繰り返します。",
+          "translation": "→Each press toggles BGM playback on and off.",
+          "bbox": [0.0269, 0.182, 0.1919, 0.0121]
+        },
+        {
+          "text": "※BGMは全部で3種類あります。",
+          "translation": "※There are 3 BGMs in total.",
+          "bbox": [0.0278, 0.1971, 0.1325, 0.0121]
+        },
+        {
+          "text": "※ BGMを流しながら各モードで遊ぶことができます。",
+          "translation": "※You can play in each mode while BGM is playing.",
+          "bbox": [0.0278, 0.2122, 0.2184, 0.0115]
+        },
+        {
+          "text": "→ T",
+          "translation": "→ T",
+          "bbox": [0.0551, 0.2521, 0.0231, 0.0187]
+        },
+        {
+          "text": "BGM一覧!3←",
+          "translation": "BGM List ← 3",
+          "bbox": [0.1047, 0.2521, 0.1068, 0.0187]
+        },
+        {
+          "text": "海賊戦隊ゴーカイジャー",
+          "translation": "Pirate Sentai Gokaiger",
+          "bbox": [0.0679, 0.2854, 0.1303, 0.0163]
+        },
+        {
+          "text": "海賊旗を上げろ!",
+          "translation": "Raise the pirate flag!",
+          "bbox": [0.0855, 0.3102, 0.0897, 0.0157]
+        },
+        {
+          "text": "ゴーカイチェンジ!",
+          "translation": "Gokai Change!",
+          "bbox": [0.0803, 0.3362, 0.1017, 0.0145]
+        },
+        {
+          "text": "特殊BGM遊び",
+          "translation": "Special BGM Play",
+          "bbox": [0.0491, 0.3924, 0.0855, 0.0175]
+        },
+        {
+          "text": "豪快に変身",
+          "translation": "Dramatic Transformation",
+          "bbox": [0.5667, 0.0466, 0.1132, 0.0345]
+        },
+        {
+          "text": "~通常変身モード~",
+          "translation": "~Standard Transformation Mode~",
+          "bbox": [0.7654, 0.0532, 0.1261, 0.023]
+        },
+        {
+          "text": "「通常変身モード」の状態で行います。",
+          "translation": "Do this while in \"Standard Transformation Mode.\"",
+          "bbox": [0.6667, 0.1197, 0.1726, 0.0145]
+        },
+        {
+          "text": "【側面】",
+          "translation": "[Side]",
+          "bbox": [0.3013, 0.1524, 0.0295, 0.0157]
+        },
+        {
+          "text": "1 セリフボタンを\n押します。",
+          "translation": "1 Press the dialogue button.",
+          "bbox": [0.5346, 0.1802, 0.1009, 0.0417]
+        },
+        {
+          "text": "→変身アクション音が\n鳴ります。",
+          "translation": "→A transformation action sound will play.",
+          "bbox": [0.553, 0.2297, 0.0885, 0.0296]
+        },
+        {
+          "text": "2 レンジャーキー挿入口に\nレンジャーキーを\n挿入します。",
+          "translation": "2 Insert the Ranger Key into the Ranger Key slot.",
+          "bbox": [0.6641, 0.179, 0.1474, 0.0647]
+        },
+        {
+          "text": "3 レンジャーキーを",
+          "translation": "3 Twist the Ranger Key",
+          "bbox": [0.8291, 0.1796, 0.1162, 0.0193]
+        },
+        {
+          "text": "90° ひねります。\nクロスボーンが開き、",
+          "translation": "Twist it 90°.\nThe crossbones open,",
+          "bbox": [0.8496, 0.2031, 0.0932, 0.0399]
+        },
+        {
+          "text": "→挿入音が鳴ります。",
+          "translation": "→An insertion sound will play.",
+          "bbox": [0.6846, 0.2509, 0.0863, 0.0127]
+        },
+        {
+          "text": "ひねり音とレンジャーキーに",
+          "translation": "A twisting sound and",
+          "bbox": [0.8598, 0.2455, 0.112, 0.0133]
+        },
+        {
+          "text": "応じた音声が鳴ります。",
+          "translation": "a voice corresponding to the Ranger Key will play.",
+          "bbox": [0.859, 0.2612, 0.0949, 0.0133]
+        },
+        {
+          "text": "BGMボタンを\n長押しします。\n→前奏有りの 「海賊戦隊\nゴーカイジャー」が",
+          "translation": "Press and hold the BGM button.\n→\"Pirate Sentai Gokaiger\" (with intro)",
+          "bbox": [0.0526, 0.451, 0.0979, 0.0756]
+        },
+        {
+          "text": "鳴ります。",
+          "translation": "will play.",
+          "bbox": [0.0628, 0.5284, 0.0393, 0.0127]
+        },
+        {
+          "text": "【側面】",
+          "translation": "[Side]",
+          "bbox": [0.044, 0.5532, 0.0299, 0.0169]
+        },
+        {
+          "text": "2 (こめじるし) ボタンを 3 再度、BGMボタンを",
+          "translation": "2 Press the * (rice-mark) button. 3 Press the BGM button again.",
+          "bbox": [0.1714, 0.4075, 0.3017, 0.0187]
+        },
+        {
+          "text": "押します。\n「ナレーション1」が鳴り、\n再度押すと\nゴーカイレッド 「海賊戦隊!」\n+全員「ゴーカイジャー!」が\n鳴ります。\n※ナレーションは全部で\n2種類あります。",
+          "translation": "Press it. \"Narration 1\" will play. Press again: Gokai Red says \"Kaizoku Sentai!\" followed by everyone shouting \"Gokaiger!\" ※There are 2 types of narration in total.",
+          "bbox": [0.1902, 0.4287, 0.1256, 0.1294]
+        },
+        {
+          "text": "長押しします。\n→ 「スーパー戦隊\nヒーローゲッター」が\n鳴ります。\n※1番~3番まで\n収録されています。\n※レンジャーキーが\n挿入されている場合は\nレンジャーキーに応じた\n「スーパー戦隊",
+          "translation": "Press and hold.\n→\"Super Sentai Hero Getter\" will play.\n※Versions 1–3 are included.\n※If a Ranger Key is inserted, the \"Super Sentai...",
+          "bbox": [0.3615, 0.4299, 0.1064, 0.1584]
+        },
+        {
+          "text": "--",
+          "translation": "--",
+          "bbox": [0.0855, 0.6125, 0.006, 0.0544]
+        },
+        {
+          "text": "球の",
+          "translation": "spherical",
+          "bbox": [0.1726, 0.769, 0.0368, 0.026]
+        },
+        {
+          "text": "ヒーローゲッター」が",
+          "translation": "\"Hero Getter\"",
+          "bbox": [0.3726, 0.5907, 0.0833, 0.0109]
+        },
+        {
+          "text": "鳴ります。",
+          "translation": "will play.",
+          "bbox": [0.3714, 0.6046, 0.0389, 0.0127]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.2585, 0.6741, 0.006, 0.006]
+        },
+        {
+          "text": "【側面】",
+          "translation": "[Side]",
+          "bbox": [0.3526, 0.6735, 0.0299, 0.0175]
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.259, 0.6892, 0.0047, 0.0054]
+        },
+        {
+          "text": "#",
+          "translation": "#",
+          "bbox": [0.2594, 0.7195, 0.0051, 0.0054]
+        },
+        {
+          "text": "GOOOO",
+          "translation": "GOOOO",
+          "bbox": [0.2551, 0.6554, 0.0115, 0.0726]
+        },
+        {
+          "text": "34",
+          "translation": "34",
+          "bbox": [0.2286, 0.6572, 0.0222, 0.0103]
+        },
+        {
+          "text": "00",
+          "translation": "00",
+          "bbox": [0.2282, 0.656, 0.0111, 0.0272]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.2453, 0.6886, 0.0051, 0.006]
+        },
+        {
+          "text": "O",
+          "translation": "O",
+          "bbox": [0.2419, 0.7122, 0.0111, 0.0169]
+        },
+        {
+          "text": "B",
+          "translation": "B",
+          "bbox": [0.2308, 0.7152, 0.0085, 0.0127]
+        },
+        {
+          "text": "んでない",
+          "translation": "Not doing it",
+          "bbox": [0.1111, 0.9154, 0.0962, 0.0212]
+        },
+        {
+          "text": "た!",
+          "translation": "Got it!",
+          "bbox": [0.3034, 0.9111, 0.0274, 0.0272]
+        },
+        {
+          "text": "【側面】",
+          "translation": "[Side]",
+          "bbox": [0.5282, 0.3071, 0.0291, 0.0169]
+        },
+        {
+          "text": "ウ",
+          "translation": "U",
+          "bbox": [0.5517, 0.3615, 0.0167, 0.0236]
+        },
+        {
+          "text": "GOOG",
+          "translation": "GOOG",
+          "bbox": [0.6996, 0.5671, 0.0094, 0.058]
+        },
+        {
+          "text": "4 エンターキーを押します。",
+          "translation": "4 Press the Enter key.",
+          "bbox": [0.5329, 0.714, 0.1603, 0.0193]
+        },
+        {
+          "text": "レンジャーキーを挿入した状態で\nエンターキーを押します。\n→レンジャーキーに応じた",
+          "translation": "With a Ranger Key inserted, press the Enter key.\n→A voice corresponding to the Ranger Key",
+          "bbox": [0.5534, 0.7412, 0.1355, 0.0417]
+        },
+        {
+          "text": "GOOO",
+          "translation": "GOOO",
+          "bbox": [0.7201, 0.5593, 0.009, 0.0544]
+        },
+        {
+          "text": "OXUN",
+          "translation": "OXUN",
+          "bbox": [0.7111, 0.578, 0.0085, 0.0562]
+        },
+        {
+          "text": "音声が鳴ります。",
+          "translation": "Audio will play.",
+          "bbox": [0.5628, 0.786, 0.0679, 0.0133]
+        },
+        {
+          "text": "海賊戦隊\nゴーカイジャー!",
+          "translation": "Pirate Sentai\nGokaiger!",
+          "bbox": [0.5496, 0.7999, 0.1662, 0.1258]
+        },
+        {
+          "text": "ゴーカイジャー!",
+          "translation": "Gokaiger!",
+          "bbox": [0.8346, 0.3821, 0.1274, 0.0466]
+        },
+        {
+          "text": "JO",
+          "translation": "JO",
+          "bbox": [0.8949, 0.442, 0.0192, 0.0097]
+        },
+        {
+          "text": "000",
+          "translation": "000",
+          "bbox": [0.8799, 0.5574, 0.012, 0.0429]
+        },
+        {
+          "text": "幸 3",
+          "translation": "Happiness 3",
+          "bbox": [0.8966, 0.5617, 0.0201, 0.0067]
+        },
+        {
+          "text": "23",
+          "translation": "23",
+          "bbox": [0.8979, 0.5768, 0.0184, 0.0067]
+        },
+        {
+          "text": "00000",
+          "translation": "00000",
+          "bbox": [0.9073, 0.5586, 0.0124, 0.0719]
+        },
+        {
+          "text": "5 6\n7789\nO #",
+          "translation": "5 6\n7789\nO #",
+          "bbox": [0.8799, 0.5907, 0.038, 0.0399]
+        },
+        {
+          "text": "攻撃音を鳴らすこともできます。\n【側面】",
+          "translation": "You can also play attack sounds.\n[Side]",
+          "bbox": [0.8427, 0.7074, 0.1184, 0.0441]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.7423, 0.8156, 0.0081, 0.0073]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.744, 0.8368, 0.0051, 0.0079]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.7419, 0.8561, 0.009, 0.0091]
+        },
+        {
+          "text": "7",
+          "translation": "7",
+          "bbox": [0.744, 0.8779, 0.0064, 0.0085]
+        },
+        {
+          "text": "※",
+          "translation": "*",
+          "bbox": [0.7432, 0.899, 0.0064, 0.0073]
+        },
+        {
+          "text": "¥2580",
+          "translation": "¥2,580",
+          "bbox": [0.7594, 0.8083, 0.012, 0.1016]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.7803, 0.8156, 0.0098, 0.0067]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.7816, 0.8356, 0.0073, 0.0085]
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.7821, 0.8567, 0.0064, 0.0079]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.7816, 0.8779, 0.0073, 0.0091]
+        },
+        {
+          "text": "モバイレーツ本体\n側面のセリフボタンを",
+          "translation": "Press the dialogue button on the side of the Mobilates main unit.",
+          "bbox": [0.8876, 0.8646, 0.0782, 0.0254]
+        },
+        {
+          "text": "#",
+          "translation": "#",
+          "bbox": [0.7821, 0.8996, 0.0068, 0.0079]
+        },
+        {
+          "text": "押します。",
+          "translation": "Press it.",
+          "bbox": [0.888, 0.8948, 0.0355, 0.0103]
+        },
+        {
+          "text": "押すたびに、\n3種類の攻撃音が\n順に鳴ります。",
+          "translation": "Each time you press it, three different attack sounds will play in sequence.",
+          "bbox": [0.8966, 0.9105, 0.0628, 0.0399]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-4.webp",
+      "blocks": [
+        {
+          "text": "派手に変身",
+          "translation": "Flashy Transformation",
+          "bbox": [0.0667, 0.0466, 0.112, 0.0333]
+        },
+        {
+          "text": "~セリフ変身モード~",
+          "translation": "~Dialogue Transformation Mode~",
+          "bbox": [0.2577, 0.0544, 0.1419, 0.0206]
+        },
+        {
+          "text": "2 レンジャーキー挿入口に\nレンジャーキーを挿入します。",
+          "translation": "2 Insert the Ranger Key into the Ranger Key slot.",
+          "bbox": [0.5329, 0.0593, 0.1825, 0.0429]
+        },
+        {
+          "text": "「セリフ変身モード」の状態で行います。",
+          "translation": "This is performed in \"Dialogue Transformation Mode.\"",
+          "bbox": [0.1628, 0.1197, 0.1808, 0.0145]
+        },
+        {
+          "text": "→挿入音が鳴ります。",
+          "translation": "→An insertion sound plays.",
+          "bbox": [0.553, 0.1064, 0.0859, 0.0127]
+        },
+        {
+          "text": "3 レンジャーキーを90° ひねります。",
+          "translation": "3 Turn the Ranger Key 90°.",
+          "bbox": [0.7607, 0.0599, 0.2026, 0.0193]
+        },
+        {
+          "text": "クロスボーンが開き、ひねり音と\nレンジャーキーに応じた音声が鳴ります。",
+          "translation": "The crossbones open, and a twisting sound and the voice corresponding to the Ranger Key play.",
+          "bbox": [0.791, 0.0871, 0.1645, 0.0272]
+        },
+        {
+          "text": "キャラクターを選択し、",
+          "translation": "Select a character,",
+          "bbox": [0.0538, 0.1814, 0.1261, 0.0181]
+        },
+        {
+          "text": "対応表",
+          "translation": "Reference Table",
+          "bbox": [0.0615, 0.4268, 0.0252, 0.0121]
+        },
+        {
+          "text": "セリフボタンを押します。\n① 「1~5」 のいずれかのボタンを押します。\n→押したボタンに応じたキャラクターの\nセリフが鳴り、キャラクターが選択されます。\n※「1~5」のボタンは、同じボタンを押すたびに\n応じたキャラクターのセリフが3種類、順に鳴ります。",
+          "translation": "Press a dialogue button.\n① Press any one of the buttons \"1\" to \"5\".\n→ The corresponding character's line will play and that character will be selected.\n* For buttons \"1\" through \"5,\" pressing the same button repeatedly will play three different lines for that character in order.",
+          "bbox": [0.0526, 0.2044, 0.1932, 0.101]
+        },
+        {
+          "text": "欲しいもんは\n全部この手で掴み取る。\nそれが",
+          "translation": "Everything I want,\nI'll take with my own hands.\nThat is...",
+          "bbox": [0.0974, 0.292, 0.1645, 0.1318]
+        },
+        {
+          "text": "asmo",
+          "translation": "asmo",
+          "bbox": [0.0662, 0.3742, 0.0607, 0.0393]
+        },
+        {
+          "text": "海賊って",
+          "translation": "Pirates...",
+          "bbox": [0.1658, 0.393, 0.0667, 0.0381]
+        },
+        {
+          "text": "ゴーカイジャー!",
+          "translation": "Gokaiger!",
+          "bbox": [0.7765, 0.2297, 0.1962, 0.0635]
+        },
+        {
+          "text": "①",
+          "translation": "①",
+          "bbox": [0.2932, 0.3863, 0.0103, 0.0127]
+        },
+        {
+          "text": "もんだろ。",
+          "translation": "Isn't that how it is?",
+          "bbox": [0.2073, 0.4099, 0.059, 0.032]
+        },
+        {
+          "text": "[28]",
+          "translation": "[28]",
+          "bbox": [0.3034, 0.4353, 0.0218, 0.0193]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.0333, 0.451, 0.0043, 0.0073]
+        },
+        {
+          "text": "ゴーカイレッド",
+          "translation": "Gokai Red",
+          "bbox": [0.0504, 0.4486, 0.0534, 0.0115]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.0321, 0.4716, 0.0064, 0.0073]
+        },
+        {
+          "text": "ゴーカイブルー",
+          "translation": "Gokai Blue",
+          "bbox": [0.0504, 0.4698, 0.0564, 0.0109]
+        },
+        {
+          "text": "派手に",
+          "translation": "In a flashy way",
+          "bbox": [0.1526, 0.4462, 0.0791, 0.0429]
+        },
+        {
+          "text": "789",
+          "translation": "789",
+          "bbox": [0.2868, 0.4565, 0.0303, 0.026]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.0325, 0.4927, 0.0068, 0.0085]
+        },
+        {
+          "text": "ゴーカイイエロー",
+          "translation": "Gokai Yellow",
+          "bbox": [0.0504, 0.4915, 0.0645, 0.0109]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.0321, 0.5139, 0.0073, 0.0085]
+        },
+        {
+          "text": "ゴーカイグリーン",
+          "translation": "Gokai Green",
+          "bbox": [0.0504, 0.5115, 0.0637, 0.0127]
+        },
+        {
+          "text": "行くぜ!",
+          "translation": "Let's go!",
+          "bbox": [0.1513, 0.494, 0.088, 0.0453]
+        },
+        {
+          "text": "ド派手に\n行くぜ!",
+          "translation": "Let's go out with a bang!",
+          "bbox": [0.3538, 0.4166, 0.1291, 0.1294]
+        },
+        {
+          "text": "OOOO",
+          "translation": "OOOO",
+          "bbox": [0.6201, 0.4299, 0.0081, 0.0538]
+        },
+        {
+          "text": "00000",
+          "translation": "00000",
+          "bbox": [0.8778, 0.4341, 0.0115, 0.0719]
+        },
+        {
+          "text": "23",
+          "translation": "23",
+          "bbox": [0.8679, 0.4516, 0.0192, 0.0079]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.8679, 0.468, 0.0047, 0.0054]
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.8816, 0.4674, 0.0056, 0.006]
+        },
+        {
+          "text": "789\n[ O #",
+          "translation": "789\n[ O #",
+          "bbox": [0.8517, 0.4807, 0.035, 0.0254]
+        },
+        {
+          "text": "GOOG\nDOOE",
+          "translation": "GOOG\nDOOE",
+          "bbox": [0.8496, 0.4341, 0.0256, 0.0937]
+        },
+        {
+          "text": "5 ゴーカイピンク",
+          "translation": "5 Gokai Pink",
+          "bbox": [0.0325, 0.5333, 0.0731, 0.0115]
+        },
+        {
+          "text": "② モバイレーツ本体側面の",
+          "translation": "② On the side of the Mobilates unit",
+          "bbox": [0.0265, 0.5701, 0.1103, 0.0121]
+        },
+        {
+          "text": "セリフボタンを押します。",
+          "translation": "Press the dialogue button.",
+          "bbox": [0.0368, 0.5846, 0.0996, 0.0127]
+        },
+        {
+          "text": "【側面】",
+          "translation": "[Side]",
+          "bbox": [0.2162, 0.5955, 0.0291, 0.0157]
+        },
+        {
+          "text": "→変身アクション音と、",
+          "translation": "→A transformation action sound,",
+          "bbox": [0.0265, 0.6004, 0.0919, 0.0121]
+        },
+        {
+          "text": "選択したキャラクターの声が重なった",
+          "translation": "the voices of the selected characters overlap.",
+          "bbox": [0.0363, 0.6155, 0.1534, 0.0121]
+        },
+        {
+          "text": "「ゴーカイチェンジ!」が鳴ります。\nフゥン!\nフゥン!",
+          "translation": "\"Gokai Change!\" will play.\nHmph!\nHmph!",
+          "bbox": [0.0308, 0.6119, 0.1722, 0.1868]
+        },
+        {
+          "text": "フゥン!",
+          "translation": "Hmph!",
+          "bbox": [0.3278, 0.6173, 0.1085, 0.0744]
+        },
+        {
+          "text": "4 セリフボタンを押します。\n押すたびに、選択したキャラクターに\n応じたセリフが鳴り、 その後、\n攻撃音が繰り返し鳴ります。",
+          "translation": "4 Press the dialogue button.\nEach time you press it, the selected character's line plays, and then the attack sound repeats.",
+          "bbox": [0.5308, 0.5883, 0.1799, 0.0713]
+        },
+        {
+          "text": "フゥン!",
+          "translation": "Hmph!",
+          "bbox": [0.3547, 0.6917, 0.1051, 0.0744]
+        },
+        {
+          "text": "ゴーカイ",
+          "translation": "Gokai",
+          "bbox": [0.6791, 0.6227, 0.1073, 0.0617]
+        },
+        {
+          "text": "Toy Mail",
+          "translation": "Toy Mail",
+          "bbox": [0.5821, 0.685, 0.1094, 0.0181]
+        },
+        {
+          "text": "レッド!",
+          "translation": "Red!",
+          "bbox": [0.6957, 0.6729, 0.0957, 0.0623]
+        },
+        {
+          "text": "【側面】",
+          "translation": "[Side]",
+          "bbox": [0.7637, 0.5949, 0.0291, 0.0157]
+        },
+        {
+          "text": "派手に\n行くぜ!",
+          "translation": "Let's go out with a bang!",
+          "bbox": [0.8427, 0.6161, 0.1487, 0.1729]
+        },
+        {
+          "text": "ね",
+          "translation": "Right?",
+          "bbox": [0.2487, 0.7418, 0.0098, 0.0121]
+        },
+        {
+          "text": "選択したキャラクターの組み合わせは全部で31通り!\n例えば･･･ ゴーカイレッド+ゴーカイブルーの場合",
+          "translation": "There are 31 possible character combinations in total!\nFor example... in the case of Gokai Red + Gokai Blue...",
+          "bbox": [0.5338, 0.7715, 0.2124, 0.0308]
+        },
+        {
+          "text": "①で「1、2」のボタンを押します。",
+          "translation": "Press buttons \"1\" and \"2\" at step ①.",
+          "bbox": [0.5504, 0.8108, 0.1111, 0.0103]
+        },
+        {
+          "text": "K",
+          "translation": "K",
+          "bbox": [0.8175, 0.821, 0.0103, 0.0151]
+        },
+        {
+          "text": "K",
+          "translation": "K",
+          "bbox": [0.2611, 0.8392, 0.0132, 0.0169]
+        },
+        {
+          "text": "②",
+          "translation": "②",
+          "bbox": [0.2957, 0.8452, 0.0098, 0.0103]
+        },
+        {
+          "text": "ゴーカー",
+          "translation": "Gawker",
+          "bbox": [0.3175, 0.8132, 0.1295, 0.0605]
+        },
+        {
+          "text": "4 ではゴーカイレッドとゴーカイブルーのセリフが順に鳴ります。",
+          "translation": "At setting 4, the lines of Gokai Red and Gokai Blue play in sequence.",
+          "bbox": [0.5483, 0.8404, 0.2265, 0.0115]
+        },
+        {
+          "text": "②ではゴーカイレッドとゴーカイブルーのセリフが鳴ります。",
+          "translation": "In step 2, the lines of Gokai Red and Gokai Blue will play.",
+          "bbox": [0.5598, 0.8253, 0.2107, 0.0115]
+        },
+        {
+          "text": "キャラクター全員の場合 全員の名乗りが発動",
+          "translation": "If all characters are selected, everyone's introductory lines play.",
+          "bbox": [0.5346, 0.8664, 0.1671, 0.0115]
+        },
+        {
+          "text": "0000",
+          "translation": "0000",
+          "bbox": [0.1987, 0.8591, 0.0171, 0.0593]
+        },
+        {
+          "text": "1 2",
+          "translation": "1 2",
+          "bbox": [0.2103, 0.8634, 0.0171, 0.0151]
+        },
+        {
+          "text": "8",
+          "translation": "8",
+          "bbox": [0.2325, 0.8773, 0.0056, 0.0085]
+        },
+        {
+          "text": "456",
+          "translation": "456",
+          "bbox": [0.2064, 0.8755, 0.0291, 0.0254]
+        },
+        {
+          "text": "78",
+          "translation": "78",
+          "bbox": [0.2034, 0.8912, 0.0188, 0.0169]
+        },
+        {
+          "text": "#",
+          "translation": "#",
+          "bbox": [0.2226, 0.9202, 0.0051, 0.0085]
+        },
+        {
+          "text": "G0060",
+          "translation": "G0060",
+          "bbox": [0.2201, 0.8579, 0.0248, 0.0744]
+        },
+        {
+          "text": "チェンジ!",
+          "translation": "Change!",
+          "bbox": [0.3209, 0.8748, 0.1577, 0.0695]
+        },
+        {
+          "text": "① で「1、2、3、4、5」のボタンを押します。\n②では全員のセリフが鳴ります。\n4では各キャラクターのセリフが順に鳴り、\nゴーカイレッド「海賊戦隊!」 +全員「ゴーカイジャー!」\n+ゴーカイレッド「派手に行くぜ!」が鳴ります。",
+          "translation": "At step ①, press the \"1, 2, 3, 4, 5\" buttons.\nAt step ②, everyone's lines will play.\nAt step 4, each character's lines play in order:\nGokai Red: \"Kaizoku Sentai!\" + All: \"Gokaiger!\" + Gokai Red: \"Let's go out with a bang!\"",
+          "bbox": [0.5444, 0.8857, 0.1923, 0.0707]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-5.webp",
+      "blocks": [
+        {
+          "text": "弩派手に変身",
+          "translation": "Transform in spectacular fashion",
+          "bbox": [0.0667, 0.0478, 0.1342, 0.0405]
+        },
+        {
+          "text": "「初回変身モード」 または 「最終回変身モード」の状態で行います。",
+          "translation": "Perform this while in \"Initial Transformation Mode\" or \"Final Episode Transformation Mode.\"",
+          "bbox": [0.1038, 0.1197, 0.2987, 0.0145]
+        },
+        {
+          "text": "~初回変身モード~",
+          "translation": "~Initial Transformation Mode~",
+          "bbox": [0.2923, 0.0453, 0.0974, 0.0175]
+        },
+        {
+          "text": "モバイレーツの遊び方",
+          "translation": "How to play with the Mobilates",
+          "bbox": [0.5534, 0.0556, 0.1415, 0.0193]
+        },
+        {
+          "text": "~最終回変身モード~",
+          "translation": "~Final Episode Transformation Mode~",
+          "bbox": [0.2863, 0.0653, 0.109, 0.0175]
+        },
+        {
+          "text": "お宝ナビゲート",
+          "translation": "Treasure Navigate",
+          "bbox": [0.7551, 0.0502, 0.1462, 0.0284]
+        },
+        {
+          "text": "「お宝ナビゲート」の状態で行います。",
+          "translation": "Perform this while in \"Treasure Navigate\" mode.",
+          "bbox": [0.6675, 0.1197, 0.1705, 0.0139]
+        },
+        {
+          "text": "初回変身モード",
+          "translation": "Initial Transformation Mode",
+          "bbox": [0.0261, 0.1578, 0.1269, 0.0272]
+        },
+        {
+          "text": "気に入らねぇもんは",
+          "translation": "Things I don't like...",
+          "bbox": [0.2192, 0.1608, 0.0889, 0.0145]
+        },
+        {
+          "text": "うっさい\nバーカ!",
+          "translation": "Shut up!\nYou idiot!",
+          "bbox": [0.0235, 0.1923, 0.0603, 0.0562]
+        },
+        {
+          "text": "あなたたちの言う事を\n聞く耳などありません",
+          "translation": "I won't listen to anything you say.",
+          "bbox": [0.0838, 0.2195, 0.0748, 0.0405]
+        },
+        {
+          "text": "消えるのはお前だ お前らみたいなのは",
+          "translation": "You're the ones who'll disappear — people like you.",
+          "bbox": [0.0906, 0.1911, 0.1645, 0.0429]
+        },
+        {
+          "text": "僕も、",
+          "translation": "Me too,",
+          "bbox": [0.209, 0.1977, 0.0201, 0.0157]
+        },
+        {
+          "text": "大っきらいだ!",
+          "translation": "I hate you!",
+          "bbox": [0.1748, 0.2183, 0.0752, 0.0339]
+        },
+        {
+          "text": "それが海賊って",
+          "translation": "So that's what being a pirate is...",
+          "bbox": [0.2833, 0.2189, 0.0799, 0.0206]
+        },
+        {
+          "text": "ぶっ潰す。 派手に",
+          "translation": "I'll crush them — in spectacular fashion.",
+          "bbox": [0.247, 0.1566, 0.1957, 0.081]
+        },
+        {
+          "text": "もんだろ?",
+          "translation": "Isn't that how it is?",
+          "bbox": [0.3256, 0.243, 0.0462, 0.0115]
+        },
+        {
+          "text": "行くぜ!",
+          "translation": "Let's go!",
+          "bbox": [0.3872, 0.1935, 0.0842, 0.0599]
+        },
+        {
+          "text": "1 レンジャーキー挿入口に\nゴーカイジャーの",
+          "translation": "1 Insert the Gokaiger Ranger Key into the Ranger Key slot.",
+          "bbox": [0.5342, 0.1802, 0.1526, 0.0411]
+        },
+        {
+          "text": "レンジャーキーを挿入します。\n→挿入音が鳴ります。",
+          "translation": "Insert the Ranger Key.\n→ An insertion sound plays.",
+          "bbox": [0.5526, 0.2249, 0.1624, 0.0387]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.0342, 0.2999, 0.0098, 0.0175]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.115, 0.3011, 0.0111, 0.0163]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.2573, 0.3017, 0.0085, 0.0145]
+        },
+        {
+          "text": "セリフボタン\nを押します。",
+          "translation": "Press the dialogue button.",
+          "bbox": [0.0278, 0.347, 0.0697, 0.0405]
+        },
+        {
+          "text": "レンジャーキー\n挿入口に",
+          "translation": "Into the Ranger Key slot",
+          "bbox": [0.109, 0.347, 0.0838, 0.0405]
+        },
+        {
+          "text": "押すたびに\n音声が順に\n鳴ります。",
+          "translation": "Each time you press it, the voice lines play in order.",
+          "bbox": [0.0368, 0.3942, 0.0466, 0.0417]
+        },
+        {
+          "text": "レンジャーキーを\n挿入します。",
+          "translation": "Insert the Ranger Key.",
+          "bbox": [0.109, 0.3912, 0.0962, 0.0405]
+        },
+        {
+          "text": "レンジャーキーを\n90° ひねります。\n→クロスボーンが開き、\nひねり音と",
+          "translation": "Turn the Ranger Key 90°.\n→ The crossbones open, and a twisting sound",
+          "bbox": [0.2504, 0.347, 0.0966, 0.0732]
+        },
+        {
+          "text": "セリフボタンを\n押します。",
+          "translation": "Press the dialogue button.",
+          "bbox": [0.3731, 0.3464, 0.0829, 0.0429]
+        },
+        {
+          "text": "→挿入音が鳴ります。\n【側面】",
+          "translation": "→ An insertion sound plays.\n[Side]",
+          "bbox": [0.0679, 0.4377, 0.1274, 0.0405]
+        },
+        {
+          "text": "レンジャーキーに\n応じた音声が鳴ります。",
+          "translation": "A voice corresponding to the Ranger Key will play.",
+          "bbox": [0.2607, 0.4226, 0.0944, 0.0284]
+        },
+        {
+          "text": "押すたびに、選択した\nキャラクターに応じた\nセリフが鳴り、その後、\n攻撃音が繰り返し\n鳴ります。",
+          "translation": "Each time you press it, a line of dialogue for the selected character plays, then attack sounds repeat.",
+          "bbox": [0.3833, 0.3924, 0.0893, 0.0744]
+        },
+        {
+          "text": "ゴーカイジャー!",
+          "translation": "Gokaiger!",
+          "bbox": [0.2568, 0.5411, 0.1017, 0.0387]
+        },
+        {
+          "text": "150",
+          "translation": "150",
+          "bbox": [0.297, 0.5889, 0.0214, 0.0079]
+        },
+        {
+          "text": "128",
+          "translation": "128",
+          "bbox": [0.1466, 0.6427, 0.0252, 0.0181]
+        },
+        {
+          "text": "466",
+          "translation": "466",
+          "bbox": [0.1474, 0.6542, 0.0248, 0.0175]
+        },
+        {
+          "text": "789",
+          "translation": "789",
+          "bbox": [0.147, 0.6651, 0.0256, 0.0187]
+        },
+        {
+          "text": "DOD",
+          "translation": "DOD",
+          "bbox": [0.1479, 0.6771, 0.0244, 0.0175]
+        },
+        {
+          "text": "23",
+          "translation": "23",
+          "bbox": [0.306, 0.6959, 0.0154, 0.006]
+        },
+        {
+          "text": "56",
+          "translation": "56",
+          "bbox": [0.3051, 0.7086, 0.0171, 0.0067]
+        },
+        {
+          "text": "【側面】",
+          "translation": "[Side]",
+          "bbox": [0.3816, 0.4794, 0.0303, 0.0145]
+        },
+        {
+          "text": "GOOOL",
+          "translation": "GOOOL",
+          "bbox": [0.6171, 0.5242, 0.0085, 0.0586]
+        },
+        {
+          "text": "198",
+          "translation": "198",
+          "bbox": [0.6, 0.5381, 0.0261, 0.0169]
+        },
+        {
+          "text": "GOGGO",
+          "translation": "GOGGO",
+          "bbox": [0.6, 0.5314, 0.0085, 0.0586]
+        },
+        {
+          "text": "2 ゴーカイジャーのレンジャーキーを\n90° ひねります。",
+          "translation": "2 Turn the Gokaiger Ranger Key 90°.",
+          "bbox": [0.7372, 0.1802, 0.2081, 0.0423]
+        },
+        {
+          "text": "クロスボーンが開き、",
+          "translation": "The crossbones open,",
+          "bbox": [0.7671, 0.2285, 0.0825, 0.0109]
+        },
+        {
+          "text": "ひねり音と 「レッツお宝ナビゲート!」が鳴り、\n35種類のお宝ナビゲート音声の中から\nランダムで1種類鳴ります。\n※エンターキーを押すと、35種類の\nお宝ナビゲート音声がランダムに鳴ります。",
+          "translation": "A twisting sound and \"LET'S OTAKARA NAVIGATE!\" play, then one of 35 Treasure Navigate voice lines will play at random.\n※Pressing the Enter key will also cause one of the 35 Treasure Navigate voice lines to play at random.",
+          "bbox": [0.7573, 0.2437, 0.1893, 0.0726]
+        },
+        {
+          "text": "ぶっ潰す!",
+          "translation": "I'll crush you!",
+          "bbox": [0.3598, 0.7618, 0.0944, 0.0375]
+        },
+        {
+          "text": "行くぜ!!",
+          "translation": "Here we go!",
+          "bbox": [0.3919, 0.9232, 0.0799, 0.0278]
+        },
+        {
+          "text": "LET'S\nOTAKARA\nNAVIGATE",
+          "translation": "LET'S\nOTAKARA\nNAVIGATE",
+          "bbox": [0.5188, 0.6711, 0.2265, 0.2926]
+        },
+        {
+          "text": "最終回変身モード",
+          "translation": "Final Episode Transformation Mode",
+          "bbox": [0.0265, 0.7376, 0.1479, 0.0272]
+        },
+        {
+          "text": "「てめぇは",
+          "translation": "\"You...\"",
+          "bbox": [0.0624, 0.7781, 0.0389, 0.0157]
+        },
+        {
+          "text": "俺たちに勝てねぇよ",
+          "translation": "You can't beat us.",
+          "bbox": [0.035, 0.7902, 0.0906, 0.0242]
+        },
+        {
+          "text": "わたくしたちの後ろには、\nこの星を守り続けてきた\n人たちがいます!",
+          "translation": "Behind us are the people who have continued to protect this planet!",
+          "bbox": [0.1671, 0.783, 0.0829, 0.0357]
+        },
+        {
+          "text": "お前みたいな\n気に入ら\nない奴\nは\n力の限り",
+          "translation": "People we can't stand, like you — we'll use all our strength.",
+          "bbox": [0.2671, 0.7267, 0.0957, 0.0973]
+        },
+        {
+          "text": "この星を狙ったのが\n間違いだったんだ\n!",
+          "translation": "Targeting this planet was a mistake!",
+          "bbox": [0.0282, 0.8198, 0.0808, 0.0423]
+        },
+        {
+          "text": "この星にはね、",
+          "translation": "You know, on this planet...",
+          "bbox": [0.1231, 0.8525, 0.0491, 0.0133]
+        },
+        {
+          "text": "あたしたち海賊でも手を出せない、",
+          "translation": "There was a great power even we pirates couldn't lay a hand on,",
+          "bbox": [0.0889, 0.8622, 0.1179, 0.0218]
+        },
+        {
+          "text": "大きな力があったのよ!",
+          "translation": "It had immense power!",
+          "bbox": [0.0983, 0.8791, 0.0983, 0.02]
+        },
+        {
+          "text": "34のスーパー戦隊がいるんだ!\nその力、今見せ\nてやる!",
+          "translation": "There are 34 Super Sentai teams!\nWe'll show you that power now!",
+          "bbox": [0.1987, 0.8362, 0.1457, 0.0556]
+        },
+        {
+          "text": "最後だからなぁ",
+          "translation": "It's the last time, after all.",
+          "bbox": [0.3799, 0.8271, 0.0833, 0.0248]
+        },
+        {
+          "text": "ド派手に",
+          "translation": "In spectacular fashion",
+          "bbox": [0.35, 0.8573, 0.1175, 0.0538]
+        },
+        {
+          "text": "僕たちは6人だけじゃない!",
+          "translation": "There aren't just the six of us!",
+          "bbox": [0.0286, 0.9075, 0.1316, 0.0605]
+        },
+        {
+          "text": "お前には見えないだろうけど、",
+          "translation": "You probably can't see it, but...",
+          "bbox": [0.0474, 0.8954, 0.1047, 0.0459]
+        },
+        {
+          "text": "俺たちは35番目のスーパー戦隊だが、\n海賊だからな!",
+          "translation": "We may be the 35th Super Sentai, but we're pirates!",
+          "bbox": [0.1919, 0.9057, 0.1513, 0.0502]
+        },
+        {
+          "text": "*",
+          "translation": "*",
+          "bbox": [0.7996, 0.5762, 0.0047, 0.0054]
+        },
+        {
+          "text": "123",
+          "translation": "123",
+          "bbox": [0.7876, 0.5883, 0.0282, 0.0073]
+        },
+        {
+          "text": "5 6",
+          "translation": "5 6",
+          "bbox": [0.7991, 0.6028, 0.0179, 0.0073]
+        },
+        {
+          "text": "#",
+          "translation": "#",
+          "bbox": [0.812, 0.6306, 0.0047, 0.0048]
+        },
+        {
+          "text": "1 2 3\n4 5 6",
+          "translation": "1 2 3\n4 5 6",
+          "bbox": [0.9038, 0.5726, 0.0338, 0.0224]
+        },
+        {
+          "text": "00000",
+          "translation": "00000",
+          "bbox": [0.9004, 0.555, 0.0128, 0.0726]
+        },
+        {
+          "text": "DOUNE\n10000",
+          "translation": "DOUNE\n10000",
+          "bbox": [0.915, 0.5538, 0.0265, 0.0738]
+        },
+        {
+          "text": "78 9",
+          "translation": "78 9",
+          "bbox": [0.9047, 0.6022, 0.0321, 0.0079]
+        },
+        {
+          "text": "O #",
+          "translation": "O #",
+          "bbox": [0.9171, 0.6173, 0.0197, 0.0067]
+        },
+        {
+          "text": "10",
+          "translation": "10",
+          "bbox": [0.9795, 0.9746, 0.0103, 0.0109]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-6.webp",
+      "blocks": [
+        {
+          "text": "11",
+          "translation": "11",
+          "bbox": [0.0098, 0.9758, 0.0098, 0.0109]
+        },
+        {
+          "text": "全員",
+          "translation": "Everyone",
+          "bbox": [0.7397, 0.0429, 0.0197, 0.0133]
+        },
+        {
+          "text": "台詞リスト",
+          "translation": "Dialogue List",
+          "bbox": [0.1782, 0.0562, 0.138, 0.0466]
+        },
+        {
+          "text": "セリフ変身モード",
+          "translation": "Dialogue Transformation Mode",
+          "bbox": [0.1654, 0.1626, 0.1679, 0.0284]
+        },
+        {
+          "text": "P7/",
+          "translation": "P7/",
+          "bbox": [0.6128, 0.0671, 0.0179, 0.0115]
+        },
+        {
+          "text": "-1",
+          "translation": "-1",
+          "bbox": [0.6423, 0.0683, 0.0124, 0.0103]
+        },
+        {
+          "text": "P7/1-②",
+          "translation": "P7/1-②",
+          "bbox": [0.7688, 0.0659, 0.0419, 0.0121]
+        },
+        {
+          "text": "P8/4",
+          "translation": "P8/4",
+          "bbox": [0.8915, 0.0647, 0.0282, 0.0157]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.5338, 0.0985, 0.0034, 0.0085]
+        },
+        {
+          "text": "-",
+          "translation": "-",
+          "bbox": [0.535, 0.0973, 0.0021, 0.0187]
+        },
+        {
+          "text": "2 ゴーカイブルー : ったく、懲りないやつだ。",
+          "translation": "2 Gokai Blue: Good grief... he never learns.",
+          "bbox": [0.5329, 0.1264, 0.1628, 0.0115]
+        },
+        {
+          "text": "ゴーカイレッド 欲しいもんは全部この手で掴み取る。 ブゥン!ブゥン! (効果音)\nそれが海賊ってもんだろ。\n全員: ゴーカイチェンジ!\nブゥン! ブゥン! (効果音)",
+          "translation": "Gokai Red: I'll seize everything I want with my own hands. *Vroom! Vroom!* (Sound effects)\nThat's what being a pirate is all about.\nAll: Gokai Change!\n*Vroom! Vroom!* (Sound effects)",
+          "bbox": [0.5509, 0.0865, 0.2833, 0.0532]
+        },
+        {
+          "text": "ゴーカイレッド ゴーカイレッド!",
+          "translation": "Gokai Red! Gokai Red!",
+          "bbox": [0.8436, 0.0949, 0.1141, 0.0133]
+        },
+        {
+          "text": "3 ゴーカイイエロー: そうこなくっちゃ!",
+          "translation": "3 Gokai Yellow: Now you're talking!",
+          "bbox": [0.5329, 0.1469, 0.1483, 0.0139]
+        },
+        {
+          "text": "4 ゴーカイグリーン 大丈夫、 やれるよ。",
+          "translation": "4 Gokai Green: It's okay, you can do it.",
+          "bbox": [0.5321, 0.1705, 0.1504, 0.0115]
+        },
+        {
+          "text": "5 ゴーカイピンク: 承りました。",
+          "translation": "5 Gokai Pink: Understood.",
+          "bbox": [0.5329, 0.1911, 0.1205, 0.0127]
+        },
+        {
+          "text": "P7/1-1",
+          "translation": "P7/1-1",
+          "bbox": [0.162, 0.2237, 0.0419, 0.0157]
+        },
+        {
+          "text": "P7/1-②",
+          "translation": "P7/1-②",
+          "bbox": [0.3073, 0.2273, 0.0415, 0.0097]
+        },
+        {
+          "text": "P8 / 4",
+          "translation": "P8 / 4",
+          "bbox": [0.4197, 0.2225, 0.0295, 0.0157]
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.5329, 0.2249, 0.0064, 0.0085]
+        },
+        {
+          "text": "欲しいもんは全部この手で掴み取る。 ブゥン!ブゥン! (効果音)",
+          "translation": "I'll seize everything I want with my own hands. Vroom! Vroom! (Sound effects)",
+          "bbox": [0.1299, 0.2473, 0.2184, 0.0121]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.1132, 0.2582, 0.0038, 0.0085]
+        },
+        {
+          "text": "ゴーカイレッド",
+          "translation": "Gokai Red",
+          "bbox": [0.4004, 0.2557, 0.0496, 0.0109]
+        },
+        {
+          "text": "7",
+          "translation": "7",
+          "bbox": [0.5329, 0.2545, 0.0073, 0.0097]
+        },
+        {
+          "text": "ゴーカイブルー: ゴーカイブルー!\nゴーカイイエロー: ゴーカイイエロー!\nゴーカイグリーン: ゴーカイグリーン!\nゴーカイピンク ゴーカイピンク!\nゴーカイレッド 海賊戦隊!\n全員: ゴーカイジャー!\nゴーカイレッド派手にいくぜ!",
+          "translation": "Gokai Blue: Gokai Blue!\nGokai Yellow: Gokai Yellow!\nGokai Green: Gokai Green!\nGokai Pink: Gokai Pink!\nGokai Red: Pirate Sentai!\nAll: Gokaiger!\nGokai Red: Let's go wild!",
+          "bbox": [0.8427, 0.1264, 0.1252, 0.1378]
+        },
+        {
+          "text": "ゴーカイレッド",
+          "translation": "Gokai Red",
+          "bbox": [0.0363, 0.2678, 0.0611, 0.0133]
+        },
+        {
+          "text": "それが海賊ってもんだろ。",
+          "translation": "That's what being a pirate is all about.",
+          "bbox": [0.1303, 0.2654, 0.0872, 0.0115]
+        },
+        {
+          "text": "2 派手にいくぜ!",
+          "translation": "2 I'll go all out!",
+          "bbox": [0.1115, 0.2842, 0.0658, 0.0133]
+        },
+        {
+          "text": "ゴーカイレッド ゴーカイチェンジ!\nブゥン!ブゥン! (効果音)",
+          "translation": "Gokai Red, Gokai Change!\nVroom! Vroom! (Sound effects)",
+          "bbox": [0.2654, 0.2648, 0.1244, 0.0339]
+        },
+        {
+          "text": "派手にいくぜ!",
+          "translation": "I'll go all out!",
+          "bbox": [0.3996, 0.2854, 0.0483, 0.0121]
+        },
+        {
+          "text": "3 ド派手にいくぜ!",
+          "translation": "3 Let's go all out!",
+          "bbox": [0.112, 0.3071, 0.0714, 0.0127]
+        },
+        {
+          "text": "初回変身モード",
+          "translation": "Initial Transformation Mode",
+          "bbox": [0.6748, 0.3047, 0.1474, 0.0302]
+        },
+        {
+          "text": "P7/1-1",
+          "translation": "P7/1-1",
+          "bbox": [0.1628, 0.3307, 0.041, 0.0115]
+        },
+        {
+          "text": "P7/1-②",
+          "translation": "P7/1-②",
+          "bbox": [0.3073, 0.3301, 0.0419, 0.0121]
+        },
+        {
+          "text": "P8 / 4",
+          "translation": "P8 / 4",
+          "bbox": [0.4201, 0.3289, 0.0274, 0.0139]
+        },
+        {
+          "text": "20",
+          "translation": "20",
+          "bbox": [0.9538, 0.318, 0.0132, 0.0345]
+        },
+        {
+          "text": "ブゥン!ブゥン! (効果音)",
+          "translation": "Vroom! Vroom! (Sound effect)",
+          "bbox": [0.2654, 0.3513, 0.0825, 0.0145]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.1128, 0.3628, 0.0038, 0.0079]
+        },
+        {
+          "text": "ったく、懲りないやつだ。",
+          "translation": "Honestly, he never learns.",
+          "bbox": [0.1299, 0.3628, 0.0808, 0.0103]
+        },
+        {
+          "text": "ゴーカイブルー",
+          "translation": "Gokai Blue",
+          "bbox": [0.4004, 0.3603, 0.0526, 0.0115]
+        },
+        {
+          "text": "ゴーカイブルー",
+          "translation": "Gokai Blue",
+          "bbox": [0.0346, 0.3724, 0.0637, 0.0133]
+        },
+        {
+          "text": "2 行くぞ!",
+          "translation": "2 Let's go!",
+          "bbox": [0.112, 0.3936, 0.0432, 0.0091]
+        },
+        {
+          "text": "ゴーカイブルー: ゴーカイチェンジ!\nブゥン! ブゥン! (効果音)",
+          "translation": "Gokai Blue: Gokai Change!\nVroom! Vroom! (Sound effects)",
+          "bbox": [0.2654, 0.3688, 0.1222, 0.0363]
+        },
+        {
+          "text": "P9/",
+          "translation": "P9/",
+          "bbox": [0.656, 0.3706, 0.0175, 0.0097]
+        },
+        {
+          "text": "P9/4",
+          "translation": "P9/4",
+          "bbox": [0.8795, 0.3664, 0.0274, 0.0139]
+        },
+        {
+          "text": "派手に行かせてもらう。",
+          "translation": "I'll go all out.",
+          "bbox": [0.3996, 0.3912, 0.0709, 0.0115]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.5338, 0.3954, 0.0038, 0.0085]
+        },
+        {
+          "text": "ゴーカイイエロー: うっさいバーカ!",
+          "translation": "Gokai Yellow: Shut up, you idiot!",
+          "bbox": [0.5513, 0.3948, 0.1274, 0.0115]
+        },
+        {
+          "text": "3 派手に行かせてもらう。",
+          "translation": "3 I'm going to do this in a big way.",
+          "bbox": [0.112, 0.4129, 0.097, 0.0139]
+        },
+        {
+          "text": "2 ゴーカイブルー 消えるのはお前だ。",
+          "translation": "2 Gokai Blue: You're the one who's going to disappear.",
+          "bbox": [0.5325, 0.4196, 0.1509, 0.0133]
+        },
+        {
+          "text": "ゴーカイレッド: ゴーカイレッド!\nゴーカイブルー: ゴーカイブルー!",
+          "translation": "Gokai Red: Gokai Red!\nGokai Blue: Gokai Blue!",
+          "bbox": [0.8201, 0.3948, 0.1235, 0.0369]
+        },
+        {
+          "text": "P7/1-1",
+          "translation": "P7/1-1",
+          "bbox": [0.1624, 0.4359, 0.0406, 0.0121]
+        },
+        {
+          "text": "P7/1-②",
+          "translation": "P7/1-②",
+          "bbox": [0.3073, 0.4359, 0.041, 0.0115]
+        },
+        {
+          "text": "P8/4",
+          "translation": "P8/4",
+          "bbox": [0.4192, 0.4335, 0.0286, 0.0163]
+        },
+        {
+          "text": "3 ゴーカイピンク あなたたちの言う事を聞く耳などありません。",
+          "translation": "3 Gokai Pink: I have no intention of listening to what you have to say.",
+          "bbox": [0.5329, 0.4462, 0.2432, 0.0115]
+        },
+        {
+          "text": "ブゥン! ブゥン! (効果音)",
+          "translation": "Vroom! Vroom! (Sound effect)",
+          "bbox": [0.2654, 0.4565, 0.0829, 0.0139]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.1128, 0.468, 0.0038, 0.0085]
+        },
+        {
+          "text": "そうこなくっちゃ!",
+          "translation": "That's more like it!",
+          "bbox": [0.1303, 0.468, 0.0581, 0.0103]
+        },
+        {
+          "text": "ゴーカイイエロー",
+          "translation": "Gokai Yellow",
+          "bbox": [0.0312, 0.4776, 0.0705, 0.0133]
+        },
+        {
+          "text": "2 うっさいバーカ!",
+          "translation": "2 Shut up, you moron!",
+          "bbox": [0.112, 0.4982, 0.0718, 0.0103]
+        },
+        {
+          "text": "ゴーカイイエロー: ゴーカイチェンジ!\nブゥン!ブゥン! (効果音)",
+          "translation": "Gokai Yellow: Gokai Change!\nVroom! Vroom! (Sound effects)",
+          "bbox": [0.2654, 0.4746, 0.1222, 0.0333]
+        },
+        {
+          "text": "ゴーカイイエロー\n派手にいくよ!",
+          "translation": "Gokai Yellow\nI'm going all out!",
+          "bbox": [0.3996, 0.4655, 0.0611, 0.0411]
+        },
+        {
+          "text": "4 ゴーカイグリーン: 僕も、 お前らみたいなのは大っきらいだ!",
+          "translation": "4 Gokai Green: I hate guys like you, too!",
+          "bbox": [0.5321, 0.4716, 0.2308, 0.0115]
+        },
+        {
+          "text": "3 派手にいくよ!",
+          "translation": "3 I'm going all out!",
+          "bbox": [0.112, 0.5175, 0.0662, 0.0133]
+        },
+        {
+          "text": "ブゥン! ブゥン! (効果音)",
+          "translation": "Vroom! Vroom! (Sound effect)",
+          "bbox": [0.5513, 0.5242, 0.0829, 0.0121]
+        },
+        {
+          "text": "ゴーカイイエロー: ゴーカイイエロー!",
+          "translation": "Gokai Yellow: Gokai Yellow!",
+          "bbox": [0.8201, 0.4462, 0.1376, 0.0115]
+        },
+        {
+          "text": "ゴーカイグリーン: ゴーカイグリーン!",
+          "translation": "Gokai Green: Gokai Green!",
+          "bbox": [0.8201, 0.471, 0.135, 0.0127]
+        },
+        {
+          "text": "5 ゴーカイレッド: 気に入らねぇもんはぶっ潰す。 それが海賊ってもんだろ? ゴーカイピンク ゴーカイピンク!",
+          "translation": "5 Gokai Red: Anything I don't like, I smash to bits. That's what being a pirate is all about, right? Gokai Pink! Gokai Pink!",
+          "bbox": [0.5329, 0.4976, 0.4068, 0.0115]
+        },
+        {
+          "text": "ゴーカイレッド 海賊戦隊!",
+          "translation": "Gokai Red, Pirate Sentai!",
+          "bbox": [0.8201, 0.523, 0.0953, 0.0121]
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.5329, 0.5333, 0.0073, 0.0097]
+        },
+        {
+          "text": "P7/",
+          "translation": "P7/",
+          "bbox": [0.1624, 0.5411, 0.0188, 0.0115]
+        },
+        {
+          "text": "P7/ -2",
+          "translation": "P7/ -2",
+          "bbox": [0.3068, 0.5417, 0.0393, 0.0103]
+        },
+        {
+          "text": "P8/4",
+          "translation": "P8/4",
+          "bbox": [0.4197, 0.5387, 0.0282, 0.0157]
+        },
+        {
+          "text": "全員: ゴーカイチェンジ!",
+          "translation": "All: Gokai Change!",
+          "bbox": [0.5509, 0.5387, 0.0885, 0.0115]
+        },
+        {
+          "text": "全員: ゴーカイジャー!",
+          "translation": "All: Gokaiger!",
+          "bbox": [0.8197, 0.5405, 0.0821, 0.0115]
+        },
+        {
+          "text": "ブゥン! ブゥン! (効果音)",
+          "translation": "Vroom! Vroom! (Sound effect)",
+          "bbox": [0.2654, 0.5623, 0.0825, 0.0121]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.1128, 0.5726, 0.0043, 0.0085]
+        },
+        {
+          "text": "大丈夫、やれるよ。",
+          "translation": "It's okay, you can do it.",
+          "bbox": [0.1299, 0.5726, 0.0615, 0.0109]
+        },
+        {
+          "text": "ゴーカイグリーン",
+          "translation": "Gokai Green",
+          "bbox": [0.4004, 0.5707, 0.0594, 0.0103]
+        },
+        {
+          "text": "7 ブゥン! ブゥン! (効果音)",
+          "translation": "7Vroom! Vroom! (Sound effects)",
+          "bbox": [0.5325, 0.5665, 0.1017, 0.0163]
+        },
+        {
+          "text": "ゴーカイグリーン",
+          "translation": "Gokai Green",
+          "bbox": [0.0325, 0.5877, 0.0688, 0.0133]
+        },
+        {
+          "text": "2 どーんと行くよ!",
+          "translation": "2 Here we go—full steam ahead!",
+          "bbox": [0.112, 0.6016, 0.0722, 0.0127]
+        },
+        {
+          "text": "ゴーカイグリーンゴーカイチェンジ!\nブゥン! ブゥン! (効果音)",
+          "translation": "Gokai Green, Gokai Change!\nVroom! Vroom! (Sound effects)",
+          "bbox": [0.265, 0.5792, 0.1239, 0.0351]
+        },
+        {
+          "text": "どーんと行くよ!",
+          "translation": "I'll go all out!",
+          "bbox": [0.4, 0.601, 0.0547, 0.0109]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.112, 0.633, 0.0077, 0.0091]
+        },
+        {
+          "text": "僕も、お前らみたいなのは\n大っきらいだ!",
+          "translation": "I hate people like you, too!",
+          "bbox": [0.1299, 0.6245, 0.0885, 0.0266]
+        },
+        {
+          "text": "P7/1-1",
+          "translation": "P7/1-1",
+          "bbox": [0.1628, 0.6614, 0.0415, 0.0133]
+        },
+        {
+          "text": "P7/1-2",
+          "translation": "P7/1-2",
+          "bbox": [0.3064, 0.6614, 0.0419, 0.0145]
+        },
+        {
+          "text": "P8/4",
+          "translation": "P8/4",
+          "bbox": [0.4197, 0.659, 0.0291, 0.0163]
+        },
+        {
+          "text": "ゴーカイレッド 派手にいくぜ!",
+          "translation": "Gokai Red: Let's go wild!",
+          "bbox": [0.8201, 0.5671, 0.1098, 0.0115]
+        },
+        {
+          "text": "fa Conte",
+          "translation": "fa Conte",
+          "bbox": [0.8427, 0.6137, 0.0774, 0.0562]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.1128, 0.6947, 0.0038, 0.0079]
+        },
+        {
+          "text": "承りました。",
+          "translation": "Understood.",
+          "bbox": [0.1299, 0.6947, 0.0393, 0.0103]
+        },
+        {
+          "text": "ブゥン!ブゥン! (効果音)\nゴーカイピンクゴーカイチェンジ!",
+          "translation": "Vroom! Vroom! (Sound effects)\nGokai Pink, Gokai Change!",
+          "bbox": [0.2654, 0.6838, 0.1179, 0.0296]
+        },
+        {
+          "text": "ゴーカイピンク",
+          "translation": "Gokai Pink",
+          "bbox": [0.4004, 0.6923, 0.0517, 0.0115]
+        },
+        {
+          "text": "ゴーカイピンク",
+          "translation": "Gokai Pink",
+          "bbox": [0.0346, 0.7092, 0.0628, 0.0127]
+        },
+        {
+          "text": "2 派手に参りましょう!",
+          "translation": "2 Let's go all out!",
+          "bbox": [0.112, 0.7243, 0.0842, 0.0115]
+        },
+        {
+          "text": "ブゥン!ブゥン!(効果音)",
+          "translation": "Vroom! Vroom! (Sound effect)",
+          "bbox": [0.2654, 0.7219, 0.0829, 0.0145]
+        },
+        {
+          "text": "あなたたちの言う事を",
+          "translation": "what you say",
+          "bbox": [0.1303, 0.7467, 0.0756, 0.0109]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.112, 0.7545, 0.0077, 0.0097]
+        },
+        {
+          "text": "聞く耳などありません。",
+          "translation": "I have no intention of listening to what you say.",
+          "bbox": [0.1303, 0.763, 0.0778, 0.0121]
+        },
+        {
+          "text": "RE",
+          "translation": "RE",
+          "bbox": [0.1769, 0.8216, 0.0731, 0.0351]
+        },
+        {
+          "text": "派手に参りましょう!",
+          "translation": "Let's make it flashy!",
+          "bbox": [0.3996, 0.7231, 0.0667, 0.0109]
+        },
+        {
+          "text": "YA",
+          "translation": "YA",
+          "bbox": [0.5355, 0.7267, 0.0658, 0.0496]
+        },
+        {
+          "text": "Omag\nParimayo Rio",
+          "translation": "Omag\nParimayo Rio",
+          "bbox": [0.5786, 0.8017, 0.1244, 0.0901]
+        },
+        {
+          "text": "CE",
+          "translation": "CE",
+          "bbox": [0.5803, 0.8652, 0.0265, 0.02]
+        },
+        {
+          "text": "Haraco",
+          "translation": "Haraco",
+          "bbox": [0.6299, 0.9063, 0.0551, 0.02]
+        },
+        {
+          "text": "12",
+          "translation": "12",
+          "bbox": [0.9799, 0.9758, 0.0094, 0.0097]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-7.webp",
+      "blocks": [
+        {
+          "text": "最終回変身モード",
+          "translation": "Final Episode Transformation Mode",
+          "bbox": [0.1645, 0.0496, 0.1675, 0.0296]
+        },
+        {
+          "text": "MAR",
+          "translation": "MAR",
+          "bbox": [0.7868, 0.0363, 0.1504, 0.055]
+        },
+        {
+          "text": "P9/",
+          "translation": "P9/",
+          "bbox": [0.1632, 0.1143, 0.0184, 0.0109]
+        },
+        {
+          "text": "1 ゴーカイレッド てめぇは俺たちに勝てねぇよ。",
+          "translation": "1 Gokai Red: You can't beat us.",
+          "bbox": [0.0333, 0.1391, 0.1821, 0.0121]
+        },
+        {
+          "text": "2 ゴーカイブルー : この星を狙ったのが間違いだったんだ!",
+          "translation": "2 Gokai Blue: Targeting this planet was a mistake!",
+          "bbox": [0.0321, 0.1644, 0.2205, 0.0121]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.0321, 0.2007, 0.0073, 0.0091]
+        },
+        {
+          "text": "ゴーカイイエロー: この星にはね、 あたしたち海賊でも手を出せない、\n大きな力があったのよ!",
+          "translation": "Gokai Yellow: On this planet, there was a great power that even we pirates couldn't lay a hand on!",
+          "bbox": [0.0509, 0.1892, 0.2479, 0.0302]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.0316, 0.2346, 0.0085, 0.0091]
+        },
+        {
+          "text": "LO",
+          "translation": "LO",
+          "bbox": [0.0329, 0.2678, 0.0056, 0.0115]
+        },
+        {
+          "text": "P9/4",
+          "translation": "P9/4",
+          "bbox": [0.3863, 0.1119, 0.0282, 0.0145]
+        },
+        {
+          "text": "ゴーカイレッド ゴーカイレッド!\nゴーカイブルー: ゴーカイブルー!",
+          "translation": "Gokai Red: Gokai Red!\nGokai Blue: Gokai Blue!",
+          "bbox": [0.3342, 0.1391, 0.1231, 0.0375]
+        },
+        {
+          "text": "ゴーカイイエロー: ゴーカイイエロー!",
+          "translation": "Gokai Yellow: Gokai Yellow!",
+          "bbox": [0.3342, 0.1989, 0.1342, 0.0115]
+        },
+        {
+          "text": "ゴーカイグリーン: お前には見えないだろうけど、 僕たちは6人だけじゃない!ゴーカイグリーン: ゴーカイグリーン!\nゴーカイピンク わたくしたちの後ろには、",
+          "translation": "Gokai Green: You probably can't see them, but we're not just the six of us! Gokai Green: Gokai Green!\nGokai Pink: Behind us,",
+          "bbox": [0.0509, 0.2334, 0.4171, 0.0369]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.0325, 0.2696, 0.0068, 0.0097]
+        },
+        {
+          "text": "この星を守り続けてきた人たちがいます!",
+          "translation": "There are people who have continued to protect this planet!",
+          "bbox": [0.1141, 0.2763, 0.1466, 0.0109]
+        },
+        {
+          "text": "6 ゴーカイシルバー: 34のスーパー戦隊がいるんだ!その力、 今見せてやる!",
+          "translation": "6 Gokai Silver: There are 34 Super Sentai teams! I'll show you that power now!",
+          "bbox": [0.0325, 0.3011, 0.2842, 0.0121]
+        },
+        {
+          "text": "7 ゴーカイレッド 俺たちは35番目のスーパー戦隊だが、 海賊だからな!",
+          "translation": "7 Gokai Red: We may be the 35th Super Sentai, but we're pirates, after all!",
+          "bbox": [0.0321, 0.3368, 0.2675, 0.0115]
+        },
+        {
+          "text": "8 ゴーカイシルバー: お前みたいな気に入らない奴は",
+          "translation": "8 Gokai Silver: Someone I don't like, like you—",
+          "bbox": [0.0321, 0.3803, 0.2038, 0.0115]
+        },
+        {
+          "text": "ゴーカイピンク ゴーカイピンク!",
+          "translation": "Gokai Pink: Gokai Pink!",
+          "bbox": [0.3342, 0.2678, 0.1205, 0.0109]
+        },
+        {
+          "text": "ゴーカイシルバー: ゴーカイシルバー!",
+          "translation": "Gokai Silver: Gokai Silver!",
+          "bbox": [0.3342, 0.3029, 0.1346, 0.0115]
+        },
+        {
+          "text": "ゴーカイレッド 海賊戦隊!\n全員: ゴーカイジャー!",
+          "translation": "Gokai Red: Pirate Sentai!\nAll: Gokaiger!",
+          "bbox": [0.3338, 0.3283, 0.0957, 0.029]
+        },
+        {
+          "text": "ゴーカイレッド : 最後だからなあ。",
+          "translation": "Gokai Red: It's the last time, you know.",
+          "bbox": [0.3346, 0.3718, 0.1175, 0.0121]
+        },
+        {
+          "text": "ド派手にいくぜ!",
+          "translation": "Let's go out with a big show!",
+          "bbox": [0.3957, 0.3888, 0.0564, 0.0121]
+        },
+        {
+          "text": "Aroke inf\nFlank",
+          "translation": "Aroke inf\nFlank",
+          "bbox": [0.8188, 0.2213, 0.1124, 0.0538]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.0321, 0.4141, 0.0073, 0.0097]
+        },
+        {
+          "text": "全員 力の限りぶっ潰す!",
+          "translation": "All: We'll crush them with everything we've got!",
+          "bbox": [0.0504, 0.4129, 0.0893, 0.0115]
+        },
+        {
+          "text": "|10",
+          "translation": "|10",
+          "bbox": [0.0269, 0.4474, 0.0171, 0.0121]
+        },
+        {
+          "text": "ブゥン! ブゥン! (効果音)",
+          "translation": "Vroom! Vroom! (Sound effect)",
+          "bbox": [0.0504, 0.4407, 0.0829, 0.0145]
+        },
+        {
+          "text": "全員: ゴーカイチェンジ!",
+          "translation": "All: Gokai Change!",
+          "bbox": [0.05, 0.4565, 0.0885, 0.0115]
+        },
+        {
+          "text": "11 ブゥン!ブゥン! (効果音)",
+          "translation": "11Vroom! Vroom! (Sound effect)",
+          "bbox": [0.0299, 0.4825, 0.103, 0.0127]
+        },
+        {
+          "text": "ナレーション",
+          "translation": "Narration",
+          "bbox": [0.1872, 0.5502, 0.1252, 0.0242]
+        },
+        {
+          "text": "ナレーション: 冒険とロマンを求めて、宇宙の大海原を行く若者達がいた。",
+          "translation": "Narration: There were young people who journeyed across the vast ocean of space in search of adventure and romance.",
+          "bbox": [0.0513, 0.6106, 0.2632, 0.0115]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.0338, 0.6197, 0.0043, 0.0085]
+        },
+        {
+          "text": "宇宙帝国 「ザンギャック」に反旗を翻し、 海賊の汚名を誇りとして名乗る豪快なヤツら。 その名は!",
+          "translation": "They raised a rebellion against the Space Empire \"Zangyack\" and, proudly bearing the shame of being pirates, are a bold bunch. Their name is...",
+          "bbox": [0.1038, 0.6276, 0.3368, 0.0115]
+        },
+        {
+          "text": "ゴーカイレッド 海賊戦隊!",
+          "translation": "Gokai Red: Pirate Sentai!",
+          "bbox": [0.0509, 0.653, 0.0962, 0.0115]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.0321, 0.6632, 0.0077, 0.0085]
+        },
+        {
+          "text": "全員: ゴーカイジャー!",
+          "translation": "All: Gokaiger!",
+          "bbox": [0.0509, 0.6693, 0.0808, 0.0121]
+        },
+        {
+          "text": "ナレーション: 地球の平和と、人々の笑顔を守り続けてきた34のスーパー戦隊。",
+          "translation": "Narration: Thirty-four Super Sentai teams that have continued to protect Earth's peace and the smiles of the people.",
+          "bbox": [0.0509, 0.6971, 0.285, 0.0109]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.0329, 0.7068, 0.0068, 0.0091]
+        },
+        {
+          "text": "宇宙帝国 「ザンギャック」 との戦いで失われたその力を受け継いだのは、 とんでもないヤツらだった!",
+          "translation": "Those who inherited the power lost in the battle with the Space Empire \"Zangyack\" were a most outrageous bunch!",
+          "bbox": [0.1038, 0.7134, 0.3504, 0.0121]
+        },
+        {
+          "text": "ゴーカイレッド 海賊戦隊!",
+          "translation": "Gokai Red: Pirate Sentai!",
+          "bbox": [0.0513, 0.7388, 0.0953, 0.0115]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.0325, 0.7503, 0.0081, 0.0097]
+        },
+        {
+          "text": "全員: ゴーカイジャー!",
+          "translation": "All: Gokaiger!",
+          "bbox": [0.0509, 0.7557, 0.0821, 0.0115]
+        },
+        {
+          "text": "通話セリフ",
+          "translation": "Call lines",
+          "bbox": [0.1966, 0.821, 0.1043, 0.029]
+        },
+        {
+          "text": "13",
+          "translation": "13",
+          "bbox": [0.0103, 0.9752, 0.0094, 0.0103]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.0338, 0.8857, 0.0043, 0.0085]
+        },
+        {
+          "text": "ナビィ デンジャー! デンジャー! デンジャラス!みんなに危険が迫っている!",
+          "translation": "Navi: Danger! Danger! Dangerous! Danger is approaching everyone!",
+          "bbox": [0.0509, 0.8857, 0.2611, 0.0109]
+        },
+        {
+          "text": "2 : なんか凄い銀色の男を探すべし。",
+          "translation": "2: We should search for some incredible silver-colored man.",
+          "bbox": [0.0312, 0.9117, 0.1675, 0.0109]
+        },
+        {
+          "text": "3 ゴーカイシルバー: あっ皆さん!ちょっと、 どこ行ってたんですか? 俺ずっと心配したんですからぁ。",
+          "translation": "3 Gokai Silver: Oh, everyone! Hey, where have you been? I was worried the whole time!",
+          "bbox": [0.0325, 0.9365, 0.3628, 0.0121]
+        },
+        {
+          "text": "VA",
+          "translation": "VA",
+          "bbox": [0.5376, 0.7267, 0.0645, 0.0478]
+        },
+        {
+          "text": "Omag\nParimayo Rio",
+          "translation": "Omag\nParimayo Rio",
+          "bbox": [0.5786, 0.8017, 0.1244, 0.0901]
+        },
+        {
+          "text": "CE",
+          "translation": "CE",
+          "bbox": [0.5803, 0.8664, 0.0256, 0.02]
+        },
+        {
+          "text": "Mavaco",
+          "translation": "Mavaco",
+          "bbox": [0.6282, 0.9057, 0.056, 0.02]
+        },
+        {
+          "text": "Antillas In",
+          "translation": "Antillas In",
+          "bbox": [0.7607, 0.5218, 0.1453, 0.0333]
+        },
+        {
+          "text": "dad",
+          "translation": "dad",
+          "bbox": [0.7838, 0.6004, 0.0282, 0.023]
+        },
+        {
+          "text": "Ja Conte",
+          "translation": "Ja Conte",
+          "bbox": [0.8453, 0.6167, 0.0765, 0.049]
+        }
+      ]
+    }
+  ]
+}

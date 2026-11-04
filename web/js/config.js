@@ -6,16 +6,10 @@ export const BBOX_DEFAULTS = {
   HEIGHT_RATIO: 0.1 // 10% of page height
 };
 
-export const BBOX_CONSTRAINTS = {
-  MIN_WIDTH: 10, // Minimum bbox width in pixels
-  MIN_HEIGHT: 10, // Minimum bbox height in pixels
-  MIN_X: 0, // Minimum x coordinate
-  MIN_Y: 0 // Minimum y coordinate
-};
-
 export const UI_TIMINGS = {
   SCROLL_DETECT_THRESHOLD: 100, // pixels from top to detect current page
   SCROLL_THROTTLE: 150, // ms between scroll event processing
+  EDIT_DEBOUNCE: 150, // ms before a numeric bbox edit is committed
   FORK_WAIT_TIME: 2000 // ms to wait for GitHub fork to initialize
 };
 

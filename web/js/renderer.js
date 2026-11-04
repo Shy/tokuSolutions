@@ -1,8 +1,50 @@
 // DOM rendering module
-import { state, DOM } from './state.js';
-import { sanitizeText } from './utils.js';
-import { ImageLoader } from './image-loader.js';
-import { ErrorHandler } from './errors.js';
+import { state, DOM, EditSession } from './state.js?v=14';
+import { ImageLoader } from './image-loader.js?v=14';
+import { ErrorHandler } from './errors.js?v=14';
+import { validateManualDocument } from './manual-data.js?v=14';
+import { fitRenderedManual } from './text-fit-dom.js?v=14';
+import { buildCatalogView } from './catalog-view.js?v=14';
+import { formatPageIndicator } from './reader-controls.js?v=14';
+import { reduceViewerState } from './viewer-state.js?v=14';
+
+let pendingFitFrame = null;
+const RESIZE_HANDLES = ['n', 's', 'e', 'w', 'ne', 'nw', 'se', 'sw'];
+
+export function attachResizeHandles(overlay) {
+  if (!overlay || overlay.querySelector('.resize-handle')) return;
+  for (const handle of RESIZE_HANDLES) {
+    const resizeHandle = document.createElement('span');
+    resizeHandle.className = `resize-handle resize-handle--${handle}`;
+    resizeHandle.dataset.handle = handle;
+    resizeHandle.setAttribute('aria-hidden', 'true');
+    overlay.appendChild(resizeHandle);
+  }
+}
+
+export function scheduleManualFit() {
+  if (!state.currentManual || !DOM.pagePanel) return;
+
+  state.fitGeneration += 1;
+  const generation = state.fitGeneration;
+  if (pendingFitFrame !== null) {
+    cancelAnimationFrame(pendingFitFrame);
+  }
+
+  pendingFitFrame = requestAnimationFrame(async () => {
+    pendingFitFrame = null;
+    const results = await fitRenderedManual({
+      root: DOM.pagePanel,
+      manual: state.currentManual,
+      generation,
+      isCurrentGeneration: (candidate) => candidate === state.fitGeneration,
+      readerScale: state.reader.scale
+    });
+    if (generation === state.fitGeneration) {
+      state.fitResults = results;
+    }
+  });
+}
 
 // Render manual list
 export function renderManualList(filteredManuals) {
@@ -10,99 +52,114 @@ export function renderManualList(filteredManuals) {
   const statsDisplay = document.getElementById('statsDisplay');
   const noResults = document.getElementById('noResults');
 
-  grid.innerHTML = '';
+  grid.replaceChildren();
+  const view = buildCatalogView(filteredManuals, state.tagsData?.tags);
 
-  if (filteredManuals.length === 0) {
+  if (view.status === 'empty') {
     grid.classList.add('hidden');
     noResults.classList.remove('hidden');
-    statsDisplay.textContent = '0 manuals';
+    statsDisplay.textContent = view.countLabel;
     return;
   }
 
   grid.classList.remove('hidden');
   noResults.classList.add('hidden');
 
-  filteredManuals.forEach((manual) => {
-    const card = document.createElement('div');
+  view.cards.forEach((manual) => {
+    const card = document.createElement('article');
     card.className = 'card';
+    card.tabIndex = 0;
+    card.setAttribute('role', 'link');
+    card.setAttribute('aria-label', `Open ${manual.title}`);
 
-    const displayName = manual.name.replace(/-/g, ' ');
+    const artwork = document.createElement('div');
+    artwork.className = 'card-artwork';
+    const image = document.createElement('img');
+    image.src = manual.thumbnail;
+    image.alt = manual.title;
+    image.className = 'thumbnail';
+    image.loading = 'lazy';
+    artwork.appendChild(image);
 
-    // Get tags for this manual
-    const manualTags = manual.tags || [];
-    const tagsHTML = manualTags
-      .map((tagId) => {
-        const tag = state.tagsData?.tags[tagId];
-        if (!tag) return '';
-        return `<span class="tag" style="background-color: ${tag.color}">${tag.label}</span>`;
-      })
-      .join('');
+    const content = document.createElement('div');
+    content.className = 'card-content';
+    const title = document.createElement('h2');
+    title.className = 'card-title';
+    title.textContent = manual.title;
+    content.appendChild(title);
 
-    const sourceLink = manual.source_url
-      ? `<a href="${manual.source_url}" target="_blank" onclick="event.stopPropagation()">📄 Original</a>`
-      : '';
-
-    const blogLink = manual.blog_url
-      ? `<a href="${manual.blog_url}" target="_blank" onclick="event.stopPropagation()">🔧 Tech Blog</a>`
-      : '';
-
-    const linksHTML = [sourceLink, blogLink].filter(Boolean).join(' ');
-
-    card.innerHTML = `
-            <div class="card-link">
-                <img src="../manuals/${sanitizeText(manual.thumbnail)}" alt="${sanitizeText(displayName)}" class="thumbnail" loading="lazy">
-                <div class="card-content">
-                    <div class="card-title">${sanitizeText(displayName)}</div>
-                    ${tagsHTML ? `<div class="card-tags">${tagsHTML}</div>` : ''}
-                    <div class="card-meta">
-                        <span class="badge">${manual.pages} pages</span>
-                        <span class="badge">${manual.blocks} blocks</span>
-                    </div>
-                    ${linksHTML ? `<div class="card-actions">${linksHTML}</div>` : ''}
-                </div>
-            </div>
-        `;
-
-    card.addEventListener('click', (e) => {
-      if (!e.target.closest('a')) {
-        // Import navigate dynamically to avoid circular dependency
-        import('./navigation.js').then(({ navigate }) => {
-          navigate('viewer', manual.name);
-        });
+    if (manual.tags.length > 0) {
+      const tagList = document.createElement('div');
+      tagList.className = 'card-tags';
+      for (const tag of manual.tags) {
+        const label = document.createElement('span');
+        label.className = 'tag';
+        const marker = document.createElement('span');
+        marker.className = 'tag-marker';
+        marker.style.backgroundColor = tag.markerColor;
+        label.append(marker, document.createTextNode(tag.label));
+        tagList.appendChild(label);
       }
+      content.appendChild(tagList);
+    }
+
+    const meta = document.createElement('div');
+    meta.className = 'card-meta';
+    meta.textContent = `${manual.pageCount} pages · ${manual.blockCount} corrected blocks`;
+    content.appendChild(meta);
+
+    if (manual.originalUrl) {
+      const original = document.createElement('a');
+      original.href = manual.originalUrl;
+      original.target = '_blank';
+      original.rel = 'noreferrer';
+      original.className = 'card-original';
+      original.textContent = 'Original PDF ↗';
+      content.appendChild(original);
+    }
+
+    card.append(artwork, content);
+    const openManual = () => {
+      import('./navigation.js?v=14').then(({ navigate }) => {
+        navigate('viewer', manual.manualName);
+      });
+    };
+    card.addEventListener('click', (event) => {
+      if (!event.target.closest('a')) openManual();
+    });
+    card.addEventListener('keydown', (event) => {
+      if (event.key === 'Enter' && !event.target.closest('a')) openManual();
     });
 
     grid.appendChild(card);
   });
 
-  statsDisplay.textContent = `${filteredManuals.length} manual${filteredManuals.length !== 1 ? 's' : ''}`;
+  statsDisplay.textContent = view.countLabel;
 }
 
 // Render tag filters
 export function renderTagFilters() {
   if (!state.tagsData) return;
 
-  const searchSection = document.querySelector('.search-section');
-  const tagFilters = document.createElement('div');
-  tagFilters.className = 'tag-filters';
-  tagFilters.id = 'tagFilters';
+  const tagFilters = document.getElementById('tagFilters');
+  tagFilters.replaceChildren();
 
   Object.entries(state.tagsData.tags).forEach(([tagId, tag]) => {
     const tagButton = document.createElement('button');
     tagButton.className = 'tag-filter';
-    tagButton.textContent = tag.label;
+    const marker = document.createElement('span');
+    marker.className = 'tag-marker';
+    marker.style.backgroundColor = /^#[0-9a-f]{6}$/i.test(tag.color) ? tag.color : '#98a2b3';
+    tagButton.append(marker, document.createTextNode(tag.label));
     tagButton.dataset.tagId = tagId; // Store tag ID on button
-    tagButton.style.setProperty('--tag-color', tag.color);
     tagButton.onclick = () => {
       // Import toggleTagFilter dynamically
-      import('./navigation.js').then(({ toggleTagFilter }) => {
+      import('./navigation.js?v=14').then(({ toggleTagFilter }) => {
         toggleTagFilter(tagId);
       });
     };
     tagFilters.appendChild(tagButton);
   });
-
-  searchSection.appendChild(tagFilters);
 }
 
 // Render pages
@@ -135,6 +192,7 @@ export function renderPages(manualName, renderToken) {
     img.alt = `Page ${pageIdx + 1}`;
     img.onload = function () {
       renderOverlays(pageDiv, page, pageIdx);
+      scheduleManualFit();
     };
 
     // Setup lazy loading
@@ -152,6 +210,10 @@ export function renderPages(manualName, renderToken) {
   });
 
   pagePanel.appendChild(fragment);
+  state.viewer = reduceViewerState(state.viewer, { type: 'set-current-page', page: 0 });
+  DOM.pageIndicator.textContent = formatPageIndicator(0, state.currentManual.pages.length);
+  DOM.pageJumpInput.value = '1';
+  DOM.pageJumpInput.max = String(state.currentManual.pages.length);
 }
 
 // Render overlays
@@ -161,9 +223,15 @@ export function renderOverlays(pageDiv, page, pageIdx) {
   page.blocks.forEach((block, blockIdx) => {
     const overlay = document.createElement('div');
     overlay.className = 'overlay';
-    overlay.textContent = state.showTranslations ? block.translation : block.text;
+    overlay.textContent = block.translation;
     overlay.dataset.pageId = pageIdx;
     overlay.dataset.blockId = blockIdx;
+    const selected =
+      state.viewer.selectedBlock?.pageIndex === pageIdx &&
+      state.viewer.selectedBlock?.blockIndex === blockIdx;
+    if (selected) {
+      overlay.classList.add('is-selected');
+    }
 
     // bbox is [x, y, w, h] normalized (0-1), convert to percentage
     overlay.style.left = block.bbox[0] * 100 + '%';
@@ -171,9 +239,11 @@ export function renderOverlays(pageDiv, page, pageIdx) {
     overlay.style.width = block.bbox[2] * 100 + '%';
     overlay.style.height = block.bbox[3] * 100 + '%';
 
-    if (!state.showOverlays) {
+    if (!state.viewer.correctedTextVisible) {
       overlay.style.display = 'none';
     }
+
+    if (selected) attachResizeHandles(overlay);
 
     fragment.appendChild(overlay);
   });
@@ -194,7 +264,7 @@ export function renderTextList() {
       item.dataset.pageId = pageIdx;
       item.dataset.blockId = blockIdx;
 
-      // Create header with original text and delete button
+      // Drawer rows locate a block; editing lives in the contextual inspector.
       const header = document.createElement('div');
       header.className = 'text-item-header';
 
@@ -202,95 +272,19 @@ export function renderTextList() {
       original.className = 'text-original';
       original.textContent = block.text;
 
-      const deleteBtn = document.createElement('button');
-      deleteBtn.className = 'delete-btn hidden';
-      deleteBtn.innerHTML = '<i class="fas fa-trash"></i>';
-      deleteBtn.title = 'Delete this text block';
-      deleteBtn.onclick = (e) => {
-        e.stopPropagation();
-        if (confirm('Delete this text block? This will remove it from the manual.')) {
-          import('./editor.js').then(({ deleteTextBlock }) => {
-            deleteTextBlock(pageIdx, blockIdx);
-          });
-        }
-      };
-
       header.appendChild(original);
-      header.appendChild(deleteBtn);
 
       const translation = document.createElement('div');
       translation.className = 'text-translation';
       translation.textContent = block.translation;
-      if (!state.showTranslations) {
-        translation.style.display = 'none';
-      }
-
-      // Add inline bbox editor
-      const bboxEditor = createBboxEditor(block, pageIdx, blockIdx);
-
       item.appendChild(header);
       item.appendChild(translation);
-      item.appendChild(bboxEditor);
-
-      // Event listeners - now handled in app.js for direct editing
 
       fragment.appendChild(item);
     });
   });
 
   DOM.textList.appendChild(fragment);
-}
-
-// Create bbox editor
-function createBboxEditor(block, pageIdx, blockIdx) {
-  const bboxEditor = document.createElement('div');
-  bboxEditor.className = 'bbox-editor hidden';
-  bboxEditor.innerHTML = `
-        <div class="bbox-editor-grid">
-            <div class="bbox-field">
-                <label>X</label>
-                <input type="number" class="bbox-x" step="0.01" min="0" max="1" value="${block.bbox[0].toFixed(2)}">
-            </div>
-            <div class="bbox-field">
-                <label>Y</label>
-                <input type="number" class="bbox-y" step="0.01" min="0" max="1" value="${block.bbox[1].toFixed(2)}">
-            </div>
-            <div class="bbox-field">
-                <label>Width</label>
-                <input type="number" class="bbox-w" step="0.01" min="0" max="1" value="${block.bbox[2].toFixed(2)}">
-            </div>
-            <div class="bbox-field">
-                <label>Height</label>
-                <input type="number" class="bbox-h" step="0.01" min="0" max="1" value="${block.bbox[3].toFixed(2)}">
-            </div>
-        </div>
-    `;
-
-  // Import editor functions dynamically
-  bboxEditor.querySelectorAll('input').forEach((input) => {
-    input.addEventListener('focus', (e) => {
-      e.stopPropagation();
-      import('./editor.js').then(({ openBboxEditor }) => {
-        openBboxEditor(pageIdx, blockIdx, bboxEditor);
-      });
-    });
-
-    input.addEventListener('input', (e) => {
-      e.stopPropagation();
-      import('./editor.js').then(({ updateBboxLiveDebounced }) => {
-        updateBboxLiveDebounced(pageIdx, blockIdx, bboxEditor);
-      });
-    });
-  });
-
-  bboxEditor.addEventListener('click', (e) => {
-    e.stopPropagation();
-    import('./editor.js').then(({ openBboxEditor }) => {
-      openBboxEditor(pageIdx, blockIdx, bboxEditor);
-    });
-  });
-
-  return bboxEditor;
 }
 
 // Highlight block
@@ -321,8 +315,7 @@ export async function loadManual(manualName) {
   state.currentManualName = manualName;
 
   // Reset edit state
-  state.editedBlocks.clear();
-  state.lastEdit = null;
+  EditSession.clear();
   hideEditButtons();
 
   try {
@@ -338,11 +331,11 @@ export async function loadManual(manualName) {
       return;
     }
 
-    if (!data.meta || !Array.isArray(data.pages)) {
-      throw new Error('Invalid translations.json structure - missing meta or pages');
-    }
+    validateManualDocument(data);
 
     state.currentManual = data;
+    state.sourceManual = structuredClone(data);
+    state.pendingDraft = state.draftStore?.load(manualName, state.sourceManual) ?? null;
 
     const displayName = state.currentManual.meta.manual_name || state.currentManual.meta.source;
     document.title = displayName;
@@ -351,58 +344,19 @@ export async function loadManual(manualName) {
     const sourceLink = document.getElementById('sourceLink');
     if (state.currentManual.meta.source_url) {
       sourceLink.href = state.currentManual.meta.source_url;
-      sourceLink.style.display = 'inline-flex';
+      sourceLink.classList.remove('hidden');
     } else {
-      sourceLink.style.display = 'none';
-    }
-
-    // Setup blog dropdown
-    const blogDropdown = document.getElementById('blogDropdown');
-    const blogMenu = blogDropdown.querySelector('.dropdown-menu');
-    const blogToggle = blogDropdown.querySelector('.dropdown-toggle');
-
-    // Get blog links (prefer blog_links array, fallback to single blog_url)
-    const blogLinks =
-      state.currentManual.meta.blog_links ||
-      (state.currentManual.meta.blog_url
-        ? [
-            {
-              title: 'Tech Blog',
-              url: state.currentManual.meta.blog_url,
-              translated_url: state.currentManual.meta.blog_url
-            }
-          ]
-        : []);
-
-    if (blogLinks.length > 0) {
-      // Populate dropdown menu
-      blogMenu.innerHTML = blogLinks
-        .map((link) => `<a href="${link.translated_url}" target="_blank">${link.title}</a>`)
-        .join('');
-
-      // Show dropdown
-      blogDropdown.style.display = 'inline-block';
-
-      // Toggle dropdown on click
-      blogToggle.onclick = (e) => {
-        e.stopPropagation();
-        blogDropdown.classList.toggle('open');
-      };
-
-      // Close dropdown when clicking outside
-      document.addEventListener('click', () => {
-        blogDropdown.classList.remove('open');
-      });
-    } else {
-      blogDropdown.style.display = 'none';
+      sourceLink.classList.add('hidden');
     }
 
     renderPages(manualName, renderToken);
     renderTextList();
   } catch (err) {
     ErrorHandler.network(err, `../manuals/${manualName}/translations.json`);
-    document.getElementById('pagePanel').innerHTML =
-      `<p style="padding: 2rem; color: red;">Failed to load: ${err.message}</p>`;
+    const failure = document.createElement('p');
+    failure.className = 'viewer-error';
+    failure.textContent = `Failed to load: ${err.message}`;
+    document.getElementById('pagePanel').replaceChildren(failure);
   }
 }
 

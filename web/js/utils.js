@@ -22,13 +22,6 @@ export function throttle(func, wait) {
   };
 }
 
-// Sanitize text to prevent XSS
-export function sanitizeText(text) {
-  const div = document.createElement('div');
-  div.textContent = text;
-  return div.innerHTML;
-}
-
 // Validate bbox format
 export function validateBbox(bbox) {
   if (!Array.isArray(bbox) || bbox.length !== 4) {

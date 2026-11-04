@@ -14,13 +14,15 @@ wheels/
 *.json
 !package.json
 !package-lock.json
+!uv.lock
 !manuals/**/translations.json
 !web/meta.json
 !web/tags.json
-!vitest.config.json
+!glossary.json
+glossary.lock
 
 # PDFs (input files)
-pdfs/*.pdf
+pdfs/*.[pP][dD][fF]
 
 # OS
 .DS_Store
@@ -35,3 +37,7 @@ credentials/*
 # Node modules and test artifacts
 node_modules/
 coverage/
+
+# Isolated translation benchmark images, snapshots, and model outputs
+benchmark-runs/
+.venv-quality/

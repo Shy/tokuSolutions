@@ -1,32 +1,36 @@
 """OCR workflow - Extract text from PDF using Document AI."""
 
 import asyncio
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from datetime import timedelta
 
 from temporalio import workflow
 from temporalio.common import RetryPolicy
 
 with workflow.unsafe.imports_passed_through():
-    from src.activities import (
+    from src.activities.ocr import (
         PageOCRResult,
         get_pdf_page_count_activity,
         ocr_page_activity,
-        search_product_url_activity,
     )
+    from src.activities.product_search import search_product_url_activity
+    from src.activities.translation import OCRBlock
 
 
 @dataclass
 class OCRInput:
     """Input for OCR workflow."""
+
     pdf_path: str
     manual_name: str
+    product_url: str = ""
 
 
 @dataclass
 class OCROutput:
     """Output from OCR workflow."""
-    blocks: list[dict]  # All OCR'd text blocks
+
+    blocks: list[OCRBlock]  # All OCR'd text blocks
     page_count: int
     product_url: str
     product_name: str
@@ -34,6 +38,7 @@ class OCROutput:
     blog_url: str
     success: bool
     error: str | None = None
+    failed_pages: list[int] = field(default_factory=list)
 
 
 # Retry policies
@@ -68,26 +73,22 @@ class OCRWorkflow:
 
         # Step 1: Search for product URL
         workflow.logger.info("[Product Search] Searching Tokullectibles...")
-        search_result = await workflow.execute_activity(
-            search_product_url_activity,
-            input.manual_name,
-            start_to_close_timeout=timedelta(seconds=30),
-            retry_policy=API_RETRY,
-        )
-
-        product_url = ""
-        product_name = ""
+        product_url = input.product_url
+        product_name = input.manual_name
         product_description = ""
         blog_url = ""
-
-        if search_result.get("success"):
-            product_url = search_result["url"]
-            product_name = search_result["name"]
-            product_description = search_result.get("description", "")
-            blog_url = search_result.get("blog_url", "")
-            workflow.logger.info(f"Found: {product_name}")
-        else:
-            workflow.logger.warning(f"Product not found: {input.manual_name}")
+        if not product_url:
+            search_result = await workflow.execute_activity(
+                search_product_url_activity,
+                input.manual_name,
+                start_to_close_timeout=timedelta(seconds=30),
+                retry_policy=API_RETRY,
+            )
+            if search_result.get("success"):
+                product_url = search_result["url"]
+                product_name = search_result["name"]
+                product_description = search_result.get("description", "")
+                blog_url = search_result.get("blog_url", "")
 
         # Step 2: Get page count
         workflow.logger.info("[PDF Analysis] Getting page count...")
@@ -107,7 +108,7 @@ class OCRWorkflow:
             task = workflow.execute_activity(
                 ocr_page_activity,
                 args=[input.pdf_path, page_num],
-                start_to_close_timeout=timedelta(minutes=2),
+                start_to_close_timeout=timedelta(minutes=10),
                 retry_policy=API_RETRY,
             )
             ocr_tasks.append(task)
@@ -116,20 +117,22 @@ class OCRWorkflow:
         page_results: list[PageOCRResult] = await asyncio.gather(*ocr_tasks)
 
         # Collect blocks
-        all_blocks = []
+        all_blocks: list[OCRBlock] = []
         failed_pages = []
         for result in page_results:
             if result.success:
                 # Convert TextBlock dataclasses to dicts
                 for block in result.blocks:
-                    all_blocks.append({
-                        "text": block.text,
-                        "page": block.page,
-                        "x": block.x,
-                        "y": block.y,
-                        "width": block.width,
-                        "height": block.height,
-                    })
+                    all_blocks.append(
+                        {
+                            "text": block.text,
+                            "page": block.page,
+                            "x": block.x,
+                            "y": block.y,
+                            "width": block.width,
+                            "height": block.height,
+                        }
+                    )
             else:
                 failed_pages.append(result.page_num)
 
@@ -138,7 +141,7 @@ class OCRWorkflow:
 
         workflow.logger.info(f"[OCR] Complete: {len(all_blocks)} blocks")
 
-        if not all_blocks:
+        if failed_pages or not all_blocks:
             return OCROutput(
                 blocks=[],
                 page_count=page_count,
@@ -147,7 +150,10 @@ class OCRWorkflow:
                 product_description=product_description,
                 blog_url=blog_url,
                 success=False,
-                error="No text blocks found",
+                error=f"Failed OCR pages: {[page + 1 for page in failed_pages]}"
+                if failed_pages
+                else "No text blocks found",
+                failed_pages=failed_pages,
             )
 
         return OCROutput(

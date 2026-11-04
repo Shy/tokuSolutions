@@ -1,17 +1,21 @@
-# Credentials
+# Google credentials
 
-Google Cloud service account credentials for Document AI and Translation API.
+The translation worker needs a Google Cloud service account permitted to use
+Document AI and Cloud Translation in the configured project.
 
-## Setup
+1. Enable Document AI and Cloud Translation and create an OCR processor in the
+   region you will use.
+2. Create/download the service-account JSON key and save it here as
+   `service-account.json`.
+3. Copy the root `.env.example` to `.env`. Set `ProjectID`, `ProcessorID`, and
+   `Location` to the matching project, processor and Document AI region.
+4. Set `CREDENTIALS_PATH=credentials/service-account.json` and run commands from
+   the repository root. An absolute credential path also works.
 
-1. Create a service account in Google Cloud Console
-2. Enable Document AI and Translation API
-3. Download the JSON key file
-4. Save as `service-account.json` in this directory
-5. Update `.env` with: `CREDENTIALS_PATH=credentials/service-account.json`
+Translation LLM requests use `us-central1`; the Document AI `Location` setting
+must match the OCR processor. OpenAI research/cleanup uses the separate optional
+`OPENAI_API_KEY`, not this Google key.
 
-## Security
-
-- All files in this directory are git-ignored except this README
-- Never commit credential files
-- Rotate credentials regularly
+Only this README is allowed through the credentials-directory Git ignore rule.
+Keep the key and `.env` local. Website builds, unit tests and GitHub Pages do not
+need production credentials.

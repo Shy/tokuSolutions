@@ -1,0 +1,3306 @@
+{
+  "meta": {
+    "manual_name": "Memorial Gaburevolver",
+    "source": "Memorial Gaburevolver.pdf",
+    "source_lang": "ja",
+    "target_lang": "en",
+    "source_url": "",
+    "blog_url": "",
+    "pages": 25,
+    "blocks": 633,
+    "thumbnail": "pages/page-0.webp",
+    "tags": ["dx", "kamen-rider", "memorial", "sentai"]
+  },
+  "pages": [
+    {
+      "image": "pages/page-0.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0369, 0.0392, 0.165, 0.0181]
+        },
+        {
+          "text": "©東映",
+          "translation": "©Toei",
+          "bbox": [0.2991, 0.0726, 0.0314, 0.0088]
+        },
+        {
+          "text": "ガブリボルバー",
+          "translation": "Gaburevolver",
+          "bbox": [0.2737, 0.1378, 0.3341, 0.0378]
+        },
+        {
+          "text": "-MEMORIAL EDITION- の遊び方",
+          "translation": "How to Play the -MEMORIAL EDITION-",
+          "bbox": [0.1523, 0.18, 0.6822, 0.0363]
+        },
+        {
+          "text": "セット内容",
+          "translation": "Set Contents",
+          "bbox": [0.1082, 0.2898, 0.1142, 0.0186]
+        },
+        {
+          "text": "獣電池(ガブティラ)･･･1",
+          "translation": "Beast Battery (Gabutyra) ... 1",
+          "bbox": [0.6906, 0.3119, 0.206, 0.0172]
+        },
+        {
+          "text": "獣電池(ステゴッチ)···1",
+          "translation": "Beast Battery (Stegotchi) ... 1",
+          "bbox": [0.6906, 0.3948, 0.2066, 0.0181]
+        },
+        {
+          "text": "獣電池(ドリケラ)･･･1",
+          "translation": "Beast Battery (Dricera) ... 1",
+          "bbox": [0.6906, 0.4831, 0.1837, 0.0157]
+        },
+        {
+          "text": "ガブリボルバー -MEMORIAL EDITION-･･1",
+          "translation": "Gaburevolver -MEMORIAL EDITION- ... 1",
+          "bbox": [0.0912, 0.5086, 0.4181, 0.0152]
+        },
+        {
+          "text": "※WEB取扱説明書内の画像はイメージです。",
+          "translation": "※The images in the WEB Instruction Manual are for illustrative purposes only.",
+          "bbox": [0.0725, 0.5547, 0.3323, 0.0142]
+        },
+        {
+          "text": "△ 注意 お買い上げのお客様へ 必ずお読みください。\n●本商品の対象年齢は15才以上です。 対象年齢未満のお子様には絶対に与えないでください。 電池 (別売り)、 電池ぶた、 ねじなどの誤飲\n事故に注意してください。 尖った部分や鋭い部分がありますので、取扱いや保管場所に注意してください。思わぬケガをする恐れがあります。\n●耳の近くで使用してはいけません。 誤って使用すると、 聴覚を損なう恐れがあります。 本商品には電子部品を使用しております。 ペース\nメーカーをご使用の方は、 本商品を身体に近づけないように注意してください。 ●LEDの光の点滅を見続けないでください。 気分が悪くなったりする\n恐れがあります。●付属の獣電池は玩具です。思わぬ事故につながる恐れがあるので、他の用途には使用しないでください。 《電池を誤使用すると\n発熱・破裂 液漏れの恐れがあります。 下記に注意してください》 二次電池 (充電式電池) は、絶対に使用しないでください。 ●古い電池と新しい\n電池、いろいろな種類の電池をまぜて使わないでください。 十一 (プラスマイナス) を正しくセットしてください。 ●遊んだ後は必ずスイッチを切り\n電池をはずしてください。 電池を入れたままにしておくと、液漏れの恐れがあり危険です。ショートさせたり充電、分解、加熱、火の中に入れたり\nしないでください。●万一、電池から漏れた液が目に入ったときはすぐに大量の水で洗い、医師に相談してください。 皮膚や服に付いた時は水で\n洗ってください。●廃棄するときは、自治体の廃棄物処理の指示に従ってください。",
+          "translation": "△ Caution To customers who purchased this product: Be sure to read this Instruction Manual.\n● This product is for Ages 15+. Do not give it to children under the indicated age. Be careful to prevent accidental ingestion of batteries (sold separately), the battery cover, screws, etc. There are pointed and sharp parts, so take care when handling and storing. Unexpected injury may occur.\n● Do not use near the ear. Improper use may damage hearing. This product contains electronic components. If you use a pacemaker, keep this product away from your body.\n● Do not stare at the flashing LED light; this may cause discomfort or other symptoms.\n● The included Beast Battery is a toy. Do not use it for any purpose other than its intended toy use, as this may lead to unexpected accidents.\n<<Improper use of batteries may cause overheating, rupture, or leakage. Observe the following:>>\nDo not use secondary batteries (rechargeable batteries). ● Do not mix old and new batteries or different types of batteries. Insert batteries with the correct polarity (+ and -).\n● After playing, always turn the switch off and remove the batteries. Leaving batteries installed may cause leakage and is dangerous. Do not short-circuit, charge, disassemble, heat, or place batteries into fire.\n● If battery fluid gets into the eyes, rinse immediately with plenty of water and consult a doctor. If it gets on the skin or clothing, wash with water.\n● When disposing, follow your local municipality's waste disposal instructions.",
+          "bbox": [0.0876, 0.6126, 0.8242, 0.1849]
+        },
+        {
+          "text": "<使用上の注意>●本商品は精密に作られています。無理な力を加えたり、落としたりすると破損する恐れがあります。 本商品は精密な電子部品で\n構成されています。落としたり、水にぬらしたり、汚したり、分解したりしないでください。 また、高温・低温になるところでの使用、保管は避けてください。\n●プラスチック梱包材は、 開封後はすぐに捨ててください。 本商品には塗装部分がありますので、保管の際には他のもの (樹脂製品や家具、\nソファー)と接触しないようにしてください。 色が移る場合があります。 ●可動部分・取付部分を無理な方向に強く引っ張ったり、 曲げたりしないでくだ\nさい。発音の一部にイントネーションが違っていたり、 商品の特性上聞き取りにくいものがありますが、ご了承ください。 ●ガブリボルバー\n-MEMORIAL EDITION-には、対応している獣電池以外はセットしないでください。故障や破損の原因となります。 ●付属の獣電池は、 対応して\nいる商品以外にはセットしないでください。故障や破損の原因となります。",
+          "translation": "<Precautions for Use> ● This product is precision-made. Applying excessive force or dropping it may cause damage. This product contains precision electronic parts; do not drop it, get it wet, soil it, or disassemble it. Also avoid using or storing it in places of extremely high or low temperature.\n● Dispose of plastic packing material immediately after opening. Because this product has painted surfaces, avoid contact with other items (resin products, furniture, sofas) during storage to prevent color transfer.\n● Do not forcibly pull or bend movable parts or attachment points in unnatural directions. Some vocal sounds may have different intonation or be hard to hear due to the product's characteristics; please understand this.\n● Do not insert anything other than compatible Beast Batteries into the Gaburevolver -MEMORIAL EDITION-. Doing so may cause malfunction or damage.\n● Do not insert the included Beast Battery into products other than those it is compatible with; doing so may cause malfunction or damage.",
+          "bbox": [0.0804, 0.8176, 0.8387, 0.1089]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.4924, 0.9642, 0.0115, 0.0128]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-1.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "Online Instruction Manual",
+          "bbox": [0.0369, 0.0373, 0.1662, 0.0182]
+        },
+        {
+          "text": "各部名称",
+          "translation": "Names of Parts",
+          "bbox": [0.1921, 0.1319, 0.1142, 0.0256]
+        },
+        {
+          "text": "ガブリボルバー",
+          "translation": "Gaburevolver",
+          "bbox": [0.1758, 0.2097, 0.1456, 0.0172]
+        },
+        {
+          "text": "-MEMORIAL EDITION-",
+          "translation": "-MEMORIAL EDITION-",
+          "bbox": [0.116, 0.233, 0.2514, 0.0135]
+        },
+        {
+          "text": "【左側面】",
+          "translation": "[Left Side]",
+          "bbox": [0.1021, 0.2801, 0.0586, 0.0121]
+        },
+        {
+          "text": "LED シリンダー レバー",
+          "translation": "LED Cylinder Lever",
+          "bbox": [0.2248, 0.2684, 0.197, 0.021]
+        },
+        {
+          "text": "LED",
+          "translation": "LED",
+          "bbox": [0.7118, 0.2707, 0.0381, 0.0103]
+        },
+        {
+          "text": "【右側面】",
+          "translation": "[Right Side]",
+          "bbox": [0.8381, 0.2805, 0.0568, 0.0116]
+        },
+        {
+          "text": "レール",
+          "translation": "Rail",
+          "bbox": [0.0785, 0.3966, 0.052, 0.0103]
+        },
+        {
+          "text": "トリガー",
+          "translation": "Trigger",
+          "bbox": [0.3245, 0.4171, 0.0586, 0.0121]
+        },
+        {
+          "text": "合体ロック解除ボタン",
+          "translation": "Combination Lock Release Button",
+          "bbox": [0.1589, 0.431, 0.1631, 0.0121]
+        },
+        {
+          "text": "【正面】 ※口が開いた状態です。",
+          "translation": "[Front View] *Shown with the mouth open.",
+          "bbox": [0.1897, 0.5089, 0.229, 0.0149]
+        },
+        {
+          "text": "【背面】",
+          "translation": "[Back]",
+          "bbox": [0.5722, 0.5116, 0.0435, 0.0107]
+        },
+        {
+          "text": "上側の装填口",
+          "translation": "Upper Loading Port",
+          "bbox": [0.1027, 0.5913, 0.1003, 0.0135]
+        },
+        {
+          "text": "下側の装填口",
+          "translation": "Lower Loading Port",
+          "bbox": [0.1033, 0.6351, 0.0997, 0.014]
+        },
+        {
+          "text": "ロ",
+          "translation": "Ro",
+          "bbox": [0.4248, 0.6058, 0.0163, 0.0112]
+        },
+        {
+          "text": "獣電池",
+          "translation": "Beast Battery",
+          "bbox": [0.2012, 0.7978, 0.0719, 0.0158]
+        },
+        {
+          "text": "ボタン プレート",
+          "translation": "Button Plate",
+          "bbox": [0.3994, 0.8057, 0.1444, 0.014]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.4888, 0.9692, 0.0205, 0.0121]
+        },
+        {
+          "text": "合体ロック解除ボタン",
+          "translation": "Combination Lock Release Button",
+          "bbox": [0.6695, 0.4306, 0.1625, 0.013]
+        },
+        {
+          "text": "セリフボタン",
+          "translation": "Speech Button",
+          "bbox": [0.7921, 0.6151, 0.0955, 0.0126]
+        },
+        {
+          "text": "BGMボタン",
+          "translation": "BGM Button",
+          "bbox": [0.5644, 0.6258, 0.0937, 0.0121]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-2.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書 矢印一覧 ◆ 取り付けます。 |",
+          "translation": "WEB Instruction Manual — Arrow Guide ◆ Attach. |",
+          "bbox": [0.0375, 0.0333, 0.5366, 0.0175]
+        },
+        {
+          "text": "取り外します。 |",
+          "translation": "Remove. |",
+          "bbox": [0.6284, 0.0333, 0.1426, 0.0167]
+        },
+        {
+          "text": "可動させます。",
+          "translation": "Make movable.",
+          "bbox": [0.8193, 0.0342, 0.1287, 0.0145]
+        },
+        {
+          "text": "乾電池の入れ方",
+          "translation": "How to insert the batteries",
+          "bbox": [0.1619, 0.1244, 0.1843, 0.0184]
+        },
+        {
+          "text": "【右側面】",
+          "translation": "[Right Side]",
+          "bbox": [0.5208, 0.1616, 0.058, 0.0107]
+        },
+        {
+          "text": "※音が小さくなって聞き取りにくくなったり、\n音が止まるなどの誤動作をする場合や、",
+          "translation": "* If the sound becomes low and hard to hear, the sound stops, or other malfunctions occur,",
+          "bbox": [0.0912, 0.1749, 0.3752, 0.0342]
+        },
+        {
+          "text": "カバーパーツ",
+          "translation": "Cover part",
+          "bbox": [0.5208, 0.1864, 0.0918, 0.009]
+        },
+        {
+          "text": "LEDの発光が弱くなった場合は、\nすべて新しい電池に交換してください。",
+          "translation": "If the LED light becomes dim, replace all batteries with new ones.",
+          "bbox": [0.1088, 0.2159, 0.3323, 0.0333]
+        },
+        {
+          "text": "①カバーパーツを取り外します。\n②電池ぶたを取り外します。\n②-1 ガブリボルバー本体右側面の\n電池ぶたのネジを+または、\nドライバーで矢印の方向に回し、\n②-2 電池ぶたを矢印の方向に取り外します。",
+          "translation": "① Remove the cover part.\n② Remove the battery cover.\n②-1 Turn the battery-cover screw on the right side of the Gaburevolver main body in the direction of the arrow using a screwdriver.\n②-2 Remove the battery cover in the direction of the arrow.",
+          "bbox": [0.081, 0.2651, 0.3287, 0.1005]
+        },
+        {
+          "text": "③乾電池を入れます。\n単4乾電池3本(別売り) の + を\nそれぞれ間違えないように入れます。\n④電池ぶたを戻します。\n⑤カバーパーツを戻します。",
+          "translation": "③ Insert the batteries.\nInsert three AAA batteries (sold separately), making sure the + terminals are oriented correctly.\n④ Replace the battery cover.\n⑤ Replace the cover part.",
+          "bbox": [0.0804, 0.3715, 0.2761, 0.0829]
+        },
+        {
+          "text": "②-1",
+          "translation": "②-1",
+          "bbox": [0.3873, 0.3779, 0.0363, 0.0111]
+        },
+        {
+          "text": "②-2",
+          "translation": "②-2",
+          "bbox": [0.5909, 0.4015, 0.0369, 0.0103]
+        },
+        {
+          "text": "ネジ",
+          "translation": "Screw",
+          "bbox": [0.4423, 0.457, 0.029, 0.0081]
+        },
+        {
+          "text": "電池ぶた",
+          "translation": "Battery cover",
+          "bbox": [0.5106, 0.4694, 0.0604, 0.0094]
+        },
+        {
+          "text": "単4 x3",
+          "translation": "AAA x3",
+          "bbox": [0.8338, 0.1543, 0.0586, 0.0081]
+        },
+        {
+          "text": "単4乾電池3本使用(別売り)",
+          "translation": "Uses 3AAA batteries (sold separately)",
+          "bbox": [0.7813, 0.174, 0.1293, 0.0086]
+        },
+        {
+          "text": "●アルカリ電池専用",
+          "translation": "●For alkaline batteries only",
+          "bbox": [0.7782, 0.1958, 0.1329, 0.009]
+        },
+        {
+          "text": "<",
+          "translation": "<",
+          "bbox": [0.6991, 0.4164, 0.0205, 0.0162]
+        },
+        {
+          "text": "+",
+          "translation": "+",
+          "bbox": [0.864, 0.3814, 0.0181, 0.015]
+        },
+        {
+          "text": "①",
+          "translation": "①",
+          "bbox": [0.8767, 0.398, 0.0163, 0.0141]
+        },
+        {
+          "text": "電源の入れ方",
+          "translation": "How to turn on the power",
+          "bbox": [0.1764, 0.5413, 0.1583, 0.0171]
+        },
+        {
+          "text": "(キョウリュウジャーモード)\n※キャラクターのセリフが鳴るモードです。",
+          "translation": "(Kyoryuger Mode)\n*This mode plays character dialogue.",
+          "bbox": [0.0822, 0.5926, 0.313, 0.0406]
+        },
+        {
+          "text": "A 本体右側面の電源スイッチを (ON)にします。\n→起動音 <ガブリボルバー覚醒音 (約8秒)〉が鳴り、\n目のLEDが光り、\n(キョウリュウジャーモード)で起動します。\n※起動音の途中でトリガーを押すと、\n起動音をスキップできます。",
+          "translation": "A Set the power switch on the right side of the main unit to O (ON).\n→The startup sound <Gaburevolver Awakening Sound (approx. 8 seconds)> will play, the eye LEDs will light, and it will start in Kyoryuger Mode.\n*If you press the trigger while the startup sound is playing, you can skip the startup sound.",
+          "bbox": [0.1003, 0.6507, 0.3686, 0.0966]
+        },
+        {
+          "text": "(なりきりモード)",
+          "translation": "(Roleplay Mode)",
+          "bbox": [0.1492, 0.773, 0.1631, 0.0158]
+        },
+        {
+          "text": "※キャラクターのセリフが鳴らないモードです。",
+          "translation": "*This mode does not play character dialogue.",
+          "bbox": [0.0822, 0.8021, 0.3456, 0.0115]
+        },
+        {
+          "text": "⑥トリガーを押しながら、 本体右側面の",
+          "translation": "⑥ While holding the trigger, set the power switch on the right side of the main unit to O (ON).",
+          "bbox": [0.0991, 0.8264, 0.2798, 0.0115]
+        },
+        {
+          "text": "※カバーパーツを取り外した状態から始めます。",
+          "translation": "*Start with the cover parts removed.",
+          "bbox": [0.4671, 0.543, 0.4205, 0.0141]
+        },
+        {
+          "text": "【右側面】",
+          "translation": "[Right Side]",
+          "bbox": [0.4967, 0.5853, 0.0647, 0.0115]
+        },
+        {
+          "text": "電源スイッチ",
+          "translation": "Power switch",
+          "bbox": [0.6266, 0.7426, 0.0949, 0.0098]
+        },
+        {
+          "text": "OFF-",
+          "translation": "OFF-",
+          "bbox": [0.6169, 0.7884, 0.0435, 0.009]
+        },
+        {
+          "text": "突起",
+          "translation": "Protrusion",
+          "bbox": [0.8381, 0.782, 0.0326, 0.0107]
+        },
+        {
+          "text": "-ON",
+          "translation": "-ON",
+          "bbox": [0.8338, 0.8085, 0.0326, 0.0086]
+        },
+        {
+          "text": "電源スイッチをO (ON) にします。",
+          "translation": "Set the power switch to O (ON).",
+          "bbox": [0.1003, 0.844, 0.252, 0.0167]
+        },
+        {
+          "text": "目とリボルバーのLEDが光り、DX起動音 (約1秒) が鳴り、\nなりきりモード)で起動します。",
+          "translation": "The LEDs in the eyes and the revolver light up, the DX startup sound (approx. 1 second) plays, and it starts in Roleplay Mode.",
+          "bbox": [0.1184, 0.8658, 0.4199, 0.0291]
+        },
+        {
+          "text": "※獣電池を装填した状態で電源を入れると、 獣電池を装填していない状態として起動します。\n※起動時に挿入されていた獣電池を抜いても、取り外し音は鳴りません。",
+          "translation": "*If you turn on the power with a Beast Battery inserted, it will start as if no Beast Battery is inserted.\n*Removing a Beast Battery that was inserted at startup will not produce the removal sound.",
+          "bbox": [0.0828, 0.9098, 0.6755, 0.0286]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.4906, 0.9705, 0.0199, 0.012]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-3.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書 矢印一覧",
+          "translation": "WEB Instruction Manual: Arrow Guide",
+          "bbox": [0.0369, 0.0405, 0.3069, 0.0195]
+        },
+        {
+          "text": "■取り付けます。|",
+          "translation": "■ Attach.",
+          "bbox": [0.3921, 0.0395, 0.1849, 0.0185]
+        },
+        {
+          "text": "取り外します。 |",
+          "translation": "Remove.",
+          "bbox": [0.6278, 0.038, 0.1438, 0.02]
+        },
+        {
+          "text": "可動させます。",
+          "translation": "Make movable.",
+          "bbox": [0.8187, 0.04, 0.1299, 0.0165]
+        },
+        {
+          "text": "獣電池の遊び方",
+          "translation": "How to play with the Beast Battery",
+          "bbox": [0.1613, 0.145, 0.1867, 0.0225]
+        },
+        {
+          "text": "獣電池(ガブティラ)を例に説明します。",
+          "translation": "Using the Beast Battery (Gabutyra) as an example.",
+          "bbox": [0.4647, 0.1475, 0.3378, 0.016]
+        },
+        {
+          "text": "チャージ状態",
+          "translation": "Charge state",
+          "bbox": [0.4653, 0.1945, 0.1148, 0.018]
+        },
+        {
+          "text": "ボタン",
+          "translation": "Button",
+          "bbox": [0.7184, 0.194, 0.0495, 0.0125]
+        },
+        {
+          "text": "ボタンを押します",
+          "translation": "Press the button.",
+          "bbox": [0.1003, 0.208, 0.1275, 0.0125]
+        },
+        {
+          "text": "ボタンを押すたびにプレートが回転し、\nブレイブイン状態とチャージ状態が\n交互に切り替わります。",
+          "translation": "Each time the button is pressed, the plate rotates, alternating between Brave-In state and Charge state.",
+          "bbox": [0.116, 0.2265, 0.284, 0.053]
+        },
+        {
+          "text": "ブレイブイン状態",
+          "translation": "Brave-In state",
+          "bbox": [0.4399, 0.3345, 0.1547, 0.019]
+        },
+        {
+          "text": "モード切り替え",
+          "translation": "Mode switching",
+          "bbox": [0.1305, 0.486, 0.1782, 0.022]
+        },
+        {
+          "text": "※起動した直後は (キョウリュウジャーモード)状態です。\n※(なりきりモード)では行えません。",
+          "translation": "* Immediately after startup, the unit enters Kyoryuger Mode.\n* Cannot be done in Roleplay Mode.",
+          "bbox": [0.3915, 0.477, 0.4755, 0.039]
+        },
+        {
+          "text": "セリフボタンを長押しします。\n長押しするたびにモードが表の順番に切り替わります。",
+          "translation": "Press and hold the dialogue button.\nEach time you press and hold it, the mode switches in the order shown in the table.",
+          "bbox": [0.1003, 0.549, 0.4151, 0.0325]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.0979, 0.6065, 0.0387, 0.0145]
+        },
+        {
+          "text": "モード",
+          "translation": "Mode",
+          "bbox": [0.2338, 0.606, 0.0562, 0.0155]
+        },
+        {
+          "text": "セリフ",
+          "translation": "Dialogue",
+          "bbox": [0.4508, 0.607, 0.0556, 0.014]
+        },
+        {
+          "text": "起動時 キョウリュウジャーモード",
+          "translation": "At startup: Kyoryuger Mode",
+          "bbox": [0.0894, 0.6355, 0.258, 0.017]
+        },
+        {
+          "text": "「キョウリュウジャー!」",
+          "translation": "\"Kyoryuger!\"",
+          "bbox": [0.374, 0.6385, 0.1589, 0.0135]
+        },
+        {
+          "text": "1回目 キングモード",
+          "translation": "1st: King Mode",
+          "bbox": [0.0937, 0.6635, 0.1668, 0.0165]
+        },
+        {
+          "text": "「キョウリュウレッド!」",
+          "translation": "\"Kyoryu Red!\"",
+          "bbox": [0.374, 0.6655, 0.1547, 0.0145]
+        },
+        {
+          "text": "2回目 イアンモード",
+          "translation": "2nd: Ian Mode",
+          "bbox": [0.09, 0.6915, 0.1704, 0.017]
+        },
+        {
+          "text": "3回目 ノッさんモード",
+          "translation": "3rd: Nossan Mode",
+          "bbox": [0.0906, 0.719, 0.1831, 0.018]
+        },
+        {
+          "text": "4回目 ソウジモード",
+          "translation": "4th: Souji Mode",
+          "bbox": [0.0894, 0.747, 0.1698, 0.017]
+        },
+        {
+          "text": "5回目 アミィモード",
+          "translation": "5th: Amy Mode",
+          "bbox": [0.0906, 0.7745, 0.1674, 0.0175]
+        },
+        {
+          "text": "「キョウリュウブラック!」\n「キョウリュウブルー!」\n「キョウリュウグリーン!」\n「キョウリュウピンク!」",
+          "translation": "\"Kyoryu Black!\"\n\"Kyoryu Blue!\"\n\"Kyoryu Green!\"\n\"Kyoryu Pink!\"",
+          "bbox": [0.3734, 0.6935, 0.1758, 0.0965]
+        },
+        {
+          "text": "6回目 ラミレスモード",
+          "translation": "6th: Ramirez Mode",
+          "bbox": [0.0906, 0.8025, 0.1849, 0.017]
+        },
+        {
+          "text": "「キョウリュウシアン!」",
+          "translation": "\"Kyoryu Cyan!\"",
+          "bbox": [0.3734, 0.804, 0.1613, 0.015]
+        },
+        {
+          "text": "7回目 鉄砕モード",
+          "translation": "7th: Tetsusai Mode",
+          "bbox": [0.09, 0.83, 0.1559, 0.018]
+        },
+        {
+          "text": "「キョウリュウグレー!」",
+          "translation": "\"Kyoryu Gray!\"",
+          "bbox": [0.374, 0.8315, 0.1601, 0.015]
+        },
+        {
+          "text": "8回目 弥生モード",
+          "translation": "8th: Yayoi Mode",
+          "bbox": [0.0906, 0.858, 0.1559, 0.017]
+        },
+        {
+          "text": "「キョウリュウバイオレット!」",
+          "translation": "\"Kyoryu Violet!\"",
+          "bbox": [0.374, 0.86, 0.2042, 0.0145]
+        },
+        {
+          "text": "9回目 ドクター･ウルシェードモード 「キョウリュウバイオレット!」\n※9回目の後はキョウリュウジャーモードに戻ります。",
+          "translation": "9th: Doctor Ulshade Mode — \"Kyoryu Violet!\"\n* After the 9th time, it returns to Kyoryuger Mode.",
+          "bbox": [0.0828, 0.8865, 0.4949, 0.044]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.4882, 0.9655, 0.0205, 0.014]
+        },
+        {
+          "text": "セリフボタン",
+          "translation": "Dialogue button",
+          "bbox": [0.8211, 0.711, 0.0949, 0.0125]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-4.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書 矢印一覧 ■■■ 取り付けます。 |",
+          "translation": "WEB Instruction Manual  Arrow legend  ■■■ Attach. |",
+          "bbox": [0.0369, 0.0291, 0.5402, 0.0162]
+        },
+        {
+          "text": "取り外します。 |",
+          "translation": "Detach. |",
+          "bbox": [0.6284, 0.0294, 0.1444, 0.014]
+        },
+        {
+          "text": "可動させます。",
+          "translation": "Make movable.",
+          "bbox": [0.8187, 0.0302, 0.1293, 0.0128]
+        },
+        {
+          "text": "通常攻撃遊び",
+          "translation": "Normal Attack Play",
+          "bbox": [0.1752, 0.1098, 0.1607, 0.0155]
+        },
+        {
+          "text": "トリガーを短押しします。\n銃撃音が鳴ります。\n※3回に1回現在のモードの\nキャラクターのセリフが鳴ります。\n※ (なりきりモード)ではセリフは鳴りません。",
+          "translation": "Press the trigger briefly.\nA gunshot sound will play.\n* Every 3rd time, the character line for the current mode will play.\n* Lines do not play in (Role-play Mode).",
+          "bbox": [0.1009, 0.1562, 0.3293, 0.0698]
+        },
+        {
+          "text": "BGM遊び",
+          "translation": "BGM Play",
+          "bbox": [0.1946, 0.3528, 0.1257, 0.0147]
+        },
+        {
+          "text": "BGMボタンを短押しします。\n短押しするたびに表の順番にBGMが再生されます。\n※BGM再生中に再度BGMボタンを短押しすると、",
+          "translation": "Press the BGM button briefly.\nEach brief press will play the BGM in the order shown in the table.\n* If you briefly press the BGM button again while BGM is playing,",
+          "bbox": [0.1009, 0.3992, 0.4, 0.0392]
+        },
+        {
+          "text": "BGMが止まります。",
+          "translation": "BGM will stop.",
+          "bbox": [0.1172, 0.443, 0.148, 0.0098]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.0985, 0.4728, 0.0411, 0.0117]
+        },
+        {
+          "text": "BGM",
+          "translation": "BGM",
+          "bbox": [0.2338, 0.474, 0.0538, 0.0091]
+        },
+        {
+          "text": "①",
+          "translation": "①",
+          "bbox": [0.1076, 0.4951, 0.0248, 0.0109]
+        },
+        {
+          "text": "VAMORA! キョウリュウジャー」",
+          "translation": "VAMORA! Kyoryuger",
+          "bbox": [0.1625, 0.4966, 0.2399, 0.0098]
+        },
+        {
+          "text": "②",
+          "translation": "②",
+          "bbox": [0.1076, 0.5162, 0.0236, 0.0098]
+        },
+        {
+          "text": "「バモラムーチョ!①」",
+          "translation": "\"バモラムーチョ!①\"",
+          "bbox": [0.165, 0.5177, 0.1505, 0.0094]
+        },
+        {
+          "text": "③",
+          "translation": "③",
+          "bbox": [0.1082, 0.5374, 0.0224, 0.0098]
+        },
+        {
+          "text": "「バモラムーチョ!②」",
+          "translation": "\"バモラムーチョ!②\"",
+          "bbox": [0.1644, 0.5389, 0.1505, 0.0094]
+        },
+        {
+          "text": "④",
+          "translation": "④",
+          "bbox": [0.1082, 0.5592, 0.0211, 0.0094]
+        },
+        {
+          "text": "「バモラムーチョ! ③」",
+          "translation": "\"バモラムーチョ! ③\"",
+          "bbox": [0.1644, 0.5596, 0.1511, 0.0094]
+        },
+        {
+          "text": "15 「荒れるぜ、 止めてみな!①」",
+          "translation": "15 \"Things are gonna get wild—just try and stop me! (Part 1)\"",
+          "bbox": [0.1124, 0.5792, 0.2514, 0.0125]
+        },
+        {
+          "text": "6 「荒れるぜ、 止めてみな!②」",
+          "translation": "6 \"I'm going wild—just try and stop me! ②\"",
+          "bbox": [0.1148, 0.6015, 0.2483, 0.0098]
+        },
+        {
+          "text": "※ ⑥の後は①に戻ります。",
+          "translation": "* After ⑥, return to ①.",
+          "bbox": [0.0822, 0.6226, 0.1873, 0.0094]
+        },
+        {
+          "text": "セリフ遊び",
+          "translation": "Dialogue Play",
+          "bbox": [0.1927, 0.6732, 0.1299, 0.0147]
+        },
+        {
+          "text": "セリフボタンを短押しするたびにセリフが鳴ります。\n※詳しい内容はP.20~の\nセリフ一覧表をご確認ください。\n※ (なりきりモード)ではセリフは鳴りません。",
+          "translation": "Each time you press the Dialogue button briefly, a line will play.\n* For details, please check the list of lines on P.20~.\n* In (Role-play Mode) lines will not play.",
+          "bbox": [0.1003, 0.72, 0.3686, 0.0543]
+        },
+        {
+          "text": "トリガー",
+          "translation": "Trigger",
+          "bbox": [0.6441, 0.2547, 0.0592, 0.0091]
+        },
+        {
+          "text": "LO",
+          "translation": "LO",
+          "bbox": [0.4906, 0.9721, 0.0169, 0.0132]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.4906, 0.974, 0.0187, 0.0117]
+        },
+        {
+          "text": "-BGMボタン",
+          "translation": "BGM Button",
+          "bbox": [0.7305, 0.4879, 0.0979, 0.0094]
+        },
+        {
+          "text": "SU",
+          "translation": "SU",
+          "bbox": [0.6616, 0.7909, 0.0175, 0.0109]
+        },
+        {
+          "text": "セリフボタン",
+          "translation": "Dialogue button",
+          "bbox": [0.7378, 0.7936, 0.0943, 0.0094]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-5.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書 矢印一覧",
+          "translation": "WEB Instruction Manual — Arrow guide",
+          "bbox": [0.0375, 0.0251, 0.3083, 0.0122]
+        },
+        {
+          "text": "取り付けます。 |",
+          "translation": "Attach.",
+          "bbox": [0.4184, 0.0244, 0.1554, 0.0116]
+        },
+        {
+          "text": "取り外します。 |",
+          "translation": "Remove.",
+          "bbox": [0.6282, 0.0241, 0.1433, 0.0125]
+        },
+        {
+          "text": "可動させます。",
+          "translation": "Make movable.",
+          "bbox": [0.8198, 0.0251, 0.1288, 0.0107]
+        },
+        {
+          "text": "変身遊び",
+          "translation": "Transformation Play",
+          "bbox": [0.2019, 0.0905, 0.1076, 0.0135]
+        },
+        {
+          "text": "待機音設定の切り替え",
+          "translation": "Changing the standby sound setting",
+          "bbox": [0.0955, 0.1272, 0.1983, 0.0113]
+        },
+        {
+          "text": "セリフボタンとBGMボタンを同時押しします。\n→同時押しするたびにセリフが鳴り、\n待機音設定が表の順番に切り替わります。",
+          "translation": "Press the Dialogue button and the BGM button at the same time.\n→Each time you press them together, a line of dialogue will play and the standby sound setting will cycle through the order shown in the table.",
+          "bbox": [0.1004, 0.1557, 0.3331, 0.0329]
+        },
+        {
+          "text": "待機音設定",
+          "translation": "Standby sound setting",
+          "bbox": [0.211, 0.2043, 0.1004, 0.0097]
+        },
+        {
+          "text": "セリフボタン",
+          "translation": "Dialogue button",
+          "bbox": [0.763, 0.1883, 0.0955, 0.0069]
+        },
+        {
+          "text": "BGMボタン",
+          "translation": "BGM button",
+          "bbox": [0.5175, 0.1958, 0.0937, 0.0081]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.0979, 0.2036, 0.0405, 0.0103]
+        },
+        {
+          "text": "セリフ",
+          "translation": "Dialogue",
+          "bbox": [0.3936, 0.2052, 0.0562, 0.0081]
+        },
+        {
+          "text": "①",
+          "translation": "①",
+          "bbox": [0.1082, 0.2231, 0.023, 0.0088]
+        },
+        {
+          "text": "待機音設定:ループ",
+          "translation": "Standby sound setting: Loop",
+          "bbox": [0.1632, 0.2234, 0.1451, 0.0091]
+        },
+        {
+          "text": "「バモラ!」",
+          "translation": "\"Bamora!\"",
+          "bbox": [0.3742, 0.224, 0.0713, 0.0081]
+        },
+        {
+          "text": "②",
+          "translation": "②",
+          "bbox": [0.1088, 0.2409, 0.0193, 0.0078]
+        },
+        {
+          "text": "待機音設定: 1回",
+          "translation": "Standby sound setting: 1 time",
+          "bbox": [0.1632, 0.2419, 0.1245, 0.0081]
+        },
+        {
+          "text": "「ムーチョ!」",
+          "translation": "\"Mucho!\"",
+          "bbox": [0.3748, 0.2412, 0.084, 0.0088]
+        },
+        {
+          "text": "※②の後は ①に戻ります。\n※起動時は「待機音設定: 1回」です。",
+          "translation": "* After ② it returns to ①.\n* At startup the standby sound setting is: 1 time.",
+          "bbox": [0.0828, 0.2597, 0.263, 0.0204]
+        },
+        {
+          "text": "※下記の獣電池が対応しています。",
+          "translation": "* The following Zyudenchi are compatible.",
+          "bbox": [0.0961, 0.2998, 0.3065, 0.0097]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.7757, 0.3311, 0.0121, 0.0078]
+        },
+        {
+          "text": "ガブティラ",
+          "translation": "Gabutyra",
+          "bbox": [0.1499, 0.3518, 0.0774, 0.0085]
+        },
+        {
+          "text": "パラサガン",
+          "translation": "Parasagan",
+          "bbox": [0.3096, 0.3521, 0.0756, 0.0081]
+        },
+        {
+          "text": "ステゴッチ",
+          "translation": "Stegotchi",
+          "bbox": [0.4601, 0.3521, 0.0786, 0.0081]
+        },
+        {
+          "text": "ザクトル",
+          "translation": "Zactor",
+          "bbox": [0.6239, 0.3518, 0.0635, 0.0085]
+        },
+        {
+          "text": "ドリケラ",
+          "translation": "Doricera",
+          "bbox": [0.7817, 0.3521, 0.058, 0.0081]
+        },
+        {
+          "text": "(別売り)",
+          "translation": "(Sold separately)",
+          "bbox": [0.3132, 0.3647, 0.0623, 0.0081]
+        },
+        {
+          "text": "(別売り)",
+          "translation": "(Sold separately)",
+          "bbox": [0.6227, 0.364, 0.0635, 0.0091]
+        },
+        {
+          "text": "待機音設定: 1回の場合",
+          "translation": "If the standby sound setting is: 1 time",
+          "bbox": [0.0961, 0.3885, 0.2086, 0.01]
+        },
+        {
+          "text": "①トリガーを長押しします。",
+          "translation": "① Press and hold the trigger.",
+          "bbox": [0.0998, 0.4148, 0.1941, 0.0081]
+        },
+        {
+          "text": "→現在のモードに対応したセリフ",
+          "translation": "→ A line of dialogue corresponding to the current mode will play.",
+          "bbox": [0.1004, 0.427, 0.2437, 0.0081]
+        },
+        {
+          "text": "「ブレイブイン!」とブレイブイン音声が鳴ります。\n※ [なりきりモード]の場合はP.15をご覧ください。\n②獣電池のボタンを押します。\n→ブレイブイン状態に切り替わります。",
+          "translation": "\"Brave In!\" and the Brave In voice will play.\n* For Role-play Mode, see P.15.\n② Press the button on the Zyudenchi.\n→ The unit switches to Brave In state.",
+          "bbox": [0.0998, 0.4383, 0.3755, 0.0464]
+        },
+        {
+          "text": "③ガブリボルバーのレバーを下げます。",
+          "translation": "③ Lower the lever on the Gaburevolver.",
+          "bbox": [0.0998, 0.4875, 0.283, 0.0085]
+        },
+        {
+          "text": "①",
+          "translation": "①",
+          "bbox": [0.6983, 0.4518, 0.023, 0.0088]
+        },
+        {
+          "text": "口が開き、口開き音が鳴ります。\n④獣電池をガブリボルバーの\n下側の装填口に装填します。\n装填音が鳴ります。\n⑤手で口を閉じます。\n→LEDが発光し、セリフ「ガブリンチョ!」と\n装填した獣電池を読み上げ、\n現在のモードに対応した\nセリフ「キョウリュウチェンジ!」が鳴ります。\n※ラミレス、鉄斎モードのみ\nセリフ「スピリットレンジャー!」が鳴ります。\n⑥シリンダーを回転させます。\n→LEDが発光し、 回転音と\n変身待機音が1回鳴り、現在のモードに\n対応したセリフ「ファイヤー!」が鳴ります。\n⑦トリガーを短押しします。\n変身音が鳴ります。",
+          "translation": "The mouth opens and a mouth-opening sound plays.\n④ Insert the Zyudenchi into the loading port on the underside of the Gaburevolver.\n→ A loading sound will play.\n⑤ Close the mouth by hand.\n→ The LED will light, the line \"Gaburincho!\" will play, the inserted Zyudenchi will be read aloud, and the mode-specific line \"Kyoryu Change!\" will play.\n※ In Ramirez and Tessai modes only, the line \"Spirit Ranger!\" will play.\n⑥ Rotate the cylinder.\n→ The LED will light, a rotation sound and the transformation standby sound will play once, and the mode-specific line \"Fire!\" will play.\n⑦ Press the trigger briefly.\n→ The transformation sound will play.",
+          "bbox": [0.0998, 0.5003, 0.3283, 0.203]
+        },
+        {
+          "text": "レバー",
+          "translation": "Lever",
+          "bbox": [0.7122, 0.6003, 0.0496, 0.0078]
+        },
+        {
+          "text": "(3",
+          "translation": "(3",
+          "bbox": [0.8531, 0.6153, 0.0103, 0.0056]
+        },
+        {
+          "text": "【別角度】",
+          "translation": "[Different angle]",
+          "bbox": [0.1306, 0.7353, 0.0617, 0.0091]
+        },
+        {
+          "text": "口",
+          "translation": "Mouth",
+          "bbox": [0.162, 0.8117, 0.0157, 0.0063]
+        },
+        {
+          "text": "※待機音設定:ループの場合は次ページに記載しています。",
+          "translation": "* Details for the standby sound setting: Loop are listed on the next page.",
+          "bbox": [0.0919, 0.9305, 0.4299, 0.0088]
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.4909, 0.9781, 0.0187, 0.0097]
+        },
+        {
+          "text": "(5)",
+          "translation": "(5)",
+          "bbox": [0.6004, 0.7826, 0.0151, 0.0066]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-6.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "Online Instruction Manual",
+          "bbox": [0.0375, 0.0349, 0.1644, 0.0179]
+        },
+        {
+          "text": "矢印一覧",
+          "translation": "Arrow list",
+          "bbox": [0.263, 0.0362, 0.0828, 0.0148]
+        },
+        {
+          "text": "取り付けます。 |",
+          "translation": "Attach.",
+          "bbox": [0.4184, 0.0353, 0.156, 0.0157]
+        },
+        {
+          "text": "取り外します。 |",
+          "translation": "Remove.",
+          "bbox": [0.6294, 0.0344, 0.1457, 0.0174]
+        },
+        {
+          "text": "可動させます。",
+          "translation": "Make movable.",
+          "bbox": [0.8198, 0.0362, 0.1294, 0.0148]
+        },
+        {
+          "text": "待機音設定:ループの場合",
+          "translation": "Standby sound setting: Loop",
+          "bbox": [0.0943, 0.1373, 0.2328, 0.0139]
+        },
+        {
+          "text": "①トリガーを長押しします。\n現在のモードに対応したセリフ\n「ブレイブイン!」とブレイブイン音声が鳴ります。\n※ [なりきりモード]の場合はP.15をご覧ください。\n②獣電池のボタンを押します。\n→ブレイブイン状態に切り替わります。\n③ガブリボルバーのレバーを下げます。\n口が開き、口開き音が鳴ります。\n④獣電池をガブリボルバーの\n下側の装填口に装填します。\n装填音が鳴ります。\n⑤手で口を閉じます。\nLEDが発光し、",
+          "translation": "① Press and hold the trigger.\n→ The phrase corresponding to the current mode, \"Brave In!\", and the Brave In sound will play.\n* For [Role-play Mode], see P.15.\n② Press the button on the Beast Battery.\n→ Switches to the Brave In state.\n③ Lower the lever on the Gaburevolver.\n→ The mouth opens and the mouth-opening sound plays.\n④ Insert the Beast Battery into the loading slot on the underside of the Gaburevolver.\n→ The loading sound plays.\n⑤ Close the mouth by hand.\n→ The LED lights up and...",
+          "bbox": [0.0998, 0.1758, 0.3761, 0.2205]
+        },
+        {
+          "text": "セリフ「ガブリンチョ!」と装填した獣電池を\n読み上げ、現在のモードに対応した\nセリフ「キョウリュウチェンジ!」が鳴ります。\n※ラミレス、鉄斎モードのみ\nセリフ「スピリットレンジャー!」が鳴ります。\n⑥シリンダーを回転させます。\nLEDが発光し、回転音と\n変身待機音が約30秒間鳴ります。\n⑦トリガーを短押しします。\n→現在のモードに対応した\nセリフ「ファイヤー!」が鳴り、\n変身音が鳴ります。",
+          "translation": "The phrase \"Gaburincho!\" is played, the loaded Beast Battery is announced, then the phrase corresponding to the current mode, \"Kyoryu Change!\", is played.\n* In Ramirez and Tessai modes only, the phrase \"Spirit Ranger!\" is played.\n⑥ Rotate the cylinder.\n→ The LED lights, and the rotation sound and transformation standby sound play for about 30 seconds.\n⑦ Press the trigger briefly.\n→ The phrase corresponding to the current mode, \"Fire!\", is played, followed by the transformation sound.",
+          "bbox": [0.0998, 0.4012, 0.3295, 0.2039]
+        },
+        {
+          "text": "※変身待機音が鳴り終わると、 「変身遊び」が終了します。",
+          "translation": "* When the transformation standby sound finishes playing, the \"transformation play\" ends.",
+          "bbox": [0.0822, 0.623, 0.4117, 0.0121]
+        },
+        {
+          "text": "【別角度】",
+          "translation": "[Different angle]",
+          "bbox": [0.1312, 0.6579, 0.0629, 0.0125]
+        },
+        {
+          "text": "②",
+          "translation": "②",
+          "bbox": [0.5272, 0.3497, 0.0218, 0.0112]
+        },
+        {
+          "text": "①",
+          "translation": "①",
+          "bbox": [0.6989, 0.2531, 0.023, 0.0121]
+        },
+        {
+          "text": "レバー",
+          "translation": "Lever",
+          "bbox": [0.7128, 0.4656, 0.0496, 0.0112]
+        },
+        {
+          "text": "口",
+          "translation": "Mouth",
+          "bbox": [0.1626, 0.7674, 0.0145, 0.0085]
+        },
+        {
+          "text": "7",
+          "translation": "7",
+          "bbox": [0.4909, 0.9687, 0.0206, 0.0134]
+        },
+        {
+          "text": "⑤",
+          "translation": "⑤",
+          "bbox": [0.5979, 0.7254, 0.0181, 0.0103]
+        },
+        {
+          "text": "⑥",
+          "translation": "⑥",
+          "bbox": [0.6735, 0.7907, 0.0187, 0.0107]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-7.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書 矢印一覧 ■取り付けます。 | 取り外します。 |",
+          "translation": "WEB Instruction Manual — Arrow legend ■ Attach. | ■ Detach. | ■ Make movable.",
+          "bbox": [0.0369, 0.0277, 0.736, 0.0164]
+        },
+        {
+          "text": "必殺技遊び",
+          "translation": "Special Move Play",
+          "bbox": [0.1873, 0.1056, 0.1353, 0.0153]
+        },
+        {
+          "text": "※変身遊びの後に行います。",
+          "translation": "※Perform this after transformation play.",
+          "bbox": [0.0961, 0.1511, 0.2465, 0.0113]
+        },
+        {
+          "text": "①シリンダーを回転させます。",
+          "translation": "① Rotate the cylinder.",
+          "bbox": [0.0991, 0.1824, 0.2169, 0.0113]
+        },
+        {
+          "text": "LEDが発光し、回転音と必殺技待機音、",
+          "translation": "The LED lights; a rotation sound and a special-move standby sound play,",
+          "bbox": [0.1172, 0.1973, 0.2858, 0.0095]
+        },
+        {
+          "text": "セリフ「獣電ブレイブフィニッシュ!」が鳴ります。",
+          "translation": "and the line \"獣電ブレイブフィニッシュ!\" will sound.",
+          "bbox": [0.0997, 0.2108, 0.3462, 0.0102]
+        },
+        {
+          "text": "②トリガーを短押しします。",
+          "translation": "② Press the trigger briefly.",
+          "bbox": [0.0991, 0.2253, 0.194, 0.0098]
+        },
+        {
+          "text": "LEDが発光し、セリフ「バモラ!」と\n装填した獣電池に対応した必殺技セリフと\n効果音が鳴り、必殺技音が鳴ります。\n※必殺技セリフの内容は下記表をご確認ください。",
+          "translation": "The LED lights, the line \"バモラ!\" plays, then the special-move line and sound effects corresponding to the loaded Beast Battery play, followed by the special-move sound. ※Please refer to the table below for the contents of the special-move lines.",
+          "bbox": [0.1009, 0.2395, 0.3674, 0.0521]
+        },
+        {
+          "text": "※なりきりモードでは",
+          "translation": "※In role-play mode,",
+          "bbox": [0.1015, 0.2963, 0.1571, 0.0091]
+        },
+        {
+          "text": "「獣電ブレイブフィニッシュ!」 のセリフは鳴りません。",
+          "translation": "the line \"獣電ブレイブフィニッシュ!\" will not play.",
+          "bbox": [0.1178, 0.3098, 0.3698, 0.0106]
+        },
+        {
+          "text": "獣電池の取り外し方",
+          "translation": "How to remove the Beast Battery",
+          "bbox": [0.1003, 0.5075, 0.235, 0.0178]
+        },
+        {
+          "text": "①ガブリボルバーのレバーを下げ、口を開きます。",
+          "translation": "① Lower the lever on the Gaburevolver to open the mouth.",
+          "bbox": [0.0991, 0.5533, 0.3565, 0.0098]
+        },
+        {
+          "text": "→口が開き、口開き音が鳴ります。",
+          "translation": "→ The mouth opens and a mouth-opening sound will play.",
+          "bbox": [0.0997, 0.5683, 0.2477, 0.0095]
+        },
+        {
+          "text": "②装填ロロック解除ボタンを矢印の方向に下げます。",
+          "translation": "② Push down the loading-lock release button in the direction of the arrow.",
+          "bbox": [0.0997, 0.5821, 0.3813, 0.0098]
+        },
+        {
+          "text": "→取り外し音が鳴り、獣電池が少し飛び出します。\n※装填ロロック解除ボタンは、\n左側が装填ロロック解除ボタン(下)\n右側が装填ロロック解除ボタン(上)です。\n③獣電池を手で取り外します。",
+          "translation": "→ A removal sound will play and the Beast Battery will pop out slightly. ※The loading-lock release buttons are: left = loading-lock release button (lower), right = loading-lock release button (upper). ③ Remove the Beast Battery by hand.",
+          "bbox": [0.0991, 0.5963, 0.3589, 0.0666]
+        },
+        {
+          "text": "①",
+          "translation": "①",
+          "bbox": [0.6659, 0.2195, 0.0236, 0.0091]
+        },
+        {
+          "text": "②",
+          "translation": "②",
+          "bbox": [0.7293, 0.2581, 0.0193, 0.0091]
+        },
+        {
+          "text": "可動させます。",
+          "translation": "Make movable.",
+          "bbox": [0.8187, 0.0299, 0.1299, 0.0113]
+        },
+        {
+          "text": "獣電池",
+          "translation": "Beast Battery",
+          "bbox": [0.5837, 0.348, 0.0598, 0.0116]
+        },
+        {
+          "text": "必殺技セリフ",
+          "translation": "Special-move line",
+          "bbox": [0.6931, 0.3473, 0.1154, 0.0127]
+        },
+        {
+          "text": "(ガブティラ)",
+          "translation": "(Gabutyra)",
+          "bbox": [0.5619, 0.3706, 0.0949, 0.0106]
+        },
+        {
+          "text": "「ガッブーン」",
+          "translation": "\"ガッブーン\"",
+          "bbox": [0.6792, 0.3706, 0.0949, 0.0106]
+        },
+        {
+          "text": "(パラサガン)",
+          "translation": "(Parasagan)",
+          "bbox": [0.5619, 0.3913, 0.0979, 0.0102]
+        },
+        {
+          "text": "「ガッガーン」",
+          "translation": "\"ガッガーン\"",
+          "bbox": [0.6792, 0.3913, 0.0955, 0.0102]
+        },
+        {
+          "text": "(ステゴッチ)",
+          "translation": "(Stegotchi)",
+          "bbox": [0.5619, 0.411, 0.0955, 0.0106]
+        },
+        {
+          "text": "「ゴッチーン」",
+          "translation": "\"ゴッチーン\"",
+          "bbox": [0.6785, 0.411, 0.0961, 0.0106]
+        },
+        {
+          "text": "(ザクトル)",
+          "translation": "(Zactor)",
+          "bbox": [0.5619, 0.4321, 0.0792, 0.0091]
+        },
+        {
+          "text": "「ザックーン」",
+          "translation": "\"ザックーン\"",
+          "bbox": [0.6792, 0.431, 0.0949, 0.0113]
+        },
+        {
+          "text": "(ドリケラ)",
+          "translation": "(Doricera)",
+          "bbox": [0.5619, 0.4521, 0.0761, 0.0102]
+        },
+        {
+          "text": "「ドドリーン」",
+          "translation": "\"ドドリーン\"",
+          "bbox": [0.6792, 0.4514, 0.0906, 0.0106]
+        },
+        {
+          "text": "装填ロロック解除ボタン(上)",
+          "translation": "Loading-lock release button (upper)",
+          "bbox": [0.4937, 0.5337, 0.2121, 0.0102]
+        },
+        {
+          "text": "装填ロロック解除ボタン(下)",
+          "translation": "Loading-lock release button (lower)",
+          "bbox": [0.4677, 0.688, 0.2127, 0.0098]
+        },
+        {
+          "text": "③",
+          "translation": "③",
+          "bbox": [0.7257, 0.8158, 0.0242, 0.0102]
+        },
+        {
+          "text": "※獣電池が勢いよく",
+          "translation": "※The Beast Battery may eject forcefully.",
+          "bbox": [0.1009, 0.8282, 0.1456, 0.0095]
+        },
+        {
+          "text": "飛び出す可能性があります。",
+          "translation": "It may fly out.",
+          "bbox": [0.1154, 0.842, 0.2073, 0.0098]
+        },
+        {
+          "text": "←②",
+          "translation": "←②",
+          "bbox": [0.4864, 0.8482, 0.0719, 0.012]
+        },
+        {
+          "text": "必ず本体を上向きにした状態で",
+          "translation": "Always keep the unit facing upward.",
+          "bbox": [0.116, 0.8562, 0.232, 0.0098]
+        },
+        {
+          "text": "下アゴを開き、",
+          "translation": "Open the lower jaw,",
+          "bbox": [0.116, 0.87, 0.1076, 0.0095]
+        },
+        {
+          "text": "人や物には向けないよう",
+          "translation": "and do not point it at people or objects.",
+          "bbox": [0.116, 0.8846, 0.1807, 0.0098]
+        },
+        {
+          "text": "注意してください。",
+          "translation": "Be careful.",
+          "bbox": [0.1166, 0.8988, 0.1378, 0.0098]
+        },
+        {
+          "text": "00",
+          "translation": "00",
+          "bbox": [0.4918, 0.9734, 0.0157, 0.0131]
+        },
+        {
+          "text": "8",
+          "translation": "8",
+          "bbox": [0.4894, 0.9745, 0.0187, 0.0106]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-8.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書 矢印一覧",
+          "translation": "WEB Instruction Manual — Arrow List",
+          "bbox": [0.0369, 0.0351, 0.3076, 0.0178]
+        },
+        {
+          "text": "■ 取り付けます。 取り外します。可動させます。",
+          "translation": "■ Attach. Detach. Move.",
+          "bbox": [0.3855, 0.0369, 0.5607, 0.0151]
+        },
+        {
+          "text": "超必殺技遊び",
+          "translation": "Super Finishing Move Play",
+          "bbox": [0.1746, 0.1299, 0.1619, 0.0182]
+        },
+        {
+          "text": "※上下のスロットに獣電池が装填されていない状態を例に説明します。\n※既に獣電池が上下いずれかのスロットに挿入されている状態から始めた場合も、\n空いている装填口に獣電池を挿入すれば遊ぶことができます。\n※獣電池はブレイブイン状態で行います。",
+          "translation": "*The example explains the state where no Beast Batteries are loaded in the upper or lower slots.\n*If you start from a state where a Beast Battery is already inserted in either the upper or lower slot,\nyou can still play by inserting a Beast Battery into the empty loading port.\n*Perform this with the Beast Batteries in the Brave In state.",
+          "bbox": [0.0955, 0.1846, 0.7184, 0.0738]
+        },
+        {
+          "text": "①獣電池をガブリボルバーの\n上下の装填口に装填します。\n装填音が鳴ります。\n②手で口を閉じます。\n→レバーが上がり、LEDが発光し、\nセリフ「ガブリンチョ!」と装填した\n獣電池を読み上げます。\n※装填口(下)、装填口(上)の順に\n読み上げます。\n③シリンダーを回転させます。\nLEDが発光し、必殺待機音と、\nセリフ「獣電ブレイブフィニッシュ」が鳴ります。",
+          "translation": "① Insert Beast Batteries into the Gaburevolver's upper and lower loading ports.\nA loading sound will play.\n② Close the mouth with your hand.\n→ The lever will rise, the LED will light, and it will say \"Gaburincho!\" and read the inserted Beast Batteries.\n*Beast Batteries are read in the order: loading port (lower), then loading port (upper).\n③ Rotate the cylinder.\nThe LED will light, a finisher-standby sound will play, and the phrase \"Beast Battery Brave Finish\" will be spoken.",
+          "bbox": [0.0997, 0.282, 0.3571, 0.2033]
+        },
+        {
+          "text": "※なりきりモードでは\n「獣電ブレイブフィニッシュ!」の\nセリフは鳴りません。\n④トリガーを短押しします。\n→LEDが発光し、回転音、\nセリフ「バモラムーチョ!」と\n装填した獣電池に対応した必殺技セリフ、\n効果音が鳴り、必殺技音が鳴ります。\n※必殺技セリフは装填口(下)、\n装填口 (上)の順に鳴ります。\n※必殺技セリフの内容は下記表を",
+          "translation": "※In Role-Play Mode the phrase \"Beast Battery Brave Finish!\" will not play.\n④ Press the trigger briefly.\n→ The LED will light, a rotation sound will play, the phrase \"Vamola Mucho!\" will be spoken,\nand the finishing-move lines and effects corresponding to the loaded Beast Batteries, followed by the finishing-move sound, will play.\n*Finishing-move lines will play in the order: loading port (lower), then loading port (upper).\n*For the finishing-move lines, see the table below.",
+          "bbox": [0.0991, 0.4902, 0.319, 0.1846]
+        },
+        {
+          "text": "ご確認ください。",
+          "translation": "Please check.",
+          "bbox": [0.1172, 0.681, 0.1196, 0.0107]
+        },
+        {
+          "text": "※再度超必殺技遊びを行いたい場合は、",
+          "translation": "*If you want to play the Super Finishing Move again,",
+          "bbox": [0.1015, 0.6975, 0.2906, 0.0116]
+        },
+        {
+          "text": "③から行います。",
+          "translation": "begin again from step ③.",
+          "bbox": [0.1166, 0.714, 0.1233, 0.0129]
+        },
+        {
+          "text": "獣電池 必殺技セリフ\n(ガブティラ) 「ガッブーン」",
+          "translation": "Beast Battery — Finishing Move Line\n(Gabutira) \"Gabboon\"",
+          "bbox": [0.1263, 0.7531, 0.2471, 0.04]
+        },
+        {
+          "text": "【別角度】",
+          "translation": "[Different view]",
+          "bbox": [0.5015, 0.2811, 0.064, 0.0116]
+        },
+        {
+          "text": "口",
+          "translation": "Mouth",
+          "bbox": [0.5565, 0.3354, 0.0151, 0.0085]
+        },
+        {
+          "text": "①",
+          "translation": "①",
+          "bbox": [0.6695, 0.4319, 0.0218, 0.0116]
+        },
+        {
+          "text": "③",
+          "translation": "③",
+          "bbox": [0.658, 0.7891, 0.0199, 0.0111]
+        },
+        {
+          "text": "(パラサガン) 「ガッガーン」",
+          "translation": "(Parasagan) \"Gaggaan\"",
+          "bbox": [0.1263, 0.806, 0.2121, 0.0129]
+        },
+        {
+          "text": "(ステゴッチ)",
+          "translation": "(Stegotchi)",
+          "bbox": [0.1257, 0.8305, 0.0961, 0.0125]
+        },
+        {
+          "text": "「ゴッチーン」",
+          "translation": "\"Gotchin\"",
+          "bbox": [0.2435, 0.8305, 0.0949, 0.0125]
+        },
+        {
+          "text": "( ザクトル)",
+          "translation": "(Zactor)",
+          "bbox": [0.1263, 0.8563, 0.0792, 0.0107]
+        },
+        {
+          "text": "「ザックーン」",
+          "translation": "\"Zakkuun\"",
+          "bbox": [0.2435, 0.8563, 0.0955, 0.0111]
+        },
+        {
+          "text": "(ドリケラ)",
+          "translation": "(Doricera)",
+          "bbox": [0.1263, 0.8808, 0.0761, 0.0111]
+        },
+        {
+          "text": "「ドドリーン」",
+          "translation": "\"Dodorin\"",
+          "bbox": [0.2435, 0.8803, 0.09, 0.0111]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.4882, 0.968, 0.0218, 0.0147]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-9.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書 矢印一覧",
+          "translation": "WEB Instruction Manual — List of arrows",
+          "bbox": [0.0375, 0.0412, 0.3071, 0.0186]
+        },
+        {
+          "text": "■取り付けます。 取り外します。|",
+          "translation": "■ Attach. Remove. |",
+          "bbox": [0.3845, 0.0392, 0.3875, 0.0196]
+        },
+        {
+          "text": "可動させます。",
+          "translation": "Make movable.",
+          "bbox": [0.8198, 0.0412, 0.1294, 0.0166]
+        },
+        {
+          "text": "アームドオン遊び",
+          "translation": "Armed-On play",
+          "bbox": [0.1518, 0.1456, 0.2086, 0.0211]
+        },
+        {
+          "text": "※超必殺技遊びの後に行います。",
+          "translation": "※ Perform after Super Special Move play.",
+          "bbox": [0.0961, 0.2073, 0.2872, 0.0176]
+        },
+        {
+          "text": "①ガブリボルバーのレバーを下げます。\n口が開き、口開き音が鳴ります。\n②手で口を閉じます。\nレバーが上がり、 LEDが発光し、\nセリフ「メッチャムーチョ!」と\n「アームドオン!」が鳴ります。\n③シリンダーを回転させます。\n◆LEDが発光し、アームドオン音が",
+          "translation": "① Lower the lever on the Gaburevolver.\n➡ The mouth opens and a mouth-opening sound plays.\n② Close the mouth with your hand.\n➡ The lever rises, the LED lights up, and the phrases \"Meccha Mucho!\" and \"Armed On!\" play.\n③ Rotate the cylinder.\n◆ The LED lights up and the Armed-On sound",
+          "bbox": [0.0998, 0.2525, 0.283, 0.1496]
+        },
+        {
+          "text": "鳴ります。",
+          "translation": "plays.",
+          "bbox": [0.1173, 0.4096, 0.0707, 0.0126]
+        },
+        {
+          "text": "※再度口開閉を行うと、\n超必殺技遊びに戻ります。\n※シリンダーを回転させる前に\nトリガーを押すと、銃撃音が鳴ります。\n※なりきりモードでは、\nセリフ「アームドオン!」は鳴りません。",
+          "translation": "※ If you open and close the mouth again, it returns to Super Special Move play.\n※ If you press the trigger before rotating the cylinder, a gunshot sound plays.\n※ In Role-Play Mode, the phrase \"Armed On!\" will not play.",
+          "bbox": [0.101, 0.4287, 0.289, 0.1104]
+        },
+        {
+          "text": "アームドオン攻撃遊び",
+          "translation": "Armed-On attack play",
+          "bbox": [0.0967, 0.6933, 0.1977, 0.0161]
+        },
+        {
+          "text": "※アームドオン遊びの後に行います。",
+          "translation": "※ Perform after Armed-On play.",
+          "bbox": [0.0961, 0.7359, 0.3216, 0.0161]
+        },
+        {
+          "text": "トリガーを短押しします。\nLEDが発光し、",
+          "translation": "Press the trigger briefly.\nThe LED lights up,",
+          "bbox": [0.101, 0.7771, 0.1759, 0.0326]
+        },
+        {
+          "text": "アームドオン攻撃音が鳴ります。\n※装填口(上)の獣電池に対応した\nアームドオン攻撃音が鳴ります。",
+          "translation": "the Armed-On attack sound plays.\n※ The Armed-On attack sound corresponding to the Beast Battery in the upper loading port plays.",
+          "bbox": [0.1016, 0.8168, 0.2509, 0.0522]
+        },
+        {
+          "text": "10",
+          "translation": "10",
+          "bbox": [0.4837, 0.9639, 0.0369, 0.0176]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.6753, 0.7294, 0.0085, 0.005]
+        },
+        {
+          "text": "レバー",
+          "translation": "Lever",
+          "bbox": [0.705, 0.1832, 0.0484, 0.011]
+        },
+        {
+          "text": "①",
+          "translation": "①",
+          "bbox": [0.8428, 0.2063, 0.0212, 0.0126]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-10.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0369, 0.0764, 0.1651, 0.0322]
+        },
+        {
+          "text": "矢印一覧",
+          "translation": "Arrow Legend",
+          "bbox": [0.2636, 0.0764, 0.0816, 0.0276]
+        },
+        {
+          "text": "取り付けます。 | 取り外します。 |",
+          "translation": "Attach. | Remove. |",
+          "bbox": [0.4184, 0.0727, 0.3543, 0.034]
+        },
+        {
+          "text": "可動させます。",
+          "translation": "Make movable.",
+          "bbox": [0.8198, 0.0754, 0.1294, 0.0304]
+        },
+        {
+          "text": "複数人変身遊びについて",
+          "translation": "About multiplayer transformation play",
+          "bbox": [0.1082, 0.2677, 0.2932, 0.0405]
+        },
+        {
+          "text": "BGMボタンを長押しするたびに、下記の遊びが切り替わります。",
+          "translation": "Each time you press and hold the BGM button, the play mode switches as follows.",
+          "bbox": [0.0955, 0.3882, 0.5647, 0.0313]
+        },
+        {
+          "text": "BGM長押し\n(1回目)",
+          "translation": "Press and hold BGM\n(1st time)",
+          "bbox": [0.1294, 0.4775, 0.0937, 0.0626]
+        },
+        {
+          "text": "BGM長押し\n(2回目)",
+          "translation": "Press and hold BGM\n(2nd time)",
+          "bbox": [0.3077, 0.4793, 0.0943, 0.0598]
+        },
+        {
+          "text": "BGM長押し\n(3回目)",
+          "translation": "Press and hold BGM\n(3rd time)",
+          "bbox": [0.4861, 0.4775, 0.0931, 0.0607]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.5852, 0.483, 0.0284, 0.0902]
+        },
+        {
+          "text": "BGM長押し\n(4回目)",
+          "translation": "Press and hold BGM\n(4th time)",
+          "bbox": [0.6644, 0.4802, 0.0931, 0.0589]
+        },
+        {
+          "text": "5人変身遊び",
+          "translation": "5-Person Transformation Play",
+          "bbox": [0.217, 0.6155, 0.0967, 0.0267]
+        },
+        {
+          "text": "6人変身遊び",
+          "translation": "6-Person Transformation Play",
+          "bbox": [0.393, 0.6182, 0.0979, 0.023]
+        },
+        {
+          "text": "|7人変身遊び",
+          "translation": "|7-Person Transformation Play",
+          "bbox": [0.5623, 0.6164, 0.1046, 0.0248]
+        },
+        {
+          "text": "10人変身遊び",
+          "translation": "10-Person Transformation Play",
+          "bbox": [0.7285, 0.6173, 0.1082, 0.0239]
+        },
+        {
+          "text": "11",
+          "translation": "11",
+          "bbox": [0.4837, 0.9328, 0.032, 0.0276]
+        },
+        {
+          "text": "BGM長押し\n(5回目)",
+          "translation": "Press and hold BGM\n(5th time)",
+          "bbox": [0.5224, 0.7029, 0.0925, 0.0626]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-11.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書 矢印一覧",
+          "translation": "WEB Instruction Manual — Arrow Guide",
+          "bbox": [0.0375, 0.0286, 0.3076, 0.0121]
+        },
+        {
+          "text": "取り付けます。 |",
+          "translation": "Attach. |",
+          "bbox": [0.4181, 0.0272, 0.1559, 0.0124]
+        },
+        {
+          "text": "取り外します。 |",
+          "translation": "Remove. |",
+          "bbox": [0.6284, 0.0272, 0.1438, 0.0127]
+        },
+        {
+          "text": "可動させます。",
+          "translation": "Make movable.",
+          "bbox": [0.8187, 0.0286, 0.1305, 0.011]
+        },
+        {
+          "text": "5人変身遊び",
+          "translation": "5-Person Transformation Play",
+          "bbox": [0.1789, 0.1006, 0.1571, 0.0145]
+        },
+        {
+          "text": "下記の獣電池が対応しています。",
+          "translation": "The following Zyudenchi are compatible.",
+          "bbox": [0.1154, 0.145, 0.2876, 0.011]
+        },
+        {
+          "text": "ガブティラ",
+          "translation": "Gabutyra",
+          "bbox": [0.1498, 0.2025, 0.0773, 0.009]
+        },
+        {
+          "text": "パラサガン",
+          "translation": "Parasagan",
+          "bbox": [0.3088, 0.2025, 0.0773, 0.0093]
+        },
+        {
+          "text": "ステゴッチ",
+          "translation": "Stegotchi",
+          "bbox": [0.4604, 0.2022, 0.0779, 0.0096]
+        },
+        {
+          "text": "ザクトル",
+          "translation": "Zactor",
+          "bbox": [0.6236, 0.2029, 0.064, 0.0086]
+        },
+        {
+          "text": "ドリケラ",
+          "translation": "Doricera",
+          "bbox": [0.7813, 0.2029, 0.058, 0.0086]
+        },
+        {
+          "text": "(別売り)",
+          "translation": "(Sold separately)",
+          "bbox": [0.623, 0.2156, 0.0616, 0.0103]
+        },
+        {
+          "text": "(別売り)",
+          "translation": "(Sold separately)",
+          "bbox": [0.3124, 0.2163, 0.0622, 0.0096]
+        },
+        {
+          "text": "①BGMボタンを1回長押しします。\n→LEDが1回発光し、セリフ 「行くぜみんな!」\nが鳴り、BGM 「荒れるぜ!止めてみな!」の\n冒頭部分が鳴ります。\n②トリガーを長押しします。\n→セリフ「ブレイブイン!」と\n獣電竜の鳴き声が鳴ります。\n③獣電池のボタンを押します。\n→ブレイブイン状態に切り替わります。\n④ガブリボルバーのレバーを下げます。\n口が開き、口開き音が鳴ります。\n⑤獣電池をガブリボルバーの\n下側の装填口に装填します。\n装填音が鳴ります。\n※⑤以降獣電池を取り外すと、\n5人変身遊び状態が解除されます。\n⑥手で口を閉じます。\n→レバーが上がり、 LEDが発光し、\nセリフ「ガブリンチョ!」の後、\nセリフ「ガブティラ!パラサガン!\nステゴッチ!ザクトル!ドリケラ!」、\n「キョウリュウチェンジ! (5人)」が鳴ります。\n⑦シリンダーを回転させます。\n→LEDが発光し、回転音と\n変身待機音が1回鳴り、\nセリフ「ファイヤー!(5人)」が鳴ります。\n⑧トリガーを短押しします。\n→変身音が鳴った後、\nBGM 「荒れるぜ!止めてみな!」の\n名乗り部分が鳴りはじめ、\n5人名乗り音声が鳴ります。\n※5人変身遊びでは、\n「待機音設定:ループ」の場合も、\n待機音は1回で鳴り終わります。\n※なりきりモードでは、\nキャラクターのセリフは鳴りません。\n※遊びの途中でBGMボタンを短押しすると、\n5人変身遊びが解除されます。",
+          "translation": "① Press and hold the BGM button once.\n→ The LED lights once, the line \"行くぜみんな!\" (\"Let's go, everyone!\") plays, and the opening part of the BGM \"荒れるぜ!止めてみな!\" (\"We're going wild! Just try and stop us!\") plays.\n② Press and hold the trigger.\n→ The line \"ブレイブイン!\" (\"Brave In!\") and the roar of the Zyudenryu play.\n③ Press the button on the Zyudenchi.\n→ It switches to Brave In state.\n④ Lower the lever on the Gaburevolver.\n→ The mouth opens and the mouth-opening sound plays.\n⑤ Insert the Zyudenchi into the loading port on the underside of the Gaburevolver.\n→ The loading sound plays.\n※ If the Zyudenchi is removed after step ⑤, the 5-person transformation play is canceled.\n⑥ Close the mouth by hand.\n→ The lever rises, the LED lights, and after \"ガブリンチョ!\" (\"Gaburincho!\"), the lines \"Gabutyra! Parasagan! Stegotchi! Zactor! Doricera!\" and \"Kyoryu Change! (5-person)\" play.\n⑦ Rotate the cylinder.\n→ The LED lights, a rotation sound and the transformation standby sound play once, and the line \"Fire! (5-person)\" plays.\n⑧ Press the trigger briefly.\n→ After the transformation sound, the roll-call section of the BGM \"荒れるぜ!止めてみな!\" begins and the 5-person roll-call audio plays.\n※ In 5-person transformation play, even if \"Standby Sound Setting: Loop\" is selected, the standby sound plays only once.\n※ In Roleplay Mode, character lines do not play.\n※ Briefly pressing the BGM button during play cancels 5-person transformation play.",
+          "bbox": [0.0991, 0.2439, 0.336, 0.5047]
+        },
+        {
+          "text": "【別角度】",
+          "translation": "[Different angle]",
+          "bbox": [0.1305, 0.7726, 0.0634, 0.0093]
+        },
+        {
+          "text": "☐ Ⓡ",
+          "translation": "☐ ®",
+          "bbox": [0.4568, 0.4457, 0.0731, 0.0179]
+        },
+        {
+          "text": "12",
+          "translation": "12",
+          "bbox": [0.484, 0.9773, 0.0356, 0.0096]
+        },
+        {
+          "text": "レバー",
+          "translation": "Lever",
+          "bbox": [0.7027, 0.5677, 0.0483, 0.0086]
+        },
+        {
+          "text": "8",
+          "translation": "8",
+          "bbox": [0.7263, 0.8932, 0.0097, 0.0062]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-12.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書 矢印一覧 11 取り付けます。 取り外します。|",
+          "translation": "WEB Instruction Manual  Arrow legend  11Attach. Remove. |",
+          "bbox": [0.0369, 0.0273, 0.7358, 0.0145]
+        },
+        {
+          "text": "可動させます。",
+          "translation": "Make movable.",
+          "bbox": [0.8198, 0.0294, 0.1288, 0.0106]
+        },
+        {
+          "text": "6人変身遊び",
+          "translation": "6-Person Transformation Play",
+          "bbox": [0.179, 0.1034, 0.156, 0.0149]
+        },
+        {
+          "text": "※下記の獣電池が対応しています。",
+          "translation": "*The following Zyudenchi are supported.",
+          "bbox": [0.0955, 0.1491, 0.3053, 0.011]
+        },
+        {
+          "text": "54",
+          "translation": "54",
+          "bbox": [0.7745, 0.1841, 0.0459, 0.0103]
+        },
+        {
+          "text": "ガブティラ",
+          "translation": "Gabutyra",
+          "bbox": [0.1493, 0.2079, 0.0774, 0.0096]
+        },
+        {
+          "text": "パラサガン",
+          "translation": "Parasagan",
+          "bbox": [0.3083, 0.2082, 0.0774, 0.0092]
+        },
+        {
+          "text": "ステゴッチ",
+          "translation": "Stegotchi",
+          "bbox": [0.4601, 0.2082, 0.078, 0.0096]
+        },
+        {
+          "text": "ザクトル",
+          "translation": "Zactor",
+          "bbox": [0.6239, 0.2082, 0.0635, 0.0096]
+        },
+        {
+          "text": "ドリケラ",
+          "translation": "Doricera",
+          "bbox": [0.7811, 0.2089, 0.0574, 0.0085]
+        },
+        {
+          "text": "(別売り)",
+          "translation": "(Sold separately)",
+          "bbox": [0.6233, 0.2224, 0.0629, 0.0092]
+        },
+        {
+          "text": "(別売り)",
+          "translation": "(Sold separately)",
+          "bbox": [0.3126, 0.2217, 0.0623, 0.0103]
+        },
+        {
+          "text": "①BGMボタンを長押しします。(2回目)\nLEDが2回発光し、 セリフ 「行くぜみんな!」\nが鳴り、BGM「VAMOLA!\nキョウリュウジャー!」が鳴ります。\n②トリガーを長押しします。\n→セリフ「ブレイブイン!」と\n獣電竜の鳴き声が鳴ります。\n③獣電池のボタンを押します。\n→ブレイブイン状態に切り替わります。\n④ガブリボルバーのレバーを下げます。\n口が開き、口開き音が鳴ります。\n⑤獣電池をガブリボルバーの\n下側の装填口に装填します。\n装填音が鳴ります。\n⑤以降獣電池を取り外すと、\n6人変身遊び状態が解除されます。\n⑥手で口を閉じます。\n→レバーが上がり、LEDが発光し、\nセリフ「ガブリンチョ!」の後、\nセリフ「ガブティラ!パラサガン!ステゴッチ!\nザクトル!ドリケラ! プテラゴードン!」、\n「キョウリュウチェンジ! (6人)」が鳴ります。",
+          "translation": "① Press and hold the BGM button. (second time)\n→ The LED flashes twice, the line \"Let's go, everyone!\" plays, and the BGM \"VAMOLA! Kyoryuger!\" begins.\n② Press and hold the trigger.\n→ The line \"Brave In!\" and the roar of the Zyudenryu play.\n③ Press the button on the Zyudenchi.\n→ It switches to Brave In state.\n④ Lower the lever on the Gaburevolver.\n→ The mouth opens and a mouth-opening sound plays.\n⑤ Insert the Zyudenchi into the loading port on the lower side of the Gaburevolver.\n→ A loading sound plays.\n※ If the Zyudenchi is removed after step ⑤, the 6-person transformation play state is cancelled.\n⑥ Close the mouth by hand.\n→ The lever rises, the LED lights, and after the line \"Gaburincho!\", the lines \"Gabutyra! Parasagan! Stegotchi! Zactor! Doricera! Pteragordon!\" and \"Kyoryu Change! (6 people)\" play.",
+          "bbox": [0.0992, 0.2504, 0.3295, 0.2985]
+        },
+        {
+          "text": "⑦シリンダーを回転させます。",
+          "translation": "⑦ Rotate the cylinder.",
+          "bbox": [0.0992, 0.5535, 0.2158, 0.0092]
+        },
+        {
+          "text": "LEDが発光し、回転音と変身待機音が\n1回鳴り、セリフ「ファイヤー!(6人)」が",
+          "translation": "The LED lights up, and a rotation sound and transformation-standby sound play once; the line \"Fire! (6 people)\"",
+          "bbox": [0.1173, 0.5669, 0.2842, 0.0237]
+        },
+        {
+          "text": "鳴ります。",
+          "translation": "plays.",
+          "bbox": [0.1167, 0.5938, 0.0713, 0.011]
+        },
+        {
+          "text": "⑧トリガーを短押しします。\n変身音が鳴った後、\n6人名乗り音声が鳴ります。\n※6人変身遊びでは、\n「待機音設定: ループ」の場合も、\n待機音は1回で鳴り終わります。\n※なりきりモードでは、\nキャラクターのセリフは鳴りません。\n※遊びの途中でBGMボタンを短押しすると、\n6人変身遊びが解除されます。",
+          "translation": "⑧ Press the trigger briefly.\nAfter the transformation sound plays, the 6-person roll-call audio will play.\n※ In 6-person transformation play, even if the standby sound setting is \"Loop\", the standby sound will finish after one play.\n※ In role-play mode, character dialogue will not play.\n※ Pressing the BGM button briefly during play will cancel the 6-person transformation play.",
+          "bbox": [0.0998, 0.608, 0.3331, 0.1335]
+        },
+        {
+          "text": "【別角度】",
+          "translation": "[Different angle]",
+          "bbox": [0.13, 0.7603, 0.0635, 0.0106]
+        },
+        {
+          "text": "⑤",
+          "translation": "⑤",
+          "bbox": [0.2304, 0.8991, 0.0212, 0.0089]
+        },
+        {
+          "text": "13",
+          "translation": "13",
+          "bbox": [0.4843, 0.9749, 0.0351, 0.012]
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.5955, 0.784, 0.0109, 0.0085]
+        },
+        {
+          "text": "レバー",
+          "translation": "Lever",
+          "bbox": [0.7031, 0.5836, 0.049, 0.0089]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-13.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書 矢印一覧 ■取り付けます。 取り外します。|",
+          "translation": "WEB Instruction Manual — Arrow Legend: ■ Attach. ■ Remove. |",
+          "bbox": [0.0369, 0.0276, 0.7358, 0.0142]
+        },
+        {
+          "text": "7人変身遊び",
+          "translation": "7-Person Transformation Play",
+          "bbox": [0.1784, 0.1027, 0.1566, 0.0152]
+        },
+        {
+          "text": "※下記の獣電池が対応しています。",
+          "translation": "*The following Zyudenchi are compatible.",
+          "bbox": [0.0955, 0.1491, 0.3065, 0.0106]
+        },
+        {
+          "text": "可動させます。",
+          "translation": "Can be moved.",
+          "bbox": [0.8192, 0.0297, 0.13, 0.0106]
+        },
+        {
+          "text": "ガブティラ",
+          "translation": "Gabutyra",
+          "bbox": [0.1493, 0.2082, 0.0774, 0.0089]
+        },
+        {
+          "text": "パラサガン",
+          "translation": "Parasagan",
+          "bbox": [0.3083, 0.2086, 0.0774, 0.0089]
+        },
+        {
+          "text": "ステゴッチ",
+          "translation": "Stegotchi",
+          "bbox": [0.4601, 0.2086, 0.0786, 0.0089]
+        },
+        {
+          "text": "ザクトル",
+          "translation": "Zaktor",
+          "bbox": [0.6239, 0.2082, 0.0641, 0.0096]
+        },
+        {
+          "text": "ドリケラ",
+          "translation": "Doricera",
+          "bbox": [0.7817, 0.2086, 0.058, 0.0089]
+        },
+        {
+          "text": "(別売り)",
+          "translation": "(Sold separately)",
+          "bbox": [0.6233, 0.2217, 0.0617, 0.0106]
+        },
+        {
+          "text": "(別売り)",
+          "translation": "(Sold separately)",
+          "bbox": [0.3126, 0.222, 0.0617, 0.0103]
+        },
+        {
+          "text": "①BGMボタンを長押しします。(3回目)\n→LEDが3回発光し、 セリフ 「行くぜみんな!」\nが鳴り、BGM「VAMOLA!\nキョウリュウジャー!」が鳴ります。\n②トリガーを長押しします。\n→セリフ「ブレイブイン!」と\n獣電竜の鳴き声が鳴ります。\n③獣電池のボタンを押します。\n→ブレイブイン状態に切り替わります。\n④ガブリボルバーのレバーを下げます。\n口が開き、口開き音が鳴ります。\n⑤獣電池をガブリボルバーの\n下側の装填口に装填します。\n装填音が鳴ります。\n⑤以降獣電池を取り外すと、\n7人変身遊び状態が解除されます。\n⑥手で口を閉じます。\n→レバーが上がり、LEDが発光し、\nセリフ「ガブリンチョ!」の後、\nセリフ「ガブティラ!パラサガン! ステゴッチ!\nザクトル!ドリケラ! プテラゴードン!プレズオン!」、\n「キョウリュウチェンジ! (7人)」が鳴ります。",
+          "translation": "① Press and hold the BGM button. (3rd time)\n→ The LED flashes three times, the line \"Let's go, everyone!\" plays, and the BGM \"VAMOLA! Kyoryuger!\" starts.\n② Press and hold the trigger.\n→ The line \"Brave In!\" and the Zyudenryu roar play.\n③ Press the Zyudenchi's button.\n→ It switches to the Brave In state.\n④ Lower the lever on the Gaburevolver.\n→ The mouth opens and a mouth-opening sound plays.\n⑤ Insert the Zyudenchi into the loading slot on the underside of the Gaburevolver.\n→ A loading sound plays.\n※ If the Zyudenchi is removed after step ⑤, the 7-person transformation play will be cancelled.\n⑥ Close the mouth by hand.\n→ The lever rises, the LED lights, and after the line \"Gaburincho!\", the lines \"Gabutyra! Parasagan! Stegotchi! Zaktor! Doricera! Pteragordon! Plezuon!\" and \"Kyoryu Change! (7)\" play.",
+          "bbox": [0.0992, 0.2504, 0.373, 0.2985]
+        },
+        {
+          "text": "レバー",
+          "translation": "Lever",
+          "bbox": [0.7219, 0.5407, 0.0484, 0.0085]
+        },
+        {
+          "text": "①",
+          "translation": "①",
+          "bbox": [0.8083, 0.3697, 0.0212, 0.0081]
+        },
+        {
+          "text": "⑦シリンダーを回転させます。",
+          "translation": "⑦ Rotate the cylinder.",
+          "bbox": [0.0998, 0.5535, 0.2164, 0.0092]
+        },
+        {
+          "text": "LEDが発光し、回転音と変身待機音が",
+          "translation": "The LED lights, and the rotation sound and transformation-standby sound",
+          "bbox": [0.1173, 0.5669, 0.2781, 0.0096]
+        },
+        {
+          "text": "1回鳴り、セリフ 「ファイヤー! (7人)」が",
+          "translation": "plays once, then the line \"FIRE! (7)\" plays.",
+          "bbox": [0.1203, 0.5804, 0.2799, 0.0103]
+        },
+        {
+          "text": "鳴ります。",
+          "translation": "plays.",
+          "bbox": [0.1167, 0.5942, 0.0713, 0.0103]
+        },
+        {
+          "text": "⑧トリガーを短押しします。\n変身音が鳴った後、\n7人名乗り音声が鳴ります。\n※7人変身遊びでは、\n「待機音設定:ループ」の場合も、\n待機音は1回で鳴り終わります。\n※なりきりモードでは、\nキャラクターのセリフは鳴りません。\n※遊びの途中でBGMボタンを短押しすると、\n7人変身遊びが解除されます。",
+          "translation": "⑧ Press the trigger briefly.\nAfter the transformation sound plays, the 7-person introduction voice plays.\n* In 7-person transformation play, even if the standby sound setting is set to \"Loop\", the standby sound will finish after one playback.\n* In role-play mode, character lines will not play.\n* Pressing the BGM button briefly during play will cancel the 7-person transformation play.",
+          "bbox": [0.0998, 0.608, 0.3337, 0.1335]
+        },
+        {
+          "text": "【別角度】",
+          "translation": "[Alternate angle]",
+          "bbox": [0.13, 0.7603, 0.0635, 0.0103]
+        },
+        {
+          "text": "|",
+          "translation": "|",
+          "bbox": [0.1209, 0.846, 0.0145, 0.0089]
+        },
+        {
+          "text": "⑤",
+          "translation": "⑤",
+          "bbox": [0.2304, 0.8991, 0.0212, 0.0085]
+        },
+        {
+          "text": "14",
+          "translation": "14",
+          "bbox": [0.4831, 0.9742, 0.0399, 0.0106]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-14.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "Online Instruction Manual",
+          "bbox": [0.0375, 0.0264, 0.1663, 0.0115]
+        },
+        {
+          "text": "矢印一覧",
+          "translation": "List of arrows",
+          "bbox": [0.2636, 0.0264, 0.0816, 0.0092]
+        },
+        {
+          "text": "取り付けます。 取り外します。 |",
+          "translation": "Attach. Remove. |",
+          "bbox": [0.4184, 0.0252, 0.3543, 0.0118]
+        },
+        {
+          "text": "可動させます。",
+          "translation": "Make movable.",
+          "bbox": [0.8198, 0.0264, 0.1294, 0.0096]
+        },
+        {
+          "text": "10人変身遊び",
+          "translation": "10-person transformation play",
+          "bbox": [0.1711, 0.0927, 0.1735, 0.0137]
+        },
+        {
+          "text": "※下記の獣電池が対応しています。",
+          "translation": "*The following Zyudenchi are compatible.",
+          "bbox": [0.0955, 0.1341, 0.3059, 0.0096]
+        },
+        {
+          "text": "54",
+          "translation": "54",
+          "bbox": [0.7757, 0.1663, 0.0441, 0.008]
+        },
+        {
+          "text": "ガブティラ",
+          "translation": "Gabutyra",
+          "bbox": [0.1499, 0.1876, 0.0768, 0.0076]
+        },
+        {
+          "text": "パラサガン",
+          "translation": "Parasagan",
+          "bbox": [0.3096, 0.1873, 0.0768, 0.0086]
+        },
+        {
+          "text": "ステゴッチ",
+          "translation": "Stegotchi",
+          "bbox": [0.4607, 0.1876, 0.078, 0.0083]
+        },
+        {
+          "text": "ザクトル",
+          "translation": "Zactor",
+          "bbox": [0.6239, 0.1876, 0.0641, 0.008]
+        },
+        {
+          "text": "ドリケラ",
+          "translation": "Doricera",
+          "bbox": [0.7817, 0.188, 0.0574, 0.0073]
+        },
+        {
+          "text": "(別売り)",
+          "translation": "(Sold separately)",
+          "bbox": [0.6233, 0.2004, 0.0629, 0.0083]
+        },
+        {
+          "text": "(別売り)",
+          "translation": "(Sold separately)",
+          "bbox": [0.3126, 0.2001, 0.0623, 0.0089]
+        },
+        {
+          "text": "①BGMボタンを長押しします。(4回目)\nLEDが4回発光し、 セリフ 「行くぜみんな!」\nが鳴り、BGM「VAMOLA!\nキョウリュウジャー!」の後半部分が鳴ります。\n②トリガーを長押しします。\n→セリフ「ブレイブイン!」と\n獣電竜の鳴き声が鳴ります。\n③獣電池のボタンを押します。\n→ブレイブイン状態に切り替わります。",
+          "translation": "① Press and hold the BGM button (4th time).\nThe LED flashes four times, the phrase \"Let's go, everyone!\" plays, and the second half of the BGM \"VAMOLA! Kyoryuger!\" plays.\n② Press and hold the trigger.\n→ The phrase \"Brave In!\" and the roar of a Zyudenryu play.\n③ Press the button on the Zyudenchi.\n→ It switches to Brave In mode.",
+          "bbox": [0.0998, 0.2249, 0.3422, 0.109]
+        },
+        {
+          "text": "④ガブリボルバーのレバーを下げます。",
+          "translation": "④ Lower the lever on the Gaburevolver.",
+          "bbox": [0.0998, 0.3364, 0.283, 0.0086]
+        },
+        {
+          "text": "→口が開き、口開き音が鳴ります。",
+          "translation": "→ The mouth opens and an opening sound plays.",
+          "bbox": [0.1004, 0.3492, 0.2467, 0.0086]
+        },
+        {
+          "text": "⑤獣電池をガブリボルバーの",
+          "translation": "⑤ Insert the Zyudenchi into the lower loading port of the Gaburevolver.",
+          "bbox": [0.0998, 0.3613, 0.2128, 0.0089]
+        },
+        {
+          "text": "下側の装填口に装填します。\n装填音が鳴ります。\n※⑤以降獣電池を取り外すと、",
+          "translation": "Insert it into the lower loading port. A loading sound will play. *If you remove the Zyudenchi after step ⑤,",
+          "bbox": [0.1016, 0.3737, 0.2207, 0.0338]
+        },
+        {
+          "text": "10人変身遊び状態が解除されます。",
+          "translation": "The 10-person transformation mode will be deactivated.",
+          "bbox": [0.1197, 0.411, 0.266, 0.0086]
+        },
+        {
+          "text": "⑥手で口を閉じます。\n→レバーが上がり、 LEDが発光し、\nセリフ「ガブリンチョ!」の後、\nセリフ「ガブティラ!パラサガン!\nステゴッチ!ザクトル!ドリケラ!\nプテラゴードン!アンキドン!ブンパッキー!\nプレズオン!ブラギガス!」、\n「キョウリュウチェンジ! (10人)」が鳴ります。",
+          "translation": "⑥ Close the mouth by hand.\n→ The lever rises, the LED lights up, and after the line \"Gaburincho!\", the lines \"Gabutyra! Parasagan! Stegotchi! Zactor! Doricera! Pteragordon! Ankidon! Bunpachy! Plezuon! Bragigas!\" and \"Kyoryu Change! (10 people)\" play.",
+          "bbox": [0.1004, 0.4234, 0.3416, 0.0953]
+        },
+        {
+          "text": "⑦シリンダーを回転させます。",
+          "translation": "⑦ Rotate the cylinder.",
+          "bbox": [0.0998, 0.5221, 0.2177, 0.0092]
+        },
+        {
+          "text": "→LEDが発光し、回転音と変身待機音が\n1回鳴り、セリフ「ファイヤー!(10人)」が",
+          "translation": "→ LED lights up, a rotation sound and the transformation standby sound play once, and the line \"Fire! (10 people)\" plays.",
+          "bbox": [0.1004, 0.5352, 0.3138, 0.021]
+        },
+        {
+          "text": "鳴ります。",
+          "translation": "and the line \"Fire! (10 people)\" plays.",
+          "bbox": [0.1173, 0.5601, 0.0713, 0.0076]
+        },
+        {
+          "text": "⑧トリガーを短押しします。\n変身音が鳴った後、",
+          "translation": "⑧ Briefly press the trigger.\nAfter the transformation sound plays,",
+          "bbox": [0.0998, 0.5725, 0.1941, 0.0204]
+        },
+        {
+          "text": "BGM「荒れるぜ! 止めてみな!」の名乗り部分が\n鳴り、10人名乗り音声が鳴ります。\n※10人変身遊びでは、\n「待機音設定:ループ」の場合も、\n待機音は1回で鳴り終わります。\n※なりきりモードでは、\nキャラクターのセリフは鳴りません。\n※遊びの途中でBGMボタンを短押しすると、\n10人変身遊びが解除されます。\n※①の後、さらにBGMボタンを長押しすると、\n5人変身遊びに戻ります。",
+          "translation": "The name-introduction part of the BGM \"Areru ze! Tomete mina!\" plays, followed by the 10-person name-introduction voices.\n※ In 10-person transformation play, even if “Standby sound setting: Loop” is selected, the standby sound finishes after one play.\n※ In role-play mode, character lines do not play.\n※ If you press the BGM button briefly during play, the 10-person transformation play is canceled.\n※ After step ①, if you press and hold the BGM button again, it returns to 5-person transformation play.",
+          "bbox": [0.1016, 0.5967, 0.3386, 0.1322]
+        },
+        {
+          "text": "【別角度】",
+          "translation": "[Different angle]",
+          "bbox": [0.5163, 0.598, 0.0635, 0.0096]
+        },
+        {
+          "text": "口",
+          "translation": "Mouth",
+          "bbox": [0.575, 0.6426, 0.0133, 0.007]
+        },
+        {
+          "text": "15",
+          "translation": "15",
+          "bbox": [0.4843, 0.9774, 0.0351, 0.0108]
+        },
+        {
+          "text": "⑤",
+          "translation": "⑤",
+          "bbox": [0.6421, 0.7311, 0.02, 0.0076]
+        },
+        {
+          "text": "レバー",
+          "translation": "Lever",
+          "bbox": [0.7037, 0.4667, 0.0496, 0.0073]
+        },
+        {
+          "text": "(8",
+          "translation": "(8",
+          "bbox": [0.717, 0.8703, 0.0085, 0.008]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-15.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0374, 0.0402, 0.1643, 0.017]
+        },
+        {
+          "text": "矢印一覧",
+          "translation": "Arrow legend",
+          "bbox": [0.2633, 0.0402, 0.0815, 0.0145]
+        },
+        {
+          "text": "取り付けます。 | 取り外します。 |",
+          "translation": "Attach. | Remove. |",
+          "bbox": [0.4179, 0.0383, 0.3539, 0.0184]
+        },
+        {
+          "text": "可動させます。",
+          "translation": "Make movable.",
+          "bbox": [0.8188, 0.0397, 0.1292, 0.0165]
+        },
+        {
+          "text": "※ (なりきりモード)でのみ遊べます。",
+          "translation": "* Can only be played in (Role-play Mode).",
+          "bbox": [0.3925, 0.1328, 0.3116, 0.016]
+        },
+        {
+          "text": "ブレイブイン遊び",
+          "translation": "Brave-In Play",
+          "bbox": [0.1159, 0.1444, 0.2077, 0.0218]
+        },
+        {
+          "text": "※起動した直後は 汎用ブレイブイン音) 状態です。",
+          "translation": "* Immediately after startup, the unit is in the 'Generic Brave-In' sound state.",
+          "bbox": [0.3925, 0.1537, 0.4312, 0.0165]
+        },
+        {
+          "text": "①セリフボタンを長押しします。",
+          "translation": "① Press and hold the Dialogue button.",
+          "bbox": [0.0996, 0.2016, 0.2283, 0.0131]
+        },
+        {
+          "text": "長押しするたびに下記のセリフが鳴り、ブレイブインする獣電竜の切り替えを行います。",
+          "translation": "Each time you press and hold, the lines below will play and the Zyudenryu to Brave‑In will be switched.",
+          "bbox": [0.1165, 0.2196, 0.6371, 0.0145]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.0984, 0.2579, 0.0417, 0.016]
+        },
+        {
+          "text": "セリフ",
+          "translation": "Phrase",
+          "bbox": [0.2337, 0.2593, 0.0556, 0.0131]
+        },
+        {
+          "text": "ブレイブイン音声",
+          "translation": "Brave-In Audio",
+          "bbox": [0.4016, 0.2574, 0.1552, 0.0165]
+        },
+        {
+          "text": "1回目 ガブティラ!",
+          "translation": "1st time: Gabutyra!",
+          "bbox": [0.0942, 0.2865, 0.1534, 0.0179]
+        },
+        {
+          "text": "ガブティラ",
+          "translation": "Gabutyra",
+          "bbox": [0.3732, 0.2894, 0.0773, 0.0116]
+        },
+        {
+          "text": "2回目 パラサガン!\n3回目 ステゴッチ!\n4回目 ザクトル!\n5回目ドリケラ!\n6回目 アンキドン!\n7回目 ブンパッキー!\n8回目 プレズオン!",
+          "translation": "2nd time: Parasagun!\n3rd time: Stegotchi!\n4th time: Zakutor!\n5th time: Dricera!\n6th time: Ankidon!\n7th time: Bunpachy!\n8th time: Plezuon!",
+          "bbox": [0.087, 0.3141, 0.1793, 0.1798]
+        },
+        {
+          "text": "パラサガン\nステゴッチ\nザクトル\nドリケラ",
+          "translation": "Parasagun\nStegotchi\nZakutor\nDricera",
+          "bbox": [0.3726, 0.316, 0.0845, 0.0931]
+        },
+        {
+          "text": "アンキドン",
+          "translation": "Ankidon",
+          "bbox": [0.3732, 0.4241, 0.0821, 0.0111]
+        },
+        {
+          "text": "ブンパッキー",
+          "translation": "Bunpachy",
+          "bbox": [0.3738, 0.4493, 0.096, 0.0141]
+        },
+        {
+          "text": "9回目 ブレイブイン!",
+          "translation": "9th time: Brave-In!",
+          "bbox": [0.0912, 0.5012, 0.1727, 0.0184]
+        },
+        {
+          "text": "※9回目の後は1回目に戻ります。",
+          "translation": "* After the 9th time, it returns to the 1st time.",
+          "bbox": [0.0833, 0.5322, 0.2476, 0.0131]
+        },
+        {
+          "text": "プレズオン",
+          "translation": "Plezuon",
+          "bbox": [0.3732, 0.4765, 0.0827, 0.0131]
+        },
+        {
+          "text": "汎用ブレイブイン音",
+          "translation": "Generic Brave-In sound",
+          "bbox": [0.3726, 0.5036, 0.1473, 0.0136]
+        },
+        {
+          "text": "②トリガーを長押しします。\n上記で設定した獣電竜に対応した\nブレイブイン音声が鳴ります。\n③獣電池のボタンを押します。\n→ブレイブイン状態に切り替わります。",
+          "translation": "② Press and hold the trigger.\nThe Brave-In audio corresponding to the Zyudenryu set above will play.\n③ Press the button on the Zyudenchi.\n→ It switches to Brave-In mode.",
+          "bbox": [0.0996, 0.6045, 0.2826, 0.0887]
+        },
+        {
+          "text": "16",
+          "translation": "16",
+          "bbox": [0.4837, 0.9656, 0.035, 0.016]
+        },
+        {
+          "text": "①",
+          "translation": "①",
+          "bbox": [0.7403, 0.3417, 0.0254, 0.0131]
+        },
+        {
+          "text": "セリフボタン",
+          "translation": "Dialogue button",
+          "bbox": [0.8219, 0.3781, 0.0948, 0.0116]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-16.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "Online Instruction Manual",
+          "bbox": [0.0369, 0.0246, 0.165, 0.0104]
+        },
+        {
+          "text": "矢印一覧 ◆ 取り付けます。 |",
+          "translation": "Arrow Legend ◆ Attach. |",
+          "bbox": [0.2634, 0.0234, 0.3112, 0.0107]
+        },
+        {
+          "text": "取り外します。 |",
+          "translation": "Remove. |",
+          "bbox": [0.6284, 0.0234, 0.1438, 0.011]
+        },
+        {
+          "text": "可動させます。",
+          "translation": "Make movable.",
+          "bbox": [0.8193, 0.0243, 0.1293, 0.0098]
+        },
+        {
+          "text": "ガブルキャノンへの合体",
+          "translation": "Combine into the Gabble Cannon",
+          "bbox": [0.1136, 0.0886, 0.284, 0.0127]
+        },
+        {
+          "text": "※セット内容の状態から始めます。",
+          "translation": "*Start from the state of the included set.",
+          "bbox": [0.0973, 0.1218, 0.2985, 0.0098]
+        },
+        {
+          "text": "※別売りのガブリカリバー -MEMORIAL EDITION-を使用します。",
+          "translation": "*Use the Gabricalibur -MEMORIAL EDITION- (sold separately).",
+          "bbox": [0.0973, 0.1348, 0.606, 0.0098]
+        },
+        {
+          "text": "ガブリカリバー-MEMORIAL EDITION- の合体準備",
+          "translation": "Preparing the Gabricalibur -MEMORIAL EDITION- for combination",
+          "bbox": [0.1015, 0.1591, 0.4779, 0.0098]
+        },
+        {
+          "text": "①グリップロック解除ボタンを押しながら\n図のように変形します。\n②合体用差し替え刃パーツを矢印の方向に",
+          "translation": "① While pressing the grip lock release button, transform as shown in the illustration.\n② Move the interchangeable blade part for combination in the direction of the arrow.",
+          "bbox": [0.0997, 0.1849, 0.3118, 0.0308]
+        },
+        {
+          "text": "取り付けます。",
+          "translation": "Attach.",
+          "bbox": [0.1166, 0.219, 0.1039, 0.008]
+        },
+        {
+          "text": "合体用差し替え刃パーツ",
+          "translation": "Interchangeable blade part (for combination)",
+          "bbox": [0.2979, 0.2661, 0.1837, 0.008]
+        },
+        {
+          "text": "【拡大図】",
+          "translation": "Enlarged view",
+          "bbox": [0.0937, 0.2856, 0.0634, 0.0083]
+        },
+        {
+          "text": "スリット",
+          "translation": "Slit",
+          "bbox": [0.1009, 0.3476, 0.0586, 0.0065]
+        },
+        {
+          "text": "※スリットを合わせて\n取り付けます。",
+          "translation": "*Align the slit(s) and attach.",
+          "bbox": [0.0985, 0.3639, 0.1565, 0.0196]
+        },
+        {
+          "text": "<",
+          "translation": "<",
+          "bbox": [0.3299, 0.3256, 0.0109, 0.008]
+        },
+        {
+          "text": "※取り外す場合は②の矢印の逆方向に取り外します。",
+          "translation": "*To remove, detach in the direction opposite arrow ②.",
+          "bbox": [0.1033, 0.4287, 0.3843, 0.0083]
+        },
+        {
+          "text": "ガブリボルバー-MEMORIAL EDITION- の合体準備",
+          "translation": "Preparing the Gaburevolver -MEMORIAL EDITION- for combination",
+          "bbox": [0.1015, 0.4545, 0.4804, 0.0098]
+        },
+        {
+          "text": "レバーを下げます。\n口が開き、口開き音が鳴ります。",
+          "translation": "Lower the lever.\nThe mouth opens and a mouth-opening sound plays.",
+          "bbox": [0.1009, 0.4797, 0.2459, 0.0207]
+        },
+        {
+          "text": "ガブリボルバーMEMORIAL EDITION-",
+          "translation": "Gaburevolver -MEMORIAL EDITION-",
+          "bbox": [0.3837, 0.5692, 0.3184, 0.0077]
+        },
+        {
+          "text": "合体方法",
+          "translation": "How to combine",
+          "bbox": [0.0955, 0.6012, 0.081, 0.0086]
+        },
+        {
+          "text": "【別角度】",
+          "translation": "Alternate view",
+          "bbox": [0.3692, 0.5997, 0.0628, 0.0092]
+        },
+        {
+          "text": "ガブリボルバーのレール部分に",
+          "translation": "On the rail section of the Gaburevolver",
+          "bbox": [0.1003, 0.6261, 0.2266, 0.0083]
+        },
+        {
+          "text": "ガブリカリバーの窪みに",
+          "translation": "Into the recess of the Gabricalibur",
+          "bbox": [0.1003, 0.6373, 0.1734, 0.0077]
+        },
+        {
+          "text": "スライドさせ取り付けます。",
+          "translation": "Slide it to attach.",
+          "bbox": [0.1003, 0.6492, 0.1958, 0.0077]
+        },
+        {
+          "text": "→合体音が鳴ります。",
+          "translation": "→A combination sound will play.",
+          "bbox": [0.1009, 0.661, 0.1541, 0.0074]
+        },
+        {
+          "text": "窪み",
+          "translation": "Recess",
+          "bbox": [0.5311, 0.6625, 0.035, 0.0068]
+        },
+        {
+          "text": "ガブルキャノン完成!!",
+          "translation": "Gabble Cannon Complete!",
+          "bbox": [0.0973, 0.9298, 0.3305, 0.0184]
+        },
+        {
+          "text": "レール",
+          "translation": "Rail",
+          "bbox": [0.6139, 0.7816, 0.052, 0.0074]
+        },
+        {
+          "text": "グリップロック解除ボタン",
+          "translation": "Grip lock release button",
+          "bbox": [0.6659, 0.1609, 0.1885, 0.008]
+        },
+        {
+          "text": "レバー",
+          "translation": "Lever",
+          "bbox": [0.7752, 0.5061, 0.0477, 0.0065]
+        },
+        {
+          "text": "※ガブルキャノンが完成した状態で起動すると、\n単品で起動された状態ではなく、合体状態で起動されます。",
+          "translation": "*If you activate the Gabble Cannon while it is assembled, it will start in the combined mode rather than the single-unit mode.",
+          "bbox": [0.4514, 0.9313, 0.4471, 0.0201]
+        },
+        {
+          "text": "17",
+          "translation": "17",
+          "bbox": [0.484, 0.9793, 0.0338, 0.0092]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-17.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0363, 0.0262, 0.1656, 0.0114]
+        },
+        {
+          "text": "矢印一覧 ■取り付けます。 取り外します。|",
+          "translation": "Arrow legend ■ Attach. Remove. Make movable.",
+          "bbox": [0.2634, 0.0247, 0.5094, 0.0123]
+        },
+        {
+          "text": "可動させます。",
+          "translation": "Make movable.",
+          "bbox": [0.8193, 0.0256, 0.1293, 0.0107]
+        },
+        {
+          "text": "ガブルキャノンの遊び方",
+          "translation": "How to play with the Gaburu Cannon",
+          "bbox": [0.113, 0.0942, 0.2834, 0.0136]
+        },
+        {
+          "text": "※ガブルキャノンが完成した状態で行います。",
+          "translation": "※Perform this with the Gaburu Cannon fully assembled.",
+          "bbox": [0.4671, 0.0926, 0.3988, 0.0117]
+        },
+        {
+          "text": "剣撃遊び",
+          "translation": "Swordplay",
+          "bbox": [0.0979, 0.1293, 0.0822, 0.0107]
+        },
+        {
+          "text": "①合体用差し替え刃パーツを矢印の方向に",
+          "translation": "① Slide the interchangeable blade part for combination in the direction of the arrow.",
+          "bbox": [0.0997, 0.1574, 0.3124, 0.0082]
+        },
+        {
+          "text": "動かします。",
+          "translation": "Slide it.",
+          "bbox": [0.1166, 0.1695, 0.0864, 0.0079]
+        },
+        {
+          "text": "②トリガーを短押しします。\n剣撃音が鳴ります。",
+          "translation": "② Press the trigger briefly.\nA sword-slashing sound will play.",
+          "bbox": [0.0997, 0.3541, 0.1934, 0.0209]
+        },
+        {
+          "text": "※3回に1回ガブリボルバーの現在のモードに対応したキャラクターのセリフが鳴ります。",
+          "translation": "※One out of every three times, a character voice line corresponding to the Gaburevolver's current mode will play.",
+          "bbox": [0.1009, 0.3784, 0.6483, 0.0089]
+        },
+        {
+          "text": "銃撃遊び",
+          "translation": "Shooting play",
+          "bbox": [0.0973, 0.5394, 0.0822, 0.0092]
+        },
+        {
+          "text": "①合体用差し替え刃パーツを矢印の方向に",
+          "translation": "① Slide the interchangeable blade part for combination in the direction of the arrow.",
+          "bbox": [0.0997, 0.5662, 0.3112, 0.0085]
+        },
+        {
+          "text": "動かします。",
+          "translation": "Slide it.",
+          "bbox": [0.1166, 0.5786, 0.087, 0.0079]
+        },
+        {
+          "text": "②トリガーを長押しします。\n長押ししている間、連射銃撃音が鳴ります。\n※トリガーを離すことで音声が止まります。",
+          "translation": "② Press and hold the trigger.\nWhile the trigger is pressed and held, a rapid-fire shooting sound will play.\n*Releasing the trigger will stop the sound.",
+          "bbox": [0.0997, 0.7578, 0.3293, 0.0326]
+        },
+        {
+          "text": "18",
+          "translation": "18",
+          "bbox": [0.4834, 0.9776, 0.0344, 0.0098]
+        },
+        {
+          "text": "トリガー",
+          "translation": "Trigger",
+          "bbox": [0.6266, 0.4872, 0.0586, 0.0085]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-18.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0375, 0.03, 0.1656, 0.0135]
+        },
+        {
+          "text": "矢印一覧 ■■■ 取り付けます。 取り外します。 | 可動させます。",
+          "translation": "Arrow legend ■■■ Attach. Remove. | Move.",
+          "bbox": [0.2628, 0.0293, 0.6852, 0.0135]
+        },
+        {
+          "text": "ガブルキャノンの遊び方",
+          "translation": "How to Play Gabble Cannon",
+          "bbox": [0.113, 0.1091, 0.2834, 0.0157]
+        },
+        {
+          "text": "強銃撃遊び",
+          "translation": "Power Shot Play",
+          "bbox": [0.0979, 0.1501, 0.1003, 0.0121]
+        },
+        {
+          "text": "①ポンプを1回前後に動かします。\n→セリフ「バモラ!」が鳴ります。\n②トリガーを短押しします。\n強銃撃音が鳴ります。\n③ ポンプをもう1回前後に動かします。\nセリフ「ムーチョ!」が鳴ります。\n④トリガーを短押しします。\n強銃撃音が鳴ります。\n※ポンプを動かすたびに、\nセリフ「バモラ!」とセリフ「ムーチョ!」が",
+          "translation": "① Move the pump forward and back once.\n→ The line \"バモラ!\" plays.\n② Press the trigger briefly.\n→ A powerful firing sound plays.\n③ Move the pump forward and back once more.\n→ The line \"ムーチョ!\" plays.\n④ Press the trigger briefly.\n→ A powerful firing sound plays.\n※ Each time you move the pump, the lines \"バモラ!\" and \"ムーチョ!\" play alternately.",
+          "bbox": [0.0991, 0.1816, 0.3021, 0.138]
+        },
+        {
+          "text": "交互に鳴ります。",
+          "translation": "They sound alternately.",
+          "bbox": [0.116, 0.3243, 0.1221, 0.0099]
+        },
+        {
+          "text": "ガブルキャノンの合体解除の仕方",
+          "translation": "How to separate the Gabble Cannon",
+          "bbox": [0.1118, 0.5619, 0.3909, 0.0172]
+        },
+        {
+          "text": "ガブリボルバー底面の\n合体ロック解除ボタンを押しながら、\n矢印の方向にガブリカリバーを取り外します。\n合体解除音が鳴ります。",
+          "translation": "While pressing the combination lock release button on the bottom of the Gaburevolver, remove the Gaburicalibur in the direction of the arrow.\nA combination-release sound will play.",
+          "bbox": [0.0991, 0.604, 0.3251, 0.0542]
+        },
+        {
+          "text": "【底面】",
+          "translation": "[Bottom]",
+          "bbox": [0.2586, 0.8075, 0.0489, 0.0092]
+        },
+        {
+          "text": "合体ロック解除ボタン",
+          "translation": "Combination lock release button",
+          "bbox": [0.4743, 0.8159, 0.1631, 0.0095]
+        },
+        {
+          "text": "合体ロック解除ボタン",
+          "translation": "Combination lock release button",
+          "bbox": [0.4743, 0.9246, 0.1625, 0.0095]
+        },
+        {
+          "text": "19",
+          "translation": "19",
+          "bbox": [0.4834, 0.974, 0.035, 0.0113]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-19.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "Online Instruction Manual",
+          "bbox": [0.0369, 0.0356, 0.1656, 0.0174]
+        },
+        {
+          "text": "セリフ遊び音声一覧",
+          "translation": "List of Playable Voice Lines",
+          "bbox": [0.1644, 0.1251, 0.2785, 0.0236]
+        },
+        {
+          "text": "※それぞれ最後のセリフのあとは1に戻ります。",
+          "translation": "※After the last line of each set, it returns to 1.",
+          "bbox": [0.0949, 0.2053, 0.4169, 0.0147]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.113, 0.2591, 0.0405, 0.0134]
+        },
+        {
+          "text": "キョウリュウジャーモード\nセリフ",
+          "translation": "Kyoryuger Mode\nLines",
+          "bbox": [0.4024, 0.232, 0.2151, 0.0401]
+        },
+        {
+          "text": "恐竜、プラス人間。 億千年の時を超え、 地球を守る為に今、",
+          "translation": "Dinosaurs, plus humans. Across eons of time—now, to protect the Earth,",
+          "bbox": [0.1698, 0.285, 0.4665, 0.0138]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.1281, 0.2983, 0.0091, 0.0093]
+        },
+        {
+          "text": "史上最強のブレイブチームが誕生した。 聞いて驚けぇ!→獣電戦隊キョウリュウジャー!",
+          "translation": "The strongest Brave team in history has been born. Listen and be amazed! → Zyuden Sentai Kyoryuger!",
+          "bbox": [0.1686, 0.309, 0.6961, 0.0151]
+        },
+        {
+          "text": "2-3-4-5",
+          "translation": "2-3-4-5",
+          "bbox": [0.1245, 0.3344, 0.0145, 0.0864]
+        },
+        {
+          "text": "聞いて驚け!",
+          "translation": "Listen and be amazed!",
+          "bbox": [0.171, 0.3348, 0.1003, 0.0138]
+        },
+        {
+          "text": "牙の勇者!キョウリュウレッド!はぁっ!\n4弾丸の勇者! キョウリュウブラック!ふっ!\n鎧の勇者! キョウリュウブルー!よいしょ!\n斬撃の勇者!キョウリュウグリーン!ふっ!\n角の勇者!キョウリュウピンク!うふっ!",
+          "translation": "The Brave of Fangs! Kyoryu Red! Haa!\n4 The Brave of Bullets! Kyoryu Black! Hmph!\nThe Brave of Armor! Kyoryu Blue! Heave-ho!\nThe Brave of Slashes! Kyoryu Green! Hmph!\nThe Brave of Horns! Kyoryu Pink! Ufu!",
+          "bbox": [0.1257, 0.3593, 0.3631, 0.1131]
+        },
+        {
+          "text": "6-7",
+          "translation": "6-7",
+          "bbox": [0.1239, 0.4337, 0.0139, 0.0374]
+        },
+        {
+          "text": "89",
+          "translation": "89",
+          "bbox": [0.1263, 0.4835, 0.0127, 0.037]
+        },
+        {
+          "text": "史上最強のブレイブ! 獣電戦隊キョウリュウジャー!\n荒れるぜ、止めてみな!\n10 アームドオン!→武装音声",
+          "translation": "The strongest Brave in history! Zyuden Sentai Kyoryuger!\nWe're going wild—try and stop us!\n10Armed On! → Weapon sound",
+          "bbox": [0.1227, 0.4822, 0.4562, 0.0646]
+        },
+        {
+          "text": "聞いて驚け!",
+          "translation": "Listen and be amazed!",
+          "bbox": [0.1704, 0.557, 0.1009, 0.0142]
+        },
+        {
+          "text": "牙の勇者! キョウリュウレッド!\n弾丸の勇者!キョウリュウブラック!\n鎧の勇者! キョウリュウブルー!\n斬撃の勇者! キョウリュウグリーン!\n角の勇者! キョウリュウピンク!",
+          "translation": "The Brave of Fangs! Kyoryu Red!\nThe Brave of Bullets! Kyoryu Black!\nThe Brave of Armor! Kyoryu Blue!\nThe Brave of Slashes! Kyoryu Green!\nThe Brave of Horns! Kyoryu Pink!",
+          "bbox": [0.1692, 0.5824, 0.2785, 0.1126]
+        },
+        {
+          "text": "雷鳴の勇者! キョウリュウゴールド!",
+          "translation": "The Brave of Thunder! Kyoryu Gold!",
+          "bbox": [0.171, 0.7053, 0.2785, 0.0142]
+        },
+        {
+          "text": "11",
+          "translation": "11",
+          "bbox": [0.1227, 0.7182, 0.0211, 0.0107]
+        },
+        {
+          "text": "鋼の勇者! キョウリュウシアン!\n激突の勇者!キョウリュウグレー!\n海の勇者! キョウリュウバイオレット!\n閃光の勇者!キョウリュウシルバー!\n史上最強のブレイブ!10人揃って獣電戦隊キョウリュウジャー!\nうおおおおお!荒れるぜ、止めてみな!\n恐竜、プラス人間。 億千年の時を超え、 地球を守り抜き、 今",
+          "translation": "The Brave of Steel! Kyoryu Cyan!\nThe Brave of Clash! Kyoryu Gray!\nThe Brave of the Sea! Kyoryu Violet!\nThe Brave of Flash! Kyoryu Silver!\nThe strongest Brave in history! All 10 together, Zyuden Sentai Kyoryuger!\nWooooo! We're going wild—try and stop us!\nDinosaurs, plus humans. Across eons of time, having protected the Earth, now",
+          "bbox": [0.1698, 0.7306, 0.51, 0.163]
+        },
+        {
+          "text": "12",
+          "translation": "12",
+          "bbox": [0.1208, 0.8918, 0.026, 0.0107]
+        },
+        {
+          "text": "史上最強のブレイブチームが勝利した。 聞いて驚けぇ!→獣電戦隊キョウリュウジャー!",
+          "translation": "The strongest Brave team in history has triumphed. Listen and be amazed! → Zyuden Sentai Kyoryuger!",
+          "bbox": [0.1698, 0.9029, 0.6949, 0.0147]
+        },
+        {
+          "text": "20",
+          "translation": "20",
+          "bbox": [0.4792, 0.9684, 0.0405, 0.0138]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-20.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0369, 0.032, 0.1644, 0.0154]
+        },
+        {
+          "text": "セリフ遊び音声一覧",
+          "translation": "List of Playable Voice Lines",
+          "bbox": [0.1644, 0.1139, 0.2779, 0.0219]
+        },
+        {
+          "text": "※それぞれ最後のセリフのあとは1に戻ります。",
+          "translation": "*After the final line of each sequence, it returns to 1.",
+          "bbox": [0.0949, 0.1869, 0.4169, 0.0134]
+        },
+        {
+          "text": "キングモード",
+          "translation": "King Mode",
+          "bbox": [0.4532, 0.2109, 0.1148, 0.0122]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.113, 0.236, 0.0405, 0.0122]
+        },
+        {
+          "text": "セリフ",
+          "translation": "Line",
+          "bbox": [0.51, 0.2364, 0.0532, 0.0118]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.1293, 0.2603, 0.0066, 0.0097]
+        },
+        {
+          "text": "牙の勇者!キョウリュウレッド!はあつ!",
+          "translation": "Brave of Fangs! Kyoryu Red! Hah!",
+          "bbox": [0.1704, 0.2599, 0.2894, 0.0122]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.1257, 0.283, 0.0145, 0.0101]
+        },
+        {
+          "text": "荒れるぜ、止めてみな!",
+          "translation": "I'm gonna go wild—try and stop me!",
+          "bbox": [0.1698, 0.281, 0.1837, 0.0134]
+        },
+        {
+          "text": "2-3-4-5",
+          "translation": "2-3-4-5",
+          "bbox": [0.1239, 0.2822, 0.0151, 0.0783]
+        },
+        {
+          "text": "アームドオン!→武装音声",
+          "translation": "Armed On! → Weapon activation voice",
+          "bbox": [0.1704, 0.3049, 0.2091, 0.0122]
+        },
+        {
+          "text": "4ブレイブイン!→ガブティラ人間変化音声→うわっ、 なんだこれ!? うおっ、うわーっ!\nガブティラ×2本必殺技音声 獣電ブレイブフィニッシュ!\n6 うおおお!はっはぁ、俺かっけぇ!",
+          "translation": "4 Brave In! → Gabutyra human transformation voice → \"Whoa, what is this!? Whoa, whoa!\"\n5 Gabutyra ×2 finisher voice → Zyuden Brave Finish!\n6 Uooooh! Hahaha, I'm so cool!",
+          "bbox": [0.1245, 0.326, 0.7051, 0.06]
+        },
+        {
+          "text": "7",
+          "translation": "7",
+          "bbox": [0.1263, 0.3962, 0.0145, 0.0093]
+        },
+        {
+          "text": "ガブティラ鳴き声",
+          "translation": "Gabutyra cry",
+          "bbox": [0.1698, 0.3946, 0.1432, 0.013]
+        },
+        {
+          "text": "※ガブリボルバー-MEMORIAL EDITION-に付属のガブティラ獣電池が挿入された\n状態だと7のセリフが下記セリフに変わります。",
+          "translation": "*When the Gabutyra Zyudenchi included with the GabuRevolver -MEMORIAL EDITION- is inserted, the line for number 7 changes to the one below.",
+          "bbox": [0.1069, 0.4181, 0.7505, 0.0324]
+        },
+        {
+          "text": "ガブティラ獣電池が挿入された状態",
+          "translation": "With the Gabutyra Zyudenchi inserted",
+          "bbox": [0.0973, 0.4639, 0.3124, 0.0126]
+        },
+        {
+          "text": "7 俺たちは無敵のスーパースターだ!\n※別売りのガブティボルバー-MEMORIAL EDITION-に\n付属の【ガブティラ (アニバーサリーVer.) 獣電池】 が\n挿入された状態だと、 7のセリフが下記セリフに変わります。\nガブティラ(アニバーサリーVer.) 獣電池",
+          "translation": "7 We are invincible superstars!\n*If the [Gabutyra (Anniversary Ver.) Zyudenchi] included with the separately sold GabuRevolver -MEMORIAL EDITION- is inserted, the line for #7 changes to the following:\nGabutyra (Anniversary Ver.) Zyudenchi",
+          "bbox": [0.0973, 0.4943, 0.5511, 0.0998]
+        },
+        {
+          "text": "7 荒れるぜ、 10周年おめでとう!",
+          "translation": "7 It's gonna get wild—congratulations on the 10th anniversary!",
+          "bbox": [0.1263, 0.6119, 0.29, 0.0126]
+        },
+        {
+          "text": "ガブティラ(アニバーサリーVer.) 獣電池",
+          "translation": "Gabutyra (Anniversary Ver.) Zyudenchi",
+          "bbox": [0.6121, 0.5835, 0.2967, 0.0109]
+        },
+        {
+          "text": "イアンモード",
+          "translation": "Ian Mode",
+          "bbox": [0.4532, 0.6504, 0.1148, 0.0126]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.113, 0.6744, 0.0405, 0.0134]
+        },
+        {
+          "text": "セリフ",
+          "translation": "Line",
+          "bbox": [0.5106, 0.6756, 0.0526, 0.0114]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.1287, 0.6999, 0.0079, 0.0093]
+        },
+        {
+          "text": "弾丸の勇者! キョウリュウブラック!ふっ!",
+          "translation": "Brave of Bullets! Kyoryu Black! Hmph!",
+          "bbox": [0.1704, 0.6979, 0.3166, 0.0138]
+        },
+        {
+          "text": "2|3|4|5",
+          "translation": "2|3|4|5",
+          "bbox": [0.1221, 0.7218, 0.0169, 0.0791]
+        },
+        {
+          "text": "アームドオン!→武装音声",
+          "translation": "Armed On! → Weapon activation voice",
+          "bbox": [0.1704, 0.721, 0.2079, 0.0134]
+        },
+        {
+          "text": "ブレイブイン!→ディノスグランダーダブルアームドオン音声 アームドオン!\nパラサガン×2本必殺技音声 獣電ブレイブフィニッシュ!",
+          "translation": "Brave In! → Dinos Grander double Armed On sound → \"Armed On!\"\nParasagun ×2 finisher voice → Zyuden Brave Finish!",
+          "bbox": [0.1698, 0.7425, 0.6296, 0.0369]
+        },
+        {
+          "text": "オー、マイ!",
+          "translation": "Oh, my!",
+          "bbox": [0.1704, 0.7891, 0.0894, 0.0122]
+        },
+        {
+          "text": "6 パラサガン鳴き声",
+          "translation": "6 Parasagan cry",
+          "bbox": [0.1263, 0.811, 0.1934, 0.013]
+        },
+        {
+          "text": "※別売りのガブリカリバー-MEMORIAL EDITION-に付属されている\nパラサガン獣電池が挿入された状態だと6のセリフが下記セリフに変わります。",
+          "translation": "*If the Parasagan Zyudenchi included with the separately sold Gaburi Calibur -MEMORIAL EDITION- is inserted, the line for #6 changes to the following.",
+          "bbox": [0.1076, 0.8362, 0.71, 0.032]
+        },
+        {
+          "text": "パラサガン獣電池が挿入された状態",
+          "translation": "With the Parasagan Zyudenchi inserted",
+          "bbox": [0.0967, 0.8824, 0.3196, 0.0134]
+        },
+        {
+          "text": "6 荒れるぞ、止めてみやがれ!",
+          "translation": "6 It's gonna get wild—try and stop me!",
+          "bbox": [0.1263, 0.912, 0.2647, 0.0134]
+        },
+        {
+          "text": "21",
+          "translation": "21",
+          "bbox": [0.4785, 0.9712, 0.0363, 0.0138]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-21.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "Online Instruction Manual",
+          "bbox": [0.0369, 0.0393, 0.1651, 0.0187]
+        },
+        {
+          "text": "セリフ遊び音声一覧",
+          "translation": "List of Playable Voice Lines",
+          "bbox": [0.1638, 0.138, 0.2793, 0.026]
+        },
+        {
+          "text": "※それぞれ最後のセリフのあとは1に戻ります。",
+          "translation": "*After the final line in each sequence, it returns to 1.",
+          "bbox": [0.0949, 0.2264, 0.4166, 0.0157]
+        },
+        {
+          "text": "ノッさんモード",
+          "translation": "Nossan Mode",
+          "bbox": [0.4444, 0.2559, 0.1282, 0.0157]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.1125, 0.2859, 0.0405, 0.0142]
+        },
+        {
+          "text": "セリフ",
+          "translation": "Line",
+          "bbox": [0.5097, 0.2863, 0.0538, 0.0133]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.1288, 0.3148, 0.0073, 0.0123]
+        },
+        {
+          "text": "鎧の勇者!キョウリュウブルー!よいしょ!",
+          "translation": "Armored Hero! Kyoryu Blue! Heave-ho!",
+          "bbox": [0.1699, 0.3134, 0.3186, 0.0167]
+        },
+        {
+          "text": "2-3-4-5",
+          "translation": "2-3-4-5",
+          "bbox": [0.1245, 0.3414, 0.0145, 0.0953]
+        },
+        {
+          "text": "アームドオン!→武装音声",
+          "translation": "Armed On! → Armament sound",
+          "bbox": [0.1699, 0.3414, 0.2086, 0.0157]
+        },
+        {
+          "text": "ブレイブイン!→ステゴッチ、イゲラノドン! 必殺技音声→遊園地とは、 ゆえんちー!\nステゴッチ×2本必殺技音声 獣電ブレイブフィニッシュ!",
+          "translation": "Brave In! → Stegotchi, Igeranodon! Special-move voice → \"An amusement park? Yuen-chi!\"\nStegotchi ×2 special-move voice → Zyuden Brave Finish!",
+          "bbox": [0.1699, 0.3679, 0.6663, 0.0442]
+        },
+        {
+          "text": "ステゴッチ鳴き声",
+          "translation": "Stegotchi cry",
+          "bbox": [0.1699, 0.4229, 0.1445, 0.0157]
+        },
+        {
+          "text": "※ガブリボルバー-MEMORIAL EDITION-に付属のステゴッチ獣電池が挿入された\n状態だと5のセリフが下記セリフに変わります。",
+          "translation": "*When the Stegotchi Zyudenchi included with the GabuRevolver -MEMORIAL EDITION- is inserted, line 5 changes to the following.",
+          "bbox": [0.107, 0.4528, 0.7509, 0.0388]
+        },
+        {
+          "text": "ステゴッチ獣電池が挿入された状態",
+          "translation": "With the Stegotchi Zyudenchi inserted",
+          "bbox": [0.0979, 0.5083, 0.3144, 0.0167]
+        },
+        {
+          "text": "5 ほっほー!バカ受け!",
+          "translation": "5 Hoho—what a smash hit!",
+          "bbox": [0.1258, 0.5457, 0.2037, 0.0152]
+        },
+        {
+          "text": "ソウジモード",
+          "translation": "Souji Mode",
+          "bbox": [0.4541, 0.5938, 0.1125, 0.0152]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.1125, 0.6228, 0.0417, 0.0162]
+        },
+        {
+          "text": "セリフ",
+          "translation": "Line",
+          "bbox": [0.5097, 0.6248, 0.0532, 0.0133]
+        },
+        {
+          "text": "2-3",
+          "translation": "2-3",
+          "bbox": [0.1245, 0.6798, 0.0127, 0.0408]
+        },
+        {
+          "text": "1 斬撃の勇者! キョウリュウグリーン!ふっ!\nアームドオン!→武装音声",
+          "translation": "1 The Hero of the Slash! Kyoryu Green! Hah!\nArmed On! → Armament sound",
+          "bbox": [0.1282, 0.6518, 0.3597, 0.0427]
+        },
+        {
+          "text": "45",
+          "translation": "45",
+          "bbox": [0.1245, 0.7338, 0.0133, 0.0422]
+        },
+        {
+          "text": "ブレイブイン!→ディノチェイサー召喚音声→いくよ!\nザクトル×2本必殺技音声 獣電ブレイブフィニッシュ!",
+          "translation": "Brave In! → Dino Chaser summoning voice → \"Here we go!\"\nZactor ×2 special-move voice → Zyuden Brave Finish!",
+          "bbox": [0.1705, 0.7058, 0.4474, 0.0442]
+        },
+        {
+          "text": "ザクトル鳴き声",
+          "translation": "Zactor cry",
+          "bbox": [0.1705, 0.7618, 0.1258, 0.0147]
+        },
+        {
+          "text": "※別売りの※別売りのガブリカリバー-MEMORIAL EDITION-に付属されている\nザクトル獣電池が挿入された状態だと5のセリフが下記セリフに変わります。",
+          "translation": "*If the Zactor Zyudenchi included with the separately sold Gabricalibur -MEMORIAL EDITION- is inserted, line 5 changes to the following.",
+          "bbox": [0.107, 0.7913, 0.7316, 0.0378]
+        },
+        {
+          "text": "ザクトル獣電池が挿入された状態",
+          "translation": "With the Zactor Zyudenchi inserted",
+          "bbox": [0.0979, 0.8438, 0.295, 0.0167]
+        },
+        {
+          "text": "5 強い奴が望みか、 だったら俺の剣をくらえ。",
+          "translation": "5 You want someone strong? Then take my sword.",
+          "bbox": [0.1258, 0.8816, 0.39, 0.0157]
+        },
+        {
+          "text": "22",
+          "translation": "22",
+          "bbox": [0.4794, 0.9651, 0.0381, 0.0147]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-22.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0369, 0.0445, 0.1651, 0.022]
+        },
+        {
+          "text": "セリフ遊び音声一覧",
+          "translation": "List of Playable Voice Lines",
+          "bbox": [0.1644, 0.1582, 0.2781, 0.0304]
+        },
+        {
+          "text": "※それぞれ最後のセリフのあとは1に戻ります。",
+          "translation": "*After the final line of each sequence, it returns to 1.",
+          "bbox": [0.0949, 0.2596, 0.4172, 0.018]
+        },
+        {
+          "text": "順番",
+          "translation": "No.",
+          "bbox": [0.1125, 0.3277, 0.0399, 0.0158]
+        },
+        {
+          "text": "アミィモード",
+          "translation": "Amy Mode",
+          "bbox": [0.4553, 0.2928, 0.1106, 0.0175]
+        },
+        {
+          "text": "セリフ",
+          "translation": "Line",
+          "bbox": [0.5103, 0.3283, 0.0532, 0.0158]
+        },
+        {
+          "text": "1 角の勇者!キョウリュウピンク!うふっ!",
+          "translation": "1 Horned Hero! Kyoryu Pink! Ufufu!",
+          "bbox": [0.1282, 0.3598, 0.3404, 0.018]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.1245, 0.3925, 0.0157, 0.0146]
+        },
+        {
+          "text": "アームドオン!→武装音声",
+          "translation": "Armed On! → Arming sound",
+          "bbox": [0.1699, 0.3913, 0.2086, 0.0175]
+        },
+        {
+          "text": "2|3|4",
+          "translation": "2|3|4",
+          "bbox": [0.1227, 0.3919, 0.0157, 0.0771]
+        },
+        {
+          "text": "ブレイブイン!→スティメロ攻撃音声→ウフ♪\n4ドリケラ×2本必殺技音声 獣電ブレイブフィニッシュ!",
+          "translation": "Brave In! → Stimero attack sound → Ufu♪\n4 Drikera ×2 finishing-move sound → Zyuden Brave Finish!",
+          "bbox": [0.1245, 0.4217, 0.4891, 0.0507]
+        },
+        {
+          "text": "LO",
+          "translation": "LO",
+          "bbox": [0.127, 0.4859, 0.0103, 0.0158]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.1258, 0.4865, 0.0139, 0.0141]
+        },
+        {
+          "text": "ドリケラ鳴き声",
+          "translation": "Drikera cry",
+          "bbox": [0.1711, 0.4854, 0.1221, 0.0175]
+        },
+        {
+          "text": "※ガブリボルバー-MEMORIAL EDITION-に付属の\nドリケラ獣電池が挿入された状態だと5のセリフが下記セリフに変わります。",
+          "translation": "*When the Drikera Zyudenchi included with the Gaburevolver -MEMORIAL EDITION- is inserted, line 5 changes to the following.",
+          "bbox": [0.107, 0.5191, 0.6838, 0.0439]
+        },
+        {
+          "text": "ドリケラ獣電池が挿入された状態",
+          "translation": "With the Drikera Zyudenchi inserted",
+          "bbox": [0.0992, 0.5828, 0.2902, 0.0191]
+        },
+        {
+          "text": "5 OK!受けて立つわ!",
+          "translation": "5 OK! I'll take you on!",
+          "bbox": [0.1252, 0.625, 0.2007, 0.0186]
+        },
+        {
+          "text": "順番",
+          "translation": "No.",
+          "bbox": [0.1125, 0.7145, 0.0411, 0.0186]
+        },
+        {
+          "text": "ラミレス",
+          "translation": "Ramirez",
+          "bbox": [0.4722, 0.6824, 0.0744, 0.0141]
+        },
+        {
+          "text": "セリフ",
+          "translation": "Line",
+          "bbox": [0.5103, 0.7162, 0.0538, 0.0152]
+        },
+        {
+          "text": "1 ブレイブイン!スピリットレンジャー!ファイヤー!→変身音一連",
+          "translation": "1 Brave In! Spirit Ranger! Fire! → Transformation sound sequence",
+          "bbox": [0.1282, 0.7466, 0.5435, 0.0191]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.1245, 0.7804, 0.0157, 0.0146]
+        },
+        {
+          "text": "鋼の勇者! キョウリュウシアン!ほっ!",
+          "translation": "2 Steel Hero! Kyoryu Cyan! Hah!",
+          "bbox": [0.1681, 0.7793, 0.286, 0.0175]
+        },
+        {
+          "text": "2-3-4",
+          "translation": "2-3-4",
+          "bbox": [0.1233, 0.7793, 0.0157, 0.0771]
+        },
+        {
+          "text": "この場は、我々スピリットレンジャーに任せてください!\nスピリットハンマー!→攻撃音",
+          "translation": "Leave this to us, the Spirit Rangers!\nSpirit Hammer! → [Attack sound]",
+          "bbox": [0.1699, 0.8102, 0.4407, 0.049]
+        },
+        {
+          "text": "61",
+          "translation": "61",
+          "bbox": [0.1276, 0.8727, 0.0097, 0.0175]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.1258, 0.8744, 0.0139, 0.0141]
+        },
+        {
+          "text": "アンキドン鳴き声",
+          "translation": "Ankydon cry",
+          "bbox": [0.1699, 0.8727, 0.1445, 0.0175]
+        },
+        {
+          "text": "23",
+          "translation": "23",
+          "bbox": [0.4794, 0.9606, 0.0399, 0.0169]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-23.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0369, 0.0407, 0.1663, 0.0183]
+        },
+        {
+          "text": "セリフ遊び音声一覧",
+          "translation": "List of Playable Voice Lines",
+          "bbox": [0.1638, 0.1393, 0.2793, 0.0263]
+        },
+        {
+          "text": "※それぞれ最後のセリフのあとは1に戻ります。",
+          "translation": "*After the final line in each sequence, it returns to 1.",
+          "bbox": [0.0949, 0.2286, 0.4166, 0.0164]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.1125, 0.2881, 0.0423, 0.0159]
+        },
+        {
+          "text": "鉄砕モード",
+          "translation": "Tessai Mode",
+          "bbox": [0.4607, 0.2578, 0.0967, 0.0154]
+        },
+        {
+          "text": "セリフ",
+          "translation": "Dialogue",
+          "bbox": [0.5103, 0.289, 0.0532, 0.0139]
+        },
+        {
+          "text": "1 ブレイブイン! スピリットレンジャー!ファイヤー!→変身音一連",
+          "translation": "1 Brave In! Spirit Ranger! Fire! → Transformation sound sequence",
+          "bbox": [0.1282, 0.3148, 0.5423, 0.0188]
+        },
+        {
+          "text": "2-3",
+          "translation": "2-3",
+          "bbox": [0.1245, 0.3451, 0.0139, 0.0416]
+        },
+        {
+          "text": "激突の勇者!キョウリュウグレー!はっ!\n俺はすこぶる頭の固い男だ!",
+          "translation": "Brave of Impact! Kyoryu Gray! Ha!\nI'm an extremely stubborn man!",
+          "bbox": [0.1699, 0.3446, 0.3029, 0.0436]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.1245, 0.4016, 0.0163, 0.0114]
+        },
+        {
+          "text": "鉄砕拳、激烈突破! →攻撃音",
+          "translation": "Tessai Fist, Fierce Breakthrough! → Attack sound",
+          "bbox": [0.1699, 0.3996, 0.2273, 0.0164]
+        },
+        {
+          "text": "LO",
+          "translation": "LO",
+          "bbox": [0.1258, 0.4279, 0.0121, 0.0139]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.1258, 0.4289, 0.0133, 0.0129]
+        },
+        {
+          "text": "ブンパッキー鳴き声",
+          "translation": "Bunpachy cry",
+          "bbox": [0.1705, 0.4269, 0.1632, 0.0164]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.1125, 0.5057, 0.0405, 0.0159]
+        },
+        {
+          "text": "弥生モード",
+          "translation": "Yayoi Mode",
+          "bbox": [0.4607, 0.476, 0.0985, 0.0154]
+        },
+        {
+          "text": "セリフ",
+          "translation": "Dialogue",
+          "bbox": [0.5097, 0.5062, 0.055, 0.0149]
+        },
+        {
+          "text": "2|3|4",
+          "translation": "2|3|4",
+          "bbox": [0.1215, 0.5627, 0.0175, 0.0679]
+        },
+        {
+          "text": "1 ブレイブイン! キョウリュウチェンジ!ファイヤー!→変身音一連\n海の勇者! キョウリュウ! バイオレット!行きます!",
+          "translation": "1 Brave In! Kyoryu Change! Fire! → Transformation sound sequence\nBrave of the Sea! Kyoryu Violet! Here I go!",
+          "bbox": [0.1288, 0.534, 0.5429, 0.0446]
+        },
+        {
+          "text": "荒れます!止めてごらんなさい!!",
+          "translation": "It's going to get rough! Try to stop me!",
+          "bbox": [0.1699, 0.59, 0.2594, 0.0154]
+        },
+        {
+          "text": "プレズオン×2本必殺技音声 獣電ブレイブフィニッシュ!",
+          "translation": "Plezuon ×2 special move sound: Zyuden Brave Finish!",
+          "bbox": [0.1699, 0.6168, 0.4674, 0.0164]
+        },
+        {
+          "text": "LO",
+          "translation": "LO",
+          "bbox": [0.1258, 0.645, 0.0121, 0.0134]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.1264, 0.6465, 0.0121, 0.0114]
+        },
+        {
+          "text": "プレズオン鳴き声",
+          "translation": "Plezuon cry",
+          "bbox": [0.1705, 0.644, 0.1469, 0.0164]
+        },
+        {
+          "text": "ドクター・ウルシェードモード",
+          "translation": "Dr. Urshade Mode",
+          "bbox": [0.3869, 0.6931, 0.2479, 0.0164]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.1125, 0.7238, 0.0411, 0.0159]
+        },
+        {
+          "text": "セリフ",
+          "translation": "Dialogue",
+          "bbox": [0.5097, 0.7248, 0.0544, 0.0134]
+        },
+        {
+          "text": "お見せしよう。ワシの華麗なる変身を。",
+          "translation": "Allow me to show you my splendid transformation.",
+          "bbox": [0.1711, 0.7531, 0.3114, 0.0154]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.1282, 0.768, 0.0085, 0.0114]
+        },
+        {
+          "text": "2|3|4|5",
+          "translation": "2|3|4|5",
+          "bbox": [0.1221, 0.8081, 0.0169, 0.0967]
+        },
+        {
+          "text": "ブレイブイン! ガブリンチョ!プレズオン!キョウリュウチェンジ!ファイヤー!→変身音一連\n地球の海は俺の海!宇宙の海も俺の海!海の勇者! キョウリュウ! あ、あれ? バイオレット!\n腰が!ぐきっといったのよ、 もう1歩も動けーん!\nプレズオン×2本必殺技音声 獣電ブレイブフィニッシュ!",
+          "translation": "Brave In! Gaburincho! Plezuon! Kyoryu Change! Fire! → Transformation sound sequence\nThe Earth's seas are my seas! The seas of space are my seas too! Brave of the Sea! Kyoryu! Ah—huh? Violet!\nMy back! It just gave out—I can't move even 1 step!\nPlezuon ×2 finishing move voice: Zyuden Brave Finish!",
+          "bbox": [0.1699, 0.7789, 0.708, 0.1001]
+        },
+        {
+          "text": "プレズオン鳴き声",
+          "translation": "Plezuon cry",
+          "bbox": [0.1699, 0.8899, 0.1469, 0.0159]
+        },
+        {
+          "text": "24",
+          "translation": "24",
+          "bbox": [0.4794, 0.9653, 0.0417, 0.0139]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-24.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0369, 0.0661, 0.1663, 0.0298]
+        },
+        {
+          "text": "セリフ遊び音声一覧",
+          "translation": "List of Role-Play Voice Lines",
+          "bbox": [0.1638, 0.2258, 0.2787, 0.0435]
+        },
+        {
+          "text": "※最後の音声のあとは1に戻ります。",
+          "translation": "After the final voice line, it returns to 1.",
+          "bbox": [0.107, 0.3718, 0.3186, 0.0258]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.1125, 0.4685, 0.0399, 0.0258]
+        },
+        {
+          "text": "1 ガブリボルバーが目覚める音",
+          "translation": "1 Gaburevolver awakening sound",
+          "bbox": [0.1288, 0.5145, 0.2799, 0.0274]
+        },
+        {
+          "text": "2-3-4",
+          "translation": "2-3-4",
+          "bbox": [0.1233, 0.5613, 0.0157, 0.1097]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.1252, 0.5629, 0.0151, 0.021]
+        },
+        {
+          "text": "アームドオン音",
+          "translation": "Armed-On sound",
+          "bbox": [0.1693, 0.5589, 0.127, 0.0266]
+        },
+        {
+          "text": "ガブティラ×2本必殺技音声",
+          "translation": "Gabutyra x2 finisher sound",
+          "bbox": [0.1699, 0.6048, 0.2304, 0.0266]
+        },
+        {
+          "text": "なりきりモード",
+          "translation": "Role-Play Mode",
+          "bbox": [0.4462, 0.4202, 0.1282, 0.025]
+        },
+        {
+          "text": "音声",
+          "translation": "Voice",
+          "bbox": [0.5175, 0.4685, 0.0399, 0.0258]
+        },
+        {
+          "text": "4 ガブティラ+1獣電池 ガブティラ人間変化音\nディノスグランダー獣電池 ダブルアームドオン音",
+          "translation": "4 Gabutyra +1 Beast Battery: Gabutyra human transformation sound\nDinos Grander Beast Battery: Double Armed-On sound",
+          "bbox": [0.1245, 0.6492, 0.4504, 0.0726]
+        },
+        {
+          "text": "5-678",
+          "translation": "5-678",
+          "bbox": [0.1233, 0.696, 0.0157, 0.1548]
+        },
+        {
+          "text": "イゲラノドン獣電池 必殺技音声\nディノチェイサー獣電池 バイク召喚音\nスティメロ獣電池 攻撃音",
+          "translation": "Igeranodon Beast Battery: finisher sound\nDinochaser Beast Battery: bike summoning sound\nStimero Beast Battery: attack sound",
+          "bbox": [0.1699, 0.7403, 0.3156, 0.1161]
+        },
+        {
+          "text": "25",
+          "translation": "25",
+          "bbox": [0.4794, 0.9347, 0.0393, 0.025]
+        }
+      ]
+    }
+  ]
+}

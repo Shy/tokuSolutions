@@ -1,0 +1,1651 @@
+{
+  "meta": {
+    "manual_name": "ShodoPhone",
+    "source": "ShodoPhone.pdf",
+    "source_lang": "ja",
+    "target_lang": "en",
+    "source_url": "",
+    "blog_url": "",
+    "pages": 9,
+    "blocks": 318,
+    "thumbnail": "pages/page-0.webp",
+    "tags": ["kamen-rider", "memorial", "sentai"]
+  },
+  "pages": [
+    {
+      "image": "pages/page-0.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0369, 0.0335, 0.1651, 0.0148]
+        },
+        {
+          "text": "セット内容",
+          "translation": "Set Contents",
+          "bbox": [0.1076, 0.2805, 0.1143, 0.0165]
+        },
+        {
+          "text": "特戦隊",
+          "translation": "Special Task Force",
+          "bbox": [0.3029, 0.0148, 0.075, 0.0144]
+        },
+        {
+          "text": "©東映",
+          "translation": "©Toei",
+          "bbox": [0.3247, 0.0631, 0.0314, 0.0068]
+        },
+        {
+          "text": "ショドウフォン\nMEMORIAL EDITION の遊び方",
+          "translation": "How to Play the ShodoPhone MEMORIAL EDITION",
+          "bbox": [0.2249, 0.147, 0.5998, 0.0703]
+        },
+        {
+          "text": "ショドウフォン\n-MEMORIAL EDITION-",
+          "translation": "ShodoPhone\n-MEMORIAL EDITION-",
+          "bbox": [0.101, 0.3462, 0.2461, 0.0335]
+        },
+        {
+          "text": "本体･･･1",
+          "translation": "Main unit... 1",
+          "bbox": [0.1004, 0.3903, 0.0713, 0.0136]
+        },
+        {
+          "text": "Till 20:09",
+          "translation": "Until 20:09",
+          "bbox": [0.3881, 0.3042, 0.0901, 0.0119]
+        },
+        {
+          "text": "機能",
+          "translation": "Functions",
+          "bbox": [0.393, 0.3195, 0.0163, 0.0042]
+        },
+        {
+          "text": "henshin.jpg",
+          "translation": "henshin.jpg",
+          "bbox": [0.4359, 0.3229, 0.0345, 0.0038]
+        },
+        {
+          "text": "※WEB取扱説明書内の画像はイメージです。",
+          "translation": "※The images in the WEB Instruction Manual are for illustrative purposes only.",
+          "bbox": [0.0726, 0.6072, 0.3319, 0.0119]
+        },
+        {
+          "text": "PWR",
+          "translation": "PWR",
+          "bbox": [0.4281, 0.4784, 0.0127, 0.0034]
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.4571, 0.503, 0.0036, 0.0042]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.4571, 0.5157, 0.006, 0.0034]
+        },
+        {
+          "text": "充電ケーブル・・1",
+          "translation": "Charging cable... 1",
+          "bbox": [0.581, 0.3436, 0.1499, 0.0148]
+        },
+        {
+          "text": "△注意 お買い上げのお客様へ 必ずお読みください。\n●本商品の対象年齢は15才以上です。 対象年齢未満のお子様には絶対に与えないでください。 ●小さな部品がありますので、\n小さなお子様が誤って飲み込まないように注意してください。 窒息などの危険があります。尖った部分や鋭い部分があります\nので、取扱や保管場所に注意してください。思わぬケガをする恐れがあります。 ●耳の近くで使用してはいけません。 誤って\n使用すると、聴覚を損なう恐れがあります。●本商品には電子部品を使用しておりますので、ペースメーカーをご使用の方は\nご注意ください。 ●ぶつけたり、ふりまわすなど乱暴な遊びをしないでください。 ●可動部分には指などを入れないでください。\nはさまれてケガをする恐れがあります。LEDの光の点滅を見続けないでください。気分が悪くなったりする恐れがあります。\n《内蔵された充電式電池を誤使用すると発熱・破裂・発火・液漏れの危険があります。 下記に注意してください》ショートさせると\n大電流が流れ、 危険です。絶対にさけてください。 ●充電済のショドウフォン-MEMORIAL EDITION-への再充電は絶対に\nしないでください。 過充電になり、 危険です。水にぬれたらすぐに使用をやめてください。 ショートの原因になります。 ●水や火の\n中に入れたり、分解、ハンダ付けは絶対にしないでください。火の近く、高温・多湿の場所での使用、充電、保管はしないでくだ\nさい。 廃棄するときは、 自治体の廃棄物処理の指示に従ってください。",
+          "translation": "△ Caution — Please read before use.\n● This product is intended for Ages 15+. Never give it to children below the target age. ● This product contains small parts; ensure that small children do not accidentally swallow them, as there is a risk of choking. ● There are pointed or sharp parts; handle and store with care to avoid accidental injury. ● Do not use near the ear. Improper use may cause hearing damage. ● This product contains electronic components; users with pacemakers should exercise caution. ● Do not play roughly, such as by hitting or swinging the product. ● Do not insert fingers or other objects into moving parts; doing so may result in injury from pinching. Do not stare at flashing LED lights for extended periods, as this may cause discomfort or nausea.\n《Improper use of the built-in rechargeable battery may cause overheating, rupture, fire, or leakage. Observe the following:》 Short-circuiting can cause a large current to flow and is dangerous; avoid it at all times. ● Do not recharge a ShodoPhone -MEMORIAL EDITION- that is already charged; overcharging is dangerous. ● Stop using the product immediately if it gets wet; this can cause a short circuit. ● Never immerse the product in water or fire, disassemble it, or attempt to solder it. Do not use, charge, or store the product near fire or in locations of high temperature or humidity. ● When disposing of the product, follow your local municipality's waste disposal guidelines.",
+          "bbox": [0.1179, 0.6682, 0.7642, 0.1758]
+        },
+        {
+          "text": "《使用上の注意》",
+          "translation": "《Precautions for Use》",
+          "bbox": [0.1082, 0.8589, 0.1088, 0.0102]
+        },
+        {
+          "text": "●本商品は精密に作られています。無理な力を加えたり、落としたりすると破損する恐れがあります。●本商品は精密な電子部品で構成\nされています。落としたり、水にぬらしたり、汚したり、分解したりしないでください。 また、 高温・低温になる所での使用、保管はさけてください。\n●プラスチック梱包材は開封後にはすぐに捨ててください。●本商品を樹脂製のソファーやシート、タイルなどの上に置かないでください。\n長時間接触していると色が移る場合があります。 ●可動部分・取付部分を無理な方向に強く引っ張ったり、曲げたりしないでください。",
+          "translation": "● This product is precision-made. Applying excessive force or dropping it may cause damage. ● This product contains precision electronic components. Do not drop, wet, soil, or disassemble it. Also avoid using or storing it in locations subject to high or low temperatures. ● Dispose of plastic packaging materials immediately after opening. ● Do not place this product on plastic/resin sofas, seats, tiles, or similar surfaces; prolonged contact may cause color transfer. ● Do not forcibly pull or bend movable parts or attachment points in unnatural directions.",
+          "bbox": [0.1094, 0.8775, 0.7799, 0.0521]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.4921, 0.9691, 0.0121, 0.0119]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-1.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書 矢印一覧",
+          "translation": "WEB Instruction Manual — Arrow Legend",
+          "bbox": [0.0369, 0.0336, 0.3077, 0.0149]
+        },
+        {
+          "text": "取り付けます。 |",
+          "translation": "Attach. |",
+          "bbox": [0.4172, 0.0332, 0.1596, 0.0158]
+        },
+        {
+          "text": "取り外します。動かします。",
+          "translation": "Remove. Move.",
+          "bbox": [0.6324, 0.0336, 0.3071, 0.0153]
+        },
+        {
+          "text": "LED",
+          "translation": "LED",
+          "bbox": [0.1451, 0.3976, 0.0369, 0.0081]
+        },
+        {
+          "text": "各部名称",
+          "translation": "Names of Parts",
+          "bbox": [0.1917, 0.106, 0.1161, 0.0226]
+        },
+        {
+          "text": "【正面】",
+          "translation": "[Front View]",
+          "bbox": [0.2346, 0.2022, 0.0466, 0.0115]
+        },
+        {
+          "text": "Yil 20:09",
+          "translation": "Yil 20:09",
+          "bbox": [0.211, 0.2559, 0.0901, 0.0128]
+        },
+        {
+          "text": "機能",
+          "translation": "Functions",
+          "bbox": [0.2152, 0.2716, 0.0163, 0.0043]
+        },
+        {
+          "text": "テンキー",
+          "translation": "Numeric keypad",
+          "bbox": [0.1076, 0.453, 0.0665, 0.0098]
+        },
+        {
+          "text": "7",
+          "translation": "7",
+          "bbox": [0.2183, 0.4696, 0.006, 0.0038]
+        },
+        {
+          "text": "henshin.jpg",
+          "translation": "henshin.jpg",
+          "bbox": [0.2582, 0.275, 0.0345, 0.0038]
+        },
+        {
+          "text": "目次",
+          "translation": "Table of Contents",
+          "bbox": [0.2297, 0.6262, 0.0556, 0.0209]
+        },
+        {
+          "text": "ショドウフォン -MEMORIAL EDITION-",
+          "translation": "ShodoPhone -MEMORIAL EDITION-",
+          "bbox": [0.3114, 0.1716, 0.3761, 0.0132]
+        },
+        {
+          "text": "U",
+          "translation": "U",
+          "bbox": [0.4057, 0.3125, 0.0085, 0.0115]
+        },
+        {
+          "text": "【背面】",
+          "translation": "[Back]",
+          "bbox": [0.4335, 0.2018, 0.0466, 0.0119]
+        },
+        {
+          "text": "MI 20:09 SHODO PHONE",
+          "translation": "MI 20:09 SHODO PHONE",
+          "bbox": [0.4522, 0.261, 0.0097, 0.0732]
+        },
+        {
+          "text": "カバーパーツ",
+          "translation": "Cover part",
+          "bbox": [0.4057, 0.5517, 0.1016, 0.0102]
+        },
+        {
+          "text": "【筆モード右側面】",
+          "translation": "[Brush Mode: Right Side]",
+          "bbox": [0.6052, 0.2005, 0.127, 0.0132]
+        },
+        {
+          "text": "筆先",
+          "translation": "Brush tip",
+          "bbox": [0.6771, 0.2333, 0.0345, 0.0102]
+        },
+        {
+          "text": "文字書きボタン",
+          "translation": "Character writing button",
+          "bbox": [0.5931, 0.3699, 0.1167, 0.0102]
+        },
+        {
+          "text": "・BGMボタン",
+          "translation": "・BGM button",
+          "bbox": [0.5333, 0.4427, 0.0992, 0.0102]
+        },
+        {
+          "text": "充電方法",
+          "translation": "Charging method",
+          "bbox": [0.1179, 0.6982, 0.0955, 0.0136]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.5169, 0.699, 0.0187, 0.0119]
+        },
+        {
+          "text": "変身モード・・・・・・・・",
+          "translation": "Transformation mode...",
+          "bbox": [0.5816, 0.6956, 0.2358, 0.0179]
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.864, 0.6994, 0.0169, 0.0115]
+        },
+        {
+          "text": "動作確認済み USB充電アダプター.... 3",
+          "translation": "USB charging adapter (operation verified) ... 3",
+          "bbox": [0.1173, 0.7301, 0.4166, 0.0162]
+        },
+        {
+          "text": "召喚モード --",
+          "translation": "Summoning Mode --",
+          "bbox": [0.5822, 0.7297, 0.1378, 0.017]
+        },
+        {
+          "text": "7",
+          "translation": "7",
+          "bbox": [0.8628, 0.7318, 0.02, 0.0123]
+        },
+        {
+          "text": "電源の入れ方 / 切り方",
+          "translation": "How to turn the power on/off",
+          "bbox": [0.1185, 0.7633, 0.234, 0.0162]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.5163, 0.7659, 0.0206, 0.0115]
+        },
+        {
+          "text": "合体モード・",
+          "translation": "Combination Mode",
+          "bbox": [0.5816, 0.7633, 0.1276, 0.0162]
+        },
+        {
+          "text": "7",
+          "translation": "7",
+          "bbox": [0.8634, 0.7654, 0.0193, 0.0115]
+        },
+        {
+          "text": "本体の開き方・",
+          "translation": "How to open the unit・",
+          "bbox": [0.1179, 0.7965, 0.1578, 0.0166]
+        },
+        {
+          "text": "モヂカラモード",
+          "translation": "Mojikara Mode",
+          "bbox": [0.5834, 0.7952, 0.1566, 0.017]
+        },
+        {
+          "text": "8",
+          "translation": "8",
+          "bbox": [0.8622, 0.7948, 0.0163, 0.0162]
+        },
+        {
+          "text": "筆モードへの変形",
+          "translation": "Transformation into brush mode",
+          "bbox": [0.1179, 0.8284, 0.1844, 0.0175]
+        },
+        {
+          "text": "キー入力遊び・",
+          "translation": "Key-input game",
+          "bbox": [0.1191, 0.8629, 0.153, 0.0158]
+        },
+        {
+          "text": "BGM遊び",
+          "translation": "BGM play",
+          "bbox": [0.1191, 0.8957, 0.1112, 0.0153]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.4891, 0.9702, 0.0187, 0.0119]
+        },
+        {
+          "text": "4455",
+          "translation": "4455",
+          "bbox": [0.5169, 0.7974, 0.0175, 0.1145]
+        },
+        {
+          "text": "モヂカラ大弾円モード・・・・ 8",
+          "translation": "Mojikara Grand Circular Blast Mode... 8",
+          "bbox": [0.5834, 0.8293, 0.2956, 0.0158]
+        },
+        {
+          "text": "封印モード•••",
+          "translation": "Sealing mode...",
+          "bbox": [0.5822, 0.8629, 0.153, 0.0158]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.8615, 0.8642, 0.0212, 0.0128]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-2.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0369, 0.0233, 0.1663, 0.0107]
+        },
+        {
+          "text": "矢印一覧",
+          "translation": "Arrow list",
+          "bbox": [0.263, 0.0242, 0.0816, 0.0105]
+        },
+        {
+          "text": "■取り付けます。| 取り外します。 動かします。",
+          "translation": "■ Attach. | Detach. | Move.",
+          "bbox": [0.393, 0.0236, 0.5459, 0.011]
+        },
+        {
+          "text": "充電方法",
+          "translation": "Charging method",
+          "bbox": [0.2418, 0.0755, 0.1264, 0.0143]
+        },
+        {
+          "text": "※本商品は充電完了から約2時間連続使用できます。\n※音が小さくなって聞き取りにくくなったり、\n音が繰り返し鳴るなどの誤動作を\nする場合は、充電してください。",
+          "translation": "* This product can be used continuously for approximately 2 hours after charging is complete.\n* If the sound becomes faint and difficult to hear, or if malfunctions occur such as the sound repeating, please charge the device.",
+          "bbox": [0.0901, 0.1305, 0.4504, 0.0603]
+        },
+        {
+          "text": "①カバーパーツを取り外します。\n②充電ケーブルを取り付けます。\n本体の取り付け部分に充電ケーブルのType-C端子側を\n取り付け、 Type-A端子側をパソコンのUSB端子、\nまたはUSB充電アダプターに接続します。",
+          "translation": "① Remove the cover part.\n② Attach the charging cable.\nConnect the Type-C end of the charging cable to the device's mounting part, and connect the Type-A end to a computer's USB port or a USB charging adapter.",
+          "bbox": [0.0792, 0.2013, 0.5103, 0.0651]
+        },
+        {
+          "text": "※充電中は遊べません。\n※電源がONだとLEDが発光します。\n※電源がOFFだとLEDは発光しません。\n③充電が完了したら、\n充電ケーブルを取り外します。\n※充電は約4時間で完了します。\n※充電完了時に電源がOFFになります。\n④カバーパーツを戻します。",
+          "translation": "* The device cannot be used while charging.\n* The LED lights when the power is ON.\n* The LED does not light when the power is OFF.\n③ When charging is complete, disconnect the charging cable.\n* Charging takes approximately 4 hours.\n* The power will turn OFF when charging is complete.\n④ Reattach the cover part.",
+          "bbox": [0.0798, 0.2705, 0.3065, 0.1012]
+        },
+        {
+          "text": "20:09",
+          "translation": "20:09",
+          "bbox": [0.7231, 0.1562, 0.0115, 0.0122]
+        },
+        {
+          "text": "SHODO PHONE",
+          "translation": "SHODO PHONE",
+          "bbox": [0.7261, 0.1833, 0.0103, 0.0361]
+        },
+        {
+          "text": "充電ケーブル",
+          "translation": "Charging cable",
+          "bbox": [0.4528, 0.2741, 0.1004, 0.0078]
+        },
+        {
+          "text": "・ミゾ",
+          "translation": "・Groove",
+          "bbox": [0.8229, 0.2768, 0.0375, 0.0078]
+        },
+        {
+          "text": "(Typec端子側)",
+          "translation": "(Type-C connector side)",
+          "bbox": [0.4414, 0.2846, 0.1239, 0.0084]
+        },
+        {
+          "text": "取り付け部分",
+          "translation": "Mounting part",
+          "bbox": [0.8162, 0.3064, 0.1004, 0.0075]
+        },
+        {
+          "text": "突起",
+          "translation": "Protrusion",
+          "bbox": [0.422, 0.3383, 0.0339, 0.0081]
+        },
+        {
+          "text": "ミゾ",
+          "translation": "Groove",
+          "bbox": [0.5949, 0.367, 0.0339, 0.0084]
+        },
+        {
+          "text": "カバーパーツの突起と",
+          "translation": "Cover part protrusion and",
+          "bbox": [0.101, 0.3759, 0.1941, 0.009]
+        },
+        {
+          "text": "本体のミゾを合わせ、",
+          "translation": "align with the groove on the main unit,",
+          "bbox": [0.1004, 0.3888, 0.185, 0.0096]
+        },
+        {
+          "text": "カバーパーツを閉じます。",
+          "translation": "Close the cover part.",
+          "bbox": [0.101, 0.4025, 0.2213, 0.0087]
+        },
+        {
+          "text": "カバーパーツ 突起",
+          "translation": "Cover part protrusion",
+          "bbox": [0.3863, 0.4297, 0.1445, 0.0078]
+        },
+        {
+          "text": "動作確認済み USB充電アダプター",
+          "translation": "Verified USB charging adapters",
+          "bbox": [0.0985, 0.4828, 0.4988, 0.0155]
+        },
+        {
+          "text": "ショドウフォン-MEMORIAL EDITION-本体を、パソコンのUSB端子以外で充電を\n行う場合の動作確認済みUSB充竜アダプターについて、バンダイで充電・動作確認を行った\nUSB充電アダプターは以下のものとなります。 (2025年6月時点)",
+          "translation": "The following USB charging adapters have been verified by Bandai for charging and operation when charging the ShodoPhone -MEMORIAL EDITION- main unit from a power source other than a computer's USB port. (As of June 2025)",
+          "bbox": [0.0943, 0.5342, 0.8017, 0.0364]
+        },
+        {
+          "text": "アンカー・ジャパン株式会社",
+          "translation": "Anker Japan Co., Ltd.",
+          "bbox": [0.1022, 0.5835, 0.2455, 0.0099]
+        },
+        {
+          "text": "Anker PowerPort mini",
+          "translation": "Anker PowerPort mini",
+          "bbox": [0.1112, 0.6085, 0.2304, 0.0081]
+        },
+        {
+          "text": "ANKER",
+          "translation": "ANKER",
+          "bbox": [0.1729, 0.6575, 0.0472, 0.0099]
+        },
+        {
+          "text": "Q",
+          "translation": "Q",
+          "bbox": [0.266, 0.6566, 0.0085, 0.0042]
+        },
+        {
+          "text": "Anker PowerPort 2 Elite",
+          "translation": "Anker PowerPort 2 Elite",
+          "bbox": [0.0973, 0.7062, 0.2588, 0.0084]
+        },
+        {
+          "text": "ANKER",
+          "translation": "ANKER",
+          "bbox": [0.1675, 0.7755, 0.0502, 0.0116]
+        },
+        {
+          "text": "1Q",
+          "translation": "1Q",
+          "bbox": [0.2908, 0.7725, 0.0151, 0.0075]
+        },
+        {
+          "text": "サンワサプライ株式会社",
+          "translation": "Sanwa Supply Inc.",
+          "bbox": [0.4262, 0.5838, 0.2164, 0.0096]
+        },
+        {
+          "text": "ACA-IP49BKN",
+          "translation": "ACA-IP49BKN",
+          "bbox": [0.4516, 0.6097, 0.1536, 0.0078]
+        },
+        {
+          "text": "エレコム株式会社",
+          "translation": "Elecom Co., Ltd.",
+          "bbox": [0.7297, 0.5838, 0.1578, 0.0099]
+        },
+        {
+          "text": "AVA-ACUAN007",
+          "translation": "AVA-ACUAN007",
+          "bbox": [0.717, 0.6088, 0.1856, 0.0087]
+        },
+        {
+          "text": "ACA-IP70BK\nACA-IP70W",
+          "translation": "ACA-IP70BK\nACA-IP70W",
+          "bbox": [0.4595, 0.7181, 0.1391, 0.0224]
+        },
+        {
+          "text": "MPA-ACU07",
+          "translation": "MPA-ACU07",
+          "bbox": [0.7418, 0.7244, 0.1372, 0.0081]
+        },
+        {
+          "text": "※充電の際には必ず、本体付属の「充電ケーブル」をご使用ください。\n※各社 USB充電アダプターの販売状況などに関しましては、各メーカーや、店頭にてご確認ください。\n※弊社にて上記機器との動作を確認しておりますが、動作保証をするものではありませんので、あらかじめご了承ください。\n※上記機器の取扱説明書も必ずご確認の上、正しくご使用ください。\n※弊社が独自に動作確認したものですので、ショドウフォン-MEMORIAL EDITION-について",
+          "translation": "※ When charging, be sure to use the charging cable supplied with the unit.\n※ For information on sales availability of each company's USB charging adapters, please check with each manufacturer or at retail stores.\n※ We have confirmed operation with the devices listed above, but this does not constitute a guarantee of operation; please understand this in advance.\n※ Be sure to check the instruction manuals for the above devices and use them correctly.\n※ The above devices were independently verified by our company for use with the Shodophone -MEMORIAL EDITION-.",
+          "bbox": [0.0865, 0.8525, 0.8198, 0.0549]
+        },
+        {
+          "text": "各メーカーへのお問合せはご遠慮ください。\n※本取扱説明書の情報は2025年6月の情報となります。\n※仕様及び記載情報は予告なく変更になる場合がございます。",
+          "translation": "Please refrain from contacting the manufacturers.\n※ The information in this Instruction Manual is current as of June 2025.\n※ Specifications and the information contained herein are subject to change without notice.",
+          "bbox": [0.0865, 0.911, 0.448, 0.0314]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.4903, 0.9788, 0.0193, 0.0087]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-3.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書 矢印一覧 ◆ ■ 取り付けます。|",
+          "translation": "WEB Instruction Manual — Arrow legend: ◆ Attach. ■ Remove. | Move.",
+          "bbox": [0.0369, 0.0236, 0.5381, 0.0115]
+        },
+        {
+          "text": "電源の入れ方 / 切り方",
+          "translation": "How to turn the power on/off",
+          "bbox": [0.1898, 0.0761, 0.3192, 0.0158]
+        },
+        {
+          "text": "電源の入れ方",
+          "translation": "How to turn on the power",
+          "bbox": [0.0949, 0.1309, 0.1185, 0.0085]
+        },
+        {
+          "text": "取り外します。◆ 動かします。",
+          "translation": "Remove. ◆ Move.",
+          "bbox": [0.633, 0.0239, 0.3059, 0.0115]
+        },
+        {
+          "text": "本体正面のテンキー (PWR) を約3秒間長押しします。\n→LEDが2回点滅し、振動して起動音が鳴ります。",
+          "translation": "Press and hold the ten‑key (PWR) on the front of the unit for about 3 seconds.\n→ LED flashes twice, the unit vibrates, and a startup sound plays.",
+          "bbox": [0.0998, 0.1582, 0.4674, 0.0233]
+        },
+        {
+          "text": "LED",
+          "translation": "LED",
+          "bbox": [0.653, 0.1843, 0.0369, 0.0061]
+        },
+        {
+          "text": "電源の切り方",
+          "translation": "How to turn the power off",
+          "bbox": [0.0949, 0.2204, 0.1161, 0.0097]
+        },
+        {
+          "text": "テンキー(PWR)",
+          "translation": "Ten‑key (PWR)",
+          "bbox": [0.5623, 0.2167, 0.1276, 0.0082]
+        },
+        {
+          "text": "あ",
+          "translation": "Ah",
+          "bbox": [0.7491, 0.2322, 0.006, 0.003]
+        },
+        {
+          "text": "本体正面のテンキー (PWR) を約10秒間長押しします。\n→LEDが2回点滅し、振動して電源がOFFになります。\n※長押しする際に、 短押し音声が再生されます。\n※無操作状態で約5分間経過すると、自動で電源がOFFになります。",
+          "translation": "Press and hold the ten‑key (PWR) on the front of the unit for about 10 seconds.\n→ LED flashes twice, the unit vibrates, and the power turns OFF.\n※When pressing and holding, the 'press briefly' voice will play.\n※If left idle for about 5 minutes, the power will turn off automatically.",
+          "bbox": [0.0998, 0.247, 0.4897, 0.047]
+        },
+        {
+          "text": "本体の開き方",
+          "translation": "How to open the unit",
+          "bbox": [0.1602, 0.3838, 0.1892, 0.0152]
+        },
+        {
+          "text": "図のようにしっかり本体を開きます。\n展開音が鳴ります。\n※元に戻す場合は矢印と逆方向に閉じます。",
+          "translation": "Open the unit fully as shown in the illustration.\n→ A deployment (opening) sound will play.\n※To return it to its original state, close it in the direction opposite the arrow.",
+          "bbox": [0.101, 0.442, 0.3156, 0.033]
+        },
+        {
+          "text": "Til 20:09 SHODO PHONE",
+          "translation": "Until 20:09 SHODO PHONE",
+          "bbox": [0.4861, 0.5441, 0.0157, 0.0591]
+        },
+        {
+          "text": "筆モードへの変形",
+          "translation": "Transformation into brush mode",
+          "bbox": [0.2237, 0.6781, 0.2473, 0.0152]
+        },
+        {
+          "text": "※本体を開いた状態で行います。",
+          "translation": "※Perform this procedure with the unit open.",
+          "bbox": [0.0967, 0.7314, 0.2878, 0.0097]
+        },
+        {
+          "text": "本体の右側を図のように変形させます。\n→LEDが光り、変形音が鳴り、\n筆先が飛び出します。\n※元に戻す場合は、矢印と逆方向に変形させた後、\n筆先を手で押し込んで戻します。\n※元に戻す際も変形音が鳴ります。",
+          "translation": "Transform the right side of the unit as shown in the illustration.\n→ The LED lights, a transformation sound plays, and the brush tip extends.\n※To return it to its original state, transform it in the direction opposite the arrow, then push the brush tip back in by hand.\n※A transformation sound also plays when returning it to its original state.",
+          "bbox": [0.0998, 0.762, 0.3543, 0.0676]
+        },
+        {
+          "text": "Yil 20:09",
+          "translation": "Yil 20:09",
+          "bbox": [0.5248, 0.7454, 0.0804, 0.0076]
+        },
+        {
+          "text": "自",
+          "translation": "Self",
+          "bbox": [0.5913, 0.7527, 0.0121, 0.0036]
+        },
+        {
+          "text": "機能",
+          "translation": "Function",
+          "bbox": [0.5284, 0.7545, 0.0145, 0.0036]
+        },
+        {
+          "text": "henshin.jpg",
+          "translation": "henshin.jpg",
+          "bbox": [0.5659, 0.7587, 0.032, 0.0048]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.4885, 0.9791, 0.02, 0.0082]
+        },
+        {
+          "text": "変",
+          "translation": "Strange",
+          "bbox": [0.5671, 0.7642, 0.0175, 0.0127]
+        },
+        {
+          "text": "PWR",
+          "translation": "PWR",
+          "bbox": [0.5593, 0.87, 0.0127, 0.0036]
+        },
+        {
+          "text": "PWR",
+          "translation": "PWR",
+          "bbox": [0.7823, 0.2189, 0.0169, 0.0039]
+        },
+        {
+          "text": "13",
+          "translation": "13",
+          "bbox": [0.8222, 0.2322, 0.0091, 0.0045]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.7328, 0.2455, 0.0085, 0.0045]
+        },
+        {
+          "text": "た",
+          "translation": "Ta",
+          "bbox": [0.7491, 0.2449, 0.0073, 0.0027]
+        },
+        {
+          "text": "な",
+          "translation": "Na",
+          "bbox": [0.7944, 0.2455, 0.006, 0.0024]
+        },
+        {
+          "text": "GHI",
+          "translation": "GHI",
+          "bbox": [0.7467, 0.2483, 0.0109, 0.0021]
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.8253, 0.2452, 0.0054, 0.0048]
+        },
+        {
+          "text": "MNC",
+          "translation": "MNC",
+          "bbox": [0.8362, 0.2486, 0.0121, 0.0015]
+        },
+        {
+          "text": "ま",
+          "translation": "Ma",
+          "bbox": [0.7491, 0.2586, 0.0048, 0.0027]
+        },
+        {
+          "text": "8",
+          "translation": "8",
+          "bbox": [0.7793, 0.2589, 0.0067, 0.0039]
+        },
+        {
+          "text": "PORE",
+          "translation": "PORE",
+          "bbox": [0.7449, 0.2622, 0.0109, 0.0015]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.8247, 0.2592, 0.0097, 0.0039]
+        },
+        {
+          "text": "小",
+          "translation": "Small",
+          "bbox": [0.7437, 0.2722, 0.0054, 0.0018]
+        },
+        {
+          "text": "※",
+          "translation": "*",
+          "bbox": [0.7328, 0.2731, 0.0109, 0.0036]
+        },
+        {
+          "text": "0",
+          "translation": "0",
+          "bbox": [0.7793, 0.2731, 0.0067, 0.0033]
+        },
+        {
+          "text": "#",
+          "translation": "#",
+          "bbox": [0.8241, 0.2734, 0.0079, 0.0033]
+        },
+        {
+          "text": "筆先",
+          "translation": "Brush tip",
+          "bbox": [0.6808, 0.7193, 0.0333, 0.0079]
+        },
+        {
+          "text": "20:09",
+          "translation": "20:09",
+          "bbox": [0.8374, 0.4113, 0.0254, 0.0061]
+        },
+        {
+          "text": "henshin.jpg",
+          "translation": "henshin.jpg",
+          "bbox": [0.8192, 0.4256, 0.0375, 0.0042]
+        },
+        {
+          "text": "変身",
+          "translation": "Transformation",
+          "bbox": [0.818, 0.431, 0.0242, 0.0306]
+        },
+        {
+          "text": "PWR",
+          "translation": "PWR",
+          "bbox": [0.812, 0.552, 0.0151, 0.0045]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.8398, 0.565, 0.0054, 0.0036]
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.8404, 0.575, 0.0054, 0.0036]
+        },
+        {
+          "text": "8.",
+          "translation": "8.",
+          "bbox": [0.8102, 0.5808, 0.0145, 0.0045]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.8404, 0.5847, 0.0067, 0.0036]
+        },
+        {
+          "text": "20",
+          "translation": "20",
+          "bbox": [0.8096, 0.5908, 0.0073, 0.0033]
+        },
+        {
+          "text": "#",
+          "translation": "#",
+          "bbox": [0.8398, 0.5944, 0.0073, 0.0033]
+        },
+        {
+          "text": "20:09 SHODO PHONE",
+          "translation": "20:09 Shodo Phone",
+          "bbox": [0.7987, 0.7536, 0.0091, 0.0485]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-4.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "Online Instruction Manual",
+          "bbox": [0.0369, 0.0314, 0.1651, 0.0139]
+        },
+        {
+          "text": "キー入力遊び",
+          "translation": "Key Input Play",
+          "bbox": [0.2545, 0.1005, 0.1898, 0.0195]
+        },
+        {
+          "text": "※本体を開いた状態で行います。",
+          "translation": "*Perform this with the unit open.",
+          "bbox": [0.0973, 0.17, 0.2872, 0.0131]
+        },
+        {
+          "text": "A本体正面のテンキーの\nコールボタンを押します。\nLEDが光り、コール音が鳴ります。\n※コール音再生中に再度コールボタンを\n押すと、コール音が始めから鳴ります。",
+          "translation": "A. Press the Call button on the numeric keypad on the front of the unit. The LED will light and the call tone will play. *If you press the Call button again while the call tone is playing, the call tone will restart from the beginning.",
+          "bbox": [0.0998, 0.2073, 0.3204, 0.0782]
+        },
+        {
+          "text": "⑥本体正面のテンキー(1・4・7) のどれかを押します。\nテンキーを押すたびにLEDが光り、\n入力音A~Cが順に鳴ります。\n※どのテンキーを押しても、入力音A〜Cが順に鳴ります。",
+          "translation": "B. Press any of the numeric keys (1, 4, or 7) on the front of the unit. Each time a key is pressed, the LED will light and input sounds A–C will play in order. *Whichever numeric key you press, input sounds A–C will play in the same sequence.",
+          "bbox": [0.0998, 0.3118, 0.4976, 0.0655]
+        },
+        {
+          "text": "Till 20:09",
+          "translation": "Until 20:09",
+          "bbox": [0.7231, 0.1906, 0.1348, 0.0163]
+        },
+        {
+          "text": "機能",
+          "translation": "Function",
+          "bbox": [0.7291, 0.2117, 0.0254, 0.0064]
+        },
+        {
+          "text": "henshin.jpg",
+          "translation": "henshin.jpg",
+          "bbox": [0.7944, 0.2164, 0.052, 0.0044]
+        },
+        {
+          "text": "LED",
+          "translation": "LED",
+          "bbox": [0.6421, 0.3868, 0.0363, 0.0079]
+        },
+        {
+          "text": "変身",
+          "translation": "Transformation",
+          "bbox": [0.7908, 0.2244, 0.0369, 0.0532]
+        },
+        {
+          "text": "コールボタン",
+          "translation": "Call button",
+          "bbox": [0.5949, 0.4297, 0.0979, 0.0099]
+        },
+        {
+          "text": "PWR",
+          "translation": "PWR",
+          "bbox": [0.783, 0.4349, 0.0193, 0.0052]
+        },
+        {
+          "text": "©本体正面のテンキー",
+          "translation": "C. Numeric keypad on the front of the unit",
+          "bbox": [0.0992, 0.4579, 0.1959, 0.0131]
+        },
+        {
+          "text": "テンキー",
+          "translation": "Numeric keypad",
+          "bbox": [0.442, 0.4555, 0.0659, 0.0099]
+        },
+        {
+          "text": "音声",
+          "translation": "Audio",
+          "bbox": [0.5629, 0.4555, 0.0339, 0.0099]
+        },
+        {
+          "text": "B",
+          "translation": "B",
+          "bbox": [0.6747, 0.4662, 0.0163, 0.0103]
+        },
+        {
+          "text": "4 F",
+          "translation": "4 F",
+          "bbox": [0.734, 0.4698, 0.0224, 0.0052]
+        },
+        {
+          "text": "は\n6",
+          "translation": "is\n6",
+          "bbox": [0.8265, 0.4694, 0.0206, 0.0052]
+        },
+        {
+          "text": "(PWR・2・5・8・0) を押します。",
+          "translation": "Press (PWR, 2, 5, 8, 0).",
+          "bbox": [0.1221, 0.4762, 0.2618, 0.0123]
+        },
+        {
+          "text": "PWR",
+          "translation": "PWR",
+          "bbox": [0.4643, 0.4809, 0.0212, 0.006]
+        },
+        {
+          "text": "獅子折神音",
+          "translation": "Lion Orishin sound",
+          "bbox": [0.5326, 0.479, 0.075, 0.0095]
+        },
+        {
+          "text": "8 や",
+          "translation": "8 Ya",
+          "bbox": [0.7799, 0.4861, 0.023, 0.0068]
+        },
+        {
+          "text": "19",
+          "translation": "19",
+          "bbox": [0.8229, 0.4881, 0.0091, 0.0048]
+        },
+        {
+          "text": "LEDが光り、押した",
+          "translation": "The LED lights.",
+          "bbox": [0.1209, 0.494, 0.1705, 0.0119]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.4595, 0.5028, 0.0103, 0.0064]
+        },
+        {
+          "text": "龍折神音",
+          "translation": "Dragon Orishin sound",
+          "bbox": [0.5326, 0.5008, 0.0605, 0.0099]
+        },
+        {
+          "text": "#",
+          "translation": "#",
+          "bbox": [0.8247, 0.5052, 0.0085, 0.0044]
+        },
+        {
+          "text": "テンキーに対応した\n折神音が鳴ります。",
+          "translation": "An Orishin sound corresponding to the pressed numeric key will play.",
+          "bbox": [0.1203, 0.5111, 0.1759, 0.0306]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.4607, 0.5254, 0.0091, 0.0056]
+        },
+        {
+          "text": "熊折神音",
+          "translation": "Bear Orishin sound",
+          "bbox": [0.5326, 0.523, 0.0593, 0.0095]
+        },
+        {
+          "text": "18",
+          "translation": "18",
+          "bbox": [0.4565, 0.5453, 0.0115, 0.0079]
+        },
+        {
+          "text": "猿折神音",
+          "translation": "Monkey Orishin sound",
+          "bbox": [0.5326, 0.5445, 0.0605, 0.0103]
+        },
+        {
+          "text": "亀折神音",
+          "translation": "Turtle Orishin sound",
+          "bbox": [0.5326, 0.5663, 0.0599, 0.0115]
+        },
+        {
+          "text": "BGM 遊び",
+          "translation": "BGM Play",
+          "bbox": [0.2763, 0.6394, 0.1493, 0.0191]
+        },
+        {
+          "text": "本体背面のBGMボタンを",
+          "translation": "Press the BGM button on the back of the unit.",
+          "bbox": [0.0998, 0.7085, 0.2279, 0.0127]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.425, 0.7069, 0.0339, 0.0099]
+        },
+        {
+          "text": "音声",
+          "translation": "Audio",
+          "bbox": [0.5659, 0.7065, 0.0326, 0.0095]
+        },
+        {
+          "text": "短押しします。",
+          "translation": "Press briefly.",
+          "bbox": [0.0998, 0.7256, 0.1227, 0.0119]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.4377, 0.7315, 0.0079, 0.0068]
+        },
+        {
+          "text": "侍戦隊シンケンジャー",
+          "translation": "Samurai Sentai Shinkenger",
+          "bbox": [0.4994, 0.7307, 0.1457, 0.0095]
+        },
+        {
+          "text": "BGMボタンを",
+          "translation": "The BGM button",
+          "bbox": [0.1209, 0.7419, 0.1312, 0.0123]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.4347, 0.7538, 0.0145, 0.0064]
+        },
+        {
+          "text": "一筆奏上!",
+          "translation": "Ippitsu Soujou!",
+          "bbox": [0.4994, 0.7518, 0.0659, 0.0107]
+        },
+        {
+          "text": "短押しするたびに、",
+          "translation": "Each time you press briefly,",
+          "bbox": [0.1197, 0.7585, 0.1669, 0.0115]
+        },
+        {
+          "text": "表の順に音声が再生、\n停止を繰り返します。",
+          "translation": "Audio playback and pausing will repeat in the order shown in the table.",
+          "bbox": [0.1197, 0.7744, 0.1898, 0.0294]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.4365, 0.776, 0.0109, 0.0064]
+        },
+        {
+          "text": "シンケンジャー参る!!",
+          "translation": "Shinkenger, here we come!",
+          "bbox": [0.5006, 0.7748, 0.1385, 0.0095]
+        },
+        {
+          "text": "※3の後は1に戻ります。",
+          "translation": "*After step 3, return to step 1.",
+          "bbox": [0.3918, 0.7971, 0.1626, 0.0091]
+        },
+        {
+          "text": "BGMボタンを長押しします。",
+          "translation": "Press and hold the BGM button.",
+          "bbox": [0.1016, 0.8296, 0.2473, 0.0123]
+        },
+        {
+          "text": "変身前の太鼓音が再生されます。",
+          "translation": "The taiko (pre-transformation drum) sound will play.",
+          "bbox": [0.1197, 0.8463, 0.2902, 0.0127]
+        },
+        {
+          "text": "※BGMボタンを短押しすると、音声が停止します。",
+          "translation": "*Briefly pressing the BGM button will stop the audio.",
+          "bbox": [0.101, 0.8626, 0.3718, 0.0107]
+        },
+        {
+          "text": "50",
+          "translation": "50",
+          "bbox": [0.4915, 0.9718, 0.0163, 0.0131]
+        },
+        {
+          "text": "BGMボタン",
+          "translation": "BGM Button",
+          "bbox": [0.8186, 0.9091, 0.0937, 0.0099]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-5.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0369, 0.0314, 0.1651, 0.0139]
+        },
+        {
+          "text": "矢印一覧 ■ 取り付けます。| 取り外します。◆ 動かします。",
+          "translation": "Arrow legend ■ Attach. | Remove. ◆ Move.",
+          "bbox": [0.263, 0.0311, 0.6765, 0.0159]
+        },
+        {
+          "text": "変身モード",
+          "translation": "Transformation Mode",
+          "bbox": [0.2709, 0.0991, 0.1554, 0.0207]
+        },
+        {
+          "text": "※本体を閉じた状態から始めます。",
+          "translation": "※Start with the main unit closed.",
+          "bbox": [0.0973, 0.1708, 0.3029, 0.0131]
+        },
+        {
+          "text": "①本体を開きます。\n展開音が鳴ります。\n②本体を筆モードに変形させます。\n→LEDが光り、変形音が鳴り、\n筆先が飛び出します。",
+          "translation": "① Open the main unit.\n➜ A deployment sound plays.\n② Transform the main unit into brush mode.\n➜ The LED lights, a transformation sound plays, and the brush tip pops out.",
+          "bbox": [0.0992, 0.2098, 0.3005, 0.0828]
+        },
+        {
+          "text": "ÖDKSER 1",
+          "translation": "ÖDKSER 1",
+          "bbox": [0.5508, 0.2193, 0.0206, 0.0856]
+        },
+        {
+          "text": "20:09",
+          "translation": "20:09",
+          "bbox": [0.6088, 0.2273, 0.023, 0.0064]
+        },
+        {
+          "text": "Yill",
+          "translation": "Yill",
+          "bbox": [0.7207, 0.2333, 0.0163, 0.0104]
+        },
+        {
+          "text": "henshin.jpg",
+          "translation": "henshin.jpg",
+          "bbox": [0.5925, 0.2436, 0.0326, 0.0056]
+        },
+        {
+          "text": "変",
+          "translation": "変",
+          "bbox": [0.5937, 0.2496, 0.02, 0.0179]
+        },
+        {
+          "text": "③文字書き演出\n文字書きボタンを押します。\n→本体が振動し、文字書き音Aが鳴ります。\n※さらに1秒以内に文字書きボタンを連続で押すことにより、\n文字書き音B、C、Dと順番に鳴ります。\n※文字書き音Dのあとは、文字書き音Aが鳴ります。",
+          "translation": "③ Character-writing effect\nPress the character-writing button.\n➜ The main unit vibrates and plays character-writing sound A.\n※If you press the character-writing button repeatedly within 1 second, character-writing sounds B, C, and D will play in sequence.\n※After character-writing sound D, character-writing sound A will play again.",
+          "bbox": [0.0992, 0.5135, 0.4534, 0.0892]
+        },
+        {
+          "text": "20:09 SHODO PHONE",
+          "translation": "20:09 SHODO PHONE",
+          "bbox": [0.7545, 0.2448, 0.0109, 0.0637]
+        },
+        {
+          "text": "※文字書きボタンを押し続けると、振動が一定時間継続します。",
+          "translation": "※If you keep holding the character-writing button, the vibration continues for a fixed period of time.",
+          "bbox": [0.1179, 0.6063, 0.4534, 0.0107]
+        },
+        {
+          "text": "3X4",
+          "translation": "3X4",
+          "bbox": [0.6904, 0.6326, 0.0278, 0.0076]
+        },
+        {
+          "text": "文字書き",
+          "translation": "Character-writing",
+          "bbox": [0.7527, 0.6354, 0.0665, 0.0107]
+        },
+        {
+          "text": "・ボタン",
+          "translation": "・Button",
+          "bbox": [0.7479, 0.6517, 0.0538, 0.0092]
+        },
+        {
+          "text": "④文字反転演出",
+          "translation": "④ Character-inversion effect",
+          "bbox": [0.0998, 0.6254, 0.1524, 0.0147]
+        },
+        {
+          "text": "③から1秒後、文字書きボタンを押します。\n→LEDが光り、文字反転音が鳴り、振動します。",
+          "translation": "One second after step ③, press the character-writing button.\n➜ The LED lights, a character-inversion sound plays, and the unit vibrates.",
+          "bbox": [0.1203, 0.6425, 0.4099, 0.0299]
+        },
+        {
+          "text": "⑤変身演出\nコールボタンを押します。\n長押し LEDが光り、変身音が鳴ります。\n短押し LEDが光り、短縮変身音が鳴ります。",
+          "translation": "⑤ Transformation effect\nPress the Call button.\nPress and hold → The LED lights and the transformation sound plays.\nPress briefly → The LED lights and a shortened transformation sound plays.",
+          "bbox": [0.0998, 0.6799, 0.4474, 0.0744]
+        },
+        {
+          "text": "PWR",
+          "translation": "PWR",
+          "bbox": [0.7612, 0.7265, 0.0067, 0.0155]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.8047, 0.748, 0.0218, 0.0068]
+        },
+        {
+          "text": "100/000",
+          "translation": "100/000",
+          "bbox": [0.3156, 0.8436, 0.0816, 0.0287]
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.4897, 0.9717, 0.02, 0.0115]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.7364, 0.7826, 0.0121, 0.0084]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.7358, 0.8232, 0.0115, 0.0048]
+        },
+        {
+          "text": "コール",
+          "translation": "コール",
+          "bbox": [0.8283, 0.8217, 0.0502, 0.0084]
+        },
+        {
+          "text": "あ",
+          "translation": "あ",
+          "bbox": [0.7455, 0.84, 0.006, 0.0048]
+        },
+        {
+          "text": "ボタン",
+          "translation": "Button",
+          "bbox": [0.8277, 0.8364, 0.049, 0.0096]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.7291, 0.8579, 0.0085, 0.0056]
+        },
+        {
+          "text": "GHI",
+          "translation": "GHI",
+          "bbox": [0.7424, 0.8611, 0.0115, 0.0024]
+        },
+        {
+          "text": "7 ま",
+          "translation": "7 ま",
+          "bbox": [0.7297, 0.8746, 0.0218, 0.0056]
+        },
+        {
+          "text": "8",
+          "translation": "8",
+          "bbox": [0.7757, 0.8754, 0.0067, 0.0064]
+        },
+        {
+          "text": "わ",
+          "translation": "わ",
+          "bbox": [0.7908, 0.8925, 0.006, 0.0032]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-6.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0369, 0.0255, 0.1651, 0.0113]
+        },
+        {
+          "text": "召喚モード",
+          "translation": "Summoning Mode",
+          "bbox": [0.2715, 0.0803, 0.1548, 0.0171]
+        },
+        {
+          "text": "※本体は筆モード状態で始めます。",
+          "translation": "*The unit starts in brush mode.",
+          "bbox": [0.0973, 0.1381, 0.3023, 0.0103]
+        },
+        {
+          "text": "①モード選択",
+          "translation": "① Mode selection",
+          "bbox": [0.0985, 0.1687, 0.13, 0.0113]
+        },
+        {
+          "text": "テンキー (PWR) を短押しします。\n→本体が1回振動した後、約2秒後に文字書き準備音が鳴ります。",
+          "translation": "Press the keypad (PWR) briefly.\n→ After the unit vibrates once, about 2 seconds later the “ready-to-write” sound will play.",
+          "bbox": [0.1209, 0.1826, 0.5683, 0.0242]
+        },
+        {
+          "text": "②文字書き演出(1~2回目)\n文字書きボタンを押します。",
+          "translation": "② Character-writing effect (1st–2nd time)\nPress the character-writing button.",
+          "bbox": [0.0998, 0.2148, 0.2739, 0.0232]
+        },
+        {
+          "text": "文字書きボタンを押すたびに本体が振動し、文字書き音が鳴ります。\n※文字書きボタンを押し続けると、振動が一定時間継続します。\n③文字書き演出(3回目)\n文字書きボタンを押し続けます。\n本体が振動し、文字書き音Eが鳴ります。\n文字書きボタンを離します。\n→LEDが光り、折神召喚音が鳴ります。\n再度遊びたい場合は ①から操作します。",
+          "translation": "Each time you press the character-writing button, the unit vibrates and character-writing sound E plays.\n*If you hold down the character-writing button, the vibration will continue for a set period of time.\n③ Character-writing effect (3rd time)\nHold down the character-writing button.\nThe unit vibrates and character-writing sound E plays.\nRelease the character-writing button.\n→ The LED lights and the Origami summoning sound plays.\nTo play again, start from step ①.",
+          "bbox": [0.0998, 0.2413, 0.6294, 0.1106]
+        },
+        {
+          "text": "①",
+          "translation": "①",
+          "bbox": [0.1886, 0.3929, 0.0218, 0.0084]
+        },
+        {
+          "text": "23 3",
+          "translation": "23 3",
+          "bbox": [0.2678, 0.3987, 0.0689, 0.0087]
+        },
+        {
+          "text": "20-09",
+          "translation": "20-09",
+          "bbox": [0.532, 0.4206, 0.0169, 0.0065]
+        },
+        {
+          "text": "@",
+          "translation": "@",
+          "bbox": [0.1457, 0.4261, 0.0133, 0.0058]
+        },
+        {
+          "text": "PWR",
+          "translation": "PWR",
+          "bbox": [0.1886, 0.4265, 0.02, 0.0042]
+        },
+        {
+          "text": "1 あ 2",
+          "translation": "1 あ 2",
+          "bbox": [0.1415, 0.44, 0.0526, 0.0055]
+        },
+        {
+          "text": "4 G",
+          "translation": "4 G",
+          "bbox": [0.1403, 0.4561, 0.0181, 0.0035]
+        },
+        {
+          "text": "た",
+          "translation": "た",
+          "bbox": [0.156, 0.4545, 0.0067, 0.0026]
+        },
+        {
+          "text": "7 ま\nPOR",
+          "translation": "7 ま\nPOR",
+          "bbox": [0.1403, 0.4687, 0.0212, 0.0058]
+        },
+        {
+          "text": "8や",
+          "translation": "8や",
+          "bbox": [0.1862, 0.4694, 0.0212, 0.0042]
+        },
+        {
+          "text": "※小文字 0",
+          "translation": "※lowercase 0",
+          "bbox": [0.1397, 0.4829, 0.0526, 0.0058]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.3736, 0.4839, 0.0109, 0.0042]
+        },
+        {
+          "text": "合体モード",
+          "translation": "Combination Mode",
+          "bbox": [0.2709, 0.5458, 0.1548, 0.0155]
+        },
+        {
+          "text": "※本体は筆モード状態で始めます。",
+          "translation": "*The unit starts in brush mode.",
+          "bbox": [0.0973, 0.6026, 0.3023, 0.011]
+        },
+        {
+          "text": "①モード選択\nテンキー(2)を押します。\n→本体が2回振動します。\n②文字書き演出\n文字書きボタンを押します。\n→本体が振動し、文字書き音が鳴ります。",
+          "translation": "① Mode selection\nPress the keypad (2).\n→ The unit vibrates twice.\n\n② Character-writing effect\nPress the character-writing button.\n→ The unit vibrates and the character-writing sound plays.",
+          "bbox": [0.0985, 0.6313, 0.3833, 0.0839]
+        },
+        {
+          "text": "SHODO PH",
+          "translation": "SHODO PH",
+          "bbox": [0.558, 0.4245, 0.0308, 0.0084]
+        },
+        {
+          "text": "100/000",
+          "translation": "100/000",
+          "bbox": [0.5339, 0.4371, 0.0816, 0.0239]
+        },
+        {
+          "text": "※1秒以内に文字書きボタンを押すことにより、連続で操作できます。",
+          "translation": "*By pressing the character-writing button within 1 second, you can operate consecutively.",
+          "bbox": [0.1185, 0.7174, 0.4964, 0.009]
+        },
+        {
+          "text": "※文字書きボタンを押し続けると、振動が一定時間継続します。",
+          "translation": "*If you hold down the character-writing button, the vibration will continue for a fixed period of time.",
+          "bbox": [0.1185, 0.7294, 0.4528, 0.0084]
+        },
+        {
+          "text": "③合体演出",
+          "translation": "③ Combination sequence",
+          "bbox": [0.0992, 0.7445, 0.1076, 0.0119]
+        },
+        {
+          "text": "②から1秒後、文字書きボタンを押します。\n→LEDが光り、本体が振動し、合体音が鳴ります。\n※再度遊びたい場合は①から操作します。",
+          "translation": "One second after step ②, press the character-writing button.\n→ The LED lights, the unit vibrates, and the combination sound plays.\n*To play again, start from step ①.",
+          "bbox": [0.1185, 0.759, 0.4317, 0.0358]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.1415, 0.8703, 0.0054, 0.0048]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.1397, 0.8848, 0.0097, 0.0052]
+        },
+        {
+          "text": "GHI",
+          "translation": "GHI",
+          "bbox": [0.153, 0.8881, 0.0127, 0.0016]
+        },
+        {
+          "text": "①",
+          "translation": "①",
+          "bbox": [0.1868, 0.8387, 0.0218, 0.0087]
+        },
+        {
+          "text": "②③",
+          "translation": "②③",
+          "bbox": [0.2672, 0.8287, 0.0357, 0.0074]
+        },
+        {
+          "text": "PORT",
+          "translation": "PORT",
+          "bbox": [0.1511, 0.9016, 0.0133, 0.0026]
+        },
+        {
+          "text": "8",
+          "translation": "8",
+          "bbox": [0.1862, 0.8994, 0.0067, 0.0042]
+        },
+        {
+          "text": "※※",
+          "translation": "**",
+          "bbox": [0.1391, 0.9142, 0.0097, 0.0039]
+        },
+        {
+          "text": "小文字",
+          "translation": "lowercase",
+          "bbox": [0.1518, 0.9126, 0.0133, 0.0029]
+        },
+        {
+          "text": "7",
+          "translation": "7",
+          "bbox": [0.4903, 0.9777, 0.0206, 0.0097]
+        },
+        {
+          "text": "20-02",
+          "translation": "20-02",
+          "bbox": [0.5218, 0.8516, 0.0157, 0.0055]
+        },
+        {
+          "text": "SHODO PHONE",
+          "translation": "SHODO PHONE",
+          "bbox": [0.549, 0.8555, 0.0417, 0.01]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-7.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0369, 0.0245, 0.1651, 0.0108]
+        },
+        {
+          "text": "モヂカラモード",
+          "translation": "Mojikara Mode",
+          "bbox": [0.2437, 0.078, 0.214, 0.0149]
+        },
+        {
+          "text": "※本体は筆モード状態で始めます。",
+          "translation": "※The unit begins in Brush Mode.",
+          "bbox": [0.0973, 0.1325, 0.3023, 0.0105]
+        },
+        {
+          "text": "①モード選択\nテンキー (5) を押します。\n→本体が3回振動します。\n②文字書き演出\n文字書きボタンを押します。\n→本体が振動し、文字書き音Aが鳴ります。\n※1秒以内に文字書きボタンを連続で押すことにより、\n文字書き音B、C、Dと順番に鳴ります。\n※文字書き音Dのあとは、文字書き音Aが鳴ります。\n※文字書きボタンを押し続けると、振動が一定時間継続します。",
+          "translation": "① Mode selection\nPress the numeric key (5).\n→ The unit vibrates three times.\n\n② Character-writing effect\nPress the character-writing button.\n→ The unit vibrates and character-writing sound A plays.\n※ If you press the character-writing button repeatedly within 1 second, character-writing sounds B, C, and D will play in sequence.\n※ After character-writing sound D, character-writing sound A will play.\n※ Pressing and holding the character-writing button will keep the vibration on for a fixed time.",
+          "bbox": [0.0985, 0.1617, 0.4722, 0.1251]
+        },
+        {
+          "text": "③モヂカラ演出",
+          "translation": "③ Mojikara Effect",
+          "bbox": [0.1004, 0.293, 0.1493, 0.0111]
+        },
+        {
+          "text": "②から約1秒後、文字書きボタンを押します。\n→LEDが光り、本体が振動し、モヂカラ発動音が鳴ります。\n※モヂカラ発動音はA~Cの3種類あります。\n※モヂカラモードを繰り返すたびに、 モヂカラ発動音A~Cが順に鳴ります。\n※再度遊びたい場合は ①から操作します。",
+          "translation": "About 1 second after step ②, press the character-writing button.\n→ The LED lights, the unit vibrates, and a Mojikara activation sound plays.\n※ There are three types of Mojikara activation sounds (A–C).\n※ Each time you use Mojikara Mode, the activation sounds A–C play in order.\n※ To play again, start from step ①.",
+          "bbox": [0.1179, 0.3063, 0.5393, 0.0564]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.1409, 0.4398, 0.0067, 0.005]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.1397, 0.454, 0.0085, 0.004]
+        },
+        {
+          "text": "①",
+          "translation": "①",
+          "bbox": [0.1886, 0.424, 0.0224, 0.0081]
+        },
+        {
+          "text": "7 ま 8や",
+          "translation": "7 ma 8 ya",
+          "bbox": [0.1403, 0.467, 0.0689, 0.0043]
+        },
+        {
+          "text": "②③",
+          "translation": "②③",
+          "bbox": [0.2666, 0.3995, 0.0375, 0.0077]
+        },
+        {
+          "text": "※",
+          "translation": "※",
+          "bbox": [0.1391, 0.481, 0.0097, 0.0037]
+        },
+        {
+          "text": "モヂカラ大弾円モード",
+          "translation": "Mojikara Dai-Dan-En Mode",
+          "bbox": [0.1959, 0.5469, 0.3083, 0.0167]
+        },
+        {
+          "text": "SDDDPHONE",
+          "translation": "SDDDPHONE",
+          "bbox": [0.5568, 0.4258, 0.0459, 0.0087]
+        },
+        {
+          "text": "※本体は筆モード状態で始めます。",
+          "translation": "※The unit begins in Brush Mode.",
+          "bbox": [0.0973, 0.6024, 0.3035, 0.0099]
+        },
+        {
+          "text": "①モード選択\nテンキー (8) を押します。\n本体が4回振動します。\n②文字書き演出\n文字書きボタンを押します。\n→本体が振動し、文字書き音Aが鳴ります。\n※1秒以内に文字書きボタンを連続で押すことにより、\n文字書き音B、C、Dと順番に鳴ります。\n※文字書き音Dのあとは、文字書き音Aが鳴ります。\n※文字書きボタンを押し続けると、振動が一定時間継続します。",
+          "translation": "① Mode selection\nPress the numeric key (8).\n→ The unit vibrates four times.\n\n② Character-writing effect\nPress the character-writing button.\n→ The unit vibrates and character-writing sound A plays.\n※ If you press the character-writing button repeatedly within 1 second, character-writing sounds B, C, and D will play in sequence.\n※ After character-writing sound D, character-writing sound A will play.\n※ Pressing and holding the character-writing button will keep the vibration on for a fixed time.",
+          "bbox": [0.0985, 0.6315, 0.4734, 0.1298]
+        },
+        {
+          "text": "③モヂカラ大弾円演出\n②から約1秒後、文字書きボタンを押します。\n→LEDが光り、本体が振動し、モヂカラ大弾円音が鳴ります。\n※再度遊びたい場合は ①から操作します。",
+          "translation": "③ Mojikara Dai-Dan-En effect\nAbout 1 second after step ②, press the character-writing button.\n→ The LED lights, the unit vibrates, and the Mojikara Dai-Dan-En sound plays.\n※ To play again, start from step ①.",
+          "bbox": [0.0998, 0.7705, 0.549, 0.0471]
+        },
+        {
+          "text": "②③",
+          "translation": "②③",
+          "bbox": [0.2666, 0.8383, 0.0387, 0.0084]
+        },
+        {
+          "text": "あ",
+          "translation": "a",
+          "bbox": [0.1554, 0.8795, 0.0067, 0.0037]
+        },
+        {
+          "text": "PWR\n①",
+          "translation": "PWR\n①",
+          "bbox": [0.1874, 0.8656, 0.0218, 0.0183]
+        },
+        {
+          "text": "4 FF",
+          "translation": "4 FF",
+          "bbox": [0.1403, 0.8938, 0.0236, 0.004]
+        },
+        {
+          "text": "7 ま",
+          "translation": "7 ma",
+          "bbox": [0.1403, 0.9062, 0.0206, 0.004]
+        },
+        {
+          "text": "PORC",
+          "translation": "PORC",
+          "bbox": [0.1511, 0.9102, 0.0127, 0.0012]
+        },
+        {
+          "text": "※ 小文字",
+          "translation": "※ Lowercase",
+          "bbox": [0.1397, 0.9198, 0.0308, 0.0046]
+        },
+        {
+          "text": "R 2009",
+          "translation": "R 2009",
+          "bbox": [0.5254, 0.8588, 0.023, 0.0074]
+        },
+        {
+          "text": "MUNE",
+          "translation": "MUNE",
+          "bbox": [0.5792, 0.8687, 0.0218, 0.0053]
+        },
+        {
+          "text": "000000",
+          "translation": "000000",
+          "bbox": [0.5405, 0.8771, 0.0744, 0.0211]
+        },
+        {
+          "text": "00",
+          "translation": "00",
+          "bbox": [0.4927, 0.9774, 0.0157, 0.0115]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-8.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "Online Instruction Manual",
+          "bbox": [0.0369, 0.0475, 0.1651, 0.021]
+        },
+        {
+          "text": "封印モード",
+          "translation": "Sealing Mode",
+          "bbox": [0.2715, 0.1502, 0.1548, 0.0306]
+        },
+        {
+          "text": "※本体は筆モード状態で始めます。",
+          "translation": "※The main unit starts in brush mode.",
+          "bbox": [0.0973, 0.2578, 0.3029, 0.0192]
+        },
+        {
+          "text": "①モード選択\nテンキー (O) を押します。\n→本体が5回振動します。\n②文字書き演出\n文字書きボタンを押します。\n本体が振動し、文字書き音Gが鳴ります。\n※2秒以内に文字書きボタンを連続で押すことにより、\n文字書き音H、Iと順番に鳴ります。\n※文字書きボタンを押し続けると、振動が一定時間継続します。",
+          "translation": "① Mode selection\nPress the ten-key (O).\n→ The main unit vibrates 5 times.\n② Character-writing effect\nPress the character-writing button.\n→ The main unit vibrates and character-writing sound G plays.\n※ By pressing the character-writing button repeatedly within 2 seconds, character-writing sounds H and I will play in order.\n※ If you continue to press the character-writing button, the vibration continues for a certain period.",
+          "bbox": [0.0985, 0.3143, 0.4728, 0.2194]
+        },
+        {
+          "text": "③封印演出",
+          "translation": "③ Sealing sequence",
+          "bbox": [0.0992, 0.5481, 0.1106, 0.0198]
+        },
+        {
+          "text": "②から2秒後、文字書きボタンを押します。\n→LEDが光り、本体が振動し、封印音が鳴ります。\n※再度遊びたい場合は ①から操作します。",
+          "translation": "Two seconds after step ②, press the character-writing button.\n→ The LED lights, the main unit vibrates, and the sealing sound plays.\n※ If you want to play again, operate from step ①.",
+          "bbox": [0.1185, 0.5727, 0.4335, 0.0667]
+        },
+        {
+          "text": "② ③",
+          "translation": "② ③",
+          "bbox": [0.269, 0.6773, 0.0345, 0.0138]
+        },
+        {
+          "text": "あ",
+          "translation": "a",
+          "bbox": [0.1566, 0.7554, 0.006, 0.0054]
+        },
+        {
+          "text": "4 FF",
+          "translation": "4 FF",
+          "bbox": [0.1403, 0.7825, 0.0393, 0.0084]
+        },
+        {
+          "text": "ま",
+          "translation": "ma",
+          "bbox": [0.1566, 0.8083, 0.0048, 0.0054]
+        },
+        {
+          "text": "※小学",
+          "translation": "*Elementary school",
+          "bbox": [0.1397, 0.8317, 0.0272, 0.012]
+        },
+        {
+          "text": "PWR",
+          "translation": "PWR",
+          "bbox": [0.1892, 0.729, 0.02, 0.0078]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.4897, 0.9579, 0.0212, 0.0168]
+        },
+        {
+          "text": "2009 SHODO PHONE",
+          "translation": "2009 SHODO PHONE",
+          "bbox": [0.5538, 0.7157, 0.0695, 0.0276]
+        }
+      ]
+    }
+  ]
+}

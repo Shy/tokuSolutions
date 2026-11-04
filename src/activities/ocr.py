@@ -1,15 +1,16 @@
 """OCR activities using Document AI."""
 
+import asyncio
 import os
 from dataclasses import dataclass
+from pathlib import Path
 
-from temporalio import activity
-from google.cloud import documentai_v1 as documentai
-from google.oauth2 import service_account
+import pymupdf as fitz  # pymupdf
 from dotenv import load_dotenv
+from google.cloud import documentai_v1 as documentai
+from temporalio import activity
 
-import re
-import fitz  # pymupdf
+from src.quality.providers import google_credentials, parse_documentai
 
 load_dotenv()
 
@@ -17,17 +18,6 @@ load_dotenv()
 PROJECT_ID = os.getenv("ProjectID")
 DOCAI_LOCATION = os.getenv("Location", "us")
 DOCAI_PROCESSOR_ID = os.getenv("ProcessorID")
-CREDENTIALS_PATH = os.getenv("CREDENTIALS_PATH")
-
-
-def get_credentials():
-    """Load Google Cloud credentials."""
-    if not CREDENTIALS_PATH:
-        raise ValueError(
-            "CREDENTIALS_PATH environment variable not set. "
-            "Please add it to your .env file."
-        )
-    return service_account.Credentials.from_service_account_file(CREDENTIALS_PATH)
 
 
 @dataclass
@@ -41,18 +31,6 @@ class TextBlock:
     width: float  # normalized 0-1
     height: float  # normalized 0-1
     confidence: float
-
-
-@dataclass
-class OCRResult:
-    """Result from Document AI OCR."""
-
-    pdf_path: str
-    pages: int
-    blocks: list[TextBlock]
-    full_text: str
-    success: bool
-    error: str | None = None
 
 
 @dataclass
@@ -82,6 +60,11 @@ async def ocr_page_activity(pdf_path: str, page_num: int) -> PageOCRResult:
     """
     activity.logger.info(f"OCR processing page {page_num} of {pdf_path}")
 
+    return await asyncio.to_thread(_ocr_page_sync, pdf_path, page_num)
+
+
+def _ocr_page_sync(pdf_path: str, page_num: int) -> PageOCRResult:
+    """Run blocking PDF rendering and Document AI calls outside the worker event loop."""
     try:
         # Render page as PNG
         doc = fitz.open(pdf_path)
@@ -108,7 +91,9 @@ async def ocr_page_activity(pdf_path: str, page_num: int) -> PageOCRResult:
             # Very large pages need more aggressive scaling
             zoom = 7000 / max_dimension
             dpi = zoom * 72
-            activity.logger.info(f"Page {page_num}: Large page detected ({page_width:.0f}x{page_height:.0f}), reducing DPI to {dpi:.0f}")
+            activity.logger.info(
+                f"Page {page_num}: Large page detected ({page_width:.0f}x{page_height:.0f}), reducing DPI to {dpi:.0f}"
+            )
 
         mat = fitz.Matrix(zoom, zoom)
         pix = page.get_pixmap(matrix=mat)
@@ -122,12 +107,14 @@ async def ocr_page_activity(pdf_path: str, page_num: int) -> PageOCRResult:
         if len(image_bytes) > 10_000_000:  # 10 MB
             image_bytes = pix.tobytes("jpeg", jpg_quality=95)
             mime_type = "image/jpeg"
-            activity.logger.info(f"Page {page_num}: Using JPEG compression ({len(image_bytes) / 1024 / 1024:.1f} MB)")
+            activity.logger.info(
+                f"Page {page_num}: Using JPEG compression ({len(image_bytes) / 1024 / 1024:.1f} MB)"
+            )
 
         doc.close()
 
         # Send to Document AI
-        credentials = get_credentials()
+        credentials = google_credentials(Path(__file__).resolve().parents[2])
         client = documentai.DocumentProcessorServiceClient(credentials=credentials)
 
         name = f"projects/{PROJECT_ID}/locations/{DOCAI_LOCATION}/processors/{DOCAI_PROCESSOR_ID}"
@@ -140,36 +127,32 @@ async def ocr_page_activity(pdf_path: str, page_num: int) -> PageOCRResult:
         request = documentai.ProcessRequest(
             name=name,
             raw_document=raw_document,
+            process_options=documentai.ProcessOptions(
+                ocr_config=documentai.OcrConfig(
+                    hints=documentai.OcrConfig.Hints(language_hints=["ja", "en"])
+                )
+            ),
         )
 
         result = client.process_document(request=request)
         document = result.document
+        from src.quality.ocr_source import save_ocr_source
 
-        # Extract text using blocks from Document AI
-        blocks = []
-        for doc_page in document.pages:
-            for block in doc_page.blocks:
-                vertices = block.layout.bounding_poly.normalized_vertices
-                if len(vertices) >= 4:
-                    x = vertices[0].x
-                    y = vertices[0].y
-                    width = vertices[2].x - vertices[0].x
-                    height = vertices[2].y - vertices[0].y
+        save_ocr_source(document, name, image_bytes, page_num)
 
-                    text = _get_text_from_layout(block.layout, document.text)
-
-                    if text.strip() and not _should_skip_block(text):
-                        blocks.append(
-                            TextBlock(
-                                text=text.strip(),
-                                page=page_num,
-                                x=x,
-                                y=y,
-                                width=width,
-                                height=height,
-                                confidence=block.layout.confidence,
-                            )
-                        )
+        # Use the same source-preserving polygon extraction as the benchmark.
+        blocks = [
+            TextBlock(
+                text=block.text.strip(),
+                page=page_num,
+                x=block.bbox[0],
+                y=block.bbox[1],
+                width=block.bbox[2],
+                height=block.bbox[3],
+                confidence=block.confidence or 0.0,
+            )
+            for block in parse_documentai(document)
+        ]
 
         activity.logger.info(f"Page {page_num} OCR found {len(blocks)} blocks")
 
@@ -182,139 +165,4 @@ async def ocr_page_activity(pdf_path: str, page_num: int) -> PageOCRResult:
 
     except Exception as e:
         activity.logger.error(f"Page {page_num} OCR failed: {e}")
-        return PageOCRResult(
-            page_num=page_num,
-            blocks=[],
-            success=False,
-            error=str(e),
-        )
-
-
-@activity.defn
-async def ocr_document_activity(pdf_path: str) -> OCRResult:
-    """
-    Use Document AI to OCR a PDF and extract text with bounding boxes.
-    """
-    activity.logger.info(f"OCR processing: {pdf_path}")
-
-    try:
-        credentials = get_credentials()
-        client = documentai.DocumentProcessorServiceClient(credentials=credentials)
-
-        # Read PDF
-        with open(pdf_path, "rb") as f:
-            content = f.read()
-
-        # Process with Document AI
-        name = f"projects/{PROJECT_ID}/locations/{DOCAI_LOCATION}/processors/{DOCAI_PROCESSOR_ID}"
-
-        raw_document = documentai.RawDocument(
-            content=content,
-            mime_type="application/pdf",
-        )
-
-        request = documentai.ProcessRequest(
-            name=name,
-            raw_document=raw_document,
-        )
-
-        result = client.process_document(request=request)
-        document = result.document
-
-        # Extract text blocks with positions
-        blocks = []
-        for page_idx, page in enumerate(document.pages):
-            for block in page.blocks:
-                # Get bounding box (normalized coordinates)
-                vertices = block.layout.bounding_poly.normalized_vertices
-                if len(vertices) >= 4:
-                    x = vertices[0].x
-                    y = vertices[0].y
-                    width = vertices[2].x - vertices[0].x
-                    height = vertices[2].y - vertices[0].y
-
-                    # Extract text for this block
-                    text = _get_text_from_layout(block.layout, document.text)
-
-                    # Skip blocks that shouldn't be translated (single numbers, symbols, etc.)
-                    if text.strip() and not _should_skip_block(text):
-                        blocks.append(
-                            TextBlock(
-                                text=text.strip(),
-                                page=page_idx,
-                                x=x,
-                                y=y,
-                                width=width,
-                                height=height,
-                                confidence=block.layout.confidence,
-                            )
-                        )
-
-        activity.logger.info(f"OCR complete: {len(blocks)} blocks found")
-
-        return OCRResult(
-            pdf_path=pdf_path,
-            pages=len(document.pages),
-            blocks=blocks,
-            full_text=document.text,
-            success=True,
-        )
-
-    except Exception as e:
-        activity.logger.error(f"OCR failed: {e}")
-        return OCRResult(
-            pdf_path=pdf_path,
-            pages=0,
-            blocks=[],
-            full_text="",
-            success=False,
-            error=str(e),
-        )
-
-
-def _get_text_from_layout(layout, full_text: str) -> str:
-    """Extract text from a layout element using text anchors."""
-    text = ""
-    for segment in layout.text_anchor.text_segments:
-        start = int(segment.start_index) if segment.start_index else 0
-        end = int(segment.end_index)
-        text += full_text[start:end]
-    return text
-
-
-def _should_skip_block(text: str) -> bool:
-    """
-    Determine if a text block should be skipped (not translated).
-    Skip: single numbers, lone symbols, single letters, short all-caps English.
-    """
-    text = text.strip()
-
-    # Skip empty
-    if not text:
-        return True
-
-    # Skip single numbers (including circled numbers like ①②③)
-    if re.match(r"^[\d①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳]+$", text):
-        return True
-
-    # Skip lone punctuation or symbols
-    if re.match(r"^[・•\-●○■□★☆※→←↑↓↔▲▼◆◇]+$", text):
-        return True
-
-    # Skip very short text that's just a number with punctuation (e.g., "3.", "①")
-    if re.match(r"^[\d①②③④⑤⑥⑦⑧⑨⑩]+[\.\)）:：]?$", text):
-        return True
-
-    # Skip copyright symbols alone
-    if re.match(r"^[©®™]+$", text):
-        return True
-
-    # Skip single Latin letters (A-Z, a-z)
-    if re.match(r"^[A-Za-z]$", text):
-        return True
-
-    # Skip short all-caps English words (1-4 chars) - likely labels/abbreviations
-    if re.match(r"^[A-Z]{1,4}$", text):
-        return True
-
-    return False
+        raise

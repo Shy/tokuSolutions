@@ -1,0 +1,3206 @@
+{
+  "meta": {
+    "manual_name": "Geardalinger",
+    "source": "Geardalinger.pdf",
+    "source_lang": "ja",
+    "target_lang": "en",
+    "source_url": "",
+    "blog_url": "",
+    "pages": 10,
+    "blocks": 628,
+    "thumbnail": "pages/page-0.webp",
+    "tags": ["dx", "kamen-rider", "memorial", "sentai"]
+  },
+  "pages": [
+    {
+      "image": "pages/page-0.webp",
+      "blocks": [
+        {
+          "text": "O",
+          "translation": "O",
+          "bbox": [0.0453, 0.1227, 0.059, 0.0411]
+        },
+        {
+          "text": "内容物",
+          "translation": "Contents",
+          "bbox": [0.0769, 0.2056, 0.0821, 0.02]
+        },
+        {
+          "text": "変形ボタン",
+          "translation": "Transform button",
+          "bbox": [0.1094, 0.2437, 0.0598, 0.0073]
+        },
+        {
+          "text": "カバー",
+          "translation": "Cover",
+          "bbox": [0.1299, 0.3519, 0.035, 0.0079]
+        },
+        {
+          "text": "剣先",
+          "translation": "Sword tip",
+          "bbox": [0.1855, 0.399, 0.0231, 0.0079]
+        },
+        {
+          "text": "ギアダリンガー\nMEMORIAL EDITION",
+          "translation": "Geardalinger\nMEMORIAL EDITION",
+          "bbox": [0.247, 0.0242, 0.5111, 0.081]
+        },
+        {
+          "text": "2021 テレビ朝日・東映AG・東映",
+          "translation": "2021 TV Asahi · Toei AG · Toei",
+          "bbox": [0.8308, 0.0798, 0.1274, 0.0054]
+        },
+        {
+          "text": "とりあつカイせつ めい しょ",
+          "translation": "Instruction Manual",
+          "bbox": [0.4222, 0.1264, 0.1556, 0.0073]
+        },
+        {
+          "text": "取扱説明書",
+          "translation": "Instruction Manual",
+          "bbox": [0.4111, 0.1342, 0.1795, 0.0248]
+        },
+        {
+          "text": "ギアジリンガー (本体)x1 ダイキャスト製センターギア×4",
+          "translation": "Geardalinger (main unit) x1, Die-cast center gears x4",
+          "bbox": [0.3256, 0.214, 0.3368, 0.0097]
+        },
+        {
+          "text": "舵輪",
+          "translation": "Rudder wheel",
+          "bbox": [0.3923, 0.2485, 0.0231, 0.0091]
+        },
+        {
+          "text": "【部",
+          "translation": "【Parts】",
+          "bbox": [0.4726, 0.2479, 0.0308, 0.0085]
+        },
+        {
+          "text": "トリガー",
+          "translation": "Trigger",
+          "bbox": [0.3932, 0.3398, 0.041, 0.0085]
+        },
+        {
+          "text": "O",
+          "translation": "O",
+          "bbox": [0.894, 0.1227, 0.0496, 0.0375]
+        },
+        {
+          "text": "WEB取扱説明書内の画像は全てイメージです。",
+          "translation": "All images in the web instruction manual are for illustrative purposes only.",
+          "bbox": [0.6863, 0.1747, 0.2735, 0.0103]
+        },
+        {
+          "text": "ツーカイザー",
+          "translation": "Tsukaizer",
+          "bbox": [0.7128, 0.3162, 0.0684, 0.0067]
+        },
+        {
+          "text": "ツーカイカッタナー",
+          "translation": "Tsukaikattana",
+          "bbox": [0.8162, 0.315, 0.1009, 0.0085]
+        },
+        {
+          "text": "ツーカイリッキー",
+          "translation": "Tsukairikki",
+          "bbox": [0.7026, 0.4135, 0.0889, 0.0073]
+        },
+        {
+          "text": "ツーカイフリント",
+          "translation": "Tsukaiflint",
+          "bbox": [0.8239, 0.4135, 0.0889, 0.0067]
+        },
+        {
+          "text": "セリフボタン",
+          "translation": "Dialogue button",
+          "bbox": [0.4641, 0.4226, 0.0675, 0.0067]
+        },
+        {
+          "text": "BGMボタン",
+          "translation": "BGM button",
+          "bbox": [0.5573, 0.4214, 0.0658, 0.0085]
+        },
+        {
+          "text": "電池の替え方と電源",
+          "translation": "Battery replacement and power",
+          "bbox": [0.0889, 0.4528, 0.1897, 0.0139]
+        },
+        {
+          "text": "電池カバー",
+          "translation": "Battery cover",
+          "bbox": [0.4479, 0.4534, 0.0573, 0.0091]
+        },
+        {
+          "text": "【側面】",
+          "translation": "【Side】",
+          "bbox": [0.3761, 0.4601, 0.0385, 0.0091]
+        },
+        {
+          "text": "※電源スイッチがOFFになっていることを\n確認してください。",
+          "translation": "* Ensure the power switch is set to OFF.",
+          "bbox": [0.088, 0.4794, 0.241, 0.0218]
+        },
+        {
+          "text": "ツメかけを使い電池カバーを取り外し、\n+またはードライバーで電池蓋を取り外して、\n単4乾電池3本を正しい向きにセットします。\n電源スイッチを (ON)の方向に動かすと\nギアダリンガー起動音とともに\n本体が起動します。",
+          "translation": "Use the tab to remove the battery cover. Using a Phillips (+) or flat‑head (−) screwdriver, remove the battery cover and insert three AAA (単4) batteries, observing the correct polarity. Move the power switch to the (ON) position — the Geardalinger will power on accompanied by its startup sound.",
+          "bbox": [0.0872, 0.5024, 0.2521, 0.0695]
+        },
+        {
+          "text": "ツメかけ",
+          "translation": "Tab",
+          "bbox": [0.5538, 0.5985, 0.0462, 0.0067]
+        },
+        {
+          "text": "d",
+          "translation": "d",
+          "bbox": [0.7897, 0.4613, 0.012, 0.0097]
+        },
+        {
+          "text": "単4 x3",
+          "translation": "AAA x3",
+          "bbox": [0.8231, 0.4613, 0.0684, 0.0091]
+        },
+        {
+          "text": "電源スイッチ",
+          "translation": "Power switch",
+          "bbox": [0.6607, 0.4758, 0.0667, 0.0073]
+        },
+        {
+          "text": "単4乾電池3本使用(別売り)\n●アルカリ電池専用",
+          "translation": "Uses 3 AAA dry batteries (sold separately)\n● Alkaline batteries only",
+          "bbox": [0.7641, 0.4843, 0.147, 0.029]
+        },
+        {
+          "text": "電池蓋",
+          "translation": "Battery cover",
+          "bbox": [0.8419, 0.5381, 0.035, 0.0073]
+        },
+        {
+          "text": "△注意 お買い上げのお客様へ 必ずお読みください。\n●本商品の対象年齢は15才以上です。 対象年齢未満のお子様には絶対に与えないでください。\n●小さな部品、電池がありますので、小さなお子様が誤って飲み込まないように注意してください。 窒息などの危険があります。\n●尖った部分や鋭い部分がありますので、取扱いや保管場所に注意してください。思わぬケガをする恐れがあります。\n●回転部に指や髪の毛や衣服などをはさまれないように注意してください。\n●耳の近くで使用してはいけません。 誤って使用すると、聴覚を損なう恐れがあります。\n●本商品には電子部品を使用しております。 ペースメーカーをご使用の方は、 本商品を身体に近づけないようご注意ください。\n《電池を誤使用すると発熱・破裂・液漏れの恐れがあります。 下記に注意してください》",
+          "translation": "△ Caution — To customers who purchased this product: please read carefully.\n● This product is for Ages 15+. Do not give it to children below the intended age.\n● This product contains small parts and batteries. Be careful that small children do not swallow them accidentally — there is a risk of choking.\n● This product has pointed or sharp parts; handle and store it with care to avoid injury.\n● Be careful not to get fingers, hair, or clothing caught in rotating parts.\n● Do not use it close to your ears. Improper use may damage hearing.\n● This product contains electronic components. If you use a pacemaker, do not bring this product close to your body.\n《Improper use of batteries may cause overheating, rupture, or leakage. Observe the following precautions.》",
+          "bbox": [0.0675, 0.6596, 0.812, 0.1106]
+        },
+        {
+          "text": "●二次電池(充電式電池) は、 絶対に使用しないでください。\n●古い電池と新しい電池、いろいろな種類の電池をまぜて使わないでください。\n●+(プラスマイナス) を正しくセットしてください。",
+          "translation": "● Do not use secondary (rechargeable) batteries.\n● Do not mix old and new batteries or different types of batteries.\n● Insert batteries with the + and − ends correctly oriented.",
+          "bbox": [0.0752, 0.7733, 0.5043, 0.0351]
+        },
+        {
+          "text": "●遊んだ後は必ずスイッチを切り電池をはずしてください。 電池を入れたままにしておくと、液漏れの恐れがあり危険です。\n●ショートさせたり充電、分解、 加熱、火の中に入れたりしないでください。\n●万一、電池から漏れた液が目に入ったときはすぐに大量の水で洗い、医師に相談してください。 皮膚や服に付いた時は水で洗ってください。\n●廃棄するときは、 自治体の廃棄物処理の指示に従ってください。",
+          "translation": "● After playing, always turn off the switch and remove the batteries. Leaving batteries in the product may cause leakage.\n● Do not short-circuit, recharge, disassemble, heat, or place batteries in fire.\n● If battery fluid gets into the eyes, rinse immediately with plenty of water and consult a doctor. If it contacts skin or clothing, wash with water.\n● When disposing of batteries or the product, follow your local municipality's disposal instructions.",
+          "bbox": [0.0667, 0.8108, 0.8632, 0.0478]
+        },
+        {
+          "text": "《使用上の注意》",
+          "translation": "《Precautions for Use》",
+          "bbox": [0.053, 0.8712, 0.1274, 0.0121]
+        },
+        {
+          "text": "●本商品は精密に作られています。無理な力を加えたり、落としたりすると破損する恐れがあります。 本商品は精密な電子部品で\n構成されています。 落としたり、水にぬらしたり、汚したり、分解したりしないでください。 また、高温・低温になる所での使用、保管は\n避けてください。●プラスチック梱包材は、 開封後はすぐに捨ててください。 本商品には塗装部分がありますので、保管の際には\n他のもの (樹脂製品や家具、 ソファー)と接触しないようにしてください。 色が移る場合があります。 ●可動部分・取付部分を無理な\n方向に強く引っ張ったり、曲げたりしないでください。発音の一部にイントネーションが違っていたり、 商品の特性上聞き取り\nにくいものがありますが、ご了承ください。 本商品には対応しているセンタイギア以外はセットしないでください。故障や破損の\n原因となります。",
+          "translation": "● This product is precision-made. Applying excessive force or dropping it may cause damage. It contains precision electronic components — do not drop, get it wet, soil, or disassemble it. Also avoid using or storing it in very high or low temperatures.\n● Dispose of plastic packaging immediately after opening. Some parts of the product are painted; when storing, avoid contact with other items (resin products, furniture, sofas) as colors may transfer.\n● Do not forcibly pull or bend moving parts or attachment points in unnatural directions. Some voice lines may have different intonation or be hard to hear due to product characteristics; please understand.\n● Do not set anything other than compatible Sentai Gears into this product. Doing so may cause malfunction or damage.",
+          "bbox": [0.0538, 0.8906, 0.8923, 0.0913]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-1.webp",
+      "blocks": [
+        {
+          "text": "○ モード切替について",
+          "translation": "○ About Mode Switching",
+          "bbox": [0.0632, 0.0423, 0.3034, 0.023]
+        },
+        {
+          "text": "※電源を入れた場合、通常モードで起動します。",
+          "translation": "※ When the power is turned on, it starts in Normal Mode.",
+          "bbox": [0.0718, 0.0889, 0.2692, 0.0085]
+        },
+        {
+          "text": "セリフボタンを長押しします。\nボタンを長押しするたびに 「切替セリフ」 が鳴り、\n右のリストの順にモードが切り替わります。",
+          "translation": "Press and hold the Phrase button. Each time you press and hold it, a \"mode-change voice\" will play and the mode will advance in the order shown in the list on the right.",
+          "bbox": [0.0709, 0.1342, 0.2889, 0.0339]
+        },
+        {
+          "text": "モード一覧",
+          "translation": "Mode List",
+          "bbox": [0.465, 0.1294, 0.0624, 0.0079]
+        },
+        {
+          "text": "※ ⑤のあとは①に戻ります。",
+          "translation": "※ After ⑤, the sequence returns to ①.",
+          "bbox": [0.0718, 0.1699, 0.1573, 0.0097]
+        },
+        {
+          "text": "【後部】",
+          "translation": "[Rear]",
+          "bbox": [0.2197, 0.1965, 0.0385, 0.0085]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.4615, 0.1669, 0.0214, 0.0067]
+        },
+        {
+          "text": "モード名",
+          "translation": "Mode Name",
+          "bbox": [0.5521, 0.1669, 0.0453, 0.0067]
+        },
+        {
+          "text": "切替セリフ",
+          "translation": "Switch Line",
+          "bbox": [0.7692, 0.1663, 0.0564, 0.0079]
+        },
+        {
+          "text": "通常モード",
+          "translation": "Normal Mode",
+          "bbox": [0.506, 0.1898, 0.0573, 0.0067]
+        },
+        {
+          "text": "ギーアダリンガー!\nメモリアルモード",
+          "translation": "Geardalinger!\nMemorial Mode",
+          "bbox": [0.6462, 0.1892, 0.106, 0.0308]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.4607, 0.2346, 0.0239, 0.0067]
+        },
+        {
+          "text": "モード名",
+          "translation": "Mode Name",
+          "bbox": [0.553, 0.2346, 0.0444, 0.0073]
+        },
+        {
+          "text": "切替セリフ",
+          "translation": "Switch Line",
+          "bbox": [0.7692, 0.234, 0.0564, 0.0085]
+        },
+        {
+          "text": "セリフボタン",
+          "translation": "Phrase Button",
+          "bbox": [0.1573, 0.2437, 0.0675, 0.0067]
+        },
+        {
+          "text": "ゾックスモード",
+          "translation": "Zox Mode",
+          "bbox": [0.506, 0.2576, 0.0735, 0.0073]
+        },
+        {
+          "text": "海賊のパワー!ツーカイザー!",
+          "translation": "Pirate Power! Twokaizer!",
+          "bbox": [0.6581, 0.257, 0.147, 0.0091]
+        },
+        {
+          "text": "③",
+          "translation": "③",
+          "bbox": [0.4667, 0.2817, 0.0145, 0.0073]
+        },
+        {
+          "text": "フリントモード",
+          "translation": "Flint Mode",
+          "bbox": [0.5068, 0.2817, 0.0744, 0.0079]
+        },
+        {
+          "text": "発明のパワー!ツーカイフリント!",
+          "translation": "Power of Invention! Twokai Flint!",
+          "bbox": [0.659, 0.2823, 0.165, 0.0073]
+        },
+        {
+          "text": "ギーアダリンガー!",
+          "translation": "Geardalinger!",
+          "bbox": [0.0949, 0.2926, 0.1342, 0.0115]
+        },
+        {
+          "text": "ヨホホイモード",
+          "translation": "Yohohoi Mode",
+          "bbox": [0.5068, 0.3047, 0.0761, 0.0091]
+        },
+        {
+          "text": "⑤ |ゴールドツイカーモード",
+          "translation": "⑤ Gold TwiKaar Mode",
+          "bbox": [0.4667, 0.3295, 0.1624, 0.0091]
+        },
+        {
+          "text": "ヨホホイ、 ヨホホイ、 ヨホホイホーイ\nヨホホホーイ!",
+          "translation": "Yohohoi, Yohohoi, Yohohoi-hoi\nYohoho-hoi!",
+          "bbox": [0.659, 0.3059, 0.1795, 0.0326]
+        },
+        {
+          "text": "○ 武器モード切替について",
+          "translation": "○ About Weapon Mode Switching",
+          "bbox": [0.0641, 0.4414, 0.3538, 0.0206]
+        },
+        {
+          "text": "※武器モードを切り替えても音声は変わりません。",
+          "translation": "※ Switching weapon modes does not change the audio.",
+          "bbox": [0.0718, 0.4855, 0.2838, 0.0091]
+        },
+        {
+          "text": "変形ボタンを押しながら、",
+          "translation": "While pressing the Transform button,",
+          "bbox": [0.0701, 0.5187, 0.141, 0.0103]
+        },
+        {
+          "text": "剣先を矢印の方向に変形させます。 変形ボタン\n※変形の際、音声は鳴りません。",
+          "translation": "move the sword tip in the direction of the arrow to transform it. *No sound will play during transformation.",
+          "bbox": [0.0701, 0.5314, 0.2906, 0.0206]
+        },
+        {
+          "text": "剣先",
+          "translation": "Sword tip",
+          "bbox": [0.6085, 0.5399, 0.0248, 0.0073]
+        },
+        {
+          "text": "ガンモード",
+          "translation": "Gun Mode",
+          "bbox": [0.1838, 0.688, 0.1068, 0.0133]
+        },
+        {
+          "text": "ソードモード",
+          "translation": "Sword Mode",
+          "bbox": [0.6239, 0.688, 0.1248, 0.0133]
+        },
+        {
+          "text": "BGM遊び\nBGMボタンを短押しすると右記の\nリストの順番でBGMを再生します。",
+          "translation": "BGM Play\nPress the BGM button briefly to play the BGMs in the order shown on the right.",
+          "bbox": [0.0838, 0.7872, 0.1974, 0.0568]
+        },
+        {
+          "text": "BGMボタン",
+          "translation": "BGM Button",
+          "bbox": [0.5641, 0.8809, 0.0658, 0.0067]
+        },
+        {
+          "text": "1 頼れる兄貴",
+          "translation": "1. A Dependable Older Brother",
+          "bbox": [0.659, 0.8277, 0.0718, 0.0079]
+        },
+        {
+          "text": "2 俺たち双子の出番だ!",
+          "translation": "2. It's our turn, the twins!",
+          "bbox": [0.6573, 0.8525, 0.1214, 0.0073]
+        },
+        {
+          "text": "3 天下御免の大立ち回り",
+          "translation": "3. A Grand, Unrivaled Showdown",
+          "bbox": [0.6573, 0.8767, 0.1274, 0.0091]
+        },
+        {
+          "text": "4界賊の唄",
+          "translation": "4. Song of the World-Pirates",
+          "bbox": [0.6564, 0.9015, 0.0675, 0.0073]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-2.webp",
+      "blocks": [
+        {
+          "text": "銃撃遊び\nトリガーを押すと銃撃音が鳴ります。\nメモリアルモードの場合、3回に1回キャラクターのセリフが鳴ります。\nヨホホイモードの場合、ギアを読み込む前はトリガーを押すたびに、\n「ヨホホイ ヨホホイ、 ヨホホイホーイ」 が鳴ります。",
+          "translation": "Shooting Play\nPress the trigger to play a gunshot sound. In Memorial Mode, once every three shots a character's line will play. In Yohohoi Mode, before a Gear is read, each trigger press plays \"Yohohoi Yohohoi, Yohohoi-hoi.\"",
+          "bbox": [0.0855, 0.0435, 0.3889, 0.0804]
+        },
+        {
+          "text": "トリガー",
+          "translation": "Trigger",
+          "bbox": [0.1496, 0.2563, 0.0419, 0.0073]
+        },
+        {
+          "text": "◎ タンバリン遊び",
+          "translation": "◎ Tambourine Play",
+          "bbox": [0.553, 0.0429, 0.2359, 0.0224]
+        },
+        {
+          "text": "舵輪を押すと 「HEY!」と効果音が鳴ります。",
+          "translation": "Press the helm wheel to play the sound \"HEY!\".",
+          "bbox": [0.5598, 0.0792, 0.2427, 0.0091]
+        },
+        {
+          "text": "舵輪",
+          "translation": "Helm wheel",
+          "bbox": [0.7598, 0.1149, 0.0239, 0.0079]
+        },
+        {
+          "text": "HEY!",
+          "translation": "HEY!",
+          "bbox": [0.7735, 0.2739, 0.0393, 0.0085]
+        },
+        {
+          "text": "◎ ダンス攻撃遊び",
+          "translation": "◎ Dance Attack Play",
+          "bbox": [0.0786, 0.3343, 0.2419, 0.0236]
+        },
+        {
+          "text": "トリガーを長押しすると、\nダンス攻撃待機音①が鳴ります。\n※ギア読み込み後に行うと、\nダンス攻撃待機音②が鳴ります。",
+          "translation": "Press and hold the trigger to play Dance Attack standby sound 1. *If performed after reading a Gear, Dance Attack standby sound 2 will play.",
+          "bbox": [0.1265, 0.3851, 0.1974, 0.0459]
+        },
+        {
+          "text": "トリガーを短押し、 または舵輪を押すたびに\n2 ギアを読み込む前は「シャン!」+効果音が鳴り、",
+          "translation": "Each time you press the trigger briefly, or press the helm wheel, before a Gear is read \"Shan!\" + sound effect will play.",
+          "bbox": [0.4675, 0.3869, 0.3026, 0.02]
+        },
+        {
+          "text": "ギアを読み込み後は「ツー!」 +効果音と 「カイ!」 + 効果音が交互に鳴ります。",
+          "translation": "After a Gear is read, \"Tsu!\" plus a sound effect and \"Kai!\" plus a sound effect will play alternately.",
+          "bbox": [0.5094, 0.4099, 0.4205, 0.0091]
+        },
+        {
+          "text": "ダンシング!",
+          "translation": "Dancing!",
+          "bbox": [0.1239, 0.5756, 0.0675, 0.0103]
+        },
+        {
+          "text": "トリガーを長押しすると\n必殺技音が鳴ります。",
+          "translation": "Press and hold the trigger to play a finisher sound.",
+          "bbox": [0.1282, 0.6288, 0.1308, 0.02]
+        },
+        {
+          "text": "フィニッシュ!",
+          "translation": "Finish!",
+          "bbox": [0.2547, 0.7225, 0.0718, 0.0091]
+        },
+        {
+          "text": "パーフェクトコン !",
+          "translation": "Perfect Combo!",
+          "bbox": [0.2974, 0.7594, 0.0795, 0.0091]
+        },
+        {
+          "text": "セリフ遊び",
+          "translation": "Dialogue Play",
+          "bbox": [0.1197, 0.8458, 0.1376, 0.0169]
+        },
+        {
+          "text": "セリフボタンを短押しすると、\n現在選択しているメモリアルモード セリフボタン\nに応じて、 セリフを再生します。\n詳しくは7P以降のセリフリストを\n参照してください。",
+          "translation": "Briefly pressing the dialogue button plays a line corresponding to the currently selected Memorial Mode. For details, see the list of lines starting on page 7.",
+          "bbox": [0.0829, 0.8803, 0.2889, 0.055]
+        },
+        {
+          "text": "※通常モードの場合、 「機械音」が鳴ります。",
+          "translation": "*In Normal Mode, a machine sound plays.",
+          "bbox": [0.0838, 0.9414, 0.2462, 0.0091]
+        },
+        {
+          "text": "ゴールドツイカーモードで\nセリフボタンとBGMボタンを\n同時押しすると、ギア音が鳴り、\n特定の番号のセリフまで\nスキップすることができます。\n詳しくは7P以降の\nセリフリストを",
+          "translation": "In Gold Tweaker Mode, pressing the dialogue and BGM buttons simultaneously plays a gear sound and lets you skip to a specific dialogue number. For details, please refer to the dialogue list starting on page 7.",
+          "bbox": [0.5718, 0.841, 0.1744, 0.0792]
+        },
+        {
+          "text": "参照してください。",
+          "translation": "Please refer to it.",
+          "bbox": [0.5718, 0.9232, 0.1043, 0.0091]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.4915, 0.9819, 0.0162, 0.0103]
+        },
+        {
+          "text": "シャン!",
+          "translation": "Shan!",
+          "bbox": [0.7462, 0.5574, 0.0444, 0.0079]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-3.webp",
+      "blocks": [
+        {
+          "text": "変身遊び",
+          "translation": "Transformation Play",
+          "bbox": [0.1974, 0.0423, 0.1137, 0.0206]
+        },
+        {
+          "text": "※付属の4枚のギアを使用してください。",
+          "translation": "*Please use the four included gears.",
+          "bbox": [0.0846, 0.0822, 0.2342, 0.0091]
+        },
+        {
+          "text": "ツーカイザーを例に説明します。\nセンタイギア35\n※センタイギア33 ツーカイカッタナーを使用する際はソードモードで遊びます。",
+          "translation": "We will explain using Twokaiser as an example.\nSentai Gear 35\n*When using Sentai Gear 33 (Twokai Cuttaner), play in Sword Mode.",
+          "bbox": [0.0846, 0.0822, 0.5479, 0.0206]
+        },
+        {
+          "text": "カバーを開けてギアを表面で入れ、",
+          "translation": "Open the cover and insert the gear with the front surface showing,",
+          "bbox": [0.1256, 0.1239, 0.1983, 0.0085]
+        },
+        {
+          "text": "カバーを閉じます。",
+          "translation": "Close the cover.",
+          "bbox": [0.1256, 0.1342, 0.1051, 0.0103]
+        },
+        {
+          "text": "カバーを閉じた直後にトリガーを押すと、 通常モードの場合は、\n「ギアダリンガーを構える音」、 メモリアルモードの場合は、\n現在選択中のキャラクターの「チェンジ痛快!」が鳴ります。",
+          "translation": "If you press the trigger immediately after closing the cover: in Normal Mode the \"Geardalinger readying\" sound will play; in Memorial Mode the currently selected character's \"チェンジ痛快!\" voice line will play.",
+          "bbox": [0.5752, 0.1233, 0.3479, 0.0339]
+        },
+        {
+          "text": "カバー",
+          "translation": "Cover",
+          "bbox": [0.1017, 0.2981, 0.0342, 0.0085]
+        },
+        {
+          "text": "ツーカイザー",
+          "translation": "Twokaizer",
+          "bbox": [0.3701, 0.2273, 0.0675, 0.0085]
+        },
+        {
+          "text": "チェンジ痛快!\n(メモリアルモードの場合)",
+          "translation": "チェンジ痛快!\n(In Memorial Mode)",
+          "bbox": [0.5607, 0.3337, 0.1265, 0.0206]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.0855, 0.4148, 0.0179, 0.0109]
+        },
+        {
+          "text": "舵輪を回転しギアを読み込みます。\n待機音が鳴るので、鳴り終わるまで",
+          "translation": "Rotate the helm to read the gear. A standby sound will play; wait until it finishes.",
+          "bbox": [0.1248, 0.4105, 0.1974, 0.0206]
+        },
+        {
+          "text": "舵輪を回し続けてください。",
+          "translation": "Keep rotating the helm.",
+          "bbox": [0.1248, 0.4335, 0.1564, 0.0103]
+        },
+        {
+          "text": "変身待機音が鳴っている間に、 舵輪を押します。\nツーカイザーギア、 ツーカイフリントギアの場合 「HEY!」と鳴ります。\nツーカイカッタナーギアの場合「ソレ!」と鳴ります。",
+          "translation": "While the transformation standby sound is playing, press the helm. For the Twokaiser Gear and Twokai Flint Gear it will sound \"HEY!\" For the Twokai Cuttaner Gear it will sound \"SORE!\"",
+          "bbox": [0.5077, 0.4105, 0.4068, 0.0326]
+        },
+        {
+          "text": "→読み込みが完了すると、ギア名を読み上げます。",
+          "translation": "→When loading is complete, the gear name will be announced.",
+          "bbox": [0.1248, 0.4456, 0.2872, 0.0091]
+        },
+        {
+          "text": "ツーカイリッキーギアの場合「オレ!」と鳴ります。\n※何度でも行えます。",
+          "translation": "For the Twokai Ricky Gear it will sound \"ORE!\"\n*This can be performed any number of times.",
+          "bbox": [0.5085, 0.445, 0.2778, 0.0218]
+        },
+        {
+          "text": "ツーカイザー !",
+          "translation": "Twokaiser!",
+          "bbox": [0.2872, 0.6378, 0.0795, 0.0097]
+        },
+        {
+          "text": "トリガーを押します。\n5",
+          "translation": "Press the trigger.\n5",
+          "bbox": [0.0897, 0.6929, 0.1521, 0.0175]
+        },
+        {
+          "text": "ギアに応じた変身音が鳴ります。",
+          "translation": "A transformation sound corresponding to the gear will play.",
+          "bbox": [0.1419, 0.705, 0.1846, 0.0091]
+        },
+        {
+          "text": "メモリアルモードで変身すると、 変身後に\n下記のリストに従った名乗りセリフが鳴ります。",
+          "translation": "When transforming in Memorial Mode, after the transformation the character's heroic introduction line from the list below will play.",
+          "bbox": [0.0906, 0.7279, 0.2598, 0.0242]
+        },
+        {
+          "text": "ヨーソロー\nツーカイに",
+          "translation": "Yo-hohoi\nTsukai ni",
+          "bbox": [0.5564, 0.7086, 0.0641, 0.0218]
+        },
+        {
+          "text": "レボリューション!",
+          "translation": "Revolution!",
+          "bbox": [0.5308, 0.7322, 0.1, 0.0103]
+        },
+        {
+          "text": "名乗りセリフ",
+          "translation": "Heroic introduction line",
+          "bbox": [0.4214, 0.7715, 0.0726, 0.0085]
+        },
+        {
+          "text": "使用ギア",
+          "translation": "Gear Used",
+          "bbox": [0.1376, 0.7848, 0.053, 0.0085]
+        },
+        {
+          "text": "ツーカイザー",
+          "translation": "Twokaizer",
+          "bbox": [0.0846, 0.8192, 0.0684, 0.0085]
+        },
+        {
+          "text": "ツーカイカッタナー\nツーカイリッキー",
+          "translation": "Twokai Cuttaner\nTwokai Ricky",
+          "bbox": [0.0846, 0.8374, 0.1, 0.02]
+        },
+        {
+          "text": "ツーカイフリント",
+          "translation": "Twokai Flint",
+          "bbox": [0.0846, 0.867, 0.0855, 0.0073]
+        },
+        {
+          "text": "ゾックスモード、ヨホホイモード、\nゴールドツイカーモード\n海賊のパワー!ヨホホイ!ツーカイザー!\nツーカイに行くぜ!ヨホホイ!",
+          "translation": "Zox Mode, Yohohoi Mode,\nGold Twikaer Mode\nPirate Power! Yohohoi! Twokaizer!\nLet's go Tsukai-style! Yohohoi!",
+          "bbox": [0.2667, 0.7878, 0.1863, 0.0447]
+        },
+        {
+          "text": "フリントモード",
+          "translation": "Flint Mode",
+          "bbox": [0.5333, 0.7932, 0.0761, 0.0091]
+        },
+        {
+          "text": "クールに侍、シンケンフォーム。いざ参る。\n熱血!超力! オーレン!フォームだ!ほあたー!",
+          "translation": "Cool samurai—Shinken Form. Here I go.\nHot-blooded! Super power! O-ren! Form! Hoh-aa!",
+          "bbox": [0.2573, 0.8368, 0.206, 0.0193]
+        },
+        {
+          "text": "海賊のパワー!ヨホホイ!ツーカイザー!\nツーカイに行くぜ! おーりゃあー!",
+          "translation": "Pirate Power! Yohohoi! Twokaizer!\nLet's go Tsukai-style! Ooryaa!",
+          "bbox": [0.4829, 0.8126, 0.1769, 0.0212]
+        },
+        {
+          "text": "発明のパワー!ツーカイフリント!\nツーカイに行くぜ!ヨホホイ!",
+          "translation": "Power of invention! Twokai Flint!\nLet's go Tsukai-style! Yohohoi!",
+          "bbox": [0.4889, 0.8603, 0.1658, 0.0193]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.4923, 0.9819, 0.0145, 0.0097]
+        },
+        {
+          "text": "HEY!",
+          "translation": "HEY!",
+          "bbox": [0.7564, 0.6348, 0.0402, 0.0085]
+        },
+        {
+          "text": "ギア読み込み後フローに移行 (6Pへ)→",
+          "translation": "Proceed to post-gear-loading flow (to 6P) →",
+          "bbox": [0.7043, 0.9202, 0.2282, 0.0091]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-4.webp",
+      "blocks": [
+        {
+          "text": "おまかせ変身遊び",
+          "translation": "Auto-Transformation Play",
+          "bbox": [0.1444, 0.0441, 0.2248, 0.0187]
+        },
+        {
+          "text": "※付属の4枚のギアを使用してください。 ※センタイギア35 ツーカイザーを例に説明します。\n※センタイギア33 ツーカイカッタナーを使用する際はソードモードで遊びます。",
+          "translation": "Use the four included Gears. The example below uses Sentai Gear 35: Twokaizer. When using Sentai Gear 33: Twokai Cuttana, play in Sword Mode.",
+          "bbox": [0.0846, 0.0822, 0.5479, 0.0212]
+        },
+        {
+          "text": "BGMボタンを長押しします。",
+          "translation": "Press and hold the BGM button.",
+          "bbox": [0.1265, 0.1245, 0.1598, 0.0085]
+        },
+        {
+          "text": "→変身待機音と 「HEY!」 と効果音が鳴り、\nおまかせ変身遊び状態になります。\n※再度BGMボタンを長押しすると、\n変身待機音が鳴り、\n通常遊び状態に戻ります。",
+          "translation": "→The transformation standby sound and \"HEY!\" sound effect will play, and the toy will enter Auto-Transformation Play mode.\n*If you press and hold the BGM button again, the transformation standby sound will play and it will return to Normal Play mode.",
+          "bbox": [0.1248, 0.1354, 0.2393, 0.0562]
+        },
+        {
+          "text": "カバーを開けてギアを表面で入れ、\nカバーを閉じます。",
+          "translation": "Open the cover, insert the Gear onto the surface, and close the cover.",
+          "bbox": [0.5761, 0.1233, 0.1983, 0.0224]
+        },
+        {
+          "text": "※舵輪を押さなくても、 変身待機音に合わせて\n自動で 「HEY!」 が鳴るモードです。\n変身後にBGMも自動再生されます。",
+          "translation": "*In this mode, \"HEY!\" will automatically play in time with the transformation standby sound without pressing the ship's wheel. After transformation, the BGM will also play automatically.",
+          "bbox": [0.5769, 0.1475, 0.2641, 0.032]
+        },
+        {
+          "text": "HEY!",
+          "translation": "HEY!",
+          "bbox": [0.1932, 0.2854, 0.0393, 0.0085]
+        },
+        {
+          "text": "カバーを閉じた直後にトリガーを押すと、",
+          "translation": "If you press the trigger immediately after closing the cover,",
+          "bbox": [0.1256, 0.4105, 0.2256, 0.0085]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.0855, 0.4148, 0.0205, 0.0115]
+        },
+        {
+          "text": "通常モードの場合は、 「ギアダリンガーを構える音」、\nメモリアルモードの場合は、 現在選択中の",
+          "translation": "In Normal Mode, the \"sound of readying the Geardalinger\" will play; in Memorial Mode, the currently selected",
+          "bbox": [0.1256, 0.4226, 0.2906, 0.02]
+        },
+        {
+          "text": "キャラクターの「チェンジ痛快!」が鳴ります。",
+          "translation": "character's \"Change Tsukai!\" line will play.",
+          "bbox": [0.1265, 0.4462, 0.2453, 0.0085]
+        },
+        {
+          "text": "チェンジ痛快!",
+          "translation": "Change Tsukai!",
+          "bbox": [0.0991, 0.6415, 0.0838, 0.0097]
+        },
+        {
+          "text": "(メモリアルモードの場合)",
+          "translation": "(In Memorial Mode)",
+          "bbox": [0.0752, 0.653, 0.1282, 0.0079]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.0897, 0.7116, 0.0179, 0.0121]
+        },
+        {
+          "text": "トリガーを押します。",
+          "translation": "Press the trigger.",
+          "bbox": [0.1299, 0.708, 0.1128, 0.0079]
+        },
+        {
+          "text": "ギアに応じた変身音とBGMが鳴ります。",
+          "translation": "Transformation sound and BGM corresponding to the Gear will play.",
+          "bbox": [0.1427, 0.7195, 0.2308, 0.0085]
+        },
+        {
+          "text": "メモリアルモードで変身すると、変身後に\n下記のリストに従った名乗りセリフが鳴ります。",
+          "translation": "When transforming in Memorial Mode, after the transformation the self-introduction line listed below will play.",
+          "bbox": [0.0906, 0.7437, 0.2615, 0.0218]
+        },
+        {
+          "text": "ツーカイザー",
+          "translation": "Twokaizer",
+          "bbox": [0.8171, 0.2443, 0.0692, 0.0073]
+        },
+        {
+          "text": "舵輪を回転しギアを読み込みます。 待機音が鳴るので、\n鳴り終わるまで舵輪を回し続けてください。\n→読み込みが完了すると、 ギア名を読み上げ、変身待機音が鳴り、\nツーカイザーギア、ツーカイフリントギアの場合 「HEY!」と鳴ります。\nツーカイカッタナーギアの場合「ソレ!」と鳴ります。\nツーカイリッキーギアの場合 「オレ!」と鳴ります。\n※舵輪をたたいても音声は鳴りません。",
+          "translation": "Rotate the ship's wheel to read the Gear. A standby sound will play, so continue rotating the wheel until the sound finishes.\n→When reading is complete, the Gear name will be announced and the transformation standby sound will play. For Twokaizer Gear and Twokai Flint Gear it will say \"HEY!\"; for Twokai Cuttana Gear it will say \"Sore!\"; for Twokai Ricky Gear it will say \"Ore!\".\n*No voice will play if you strike the ship's wheel.",
+          "bbox": [0.5077, 0.4099, 0.4077, 0.0798]
+        },
+        {
+          "text": "ヨーソロー\nツーカイに\nレボリューション!",
+          "translation": "Full speed ahead—\nTo Twokai,\nRevolution!",
+          "bbox": [0.5308, 0.7086, 0.1017, 0.0333]
+        },
+        {
+          "text": "名乗りセリフ",
+          "translation": "Self-introduction line",
+          "bbox": [0.4214, 0.7848, 0.0735, 0.0073]
+        },
+        {
+          "text": "使用ギア",
+          "translation": "Gear Used",
+          "bbox": [0.1376, 0.7963, 0.0538, 0.0091]
+        },
+        {
+          "text": "ゾックスモード、 ヨホホイモード、\nゴールドツイカーモード\n海賊のパワー!ヨホホイ!ツーカイザー!\nツーカイに行くぜ!ヨホホイ!",
+          "translation": "Zox Mode, Yohohoi Mode,\nGold Twika Mode\nPirate power! Yohohoi! Twokaizer!\nLet's go Twokai-style! Yohohoi!",
+          "bbox": [0.2667, 0.8011, 0.1872, 0.0435]
+        },
+        {
+          "text": "フリントモード",
+          "translation": "Flint Mode",
+          "bbox": [0.5333, 0.8065, 0.0761, 0.0073]
+        },
+        {
+          "text": "海賊のパワー!ヨホホイ!ツーカイザー!\nツーカイに行くぜ!おーりゃあー !",
+          "translation": "Pirate power! Yohohoi! Twokaizer!\nLet's go Twokai-style! Ooryah!",
+          "bbox": [0.4829, 0.8247, 0.1769, 0.02]
+        },
+        {
+          "text": "ツーカイザー",
+          "translation": "Twokaizer",
+          "bbox": [0.0846, 0.8319, 0.0692, 0.0073]
+        },
+        {
+          "text": "ツーカイカッタナー\nツーカイリッキー",
+          "translation": "Twokai Cuttana\nTwokai Ricky",
+          "bbox": [0.0846, 0.8495, 0.1, 0.0193]
+        },
+        {
+          "text": "ツーカイフリント",
+          "translation": "Twokai Flint",
+          "bbox": [0.0855, 0.8791, 0.0863, 0.0073]
+        },
+        {
+          "text": "クールに侍、シンケンフォーム。いざ参る。\n熱血! 超力! オーレン!フォームだ!ほあたー!",
+          "translation": "Cool samurai, Shinken Form. I now proceed.\nHot-blooded! Super power! Oren! It's Form! Hoatah!",
+          "bbox": [0.2581, 0.8489, 0.2051, 0.02]
+        },
+        {
+          "text": "発明のパワー!ツーカイフリント!\nツーカイに行くぜ!ヨホホイ!",
+          "translation": "The power of invention! Twokai Flint!\nWe're going Twokai-style! Yohohoi!",
+          "bbox": [0.4897, 0.873, 0.165, 0.0187]
+        },
+        {
+          "text": "※再度BGMボタンを長押しするまで、「おまかせ変身遊び状態」 は解除されません。\n「通常遊び状態」に戻りたい場合は、BGMボタンを長押しして解除してください。",
+          "translation": "*Auto-Transformation Play will not be canceled until you press and hold the BGM button again. To return to Normal Play mode, press and hold the BGM button to cancel it.",
+          "bbox": [0.0547, 0.9262, 0.4778, 0.0212]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.4915, 0.9825, 0.0154, 0.0097]
+        },
+        {
+          "text": "HEY!",
+          "translation": "HEY!",
+          "bbox": [0.7667, 0.6372, 0.0402, 0.0097]
+        },
+        {
+          "text": "ツーカイザー!",
+          "translation": "Twokaizer!",
+          "bbox": [0.806, 0.5121, 0.0795, 0.0103]
+        },
+        {
+          "text": "ギア読み込み後フローに移行 (6Pへ)→",
+          "translation": "After Gear reading, proceed to the flow (to p.6) →",
+          "bbox": [0.7051, 0.9583, 0.2282, 0.0097]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-5.webp",
+      "blocks": [
+        {
+          "text": "ロボ召喚遊び",
+          "translation": "Robot summoning play",
+          "bbox": [0.1607, 0.0447, 0.1684, 0.0181]
+        },
+        {
+          "text": "M",
+          "translation": "M",
+          "bbox": [0.3812, 0.0526, 0.0393, 0.0157]
+        },
+        {
+          "text": "※センタイギア35 ツーカイザーを例に説明します。",
+          "translation": "*This example uses Sentai Gear 35: Twokaizer.",
+          "bbox": [0.0718, 0.0834, 0.2983, 0.0091]
+        },
+        {
+          "text": "カバーを開けて、",
+          "translation": "Open the cover,",
+          "bbox": [0.1128, 0.1239, 0.0957, 0.0085]
+        },
+        {
+          "text": "ギアを裏面で入れ、カバーを閉じます。",
+          "translation": "Insert the Gear with the back side in, and close the cover.",
+          "bbox": [0.1128, 0.136, 0.2154, 0.0085]
+        },
+        {
+          "text": "ツーカイザー",
+          "translation": "Twokaizer",
+          "bbox": [0.3701, 0.2636, 0.0684, 0.0091]
+        },
+        {
+          "text": "②の後でトリガーを押すと、\nさらにロボ召喚音声を聴くことができます。\n※「クロスカイオー召喚音」\n「クローリングオー召喚音」が交互に鳴ります。\n※メモリアルモードの場合、セリフが追加されます。",
+          "translation": "After step ②, press the trigger to hear additional robot summoning voice lines.\n*The \"Cross-Kai-Oh summoning sound\" and the \"Crawling-Oh summoning sound\" play alternately.\n*In Memorial Mode, additional spoken lines are played.",
+          "bbox": [0.1128, 0.4897, 0.2923, 0.0562]
+        },
+        {
+          "text": "クローリングオー!",
+          "translation": "Crawling-Oh!",
+          "bbox": [0.3393, 0.5774, 0.1034, 0.0097]
+        },
+        {
+          "text": "クロスカイオー!",
+          "translation": "Cross-Kai-Oh!",
+          "bbox": [0.3504, 0.6149, 0.0906, 0.0097]
+        },
+        {
+          "text": "faw way Rio",
+          "translation": "Faraway Rio",
+          "bbox": [0.1205, 0.8343, 0.2564, 0.0472]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.4923, 0.9825, 0.0145, 0.0097]
+        },
+        {
+          "text": "読み込みの手順は3Pの変身遊びと同じです。",
+          "translation": "The reading procedure is the same as the transformation play on p.3.",
+          "bbox": [0.5761, 0.1239, 0.2564, 0.0085]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.5342, 0.1282, 0.0214, 0.0121]
+        },
+        {
+          "text": "→舵輪を回してギアを読み込みます。 待機音が鳴るので、\n鳴り終わるまで舵輪を回し続けてください。\n読み込み完了すると召喚音が鳴ります。\n※ツーカイカッタナーギア、 ツーカイリッキーギアを\n読み込んだ場合、 ギア読み込み後フローに移行します。\n(6Pへ)",
+          "translation": "→Turn the helm to read the Gear. A standby sound will play; continue turning the helm until the sound stops. When reading is complete, a summoning sound will play.\n*If you read the Twokai Kattana Gear or the Twokai Ricky Gear, the process will proceed to the post-Gear-reading flow. (See p.6)",
+          "bbox": [0.5769, 0.1354, 0.3239, 0.0671]
+        },
+        {
+          "text": "使用ギア",
+          "translation": "Gears used",
+          "bbox": [0.5906, 0.3966, 0.0513, 0.0097]
+        },
+        {
+          "text": "ツーカイザー/ツーカイフリント\nツーカイカッタナー",
+          "translation": "Twokaizer / Twokai Flint\nTwokai Kattana",
+          "bbox": [0.5368, 0.4141, 0.1615, 0.0212]
+        },
+        {
+          "text": "ツーカイリッキー",
+          "translation": "Twokai Ricky",
+          "bbox": [0.5368, 0.4371, 0.0872, 0.0097]
+        },
+        {
+          "text": "②の後で舵輪を回転させます。",
+          "translation": "After step ②, rotate the helm.",
+          "bbox": [0.5085, 0.4897, 0.1735, 0.0103]
+        },
+        {
+          "text": "クロコダイオー巡航音が鳴ります。",
+          "translation": "The Crocodai-Oh cruising sound will play.",
+          "bbox": [0.5214, 0.5012, 0.1957, 0.0109]
+        },
+        {
+          "text": "召喚音",
+          "translation": "Summoning sound",
+          "bbox": [0.7974, 0.3972, 0.0368, 0.0091]
+        },
+        {
+          "text": "クロコダイオー登場音\nツーカイオーカッタナー合体音\nツーカイオーリッキー合体音",
+          "translation": "Crocodai-Oh arrival sound\nTwokai-Oh Kattana combination sound\nTwokai-Oh Ricky combination sound",
+          "bbox": [0.7376, 0.4141, 0.1487, 0.032]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-6.webp",
+      "blocks": [
+        {
+          "text": "ギア読み込み後フロー",
+          "translation": "Flow after reading a Gear",
+          "bbox": [0.1094, 0.0429, 0.2684, 0.0206]
+        },
+        {
+          "text": "攻撃遊び",
+          "translation": "Attack Play",
+          "bbox": [0.1128, 0.0859, 0.0949, 0.0163]
+        },
+        {
+          "text": "※各ギアの表面を読み込んだ場合に遊べます。\nトリガーを短押しすると攻撃音が鳴ります。",
+          "translation": "Playable when the front surface of a Gear has been read. Press the trigger briefly to play an attack sound.",
+          "bbox": [0.0709, 0.1197, 0.265, 0.0206]
+        },
+        {
+          "text": "※ツーカイカッタナーギアを読み込んだ場合、 剣撃音が鳴ります。\n※ツーカイリッキーギアを読み込んだ場合、 打撃音が鳴ります。",
+          "translation": "* When the Twokai Kattana Gear is read, a sword-slash sound plays.\n* When the Twokai Ricky Gear is read, an impact sound plays.",
+          "bbox": [0.0701, 0.1548, 0.3701, 0.0212]
+        },
+        {
+          "text": "※メモリアルモードでツーカイザーギア、",
+          "translation": "In Memorial Mode, when the Twokaizer Gear,",
+          "bbox": [0.0709, 0.1784, 0.2333, 0.0091]
+        },
+        {
+          "text": "ツーカイフリントギアを読み込んだ場合、\n3回に1回キャラクターのセリフが鳴ります。\n※メモリアルモードでツーカイカッタナーギア、\nツーカイリッキーギアを読み込んだ場合、\n攻撃音とキャラクターのセリフが鳴ります。",
+          "translation": "When the Twokai Flint Gear is read, a character voice line will play one time out of every three readings.\n* In Memorial Mode, when the Twokai Kattana Gear or the Twokai Ricky Gear is read, an attack sound and a character voice line will play.",
+          "bbox": [0.0701, 0.1898, 0.2684, 0.0562]
+        },
+        {
+          "text": "ダンス攻撃遊び",
+          "translation": "Dance Attack Play",
+          "bbox": [0.0872, 0.3241, 0.165, 0.0151]
+        },
+        {
+          "text": "遊び方の手順は2Pのダンス攻撃遊びと同じです。\n※ギア読み込み後フローでは、\nダンス攻撃待機音 ②が鳴ります。",
+          "translation": "The play procedure is the same as the 2P Dance Attack Play.\n* In the post-gear-read flow, Dance Attack standby sound ② will play.",
+          "bbox": [0.0692, 0.3555, 0.2795, 0.0339]
+        },
+        {
+          "text": "必殺技",
+          "translation": "Finishing Move",
+          "bbox": [0.1034, 0.5641, 0.0718, 0.0157]
+        },
+        {
+          "text": "ギアを読み込み終わった状態で、",
+          "translation": "When a Gear has finished being read,",
+          "bbox": [0.0701, 0.5998, 0.1838, 0.0085]
+        },
+        {
+          "text": "再度舵輪を回転させると、",
+          "translation": "If you rotate the helm wheel again,",
+          "bbox": [0.0701, 0.6094, 0.1436, 0.0115]
+        },
+        {
+          "text": "ツーカイザー\nゴールドスクランブル!\n(メモリアルモードの場合)",
+          "translation": "Twokaizer\nGold Scramble!\n(In Memorial Mode)",
+          "bbox": [0.6744, 0.5768, 0.1299, 0.0381]
+        },
+        {
+          "text": "必殺技音が鳴ります。",
+          "translation": "A finishing move sound will play.",
+          "bbox": [0.0692, 0.6239, 0.1205, 0.0079]
+        },
+        {
+          "text": "Cmag\nPanurmayo Rio",
+          "translation": "Cmag\nPanurmayo Rio",
+          "bbox": [0.1342, 0.8065, 0.2436, 0.0846]
+        },
+        {
+          "text": "Mavaco",
+          "translation": "Mavaco",
+          "bbox": [0.2325, 0.9117, 0.1085, 0.0169]
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.4923, 0.9819, 0.0145, 0.0103]
+        },
+        {
+          "text": "ツーカイに誓ッキューン!",
+          "translation": "A thrilling vow—Twokai-style!",
+          "bbox": [0.6026, 0.7297, 0.1359, 0.0091]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-7.webp",
+      "blocks": [
+        {
+          "text": "セリフリスト:ゾックスモード",
+          "translation": "Dialogue List: Zox Mode",
+          "bbox": [0.159, 0.0435, 0.3547, 0.02]
+        },
+        {
+          "text": "順番 キャラクター",
+          "translation": "No. Character",
+          "bbox": [0.0658, 0.0828, 0.1197, 0.0109]
+        },
+        {
+          "text": "音声",
+          "translation": "Audio",
+          "bbox": [0.3256, 0.0846, 0.0282, 0.0085]
+        },
+        {
+          "text": "順番 キャラクター",
+          "translation": "Order Character",
+          "bbox": [0.5, 0.0834, 0.1205, 0.0109]
+        },
+        {
+          "text": "音声",
+          "translation": "Audio",
+          "bbox": [0.7684, 0.084, 0.0282, 0.0091]
+        },
+        {
+          "text": "1 ゾックス",
+          "translation": "1 Zox",
+          "bbox": [0.0761, 0.1016, 0.0846, 0.0091]
+        },
+        {
+          "text": "(クロコダイオー登場SE)",
+          "translation": "(Crocody-Oh entrance sound effect)",
+          "bbox": [0.1957, 0.1016, 0.1436, 0.0085]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.5085, 0.1022, 0.0103, 0.0067]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.5479, 0.101, 0.0487, 0.0091]
+        },
+        {
+          "text": "ツーカイザー、レックスリフレイザー!はあっ!",
+          "translation": "Twokaizer, Rex Refraiser! Ha!",
+          "bbox": [0.6607, 0.1016, 0.2462, 0.0085]
+        },
+        {
+          "text": "ヨホホイ、 ヨホホイ、 ヨホホイホイ･･･",
+          "translation": "Yo-ho-hoi, yo-ho-hoi, yo-ho-hoi-hoi...",
+          "bbox": [0.1957, 0.1167, 0.1957, 0.0079]
+        },
+        {
+          "text": "→攻撃音声",
+          "translation": "→Attack Voice",
+          "bbox": [0.6607, 0.1173, 0.065, 0.0073]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.0735, 0.133, 0.012, 0.006]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.1145, 0.1318, 0.0462, 0.0085]
+        },
+        {
+          "text": "チェンジ痛快!",
+          "translation": "Change! Thrilling!",
+          "bbox": [0.1957, 0.1312, 0.0778, 0.0091]
+        },
+        {
+          "text": "10",
+          "translation": "10",
+          "bbox": [0.506, 0.1324, 0.0179, 0.0067]
+        },
+        {
+          "text": "ゼンカイジュウギア",
+          "translation": "Zenkaiju Gear",
+          "bbox": [0.5487, 0.1312, 0.0991, 0.0091]
+        },
+        {
+          "text": "ゼンカーイガッターイ!",
+          "translation": "Zenkai Gattai!",
+          "bbox": [0.6607, 0.1312, 0.1265, 0.0091]
+        },
+        {
+          "text": "|3",
+          "translation": "|3",
+          "bbox": [0.0735, 0.1421, 0.0137, 0.0121]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.1145, 0.1457, 0.0462, 0.0103]
+        },
+        {
+          "text": "リッキー、力借りるぜ。",
+          "translation": "Ricky, I'm counting on your help.",
+          "bbox": [0.1957, 0.1469, 0.1197, 0.0085]
+        },
+        {
+          "text": "介人&ゾックス",
+          "translation": "Kaito & Zox",
+          "bbox": [0.5487, 0.1469, 0.0838, 0.0085]
+        },
+        {
+          "text": "リッキー",
+          "translation": "Ricky",
+          "bbox": [0.1154, 0.162, 0.0453, 0.0079]
+        },
+        {
+          "text": "おう!",
+          "translation": "Yeah!",
+          "bbox": [0.1957, 0.1626, 0.0282, 0.0067]
+        },
+        {
+          "text": "4 ゾックス",
+          "translation": "4 Zox",
+          "bbox": [0.0735, 0.1753, 0.088, 0.0121]
+        },
+        {
+          "text": "カッタナー、来い!",
+          "translation": "Cattana, come!",
+          "bbox": [0.1949, 0.1771, 0.0983, 0.0085]
+        },
+        {
+          "text": "レッツゴー!FOO~!ノリノリでいくぜ!はっ!最高!\n上手でしょー!ヤッちゃんに教えてもらったんだ~\nヨホホイ、 なになに?体が勝手に...",
+          "translation": "Let's go! Woo—I'm totally in the groove! Ha! Awesome!\nI'm pretty good, right? Yacchan taught me!\nYo-ho-hoi, what's this? My body's moving on its own...",
+          "bbox": [0.6598, 0.1463, 0.2735, 0.0393]
+        },
+        {
+          "text": "カッタナー",
+          "translation": "Cattana",
+          "bbox": [0.1145, 0.1929, 0.0615, 0.0073]
+        },
+        {
+          "text": "よーし!",
+          "translation": "All right!",
+          "bbox": [0.1957, 0.1923, 0.0393, 0.0079]
+        },
+        {
+          "text": "5 ゾックス",
+          "translation": "5 Zox",
+          "bbox": [0.0744, 0.2074, 0.0863, 0.0085]
+        },
+        {
+          "text": "界賊合体!",
+          "translation": "Kaizoku Gattai!",
+          "bbox": [0.1949, 0.2068, 0.0564, 0.0091]
+        },
+        {
+          "text": "ゾックス\n介人",
+          "translation": "Zox\nKaito",
+          "bbox": [0.5487, 0.1917, 0.0453, 0.0236]
+        },
+        {
+          "text": "うおっ･･･と、取れた!",
+          "translation": "Whoa... I got it!",
+          "bbox": [0.6615, 0.1917, 0.1068, 0.0097]
+        },
+        {
+          "text": "あああー! くっついた!",
+          "translation": "Ahhh! It got stuck!",
+          "bbox": [0.6607, 0.2062, 0.1188, 0.0097]
+        },
+        {
+          "text": "16",
+          "translation": "16",
+          "bbox": [0.0744, 0.2177, 0.012, 0.0115]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.1145, 0.2219, 0.0462, 0.0091]
+        },
+        {
+          "text": "来い!ゼンカイジュウギア!",
+          "translation": "Come forth! Zenkaiju Gear!",
+          "bbox": [0.1949, 0.2219, 0.1444, 0.0085]
+        },
+        {
+          "text": "介人&ゾックス",
+          "translation": "Kaito & Zox",
+          "bbox": [0.5487, 0.2219, 0.0846, 0.0091]
+        },
+        {
+          "text": "ゼンカイジュウオー!",
+          "translation": "Zenkaiju-Oh!",
+          "bbox": [0.6607, 0.2219, 0.1137, 0.0091]
+        },
+        {
+          "text": "+ゼンカイジュウギアが飛んでくる音",
+          "translation": "+Sound of the Zenkaiju Gear flying in",
+          "bbox": [0.1957, 0.2364, 0.2068, 0.0097]
+        },
+        {
+          "text": "11",
+          "translation": "11",
+          "bbox": [0.5051, 0.2382, 0.0179, 0.0067]
+        },
+        {
+          "text": "介人&ゾックス",
+          "translation": "Kaito & Zox",
+          "bbox": [0.5487, 0.2358, 0.0829, 0.0109]
+        },
+        {
+          "text": "ゼンカイジュウオー! ツインブレイカー!はああああ!",
+          "translation": "Zenkaiju-Oh! Twin Breaker! Haaaaa!",
+          "bbox": [0.6607, 0.237, 0.2709, 0.0091]
+        },
+        {
+          "text": "7",
+          "translation": "7",
+          "bbox": [0.0744, 0.2527, 0.0103, 0.0073]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.1137, 0.2521, 0.047, 0.0091]
+        },
+        {
+          "text": "|スーパーチェンジ痛快!",
+          "translation": "|Super Change! Thrilling!",
+          "bbox": [0.1889, 0.2515, 0.1342, 0.0097]
+        },
+        {
+          "text": "うわあおおおおおお!! (咆哮)",
+          "translation": "Raaaaaaargh! (Roar)",
+          "bbox": [0.6607, 0.2527, 0.1632, 0.0085]
+        },
+        {
+          "text": "変身ダンス→変身音「はっ!」",
+          "translation": "Transformation dance → Transformation sound \"Ha!\"",
+          "bbox": [0.1949, 0.2678, 0.1564, 0.0085]
+        },
+        {
+          "text": "8",
+          "translation": "8",
+          "bbox": [0.0744, 0.2836, 0.0094, 0.0067]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.1137, 0.283, 0.047, 0.0085]
+        },
+        {
+          "text": "海賊のパワーアップ! スーパーツーカイザー!",
+          "translation": "The Pirate's Power-Up! Super Twokaizer!",
+          "bbox": [0.194, 0.2823, 0.2487, 0.0091]
+        },
+        {
+          "text": "12\n13",
+          "translation": "12\n13",
+          "bbox": [0.5051, 0.269, 0.0188, 0.0212]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.5487, 0.2666, 0.047, 0.0109]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.5487, 0.2817, 0.0453, 0.0097]
+        },
+        {
+          "text": "ツーカイに完成!スーパーツーカイオー\nサラバーイ!→飛び去る音",
+          "translation": "Completed into Twokaioh! Super Twokaioh\nSarabaai! → Sound of flying away",
+          "bbox": [0.6607, 0.2672, 0.2179, 0.0248]
+        },
+        {
+          "text": "セリフリスト:フリントモード",
+          "translation": "Dialogue List: Flint Mode",
+          "bbox": [0.1615, 0.3609, 0.3513, 0.0218]
+        },
+        {
+          "text": "順番 キャラクター",
+          "translation": "Order Character",
+          "bbox": [0.0658, 0.4027, 0.1188, 0.0103]
+        },
+        {
+          "text": "音声",
+          "translation": "Audio",
+          "bbox": [0.3248, 0.4033, 0.0291, 0.0091]
+        },
+        {
+          "text": "順番 キャラクター",
+          "translation": "Order Character",
+          "bbox": [0.5, 0.4027, 0.1197, 0.0103]
+        },
+        {
+          "text": "音声",
+          "translation": "Audio",
+          "bbox": [0.7684, 0.4033, 0.0274, 0.0085]
+        },
+        {
+          "text": "|1234",
+          "translation": "|1234",
+          "bbox": [0.0684, 0.4154, 0.0179, 0.058]
+        },
+        {
+          "text": "フリント",
+          "translation": "Flint",
+          "bbox": [0.1145, 0.4208, 0.0444, 0.0073]
+        },
+        {
+          "text": "ヨホホーイ!",
+          "translation": "Yo-ho-ho!",
+          "bbox": [0.1957, 0.4208, 0.0658, 0.0085]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.5085, 0.4214, 0.0094, 0.0067]
+        },
+        {
+          "text": "フリント",
+          "translation": "Flint",
+          "bbox": [0.5496, 0.4214, 0.0444, 0.0073]
+        },
+        {
+          "text": "いーやったー!発明のパワー!ツーカイフリント!",
+          "translation": "Yeah! The power of invention! Twokai Flint!",
+          "bbox": [0.6299, 0.4208, 0.2615, 0.0085]
+        },
+        {
+          "text": "フリント",
+          "translation": "Flint",
+          "bbox": [0.1145, 0.4353, 0.0453, 0.0085]
+        },
+        {
+          "text": "チェンジ痛快!",
+          "translation": "A Thrilling Transformation!",
+          "bbox": [0.1991, 0.4347, 0.0735, 0.0097]
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.5094, 0.4365, 0.0094, 0.006]
+        },
+        {
+          "text": "フリント",
+          "translation": "Flint",
+          "bbox": [0.5496, 0.4359, 0.0453, 0.0079]
+        },
+        {
+          "text": "サラバーイ!",
+          "translation": "See ya!",
+          "bbox": [0.6299, 0.4353, 0.0684, 0.0085]
+        },
+        {
+          "text": "フリント",
+          "translation": "Flint",
+          "bbox": [0.1145, 0.4504, 0.0453, 0.0085]
+        },
+        {
+          "text": "フリントINツーカイザー変身",
+          "translation": "Flint IN Twokaizer Transformation",
+          "bbox": [0.1957, 0.4504, 0.1615, 0.0091]
+        },
+        {
+          "text": "7",
+          "translation": "7",
+          "bbox": [0.5085, 0.4516, 0.0111, 0.0067]
+        },
+        {
+          "text": "フリント",
+          "translation": "Flint",
+          "bbox": [0.5496, 0.4516, 0.0453, 0.0073]
+        },
+        {
+          "text": "にゃんにゃにゃ〜ん",
+          "translation": "Meow meow meow~",
+          "bbox": [0.6299, 0.451, 0.1068, 0.0091]
+        },
+        {
+          "text": "フリント",
+          "translation": "Flint",
+          "bbox": [0.1145, 0.4655, 0.0453, 0.0085]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.1145, 0.4807, 0.0453, 0.0097]
+        },
+        {
+          "text": "「うわ~!?」 ツーカイフリント変身音一連\nフリント!(スペシャル!)",
+          "translation": "\"Whoa!?\" Twokai Flint transformation sound sequence\nFlint! (Special!)",
+          "bbox": [0.1957, 0.4655, 0.2256, 0.0242]
+        },
+        {
+          "text": "セリフリスト:ヨホホイモード",
+          "translation": "Dialogue List: Yohohoi Mode",
+          "bbox": [0.159, 0.5593, 0.3573, 0.0187]
+        },
+        {
+          "text": "AS",
+          "translation": "AS",
+          "bbox": [0.653, 0.5333, 0.065, 0.0187]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.0667, 0.5992, 0.0282, 0.0091]
+        },
+        {
+          "text": "キャラクター",
+          "translation": "Character",
+          "bbox": [0.1137, 0.5985, 0.0718, 0.0103]
+        },
+        {
+          "text": "音声",
+          "translation": "Audio",
+          "bbox": [0.3248, 0.5992, 0.0282, 0.0091]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.5, 0.5992, 0.0291, 0.0097]
+        },
+        {
+          "text": "キャラクター",
+          "translation": "Character",
+          "bbox": [0.5479, 0.5992, 0.0709, 0.0097]
+        },
+        {
+          "text": "音声",
+          "translation": "Audio",
+          "bbox": [0.7684, 0.5992, 0.0282, 0.0091]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.0761, 0.6173, 0.0051, 0.0054]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.1137, 0.6167, 0.0462, 0.0079]
+        },
+        {
+          "text": "俺は界賊、お宝求めて海から海へ~♪",
+          "translation": "I'm a World-Pirate, sailing from sea to sea in search of treasure~♪",
+          "bbox": [0.1949, 0.6161, 0.2103, 0.0091]
+        },
+        {
+          "text": "7",
+          "translation": "7",
+          "bbox": [0.5085, 0.6167, 0.0111, 0.0067]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.5487, 0.6155, 0.047, 0.0103]
+        },
+        {
+          "text": "俺は界賊、自由求めて世界から世界へ~♪",
+          "translation": "I'm a World-Pirate, seeking freedom as I travel from world to world~♪",
+          "bbox": [0.1957, 0.6312, 0.235, 0.0091]
+        },
+        {
+          "text": "8",
+          "translation": "8",
+          "bbox": [0.5094, 0.6324, 0.0094, 0.0067]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.5479, 0.6318, 0.0479, 0.0079]
+        },
+        {
+          "text": "必ず手に入れるぜ、そしたら気分痛快~♪ヨホホイ!",
+          "translation": "I'll definitely get my hands on it—and then I'll feel absolutely fantastic! Yo-ho-ho!",
+          "bbox": [0.1949, 0.6463, 0.2872, 0.0085]
+        },
+        {
+          "text": "フリント",
+          "translation": "Flint",
+          "bbox": [0.5487, 0.6469, 0.0453, 0.0079]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.0744, 0.6626, 0.0103, 0.0067]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.1145, 0.6608, 0.0462, 0.0097]
+        },
+        {
+          "text": "世界海賊、ゴールドツイカー一家♪",
+          "translation": "World Pirates, the Goldtsuiker Family!",
+          "bbox": [0.1957, 0.6614, 0.1932, 0.0091]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.5077, 0.662, 0.012, 0.0073]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.5487, 0.662, 0.0462, 0.0085]
+        },
+        {
+          "text": "ツーカイに上陸~♪",
+          "translation": "Landing in style~♪",
+          "bbox": [0.1957, 0.6747, 0.1103, 0.0103]
+        },
+        {
+          "text": "フリント",
+          "translation": "Flint",
+          "bbox": [0.1145, 0.6923, 0.0444, 0.0079]
+        },
+        {
+          "text": "テテテテン!",
+          "translation": "Te-te-te-ten!",
+          "bbox": [0.1957, 0.6911, 0.065, 0.0091]
+        },
+        {
+          "text": "10",
+          "translation": "10",
+          "bbox": [0.506, 0.6929, 0.0188, 0.006]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.5487, 0.6923, 0.047, 0.0085]
+        },
+        {
+          "text": "俺は界賊♪面白い勝負見つけりゃ参戦~♪\n俺は界賊♪面白そうなこと(いーどっこいしょー)\n見つけりゃつっこめ~♪ (それそれそれそれ!)\n俺は界賊、強敵出会えば、 この血が騒ぐぜ~♪\nなあ、ハカイザー\n俺は界賊、妙なルールに縛られたくねえ~♪",
+          "translation": "I'm a World-Pirate—if I spot an interesting match, I'll join in~♪\nI'm a World-Pirate—if I find something that looks fun (i-idokkoi-sho)\nI'll dive right into it~♪ (There there there there!)\nI'm a World-Pirate—when I meet a strong foe, this blood boils~♪\nHey, Hakaizer\nI'm a World-Pirate—I don't want to be tied down by strange rules~♪",
+          "bbox": [0.6299, 0.6161, 0.2701, 0.084]
+        },
+        {
+          "text": "4人",
+          "translation": "4 people",
+          "bbox": [0.1137, 0.7074, 0.0248, 0.0073]
+        },
+        {
+          "text": "アオ!",
+          "translation": "Ao!",
+          "bbox": [0.1949, 0.7062, 0.0291, 0.0091]
+        },
+        {
+          "text": "11",
+          "translation": "11",
+          "bbox": [0.5051, 0.708, 0.0171, 0.006]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.5487, 0.7068, 0.0462, 0.0085]
+        },
+        {
+          "text": "ヨホホイ、 ヨホホイ、 ヨホホイホイ･･･",
+          "translation": "Yohohoi, yohohoi, yohohoihoi...",
+          "bbox": [0.6308, 0.7074, 0.1949, 0.0079]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.0752, 0.7231, 0.0094, 0.006]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.1145, 0.7213, 0.0462, 0.0109]
+        },
+        {
+          "text": "ヨホホイ、 ヨホホイ、 ヨホホイホイ･･･",
+          "translation": "Yohohoi, yohohoi, yohohoihoi...",
+          "bbox": [0.1957, 0.7225, 0.1966, 0.0079]
+        },
+        {
+          "text": "ヨホホイ、 ヨホホイ、 ヨホホイホイ･･･、",
+          "translation": "Yohohoi, yohohoi, yohohoihoi...",
+          "bbox": [0.1957, 0.7376, 0.2009, 0.0085]
+        },
+        {
+          "text": "俺の大事な妹ハメたのどこのどいつだ~♪",
+          "translation": "Who is the one who slept with my precious little sister~♪",
+          "bbox": [0.1949, 0.7521, 0.2393, 0.0085]
+        },
+        {
+          "text": "12",
+          "translation": "12",
+          "bbox": [0.5051, 0.7539, 0.0171, 0.0054]
+        },
+        {
+          "text": "界賊一家",
+          "translation": "World-Pirate Family",
+          "bbox": [0.5487, 0.7527, 0.0538, 0.0079]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.0744, 0.7684, 0.0111, 0.006]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.1137, 0.7678, 0.047, 0.0079]
+        },
+        {
+          "text": "俺は界賊、 お宝求めて海から海へ~♪",
+          "translation": "I'm a World-Pirate, sailing from sea to sea in search of treasure~♪",
+          "bbox": [0.1957, 0.7678, 0.2094, 0.0085]
+        },
+        {
+          "text": "俺は界賊、 トジテンド探して、世界から~・・・地下道へ。",
+          "translation": "I'm a World-Pirate, searching for Tojitendo— from the world... to the underground.",
+          "bbox": [0.1949, 0.7823, 0.288, 0.0091]
+        },
+        {
+          "text": "56",
+          "translation": "56",
+          "bbox": [0.0726, 0.7975, 0.0111, 0.0242]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.1137, 0.7981, 0.047, 0.0079]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.1137, 0.8132, 0.047, 0.0079]
+        },
+        {
+          "text": "俺は界賊、 トジテンド見つけりゃどこでも参上~♪\n俺は界賊、 介人求めて空から警察署へ",
+          "translation": "I'm a World-Pirate—if I find Tojitendo, I'll show up anywhere~♪\nI'm a World-Pirate—seeking Kaito, I'll drop in from the sky to the police station",
+          "bbox": [0.1949, 0.7969, 0.2735, 0.0254]
+        },
+        {
+          "text": "ヨホホイ、 ヨホホイ、 ヨホホイホイ･･･、\n俺は界賊、探したぜお前を今こそ仕留める...\nヨホホイ、 ヨホホイ、 ヨホホイホイ･･･\nヨホホイ、 ヨホホイ、 ヨホホイホイ･･･\n俺ら界賊、お宝求めて海から海へ…..\n俺ら界賊、 自由求めて世界から世界へ~",
+          "translation": "Yohohoi, yohohoi, yohohoihoi...\nWe are World-Pirates; I found you at last, now I'll finish you off...\nYohohoi, yohohoi, yohohoihoi...\nYohohoi, yohohoi, yohohoihoi...\nWe are World-Pirates, sailing from sea to sea in search of treasure...\nWe are World-Pirates, traveling from world to world in search of freedom~",
+          "bbox": [0.6299, 0.7225, 0.2487, 0.084]
+        },
+        {
+          "text": "Doyle Mavaco",
+          "translation": "Doyle Mavaco",
+          "bbox": [0.059, 0.9117, 0.2829, 0.0181]
+        },
+        {
+          "text": "7",
+          "translation": "7",
+          "bbox": [0.4923, 0.9819, 0.0154, 0.0103]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-8.webp",
+      "blocks": [
+        {
+          "text": "セリフリスト:ゴールドツイカーモード\nセリフボタンとBGMボタンを同時押しすると、 ギア音が鳴り、\nセリフが7★→15→19→25★→37★→1★の順で鳴ります。 ※1 ★の後は7★に戻ります。\n※セリフボタン短押しした後、セリフボタンとBGMボタンを同時押しすると、 最後に再生されたセリフよりも後ののセリフが鳴ります。",
+          "translation": "Voice Line List: Gold TwiKa Mode\nIf you press the Voice button and the BGM button at the same time, a gear sound will play. The voice lines play in the following order: 7★ → 15 → 19 → 25★ → 37★ → 1★. ※After 1★ the sequence returns to 7★.\n※If you briefly press the Voice button and then press the Voice and BGM buttons at the same time, the voice line that comes after the last-played line will play.",
+          "bbox": [0.0709, 0.0435, 0.7532, 0.0732]
+        },
+        {
+          "text": "音声",
+          "translation": "Audio",
+          "bbox": [0.7908, 0.1318, 0.0273, 0.0085]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.0649, 0.1318, 0.029, 0.0097]
+        },
+        {
+          "text": "キャラクター",
+          "translation": "Character",
+          "bbox": [0.1127, 0.1312, 0.0726, 0.0109]
+        },
+        {
+          "text": "音声",
+          "translation": "Audio",
+          "bbox": [0.3373, 0.1318, 0.029, 0.0091]
+        },
+        {
+          "text": "1★",
+          "translation": "1★",
+          "bbox": [0.0692, 0.1493, 0.0222, 0.0079]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.1127, 0.1493, 0.047, 0.0085]
+        },
+        {
+          "text": "はっ! →登場音声",
+          "translation": "Hah! → Entrance voice line",
+          "bbox": [0.2024, 0.1493, 0.0922, 0.0079]
+        },
+        {
+          "text": "順番 キャラクター\n15★ 介人",
+          "translation": "Order Character\n15★ Kaito",
+          "bbox": [0.5201, 0.1318, 0.1196, 0.0254]
+        },
+        {
+          "text": "介人",
+          "translation": "Kaito",
+          "bbox": [0.1127, 0.1644, 0.029, 0.0085]
+        },
+        {
+          "text": "え･･･誰?",
+          "translation": "Huh... who is it?",
+          "bbox": [0.2015, 0.1651, 0.0461, 0.0073]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.5696, 0.1626, 0.047, 0.0103]
+        },
+        {
+          "text": "約束しただろ!この世界を荒らさないって!\n荒らしてないだろ?",
+          "translation": "You promised! You promised you wouldn't wreak havoc on this world!\nI haven't, have I?",
+          "bbox": [0.6815, 0.1487, 0.2331, 0.023]
+        },
+        {
+          "text": "|23",
+          "translation": "|23",
+          "bbox": [0.07, 0.1735, 0.0162, 0.0284]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.1127, 0.1784, 0.047, 0.0109]
+        },
+        {
+          "text": "ヨホホイ、 ヨホホイ、ヨホホイホイ♪",
+          "translation": "Yohohoi, yohohoi, yohohoihoi♪",
+          "bbox": [0.2015, 0.1796, 0.193, 0.0079]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.1136, 0.1935, 0.0461, 0.0103]
+        },
+        {
+          "text": "俺は界賊、お宝求めて海から海へ~♪\n俺は界賊、自由求めて世界から世界へ~♪",
+          "translation": "I'm a World-Pirate, sailing from sea to sea in search of treasure~♪\nI'm a World-Pirate, traveling from world to world in search of freedom~♪",
+          "bbox": [0.2015, 0.1941, 0.2348, 0.0248]
+        },
+        {
+          "text": "介人",
+          "translation": "Kaito",
+          "bbox": [0.5696, 0.1941, 0.0282, 0.0085]
+        },
+        {
+          "text": "|4",
+          "translation": "|4",
+          "bbox": [0.0726, 0.2358, 0.0128, 0.0109]
+        },
+        {
+          "text": "567",
+          "translation": "567",
+          "bbox": [0.0683, 0.2696, 0.0188, 0.0393]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.1127, 0.2394, 0.047, 0.0091]
+        },
+        {
+          "text": "必ず手に入れるぜ、そしたら気分痛快~♪ヨホホイ!\nゾックス・ゴールドツイカー。 お前、 ギア沢山持ってる\nみたいねえ。とりあえず、いただいちゃお。",
+          "translation": "I'm definitely getting my hands on them—and when I do, it'll feel absolutely exhilarating! Yo-ho-hoi!\nZox Goldtwiker. Looks like you're carrying quite a few Gears. I think I'll just go ahead and take 'em.",
+          "bbox": [0.2007, 0.2243, 0.2886, 0.0393]
+        },
+        {
+          "text": "ゾックス\n介人",
+          "translation": "Zocks\nKaito",
+          "bbox": [0.5696, 0.2092, 0.0453, 0.023]
+        },
+        {
+          "text": "しつこいな",
+          "translation": "You're persistent.",
+          "bbox": [0.6823, 0.2086, 0.0606, 0.0085]
+        },
+        {
+          "text": "ちゃんと金だって払ってる。\n荒らすとこだったろ!",
+          "translation": "I've paid properly.\nYou were about to trash the place, weren't you?",
+          "bbox": [0.6815, 0.1778, 0.1512, 0.0248]
+        },
+        {
+          "text": "何のためにこっちの世界来たんだよ。\n人助けるためじゃなかったら、\n何のために戦ってんだ!",
+          "translation": "What did you come to this world for?\nIf it wasn't to save people,\nthen what are you fighting for?",
+          "bbox": [0.6815, 0.2237, 0.2067, 0.0393]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.1136, 0.2703, 0.0453, 0.0085]
+        },
+        {
+          "text": "チェンジツーカイ!→変身音声",
+          "translation": "Change Twokai! → Transformation sound",
+          "bbox": [0.2032, 0.2696, 0.1657, 0.0091]
+        },
+        {
+          "text": "フリント",
+          "translation": "Flint",
+          "bbox": [0.5705, 0.2696, 0.0453, 0.0073]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.1136, 0.2854, 0.0453, 0.0079]
+        },
+        {
+          "text": "7★",
+          "translation": "7★",
+          "bbox": [0.0666, 0.2993, 0.0256, 0.0097]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.1127, 0.3005, 0.047, 0.0085]
+        },
+        {
+          "text": "海賊のパワー! Foo!ツーカイザー!痛快にいくぜ!\nおおー!うまさ痛快!",
+          "translation": "Pirate power! Woo! Twokaizer! I'm going in with a thrill!\nOoh! Thrillingly delicious!",
+          "bbox": [0.2015, 0.2854, 0.2716, 0.023]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.5696, 0.2842, 0.0453, 0.0091]
+        },
+        {
+          "text": "弟を元に戻すためだよ!\nおいフリント!",
+          "translation": "It's to turn my little brother back to normal!\nHey, Flint!",
+          "bbox": [0.6815, 0.269, 0.1307, 0.0236]
+        },
+        {
+          "text": "フリント",
+          "translation": "Flint",
+          "bbox": [0.5696, 0.2999, 0.0461, 0.0079]
+        },
+        {
+          "text": "だってゴチャゴチャうるせーじゃん",
+          "translation": "I mean, you're just making a fuss about nothing.",
+          "bbox": [0.6815, 0.2987, 0.1896, 0.0097]
+        },
+        {
+          "text": "カッタナー",
+          "translation": "Cattana",
+          "bbox": [0.1136, 0.315, 0.0606, 0.0085]
+        },
+        {
+          "text": "こんなお菓子、はじめてだ!",
+          "translation": "I've never had a treat like this before!",
+          "bbox": [0.2015, 0.3144, 0.1477, 0.0097]
+        },
+        {
+          "text": "あたしたちの気も知らないで!",
+          "translation": "Without even realizing how we feel!",
+          "bbox": [0.6823, 0.315, 0.1674, 0.0079]
+        },
+        {
+          "text": "リッキー",
+          "translation": "Ricky",
+          "bbox": [0.1144, 0.3301, 0.0444, 0.0091]
+        },
+        {
+          "text": "駄菓子って言うらしいぜ!",
+          "translation": "Apparently, they call them \"dagashi\"!",
+          "bbox": [0.2015, 0.3295, 0.1375, 0.0091]
+        },
+        {
+          "text": "介人",
+          "translation": "Kaito",
+          "bbox": [0.1127, 0.3458, 0.029, 0.0079]
+        },
+        {
+          "text": "子分?",
+          "translation": "A henchman?",
+          "bbox": [0.2015, 0.3452, 0.0342, 0.0079]
+        },
+        {
+          "text": "16",
+          "translation": "16",
+          "bbox": [0.526, 0.3313, 0.0196, 0.006]
+        },
+        {
+          "text": "フリント",
+          "translation": "Flint",
+          "bbox": [0.5705, 0.3301, 0.0444, 0.0073]
+        },
+        {
+          "text": "トジテンドからパクった技術で、",
+          "translation": "Using technology swiped from Tojitendo,",
+          "bbox": [0.6823, 0.3301, 0.1734, 0.0085]
+        },
+        {
+          "text": "私も並行世界ゲート作ってさ、",
+          "translation": "I built a parallel-world gate, too, you know.",
+          "bbox": [0.6815, 0.3452, 0.1682, 0.0085]
+        },
+        {
+          "text": "フリント",
+          "translation": "Flint",
+          "bbox": [0.1136, 0.3609, 0.0444, 0.0073]
+        },
+        {
+          "text": "誰が子分だ!?",
+          "translation": "Who's a lackey!?",
+          "bbox": [0.2015, 0.3609, 0.0777, 0.0073]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.1127, 0.3761, 0.047, 0.0079]
+        },
+        {
+          "text": "妹のフリントだ。",
+          "translation": "This is my younger sister, Flint.",
+          "bbox": [0.2007, 0.3742, 0.0897, 0.0109]
+        },
+        {
+          "text": "介人",
+          "translation": "Kaito",
+          "bbox": [0.1127, 0.3912, 0.0282, 0.0079]
+        },
+        {
+          "text": "妹?",
+          "translation": "Younger sister?",
+          "bbox": [0.2007, 0.3912, 0.0222, 0.0079]
+        },
+        {
+          "text": "カッタナー& 俺たち、双子の弟!",
+          "translation": "Cuttaner & Us—the twin younger brothers!",
+          "bbox": [0.1136, 0.4063, 0.1887, 0.0085]
+        },
+        {
+          "text": "リッキー",
+          "translation": "Ricky",
+          "bbox": [0.1136, 0.4196, 0.0453, 0.0103]
+        },
+        {
+          "text": "カッタナー\nリッキー\nカッタナー",
+          "translation": "Cattaner\nRicky\nCattaner",
+          "bbox": [0.5696, 0.3906, 0.0606, 0.0387]
+        },
+        {
+          "text": "カッタナー",
+          "translation": "Cattana",
+          "bbox": [0.1136, 0.4359, 0.0615, 0.0085]
+        },
+        {
+          "text": "カッタナー&",
+          "translation": "Cattaner &",
+          "bbox": [0.2015, 0.4365, 0.0692, 0.0079]
+        },
+        {
+          "text": "リッキー",
+          "translation": "Ricky",
+          "bbox": [0.1136, 0.4516, 0.0461, 0.0079]
+        },
+        {
+          "text": "リッキー!",
+          "translation": "Ricky!",
+          "bbox": [0.2015, 0.4504, 0.0504, 0.0097]
+        },
+        {
+          "text": "17",
+          "translation": "17",
+          "bbox": [0.526, 0.4522, 0.0188, 0.0067]
+        },
+        {
+          "text": "介人",
+          "translation": "Kaito",
+          "bbox": [0.5687, 0.451, 0.0282, 0.0085]
+        },
+        {
+          "text": "8",
+          "translation": "8",
+          "bbox": [0.0734, 0.4674, 0.012, 0.006]
+        },
+        {
+          "text": "界賊一家",
+          "translation": "World-Pirate Family",
+          "bbox": [0.1136, 0.4649, 0.0512, 0.0103]
+        },
+        {
+          "text": "世界海賊、ゴールドツイカー一家♪",
+          "translation": "World Pirates, the Goldtsuiker Family!",
+          "bbox": [0.2015, 0.4661, 0.193, 0.0091]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.5696, 0.4661, 0.0461, 0.0085]
+        },
+        {
+          "text": "ツーカイに上陸~♪ テテテテン!アオ!!",
+          "translation": "Making a stylish landing~♪ Ta-da! Ao!",
+          "bbox": [0.2015, 0.4807, 0.2126, 0.0097]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.0734, 0.497, 0.0111, 0.0067]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.1136, 0.4958, 0.0461, 0.0097]
+        },
+        {
+          "text": "俺たちは世界から世界へ渡り歩く世界海賊。\n略して界賊。全世界でただ一つの存在さ。",
+          "translation": "We are World Pirates who travel from world to world.\n\"Kaizoku\"—World Pirates—for short. We are the only ones of our kind in the entire universe.",
+          "bbox": [0.2007, 0.4964, 0.2468, 0.0242]
+        },
+        {
+          "text": "18",
+          "translation": "18",
+          "bbox": [0.5269, 0.4976, 0.0171, 0.006]
+        },
+        {
+          "text": "介人",
+          "translation": "Kaito",
+          "bbox": [0.5687, 0.4964, 0.029, 0.0079]
+        },
+        {
+          "text": "10",
+          "translation": "10",
+          "bbox": [0.0709, 0.5278, 0.0179, 0.006]
+        },
+        {
+          "text": "介人",
+          "translation": "Kaito",
+          "bbox": [0.1127, 0.5266, 0.029, 0.0085]
+        },
+        {
+          "text": "だったらゾックス!俺と勝負しろ!",
+          "translation": "Then, Zox! Face me!",
+          "bbox": [0.2015, 0.5272, 0.1776, 0.0079]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.1119, 0.5411, 0.047, 0.0109]
+        },
+        {
+          "text": "はあ?",
+          "translation": "Huh?",
+          "bbox": [0.2024, 0.5423, 0.0325, 0.0073]
+        },
+        {
+          "text": "フリント",
+          "translation": "Flint",
+          "bbox": [0.1136, 0.5574, 0.0453, 0.0079]
+        },
+        {
+          "text": "はあ?",
+          "translation": "Huh?",
+          "bbox": [0.2024, 0.5568, 0.0316, 0.0079]
+        },
+        {
+          "text": "それ通ってあちこちの世界めぐるなかで、\nSDトピアってとこ乗り込んだんだ。\n住人がみ〜んなこんなカッコの世界だ\n俺ら二人、そん時ちょっとしくじっちゃってさ\n気づいたらこの姿に変えられていた。\nSDトピアの呪いだよ。\n根性、全開だああああ!\nはっはっは･･･ばっかだなあ。 これでお前が\n死んだら、大事な家族取り戻せなくなるのに。\nお前がそういう奴なのは、よーくわかった。\nお前は、全力全開で、 トジテンド倒すことだけ\n考えてればいい。 みんなのこと、 俺が･･･いや、\n俺たちが守る!お前ら界賊の分も、\n全力全開で守ってやる!",
+          "translation": "While traveling through various worlds,\nwe barged into a place called SD-topia.\nIt's a world where every single resident looks like this.\nWe messed up a bit while we were there,\nand before we knew it, we'd been transformed.\nIt's the curse of SD-topia.\nGuts... Full Throttle!\nHahaha... You're crazy. If you\ndie now, you'll never get your precious family back.\nI get exactly what kind of guy you are.\nYou just need to focus entirely—full throttle—\non taking down Tojitendo. I'll protect everyone... No,\n*we* will! We'll protect them with everything we've got—\nfull throttle—covering for you Kaizoku, too!",
+          "bbox": [0.6806, 0.3597, 0.2528, 0.2056]
+        },
+        {
+          "text": "カッタナー",
+          "translation": "Cattana",
+          "bbox": [0.1127, 0.5719, 0.0606, 0.0091]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.5696, 0.5707, 0.0461, 0.0097]
+        },
+        {
+          "text": "っふ、じゃ、遠慮なく。",
+          "translation": "Heh, then I won't hold back.",
+          "bbox": [0.6815, 0.5713, 0.1136, 0.0091]
+        },
+        {
+          "text": "リッキー",
+          "translation": "Ricky",
+          "bbox": [0.1144, 0.5877, 0.0444, 0.0079]
+        },
+        {
+          "text": "フン!ツーカイに暴れさせてもらうぜ。",
+          "translation": "Hmph! I'm gonna go wild—in true Tsukai style.",
+          "bbox": [0.6815, 0.5871, 0.2075, 0.0085]
+        },
+        {
+          "text": "介人",
+          "translation": "Kaito",
+          "bbox": [0.1127, 0.6022, 0.029, 0.0085]
+        },
+        {
+          "text": "俺が勝ったら、 代金払え!で、他の店も!",
+          "translation": "If I win, you're paying the bill! And for the other shops, too!",
+          "bbox": [0.2007, 0.6022, 0.2126, 0.0091]
+        },
+        {
+          "text": "19★",
+          "translation": "19★",
+          "bbox": [0.5201, 0.6028, 0.0316, 0.0073]
+        },
+        {
+          "text": "フリント",
+          "translation": "Flint",
+          "bbox": [0.5705, 0.6016, 0.0453, 0.0085]
+        },
+        {
+          "text": "いや、この世界を荒らさないって約束しろ!",
+          "translation": "No—promise me you won't ravage this world!",
+          "bbox": [0.2015, 0.6179, 0.2348, 0.0079]
+        },
+        {
+          "text": "アタシたち、ゴールドツイカー一家の\nモットーは?",
+          "translation": "What's the motto of us, the Goldtsuiker family?",
+          "bbox": [0.6815, 0.6016, 0.205, 0.0236]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.1136, 0.6318, 0.0461, 0.0097]
+        },
+        {
+          "text": "はっ、お前。 俺に勝てると思ってんの?\n百戦錬磨の界賊の俺に?",
+          "translation": "Hah, you? You think you can beat me?\nMe—a battle-hardened World-Pirate?",
+          "bbox": [0.2015, 0.6324, 0.2075, 0.0248]
+        },
+        {
+          "text": "カッタナー",
+          "translation": "Cattana",
+          "bbox": [0.5696, 0.633, 0.0606, 0.0079]
+        },
+        {
+          "text": "面白そうなことには!",
+          "translation": "When it comes to something that looks interesting!",
+          "bbox": [0.6815, 0.6312, 0.1136, 0.0097]
+        },
+        {
+          "text": "リッキー",
+          "translation": "Ricky",
+          "bbox": [0.5696, 0.6463, 0.047, 0.0109]
+        },
+        {
+          "text": "頭から突っ込めー!",
+          "translation": "Charge in headfirst!",
+          "bbox": [0.6815, 0.6469, 0.1042, 0.0091]
+        },
+        {
+          "text": "介人",
+          "translation": "Kaito",
+          "bbox": [0.1127, 0.6632, 0.029, 0.0091]
+        },
+        {
+          "text": "勝つよ。俺は、この世界を守る為に戦うって\n決めたんだ! そんでもって、世界初!",
+          "translation": "I'll win. I've decided to fight to protect this world! And on top of that—I'll be the first in the world!",
+          "bbox": [0.2015, 0.6632, 0.2365, 0.0236]
+        },
+        {
+          "text": "20",
+          "translation": "20",
+          "bbox": [0.5243, 0.6638, 0.0222, 0.006]
+        },
+        {
+          "text": "21",
+          "translation": "21",
+          "bbox": [0.5243, 0.6784, 0.0179, 0.0067]
+        },
+        {
+          "text": "ゾックス\nゾックス",
+          "translation": "Zox\nZox",
+          "bbox": [0.5696, 0.6626, 0.0461, 0.0236]
+        },
+        {
+          "text": "フッ・・・ おもしれー女。",
+          "translation": "Heh... What an interesting woman.",
+          "bbox": [0.6815, 0.6626, 0.117, 0.0091]
+        },
+        {
+          "text": "11",
+          "translation": "11",
+          "bbox": [0.07, 0.708, 0.0179, 0.0073]
+        },
+        {
+          "text": "フリント",
+          "translation": "Flint",
+          "bbox": [0.1136, 0.7086, 0.0444, 0.0079]
+        },
+        {
+          "text": "世界海賊に勝ったヒーローになってやる!\nああああああああ。 カシワモチ食いてえ!!",
+          "translation": "I'll become the hero who defeats the World Pirates!\nAaaah! I wanna eat kashiwa-mochi!",
+          "bbox": [0.2015, 0.6929, 0.2323, 0.0236]
+        },
+        {
+          "text": "ゼンカイジャー5人 えー!",
+          "translation": "All five Zenkaigers?!",
+          "bbox": [0.5705, 0.6911, 0.1409, 0.0103]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.5705, 0.708, 0.0453, 0.0085]
+        },
+        {
+          "text": "12",
+          "translation": "12",
+          "bbox": [0.0692, 0.7249, 0.0188, 0.0054]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.1136, 0.7237, 0.0453, 0.0079]
+        },
+        {
+          "text": "ヨホホイ、 ヨホホイ、 ヨホホイホイ･･･\nヨホホイ、 ヨホホイ、 ヨホホイホイ･･･、\n俺の大事な妹ハメたのどこのどいつだ~♪",
+          "translation": "Yohohoi, yohohoi, yohohoihoi...\nYohohoi, yohohoi, yohohoihoi...\nWho is the one who slept with my precious little sister~♪",
+          "bbox": [0.2007, 0.7237, 0.2365, 0.0387]
+        },
+        {
+          "text": "介人",
+          "translation": "Kaito",
+          "bbox": [0.5696, 0.7382, 0.0282, 0.0079]
+        },
+        {
+          "text": "22",
+          "translation": "22",
+          "bbox": [0.5243, 0.7545, 0.0196, 0.0067]
+        },
+        {
+          "text": "13 ゾックス",
+          "translation": "13 Zox",
+          "bbox": [0.0709, 0.7684, 0.0888, 0.0091]
+        },
+        {
+          "text": "カシワモチワルド。あいつを倒した方が勝ちだ。\nいいな? 痛快にいくぜ!",
+          "translation": "Kashiwamochi-World. Whoever defeats him wins.\nGot it? Let's make it a blast!",
+          "bbox": [0.2015, 0.7678, 0.2605, 0.0254]
+        },
+        {
+          "text": "23",
+          "translation": "23",
+          "bbox": [0.5243, 0.7696, 0.0213, 0.006]
+        },
+        {
+          "text": "24",
+          "translation": "24",
+          "bbox": [0.5243, 0.7848, 0.0213, 0.006]
+        },
+        {
+          "text": "ゾックス\nフリント\nフリント",
+          "translation": "Zox\nFlint\nFlint",
+          "bbox": [0.5696, 0.7533, 0.0461, 0.0381]
+        },
+        {
+          "text": "14",
+          "translation": "14",
+          "bbox": [0.0709, 0.7993, 0.0171, 0.0067]
+        },
+        {
+          "text": "|4",
+          "translation": "|4",
+          "bbox": [0.0743, 0.7938, 0.0171, 0.0121]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.1127, 0.7993, 0.047, 0.0079]
+        },
+        {
+          "text": "介人",
+          "translation": "Kaito",
+          "bbox": [0.1127, 0.8295, 0.029, 0.0079]
+        },
+        {
+          "text": "カシワモチは、あの時死んだ。俺が倒したのは\nただのモチワルドだ。勝負に勝ったのはお前だ。\nえ?じゃあ・・・この世界も!?",
+          "translation": "Kashiwamochi died back then. The one I defeated was just a Mochi-World. You were the one who won the match.\nHuh? Then... this world too!?",
+          "bbox": [0.2015, 0.7993, 0.2613, 0.0381]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.1136, 0.8446, 0.0461, 0.0085]
+        },
+        {
+          "text": "ほらよ。30万ポンギはある。 釣りはいらねえよ。",
+          "translation": "Here. There's 300,000 Pongi. I don't need any change.",
+          "bbox": [0.2024, 0.844, 0.2596, 0.0085]
+        },
+        {
+          "text": "マンガを舐めるな!",
+          "translation": "Don't underestimate manga!",
+          "bbox": [0.6815, 0.6765, 0.1033, 0.0097]
+        },
+        {
+          "text": "人を誘い出せるほどの傑作マンガを、\n素人が簡単に描けると思うなよ。\nなんか怒られた。",
+          "translation": "Don't think an amateur can easily draw a masterpiece good enough to lure people out.\nSomehow I got yelled at.",
+          "bbox": [0.6815, 0.708, 0.2092, 0.0387]
+        },
+        {
+          "text": "仲間ができるってのは、面倒臭いな。\nホントは人形、自分で捨てたんだろ?\nアタシもさ、やったことあんだよね。\nあたしが子供んとき、はじめて自力で\n作ったのがオルゴールだったんだけどさ。\n大人にはできたら見せなって言われてたけど、\nまあ~歪んでるし音も変だし、ダメだ\nこんなもん!って、 つい・・・でも、一生懸命\n作ったから、あとでめっちゃ後悔して、\n泣きながら探した。 ま、結局兄貴が\n見つけてくれたんだけど。",
+          "translation": "Having companions is such a hassle.\nYou really threw that doll away yourself, didn't you?\nI've done that too, you know.\nWhen I was a kid, the first thing I ever made on my own was a music box.\nAdults told me to show it to them when it was finished, but... it was warped and the sound was off, and I thought, \"This is no good!\" and I just... But I'd worked so hard on it, so later I regretted it terribly and searched for it while crying.\nIn the end my older brother found it for me, though.",
+          "bbox": [0.6815, 0.7533, 0.2562, 0.159]
+        },
+        {
+          "text": "8",
+          "translation": "8",
+          "bbox": [0.4919, 0.9825, 0.0154, 0.0097]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-9.webp",
+      "blocks": [
+        {
+          "text": "セリフリスト:ゴールドツイカーモード!!!!!",
+          "translation": "Dialogue List: Gold Twi-Ka Mode!",
+          "bbox": [0.105, 0.0405, 0.526, 0.0266]
+        },
+        {
+          "text": "順番 キャラクター",
+          "translation": "No.  Character",
+          "bbox": [0.0649, 0.0828, 0.1178, 0.0109]
+        },
+        {
+          "text": "音声",
+          "translation": "Voice",
+          "bbox": [0.3484, 0.084, 0.0282, 0.0091]
+        },
+        {
+          "text": "25★ カッタナー\nリッキー",
+          "translation": "25★ Cattana\nRicky",
+          "bbox": [0.0623, 0.1016, 0.111, 0.0236]
+        },
+        {
+          "text": "SDワルド ･･･!",
+          "translation": "SD Warudo...!",
+          "bbox": [0.2015, 0.1016, 0.0734, 0.0079]
+        },
+        {
+          "text": "33",
+          "translation": "33",
+          "bbox": [0.5448, 0.1022, 0.0213, 0.0067]
+        },
+        {
+          "text": "順番 キャラクター\nゾックス",
+          "translation": "No.  Character\nZox",
+          "bbox": [0.5414, 0.084, 0.1178, 0.0254]
+        },
+        {
+          "text": "音声",
+          "translation": "Voice",
+          "bbox": [0.7908, 0.084, 0.029, 0.0091]
+        },
+        {
+          "text": "フリント\nゾックス",
+          "translation": "Flint\nZox",
+          "bbox": [0.1119, 0.1318, 0.0487, 0.0236]
+        },
+        {
+          "text": "ずっと探してたギア・・・",
+          "translation": "The gear I've been looking for all this time...",
+          "bbox": [0.2015, 0.1306, 0.1238, 0.0103]
+        },
+        {
+          "text": "カッタナー、リッキー。",
+          "translation": "Kattana, Ricky.",
+          "bbox": [0.2015, 0.1469, 0.1187, 0.0085]
+        },
+        {
+          "text": "カッタナー\nリッキー\nフリント",
+          "translation": "Cattana\nRicky\nFlint",
+          "bbox": [0.5901, 0.1161, 0.0598, 0.0381]
+        },
+        {
+          "text": "・・・ああ~~誰も俺のいう事を聞きゃあしねえ。\nはっはっは",
+          "translation": "...Aah—no one listens to a word I say.\nHa ha ha.",
+          "bbox": [0.6781, 0.1004, 0.2562, 0.023]
+        },
+        {
+          "text": "へへ。",
+          "translation": "Heh.",
+          "bbox": [0.6781, 0.1475, 0.0325, 0.0079]
+        },
+        {
+          "text": "人間に戻るまで、あとちょっとの辛抱だ。",
+          "translation": "Just a little more patience until I return to human form.",
+          "bbox": [0.2015, 0.162, 0.222, 0.0085]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.5901, 0.1608, 0.0461, 0.0103]
+        },
+        {
+          "text": "世界海賊、ゴールドツイカー一家の",
+          "translation": "World pirate of the Gold Twi-Ka family—",
+          "bbox": [0.6789, 0.1602, 0.1956, 0.0103]
+        },
+        {
+          "text": "26",
+          "translation": "26",
+          "bbox": [0.0683, 0.1778, 0.0205, 0.0067]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.1127, 0.1771, 0.047, 0.0085]
+        },
+        {
+          "text": "だったとしても、感謝するぜ。 SDトピアを解放する、",
+          "translation": "Even so, I'm grateful. I'll liberate SD-Topia,",
+          "bbox": [0.2015, 0.1765, 0.2852, 0.0091]
+        },
+        {
+          "text": "長としちゃ、 まだまだだな。",
+          "translation": "I've still got a long way to go as the head.",
+          "bbox": [0.6781, 0.1765, 0.146, 0.0085]
+        },
+        {
+          "text": "絶好のチャンスにかわりはねえからな。",
+          "translation": "That doesn't change that it's a perfect opportunity.",
+          "bbox": [0.2015, 0.1923, 0.2161, 0.0085]
+        },
+        {
+          "text": "34",
+          "translation": "34",
+          "bbox": [0.5448, 0.1935, 0.0213, 0.0054]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.5892, 0.1917, 0.047, 0.0085]
+        },
+        {
+          "text": "SD変身音+チェンジ痛快!ふん! はっ!よっと!",
+          "translation": "SD transformation sound + \"Change Taikai!\" Hmph! Ha! Yot!",
+          "bbox": [0.6781, 0.1917, 0.2459, 0.0085]
+        },
+        {
+          "text": "フリント",
+          "translation": "Flint",
+          "bbox": [0.1136, 0.2062, 0.0436, 0.0097]
+        },
+        {
+          "text": "カッタナー",
+          "translation": "Cattana",
+          "bbox": [0.1136, 0.2219, 0.0598, 0.0097]
+        },
+        {
+          "text": "だよな! みんなで力を合わせて、ワルドを倒す~だけだ!\nああ!よーし!",
+          "translation": "That's right! We just have to join forces and take down Warudo!\nYeah! All right!",
+          "bbox": [0.2024, 0.2068, 0.3049, 0.0236]
+        },
+        {
+          "text": "はー! 海賊のパワー!ヨホホイ、よっと、\nツーカイザー!",
+          "translation": "Hah! Pirate power! Yo-ho-hoi, yot—\nTsukaizer!",
+          "bbox": [0.6781, 0.2062, 0.2084, 0.0248]
+        },
+        {
+          "text": "リッキー",
+          "translation": "Ricky",
+          "bbox": [0.1144, 0.2376, 0.0453, 0.0085]
+        },
+        {
+          "text": "35",
+          "translation": "35",
+          "bbox": [0.5448, 0.2382, 0.0205, 0.006]
+        },
+        {
+          "text": "介人",
+          "translation": "Kaito",
+          "bbox": [0.5901, 0.237, 0.029, 0.0085]
+        },
+        {
+          "text": "SDトピア行っても、 無茶すんなよ。",
+          "translation": "Even if you go to SD-Topia, don't do anything reckless.",
+          "bbox": [0.6781, 0.2364, 0.1939, 0.0091]
+        },
+        {
+          "text": "ゾックス\nフリント",
+          "translation": "Zox\nFlint",
+          "bbox": [0.1136, 0.2527, 0.0453, 0.0224]
+        },
+        {
+          "text": "お前らは来るな。",
+          "translation": "Don't come, you guys.",
+          "bbox": [0.2024, 0.2521, 0.0931, 0.0091]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.5892, 0.2515, 0.0461, 0.0091]
+        },
+        {
+          "text": "お前もな。",
+          "translation": "You too.",
+          "bbox": [0.6789, 0.2521, 0.0564, 0.0085]
+        },
+        {
+          "text": "はあ!?",
+          "translation": "Huh!?",
+          "bbox": [0.2024, 0.2672, 0.0376, 0.0085]
+        },
+        {
+          "text": "36",
+          "translation": "36",
+          "bbox": [0.5448, 0.2684, 0.0205, 0.0054]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.5901, 0.266, 0.0461, 0.0097]
+        },
+        {
+          "text": "この世界、楽しかったぜ!またいつかな。",
+          "translation": "This world was fun! Maybe we'll meet again sometime.",
+          "bbox": [0.6789, 0.2672, 0.2169, 0.0085]
+        },
+        {
+          "text": "カッタナー",
+          "translation": "Cattana",
+          "bbox": [0.1136, 0.2817, 0.0598, 0.0103]
+        },
+        {
+          "text": "サラバー",
+          "translation": "Saraba—!",
+          "bbox": [0.6789, 0.283, 0.0512, 0.0079]
+        },
+        {
+          "text": "イ!",
+          "translation": "Yi!",
+          "bbox": [0.7686, 0.283, 0.0162, 0.0079]
+        },
+        {
+          "text": "リッキー",
+          "translation": "Ricky",
+          "bbox": [0.1144, 0.2981, 0.0461, 0.0085]
+        },
+        {
+          "text": "カッタナー",
+          "translation": "Cattana",
+          "bbox": [0.5901, 0.2969, 0.0606, 0.0097]
+        },
+        {
+          "text": "バイバーイ!バイビー",
+          "translation": "Bye-bye! Bai-bye!",
+          "bbox": [0.6772, 0.2963, 0.1187, 0.0103]
+        },
+        {
+          "text": "リッキー",
+          "translation": "Ricky",
+          "bbox": [0.1144, 0.3126, 0.0453, 0.0097]
+        },
+        {
+          "text": "なんでだよ兄貴! 俺たちだって戦う!",
+          "translation": "Why, Aniki!? We're gonna fight too!",
+          "bbox": [0.2015, 0.3132, 0.1973, 0.0085]
+        },
+        {
+          "text": "リッキー",
+          "translation": "Ricky",
+          "bbox": [0.5909, 0.3114, 0.0444, 0.0103]
+        },
+        {
+          "text": "カッタナー\nゾックス",
+          "translation": "Cattana\nZox",
+          "bbox": [0.1127, 0.3289, 0.0615, 0.023]
+        },
+        {
+          "text": "俺らがこの体になったのは、 俺らのせいなんだぜ!?",
+          "translation": "We're the ones responsible for ending up in these bodies, you know!",
+          "bbox": [0.2015, 0.3283, 0.2835, 0.0079]
+        },
+        {
+          "text": "さっきのでわかったろ。",
+          "translation": "You figured that out from what just happened, didn't you?",
+          "bbox": [0.2024, 0.3434, 0.1272, 0.0079]
+        },
+        {
+          "text": "37★",
+          "translation": "37★",
+          "bbox": [0.538, 0.344, 0.0359, 0.0067]
+        },
+        {
+          "text": "フリント\n界賊一家",
+          "translation": "Flint\nWorld-Pirate Family",
+          "bbox": [0.5901, 0.3277, 0.0521, 0.0236]
+        },
+        {
+          "text": "お前らのことが、大好きだぜー!サラバーイ!",
+          "translation": "I love you guys! Sarabaai!",
+          "bbox": [0.6789, 0.3277, 0.2417, 0.0085]
+        },
+        {
+          "text": "ヨホホイ、 ヨホホイ、 ヨホホイホイ･･･",
+          "translation": "Yo-ho-hoi, yo-ho-hoi, yo-ho-hoi-hoi...",
+          "bbox": [0.6789, 0.3428, 0.1956, 0.0085]
+        },
+        {
+          "text": "お前らがいると、俺が本気出せねえ",
+          "translation": "With you guys around, I can't go all out.",
+          "bbox": [0.2024, 0.3585, 0.1956, 0.0085]
+        },
+        {
+          "text": "カッタナー",
+          "translation": "Cattana",
+          "bbox": [0.1136, 0.373, 0.0598, 0.0091]
+        },
+        {
+          "text": "ああ･･･",
+          "translation": "Ah...",
+          "bbox": [0.2024, 0.3742, 0.0376, 0.0067]
+        },
+        {
+          "text": "リッキー",
+          "translation": "Ricky",
+          "bbox": [0.1144, 0.3888, 0.0453, 0.0085]
+        },
+        {
+          "text": "フリント",
+          "translation": "Flint",
+          "bbox": [0.1136, 0.4027, 0.0436, 0.0091]
+        },
+        {
+          "text": "38",
+          "translation": "38",
+          "bbox": [0.5448, 0.4045, 0.0179, 0.006]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.1136, 0.419, 0.047, 0.0085]
+        },
+        {
+          "text": "これはゴールドツイカー一家を率いる長(ちょう)の仕事だ。\n誰の手だしも無用だ。",
+          "translation": "This is the duty of the head (chō) who leads the Gold Twi-Ka family.\nNo one else should interfere.",
+          "bbox": [0.2015, 0.4184, 0.3271, 0.0242]
+        },
+        {
+          "text": "ゾックス\nステイシー\nゾックス",
+          "translation": "Zox\nStacey\nZox",
+          "bbox": [0.5892, 0.4033, 0.0632, 0.0387]
+        },
+        {
+          "text": "ヨホホイ、 ヨホホイ、 ヨホホイホイ･･･\n俺ら界賊、お宝求めて海から海へ･･･\n俺ら界賊、自由求めて世界から世界へ~\nまずは･･･バラシタラをぶったおす!",
+          "translation": "Yo-ho-hoi, yo-ho-hoi, yo-ho-hoi-hoi...\nWe're world pirates, sailing from sea to sea in search of treasure...\nWe're world pirates, traveling from world to world in search of freedom...\nFirst... we'll take down Barashitara!",
+          "bbox": [0.6781, 0.3579, 0.2246, 0.0544]
+        },
+        {
+          "text": "お前･･･!",
+          "translation": "You...!",
+          "bbox": [0.6789, 0.419, 0.0444, 0.0073]
+        },
+        {
+          "text": "俺もアイツには借りがあるからな。",
+          "translation": "I owe him too.",
+          "bbox": [0.6781, 0.4335, 0.1921, 0.0085]
+        },
+        {
+          "text": "27",
+          "translation": "27",
+          "bbox": [0.0683, 0.4498, 0.0213, 0.0067]
+        },
+        {
+          "text": "介人",
+          "translation": "Kaito",
+          "bbox": [0.1127, 0.4492, 0.0282, 0.0079]
+        },
+        {
+          "text": "ねえ!なんでそんな一人でやろうとするの!\n俺のことはすっごい助けてくれたじゃん!",
+          "translation": "Hey! Why are you trying to do it all by yourself?\nYou helped me out so much, didn't you!",
+          "bbox": [0.2015, 0.4492, 0.2348, 0.023]
+        },
+        {
+          "text": "いくぞ、ステイシー!",
+          "translation": "Let's go, Stacey!",
+          "bbox": [0.6789, 0.4474, 0.1076, 0.0091]
+        },
+        {
+          "text": "ゾックス\n介人",
+          "translation": "Zocks\nKaito",
+          "bbox": [0.1127, 0.4794, 0.047, 0.0236]
+        },
+        {
+          "text": "俺らの親父は!俺を守って死んだんだ!\nえ?",
+          "translation": "Our old man—he died protecting me!\nHuh?",
+          "bbox": [0.2007, 0.4788, 0.2126, 0.023]
+        },
+        {
+          "text": "39",
+          "translation": "39",
+          "bbox": [0.5448, 0.4807, 0.0196, 0.0054]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.1136, 0.5091, 0.0461, 0.0097]
+        },
+        {
+          "text": "海賊トピアじゃよくある争いだ。",
+          "translation": "It's a common dispute in Pirate-topia.",
+          "bbox": [0.2015, 0.5091, 0.1751, 0.0091]
+        },
+        {
+          "text": "ステイシー\nゾックス\nステイシー\nフリント",
+          "translation": "Stacey\nZox\nStacey\nFlint",
+          "bbox": [0.5892, 0.4631, 0.0632, 0.0544]
+        },
+        {
+          "text": "ああ。",
+          "translation": "Yeah.",
+          "bbox": [0.6789, 0.4637, 0.0316, 0.0079]
+        },
+        {
+          "text": "チェンジ痛快",
+          "translation": "Change Taikai",
+          "bbox": [0.6789, 0.4788, 0.0734, 0.0079]
+        },
+        {
+          "text": "暗黒チェンジ",
+          "translation": "Dark Change",
+          "bbox": [0.6789, 0.494, 0.0726, 0.0085]
+        },
+        {
+          "text": "その親父から、俺は家族を守る役目を引き継いだ。",
+          "translation": "From that father, I inherited the duty of protecting the family.",
+          "bbox": [0.2024, 0.5248, 0.2792, 0.0085]
+        },
+        {
+          "text": "これはおれの誇りであり、ケジメなんだよ。",
+          "translation": "This is my pride and my duty.",
+          "bbox": [0.2015, 0.5399, 0.2365, 0.0079]
+        },
+        {
+          "text": "ツーカイザー&ステイシーザー変身音+\nはいはい!せーの!二人は最高!\nバラシタラなんかばらしちゃおー!",
+          "translation": "Tsukaizer & Stacey-zer transformation sound +\nOkay, okay! Ready, go! The two of us are the best!\nLet's go and take down Barashitara!",
+          "bbox": [0.6781, 0.5091, 0.2237, 0.0387]
+        },
+        {
+          "text": "介人",
+          "translation": "Kaito",
+          "bbox": [0.1127, 0.555, 0.029, 0.0085]
+        },
+        {
+          "text": "理屈じゃないってこと?",
+          "translation": "You mean it's not a matter of logic?",
+          "bbox": [0.2015, 0.5538, 0.1264, 0.0103]
+        },
+        {
+          "text": "40",
+          "translation": "40",
+          "bbox": [0.5448, 0.5556, 0.0188, 0.006]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.5901, 0.5538, 0.0461, 0.0097]
+        },
+        {
+          "text": "奪うだけが・・・お宝じゃねえんだよ。",
+          "translation": "Treasure isn't just about taking things.",
+          "bbox": [0.6781, 0.5544, 0.1913, 0.0085]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.1127, 0.5701, 0.047, 0.0085]
+        },
+        {
+          "text": "功を助けた礼のつもりなら、手を出さずに黙ってみてろ。",
+          "translation": "If this is meant as thanks for helping out, then keep your hands off and just watch quietly.",
+          "bbox": [0.2015, 0.5701, 0.3126, 0.0085]
+        },
+        {
+          "text": "介人",
+          "translation": "Kaito",
+          "bbox": [0.1127, 0.5852, 0.0282, 0.0079]
+        },
+        {
+          "text": "ズルいだろそんな言い方!",
+          "translation": "That's unfair—that's a low way to put it!",
+          "bbox": [0.2015, 0.5852, 0.1443, 0.0079]
+        },
+        {
+          "text": "28",
+          "translation": "28",
+          "bbox": [0.0683, 0.601, 0.0196, 0.0067]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.1136, 0.6004, 0.0453, 0.0085]
+        },
+        {
+          "text": "ヨホホイ、 ヨホホイ、 ヨホホイホイ･･･",
+          "translation": "Yo-ho-hoi, yo-ho-hoi, yo-ho-hoi-hoi...",
+          "bbox": [0.2024, 0.6004, 0.1947, 0.0085]
+        },
+        {
+          "text": "ヨホホイ、 ヨホホイ、 ヨホホイホイ･･･",
+          "translation": "Yo-ho-hoi, yo-ho-hoi, yo-ho-hoi-hoi...",
+          "bbox": [0.2024, 0.6155, 0.1956, 0.0085]
+        },
+        {
+          "text": "最初から持ってるもの。\n気づいたら増えてるもの。\n守りてぇもん・・・全部お宝だ!俺のお宝・・・\n傷つける奴は誰だろうが許さねえ。それが...\n世界海賊、 ゾックス・ゴールドツイカー様だ!\nうおおおおお!!+変身音",
+          "translation": "Things I've had from the very start.\nThings that multiplied before I even noticed.\nThe things I want to protect... they're all treasure! My treasure...\nI won't forgive anyone who hurts them. That is...\nThe World Pirate, Zox Gold Twi-Ka!\nUooooo! + transformation sound",
+          "bbox": [0.6781, 0.5695, 0.2468, 0.084]
+        },
+        {
+          "text": "俺は界賊、探したぜお前を今こそ仕留める･･･",
+          "translation": "I'm a world pirate. I've been hunting for you—now I'll finish you off...",
+          "bbox": [0.2015, 0.6306, 0.2485, 0.0085]
+        },
+        {
+          "text": "29",
+          "translation": "29",
+          "bbox": [0.0683, 0.6463, 0.0213, 0.006]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.1136, 0.6445, 0.0461, 0.0103]
+        },
+        {
+          "text": "30",
+          "translation": "30",
+          "bbox": [0.0692, 0.6614, 0.0188, 0.006]
+        },
+        {
+          "text": "介人",
+          "translation": "Kaito",
+          "bbox": [0.1127, 0.6602, 0.0282, 0.0085]
+        },
+        {
+          "text": "舐めるな!俺はゾックスゴールドツイカー様だ!ヨホホイ!\nゾックス!俺最初に言ったよな。 お前は好きにすればいい。\n俺たちはお前の分もみんなを守るって。",
+          "translation": "Don't underestimate me! I am Zox, the Gold Twiker! Yohohoi!\nZox! I told you right from the start—do as you please.\nWe'll protect everyone, including those you would have protected.",
+          "bbox": [0.2015, 0.6445, 0.316, 0.0411]
+        },
+        {
+          "text": "41",
+          "translation": "41",
+          "bbox": [0.544, 0.662, 0.0196, 0.006]
+        },
+        {
+          "text": "だからゾックス、お前は勝手にしろよ。",
+          "translation": "So, Zox—do as you please.",
+          "bbox": [0.2024, 0.6911, 0.2067, 0.0085]
+        },
+        {
+          "text": "ステイシー\nゾックス\nステイシー",
+          "translation": "Stacey\nZox\nStacey",
+          "bbox": [0.5901, 0.6596, 0.0615, 0.0393]
+        },
+        {
+          "text": "シーザー、邪王咆哮撃!",
+          "translation": "Caesar — Evil King Roar Strike!",
+          "bbox": [0.6789, 0.6602, 0.1264, 0.0085]
+        },
+        {
+          "text": "ツーカイザー、レックスリフレイザー!",
+          "translation": "Twokaizer, Rex Reflizer!",
+          "bbox": [0.6781, 0.6753, 0.2058, 0.0085]
+        },
+        {
+          "text": "お前を超える!",
+          "translation": "I'll surpass you!",
+          "bbox": [0.6789, 0.6911, 0.0863, 0.0079]
+        },
+        {
+          "text": "俺たちはみんなを助けるために戦いに来たんだから!",
+          "translation": "We came here to fight to save everyone!",
+          "bbox": [0.2015, 0.7062, 0.2955, 0.0085]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.5892, 0.7056, 0.0478, 0.0085]
+        },
+        {
+          "text": "いくぜ!",
+          "translation": "Let's go!",
+          "bbox": [0.6789, 0.7056, 0.0401, 0.0079]
+        },
+        {
+          "text": "ゾックス\n介人",
+          "translation": "Zox\nKaito",
+          "bbox": [0.111, 0.7189, 0.0495, 0.0266]
+        },
+        {
+          "text": "・・・ズルい言い方しやがって。",
+          "translation": "...That's a sneaky thing to say.",
+          "bbox": [0.2015, 0.7207, 0.1563, 0.0091]
+        },
+        {
+          "text": "ゾックス &",
+          "translation": "Zox &",
+          "bbox": [0.5892, 0.7201, 0.0564, 0.0097]
+        },
+        {
+          "text": "はああああああ!",
+          "translation": "Haaaaaa!",
+          "bbox": [0.6789, 0.7213, 0.0794, 0.0073]
+        },
+        {
+          "text": "へへ。",
+          "translation": "Heh.",
+          "bbox": [0.2007, 0.7388, 0.0333, 0.0054]
+        },
+        {
+          "text": "31",
+          "translation": "31",
+          "bbox": [0.0692, 0.7527, 0.0179, 0.0067]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.1127, 0.7515, 0.0478, 0.0085]
+        },
+        {
+          "text": "カッタナー、リッキー・・・",
+          "translation": "Cattana, Ricky...",
+          "bbox": [0.2015, 0.7515, 0.1272, 0.0085]
+        },
+        {
+          "text": "42",
+          "translation": "42",
+          "bbox": [0.544, 0.7521, 0.0213, 0.0067]
+        },
+        {
+          "text": "ステイシー\nゾックス",
+          "translation": "Stacey\nZox",
+          "bbox": [0.5901, 0.7358, 0.0623, 0.0248]
+        },
+        {
+          "text": "ま、奪ったのは確かだが",
+          "translation": "Well, it's true I stole it, though.",
+          "bbox": [0.6789, 0.7503, 0.1298, 0.0091]
+        },
+        {
+          "text": "カッタナー",
+          "translation": "Cattana",
+          "bbox": [0.1136, 0.7666, 0.0615, 0.0085]
+        },
+        {
+          "text": "大丈夫か。 兄貴!",
+          "translation": "You okay, Boss!",
+          "bbox": [0.2007, 0.766, 0.0897, 0.0085]
+        },
+        {
+          "text": "フリント",
+          "translation": "Flint",
+          "bbox": [0.5909, 0.7666, 0.0444, 0.0073]
+        },
+        {
+          "text": "ワタシら、弱いものから奪るのは",
+          "translation": "As for us... taking from the weak...",
+          "bbox": [0.6789, 0.766, 0.1802, 0.0085]
+        },
+        {
+          "text": "リッキー",
+          "translation": "Ricky",
+          "bbox": [0.1144, 0.7817, 0.0461, 0.0085]
+        },
+        {
+          "text": "リッキー",
+          "translation": "Ricky",
+          "bbox": [0.1144, 0.7969, 0.0461, 0.0085]
+        },
+        {
+          "text": "カッタナー",
+          "translation": "Cattana",
+          "bbox": [0.1136, 0.8126, 0.0606, 0.0079]
+        },
+        {
+          "text": "俺たちもうSDだから、どんだけ食らっても平気だぜ。\nだから、兄貴の盾くらいにはなれるだろ。",
+          "translation": "We're SDs now, so we can take whatever hits come our way.\nThat means we can at least be a shield for you, Boss.",
+          "bbox": [0.2015, 0.7969, 0.2938, 0.0236]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.5901, 0.7963, 0.0461, 0.0085]
+        },
+        {
+          "text": "ああ。",
+          "translation": "Yeah.",
+          "bbox": [0.6789, 0.7969, 0.0316, 0.0073]
+        },
+        {
+          "text": "介人",
+          "translation": "Kaito",
+          "bbox": [0.5892, 0.812, 0.029, 0.0085]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.1127, 0.8271, 0.047, 0.0085]
+        },
+        {
+          "text": "お前ら...",
+          "translation": "You guys...",
+          "bbox": [0.2024, 0.8271, 0.0495, 0.0079]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.5901, 0.8265, 0.047, 0.0085]
+        },
+        {
+          "text": "32",
+          "translation": "32",
+          "bbox": [0.0692, 0.8428, 0.0196, 0.0067]
+        },
+        {
+          "text": "フリント",
+          "translation": "Flint",
+          "bbox": [0.1144, 0.8422, 0.0444, 0.0073]
+        },
+        {
+          "text": "兄貴!受け取れ!ちっちゃいギアダリンガーにあわせて、",
+          "translation": "Boss! Catch this! I made it to match the small Geardalinger—",
+          "bbox": [0.2015, 0.8416, 0.3023, 0.0091]
+        },
+        {
+          "text": "やめたんだよな。",
+          "translation": "You quit, didn't you?",
+          "bbox": [0.6781, 0.7799, 0.0948, 0.0103]
+        },
+        {
+          "text": "そうなの?",
+          "translation": "Is that so?",
+          "bbox": [0.6789, 0.8114, 0.0564, 0.0079]
+        },
+        {
+          "text": "や、そういうんじゃねーけど、 なんか、\n単純に面白くねーなーって。",
+          "translation": "Nah, it's not really like that, but... I just don't find it fun, you know.",
+          "bbox": [0.6781, 0.8259, 0.2024, 0.0254]
+        },
+        {
+          "text": "ち~~~っちゃいギア作ってやった。",
+          "translation": "I made a teeny-tiny gear.",
+          "bbox": [0.2024, 0.8567, 0.2015, 0.0091]
+        },
+        {
+          "text": "43",
+          "translation": "43",
+          "bbox": [0.544, 0.8579, 0.0205, 0.006]
+        },
+        {
+          "text": "それでチェンジできるだろ。",
+          "translation": "That should let you change.",
+          "bbox": [0.2024, 0.8724, 0.1537, 0.0079]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.1127, 0.8875, 0.047, 0.0085]
+        },
+        {
+          "text": "･･･フリント",
+          "translation": "...Flint",
+          "bbox": [0.2007, 0.8869, 0.0581, 0.0091]
+        },
+        {
+          "text": "ゾックス\nフリント\nカッタナー",
+          "translation": "Zox\nFlint\nCattana",
+          "bbox": [0.5884, 0.8567, 0.064, 0.0387]
+        },
+        {
+          "text": "ゴールドツイカー一家のモットーは?",
+          "translation": "What's the motto of the Gold Twiker family?",
+          "bbox": [0.6789, 0.8561, 0.2024, 0.0091]
+        },
+        {
+          "text": "面白そうなことには一、 あたまから突っ込め!",
+          "translation": "First—dive headfirst into anything that looks interesting!",
+          "bbox": [0.6781, 0.8718, 0.2459, 0.0085]
+        },
+        {
+          "text": "フリント",
+          "translation": "Flint",
+          "bbox": [0.1144, 0.9027, 0.0444, 0.0073]
+        },
+        {
+          "text": "アタシがやられたら兄貴がしくったときに",
+          "translation": "If I get taken out, then when Boss messes up...",
+          "bbox": [0.2015, 0.9027, 0.2297, 0.0085]
+        },
+        {
+          "text": "リッキー",
+          "translation": "Ricky",
+          "bbox": [0.5909, 0.9021, 0.0453, 0.0085]
+        },
+        {
+          "text": "フォローできるやついなくなるからな。",
+          "translation": "There won't be anyone left to cover for you.",
+          "bbox": [0.2015, 0.9178, 0.2143, 0.0085]
+        },
+        {
+          "text": "ゾックス",
+          "translation": "Zox",
+          "bbox": [0.5901, 0.9166, 0.0461, 0.0097]
+        },
+        {
+          "text": "だからな。",
+          "translation": "That's why.",
+          "bbox": [0.6789, 0.9166, 0.0555, 0.0091]
+        },
+        {
+          "text": "今日はこれくらいの手出しにしといてやんよ。へへ。",
+          "translation": "I'll go easy on you today—just this much. Heh.",
+          "bbox": [0.2015, 0.9329, 0.2852, 0.0085]
+        },
+        {
+          "text": "44",
+          "translation": "44",
+          "bbox": [0.544, 0.9335, 0.0205, 0.0054]
+        },
+        {
+          "text": "界賊一家",
+          "translation": "World-Pirate Family",
+          "bbox": [0.5901, 0.9323, 0.0529, 0.0079]
+        },
+        {
+          "text": "ヨホホーイ!",
+          "translation": "Yohohoi!",
+          "bbox": [0.6789, 0.9311, 0.064, 0.0097]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.4919, 0.9819, 0.0154, 0.0103]
+        }
+      ]
+    }
+  ]
+}

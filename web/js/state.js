@@ -1,18 +1,28 @@
+import { createViewerState } from './viewer-state.js?v=14';
+import { createReaderPreferences } from './reader-controls.js?v=14';
+import { createEditSession } from './edit-session.js?v=14';
+
 // Global application state
 export const state = {
   manuals: [],
   tagsData: null,
   selectedTags: new Set(),
   currentManual: null,
+  sourceManual: null,
   currentManualName: null, // The folder name (e.g., "CSM-Den-O-Belt-v2")
-  showOverlays: true,
-  showTranslations: true,
-  showSidebar: true,
-  editedBlocks: new Set(),
-  currentBboxEdit: null,
+  viewer: createViewerState(),
+  reader: createReaderPreferences(),
   currentlyEditingBlock: null, // { pageIdx, blockIdx, element }
   currentRenderToken: 0,
-  lastEdit: null // { pageIdx, blockIdx, previousState: { translation, bbox } }
+  fitGeneration: 0,
+  fitResults: [],
+  editSession: null,
+  pendingDraft: null,
+  restoreDraftOnStart: false,
+  draftStore: null,
+  draftAutosave: null,
+  draftStatus: null,
+  onEditSessionChange: null
 };
 
 // DOM element cache - populated on DOMContentLoaded
@@ -26,18 +36,41 @@ export const DOM = {
   downloadEditsBtn: null,
   submitGitHubBtn: null,
   undoBtn: null,
+  redoBtn: null,
   createBlockBtn: null,
   prevPageBtn: null,
   nextPageBtn: null,
-  overlaysBtn: null,
   translationsBtn: null,
-  sidebarToggleBtn: null
+  editTranslationsBtn: null,
+  exitEditingBtn: null,
+  pageJumpInput: null,
+  decreaseTextSizeBtn: null,
+  resetTextSizeBtn: null,
+  increaseTextSizeBtn: null,
+  printManualBtn: null,
+  printSettingsBtn: null,
+  printStatus: null,
+  printPreflightDialog: null,
+  printWarningsDialog: null,
+  printWarningsList: null,
+  largeTextPopover: null,
+  largeTextPopoverContent: null,
+  discardDraftBtn: null,
+  draftStatus: null,
+  allTranslationsBtn: null,
+  translationsDrawer: null,
+  inspectorTranslation: null,
+  inspectorBboxInputs: [],
+  deleteSelectedBlockBtn: null
 };
 
 // Edit session management - enforce single document editing
 export const EditSession = {
   activeManual: null,
-  hasUnsavedChanges: false,
+
+  get hasUnsavedChanges() {
+    return state.editSession?.dirty ?? false;
+  },
 
   start(manualName) {
     if (this.hasUnsavedChanges && this.activeManual !== manualName) {
@@ -51,23 +84,26 @@ export const EditSession = {
       }
       this.clear();
     }
+
+    if (!state.editSession) {
+      state.editSession = createEditSession(state.currentManual, {
+        initialDirty: state.restoreDraftOnStart,
+        onChange(notification) {
+          state.currentManual = state.editSession.manual;
+          state.viewer.selectedBlock = notification.selectedBlock;
+          state.onEditSessionChange?.(notification);
+        }
+      });
+      state.currentManual = state.editSession.manual;
+      state.restoreDraftOnStart = false;
+    }
     this.activeManual = manualName;
     return true;
   },
 
-  markDirty() {
-    this.hasUnsavedChanges = true;
-  },
-
-  markClean() {
-    this.hasUnsavedChanges = false;
-  },
-
   clear() {
     this.activeManual = null;
-    this.hasUnsavedChanges = false;
-    state.editedBlocks.clear();
-    state.lastEdit = null;
+    state.editSession = null;
   },
 
   canNavigateAway() {

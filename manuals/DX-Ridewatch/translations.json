@@ -37,7 +37,7 @@
         },
         {
           "text": "ないよう",
-          "translation": "Not so",
+          "translation": "Contents",
           "bbox": [0.1131, 0.2176, 0.0466, 0.0077]
         },
         {
@@ -47,12 +47,12 @@
         },
         {
           "text": "とりあつかいせつめいしょ",
-          "translation": "Handling instructions",
+          "translation": "Instruction Manual",
           "bbox": [0.2092, 0.2283, 0.0659, 0.0051]
         },
         {
           "text": "取扱説明書･･･1",
-          "translation": "Instruction manual...1",
+          "translation": "Instruction Manual ... 1",
           "bbox": [0.2098, 0.2347, 0.0865, 0.009]
         },
         {
@@ -67,12 +67,12 @@
         },
         {
           "text": "DXセイバーライドウォッチ...1",
-          "translation": "DX Saber Ridewatch...1",
+          "translation": "DX Saber Ridewatch ... 1",
           "bbox": [0.2684, 0.3638, 0.1814, 0.0115]
         },
         {
           "text": "DXディケイドコンプリートフォーム21ライドウォッチ... 1",
-          "translation": "DX Decade Complete Form 21 Ridewatch... 1",
+          "translation": "DX Decade Complete Form 21 Ridewatch ... 1",
           "bbox": [0.5357, 0.3664, 0.3337, 0.009]
         },
         {
@@ -97,7 +97,7 @@
         },
         {
           "text": "ほごしゃ",
-          "translation": "caregiver",
+          "translation": "Guardian",
           "bbox": [0.3495, 0.4237, 0.0369, 0.0043]
         },
         {
@@ -112,7 +112,7 @@
         },
         {
           "text": "保護者の方へ 必ずお読みください。",
-          "translation": "To parents: Please be sure to read this.",
+          "translation": "To guardians: Please read this carefully.",
           "bbox": [0.3428, 0.4292, 0.2322, 0.0098]
         },
         {
@@ -137,7 +137,7 @@
         },
         {
           "text": "●小部品や小球があります。 誤飲・窒息の危険がありますので、3才未満のお子様には絶対に与えないでください。",
-          "translation": "Contains small parts and balls. Do not give to children under 3 years old to prevent accidental ingestion or choking hazard.",
+          "translation": "●This product contains small parts and small balls. There is a risk of accidental ingestion and choking, so do not give it to children under 3 years old.",
           "bbox": [0.0568, 0.4519, 0.6439, 0.0094]
         },
         {
@@ -207,7 +207,7 @@
         },
         {
           "text": "●ぶつけたり、ふりまわすなど乱暴な遊びをしないでください。●本商品には電子部品を使用しておりますので、ペースメーカーをご使用の方は、\n本商品を身体に近づけないようご注意ください。 LEDの光の点滅を見続けないでください。気分が悪くなったりする恐れがあります。《電池を誤使用\nすると発熱・破裂・液漏れの恐れがあります。 下記に注意してください》 ●万一、ボタン電池を飲み込んだとき、ボタン電池から漏れた液が目に入った",
-          "translation": "●Do not play roughly with the product, such as hitting it or swinging it around. ●This product contains electronic components, so if you use a pacemaker, please keep it away from your body. Do not stare at the flashing LED light for long periods of time. It may make you feel unwell. {Misuse of the battery may cause it to overheat, explode, or leak. Please take the following precautions:} ●If a button battery is swallowed, or if liquid leaking from the button battery gets into your eyes,",
+          "translation": "●Do not strike, throw, or swing this product roughly. ●This product contains electronic components; if you use a pacemaker, do not bring this product close to your body. Do not stare at the flashing LED light for extended periods; prolonged viewing may cause discomfort. Misuse of batteries may cause overheating, rupture, or leakage. Please observe the precautions below. ●If a button battery is swallowed or battery leakage gets into the eyes, consult a doctor immediately.",
           "bbox": [0.0478, 0.4951, 0.8222, 0.0398]
         },
         {
@@ -312,7 +312,7 @@
         },
         {
           "text": "ときはすぐに医師に相談してください。 漏れた液が皮膚や服に付いた時は水で洗ってください。 ●ボタン電池の交換は保護者の方が行ってください。",
-          "translation": "If this happens, consult a doctor immediately. If the leaked liquid comes into contact with your skin or clothes, wash it off with water. ●A parent or guardian should replace the button battery.",
+          "translation": "If this happens, consult a doctor immediately. If leaked liquid gets on the skin or clothing, wash with water. ●Button battery replacement should be performed by a parent or guardian.",
           "bbox": [0.0484, 0.5413, 0.821, 0.009]
         },
         {
@@ -417,7 +417,7 @@
         },
         {
           "text": "●古い電池と新しい電池、いろいろな電池をまぜて使わないでください。 +-(プラスマイナス) を正しくセットしてください。 ●ショートさせたり充電、\n分解、加熱、火の中に入れたりしないでください。 廃棄するときは、自治体の廃棄処理の指示に従ってください。 ボタン電池はなめたり、口に",
-          "translation": "●Do not mix old and new batteries or different types of batteries. Make sure the +- (plus and minus) terminals are correctly set. ●Do not short-circuit, charge,\ndisassemble, heat, or put in fire. When disposing of the battery, follow the disposal instructions of your local government. Do not lick or put button batteries in your mouth.",
+          "translation": "●Do not mix old and new batteries or different types of batteries. Insert the + and - (plus and minus) terminals correctly. ●Do not short-circuit, charge, disassemble, heat, or put batteries in fire. When disposing of batteries, follow your local government's disposal instructions. Do not lick or put button batteries in your mouth.",
           "bbox": [0.0472, 0.5716, 0.8229, 0.0248]
         },
         {
@@ -457,7 +457,7 @@
         },
         {
           "text": "入れたりしないでください。",
-          "translation": "Do not put it in.",
+          "translation": "Do not put batteries in your mouth.",
           "bbox": [0.0478, 0.6037, 0.1493, 0.0077]
         },
         {
@@ -467,7 +467,7 @@
         },
         {
           "text": "<使用上の注意>",
-          "translation": "<Precautions for use>",
+          "translation": "<Precautions for Use>",
           "bbox": [0.0345, 0.637, 0.0985, 0.0094]
         },
         {
@@ -517,27 +517,27 @@
         },
         {
           "text": "こうかん",
-          "translation": "Exchange",
+          "translation": "Replace",
           "bbox": [0.8622, 0.6481, 0.026, 0.0043]
         },
         {
           "text": "くちにいれない",
-          "translation": "Can't put it in my mouth",
+          "translation": "Do not put in mouth.",
           "bbox": [0.893, 0.5331, 0.0599, 0.0051]
         },
         {
           "text": "●セットされているボタン電池はテスト用です。 音声が小さくなる、 同じ音を繰り返すなど誤動作をする場合は、 ボタン電池をすべて新しいものに交換してください。",
-          "translation": "●The button batteries installed are for testing purposes. If you experience malfunctions such as low volume or the same sound being repeated, replace all the button batteries with new ones.",
+          "translation": "●The button batteries installed are for testing. If the sound becomes faint, the same sound repeats, or other malfunctions occur, replace all button batteries with new ones.",
           "bbox": [0.0429, 0.6537, 0.9232, 0.0094]
         },
         {
           "text": "ほんしょうひん せいみつ でん しぶ ひん こうせい",
-          "translation": "Product quality assurance",
+          "translation": "This product contains precision electronic components.",
           "bbox": [0.0484, 0.6644, 0.1983, 0.0051]
         },
         {
           "text": "お",
-          "translation": "oh",
+          "translation": "o",
           "bbox": [0.3349, 0.6657, 0.0067, 0.0034]
         },
         {
@@ -547,27 +547,27 @@
         },
         {
           "text": "ぶんかい",
-          "translation": "Culture",
+          "translation": "disassembly",
           "bbox": [0.5459, 0.6652, 0.029, 0.0038]
         },
         {
           "text": "こう おん ていおん",
-          "translation": "High sound level",
+          "translation": "high or low temperatures",
           "bbox": [0.7461, 0.6648, 0.0629, 0.0043]
         },
         {
           "text": "ところ",
-          "translation": "place",
+          "translation": "places",
           "bbox": [0.8452, 0.6657, 0.0163, 0.0034]
         },
         {
           "text": "しよう ほかん",
-          "translation": "Let's try",
+          "translation": "use and storage",
           "bbox": [0.8918, 0.664, 0.0605, 0.0064]
         },
         {
           "text": "●本商品は精密な電子部品で構成されています。 落としたり、水にぬらしたり、汚したり、 分解したりしないでください。 また、 高温・低温になる所での使用、保管は",
-          "translation": "This product is made up of precision electronic components. Do not drop it, get it wet, soil it, or disassemble it. Also, do not use or store it in places subject to high or low temperatures.",
+          "translation": "●This product contains precision electronic components. Do not drop it, get it wet, get it dirty, or disassemble it. Also, avoid using or storing it in locations that become extremely hot or extremely cold.",
           "bbox": [0.0441, 0.6699, 0.922, 0.0098]
         },
         {
@@ -582,12 +582,12 @@
         },
         {
           "text": "かどう ぶぶん とりつけ ぶぶんむり",
-          "translation": "It's impossible to attach the part",
+          "translation": "movable parts / attachment parts",
           "bbox": [0.4831, 0.6811, 0.1596, 0.0051]
         },
         {
           "text": "ほうこう つよ ひ",
-          "translation": "Strong direction",
+          "translation": "in an unnatural direction",
           "bbox": [0.662, 0.6811, 0.0738, 0.006]
         },
         {
@@ -597,22 +597,22 @@
         },
         {
           "text": "さけてください。●プラスチック梱包材は開封後はすぐに捨ててください。●可動部分・取付部分を無理な方向に強く引っ張ったり、曲げたりしないでください。",
-          "translation": "●Please dispose of the plastic packaging immediately after opening. ●Do not pull or bend the moving or mounting parts in an unnatural direction.",
+          "translation": "●Dispose of plastic packaging immediately after opening. ●Do not strongly pull or bend movable parts or attachment parts in an unnatural direction.",
           "bbox": [0.0333, 0.6862, 0.9323, 0.0107]
         },
         {
           "text": "はつおん いちぶ",
-          "translation": "First section",
+          "translation": "Some pronunciations",
           "bbox": [0.0484, 0.6982, 0.0665, 0.0043]
         },
         {
           "text": "ちが",
-          "translation": "Wrong",
+          "translation": "different",
           "bbox": [0.2346, 0.6982, 0.0133, 0.0034]
         },
         {
           "text": "しょうひん とくせいじょうき",
-          "translation": "Product special conditions",
+          "translation": "due to the nature of the product",
           "bbox": [0.3162, 0.6982, 0.0967, 0.0047]
         },
         {
@@ -622,17 +622,17 @@
         },
         {
           "text": "りょうしょう",
-          "translation": "Ryousho",
+          "translation": "please understand.",
           "bbox": [0.6058, 0.6977, 0.0278, 0.0051]
         },
         {
           "text": "どうさ",
-          "translation": "How about it?",
+          "translation": "operation",
           "bbox": [0.7189, 0.6977, 0.023, 0.0047]
         },
         {
           "text": "ばあい",
-          "translation": "In case",
+          "translation": "in case",
           "bbox": [0.7745, 0.6982, 0.0248, 0.0038]
         },
         {
@@ -642,7 +642,7 @@
         },
         {
           "text": "●発音の一部にイントネーションが違っていたり、 商品の特性上聞き取りにくいものがありますが、ご了承ください。●誤動作した場合はリセットボタンを押し電源を\n入れ直してください。背面のQRコードが剥がれたり、傷がついた場合や、汚れが付着している場合にQRコードを読みとれないことがありますのでご注意ください。",
-          "translation": "Please note that some of the pronunciation may be difficult to hear due to the intonation or characteristics of the product. If the device malfunctions, press the reset button and turn the power back on. Please note that the QR code on the back may not be readable if it is peeled off, scratched, or dirty.",
+          "translation": "●Some pronunciations may have different intonation or may be difficult to hear due to the product's characteristics; please understand. ●If the product malfunctions, press the reset button and turn the power back on. Note that the QR code on the back may not be readable if it is peeled off, scratched, or dirty.",
           "bbox": [0.0326, 0.7033, 0.9341, 0.0265]
         },
         {
@@ -667,7 +667,7 @@
         },
         {
           "text": "きず",
-          "translation": "Flaw",
+          "translation": "scratch",
           "bbox": [0.3452, 0.7144, 0.0139, 0.0047]
         },
         {
@@ -682,7 +682,7 @@
         },
         {
           "text": "ふちゃく",
-          "translation": "Fuchaku",
+          "translation": "attached",
           "bbox": [0.5073, 0.7144, 0.0266, 0.0047]
         },
         {
@@ -702,7 +702,7 @@
         },
         {
           "text": "とうろくしょうひょう",
-          "translation": "Registration",
+          "translation": "Registered trademark",
           "bbox": [0.893, 0.7341, 0.0447, 0.0034]
         },
         {
@@ -712,7 +712,7 @@
         },
         {
           "text": "ほん しょ",
-          "translation": "Honsho",
+          "translation": "This manual",
           "bbox": [0.0611, 0.761, 0.0296, 0.0056]
         },
         {
@@ -722,7 +722,7 @@
         },
         {
           "text": "れい せつめい",
-          "translation": "Explanation",
+          "translation": "Example / Explanation",
           "bbox": [0.3362, 0.761, 0.0653, 0.0056]
         },
         {
@@ -732,7 +732,7 @@
         },
         {
           "text": "かくぶめい しょう",
-          "translation": "Group name",
+          "translation": "Part names",
           "bbox": [0.0526, 0.7986, 0.0949, 0.0064]
         },
         {
@@ -742,7 +742,7 @@
         },
         {
           "text": "しょうめん",
-          "translation": "Showmen",
+          "translation": "Front",
           "bbox": [0.1838, 0.8187, 0.0212, 0.0038]
         },
         {
@@ -757,12 +757,12 @@
         },
         {
           "text": "カバー",
-          "translation": "cover",
+          "translation": "Cover",
           "bbox": [0.1765, 0.9282, 0.0339, 0.0068]
         },
         {
           "text": "はいめん",
-          "translation": "Haimen",
+          "translation": "Back",
           "bbox": [0.7872, 0.8192, 0.02, 0.003]
         },
         {
@@ -777,12 +777,12 @@
         },
         {
           "text": "【背面から見た図】",
-          "translation": "[View from the back]",
+          "translation": "[Back view]",
           "bbox": [0.783, 0.823, 0.084, 0.0077]
         },
         {
           "text": "ほんたい",
-          "translation": "Honestly",
+          "translation": "Main unit",
           "bbox": [0.4359, 0.8418, 0.0224, 0.003]
         },
         {
@@ -792,7 +792,7 @@
         },
         {
           "text": "ほんたい\n本体",
-          "translation": "Hontai (main body)",
+          "translation": "Main unit",
           "bbox": [0.5901, 0.8418, 0.0242, 0.0124]
         },
         {
@@ -807,7 +807,7 @@
         },
         {
           "text": "けんしゅつ",
-          "translation": "Examination",
+          "translation": "Detection",
           "bbox": [0.7721, 0.9504, 0.023, 0.0034]
         },
         {
@@ -857,7 +857,7 @@
         },
         {
           "text": "ぜつえん",
-          "translation": "Zero",
+          "translation": "insulation",
           "bbox": [0.0466, 0.0761, 0.0369, 0.0051]
         },
         {
@@ -882,7 +882,7 @@
         },
         {
           "text": "ほんたいかぶ",
-          "translation": "Real turnip",
+          "translation": "main unit side",
           "bbox": [0.0593, 0.1073, 0.0435, 0.003]
         },
         {
@@ -892,17 +892,17 @@
         },
         {
           "text": "ぜつえん",
-          "translation": "Zero",
+          "translation": "insulation",
           "bbox": [0.1735, 0.1069, 0.0218, 0.0038]
         },
         {
           "text": "①本体下部から出ている絶縁シートを",
-          "translation": "① Remove the insulating sheet coming out from the bottom of the unit.",
+          "translation": "① Pull out the insulation sheet protruding from the bottom of the main unit in the direction of the arrow.",
           "bbox": [0.0466, 0.1116, 0.1971, 0.0086]
         },
         {
           "text": "やじるし ほうこうひ",
-          "translation": "Arrow Direction Day",
+          "translation": "arrow direction (see diagram)",
           "bbox": [0.0617, 0.1218, 0.0756, 0.0051]
         },
         {
@@ -927,7 +927,7 @@
         },
         {
           "text": "ぜつえん",
-          "translation": "Zero",
+          "translation": "insulation",
           "bbox": [0.4407, 0.2514, 0.0193, 0.003]
         },
         {
@@ -942,17 +942,17 @@
         },
         {
           "text": "②リセットボタンを先の細い",
-          "translation": "② Press the reset button with a thin",
+          "translation": "② Press the reset button with the tip of a thin tool",
           "bbox": [0.5236, 0.1103, 0.1427, 0.0098]
         },
         {
           "text": "べつかくど",
           "translation": "Betsukudo",
-          "bbox": [0.6977, 0.1197, 0.0308, -0.0043]
+          "bbox": [0.6977, 0.1154, 0.0308, 0.0043]
         },
         {
           "text": "ぼう",
-          "translation": "stick",
+          "translation": "rod",
           "bbox": [0.5369, 0.1223, 0.0091, 0.0034]
         },
         {
@@ -967,22 +967,22 @@
         },
         {
           "text": "棒などで軽く押します。",
-          "translation": "Press gently with a stick or something similar.",
+          "translation": "Lightly press it with a thin rod or similar tool.",
           "bbox": [0.5357, 0.127, 0.1161, 0.0077]
         },
         {
           "text": "でんち",
-          "translation": "Electricity",
+          "translation": "battery",
           "bbox": [0.1094, 0.289, 0.0345, 0.006]
         },
         {
           "text": "こうかん",
-          "translation": "Exchange",
+          "translation": "replacement",
           "bbox": [0.1765, 0.289, 0.0393, 0.006]
         },
         {
           "text": "ボタン電池の交換",
-          "translation": "Replacing the button battery",
+          "translation": "Replacing the button batteries",
           "bbox": [0.0447, 0.2967, 0.1729, 0.015]
         },
         {
@@ -997,7 +997,7 @@
         },
         {
           "text": "かなら ほごしゃ かた おこな\n※必ず保護者の方が行ってください。",
-          "translation": "Please be sure to have a parent or guardian present during this process.",
+          "translation": "※Be sure that a parent or guardian performs this.",
           "bbox": [0.2449, 0.2971, 0.2152, 0.0145]
         },
         {
@@ -1007,27 +1007,27 @@
         },
         {
           "text": "どうさ",
-          "translation": "How about it?",
+          "translation": "operation",
           "bbox": [0.4081, 0.3228, 0.0193, 0.0038]
         },
         {
           "text": "ばあい",
-          "translation": "In case",
+          "translation": "in case",
           "bbox": [0.471, 0.3224, 0.02, 0.0043]
         },
         {
           "text": "※音が小さくなって聞きとりにくくなったり、 音が止まるなどの誤動作をする場合や、",
-          "translation": "*If the sound becomes too quiet to hear, or if the sound stops, or if there are other malfunctions,",
+          "translation": "※If the sound becomes quieter and hard to hear, if the sound stops, or if other malfunctions occur,",
           "bbox": [0.0441, 0.3254, 0.4661, 0.0103]
         },
         {
           "text": "はっこう",
-          "translation": "Hakko",
+          "translation": "light emission",
           "bbox": [0.1149, 0.3399, 0.0254, 0.0038]
         },
         {
           "text": "よわ",
-          "translation": "Weak",
+          "translation": "weak",
           "bbox": [0.162, 0.3403, 0.0109, 0.0034]
         },
         {
@@ -1037,12 +1037,12 @@
         },
         {
           "text": "でんち",
-          "translation": "Electricity",
+          "translation": "battery",
           "bbox": [0.3398, 0.3416, 0.0187, 0.0038]
         },
         {
           "text": "こうかん",
-          "translation": "Exchange",
+          "translation": "replace",
           "bbox": [0.3767, 0.3425, 0.0224, 0.003]
         },
         {
@@ -1062,7 +1062,7 @@
         },
         {
           "text": "①カバーを取り外します。",
-          "translation": "①Remove the cover.",
+          "translation": "① Remove the cover.",
           "bbox": [0.0423, 0.3715, 0.1306, 0.0086]
         },
         {
@@ -1077,17 +1077,17 @@
         },
         {
           "text": "ほんたい",
-          "translation": "Honestly",
+          "translation": "main unit",
           "bbox": [0.1505, 0.3959, 0.0224, 0.0034]
         },
         {
           "text": "いち",
-          "translation": "one",
+          "translation": "position",
           "bbox": [0.2116, 0.3955, 0.0169, 0.0038]
         },
         {
           "text": "カバーの△と本体の△の位置を合わせます。",
-          "translation": "Align the △ on the cover with the △ on the main body.",
+          "translation": "Align the △ on the cover with the △ on the main unit.",
           "bbox": [0.0822, 0.3997, 0.2243, 0.0086]
         },
         {
@@ -1107,7 +1107,7 @@
         },
         {
           "text": "でんち",
-          "translation": "Electricity",
+          "translation": "battery",
           "bbox": [0.055, 0.4245, 0.0193, 0.003]
         },
         {
@@ -1117,7 +1117,7 @@
         },
         {
           "text": "②電池ぶたを取り外します。",
-          "translation": "②Remove the battery cover.",
+          "translation": "② Remove the battery cover.",
           "bbox": [0.0423, 0.4292, 0.1433, 0.0081]
         },
         {
@@ -1127,12 +1127,12 @@
         },
         {
           "text": "しょうめん",
-          "translation": "Showmen",
+          "translation": "front",
           "bbox": [0.2189, 0.4386, 0.0224, 0.0034]
         },
         {
           "text": "②-1 DXセイバーライドウォッチ正面の",
-          "translation": "②-1 DX Saber Ridewatch Front",
+          "translation": "②-1 On the front of the DX Saber Ridewatch,",
           "bbox": [0.0544, 0.4429, 0.1995, 0.0081]
         },
         {
@@ -1142,22 +1142,22 @@
         },
         {
           "text": "みぎがわ あな さき ほそ",
-          "translation": "Right side hole narrow",
+          "translation": "right-side hole (press with a thin-tipped tool)",
           "bbox": [0.1403, 0.4528, 0.0925, 0.0034]
         },
         {
           "text": "ぼう",
-          "translation": "stick",
+          "translation": "rod",
           "bbox": [0.2467, 0.4532, 0.0103, 0.003]
         },
         {
           "text": "電池ぶたの右側の穴を先の細い棒などで押し、",
-          "translation": "Press the hole on the right side of the battery cover with a thin stick,",
+          "translation": "Press the hole on the right side of the battery cover with a thin-tipped rod or similar tool,",
           "bbox": [0.0822, 0.4575, 0.2352, 0.0081]
         },
         {
           "text": "でんち",
-          "translation": "Electricity",
+          "translation": "battery",
           "bbox": [0.0834, 0.4664, 0.0193, 0.0043]
         },
         {
@@ -1177,7 +1177,7 @@
         },
         {
           "text": "でん ち",
-          "translation": "Electricity",
+          "translation": "battery",
           "bbox": [0.0889, 0.4814, 0.0187, 0.003]
         },
         {
@@ -1187,7 +1187,7 @@
         },
         {
           "text": "③ボタン電池を入れます。",
-          "translation": "③Insert the button battery.",
+          "translation": "③ Insert the button batteries.",
           "bbox": [0.0423, 0.4861, 0.1336, 0.0077]
         },
         {
@@ -1207,12 +1207,12 @@
         },
         {
           "text": "でんち",
-          "translation": "Electricity",
+          "translation": "battery",
           "bbox": [0.2745, 0.4959, 0.0187, 0.003]
         },
         {
           "text": "古いボタン電池を取り外して、 新しいボタン電池",
-          "translation": "Remove the old button battery and insert a new button battery",
+          "translation": "Remove the old button batteries and insert new button batteries.",
           "bbox": [0.055, 0.5002, 0.2424, 0.0081]
         },
         {
@@ -1222,12 +1222,12 @@
         },
         {
           "text": "プラスマイナス ちゅうい",
-          "translation": "Plus Minus Caution",
+          "translation": "Observe +/− polarity",
           "bbox": [0.1675, 0.5113, 0.0605, 0.0038]
         },
         {
           "text": "3個(LR44・別売り)を十に注意してセットします。",
-          "translation": "Set three pieces (LR44, sold separately) carefully.",
+          "translation": "Set 3 × LR44 (sold separately), observing the +/− polarity.",
           "bbox": [0.055, 0.5156, 0.2636, 0.0086]
         },
         {
@@ -1237,7 +1237,7 @@
         },
         {
           "text": "④電池ぶたを戻します。",
-          "translation": "④Replace the battery cover.",
+          "translation": "④ Replace the battery cover.",
           "bbox": [0.0423, 0.5293, 0.1215, 0.0086]
         },
         {
@@ -1257,12 +1257,12 @@
         },
         {
           "text": "電池ぶたの突起とDXセイバーライドウォッチ正面の",
-          "translation": "The protrusion on the battery cover and the front of the DX Saber Ride Watch",
+          "translation": "Align the protrusion on the battery cover with the groove on the front of the DX Saber Ridewatch,",
           "bbox": [0.0544, 0.5438, 0.2636, 0.0081]
         },
         {
           "text": "でんち",
-          "translation": "Electricity",
+          "translation": "battery",
           "bbox": [0.1282, 0.5541, 0.0193, 0.0038]
         },
         {
@@ -1272,7 +1272,7 @@
         },
         {
           "text": "ミゾを合わせ、 電池ぶたを閉じます。",
-          "translation": "Align the grooves and close the battery cover.",
+          "translation": "then close the battery cover.",
           "bbox": [0.055, 0.5566, 0.1796, 0.0107]
         },
         {
@@ -1282,22 +1282,22 @@
         },
         {
           "text": "⑤カバーを戻します。",
-          "translation": "⑤Replace the cover.",
+          "translation": "⑤ Replace the cover.",
           "bbox": [0.0423, 0.5716, 0.1082, 0.009]
         },
         {
           "text": "ほんたい",
-          "translation": "Honestly",
+          "translation": "main unit",
           "bbox": [0.1233, 0.5827, 0.0212, 0.0034]
         },
         {
           "text": "いち",
-          "translation": "one",
+          "translation": "position",
           "bbox": [0.185, 0.5827, 0.0163, 0.0034]
         },
         {
           "text": "カバーの△と本体の△の位置を合わせてはめこみ、",
-          "translation": "Align the △ on the cover with the △ on the main body and insert it.",
+          "translation": "Align the △ on the cover with the △ on the main unit and snap it into place,",
           "bbox": [0.0544, 0.5861, 0.2582, 0.0086]
         },
         {
@@ -1322,7 +1322,7 @@
         },
         {
           "text": "ほんたい",
-          "translation": "Honestly",
+          "translation": "main unit",
           "bbox": [0.6155, 0.4874, 0.0181, 0.003]
         },
         {
@@ -1357,18 +1357,18 @@
         },
         {
           "text": "でんち",
-          "translation": "Electricity",
+          "translation": "Battery",
           "bbox": [0.4698, 0.6345, 0.0169, 0.0026]
         },
         {
           "text": "LR44 x 3",
-          "translation": "LR44 x 3",
+          "translation": "LR44 × 3",
           "bbox": [0.4909, 0.6084, 0.0647, 0.0115]
         },
         {
           "text": "かく",
-          "translation": "write",
-          "bbox": [0.5266, 0.637, 0.0073, -0.0026]
+          "translation": "each",
+          "bbox": [0.5266, 0.6344, 0.0073, 0.0026]
         },
         {
           "text": "こしよう つき",
@@ -1382,12 +1382,12 @@
         },
         {
           "text": "でんち",
-          "translation": "Electricity",
+          "translation": "Battery",
           "bbox": [0.5133, 0.6499, 0.0145, 0.0034]
         },
         {
           "text": "よう",
-          "translation": "Hello",
+          "translation": "for",
           "bbox": [0.5701, 0.6507, 0.0091, 0.0026]
         },
         {
@@ -1397,17 +1397,17 @@
         },
         {
           "text": "でんち",
-          "translation": "Electricity",
+          "translation": "Battery",
           "bbox": [0.4692, 0.6712, 0.0163, 0.0026]
         },
         {
           "text": "うえがわ プラス したがわ",
-          "translation": "Uegawa Plus Sagawa",
+          "translation": "upper side: +",
           "bbox": [0.5, 0.6704, 0.0701, 0.0034]
         },
         {
           "text": "ボタン電池は上側が十に下側が",
-          "translation": "The top of the button battery is 10 and the bottom is 10.",
+          "translation": "The top of the button battery should be + and the bottom should be -.",
           "bbox": [0.4395, 0.6751, 0.1409, 0.0068]
         },
         {
@@ -1417,7 +1417,7 @@
         },
         {
           "text": "になるようにセットします。",
-          "translation": "Set it to be as follows.",
+          "translation": "Set so that this is the case.",
           "bbox": [0.4516, 0.6888, 0.1167, 0.0064]
         },
         {
@@ -1452,7 +1452,7 @@
         },
         {
           "text": "ほんたい",
-          "translation": "Honestly",
+          "translation": "main unit",
           "bbox": [0.737, 0.5507, 0.0181, 0.0026]
         },
         {
@@ -1462,7 +1462,7 @@
         },
         {
           "text": "でんち",
-          "translation": "Electricity",
+          "translation": "Battery",
           "bbox": [0.7346, 0.687, 0.0169, 0.0026]
         },
         {
@@ -1472,7 +1472,7 @@
         },
         {
           "text": "とっき\n突起",
-          "translation": "Tokki\nProtrusion",
+          "translation": "Protrusion",
           "bbox": [0.7769, 0.5981, 0.02, 0.0107]
         },
         {
@@ -1487,12 +1487,12 @@
         },
         {
           "text": "DXセイバーライドウォッチ&ディケイドコンプリートフォーム21ライドウォッチの単品遊び",
-          "translation": "DX Saber Ridewatch & Decade Complete Form 21 Ridewatch single play",
+          "translation": "Single-item play for DX Saber Ridewatch & DX Decade Complete Form 21 Ridewatch.",
           "bbox": [0.0453, 0.7401, 0.8615, 0.0158]
         },
         {
           "text": "ないよう じょうたい",
-          "translation": "Condition",
+          "translation": "Contents/Condition",
           "bbox": [0.0931, 0.7593, 0.0653, 0.0038]
         },
         {
@@ -1502,7 +1502,7 @@
         },
         {
           "text": "※セット内容の状態から始めます。",
-          "translation": "*Start with the set contents.",
+          "translation": "*Begin with the contents as packaged.",
           "bbox": [0.0447, 0.7644, 0.1995, 0.0098]
         },
         {
@@ -1512,17 +1512,17 @@
         },
         {
           "text": "【回る】",
-          "translation": "[Spin]",
+          "translation": "[Rotate]",
           "bbox": [0.0447, 0.7884, 0.0375, 0.0107]
         },
         {
           "text": "かいてん",
-          "translation": "Kaiten",
+          "translation": "Rotate",
           "bbox": [0.0883, 0.8003, 0.0242, 0.0034]
         },
         {
           "text": "えがら か",
-          "translation": "Egara or",
+          "translation": "pattern",
           "bbox": [0.1421, 0.7995, 0.0411, 0.0047]
         },
         {
@@ -1547,7 +1547,7 @@
         },
         {
           "text": "てんめん",
-          "translation": "Tenmen",
+          "translation": "top surface",
           "bbox": [0.4069, 0.8016, 0.023, 0.0034]
         },
         {
@@ -1562,7 +1562,7 @@
         },
         {
           "text": "しゅるい おんせい",
-          "translation": "Types of Onsen",
+          "translation": "types of audio",
           "bbox": [0.5326, 0.817, 0.058, 0.0043]
         },
         {
@@ -1577,7 +1577,7 @@
         },
         {
           "text": "ボタン",
-          "translation": "button",
+          "translation": "Button",
           "bbox": [0.4123, 0.8589, 0.0284, 0.006]
         },
         {
@@ -1602,12 +1602,12 @@
         },
         {
           "text": "ライドウォッチ",
-          "translation": "Ride Watch",
+          "translation": "Ridewatch",
           "bbox": [0.6451, 0.8803, 0.0623, 0.0073]
         },
         {
           "text": "おんせい",
-          "translation": "Onsei",
+          "translation": "Audio",
           "bbox": [0.5979, 0.8923, 0.0181, 0.0026]
         },
         {
@@ -1662,7 +1662,7 @@
         },
         {
           "text": "おんせい",
-          "translation": "Onsei",
+          "translation": "Audio",
           "bbox": [0.5979, 0.9205, 0.0181, 0.0021]
         },
         {
@@ -1677,7 +1677,7 @@
         },
         {
           "text": "|選ばれしライダーは･･･",
-          "translation": "|The chosen rider is...",
+          "translation": "|The chosen Rider is...",
           "bbox": [0.6409, 0.9226, 0.1022, 0.0068]
         },
         {
@@ -1687,7 +1687,7 @@
         },
         {
           "text": "おんせい",
-          "translation": "Onsei",
+          "translation": "Audio",
           "bbox": [0.5937, 0.9538, 0.0224, 0.003]
         },
         {
@@ -1737,7 +1737,7 @@
       "blocks": [
         {
           "text": "べつう",
-          "translation": "Special",
+          "translation": "Sold separately",
           "bbox": [0.0459, 0.0265, 0.0339, 0.0043]
         },
         {
@@ -1747,7 +1747,7 @@
         },
         {
           "text": "別売りのDXジクウドライバーでセイバーアーマーにアーマータイム!",
-          "translation": "Armor time for the Saber Armor with the separately sold DX Zi-O Driver!",
+          "translation": "Armor Time! Use the separately sold DX Zi-O Driver to become Saber Armor!",
           "bbox": [0.0435, 0.0321, 0.659, 0.0158]
         },
         {
@@ -1782,7 +1782,7 @@
         },
         {
           "text": "※詳しくはDXジクウドライバーの取扱説明書をご参照ください。 図はRスロットにDXジオウライドウォッチをセットした場合のものです。",
-          "translation": "*For details, please refer to the DX Zi-O Driver instruction manual. The illustration shows the DX Zi-O Ridewatch set in the R slot.",
+          "translation": "For details, refer to the DX Zi-O Driver instruction manual. The illustration shows the DX Zi-O Ridewatch placed in the R slot.",
           "bbox": [0.0441, 0.0577, 0.8235, 0.0094]
         },
         {
@@ -1792,7 +1792,7 @@
         },
         {
           "text": "へんしん",
-          "translation": "reply",
+          "translation": "Transformation",
           "bbox": [0.217, 0.0693, 0.0242, 0.0038]
         },
         {
@@ -1802,7 +1802,7 @@
         },
         {
           "text": "※説明はセイバーアーマーに変身する場合のものです。",
-          "translation": "*The explanation is for transforming into Saber Armor.",
+          "translation": "*The explanation below shows how to transform into Saber Armor.",
           "bbox": [0.0441, 0.074, 0.3265, 0.0094]
         },
         {
@@ -1837,12 +1837,12 @@
         },
         {
           "text": "①カバーを右に90度回転させ、",
-          "translation": "① Rotate the cover 90 degrees to the right,",
+          "translation": "① Rotate the cover 90° to the right,",
           "bbox": [0.0447, 0.1364, 0.1608, 0.0086]
         },
         {
           "text": "てんめん",
-          "translation": "Tenmen",
+          "translation": "top",
           "bbox": [0.0574, 0.1484, 0.0224, 0.0034]
         },
         {
@@ -1852,7 +1852,7 @@
         },
         {
           "text": "天面のボタンを一度押します。",
-          "translation": "Press the button on the top once.",
+          "translation": "Press the top button once.",
           "bbox": [0.0568, 0.1526, 0.1524, 0.0077]
         },
         {
@@ -1872,7 +1872,7 @@
         },
         {
           "text": "音声が鳴り、LEDが光ります。",
-          "translation": "A sound will be heard and the LED will light up.",
+          "translation": "A sound will play and the LED will light up.",
           "bbox": [0.0689, 0.168, 0.1511, 0.0081]
         },
         {
@@ -1882,7 +1882,7 @@
         },
         {
           "text": "②DXジクウドライバーのRスロットに",
-          "translation": "②In the R slot of the DX Ziku Driver",
+          "translation": "② With the DX Zi-O Ridewatch set in the R slot of the DX Zi-O Driver,",
           "bbox": [0.0496, 0.215, 0.1965, 0.0073]
         },
         {
@@ -1897,7 +1897,7 @@
         },
         {
           "text": "DXジオウライドウォッチをセットした状態で、",
-          "translation": "With the DX Zi-O Ride Watch set,",
+          "translation": "with the DX Zi-O Ridewatch placed in the R slot,",
           "bbox": [0.0623, 0.2296, 0.2328, 0.0081]
         },
         {
@@ -1907,7 +1907,7 @@
         },
         {
           "text": "LスロットにDXセイバーライドウォッチをセットします。",
-          "translation": "Place the DX Saber Ridewatch in the L slot.",
+          "translation": "place the DX Saber Ridewatch into the L slot.",
           "bbox": [0.0623, 0.2454, 0.283, 0.0081]
         },
         {
@@ -1927,7 +1927,7 @@
         },
         {
           "text": "図の向きにして、DXセイバーライドウォッチを",
-          "translation": "Place the DX Saber Ridewatch in the direction shown in the image.",
+          "translation": "Orient it as shown, then insert the DX Saber Ridewatch",
           "bbox": [0.0617, 0.2591, 0.2322, 0.0107]
         },
         {
@@ -1937,7 +1937,7 @@
         },
         {
           "text": "DXジクウドライバーのLスロットに、",
-          "translation": "In the L slot of the DX Zi-O Driver,",
+          "translation": "into the L slot of the DX Zi-O Driver.",
           "bbox": [0.0617, 0.2753, 0.182, 0.0094]
         },
         {
@@ -1952,7 +1952,7 @@
         },
         {
           "text": "カチッと音がするまで差し込みます。",
-          "translation": "Insert it until you hear a click.",
+          "translation": "Insert until you hear a click.",
           "bbox": [0.0623, 0.292, 0.1826, 0.0077]
         },
         {
@@ -1977,7 +1977,7 @@
         },
         {
           "text": "装填音、待機音が鳴り、",
-          "translation": "Loading sounds and standby sounds will sound.",
+          "translation": "A loading sound and a standby sound will play,",
           "bbox": [0.0623, 0.3254, 0.1143, 0.0077]
         },
         {
@@ -1992,12 +1992,12 @@
         },
         {
           "text": "液晶画面の表示が起動します。",
-          "translation": "The LCD screen display will start up.",
+          "translation": "and the LCD screen will activate.",
           "bbox": [0.0623, 0.3403, 0.156, 0.0081]
         },
         {
           "text": "ジオウライドウォッチ",
-          "translation": "Zi-O Ridewatch",
+          "translation": "DX Zi-O Ridewatch",
           "bbox": [0.2031, 0.3745, 0.0913, 0.0064]
         },
         {
@@ -2022,12 +2022,12 @@
         },
         {
           "text": "DXジクウドライバーの各部名称",
-          "translation": "DX Ziku Driver Part Names",
+          "translation": "DX Zi-O Driver — Names of parts",
           "bbox": [0.7007, 0.224, 0.24, 0.0111]
         },
         {
           "text": "ライドウォッチロックボタン",
-          "translation": "Ridewatch Lock Button",
+          "translation": "Ridewatch lock button",
           "bbox": [0.763, 0.2488, 0.13, 0.0073]
         },
         {
@@ -2037,7 +2037,7 @@
         },
         {
           "text": "Rスロット",
-          "translation": "R Slot",
+          "translation": "R slot",
           "bbox": [0.7334, 0.3459, 0.0484, 0.0068]
         },
         {
@@ -2067,7 +2067,7 @@
         },
         {
           "text": "③DXジクウドライバー上部のアンロックボタンを押して",
-          "translation": "③ Press the unlock button on the top of the DX Zi-O Driver",
+          "translation": "③ Press the unlock button on the top of the DX Zi-O Driver,",
           "bbox": [0.0502, 0.4027, 0.2842, 0.0077]
         },
         {
@@ -2097,12 +2097,12 @@
         },
         {
           "text": "※ロックを解除すると、 図のように本体が傾きます。",
-          "translation": "*When you release the lock, the unit will tilt as shown in the illustration.",
+          "translation": "*When you release the lock, the unit will tilt as shown.",
           "bbox": [0.6511, 0.4126, 0.2854, 0.0086]
         },
         {
           "text": "ベルト本体のロックを解除し、本体を傾けさせてから、",
-          "translation": "Unlock the belt body, tilt the body, then",
+          "translation": "Release the belt body's lock, tilt the main unit, then",
           "bbox": [0.0623, 0.4181, 0.2684, 0.0081]
         },
         {
@@ -2112,7 +2112,7 @@
         },
         {
           "text": "1回転させます。",
-          "translation": "Rotate it once.",
+          "translation": "rotate it one full turn.",
           "bbox": [0.0641, 0.4335, 0.0804, 0.0086]
         },
         {
@@ -2137,7 +2137,7 @@
         },
         {
           "text": "回転完了音が鳴り、液晶画面に",
-          "translation": "A rotation completion sound will sound and the LCD screen will",
+          "translation": "A rotation-complete sound will play, and on the LCD screen",
           "bbox": [0.0629, 0.4647, 0.156, 0.0077]
         },
         {
@@ -2147,7 +2147,7 @@
         },
         {
           "text": "アニメーションが表示されます。",
-          "translation": "The animation will be displayed.",
+          "translation": "an animation will be displayed.",
           "bbox": [0.0617, 0.4793, 0.1644, 0.0086]
         },
         {
@@ -2177,7 +2177,7 @@
         },
         {
           "text": "→変身音が鳴り、LEDが光ります。",
-          "translation": "→The transformation sound will play and the LED will light up.",
+          "translation": "→A transformation sound will play and the LED will light up.",
           "bbox": [0.0502, 0.5109, 0.1759, 0.0077]
         },
         {
@@ -2207,7 +2207,7 @@
         },
         {
           "text": "変身音が鳴り、LEDが光ります。",
-          "translation": "The transformation sound will play and the LED will light up.",
+          "translation": "A transformation sound will play and the LED will light up.",
           "bbox": [0.0617, 0.5417, 0.1644, 0.0081]
         },
         {
@@ -2222,7 +2222,7 @@
         },
         {
           "text": "ひっさつわざあそ",
-          "translation": "Special move",
+          "translation": "Special Move Play",
           "bbox": [0.0586, 0.6494, 0.0641, 0.0056]
         },
         {
@@ -2237,18 +2237,18 @@
         },
         {
           "text": "あと おこな",
-          "translation": "After that",
+          "translation": "Do this afterwards.",
           "bbox": [0.2261, 0.6571, 0.0296, 0.003]
         },
         {
           "text": "変身遊びの後に行います。",
-          "translation": "This is done after transformation play.",
+          "translation": "Perform this after Transformation Play.",
           "bbox": [0.1741, 0.6605, 0.1143, 0.0077]
         },
         {
           "text": "アーマータイム!",
-          "translation": "Armor time!",
-          "bbox": [0.5641, 0.5387, 0.0992, -0.0068]
+          "translation": "Armor Time!",
+          "bbox": [0.5641, 0.5319, 0.0992, 0.0068]
         },
         {
           "text": "購タ!\nセイバー!",
@@ -2267,7 +2267,7 @@
         },
         {
           "text": "てんめん",
-          "translation": "Tenmen",
+          "translation": "Top",
           "bbox": [0.1856, 0.6806, 0.0212, 0.0034]
         },
         {
@@ -2277,12 +2277,12 @@
         },
         {
           "text": "①DXジオウライドウォッチ天面のボタンを押します。",
-          "translation": "①Press the button on the top of the DX Zi-O Ridewatch.",
+          "translation": "① Press the button on the top of the DX Zi-O Ridewatch.",
           "bbox": [0.0496, 0.6841, 0.2648, 0.0094]
         },
         {
           "text": "おんせい",
-          "translation": "Onsei",
+          "translation": "Sound",
           "bbox": [0.0623, 0.6965, 0.023, 0.0026]
         },
         {
@@ -2293,11 +2293,11 @@
         {
           "text": "ひか",
           "translation": "Hika",
-          "bbox": [0.1644, 0.699, 0.0109, -0.0026]
+          "bbox": [0.1644, 0.6964, 0.0109, 0.0026]
         },
         {
           "text": "音声が鳴り、LEDが光ります。",
-          "translation": "A sound will be heard and the LED will light up.",
+          "translation": "A sound will play and the LED will light.",
           "bbox": [0.0617, 0.7003, 0.1518, 0.0081]
         },
         {
@@ -2307,27 +2307,27 @@
         },
         {
           "text": "てんめん",
-          "translation": "Tenmen",
+          "translation": "Top",
           "bbox": [0.1983, 0.7118, 0.0224, 0.003]
         },
         {
           "text": "②DXセイバーライドウォッチ天面のボタンを押します。",
-          "translation": "②Press the button on the top of the DX Saber Ridewatch.",
+          "translation": "② Press the button on the top of the DX Saber Ridewatch.",
           "bbox": [0.0496, 0.7157, 0.2763, 0.0081]
         },
         {
           "text": "おんせい",
-          "translation": "Onsei",
+          "translation": "Sound",
           "bbox": [0.0623, 0.7268, 0.0218, 0.0034]
         },
         {
           "text": "ひか",
-          "translation": "Hika",
+          "translation": "Light",
           "bbox": [0.1644, 0.7268, 0.0139, 0.003]
         },
         {
           "text": "音声が鳴り、LEDが光ります。",
-          "translation": "A sound will be heard and the LED will light up.",
+          "translation": "A sound will play and the LED will light.",
           "bbox": [0.0617, 0.7315, 0.1524, 0.0077]
         },
         {
@@ -2357,7 +2357,7 @@
         },
         {
           "text": "ほんたいかたむ",
-          "translation": "True type",
+          "translation": "Hontai katamu",
           "bbox": [0.1439, 0.758, 0.0472, 0.0034]
         },
         {
@@ -2367,7 +2367,7 @@
         },
         {
           "text": "ロックを解除し、本体を傾けさせてから、1回転させます。",
-          "translation": "Unlock, tilt the device, and then rotate it once.",
+          "translation": "Release the lock, tilt the main unit, then rotate it one full turn.",
           "bbox": [0.0629, 0.7623, 0.2836, 0.0086]
         },
         {
@@ -2382,12 +2382,12 @@
         },
         {
           "text": "かいてんかんりょうおん な",
-          "translation": "Kaiten Kanryo On",
+          "translation": "Rotation complete sound",
           "bbox": [0.0623, 0.7888, 0.0786, 0.006]
         },
         {
           "text": "えきしょうがめん",
-          "translation": "Station entrance",
+          "translation": "LCD screen",
           "bbox": [0.1608, 0.7897, 0.0453, 0.0038]
         },
         {
@@ -2397,12 +2397,12 @@
         },
         {
           "text": "フィニッシュタイム!",
-          "translation": "Finish time!",
+          "translation": "Finish Time!",
           "bbox": [0.3628, 0.667, 0.1094, 0.0316]
         },
         {
           "text": "回転完了音が鳴り、液晶画面にアニメーションが表示されます。",
-          "translation": "A sound will sound when the rotation is complete and an animation will appear on the LCD screen.",
+          "translation": "A rotation-complete sound will play and an animation will be shown on the LCD screen.",
           "bbox": [0.0623, 0.7944, 0.3198, 0.0077]
         },
         {
@@ -2417,7 +2417,7 @@
         },
         {
           "text": "ひっさつわざおん",
-          "translation": "Special Wazon",
+          "translation": "Special move sound",
           "bbox": [0.0623, 0.8209, 0.0453, 0.0047]
         },
         {
@@ -2432,7 +2432,7 @@
         },
         {
           "text": "必殺技音が鳴り、LEDが光ります。",
-          "translation": "The special move sound will be heard and the LED will light up.",
+          "translation": "The special move sound will play and the LED will light.",
           "bbox": [0.0611, 0.8264, 0.1765, 0.0081]
         },
         {
@@ -2447,7 +2447,7 @@
         },
         {
           "text": "ひっさつわざおん な",
-          "translation": "Hissatsuwazaon",
+          "translation": "Special move sound",
           "bbox": [0.0623, 0.8534, 0.0671, 0.0043]
         },
         {
@@ -2457,7 +2457,7 @@
         },
         {
           "text": "必殺技音が鳴り、LEDが光ります。",
-          "translation": "The special move sound will be heard and the LED will light up.",
+          "translation": "The special move sound will play and the LED will light.",
           "bbox": [0.0617, 0.8581, 0.1753, 0.009]
         },
         {
@@ -2472,12 +2472,12 @@
         },
         {
           "text": "※DXジオウ/DXセイバーライドウォッチのボタンを押さずに",
-          "translation": "*Without pressing the button on the DX Zi-O/DX Saber Ridewatch",
+          "translation": "If you do not press the button on the DX Zi-O/DX Saber Ridewatch,",
           "bbox": [0.0508, 0.8739, 0.3065, 0.0081]
         },
         {
           "text": "さいかいてん",
-          "translation": "The best",
+          "translation": "Rotate it again,",
           "bbox": [0.0623, 0.885, 0.0453, 0.0034]
         },
         {
@@ -2492,12 +2492,12 @@
         },
         {
           "text": "再度回転させると、 DXジオウ/DXセイバーライドウォッチからは",
-          "translation": "When you rotate it again, the DX Zi-O/DX Saber Ridewatch",
+          "translation": "If you rotate again, the DX Zi-O/DX Saber Ridewatch will...",
           "bbox": [0.0617, 0.8893, 0.3229, 0.0077]
         },
         {
           "text": "へんしんおん",
-          "translation": "Transformation",
+          "translation": "Transformation sound",
           "bbox": [0.0623, 0.9, 0.0339, 0.0038]
         },
         {
@@ -2512,12 +2512,12 @@
         },
         {
           "text": "変身音が鳴りますが、 DXジクウドライバーの",
-          "translation": "The transformation sound will play, but the DX Zi-O Driver",
+          "translation": "The transformation sound will play, but the DX Zi-O Driver's",
           "bbox": [0.0617, 0.9047, 0.2249, 0.0081]
         },
         {
           "text": "えきしょうがめん ひっさつわざ ひょうじ",
-          "translation": "Station entrance special move display",
+          "translation": "LCD screen — special move display",
           "bbox": [0.0623, 0.9153, 0.1252, 0.0043]
         },
         {
@@ -2532,27 +2532,27 @@
         },
         {
           "text": "※DXディケイドコンプリートフォーム21ライドウォッチからは",
-          "translation": "*From the DX Decade Complete Form 21 Ridewatch",
+          "translation": "From the DX Decade Complete Form 21 Ridewatch,",
           "bbox": [0.0508, 0.9354, 0.3102, 0.0077]
         },
         {
           "text": "こと",
-          "translation": "thing",
+          "translation": "koto",
           "bbox": [0.0623, 0.947, 0.0103, 0.003]
         },
         {
           "text": "へんしんおん ひっさつわざおん",
-          "translation": "Transformation On Special On",
+          "translation": "Transformation sound / special move sound",
           "bbox": [0.0961, 0.9461, 0.0871, 0.0043]
         },
         {
           "text": "な",
-          "translation": "Na",
+          "translation": "na",
           "bbox": [0.1989, 0.947, 0.0054, 0.003]
         },
         {
           "text": "異なる変身音、 必殺技音が鳴ります。",
-          "translation": "Different transformation and special move sounds will be played.",
+          "translation": "Different transformation sounds and special move sounds will play.",
           "bbox": [0.0617, 0.9513, 0.1832, 0.0077]
         },
         {
@@ -2572,12 +2572,12 @@
         },
         {
           "text": "はず",
-          "translation": "Should",
+          "translation": "hasu",
           "bbox": [0.6717, 0.8713, 0.0115, 0.0034]
         },
         {
           "text": "かた",
-          "translation": "shoulder",
+          "translation": "kata",
           "bbox": [0.7031, 0.8713, 0.0115, 0.0034]
         },
         {
@@ -2592,13 +2592,13 @@
         },
         {
           "text": "じょう",
-          "translation": "affection",
+          "translation": "jou",
           "bbox": [0.5852, 0.8965, 0.0133, 0.0038]
         },
         {
           "text": "セイバー!",
           "translation": "Saber!",
-          "bbox": [0.7213, 0.6879, 0.078, -0.0051]
+          "bbox": [0.7213, 0.6828, 0.078, 0.0051]
         },
         {
           "text": "DXジクウドライバーのスロット上のライドウォッチロックボタンを",
@@ -2612,12 +2612,12 @@
         },
         {
           "text": "やじるし ほうこうひば",
-          "translation": "Arrow Direction Hiba",
+          "translation": "in the direction of the arrow",
           "bbox": [0.4897, 0.9124, 0.0925, 0.0038]
         },
         {
           "text": "とはず",
-          "translation": "Tohad",
+          "translation": "tohad",
           "bbox": [0.6137, 0.9124, 0.0284, 0.0038]
         },
         {
@@ -2642,22 +2642,22 @@
         },
         {
           "text": "ちゃくだつおん",
-          "translation": "Chakudatsuon",
+          "translation": "Attach/detach sound",
           "bbox": [0.4432, 0.947, 0.0339, 0.0034]
         },
         {
           "text": "着脱音が鳴ります。",
-          "translation": "A sound will be heard when attaching or detaching.",
+          "translation": "An attach/detach sound will play.",
           "bbox": [0.4432, 0.9513, 0.0973, 0.0086]
         },
         {
           "text": "うえ",
-          "translation": "up",
+          "translation": "ue",
           "bbox": [0.708, 0.947, 0.0091, 0.003]
         },
         {
           "text": "みず",
-          "translation": "water",
+          "translation": "mizu",
           "bbox": [0.7443, 0.9461, 0.0302, 0.0043]
         },
         {
@@ -2668,7 +2668,7 @@
         {
           "text": "ひっさつく",
           "translation": "Hidden",
-          "bbox": [0.8761, 0.7644, 0.0363, -0.0043]
+          "bbox": [0.8761, 0.7601, 0.0363, 0.0043]
         }
       ]
     },
@@ -2677,7 +2677,7 @@
       "blocks": [
         {
           "text": "べつう",
-          "translation": "Special",
+          "translation": "Sold separately",
           "bbox": [0.0466, 0.0291, 0.0393, 0.0056]
         },
         {
@@ -2687,12 +2687,12 @@
         },
         {
           "text": "ひっさつわざ あそ",
-          "translation": "Special Moves",
+          "translation": "Special-move Play",
           "bbox": [0.3797, 0.0282, 0.0931, 0.006]
         },
         {
           "text": "別売りのDXジカンギレードで必殺技遊び!",
-          "translation": "Play with special moves with the separately sold DX Jikan Girade!",
+          "translation": "Play special-move attacks using the separately sold DX Jikan Girade!",
           "bbox": [0.0441, 0.0359, 0.4661, 0.018]
         },
         {
@@ -2707,7 +2707,7 @@
         },
         {
           "text": "①DXジカンギレードにDXセイバーライドウォッチをセットします。",
-          "translation": "①Attach the DX Saber Ridewatch to the DX Jikan Girade.",
+          "translation": "①Set the DX Saber Ridewatch into the DX Jikan Girade.",
           "bbox": [0.0478, 0.0697, 0.3356, 0.0081]
         },
         {
@@ -2722,7 +2722,7 @@
         },
         {
           "text": "DXセイバーライドウォッチを図の向きにして、",
-          "translation": "Place the DX Saber Ridewatch in the orientation shown in the picture.",
+          "translation": "Orient the DX Saber Ridewatch as shown in the illustration,",
           "bbox": [0.0593, 0.0842, 0.2322, 0.009]
         },
         {
@@ -2737,7 +2737,7 @@
         },
         {
           "text": "DXジカンギレードのスロットにカチッと音がするまで差し込みます。",
-          "translation": "Insert it into the slot on the DX Jikan Girade until you hear a click.",
+          "translation": "Insert it into the DX Jikan Girade's slot until it clicks.",
           "bbox": [0.0605, 0.1005, 0.3392, 0.0081]
         },
         {
@@ -2767,7 +2767,7 @@
         },
         {
           "text": "着脱音とセリフ、 待機音が鳴ります。",
-          "translation": "The attachment/detachment sounds, dialogue, and standby sounds will be played.",
+          "translation": "An attachment/detachment sound, a voice line, and a standby sound will play.",
           "bbox": [0.0599, 0.133, 0.1826, 0.0077]
         },
         {
@@ -2832,7 +2832,7 @@
         },
         {
           "text": "→音声が鳴り、LEDが光ります。",
-          "translation": "→A sound will be heard and the LED will light up.",
+          "translation": "→A voice will play and the LED will light up.",
           "bbox": [0.52, 0.1005, 0.1638, 0.0077]
         },
         {
@@ -2857,7 +2857,7 @@
         },
         {
           "text": "必殺技音が鳴ります。",
-          "translation": "The special move sound will be played.",
+          "translation": "A special-move sound will play.",
           "bbox": [0.5314, 0.1321, 0.1082, 0.0077]
         },
         {
@@ -2867,18 +2867,18 @@
         },
         {
           "text": "・ジカンギレード",
-          "translation": "・Zikangirade",
+          "translation": "· Jikan Girade",
           "bbox": [0.3924, 0.2099, 0.0689, 0.0077]
         },
         {
           "text": "ギリギリ\nスラッシュ!",
-          "translation": "Just barely slash!",
+          "translation": "Girigiri Slash!",
           "bbox": [0.6487, 0.1462, 0.078, 0.003]
         },
         {
           "text": "セイバープ",
-          "translation": "Saberp",
-          "bbox": [0.8519, 0.156, 0.1028, -0.0051]
+          "translation": "Saber!",
+          "bbox": [0.8519, 0.1509, 0.1028, 0.0051]
         },
         {
           "text": "ず",
@@ -2892,7 +2892,7 @@
         },
         {
           "text": "※図はDXジカンギレードのケンモードですが、",
-          "translation": "*The image shows the Ken mode of DX Jikan Girade.",
+          "translation": "※The illustration shows the DX Jikan Girade in Ken Mode, but",
           "bbox": [0.5187, 0.2817, 0.24, 0.0081]
         },
         {
@@ -2907,7 +2907,7 @@
         },
         {
           "text": "DX ジカンギレードのジュウモードでも同様に必殺技遊びができます。",
-          "translation": "You can also play with special moves in DX Jikan Girade's Zyu Mode.",
+          "translation": "You can also play the special-move attacks in the DX Jikan Girade's Juu Mode.",
           "bbox": [0.5302, 0.2959, 0.3543, 0.0081]
         },
         {

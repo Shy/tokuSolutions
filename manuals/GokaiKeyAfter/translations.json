@@ -1,0 +1,506 @@
+{
+  "meta": {
+    "manual_name": "GokaiKeyAfter",
+    "source": "GokaiKeyAfter.pdf",
+    "source_lang": "ja",
+    "target_lang": "en",
+    "source_url": "",
+    "blog_url": "",
+    "pages": 1,
+    "blocks": 97,
+    "thumbnail": "pages/page-0.webp",
+    "tags": ["memorial", "sentai"]
+  },
+  "pages": [
+    {
+      "image": "pages/page-0.webp",
+      "blocks": [
+        {
+          "text": "レンジャーキー After Gokai HERO セット\nMEMORIAL EDITION\nUSER MANUAL",
+          "translation": "Ranger Key After Gokai HERO Set\nMEMORIAL EDITION\nUSER MANUAL",
+          "bbox": [0.0257, 0.0472, 0.336, 0.1064]
+        },
+        {
+          "text": "セット内容",
+          "translation": "Set Contents",
+          "bbox": [0.0406, 0.2183, 0.0902, 0.026]
+        },
+        {
+          "text": "レンジャーキーの変形方法",
+          "translation": "How to transform the Ranger Key",
+          "bbox": [0.1655, 0.2134, 0.1603, 0.02]
+        },
+        {
+          "text": "取扱説明書 (本書)･･････1\nレンジャーキー.....各1\n(レッドバスター\nキョウリュウレッド\nトッキュウ1号",
+          "translation": "Instruction Manual (this book) ... 1\nRanger Key... 1 each\n(Red Buster\nKyoryu Red\nToQ 1",
+          "bbox": [0.0368, 0.2636, 0.0962, 0.1161]
+        },
+        {
+          "text": "側面のボタンを押すことで、\n変形することができます。\n① 両腕を上げます。\n②側面のボタンを押します。\n※梱包時は",
+          "translation": "You can transform it by pressing the button on the side.\n① Raise both arms.\n② Press the button on the side.\n※When packaged,",
+          "bbox": [0.1633, 0.2503, 0.1039, 0.0822]
+        },
+        {
+          "text": "両腕",
+          "translation": "both arms",
+          "bbox": [0.2976, 0.2848, 0.0167, 0.0115]
+        },
+        {
+          "text": "キーモードの状態です。\n両腕と脚を展開してから\n遊んでください。",
+          "translation": "It is in Key Mode when packaged.\nPlease unfold the arms and legs before playing.",
+          "bbox": [0.1719, 0.338, 0.0872, 0.0405]
+        },
+        {
+          "text": "アカニンジャー",
+          "translation": "AkaNinger",
+          "bbox": [0.0573, 0.3936, 0.0599, 0.0115]
+        },
+        {
+          "text": "ジュウオウイーグル",
+          "translation": "Zyuoh Eagle",
+          "bbox": [0.0496, 0.4196, 0.0765, 0.0127]
+        },
+        {
+          "text": "シシレッド",
+          "translation": "Shishi Red",
+          "bbox": [0.0676, 0.4462, 0.0406, 0.0115]
+        },
+        {
+          "text": "ルパンレッド",
+          "translation": "Lupin Red",
+          "bbox": [0.0628, 0.4728, 0.05, 0.0103]
+        },
+        {
+          "text": "パトレン1号",
+          "translation": "Patren 1Gou",
+          "bbox": [0.0624, 0.4976, 0.0504, 0.0127]
+        },
+        {
+          "text": "リュウソウレッド",
+          "translation": "Ryusoul Red",
+          "bbox": [0.0547, 0.5236, 0.0658, 0.0127]
+        },
+        {
+          "text": "キラメイレッド",
+          "translation": "Kiramai Red",
+          "bbox": [0.0586, 0.5502, 0.0577, 0.0115]
+        },
+        {
+          "text": "・ゼンカイザー)",
+          "translation": "・Zenkaiser)",
+          "bbox": [0.0547, 0.5762, 0.0624, 0.0115]
+        },
+        {
+          "text": "ボタン",
+          "translation": "Button",
+          "bbox": [0.3446, 0.4891, 0.0222, 0.0109]
+        },
+        {
+          "text": "豪快に変身",
+          "translation": "Dramatic transformation",
+          "bbox": [0.5477, 0.0405, 0.0757, 0.023]
+        },
+        {
+          "text": "海賊戦隊",
+          "translation": "Pirate Sentai",
+          "bbox": [0.4074, 0.0647, 0.0291, 0.0109]
+        },
+        {
+          "text": "ゴーカイジン",
+          "translation": "Gokai-Oh",
+          "bbox": [0.3788, 0.0719, 0.0808, 0.0351]
+        },
+        {
+          "text": "セリフボタンを\n押します。",
+          "translation": "Press the dialogue button.",
+          "bbox": [0.5481, 0.0889, 0.053, 0.0266]
+        },
+        {
+          "text": "レンジャーキーを",
+          "translation": "The Ranger Key",
+          "bbox": [0.7751, 0.0895, 0.0603, 0.0103]
+        },
+        {
+          "text": "※ゼンカイザーキーを例に説明します。",
+          "translation": "*The Zenkaiser Key is used as an example in these instructions.",
+          "bbox": [0.6708, 0.0411, 0.1103, 0.0085]
+        },
+        {
+          "text": "※別売りのモバイレーツ-MEMORIAL EDITION- を使用し、 「通常身モード」の状態で行います。",
+          "translation": "*Perform this using the Mobirates -MEMORIAL EDITION- (sold separately) in \"Standard Mode.\"",
+          "bbox": [0.6708, 0.0544, 0.2852, 0.0097]
+        },
+        {
+          "text": "レンジャーキー",
+          "translation": "Ranger Key",
+          "bbox": [0.6593, 0.0883, 0.0526, 0.0121]
+        },
+        {
+          "text": "レンジャーキーを",
+          "translation": "The Ranger Key",
+          "bbox": [0.8931, 0.0889, 0.0603, 0.0121]
+        },
+        {
+          "text": "挿入口に",
+          "translation": "Into the insertion slot",
+          "bbox": [0.6575, 0.1046, 0.0321, 0.0103]
+        },
+        {
+          "text": "90° ひねります。",
+          "translation": "Twist it 90°.",
+          "bbox": [0.7738, 0.1052, 0.0552, 0.0103]
+        },
+        {
+          "text": "©石森プロ・東映",
+          "translation": "© Ishimori Productions & Toei",
+          "bbox": [0.3925, 0.1342, 0.0586, 0.0121]
+        },
+        {
+          "text": "→変身アクション音が\n鳴ります。",
+          "translation": "→The transformation action sound plays.",
+          "bbox": [0.5477, 0.1197, 0.0791, 0.0266]
+        },
+        {
+          "text": "レンジャーキーを\n挿入します。",
+          "translation": "Insert the Ranger Key.",
+          "bbox": [0.658, 0.1197, 0.062, 0.0254]
+        },
+        {
+          "text": "→クロスボーンが開き、\nひねり音と",
+          "translation": "→The cross-bones open,\naccompanied by a twisting sound",
+          "bbox": [0.7734, 0.1185, 0.0829, 0.026]
+        },
+        {
+          "text": "挿入した状態で\nエンターキーを押します。\nレンジャーキーに",
+          "translation": "With the Ranger Key inserted, press the Enter key.",
+          "bbox": [0.8914, 0.1034, 0.0898, 0.0417]
+        },
+        {
+          "text": "→挿入音が鳴ります。",
+          "translation": "→An insertion sound will play.",
+          "bbox": [0.658, 0.1487, 0.0765, 0.0127]
+        },
+        {
+          "text": "【側面】",
+          "translation": "[Side]",
+          "bbox": [0.534, 0.1602, 0.0235, 0.0121]
+        },
+        {
+          "text": "・モバイレーツ",
+          "translation": "・Mobirates",
+          "bbox": [0.5891, 0.1638, 0.0355, 0.0085]
+        },
+        {
+          "text": "クロス\nボーン",
+          "translation": "Crossbone",
+          "bbox": [0.7546, 0.1626, 0.0162, 0.0157]
+        },
+        {
+          "text": "レンジャーキーに\n応じた音声が鳴ります。",
+          "translation": "It plays a sound corresponding to the Ranger Key.",
+          "bbox": [0.7815, 0.1499, 0.0795, 0.0266]
+        },
+        {
+          "text": "応じた音声が鳴ります。",
+          "translation": "A corresponding sound will play.",
+          "bbox": [0.8995, 0.1505, 0.0795, 0.0115]
+        },
+        {
+          "text": "レンジャーモード」",
+          "translation": "Ranger Mode",
+          "bbox": [0.2826, 0.5683, 0.068, 0.0133]
+        },
+        {
+          "text": "キーモード",
+          "translation": "Key Mode",
+          "bbox": [0.4053, 0.5689, 0.0436, 0.0109]
+        },
+        {
+          "text": "△注意",
+          "translation": "△Caution",
+          "bbox": [0.041, 0.6596, 0.0487, 0.0145]
+        },
+        {
+          "text": "お買い上げのお客様へ 必ずお読みください。",
+          "translation": "To our customers: Please read this carefully.",
+          "bbox": [0.1056, 0.6596, 0.1838, 0.0139]
+        },
+        {
+          "text": "セリフ\nボタン",
+          "translation": "Dialogue\nButton",
+          "bbox": [0.5417, 0.3277, 0.0167, 0.0169]
+        },
+        {
+          "text": "ワイン!",
+          "translation": "Wine!",
+          "bbox": [0.5631, 0.2195, 0.0556, 0.0423]
+        },
+        {
+          "text": "レンジャーキー\n挿入口",
+          "translation": "Ranger Key\nInsertion Slot",
+          "bbox": [0.6982, 0.2364, 0.0385, 0.0187]
+        },
+        {
+          "text": "5人揃って、",
+          "translation": "All five together,",
+          "bbox": [0.888, 0.1995, 0.0641, 0.0308]
+        },
+        {
+          "text": "ゼンカイジャー!",
+          "translation": "Zenkaiger!",
+          "bbox": [0.7559, 0.2449, 0.1039, 0.0339]
+        },
+        {
+          "text": "レンジャーキー",
+          "translation": "Ranger Key",
+          "bbox": [0.7033, 0.2956, 0.0381, 0.0073]
+        },
+        {
+          "text": "機界戦隊\nセンカイジャー",
+          "translation": "Kikai Sentai\nZenkaiger",
+          "bbox": [0.8752, 0.2213, 0.0906, 0.0605]
+        },
+        {
+          "text": "600",
+          "translation": "600",
+          "bbox": [0.6635, 0.3229, 0.0222, 0.0157]
+        },
+        {
+          "text": "108",
+          "translation": "108",
+          "bbox": [0.664, 0.3313, 0.0218, 0.0163]
+        },
+        {
+          "text": "400",
+          "translation": "400",
+          "bbox": [0.6657, 0.3434, 0.0201, 0.0145]
+        },
+        {
+          "text": "700",
+          "translation": "700",
+          "bbox": [0.6657, 0.3519, 0.0197, 0.0157]
+        },
+        {
+          "text": "特殊BGM遊び",
+          "translation": "Special BGM Play",
+          "bbox": [0.5477, 0.3857, 0.1013, 0.0218]
+        },
+        {
+          "text": "※ゼンカイザーキーを例に説明します。",
+          "translation": "*The Zenkaiser Key is used here as an example for the explanation.",
+          "bbox": [0.6708, 0.3851, 0.1099, 0.0085]
+        },
+        {
+          "text": "ーエンターキー",
+          "translation": "—Enter key",
+          "bbox": [0.9453, 0.3561, 0.0321, 0.0091]
+        },
+        {
+          "text": "DOO",
+          "translation": "DOO",
+          "bbox": [0.9064, 0.367, 0.0261, 0.006]
+        },
+        {
+          "text": "※別売りのモバイレーツ-MEMORIAL EDITION- を使用し、 「通常身モード」の状態で行います。",
+          "translation": "*Perform this using the Mobirates -MEMORIAL EDITION- (sold separately) in \"Standard Mode.\"",
+          "bbox": [0.6708, 0.399, 0.2852, 0.0085]
+        },
+        {
+          "text": "レンジャーキー挿入口に",
+          "translation": "Into the Ranger Key insertion slot",
+          "bbox": [0.5498, 0.4365, 0.0842, 0.0103]
+        },
+        {
+          "text": "レンジャーキーを挿入します。\n→挿入音が鳴ります。",
+          "translation": "Insert the Ranger Key.\n→ An insertion sound plays.",
+          "bbox": [0.5481, 0.4516, 0.1052, 0.026]
+        },
+        {
+          "text": "レンジャーキーを90° ひねります。\n→クロスボーンが開き、ひねり音と\nレンジャーキーに応じた\n音声が鳴ります。",
+          "translation": "Twist the Ranger Key 90°.\n→ The crossbones open, and a twisting sound plays along with a voice sound corresponding to the Ranger Key.",
+          "bbox": [0.6892, 0.4359, 0.1218, 0.0568]
+        },
+        {
+          "text": "BGMボタンを2回長押しします。",
+          "translation": "Press and hold the BGM button two times.",
+          "bbox": [0.8482, 0.4371, 0.1176, 0.0103]
+        },
+        {
+          "text": "「スーパー戦隊ヒーローゲッター",
+          "translation": "Super Sentai Hero Getter",
+          "bbox": [0.8568, 0.4516, 0.1137, 0.0115]
+        },
+        {
+          "text": "~テン・ゴーカイジャーver.~」 の",
+          "translation": "...~Ten Gokaiger ver.~\"",
+          "bbox": [0.8568, 0.4655, 0.1171, 0.0127]
+        },
+        {
+          "text": "ワンコーラスが鳴ります。\n※音声は全て共通です。",
+          "translation": "One chorus will play.\n*All audio is the same for every Ranger Key.",
+          "bbox": [0.8491, 0.4813, 0.0966, 0.0278]
+        },
+        {
+          "text": "【側面】",
+          "translation": "[Side]",
+          "bbox": [0.8474, 0.5326, 0.0244, 0.0127]
+        },
+        {
+          "text": "ゼンカイジャー!",
+          "translation": "Zenkaijger!",
+          "bbox": [0.69, 0.5623, 0.1039, 0.0363]
+        },
+        {
+          "text": "BGM",
+          "translation": "BGM",
+          "bbox": [0.8568, 0.5961, 0.0145, 0.0054]
+        },
+        {
+          "text": "ボタン",
+          "translation": "Button",
+          "bbox": [0.8559, 0.6046, 0.0162, 0.0085]
+        },
+        {
+          "text": "E",
+          "translation": "E",
+          "bbox": [0.7452, 0.6215, 0.0068, 0.0067]
+        },
+        {
+          "text": "U",
+          "translation": "U",
+          "bbox": [0.885, 0.6052, 0.0068, 0.0067]
+        },
+        {
+          "text": "10",
+          "translation": "10",
+          "bbox": [0.5708, 0.6511, 0.015, 0.0121]
+        },
+        {
+          "text": "●本商品の対象年齢は15才以上です。 対象年齢未満のお子様には絶対に与えないでください。\n●小さな部品がありますので、小さなお子様が誤って飲み込まないように注意してください。 窒息などの危険があります。\n●尖った部分や鋭い部分がありますので、取扱や保管場所に注意してください。思わぬケガをする恐れがあります。",
+          "translation": "● This product is for ages 15 and up. Do not give to children under the recommended age.\n● This product contains small parts. Be careful that small children do not accidentally swallow them. There is a risk of choking.\n● This product has pointed and/or sharp parts. Handle and store with care to avoid unexpected injury.",
+          "bbox": [0.0333, 0.6844, 0.3882, 0.0375]
+        },
+        {
+          "text": "《使用上の注意>",
+          "translation": "<Precautions for Use>",
+          "bbox": [0.0265, 0.737, 0.0637, 0.0127]
+        },
+        {
+          "text": "●本商品は精密に作られています。 無理な力を加えたり、落としたりすると破損する恐れがあります。\n●プラスチック梱包材は開封後はすぐに捨ててください。",
+          "translation": "● This product is made with precision. Applying excessive force or dropping it may cause damage.\n● Please dispose of plastic packaging materials immediately after opening.",
+          "bbox": [0.0295, 0.7563, 0.3279, 0.0272]
+        },
+        {
+          "text": "●本商品には塗装部分がありますので、 保管の際には他のもの (樹脂製品や家具、 ソファー)と接触しないようにしてください。\n色が移る場合があります。\n●可動部分・取付部分を無理な方向に強く引っ張ったり、曲げたりしないでください。",
+          "translation": "● This product has painted parts. When storing, do not let it contact other items (resin products, furniture, sofas, etc.). Color transfer may occur.\n● Do not forcefully pull or bend movable parts or attachment points in unnatural directions.",
+          "bbox": [0.0299, 0.7896, 0.4374, 0.0447]
+        },
+        {
+          "text": "※ゼンカイザーキーを例に説明します。",
+          "translation": "*The Zenkaiser Key is used as an example in these instructions.",
+          "bbox": [0.6708, 0.7261, 0.1107, 0.0085]
+        },
+        {
+          "text": "お宝ナビゲート ※別売りのモバイレーツ・MEMORIAL EDITIONを使用し、「お宝ナビゲート」の状態で行います。",
+          "translation": "Treasure Navigation *Perform this in \"Treasure Navigation\" mode using the Mobirates -MEMORIAL EDITION- (sold separately).",
+          "bbox": [0.5485, 0.7261, 0.4066, 0.0284]
+        },
+        {
+          "text": "レンジャーキー\n挿入口に",
+          "translation": "Into the Ranger Key insertion slot",
+          "bbox": [0.5481, 0.7757, 0.0539, 0.0266]
+        },
+        {
+          "text": "レンジャーキーを",
+          "translation": "The Ranger Key",
+          "bbox": [0.5498, 0.8071, 0.0607, 0.0103]
+        },
+        {
+          "text": "挿入します。",
+          "translation": "Insert the Ranger Key.",
+          "bbox": [0.5481, 0.8229, 0.0432, 0.0097]
+        },
+        {
+          "text": "レンジャーキーを",
+          "translation": "The Ranger Key",
+          "bbox": [0.7507, 0.7757, 0.0603, 0.0121]
+        },
+        {
+          "text": "90° ひねります。",
+          "translation": "Twist it 90°.",
+          "bbox": [0.749, 0.7932, 0.0552, 0.0097]
+        },
+        {
+          "text": "併せてご覧ください。",
+          "translation": "Please take a look at this as well.",
+          "bbox": [0.0428, 0.87, 0.0868, 0.0127]
+        },
+        {
+          "text": "モバイレーツ-MEMORIAL EDITION- のWEB取説は、コチラから!!",
+          "translation": "Please see the Mobirates -MEMORIAL EDITION- web manual here:",
+          "bbox": [0.0436, 0.8881, 0.3288, 0.0151]
+        },
+        {
+          "text": "https://toy.bandai.co.jp/manuals/pdf.php?id=2588450",
+          "translation": "https://toy.bandai.co.jp/manuals/pdf.php?id=2588450",
+          "bbox": [0.0731, 0.9341, 0.1907, 0.0121]
+        },
+        {
+          "text": "URL",
+          "translation": "URL",
+          "bbox": [0.0363, 0.9353, 0.0154, 0.0085]
+        },
+        {
+          "text": "●画像はイメージです。",
+          "translation": "●The image is for illustrative purposes only.",
+          "bbox": [0.0261, 0.9547, 0.0599, 0.0079]
+        },
+        {
+          "text": "→挿入音が",
+          "translation": "→Insertion sound",
+          "bbox": [0.5481, 0.838, 0.0415, 0.0091]
+        },
+        {
+          "text": "鳴ります。",
+          "translation": "plays.",
+          "bbox": [0.5571, 0.8525, 0.0342, 0.0115]
+        },
+        {
+          "text": "200",
+          "translation": "200",
+          "bbox": [0.6345, 0.8845, 0.0214, 0.0163]
+        },
+        {
+          "text": "100",
+          "translation": "100",
+          "bbox": [0.6349, 0.8942, 0.0214, 0.0163]
+        },
+        {
+          "text": "400",
+          "translation": "400",
+          "bbox": [0.6349, 0.9057, 0.0209, 0.0145]
+        },
+        {
+          "text": "780",
+          "translation": "780",
+          "bbox": [0.6349, 0.9148, 0.0218, 0.0163]
+        },
+        {
+          "text": "000",
+          "translation": "000",
+          "bbox": [0.634, 0.9238, 0.0227, 0.0169]
+        },
+        {
+          "text": "クロスボーンが開き、ひねり音と\n「DANGER! DANGER!\nでんじゃらす~!」が鳴ります。\n※音声は全て共通です。",
+          "translation": "The crossbones open, a twisting sound plays, and \"DANGER! DANGER! でんじゃらす〜!\" will play.\n*All audio is the same for every Ranger Key.",
+          "bbox": [0.7499, 0.8077, 0.121, 0.0562]
+        },
+        {
+          "text": "DANGER !\nDANGER!\nでんじゃらす〜!",
+          "translation": "DANGER!\nDANGER!\nDaaangerous!",
+          "bbox": [0.7738, 0.8857, 0.1112, 0.0816]
+        }
+      ]
+    }
+  ]
+}

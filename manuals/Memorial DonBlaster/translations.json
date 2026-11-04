@@ -1,0 +1,3906 @@
+{
+  "meta": {
+    "manual_name": "Memorial DonBlaster",
+    "source": "Memorial DonBlaster.pdf",
+    "source_lang": "ja",
+    "target_lang": "en",
+    "source_url": "",
+    "blog_url": "",
+    "pages": 24,
+    "blocks": 754,
+    "thumbnail": "pages/page-0.webp",
+    "tags": ["dx", "kamen-rider", "memorial", "sentai"]
+  },
+  "pages": [
+    {
+      "image": "pages/page-0.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0375, 0.0342, 0.1656, 0.0167]
+        },
+        {
+          "text": "© テレビ朝日・東映AG・東映",
+          "translation": "© TV Asahi・Toei AG・Toei",
+          "bbox": [0.2834, 0.0641, 0.1378, 0.0077]
+        },
+        {
+          "text": "セット内容",
+          "translation": "Set Contents",
+          "bbox": [0.1076, 0.2676, 0.116, 0.018]
+        },
+        {
+          "text": "ドンブラスター",
+          "translation": "DonBlaster",
+          "bbox": [0.2834, 0.1492, 0.3492, 0.0381]
+        },
+        {
+          "text": "-MEMORIAL EDITION-",
+          "translation": "-MEMORIAL EDITION-",
+          "bbox": [0.2272, 0.1932, 0.432, 0.0214]
+        },
+        {
+          "text": "の遊び方",
+          "translation": "How to Play",
+          "bbox": [0.6852, 0.1834, 0.1172, 0.0205]
+        },
+        {
+          "text": "ドンブラスター",
+          "translation": "DonBlaster",
+          "bbox": [0.2707, 0.4344, 0.1311, 0.0133]
+        },
+        {
+          "text": "-MEMORIAL EDITION-本体…1",
+          "translation": "-MEMORIAL EDITION- Main unit... 1",
+          "bbox": [0.2695, 0.4506, 0.3148, 0.0137]
+        },
+        {
+          "text": "アバタロウギア",
+          "translation": "Avataro Gear",
+          "bbox": [0.1644, 0.5849, 0.1384, 0.0133]
+        },
+        {
+          "text": "アバタロウギア",
+          "translation": "Avataro Gear",
+          "bbox": [0.4296, 0.5844, 0.1378, 0.0141]
+        },
+        {
+          "text": "ドンモモタロウ･･･1",
+          "translation": "Don Momotaro... 1",
+          "bbox": [0.1656, 0.6024, 0.165, 0.0124]
+        },
+        {
+          "text": "サルブラザー…1",
+          "translation": "Saru Brother... 1",
+          "bbox": [0.4296, 0.602, 0.1498, 0.0137]
+        },
+        {
+          "text": "アバタロウギア\nオニシスター･1",
+          "translation": "Avataro Gear\nOni Sister... 1",
+          "bbox": [0.6967, 0.5849, 0.1511, 0.0308]
+        },
+        {
+          "text": "アバタロウギア",
+          "translation": "Avataro Gear",
+          "bbox": [0.1637, 0.7507, 0.139, 0.0137]
+        },
+        {
+          "text": "イヌブラザー1",
+          "translation": "Inu Brother 1",
+          "bbox": [0.1637, 0.7674, 0.148, 0.0137]
+        },
+        {
+          "text": "アバタロウギア\nキジブラザー1",
+          "translation": "Avataro Gear\nKiji Brother 1",
+          "bbox": [0.4296, 0.7507, 0.1498, 0.0304]
+        },
+        {
+          "text": "ロボタロウギア",
+          "translation": "Robotaro Gear",
+          "bbox": [0.6985, 0.7507, 0.1378, 0.0133]
+        },
+        {
+          "text": "ドンロボタロウ･･･1",
+          "translation": "Don Robotaro... 1",
+          "bbox": [0.6985, 0.7678, 0.1644, 0.0128]
+        },
+        {
+          "text": "※WEB取扱説明書内の画像はイメージです。",
+          "translation": "*Images in this WEB Instruction Manual are for illustrative purposes only.",
+          "bbox": [0.0725, 0.835, 0.3323, 0.012]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.4931, 0.9692, 0.0115, 0.0111]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-1.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0369, 0.0342, 0.1651, 0.0158]
+        },
+        {
+          "text": "ブラザー",
+          "translation": "Brother",
+          "bbox": [0.3337, 0.0308, 0.0453, 0.0162]
+        },
+        {
+          "text": "© テレビ朝日・東映AG・東映",
+          "translation": "© TV Asahi · Toei AG · Toei",
+          "bbox": [0.283, 0.0646, 0.1385, 0.0073]
+        },
+        {
+          "text": "△ 注意 お買い上げのお客様へ 必ずお読みください。\n●本商品の対象年齢は15才以上です。 対象年齢未満のお子様には絶対に与えないでください。\n●電池(別売り)、 電池ぶた、 ねじなどの誤飲事故に注意してください。\n●尖った部分や鋭い部分がありますので、取扱いや保管場所に注意してください。思わぬケガをする恐れがあります。\n●回転部に指や髪の毛や衣服などをはさまれないように注意してください。\n●耳の近くで使用してはいけません。 誤って使用すると、聴覚を損なう恐れがあります。\n●本商品には電子部品を使用しております。 ペースメーカーをご使用の方は、本商品を身体に近づけないようご注意ください。\n<電池を誤使用すると発熱・破裂・ 液漏れの恐れがあります。 下記に注意してください>",
+          "translation": "△ Caution — To customers who purchased this product: Please read carefully.\n● This product is for Ages 15+. Never give it to children below the target age.\n● Be careful to avoid accidental ingestion of batteries (sold separately), the battery cover, screws, etc.\n● This product has pointed or sharp parts. Handle and store with care to avoid unexpected injury.\n● Be careful not to get fingers, hair, or clothing caught in rotating parts.\n● Do not use near the ear. Incorrect use may cause hearing damage.\n● This product contains electronic components. If you use a pacemaker, do not bring this product close to your body.\n<Improper use of batteries may cause overheating, rupture, or leakage. Observe the following precautions.>",
+          "bbox": [0.1064, 0.1732, 0.7878, 0.1214]
+        },
+        {
+          "text": "●二次電池(充電式電池) は、 絶対に使用しないでください。\n●古い電池と新しい電池、いろいろな種類の電池をまぜて使わないでください。\n●+一(プラスマイナス)を正しくセットしてください。",
+          "translation": "● Do not use secondary (rechargeable) batteries.\n● Do not mix old and new batteries or different types of batteries.\n● Set the + and − (plus and minus) correctly.",
+          "bbox": [0.1058, 0.2988, 0.4964, 0.0385]
+        },
+        {
+          "text": "●遊んだ後は必ずスイッチを切り電池をはずしてください。 電池を入れたままにしておくと、 液漏れの恐れがあり危険です。\n●ショートさせたり充電、分解、加熱、火の中に入れたりしないでください。\n●万一、 電池から漏れた液が目に入ったときはすぐに大量の水で洗い、医師に相談してください。",
+          "translation": "● After playing, always turn the switch off and remove the batteries. Leaving batteries installed may cause leakage and is dangerous.\n● Do not short-circuit, recharge, disassemble, heat, or place batteries in fire.\n● If battery fluid gets into the eyes, rinse immediately with a large amount of water and consult a doctor.",
+          "bbox": [0.1119, 0.342, 0.7545, 0.0381]
+        },
+        {
+          "text": "皮膚や服に付いた時は水で洗ってください。\n●廃棄するときは、自治体の廃棄物処理の指示に従ってください。",
+          "translation": "If battery fluid gets on skin or clothing, wash with water.\n● When disposing of batteries or this product, follow your municipality's waste disposal instructions.",
+          "bbox": [0.11, 0.3848, 0.4051, 0.0235]
+        },
+        {
+          "text": "《使用上の注意》",
+          "translation": "《Precautions for Use》",
+          "bbox": [0.0961, 0.4228, 0.1076, 0.0103]
+        },
+        {
+          "text": "●本商品は精密に作られています。 無理な力を加えたり、落としたりすると破損する恐れがあります。\n●本商品は精密な電子部品で構成されています。 落としたり、水にぬらしたり、汚したり、分解したりしないでください。\nまた、高温・低温になる所での使用、保管は避けてください。",
+          "translation": "● This product is precision-made. Applying excessive force or dropping it may cause breakage.\n● This product contains delicate electronic parts. Do not drop it, get it wet, dirty, or disassemble it. Also avoid using or storing it in locations with high or low temperatures.",
+          "bbox": [0.1034, 0.4395, 0.6892, 0.0376]
+        },
+        {
+          "text": "●プラスチック梱包材は、 開封後はすぐに捨ててください。",
+          "translation": "● Discard plastic packaging materials immediately after opening.",
+          "bbox": [0.1064, 0.4823, 0.3331, 0.0094]
+        },
+        {
+          "text": "●本商品には塗装部分がありますので、保管の際には他のもの (樹脂製品や家具、 ソファー)と接触しないようにしてください。\n色が移る場合があります。\n●可動部分・取付部分を無理な方向に強く引っ張ったり、曲げたりしないでください。\n●発音の一部にイントネーションが違っていたり、商品の特性上聞き取りにくいものがありますが、ご了承ください。",
+          "translation": "● This product has painted parts. When storing, keep it from contacting other items (resin products, furniture, sofas, etc.), as color transfer may occur.\n● Do not forcibly pull or bend movable parts or attachment points in unnatural directions.\n● Some spoken lines may have different intonation or may be hard to hear due to the nature of the product; please understand this in advance.",
+          "bbox": [0.1064, 0.4951, 0.7304, 0.0539]
+        },
+        {
+          "text": "●2台同時には遊べません。",
+          "translation": "● Cannot be used with two units at the same time.",
+          "bbox": [0.1046, 0.5537, 0.1554, 0.009]
+        },
+        {
+          "text": "●テレビなど、他の赤外線リモコンで誤動作する場合があります。\n●太陽光の当たる窓際や蛍光灯の真下などでは誤動作する場合があります。",
+          "translation": "● Malfunction may occur due to other infrared remotes such as TV remotes.\n● Malfunction may occur near windows exposed to sunlight or directly under fluorescent lights.",
+          "bbox": [0.1058, 0.5678, 0.4462, 0.0235]
+        },
+        {
+          "text": "●誤動作した場合は電源を入れ直してください。",
+          "translation": "● If a malfunction occurs, turn the power off and on again.",
+          "bbox": [0.1058, 0.596, 0.2763, 0.0098]
+        },
+        {
+          "text": "●受信部・送信部の所にシールなどを貼らないでください。動作しなくなります。",
+          "translation": "● Do not place stickers or similar items over the receiver or transmitter. The device will stop working.",
+          "bbox": [0.1064, 0.6105, 0.4589, 0.0094]
+        },
+        {
+          "text": "●受信部・送信部の間に障害物があると赤外線を感知しなくなり作動しません。\n●本商品には、対応しているギア以外はセットしないでください。故障や破損の原因となります。\n●本商品に付属のギアは、ドンブラスター-MEMORIAL EDITION-以外にはセットしないでください。故障や破損の原因となります。",
+          "translation": "● If there is an obstacle between the receiver and transmitter, the infrared signal will not be detected and the device will not operate.\n● Do not set gears other than those this product supports. Doing so may cause malfunction or damage.\n● Do not set the gear included with this product into any device other than DonBlaster-MEMORIAL EDITION-. Doing so may cause malfunction or damage.",
+          "bbox": [0.1022, 0.6246, 0.7799, 0.0381]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.4879, 0.9705, 0.0218, 0.0107]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-2.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0369, 0.0342, 0.1651, 0.0162]
+        },
+        {
+          "text": "ウブラザー",
+          "translation": "U-Brother",
+          "bbox": [0.3253, 0.0316, 0.0574, 0.0154]
+        },
+        {
+          "text": "© テレビ朝日・東映AG・東映",
+          "translation": "© TV Asahi, Toei AG, Toei",
+          "bbox": [0.283, 0.0646, 0.1385, 0.0068]
+        },
+        {
+          "text": "■■■■■",
+          "translation": "■■■■■",
+          "bbox": [0.2243, 0.112, 0.049, 0.0158]
+        },
+        {
+          "text": "矢印一覧 取り付けます。",
+          "translation": "Arrow legend — Attach.",
+          "bbox": [0.0834, 0.1159, 0.3307, 0.0145]
+        },
+        {
+          "text": "|",
+          "translation": "|",
+          "bbox": [0.4256, 0.1133, 0.0085, 0.015]
+        },
+        {
+          "text": "取り外します。",
+          "translation": "Detach.",
+          "bbox": [0.5411, 0.1133, 0.1245, 0.0184]
+        },
+        {
+          "text": "可動させます。",
+          "translation": "Make movable.",
+          "bbox": [0.7872, 0.1167, 0.1288, 0.0124]
+        },
+        {
+          "text": "各部名称",
+          "translation": "Part names",
+          "bbox": [0.1917, 0.1774, 0.1288, 0.0214]
+        },
+        {
+          "text": "ドンブラスター",
+          "translation": "DonBlaster",
+          "bbox": [0.1112, 0.2676, 0.1245, 0.0145]
+        },
+        {
+          "text": "【正面から見た図】 ギアセット部分",
+          "translation": "[Front view] Gear set section",
+          "bbox": [0.1131, 0.3245, 0.2606, 0.0128]
+        },
+        {
+          "text": "レバー",
+          "translation": "Lever",
+          "bbox": [0.5266, 0.3378, 0.0496, 0.0115]
+        },
+        {
+          "text": "銃口",
+          "translation": "Muzzle",
+          "bbox": [0.1112, 0.472, 0.0351, 0.0124]
+        },
+        {
+          "text": "【上から見た図】",
+          "translation": "[Top view]",
+          "bbox": [0.6415, 0.2629, 0.1125, 0.0124]
+        },
+        {
+          "text": "天面スイッチ",
+          "translation": "Top switch",
+          "bbox": [0.7189, 0.3946, 0.0967, 0.0107]
+        },
+        {
+          "text": "トリガー",
+          "translation": "Trigger",
+          "bbox": [0.4202, 0.5182, 0.0586, 0.0115]
+        },
+        {
+          "text": "セリフ\nボタン",
+          "translation": "Dialogue\nButton",
+          "bbox": [0.6451, 0.5071, 0.0484, 0.0261]
+        },
+        {
+          "text": "BGM",
+          "translation": "BGM",
+          "bbox": [0.8579, 0.5079, 0.0441, 0.0081]
+        },
+        {
+          "text": "G",
+          "translation": "G",
+          "bbox": [0.7666, 0.5126, 0.0254, 0.0158]
+        },
+        {
+          "text": "ボタン",
+          "translation": "Button",
+          "bbox": [0.8573, 0.5224, 0.0478, 0.0107]
+        },
+        {
+          "text": "ギアディスク",
+          "translation": "Gear disc",
+          "bbox": [0.2134, 0.531, 0.0937, 0.0111]
+        },
+        {
+          "text": "グリップ",
+          "translation": "Grip",
+          "bbox": [0.4486, 0.546, 0.0629, 0.0107]
+        },
+        {
+          "text": "アバタロウギア アバタロウギア\nドンモモタロウ",
+          "translation": "Avataro Gear Don Momotaro",
+          "bbox": [0.1076, 0.5793, 0.2956, 0.0398]
+        },
+        {
+          "text": "アバタロウギア\nサルブラザー",
+          "translation": "Avataro Gear\nSaru Brother",
+          "bbox": [0.4637, 0.5857, 0.1385, 0.0321]
+        },
+        {
+          "text": "アバタロウギア",
+          "translation": "Avataro Gear",
+          "bbox": [0.6711, 0.5857, 0.1385, 0.0145]
+        },
+        {
+          "text": "オニシスター",
+          "translation": "Oni Sister",
+          "bbox": [0.6826, 0.6054, 0.1179, 0.012]
+        },
+        {
+          "text": "アバタロウギア\nイヌブラザー",
+          "translation": "Avataro Gear\nInu Brother",
+          "bbox": [0.2642, 0.7636, 0.1378, 0.0308]
+        },
+        {
+          "text": "アバタロウギア\nキジブラザー",
+          "translation": "Avataro Gear\nKiji Brother",
+          "bbox": [0.4643, 0.764, 0.1378, 0.0308]
+        },
+        {
+          "text": "ロボタロウギア",
+          "translation": "Robotaro Gear",
+          "bbox": [0.6729, 0.7636, 0.1378, 0.0137]
+        },
+        {
+          "text": "ドンロボタロウ",
+          "translation": "Don Robotaro",
+          "bbox": [0.6759, 0.7824, 0.1312, 0.0128]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.4903, 0.9696, 0.02, 0.0133]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-3.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0369, 0.0342, 0.1656, 0.0158]
+        },
+        {
+          "text": "ウブラザー",
+          "translation": "U-Brother",
+          "bbox": [0.3251, 0.0316, 0.058, 0.0154]
+        },
+        {
+          "text": "© テレビ朝日・東映AG・東映",
+          "translation": "© TV Asahi · Toei AG · Toei",
+          "bbox": [0.2828, 0.0646, 0.1384, 0.0073]
+        },
+        {
+          "text": "■■■■■■",
+          "translation": "■■■■■■",
+          "bbox": [0.2133, 0.1116, 0.061, 0.0154]
+        },
+        {
+          "text": "矢印一覧 取り付けます。",
+          "translation": "Arrow legend: Attach.",
+          "bbox": [0.084, 0.1159, 0.3311, 0.015]
+        },
+        {
+          "text": "|",
+          "translation": "|",
+          "bbox": [0.4254, 0.1133, 0.0079, 0.0145]
+        },
+        {
+          "text": "取り外します。",
+          "translation": "Remove.",
+          "bbox": [0.5408, 0.1137, 0.1245, 0.0184]
+        },
+        {
+          "text": "可動させます。",
+          "translation": "Make movable.",
+          "bbox": [0.7867, 0.1159, 0.1293, 0.0137]
+        },
+        {
+          "text": "乾電池の入れ方",
+          "translation": "How to insert batteries",
+          "bbox": [0.2375, 0.1774, 0.2211, 0.0214]
+        },
+        {
+          "text": "※電源スイッチがX (OFF)になっていることを確認してください。",
+          "translation": "※Please ensure the power switch is set to X (OFF).",
+          "bbox": [0.0906, 0.2612, 0.5825, 0.0154]
+        },
+        {
+          "text": "単4 x3",
+          "translation": "単4 x3",
+          "bbox": [0.8326, 0.2428, 0.0604, 0.0077]
+        },
+        {
+          "text": "単4乾電池3本使用(別売り)",
+          "translation": "Uses 3 × 単4 dry batteries (sold separately)",
+          "bbox": [0.7807, 0.2634, 0.1293, 0.0073]
+        },
+        {
+          "text": "●アルカリ電池専用",
+          "translation": "●For alkaline batteries only",
+          "bbox": [0.7776, 0.2839, 0.1329, 0.0094]
+        },
+        {
+          "text": "※音が小さくなったり、ノイズで聞き取りにくくなる場合は、\nすべて新しい電池に交換してください。",
+          "translation": "※If the sound becomes faint or noisy and is hard to hear, replace all batteries with new ones.",
+          "bbox": [0.0906, 0.2822, 0.5184, 0.0329]
+        },
+        {
+          "text": "①カバーパーツを取り外します。\n本体背面のカバーパーツを取り外します。\n②電池ぶたを取り外します。\n②-1 本体内側の電池ぶたのネジを⊕または、\n○ドライバーで矢印の方向に回し、\n②-2 電池ぶたを取り外します。\n③乾電池を入れます。\n単4乾電池3本(別売り)の土を\nそれぞれ間違えないように入れます。\n④電池ぶたを戻します。\n電池ぶたの突起と本体のミゾを合わせ、\n電池ぶたを閉じます。\n⑤カバーパーツを戻します。",
+          "translation": "① Remove the cover part.\nRemove the cover part on the back of the main unit.\n② Remove the battery cover.\n②-1 Using a ⊕ or ○ screwdriver, turn the screw on the inside of the main unit’s battery cover in the direction of the arrow.\n②-2 Remove the battery cover.\n③ Insert the batteries.\nInsert three 単4 dry batteries (sold separately), making sure not to reverse the ⊕ and ⊖ polarities for each battery.\n④ Replace the battery cover.\nAlign the protrusion on the battery cover with the groove on the main unit, then close the battery cover.\n⑤ Replace the cover part.",
+          "bbox": [0.0798, 0.3352, 0.4133, 0.2433]
+        },
+        {
+          "text": "【背面から見た図】",
+          "translation": "[View from the back]",
+          "bbox": [0.1263, 0.6015, 0.1293, 0.0124]
+        },
+        {
+          "text": "カバーパーツー",
+          "translation": "Cover part",
+          "bbox": [0.119, 0.6823, 0.1112, 0.0111]
+        },
+        {
+          "text": "-2",
+          "translation": "-2",
+          "bbox": [0.4779, 0.7174, 0.0169, 0.0094]
+        },
+        {
+          "text": "ミゾ",
+          "translation": "Groove",
+          "bbox": [0.5903, 0.7345, 0.0332, 0.0111]
+        },
+        {
+          "text": "・突起",
+          "translation": "・Protrusion",
+          "bbox": [0.5239, 0.7764, 0.0399, 0.0115]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.4882, 0.9705, 0.0193, 0.012]
+        },
+        {
+          "text": "電池ぶた",
+          "translation": "Battery cover",
+          "bbox": [0.5281, 0.817, 0.0671, 0.0107]
+        },
+        {
+          "text": "ネジ",
+          "translation": "Screw",
+          "bbox": [0.5227, 0.8722, 0.0326, 0.0094]
+        },
+        {
+          "text": "ミゾ",
+          "translation": "Groove",
+          "bbox": [0.7293, 0.6293, 0.0344, 0.012]
+        },
+        {
+          "text": "①",
+          "translation": "①",
+          "bbox": [0.7492, 0.7127, 0.0205, 0.015]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-4.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "Online Instruction Manual",
+          "bbox": [0.0369, 0.0342, 0.1656, 0.0158]
+        },
+        {
+          "text": "© テレビ朝日・東映AG・東映",
+          "translation": "© TV Asahi, Toei AG, Toei",
+          "bbox": [0.2834, 0.0646, 0.1378, 0.0073]
+        },
+        {
+          "text": "矢印一覧",
+          "translation": "List of arrows",
+          "bbox": [0.084, 0.1163, 0.0822, 0.0141]
+        },
+        {
+          "text": "■■■■■■■ 取り付けます。 |",
+          "translation": "■■■■■■■ Attach. |",
+          "bbox": [0.2054, 0.1112, 0.226, 0.0188]
+        },
+        {
+          "text": "取り外します。 |",
+          "translation": "Detach. |",
+          "bbox": [0.5414, 0.1124, 0.139, 0.0192]
+        },
+        {
+          "text": "可動させます。",
+          "translation": "Make movable.",
+          "bbox": [0.7867, 0.1167, 0.1299, 0.0133]
+        },
+        {
+          "text": "電源の入れ方",
+          "translation": "How to turn on the power",
+          "bbox": [0.2544, 0.1779, 0.1873, 0.0201]
+        },
+        {
+          "text": "※カバーを取り外した状態から始めます。",
+          "translation": "*Start with the cover removed.",
+          "bbox": [0.0876, 0.2411, 0.3601, 0.0145]
+        },
+        {
+          "text": "なりきりモード",
+          "translation": "Role-play Mode",
+          "bbox": [0.0955, 0.2809, 0.1644, 0.0162]
+        },
+        {
+          "text": "【背面から見た図】",
+          "translation": "[View from the back]",
+          "bbox": [0.3934, 0.2835, 0.1281, 0.012]
+        },
+        {
+          "text": "ドンブラスター本体内側の\n電源スイッチをO (ON)にします。\n劇中音 (ドンブラスター出現音)、\n起動音 「ドンブラスター」が鳴り、\nなりきりモード(ドンブラザーズモード)で\n起動します。",
+          "translation": "Set the power switch inside the DonBlaster unit to O (ON). The show's sound effect (DonBlaster appearance sound) and the startup voice \"DonBlaster\" will play, and the unit will start in Role-play Mode (Donbrothers Mode).",
+          "bbox": [0.0997, 0.3275, 0.3825, 0.1274]
+        },
+        {
+          "text": "※遊び終わった後は、必ず電源スイッチを\nX (OFF)にしてください。",
+          "translation": "*After playing, be sure to set the power switch to X (OFF).",
+          "bbox": [0.1015, 0.4609, 0.3601, 0.0385]
+        },
+        {
+          "text": "突起",
+          "translation": "Protrusion",
+          "bbox": [0.5082, 0.4634, 0.0344, 0.0111]
+        },
+        {
+          "text": "DXモード",
+          "translation": "DX Mode",
+          "bbox": [0.0961, 0.6032, 0.1142, 0.0154]
+        },
+        {
+          "text": "トリガーを押しながら、\nドンブラスター本体内側の\n電源スイッチをO(ON)にします。\n玩具の起動音 「ドンブラスター」が鳴り、\nDXモードで起動します。\n※遊び終わった後は、必ず電源スイッチを\nX (OFF)にしてください。",
+          "translation": "While holding down the trigger, set the power switch inside the DonBlaster unit to O (ON). The toy's startup voice \"DonBlaster\" will play, and it will start in DX Mode. *Be sure to set the power switch to X (OFF) after playing.",
+          "bbox": [0.1003, 0.6524, 0.3625, 0.1445]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.49, 0.9701, 0.0193, 0.0124]
+        },
+        {
+          "text": "01",
+          "translation": "01",
+          "bbox": [0.4918, 0.9688, 0.0151, 0.0154]
+        },
+        {
+          "text": "ON",
+          "translation": "ON",
+          "bbox": [0.658, 0.5096, 0.0266, 0.009]
+        },
+        {
+          "text": "COFF",
+          "translation": "COFF",
+          "bbox": [0.7015, 0.4634, 0.0411, 0.0073]
+        },
+        {
+          "text": "・電源スイッチ",
+          "translation": "・Power switch",
+          "bbox": [0.6985, 0.4878, 0.0973, 0.0111]
+        },
+        {
+          "text": "トリガー",
+          "translation": "Trigger",
+          "bbox": [0.7644, 0.8333, 0.058, 0.0115]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-5.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "Online Instruction Manual",
+          "bbox": [0.0375, 0.0342, 0.1662, 0.0167]
+        },
+        {
+          "text": "© テレビ朝日・東映AG・東映",
+          "translation": "© TV Asahi, Toei AG, Toei",
+          "bbox": [0.2834, 0.0646, 0.1378, 0.0073]
+        },
+        {
+          "text": "矢印一覧 ◆ 取り付けます。|",
+          "translation": "Arrow guide ◆ Attach. |",
+          "bbox": [0.0834, 0.1094, 0.348, 0.0235]
+        },
+        {
+          "text": "取り外します。",
+          "translation": "Remove.",
+          "bbox": [0.5408, 0.1137, 0.1251, 0.0184]
+        },
+        {
+          "text": "可動させます。",
+          "translation": "Make movable.",
+          "bbox": [0.7873, 0.1167, 0.1287, 0.0133]
+        },
+        {
+          "text": "ギア読み込み前",
+          "translation": "Before loading gear",
+          "bbox": [0.1927, 0.1761, 0.2224, 0.0231]
+        },
+        {
+          "text": "モードの切り替え",
+          "translation": "Switching modes",
+          "bbox": [0.145, 0.2582, 0.2024, 0.0192]
+        },
+        {
+          "text": "※ なりきりモードの状態から始めます。",
+          "translation": "* Begins in Role-play Mode.",
+          "bbox": [0.4671, 0.2655, 0.336, 0.0141]
+        },
+        {
+          "text": "縁ができたな。",
+          "translation": "A bond has been formed.",
+          "bbox": [0.7281, 0.3172, 0.1088, 0.0133]
+        },
+        {
+          "text": "セリフボタンを長押しします。\nボタンを長押しするたびに下記表の順に\nなりきりモードが切り替わります。\n※起動時は①ドンブラザーズモードです。\n⑦の後は①に戻ります。",
+          "translation": "Press and hold the Dialogue Button. Each time you press and hold the button, the role-play mode will switch in the order shown in the table below. *On startup the device is in ① Donbrothers Mode. *After ⑦ it returns to ①.",
+          "bbox": [0.0997, 0.3134, 0.3758, 0.0889]
+        },
+        {
+          "text": "セリフボタン",
+          "translation": "Dialogue Button",
+          "bbox": [0.4224, 0.4878, 0.0955, 0.0103]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.1776, 0.5682, 0.0423, 0.0141]
+        },
+        {
+          "text": "なりきりモード名",
+          "translation": "Role-play mode name",
+          "bbox": [0.2755, 0.5686, 0.1492, 0.0141]
+        },
+        {
+          "text": "音声",
+          "translation": "Audio",
+          "bbox": [0.6085, 0.5686, 0.0399, 0.0137]
+        },
+        {
+          "text": "① ドンブラザーズモード",
+          "translation": "① Donbrothers Mode",
+          "bbox": [0.1879, 0.5938, 0.2157, 0.0128]
+        },
+        {
+          "text": "ドン!ドン!ドンブラザーズ!",
+          "translation": "Don! Don! Donbrothers!",
+          "bbox": [0.4731, 0.5947, 0.1879, 0.012]
+        },
+        {
+          "text": "②",
+          "translation": "②",
+          "bbox": [0.1879, 0.6186, 0.0199, 0.0107]
+        },
+        {
+          "text": "ドンモモタロウモード",
+          "translation": "Don Momotaro Mode",
+          "bbox": [0.2441, 0.6186, 0.1583, 0.012]
+        },
+        {
+          "text": "|縁ができたな。",
+          "translation": "| A bond has been formed.",
+          "bbox": [0.4653, 0.6191, 0.1148, 0.0111]
+        },
+        {
+          "text": "③",
+          "translation": "③",
+          "bbox": [0.1891, 0.6422, 0.0187, 0.0107]
+        },
+        {
+          "text": "サルブラザーモード",
+          "translation": "Sarubrother Mode",
+          "bbox": [0.2441, 0.6426, 0.1468, 0.0111]
+        },
+        {
+          "text": "ここで一句。",
+          "translation": "Here is a poem.",
+          "bbox": [0.4725, 0.6422, 0.0888, 0.0124]
+        },
+        {
+          "text": "④",
+          "translation": "④",
+          "bbox": [0.1879, 0.6657, 0.0205, 0.0111]
+        },
+        {
+          "text": "オニシスターモード",
+          "translation": "Oni Sister Mode",
+          "bbox": [0.2429, 0.667, 0.1474, 0.0107]
+        },
+        {
+          "text": "どうなっちゃうの私一!",
+          "translation": "What's going to happen to me?!",
+          "bbox": [0.4731, 0.6665, 0.1601, 0.0111]
+        },
+        {
+          "text": "⑤",
+          "translation": "⑤",
+          "bbox": [0.1885, 0.6896, 0.0169, 0.0107]
+        },
+        {
+          "text": "イヌブラザーモード",
+          "translation": "Inu Brother Mode",
+          "bbox": [0.2429, 0.6892, 0.145, 0.012]
+        },
+        {
+          "text": "などと申しており",
+          "translation": "...is what they are saying.",
+          "bbox": [0.4731, 0.6905, 0.1263, 0.0111]
+        },
+        {
+          "text": "⑥",
+          "translation": "⑥",
+          "bbox": [0.1879, 0.7131, 0.0205, 0.0111]
+        },
+        {
+          "text": "キジブラザーモード",
+          "translation": "Kiji Brother Mode",
+          "bbox": [0.2441, 0.7136, 0.1468, 0.0111]
+        },
+        {
+          "text": "みほちゃん・・・",
+          "translation": "Miho-chan...",
+          "bbox": [0.4731, 0.7144, 0.0973, 0.0107]
+        },
+        {
+          "text": "⑦",
+          "translation": "⑦",
+          "bbox": [0.1879, 0.7362, 0.0218, 0.012]
+        },
+        {
+          "text": "最終名乗りモード",
+          "translation": "Final Roll Call Mode",
+          "bbox": [0.2429, 0.7371, 0.1305, 0.0124]
+        },
+        {
+          "text": "お供たち、立て、名乗りだ!",
+          "translation": "Retainers, rise—declare your names!",
+          "bbox": [0.4731, 0.7375, 0.1867, 0.0115]
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.49, 0.9701, 0.0193, 0.0124]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-6.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "Online Instruction Manual",
+          "bbox": [0.0369, 0.0338, 0.1651, 0.0167]
+        },
+        {
+          "text": "ドンブラザー",
+          "translation": "Donbrothers",
+          "bbox": [0.3162, 0.0299, 0.0653, 0.0175]
+        },
+        {
+          "text": "© テレビ朝日・東映AG・東映",
+          "translation": "© TV Asahi, Toei AG, Toei",
+          "bbox": [0.283, 0.0646, 0.1385, 0.0073]
+        },
+        {
+          "text": "■■■■",
+          "translation": "■■■■",
+          "bbox": [0.2243, 0.1112, 0.0405, 0.0154]
+        },
+        {
+          "text": "矢印一覧 取り付けます。",
+          "translation": "Arrow legend  Attach.",
+          "bbox": [0.0834, 0.1159, 0.3301, 0.0145]
+        },
+        {
+          "text": "|",
+          "translation": "|",
+          "bbox": [0.4268, 0.1129, 0.0073, 0.0145]
+        },
+        {
+          "text": "取り外します。",
+          "translation": "Remove.",
+          "bbox": [0.5411, 0.1137, 0.1245, 0.018]
+        },
+        {
+          "text": "可動させます。",
+          "translation": "Make movable.",
+          "bbox": [0.7872, 0.1159, 0.1294, 0.0137]
+        },
+        {
+          "text": "ギア読み込み前",
+          "translation": "Before reading a gear",
+          "bbox": [0.1917, 0.177, 0.2225, 0.0222]
+        },
+        {
+          "text": "セリフ遊び",
+          "translation": "Phrase Play",
+          "bbox": [0.1826, 0.2582, 0.1288, 0.018]
+        },
+        {
+          "text": "セリフボタンを短押しするたびに\n現在のモードに合わせた\nセリフが鳴ります。\n※詳しい内容はP.19〜の\nセリフ一覧表をご確認ください。",
+          "translation": "Each time you press the Phrase button briefly, a phrase corresponding to the current mode will play.\n※For details, please refer to the phrase list starting on P.19~.",
+          "bbox": [0.0992, 0.313, 0.3017, 0.0898]
+        },
+        {
+          "text": "BGM遊び",
+          "translation": "BGM Play",
+          "bbox": [0.1844, 0.5755, 0.127, 0.0171]
+        },
+        {
+          "text": "BGMボタンを短押しするたびに\n下記表の順に音楽の\n再生と停止を繰り返します。\n※⑥の後は①に戻ります。",
+          "translation": "Each time you press the BGM button briefly, music playback will repeat play/stop in the order shown in the table below.\n※After ⑥ it returns to ①.",
+          "bbox": [0.0992, 0.6298, 0.2817, 0.0705]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.0979, 0.7555, 0.0393, 0.0124]
+        },
+        {
+          "text": "BGM",
+          "translation": "BGM",
+          "bbox": [0.3138, 0.7567, 0.052, 0.0111]
+        },
+        {
+          "text": "①",
+          "translation": "①",
+          "bbox": [0.1076, 0.7815, 0.026, 0.0115]
+        },
+        {
+          "text": "俺こそオンリーワン (TV size)",
+          "translation": "I'm the Only One (TV size)",
+          "bbox": [0.1632, 0.7828, 0.234, 0.0111]
+        },
+        {
+          "text": "鬼が出た",
+          "translation": "Oni ga Deta",
+          "bbox": [0.1632, 0.8063, 0.0659, 0.0107]
+        },
+        {
+          "text": "③",
+          "translation": "③",
+          "bbox": [0.1094, 0.8298, 0.02, 0.0103]
+        },
+        {
+          "text": "ドンブラザーズ、いざ戦いへ!",
+          "translation": "Donbrothers, off to battle!",
+          "bbox": [0.1651, 0.8298, 0.2086, 0.012]
+        },
+        {
+          "text": "4 この世は楽園、悩みなんざぶっ飛ばせ!",
+          "translation": "④ This world is paradise—blow your worries away!",
+          "bbox": [0.1125, 0.8538, 0.3289, 0.0115]
+        },
+        {
+          "text": "⑤ 名乗って良いんだな\n6 Don't Boo! ドンブラザーズ (TV size)",
+          "translation": "⑤ It's okay to introduce ourselves.\n⑥ Don't Boo! Donbrothers (TV size)",
+          "bbox": [0.1088, 0.8769, 0.3525, 0.0359]
+        },
+        {
+          "text": "BGMボタン",
+          "translation": "BGM Button",
+          "bbox": [0.7594, 0.835, 0.0943, 0.0111]
+        },
+        {
+          "text": "7",
+          "translation": "7",
+          "bbox": [0.4909, 0.9701, 0.0187, 0.0128]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-7.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0369, 0.0342, 0.1656, 0.0158]
+        },
+        {
+          "text": "ウブラザー",
+          "translation": "U-Brother",
+          "bbox": [0.3251, 0.0316, 0.0574, 0.0154]
+        },
+        {
+          "text": "© テレビ朝日・東映AG・東映",
+          "translation": "© TV Asahi, Toei AG, Toei",
+          "bbox": [0.2828, 0.0646, 0.1378, 0.0068]
+        },
+        {
+          "text": "矢印一覧 ■■■■■■ 取り付けます。 |",
+          "translation": "Arrow legend ■■■■■■ Attach. |",
+          "bbox": [0.084, 0.1112, 0.3486, 0.0209]
+        },
+        {
+          "text": "取り外します。",
+          "translation": "Remove.",
+          "bbox": [0.5408, 0.1137, 0.1245, 0.0188]
+        },
+        {
+          "text": "可動させます。",
+          "translation": "Make movable.",
+          "bbox": [0.7867, 0.1167, 0.1287, 0.0128]
+        },
+        {
+          "text": "遊び方",
+          "translation": "How to Play",
+          "bbox": [0.2538, 0.1774, 0.0943, 0.0209]
+        },
+        {
+          "text": "通常攻撃遊び",
+          "translation": "Normal attack play",
+          "bbox": [0.1656, 0.2578, 0.1619, 0.0188]
+        },
+        {
+          "text": "トリガーを短押しします。\n銃撃音が鳴ります。\n※(なりきりモード) の場合は、\n3回に1回、キャラクターの\nセリフ音声が入ります。",
+          "translation": "Press the trigger briefly.\nA gunfire sound will play.\n※(Narikiri Mode) In that mode, one out of every three times a character's voice line will play.",
+          "bbox": [0.1009, 0.3121, 0.2628, 0.0902]
+        },
+        {
+          "text": "※レバーを引いた状態から始めます。\nレバーを押した状態での音声は、\nP.9を確認してください。",
+          "translation": "*Start with the lever pulled.\nFor audio when the lever is pushed,\nplease refer to page 9.",
+          "bbox": [0.4671, 0.2488, 0.3245, 0.0509]
+        },
+        {
+          "text": "レバー",
+          "translation": "Lever",
+          "bbox": [0.8574, 0.3873, 0.0477, 0.0094]
+        },
+        {
+          "text": "連続攻撃遊び",
+          "translation": "Continuous attack play",
+          "bbox": [0.1656, 0.5793, 0.1625, 0.018]
+        },
+        {
+          "text": "①トリガーを長押しします。\n連射音が鳴り続けます。\n②トリガーを離します。\n→連射音が止まり、\n爆発音が鳴ります。",
+          "translation": "① Press and hold the trigger.\nRapid-fire sounds will continue to play.\n② Release the trigger.\n→ The rapid-fire sounds stop,\nand an explosion sound plays.",
+          "bbox": [0.0985, 0.6327, 0.2326, 0.0915]
+        },
+        {
+          "text": "※DXモード、なりきりモードのどちらでも同様です。\n※ギア読み込み後の状態でも同様です。",
+          "translation": "* This applies to both DX Mode and Narikiri Mode.\n* This also applies after the Gear has been scanned.",
+          "bbox": [0.4665, 0.5789, 0.4447, 0.0333]
+        },
+        {
+          "text": "00",
+          "translation": "00",
+          "bbox": [0.4912, 0.9688, 0.0163, 0.0154]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-8.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0369, 0.0342, 0.165, 0.0158]
+        },
+        {
+          "text": "© テレビ朝日・東映AG・東映",
+          "translation": "© TV Asahi, Toei AG, Toei",
+          "bbox": [0.2834, 0.0646, 0.1378, 0.0073]
+        },
+        {
+          "text": "矢印一覧 ■■■■■■ 取り付けます。 |",
+          "translation": "Arrow legend ■■■■■■ Attach.",
+          "bbox": [0.084, 0.1107, 0.3505, 0.0209]
+        },
+        {
+          "text": "取り外します。",
+          "translation": "Remove.",
+          "bbox": [0.5408, 0.1137, 0.1245, 0.0184]
+        },
+        {
+          "text": "可動させます。",
+          "translation": "Make movable.",
+          "bbox": [0.7867, 0.1159, 0.1293, 0.0141]
+        },
+        {
+          "text": "遊び方",
+          "translation": "How to Play",
+          "bbox": [0.2538, 0.1774, 0.0961, 0.0205]
+        },
+        {
+          "text": "※ドンブラザーズモード状態を例に説明します。\nドンモモタロウギアを例に説明します。",
+          "translation": "The following explains using Donbrothers Mode as an example. Don Momotaro Gear is used as the example gear.",
+          "bbox": [0.345, 0.2501, 0.4145, 0.0329]
+        },
+        {
+          "text": "変身遊び",
+          "translation": "Transformation play",
+          "bbox": [0.1378, 0.2578, 0.1088, 0.0192]
+        },
+        {
+          "text": "①ギアをドンブラスターにセットします。",
+          "translation": "① Set the Gear into the Don Blaster.",
+          "bbox": [0.0997, 0.3091, 0.342, 0.0154]
+        },
+        {
+          "text": "着脱音が鳴ります。",
+          "translation": "An attach/detach sound will play.",
+          "bbox": [0.119, 0.3288, 0.1656, 0.0145]
+        },
+        {
+          "text": "②トリガーを押します。\n→セリフ「アバターチェンジ」が鳴ります。\n※トリガーを押すたびに\n「アバターチェンジ」と\n「ロボタロウ」が交互に鳴ります。",
+          "translation": "② Press the trigger. → The line \"Avatar Change\" will play. ※Each time you press the trigger, \"Avatar Change\" and \"Robotaro\" will play alternately.",
+          "bbox": [0.0991, 0.3484, 0.3571, 0.0894]
+        },
+        {
+          "text": "※ドンモモタロウモードの場合、セリフ",
+          "translation": "※For Don Momotaro Mode, the line",
+          "bbox": [0.1009, 0.4434, 0.3366, 0.0137]
+        },
+        {
+          "text": "「ロボタロウ」の後にトリガーを押すと",
+          "translation": "If you press the trigger after \"Robotaro\",",
+          "bbox": [0.1208, 0.4622, 0.3275, 0.0137]
+        },
+        {
+          "text": "「アルターチェンジ」が鳴ります。\n※DXモードの場合、ボタンを\n押すたびに銃構え音のみ鳴ります。\n③ギアディスクを矢印の方向に回します。\n→セリフ「いよぉー!」が鳴ります。\n変身待機音が流れます。\n※反対方向に回しても\nギアの検出はできません。\n④変身待機音が鳴っている間に、\nギアディスクを更に回して、\nギアの読み込みを行います。\n読み込みを行っている間、\nセリフ「どん!」が鳴ります。\n※読み込み中に矢印と反対方向に\n回さないでください。\n⑤ギアディスクを回し続けます。\n→セリフ「どんぶらこー!」と\n鳴ったら読み込み完了です。\nセリフ「アバタロウ!」が鳴り、\nセリフ付き待機音が流れます。",
+          "translation": "\"Alter Change\" will play. ※In DX mode, each time you press the button only the gun-ready sound will play. ③ Rotate the Gear Disc in the direction of the arrow. → The line \"Iyo~!\" will play and the transformation standby sound will play. ※Turning in the opposite direction will not detect the Gear. ④ While the transformation standby sound is playing, rotate the Gear Disc further to read the Gear. During reading, the line \"Don!\" will play. ※Do not turn in the opposite direction of the arrow while reading is in progress. ⑤ Continue rotating the Gear Disc. → When the line \"Donburako!\" plays, reading is complete. The line \"Avataro!\" will play, followed by the standby sound with voice lines.",
+          "bbox": [0.0985, 0.4805, 0.3547, 0.3758]
+        },
+        {
+          "text": "アバタロウギア\nドンモモタロウ",
+          "translation": "Avataro Gear\nDon Momotaro",
+          "bbox": [0.6532, 0.4912, 0.1142, 0.0257]
+        },
+        {
+          "text": "いよぉー!",
+          "translation": "Iyo~!",
+          "bbox": [0.4798, 0.5472, 0.0755, 0.0111]
+        },
+        {
+          "text": "どん!どんどん!",
+          "translation": "Don! Don Don!",
+          "bbox": [0.632, 0.546, 0.1329, 0.0133]
+        },
+        {
+          "text": "アバタロウギア",
+          "translation": "Avataro Gear",
+          "bbox": [0.7988, 0.5857, 0.1148, 0.0111]
+        },
+        {
+          "text": "銃口",
+          "translation": "Muzzle",
+          "bbox": [0.4864, 0.7311, 0.0356, 0.0111]
+        },
+        {
+          "text": "ギアディスク",
+          "translation": "Gear Disc",
+          "bbox": [0.516, 0.764, 0.0937, 0.0111]
+        },
+        {
+          "text": "3,4,5",
+          "translation": "3,4,5",
+          "bbox": [0.6441, 0.7674, 0.058, 0.0098]
+        },
+        {
+          "text": "アバタロウ!",
+          "translation": "Avataro!",
+          "bbox": [0.7462, 0.8059, 0.0961, 0.0128]
+        },
+        {
+          "text": "どんぶらこー!",
+          "translation": "Donburako!",
+          "bbox": [0.5106, 0.8025, 0.1106, 0.0133]
+        },
+        {
+          "text": "※ギアディスクを回すと、連動して\n銃口が前後に動き、セットした\nアバタロウギアが回転します。",
+          "translation": "*When you turn the Gear Disc, the muzzle moves back and forth and the inserted Avataro Gear rotates in sync.",
+          "bbox": [0.5287, 0.8529, 0.3009, 0.0522]
+        },
+        {
+          "text": "次ページに続きます。",
+          "translation": "Continues on the next page.",
+          "bbox": [0.0804, 0.9252, 0.1837, 0.012]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.49, 0.9701, 0.0193, 0.0128]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-9.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0375, 0.0342, 0.1662, 0.0167]
+        },
+        {
+          "text": "©テレビ朝日・東映AG・東映",
+          "translation": "© TV Asahi · Toei AG · Toei",
+          "bbox": [0.2834, 0.0641, 0.1378, 0.0077]
+        },
+        {
+          "text": "矢印一覧",
+          "translation": "Arrow list",
+          "bbox": [0.084, 0.1163, 0.0822, 0.0141]
+        },
+        {
+          "text": "■ 取り付けます。 |",
+          "translation": "■ Attach. |",
+          "bbox": [0.2435, 0.1103, 0.1946, 0.0214]
+        },
+        {
+          "text": "取り外します。",
+          "translation": "Remove.",
+          "bbox": [0.5408, 0.1137, 0.1251, 0.0184]
+        },
+        {
+          "text": "可動させます。",
+          "translation": "Move.",
+          "bbox": [0.7873, 0.1167, 0.1293, 0.0133]
+        },
+        {
+          "text": "遊び方",
+          "translation": "How to Play",
+          "bbox": [0.2544, 0.1779, 0.0937, 0.0205]
+        },
+        {
+          "text": "前ページの続きです。",
+          "translation": "Continued from the previous page.",
+          "bbox": [0.081, 0.239, 0.1855, 0.0145]
+        },
+        {
+          "text": "⑥セリフ付き待機音再生中に\nトリガーを押します。\n変身完了音とセリフ\n「ドンモモタロウ」 「よっ!日本一!」が\n鳴り、変身完了です。\n※アバタロウギアを読み込んだ際の\nセリフは、下記の表をご確認ください。",
+          "translation": "⑥ While the standby sound with dialogue is playing, press the trigger.\nThe transformation complete sound and the dialogue \"Don Momotaro\" and \"Yo! Japan's number one!\" will play, completing the transformation.\n*Please check the table below for the dialogue that plays when an Avataro Gear is read.",
+          "bbox": [0.0991, 0.2749, 0.3523, 0.1295]
+        },
+        {
+          "text": "ドンモモタロウ\nよっ! 日本一!",
+          "translation": "Don Momotaro\nYo! Japan's number one!",
+          "bbox": [0.5909, 0.239, 0.1178, 0.0312]
+        },
+        {
+          "text": "使用ギア\nドンモモタロウギア\nサルブラザーギア\nオニシスターギア\nキジブラザーギア\nイヌブラザーギア",
+          "translation": "Gears used\nDon Momotaro Gear\nSaru Brother Gear\nOni Sister Gear\nKiji Brother Gear\nInu Brother Gear",
+          "bbox": [0.0931, 0.4934, 0.145, 0.1334]
+        },
+        {
+          "text": "⑤セリフ",
+          "translation": "⑤ Dialogue",
+          "bbox": [0.3112, 0.4947, 0.0755, 0.0133]
+        },
+        {
+          "text": "⑥セリフ",
+          "translation": "⑥ Dialogue",
+          "bbox": [0.5396, 0.4947, 0.0767, 0.0128]
+        },
+        {
+          "text": "「ドンモモタロウ」「よっ!日本一!」",
+          "translation": "\"Don Momotaro\" \"Yo! Japan's number one!\"",
+          "bbox": [0.4181, 0.5203, 0.2369, 0.012]
+        },
+        {
+          "text": "「サルブラザー」「よっ!ムッキムキ!」",
+          "translation": "\"Saru Brother\" \"Yo! Super Muscles!\"",
+          "bbox": [0.4181, 0.5442, 0.255, 0.012]
+        },
+        {
+          "text": "「アバタロウ!」 「オニシスター」「よっ!オニに金棒!」",
+          "translation": "\"Avataro!\" \"Oni Sister\" \"Yo! An oni with an iron club!\"",
+          "bbox": [0.2973, 0.5661, 0.3764, 0.0141]
+        },
+        {
+          "text": "「キジブラザー」「よっ!トリッキー!」",
+          "translation": "\"Kiji Brother\" \"Yo! Tricky!\"",
+          "bbox": [0.4175, 0.5917, 0.2489, 0.012]
+        },
+        {
+          "text": "「イヌブラザー」「よっ!ワンだふる!」",
+          "translation": "\"Inu Brother\" \"Yo! Wan-derful!\"",
+          "bbox": [0.4181, 0.6148, 0.2532, 0.0124]
+        },
+        {
+          "text": "(5)",
+          "translation": "(5)",
+          "bbox": [0.71, 0.4079, 0.0145, 0.0094]
+        },
+        {
+          "text": "P.16~ (ギア読み込み後フロー)へ続きます。",
+          "translation": "Continued on P.16~ (flow after gear reading).",
+          "bbox": [0.455, 0.6494, 0.461, 0.0162]
+        },
+        {
+          "text": "10",
+          "translation": "10",
+          "bbox": [0.4834, 0.9696, 0.0381, 0.0133]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-10.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "Online Instruction Manual",
+          "bbox": [0.0369, 0.0342, 0.1651, 0.0158]
+        },
+        {
+          "text": "ドンブラザー",
+          "translation": "Donbrothers",
+          "bbox": [0.3162, 0.0304, 0.0653, 0.0171]
+        },
+        {
+          "text": "© テレビ朝日・東映AG・東映",
+          "translation": "© TV Asahi, Toei AG, Toei",
+          "bbox": [0.283, 0.0646, 0.1385, 0.0073]
+        },
+        {
+          "text": "矢印一覧",
+          "translation": "Arrow legend",
+          "bbox": [0.0834, 0.1167, 0.0804, 0.0133]
+        },
+        {
+          "text": "■■■■ 取り付けます。 |",
+          "translation": "Attach ■■■■.",
+          "bbox": [0.2237, 0.1116, 0.2104, 0.0184]
+        },
+        {
+          "text": "取り外します。",
+          "translation": "Remove.",
+          "bbox": [0.5411, 0.1137, 0.1245, 0.0184]
+        },
+        {
+          "text": "可動させます。",
+          "translation": "Move",
+          "bbox": [0.7872, 0.1167, 0.1282, 0.0124]
+        },
+        {
+          "text": "遊び方",
+          "translation": "How to Play",
+          "bbox": [0.2539, 0.1757, 0.0961, 0.0227]
+        },
+        {
+          "text": "※ドンブラザーズモード状態を例に説明します。",
+          "translation": "Note: Donbrothers Mode is used as an example.",
+          "bbox": [0.3875, 0.242, 0.4141, 0.0141]
+        },
+        {
+          "text": "ロボタロウ変身遊び",
+          "translation": "Robotaro Transformation Play",
+          "bbox": [0.0901, 0.2501, 0.2364, 0.0192]
+        },
+        {
+          "text": "※ドンロボタロウギアを例に説明します。",
+          "translation": "Note: The Don Robotaro Gear is used as an example.",
+          "bbox": [0.3869, 0.2608, 0.3579, 0.0145]
+        },
+        {
+          "text": "ロボタロウ!",
+          "translation": "Robotaro!",
+          "bbox": [0.6904, 0.3108, 0.0961, 0.0124]
+        },
+        {
+          "text": "どんぶらこー!",
+          "translation": "Donburako!",
+          "bbox": [0.4964, 0.3412, 0.1119, 0.0128]
+        },
+        {
+          "text": "アバタロウギア\nドンロボタロウ",
+          "translation": "Avataro Gear\nDon Robotaro",
+          "bbox": [0.7944, 0.3506, 0.1149, 0.0261]
+        },
+        {
+          "text": "読み込み1回目",
+          "translation": "First load",
+          "bbox": [0.0943, 0.3006, 0.1596, 0.0162]
+        },
+        {
+          "text": "※①~④は",
+          "translation": "*Items ①–④ are...",
+          "bbox": [0.101, 0.3489, 0.0992, 0.0124]
+        },
+        {
+          "text": "P.9 (変身遊び) と同様です。\n⑤ギアディスクを回し続けます。\nセリフ「どんぶらこー!」と\n鳴ったら読み込み完了です。\nセリフ「ロボタロウ!」が鳴り、\nセリフ付き待機音が流れます。\n⑥セリフ付き待機音再生中に\nトリガーを押します。\n変身完了音とセリフ\n「ドンロボタロウ」 「よっ!世界一!」と\n変身後セリフが鳴り、変身完了です。",
+          "translation": "*Items ①–④ are the same as P.9 (Transformation Play).\n⑤ Continue rotating the Gear Disc.\nWhen the line \"Donburako!\" sounds, loading is complete.\n\"Robotaro!\" will play, followed by a voiced standby sound.\n⑥ While the voiced standby sound is playing, press the trigger.\nThe transformation-complete sound and the lines \"Don Robotaro\" and \"Yo! World's number one!\" will play — the transformation is complete.",
+          "bbox": [0.0985, 0.3668, 0.3349, 0.2044]
+        },
+        {
+          "text": "読み込み2回目",
+          "translation": "Second load",
+          "bbox": [0.0949, 0.6148, 0.1584, 0.0158]
+        },
+        {
+          "text": "※ドンロボタロウギアを1回\n読み込んでから行います。",
+          "translation": "Note: Do this after loading the Don Robotaro Gear once.",
+          "bbox": [0.101, 0.658, 0.2491, 0.0325]
+        },
+        {
+          "text": "※ギアの読み込み方は、",
+          "translation": "*How to load the Gear:",
+          "bbox": [0.101, 0.6956, 0.208, 0.0141]
+        },
+        {
+          "text": "読み込み1回目と同様です。",
+          "translation": "Same as the first load.",
+          "bbox": [0.1185, 0.7148, 0.2455, 0.0141]
+        },
+        {
+          "text": "ギアを再度読み込みます。\n読み込みが完了すると、大合体の\nシークエンスが再生されます。",
+          "translation": "Load the Gear again.\nWhen loading is complete, the Grand Combination sequence will play.",
+          "bbox": [0.0998, 0.7336, 0.3108, 0.0526]
+        },
+        {
+          "text": "大合体\n大合体",
+          "translation": "Grand Combination\nGrand Combination",
+          "bbox": [0.4843, 0.6156, 0.0629, 0.0316]
+        },
+        {
+          "text": "ドンロボタロウ",
+          "translation": "Don Robotaro",
+          "bbox": [0.7352, 0.5686, 0.1179, 0.0128]
+        },
+        {
+          "text": "よっ! 世界一!",
+          "translation": "Yo! World's number one!",
+          "bbox": [0.7334, 0.587, 0.1046, 0.0124]
+        },
+        {
+          "text": "P.16~ (ギア読み込み後フロー) へ続きます。",
+          "translation": "Continues on P.16 (Flow after gear loading).",
+          "bbox": [0.4547, 0.8504, 0.4625, 0.0162]
+        },
+        {
+          "text": "11",
+          "translation": "11",
+          "bbox": [0.4837, 0.9679, 0.0308, 0.0141]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-11.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0369, 0.0342, 0.1651, 0.0158]
+        },
+        {
+          "text": "ウブラザー",
+          "translation": "U-Brother",
+          "bbox": [0.3253, 0.0316, 0.0574, 0.0154]
+        },
+        {
+          "text": "© テレビ朝日・東映AG・東映",
+          "translation": "© TV Asahi, Toei AG, Toei",
+          "bbox": [0.283, 0.0646, 0.1385, 0.0073]
+        },
+        {
+          "text": "■■■■■■",
+          "translation": "■■■■■■",
+          "bbox": [0.2152, 0.1116, 0.0586, 0.0158]
+        },
+        {
+          "text": "矢印一覧 取り付けます。",
+          "translation": "Arrow legend: Attach.",
+          "bbox": [0.0834, 0.1159, 0.3301, 0.0145]
+        },
+        {
+          "text": "|",
+          "translation": "|",
+          "bbox": [0.4274, 0.1133, 0.0054, 0.015]
+        },
+        {
+          "text": "取り外します。",
+          "translation": "Remove.",
+          "bbox": [0.5411, 0.1137, 0.1245, 0.0188]
+        },
+        {
+          "text": "可動させます。",
+          "translation": "Make movable.",
+          "bbox": [0.7872, 0.1167, 0.1288, 0.0124]
+        },
+        {
+          "text": "ギア読み込み前",
+          "translation": "Before loading gear",
+          "bbox": [0.1923, 0.177, 0.2219, 0.0222]
+        },
+        {
+          "text": "BGM付き変身遊び",
+          "translation": "Transformation play with BGM",
+          "bbox": [0.0889, 0.2501, 0.2086, 0.0188]
+        },
+        {
+          "text": "※ドンブラザーズモード状態を例に説明します。\n※ドンモモタロウギアを例に説明します。",
+          "translation": "*The explanation uses Donbrothers Mode as an example.\n*The explanation uses the Don Momotaro Gear as an example.",
+          "bbox": [0.3446, 0.2416, 0.4148, 0.0333]
+        },
+        {
+          "text": "BGM付き変身遊び状態への切り替え",
+          "translation": "Switching to Transformation Play with BGM",
+          "bbox": [0.101, 0.3001, 0.3851, 0.0171]
+        },
+        {
+          "text": "BGMボタンを長押しします。\n現在のなりきりモードに合わせた、\nモード切り替え音声が鳴り、\nBGM付き変身遊び状態に",
+          "translation": "Press and hold the BGM button. A mode‑switching voice corresponding to the current role‑play mode will sound,",
+          "bbox": [0.1004, 0.3403, 0.3198, 0.0705]
+        },
+        {
+          "text": "なります。",
+          "translation": "and it will enter the transformation play mode with BGM.",
+          "bbox": [0.1197, 0.4156, 0.0852, 0.0141]
+        },
+        {
+          "text": "なりきりモード\nドンブラザーズモード\nドンモモタロウモード\nサルブラザーモード\nオニシスターモード\nイヌブラザーモード\nキジブラザーモード\n最終名乗りモード",
+          "translation": "Role-play Mode\nDonbrothers Mode\nDon Momotaro Mode\nSarubrother Mode\nOni Sister Mode\nInubrother Mode\nKijibrother Mode\nFinal Roll Call Mode",
+          "bbox": [0.2231, 0.5024, 0.1602, 0.1804]
+        },
+        {
+          "text": "モード切り替え音声",
+          "translation": "Mode‑switching voice",
+          "bbox": [0.4843, 0.5019, 0.1711, 0.015]
+        },
+        {
+          "text": "行くぞ!お供達!\n行くぞ!",
+          "translation": "Let's go! Companions!\nLet's go!",
+          "bbox": [0.3984, 0.5289, 0.1088, 0.0355]
+        },
+        {
+          "text": "いきますか。",
+          "translation": "Shall we go?",
+          "bbox": [0.3996, 0.5767, 0.0895, 0.0103]
+        },
+        {
+          "text": "もう!こんなことやってる場合じゃないのに!\n首輪も、鎖も俺には要らない。",
+          "translation": "Geez! This isn't the time to be doing something like this!\nI don't need a collar or a chain.",
+          "bbox": [0.3984, 0.6003, 0.315, 0.0351]
+        },
+        {
+          "text": "お待たせしました!\nモード切り替えSE",
+          "translation": "Sorry to keep you waiting!\nMode‑switching SE",
+          "bbox": [0.399, 0.6481, 0.1378, 0.0351]
+        },
+        {
+          "text": "次ページに続きます。",
+          "translation": "Continued on the next page.",
+          "bbox": [0.0798, 0.7012, 0.1844, 0.0124]
+        },
+        {
+          "text": "12",
+          "translation": "12",
+          "bbox": [0.4831, 0.9701, 0.0351, 0.0115]
+        },
+        {
+          "text": "行くぞ!お供達!",
+          "translation": "Let's go! Companions!",
+          "bbox": [0.7533, 0.342, 0.1179, 0.0145]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-12.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "Online Instruction Manual",
+          "bbox": [0.0369, 0.0342, 0.1656, 0.0158]
+        },
+        {
+          "text": "© テレビ朝日・東映AG・東映",
+          "translation": "© TV Asahi · Toei AG · Toei",
+          "bbox": [0.2834, 0.0646, 0.1378, 0.0073]
+        },
+        {
+          "text": "■■■■■■",
+          "translation": "■■■■■■",
+          "bbox": [0.2151, 0.112, 0.0586, 0.0158]
+        },
+        {
+          "text": "矢印一覧 取り付けます。",
+          "translation": "Arrow legend: Attach.",
+          "bbox": [0.0834, 0.1159, 0.3317, 0.0145]
+        },
+        {
+          "text": "|",
+          "translation": "|",
+          "bbox": [0.4248, 0.1137, 0.0073, 0.015]
+        },
+        {
+          "text": "取り外します。",
+          "translation": "Remove.",
+          "bbox": [0.5408, 0.1137, 0.1245, 0.0188]
+        },
+        {
+          "text": "可動させます。",
+          "translation": "Make movable.",
+          "bbox": [0.7867, 0.1163, 0.1293, 0.0137]
+        },
+        {
+          "text": "ギア読み込み前",
+          "translation": "Before Gear loading",
+          "bbox": [0.1921, 0.177, 0.2218, 0.0222]
+        },
+        {
+          "text": "前ページの続きです。",
+          "translation": "Continued from the previous page.",
+          "bbox": [0.0804, 0.239, 0.1867, 0.0145]
+        },
+        {
+          "text": "モモから生まれた!",
+          "translation": "Born from a peach!",
+          "bbox": [0.4508, 0.2522, 0.1438, 0.0128]
+        },
+        {
+          "text": "BGM付き変身遊び",
+          "translation": "Transformation Play with BGM",
+          "bbox": [0.1003, 0.2745, 0.2018, 0.0175]
+        },
+        {
+          "text": "※①~⑤P.9 (変身遊び) と同様です。\n⑥セリフ付き待機音再生中に\nトリガーを押します。",
+          "translation": "*Steps ①–⑤ are the same as P.9 (Transformation Play).\n⑥ While the standby sound with dialogue is playing, press the trigger.",
+          "bbox": [0.0985, 0.3151, 0.3323, 0.053]
+        },
+        {
+          "text": "→現在のモードに合わせた変身音が鳴り、\n音声とBGMが自動で再生し",
+          "translation": "→A transformation sound corresponding to the current mode will play,\nand the voice and BGM will play automatically.",
+          "bbox": [0.0997, 0.3724, 0.3625, 0.0329]
+        },
+        {
+          "text": "変身完了です。",
+          "translation": "Transformation complete.",
+          "bbox": [0.119, 0.4109, 0.1305, 0.0128]
+        },
+        {
+          "text": "ドンモモタロウ!",
+          "translation": "Don Momotaro!",
+          "bbox": [0.4526, 0.2706, 0.1263, 0.0128]
+        },
+        {
+          "text": "※この遊びでは、どのギアを読み込んでも\n現在のモードに対応した変身音声が鳴ります。\n音声は下記表を参照してください。",
+          "translation": "*In this play, no matter which Gear you load, the transformation voice corresponding to the current mode will play.\nPlease refer to the table below for the voice lines.",
+          "bbox": [0.1009, 0.4292, 0.4199, 0.0522]
+        },
+        {
+          "text": "なりきりモード\nドンブラザーズモード\nドンモモタロウモード\nサルブラザーモード\nオニシスターモード\nイヌブラザーモード\nキジブラザーモード",
+          "translation": "Role-play Mode\nDonbrothers Mode\nDon Momotaro Mode\nSaru Brother Mode\nOni Sister Mode\nInu Brother Mode\nKiji Brother Mode",
+          "bbox": [0.087, 0.5306, 0.1523, 0.156]
+        },
+        {
+          "text": "変身音",
+          "translation": "Transformation sound",
+          "bbox": [0.3275, 0.5306, 0.0616, 0.0128]
+        },
+        {
+          "text": "音声",
+          "translation": "Voice",
+          "bbox": [0.5293, 0.5297, 0.0405, 0.0141]
+        },
+        {
+          "text": "BGM",
+          "translation": "BGM",
+          "bbox": [0.7492, 0.5314, 0.0538, 0.0103]
+        },
+        {
+          "text": "ドンブラザース5人変身音\nドンモモタロウ変身音\nサルブラザー変身音\nオニシスター変身音\nイヌブラザー変身音\nキジブラザー変身音",
+          "translation": "Donbrothers 5-person transformation sound\nDon Momotaro transformation sound\nSaru Brother transformation sound\nOni Sister transformation sound\nInu Brother transformation sound\nKiji Brother transformation sound",
+          "bbox": [0.2616, 0.5566, 0.1831, 0.1304]
+        },
+        {
+          "text": "5人名乗り",
+          "translation": "5-person roll call",
+          "bbox": [0.4707, 0.5575, 0.0737, 0.0098]
+        },
+        {
+          "text": "名乗っていいんだな",
+          "translation": "So I can introduce myself, huh.",
+          "bbox": [0.6417, 0.5571, 0.1414, 0.0111]
+        },
+        {
+          "text": "ドンモモタロウ名乗り この世は楽園、悩みなんざぶっ飛ばせ!",
+          "translation": "Don Momotaro introduction: \"This world is a paradise — blow your worries away!\"",
+          "bbox": [0.4713, 0.5806, 0.435, 0.0115]
+        },
+        {
+          "text": "受けて立とう!\nいっくぞー!\n行くぜ!",
+          "translation": "I'll take you on!\nHere we go!\nLet's go!",
+          "bbox": [0.4695, 0.6041, 0.0985, 0.0586]
+        },
+        {
+          "text": "ドンブラザーズ、いざ戦いへ",
+          "translation": "Donbrothers, off to battle!",
+          "bbox": [0.6435, 0.6396, 0.1921, 0.012]
+        },
+        {
+          "text": "いきますよ",
+          "translation": "Here we go.",
+          "bbox": [0.4713, 0.6755, 0.0761, 0.0111]
+        },
+        {
+          "text": "最終名乗りモード",
+          "translation": "Final Roll Call Mode",
+          "bbox": [0.087, 0.711, 0.1245, 0.0115]
+        },
+        {
+          "text": "ドンモモタロウ変身音",
+          "translation": "Don Momotaro Transformation Sound",
+          "bbox": [0.2628, 0.7114, 0.1535, 0.0111]
+        },
+        {
+          "text": "9人名乗り",
+          "translation": "9-person roll call",
+          "bbox": [0.4707, 0.7106, 0.0731, 0.012]
+        },
+        {
+          "text": "この世は楽園、悩みなんざぶっ飛ばせ!\n名乗っていいんだな",
+          "translation": "This world is a paradise — blow your worries away!\nSo I can introduce myself, huh?",
+          "bbox": [0.6417, 0.7016, 0.264, 0.0299]
+        },
+        {
+          "text": "P.16~(ギア読み込み後フロー)へ続きます。",
+          "translation": "Continues on P.16 (Flow after Gear loading).",
+          "bbox": [0.455, 0.8038, 0.4604, 0.0167]
+        },
+        {
+          "text": "13",
+          "translation": "13",
+          "bbox": [0.4834, 0.9684, 0.0369, 0.0158]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-13.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0369, 0.0342, 0.1657, 0.0158]
+        },
+        {
+          "text": "ウブラザー",
+          "translation": "U-Brother",
+          "bbox": [0.3253, 0.0316, 0.058, 0.0154]
+        },
+        {
+          "text": "© テレビ朝日・東映AG・東映",
+          "translation": "© TV Asahi, Toei AG, Toei",
+          "bbox": [0.283, 0.0646, 0.1378, 0.0073]
+        },
+        {
+          "text": "矢印一覧 取り付けます。\n■■■■■■ \n|",
+          "translation": "Arrow legend: Attach.",
+          "bbox": [0.0834, 0.1116, 0.3482, 0.0201]
+        },
+        {
+          "text": "取り外します。",
+          "translation": "Detach.",
+          "bbox": [0.5411, 0.1137, 0.1245, 0.0188]
+        },
+        {
+          "text": "可動させます。",
+          "translation": "Move.",
+          "bbox": [0.7872, 0.1159, 0.1294, 0.0137]
+        },
+        {
+          "text": "ギア読み込み前",
+          "translation": "Before gear loading",
+          "bbox": [0.1923, 0.177, 0.2219, 0.0222]
+        },
+        {
+          "text": "強制変身遊び",
+          "translation": "Forced Transformation Play",
+          "bbox": [0.1119, 0.2493, 0.1608, 0.0197]
+        },
+        {
+          "text": "ドンブラザーズモード状態を例に説明します。\n※ドンモモタロウギアを例に説明します。",
+          "translation": "Explained using Donbrothers Mode as an example.\n*Using the Don Momotaro Gear as an example.",
+          "bbox": [0.3458, 0.2416, 0.4141, 0.0333]
+        },
+        {
+          "text": "強制変身遊び",
+          "translation": "Forced Transformation Play",
+          "bbox": [0.0992, 0.3014, 0.1403, 0.0175]
+        },
+        {
+          "text": "①アバタロウギアを\nドンブラスターにセットします。\n着脱音が鳴ります。\n②BGMボタンとセリフボタンを\n同時に押します。",
+          "translation": "① Set the Avataro Gear into the DonBlaster.\nAn attachment/detachment sound will play.\n② Press the BGM button and the Dialogue button at the same time.",
+          "bbox": [0.0979, 0.3425, 0.2848, 0.0915]
+        },
+        {
+          "text": "→起動音「ドンブラスター!」が鳴り、\nその後現在のモードに合わせた\n「強制変身音」が鳴ります。",
+          "translation": "→The startup sound \"Donblaster!\" plays,\nfollowed by the \"forced transformation sound\"\ncorresponding to the current mode.",
+          "bbox": [0.0992, 0.4378, 0.3083, 0.0526]
+        },
+        {
+          "text": "P.16~",
+          "translation": "P.16~",
+          "bbox": [0.0907, 0.5182, 0.0828, 0.0128]
+        },
+        {
+          "text": "(ギア読み込み後フロー) へ",
+          "translation": "To (Flow after gear loading)",
+          "bbox": [0.0925, 0.5404, 0.2775, 0.0162]
+        },
+        {
+          "text": "続きます。",
+          "translation": "Continued.",
+          "bbox": [0.0895, 0.5639, 0.0985, 0.0162]
+        },
+        {
+          "text": "ドンモモタロウ",
+          "translation": "Don Momotaro",
+          "bbox": [0.4879, 0.3177, 0.1173, 0.0145]
+        },
+        {
+          "text": "よっ! 日本一!",
+          "translation": "Hey! Number one in Japan!",
+          "bbox": [0.4867, 0.3365, 0.1046, 0.0137]
+        },
+        {
+          "text": ">",
+          "translation": ">",
+          "bbox": [0.607, 0.4844, 0.032, 0.0222]
+        },
+        {
+          "text": "①",
+          "translation": "①",
+          "bbox": [0.5326, 0.5387, 0.0308, 0.0209]
+        },
+        {
+          "text": "(2)",
+          "translation": "(2)",
+          "bbox": [0.7158, 0.3694, 0.0145, 0.009]
+        },
+        {
+          "text": "(2)",
+          "translation": "(2)",
+          "bbox": [0.8386, 0.3694, 0.0145, 0.009]
+        },
+        {
+          "text": "チェンジ拒否",
+          "translation": "Change Denied",
+          "bbox": [0.1004, 0.6404, 0.136, 0.015]
+        },
+        {
+          "text": "※①②は(強制変身遊び) と同様です。\n③「強制変身音」が鳴り終わる前に\nレバーを引きます。\n→ロックが外れて\n現在のモードに合わせた\nセリフ「チェンジ拒否。」が鳴ります。\n※DXモードではセリフ\n「チェンジ拒否。」は鳴りません。\n※ギアセット部分を上に向けて\n行ってください。",
+          "translation": "※Steps ① and ② are the same as for (Forced Transformation Play).\n③ Before the “Forced Transformation” sound finishes playing, pull the lever.\n→ The lock will release, and the voice line “Change Denied.” corresponding to the current mode will play.\n※In DX Mode, the voice line “Change Denied.” will not play.\n※Perform this with the gear-set area facing upward.",
+          "bbox": [0.0992, 0.6845, 0.3325, 0.1847]
+        },
+        {
+          "text": "チェンジ拒否。",
+          "translation": "Change Denied.",
+          "bbox": [0.7775, 0.6597, 0.1076, 0.0133]
+        },
+        {
+          "text": "14",
+          "translation": "14",
+          "bbox": [0.4831, 0.9696, 0.0393, 0.0128]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-14.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0369, 0.0342, 0.1656, 0.0158]
+        },
+        {
+          "text": "© テレビ朝日・東映AG・東映",
+          "translation": "© TV Asahi · Toei AG · Toei",
+          "bbox": [0.2834, 0.0646, 0.1378, 0.0073]
+        },
+        {
+          "text": "■■■■■■",
+          "translation": "■■■■■■",
+          "bbox": [0.2133, 0.1171, 0.061, 0.0094]
+        },
+        {
+          "text": "矢印一覧 取り付けます。",
+          "translation": "Arrow legend: Attach",
+          "bbox": [0.0834, 0.1159, 0.3305, 0.0145]
+        },
+        {
+          "text": "取り外します。",
+          "translation": "Remove",
+          "bbox": [0.5408, 0.1137, 0.1245, 0.0184]
+        },
+        {
+          "text": "可動させます。",
+          "translation": "Make movable",
+          "bbox": [0.7867, 0.1163, 0.1293, 0.0137]
+        },
+        {
+          "text": "ギア読み込み前",
+          "translation": "Before gear loading",
+          "bbox": [0.1921, 0.177, 0.2218, 0.0222]
+        },
+        {
+          "text": "ドンブラザーズモード状態を例に説明します。",
+          "translation": "This section explains using Donbrothers Mode as an example.",
+          "bbox": [0.3656, 0.2416, 0.394, 0.0141]
+        },
+        {
+          "text": "短縮変身遊び",
+          "translation": "Shortened transformation play",
+          "bbox": [0.1112, 0.2501, 0.1625, 0.018]
+        },
+        {
+          "text": "※ドンモモタロウギアを例に説明します。",
+          "translation": "The Don Momotaro Gear is used as an example for this explanation.",
+          "bbox": [0.3456, 0.2608, 0.3577, 0.0145]
+        },
+        {
+          "text": "※①②は、",
+          "translation": "Note: ① and ②,",
+          "bbox": [0.1009, 0.3023, 0.0882, 0.0141]
+        },
+        {
+          "text": "P.9 (変身遊び) と同様です。\n③トリガーを押しながら、\nディスクを回転させます。\n→セリフ「どんぶらこー!」が鳴り、\n現在のモードに合わせた\n「変身待機音」が鳴ります。",
+          "translation": "Same as P.9 (Transformation Play).\n③ While pressing the trigger, rotate the disc.\n→ The phrase \"Donburako!\" will play, and the \"transformation standby\" sound for the current mode will play.",
+          "bbox": [0.0991, 0.3219, 0.2864, 0.1086]
+        },
+        {
+          "text": "④トリガーを押します。",
+          "translation": "④ Press the trigger.",
+          "bbox": [0.0991, 0.4352, 0.1952, 0.0154]
+        },
+        {
+          "text": "→セリフ「ドンモモタロウ!」が鳴り、",
+          "translation": "→ The line \"Don Momotaro!\" will play,",
+          "bbox": [0.0991, 0.4549, 0.3039, 0.0133]
+        },
+        {
+          "text": "現在のモードに合わせた",
+          "translation": "corresponding to the current mode",
+          "bbox": [0.119, 0.4737, 0.2151, 0.0137]
+        },
+        {
+          "text": "「変身音」が鳴ります。",
+          "translation": "the \"transformation\" sound will play.",
+          "bbox": [0.1215, 0.4929, 0.1831, 0.0141]
+        },
+        {
+          "text": "どんぶらこー!",
+          "translation": "Donburako!",
+          "bbox": [0.4133, 0.4994, 0.1106, 0.012]
+        },
+        {
+          "text": "(3)",
+          "translation": "(3)",
+          "bbox": [0.635, 0.5053, 0.0139, 0.0077]
+        },
+        {
+          "text": "③④",
+          "translation": "③④",
+          "bbox": [0.661, 0.4275, 0.032, 0.009]
+        },
+        {
+          "text": "アバタロウ!",
+          "translation": "Avataro!",
+          "bbox": [0.5063, 0.5498, 0.0955, 0.0128]
+        },
+        {
+          "text": "ドンモモタロウ",
+          "translation": "Don Momotaro",
+          "bbox": [0.7118, 0.5494, 0.1172, 0.0137]
+        },
+        {
+          "text": "P.16~ (ギア読み込み後フロー)へ続きます。",
+          "translation": "Continues to P.16~ (flow after gear loading).",
+          "bbox": [0.455, 0.6097, 0.4616, 0.0162]
+        },
+        {
+          "text": "15",
+          "translation": "15",
+          "bbox": [0.484, 0.9701, 0.0338, 0.0137]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-15.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0375, 0.0342, 0.165, 0.0167]
+        },
+        {
+          "text": "© テレビ朝日・東映AG・東映",
+          "translation": "© TV Asahi · Toei AG · Toei",
+          "bbox": [0.2834, 0.0641, 0.1378, 0.0073]
+        },
+        {
+          "text": "矢印一覧 ■■■■■■■ 取り付けます。 |",
+          "translation": "Arrow legend — Attach.",
+          "bbox": [0.084, 0.1103, 0.3474, 0.0222]
+        },
+        {
+          "text": "取り外します。",
+          "translation": "Remove.",
+          "bbox": [0.5408, 0.1137, 0.1245, 0.0188]
+        },
+        {
+          "text": "可動させます。",
+          "translation": "Make movable.",
+          "bbox": [0.7867, 0.1167, 0.1299, 0.0133]
+        },
+        {
+          "text": "ギア読み込み後フロー",
+          "translation": "Flow after scanning a gear",
+          "bbox": [0.145, 0.177, 0.3136, 0.0218]
+        },
+        {
+          "text": "攻撃遊び",
+          "translation": "Attack play",
+          "bbox": [0.1921, 0.2574, 0.1094, 0.0192]
+        },
+        {
+          "text": "※ドンモモタロウギアを読み込んだ\n状態で行います。",
+          "translation": "*Perform this with the Don Momotaro Gear loaded.",
+          "bbox": [0.4659, 0.248, 0.3142, 0.0346]
+        },
+        {
+          "text": "トリガーを短押しします。\n銃撃音が鳴ります。\n※3回に1回、現在のモードに\n合わせたキャラクターの\nセリフ音声が追加されます。\n※特殊な音声が鳴る\nギアがあります。\n詳しい内容は下記表を",
+          "translation": "Press the trigger briefly.\nA gunshot sound will play.\n※One out of every three presses will add a character voice line corresponding to the current mode.\n※There are gears that play special voice lines.\nFor details, please check the table below.",
+          "bbox": [0.1003, 0.3121, 0.2647, 0.1484]
+        },
+        {
+          "text": "ご確認ください。",
+          "translation": "Please check the table below.",
+          "bbox": [0.1208, 0.4656, 0.1444, 0.0124]
+        },
+        {
+          "text": "ロボタロウギア音声表",
+          "translation": "Robotaro Gear Voice Chart",
+          "bbox": [0.0918, 0.5421, 0.2302, 0.0154]
+        },
+        {
+          "text": "ドンロボタロウギア (2回目読み込み)/\nドンオニタイジンギア音声表",
+          "translation": "Don Robotaro Gear (2nd scan) / Don Onitaijin Gear Voice Chart",
+          "bbox": [0.4066, 0.5212, 0.4018, 0.0372]
+        },
+        {
+          "text": "音声",
+          "translation": "Sound",
+          "bbox": [0.223, 0.5725, 0.0393, 0.015]
+        },
+        {
+          "text": "音声",
+          "translation": "Sound",
+          "bbox": [0.6659, 0.5733, 0.0393, 0.0141]
+        },
+        {
+          "text": "ロボタロウ銃撃音",
+          "translation": "Robotaro gunfire sound",
+          "bbox": [0.0985, 0.5994, 0.1311, 0.0128]
+        },
+        {
+          "text": "※ギアを2回読み込むと、\nドンオニタイジンギアを\n読み込んだ状態になります。",
+          "translation": "※If you scan the gear twice, it will be treated as if the Don Onitaijin Gear has been scanned.",
+          "bbox": [0.0985, 0.6238, 0.2205, 0.0428]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.4145, 0.5737, 0.0417, 0.0133]
+        },
+        {
+          "text": "① サル攻撃音 「天空サル連撃!うほうほうほうほうきー!」\n② |オニ攻撃音 「くらえオニキック! おりゃおりゃおりゃおりゃ!」",
+          "translation": "① Monkey attack sound: \"Sky Monkey Barrage! Uho uho uho uho-kii!\"\n② Oni attack sound: \"Take this — Oni Kick! Orya orya orya orya!\"",
+          "bbox": [0.4254, 0.599, 0.4719, 0.0372]
+        },
+        {
+          "text": "③",
+          "translation": "③",
+          "bbox": [0.426, 0.6473, 0.0193, 0.0107]
+        },
+        {
+          "text": "イヌ走行音 「逃げ足だったら、俺の方が早いぞ!」",
+          "translation": "Dog running sound: \"If it's a race to run away, I'm faster!\"",
+          "bbox": [0.4713, 0.6477, 0.3486, 0.012]
+        },
+        {
+          "text": "④",
+          "translation": "④",
+          "bbox": [0.4254, 0.6704, 0.0211, 0.0124]
+        },
+        {
+          "text": "キジ攻撃音 「キジミサイル!」",
+          "translation": "Pheasant attack sound: \"Pheasant Missile!\"",
+          "bbox": [0.4725, 0.6717, 0.2091, 0.0115]
+        },
+        {
+          "text": "ドンオニタイジン必殺技音",
+          "translation": "Don Onitaijin finishing-move sound",
+          "bbox": [0.4725, 0.6977, 0.1927, 0.0115]
+        },
+        {
+          "text": "⑤",
+          "translation": "⑤",
+          "bbox": [0.4254, 0.7063, 0.0193, 0.0115]
+        },
+        {
+          "text": "「これでとどめだ。一騎桃千!ドンブラパラダイス!」",
+          "translation": "\"This is the finishing blow. Ikki-Tousen! Donbra Paradise!\"",
+          "bbox": [0.4725, 0.7161, 0.3583, 0.0124]
+        },
+        {
+          "text": "キングオージャーギア音声表",
+          "translation": "King-Oger Gear Voice Chart",
+          "bbox": [0.0906, 0.7435, 0.2979, 0.0158]
+        },
+        {
+          "text": "音声",
+          "translation": "Sound",
+          "bbox": [0.223, 0.7747, 0.0393, 0.0141]
+        },
+        {
+          "text": "ゴッドクワガタ攻撃音",
+          "translation": "God Kuwagata attack sound",
+          "bbox": [0.0979, 0.8012, 0.1565, 0.0124]
+        },
+        {
+          "text": "16",
+          "translation": "16",
+          "bbox": [0.4846, 0.9696, 0.0338, 0.0145]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-16.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0369, 0.0338, 0.1651, 0.0162]
+        },
+        {
+          "text": "ドンブラザー",
+          "translation": "DonBrothers",
+          "bbox": [0.3162, 0.0299, 0.0653, 0.0175]
+        },
+        {
+          "text": "© テレビ朝日・東映AG・東映",
+          "translation": "© TV Asahi · Toei AG · Toei",
+          "bbox": [0.283, 0.0646, 0.1385, 0.0068]
+        },
+        {
+          "text": "矢印一覧 ■■■■■■ 取り付けます。 |",
+          "translation": "Arrow legend ■■■■■■ Attach.",
+          "bbox": [0.084, 0.1112, 0.3495, 0.0209]
+        },
+        {
+          "text": "取り外します。",
+          "translation": "Remove.",
+          "bbox": [0.5405, 0.1137, 0.1252, 0.0184]
+        },
+        {
+          "text": "可動させます。",
+          "translation": "Make movable.",
+          "bbox": [0.7866, 0.1167, 0.1288, 0.0124]
+        },
+        {
+          "text": "ギア読み込み後フロー",
+          "translation": "Post-Gear-Read Flow",
+          "bbox": [0.1451, 0.177, 0.3132, 0.0218]
+        },
+        {
+          "text": "超必殺技遊び",
+          "translation": "Super Finisher Play",
+          "bbox": [0.1112, 0.248, 0.162, 0.0184]
+        },
+        {
+          "text": "※ドンモモタロウギアを読み込んだ状態を",
+          "translation": "*The example shows the state after reading the Don Momotaro Gear.",
+          "bbox": [0.0967, 0.3023, 0.373, 0.0141]
+        },
+        {
+          "text": "例に説明します。",
+          "translation": "Explained using this as an example.",
+          "bbox": [0.1149, 0.3219, 0.1463, 0.0133]
+        },
+        {
+          "text": "※ドンブラザーズモード状態を例に説明します。",
+          "translation": "*The explanation uses DonBrothers Mode as an example.",
+          "bbox": [0.0973, 0.3403, 0.4051, 0.0145]
+        },
+        {
+          "text": "①天面スイッチを押して、すぐ離します。\n→セリフ「パーリィータイム!」と、\n最後に読み込んだアバタロウギアの\n名前を読み上げます。",
+          "translation": "① Press the top switch and immediately release it.\n→ The line \"Party Time!\" will play, and then the name of the Avataro Gear most recently read will be announced.",
+          "bbox": [0.0985, 0.3882, 0.3416, 0.0705]
+        },
+        {
+          "text": "ヘイ!かもおん!」",
+          "translation": "\"Hey! Come on!\"",
+          "bbox": [0.5417, 0.4515, 0.1258, 0.0137]
+        },
+        {
+          "text": "②ギアディスクを矢印の方向に回します。",
+          "translation": "② Turn the Gear Disc in the direction of the arrow.",
+          "bbox": [0.0985, 0.4639, 0.3555, 0.0141]
+        },
+        {
+          "text": "→超必殺技待機音が約30秒流れます。",
+          "translation": "→ A Super Finisher standby tone will play for about 30 seconds.",
+          "bbox": [0.0998, 0.4835, 0.3416, 0.0128]
+        },
+        {
+          "text": "パーリィーターイム!\nドンモモタロウ!",
+          "translation": "Party Time!\nDon Momotaro!",
+          "bbox": [0.7304, 0.2334, 0.1608, 0.0308]
+        },
+        {
+          "text": "③超必殺技待機音が鳴っている間に\nギアディスクを回すと、\nスクラッチ音が鳴ります。\n手を離すとセリフ 「ヘイ!かもぉん!」、\n「狂瀾怒桃! ブラストパーティー」が鳴ります。\nテンポアップ待機音が約30秒流れます。\n④ 「テンポアップ待機音」が\n流れている間にトリガーを引きます。\n→セリフ「いよぉぉ! どんぶらこぉ!」、と\n超必殺技音が鳴ります。",
+          "translation": "③ While the Super Finisher standby tone is playing, rotate the Gear Disc — a scratch sound will play. Release your hand to hear the lines \"Hey! Come on!\" and \"Raging Torrent! Blast Party.\" A tempo-up standby tone will then play for about 30 seconds.\n④ While the tempo-up standby tone is playing, pull the trigger.\n→ The line \"Iyo! Donburako!\" will play, followed by the Super Finisher sound.",
+          "bbox": [0.0979, 0.5019, 0.399, 0.186]
+        },
+        {
+          "text": "狂瀾怒桃! ブラストパーティー",
+          "translation": "Raging Torrent! Blast Party",
+          "bbox": [0.5435, 0.6687, 0.2285, 0.0158]
+        },
+        {
+          "text": "17",
+          "translation": "17",
+          "bbox": [0.4843, 0.9705, 0.0333, 0.0128]
+        },
+        {
+          "text": "いよぉぉ! どんぶらこぉ!",
+          "translation": "Iyo! Donburako!",
+          "bbox": [0.5768, 0.864, 0.1832, 0.0137]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-17.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0369, 0.0342, 0.1651, 0.0162]
+        },
+        {
+          "text": "ウブラザー",
+          "translation": "U-Brother",
+          "bbox": [0.3253, 0.0316, 0.058, 0.0154]
+        },
+        {
+          "text": "© テレビ朝日・東映AG・東映",
+          "translation": "© TV Asahi · Toei AG · Toei",
+          "bbox": [0.283, 0.0646, 0.1385, 0.0068]
+        },
+        {
+          "text": "矢印一覧 ■■■■■ 取り付けます。 |",
+          "translation": "Arrow legend  ■■■■■  Attach.",
+          "bbox": [0.084, 0.112, 0.3489, 0.0197]
+        },
+        {
+          "text": "取り外します。",
+          "translation": "Detach.",
+          "bbox": [0.5411, 0.1137, 0.1245, 0.0184]
+        },
+        {
+          "text": "可動させます。",
+          "translation": "Make movable.",
+          "bbox": [0.7872, 0.1167, 0.1288, 0.0124]
+        },
+        {
+          "text": "ギア読み込み後フロー",
+          "translation": "Flow After Gear Reading",
+          "bbox": [0.1451, 0.177, 0.3132, 0.0218]
+        },
+        {
+          "text": "ギアの取り外し方",
+          "translation": "How to Remove the Gear",
+          "bbox": [0.1632, 0.2467, 0.208, 0.0201]
+        },
+        {
+          "text": "※ドンモモタロウギアを例に説明します。",
+          "translation": "Note: The Don Momotarō Gear is used as an example.",
+          "bbox": [0.5012, 0.2574, 0.3591, 0.0141]
+        },
+        {
+          "text": "①本体後部のレバーを引きます。\n着脱音が鳴り、ロックが外れ、\nギア読み込み前状態になります。\n②ロックが外れたら、\nギアを取り外します。\n※ギアセット部分を上に向けて、\n取り外してください。",
+          "translation": "① Pull the lever on the rear of the main unit.\n→ You will hear the attachment/detachment sound, the lock will release, and the unit will return to the pre-gear-reading state.\n② When the lock has released, remove the gear.\n※ When removing, orient the gear set portion upward.",
+          "bbox": [0.0985, 0.3078, 0.3083, 0.1291]
+        },
+        {
+          "text": "18",
+          "translation": "18",
+          "bbox": [0.4843, 0.9692, 0.0339, 0.0145]
+        },
+        {
+          "text": "②",
+          "translation": "②",
+          "bbox": [0.6892, 0.3728, 0.0218, 0.012]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-18.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "Online Instruction Manual",
+          "bbox": [0.0369, 0.0342, 0.1656, 0.0158]
+        },
+        {
+          "text": "ブラザー",
+          "translation": "Brother",
+          "bbox": [0.3341, 0.0316, 0.0465, 0.015]
+        },
+        {
+          "text": "© テレビ朝日・東映AG・東映",
+          "translation": "© TV Asahi, Toei AG, Toei",
+          "bbox": [0.2828, 0.0646, 0.1384, 0.0073]
+        },
+        {
+          "text": "音声一覧表",
+          "translation": "Audio List",
+          "bbox": [0.0955, 0.1201, 0.1589, 0.0218]
+        },
+        {
+          "text": "セリフボタンを短押しするたびに表の順に音声が鳴ります。\n※最後の音声の後にセリフボタンを短押しすると、1に戻ります。",
+          "translation": "Each time you press the dialogue button briefly, the audio plays in the order shown in the table.\n*If you press the dialogue button briefly after the final audio, it returns to 1.",
+          "bbox": [0.3202, 0.1159, 0.5656, 0.0329]
+        },
+        {
+          "text": "ドンブラザーズモード",
+          "translation": "Donbrothers Mode",
+          "bbox": [0.1215, 0.1975, 0.2526, 0.0184]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.0967, 0.2548, 0.0405, 0.0133]
+        },
+        {
+          "text": "音声",
+          "translation": "Audio",
+          "bbox": [0.3069, 0.254, 0.0399, 0.0141]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.5166, 0.2544, 0.0417, 0.0137]
+        },
+        {
+          "text": "音声",
+          "translation": "Audio",
+          "bbox": [0.716, 0.254, 0.0393, 0.0141]
+        },
+        {
+          "text": "①\n② 浮世におさらば、サルブラザー!",
+          "translation": "①\n② Farewell to the mortal world, Saru Brother!",
+          "bbox": [0.1082, 0.2822, 0.2713, 0.0351]
+        },
+        {
+          "text": "聞けぇー! モモから生まれた!ドンモモタロウ!",
+          "translation": "Listen! Born from a peach! Don Momotaro!",
+          "bbox": [0.1517, 0.2817, 0.3251, 0.0111]
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.5335, 0.2941, 0.0091, 0.0086]
+        },
+        {
+          "text": "はーはっはっは!あー、あー、暴太郎戦隊!\nドンブラザーズ!",
+          "translation": "Ha-ha-ha! Ah... ah... Avataro Sentai!\nDonbrothers!",
+          "bbox": [0.5716, 0.2835, 0.2749, 0.0308]
+        },
+        {
+          "text": "3 漫画のマスター!オニシスター!",
+          "translation": "3 Manga Master! Oni Sister!",
+          "bbox": [0.1112, 0.3292, 0.2659, 0.0115]
+        },
+        {
+          "text": "⑦ドンオニタイジン合体音声",
+          "translation": "⑦ Don Onitaijin combination voice",
+          "bbox": [0.5263, 0.3283, 0.2272, 0.0124]
+        },
+        {
+          "text": "4 逃げ足ナンバーワン! イヌブラザー!",
+          "translation": "4 Number-one at running away! Inu Brother!",
+          "bbox": [0.1124, 0.3519, 0.2961, 0.0124]
+        },
+        {
+          "text": "8",
+          "translation": "8",
+          "bbox": [0.5305, 0.3647, 0.0139, 0.0094]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.1124, 0.3767, 0.0103, 0.009]
+        },
+        {
+          "text": "トリは堅実!キジブラザー!",
+          "translation": "The bird's reliable! Kiji Brother!",
+          "bbox": [0.1523, 0.3767, 0.1873, 0.0111]
+        },
+        {
+          "text": "これでとどめだ。一騎桃千!\nドンブラパラダイス!",
+          "translation": "This is the finishing blow. Peerless Peach-Thousand!\nDonbra Paradise!",
+          "bbox": [0.5716, 0.3553, 0.1837, 0.0304]
+        },
+        {
+          "text": "ドンモモタロウモード",
+          "translation": "Don Momotaro Mode",
+          "bbox": [0.1208, 0.4485, 0.2538, 0.0175]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.0967, 0.5045, 0.0405, 0.0137]
+        },
+        {
+          "text": "音声",
+          "translation": "Audio",
+          "bbox": [0.2924, 0.5049, 0.0393, 0.0128]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.4773, 0.5049, 0.0411, 0.0128]
+        },
+        {
+          "text": "音声",
+          "translation": "Audio",
+          "bbox": [0.6731, 0.5041, 0.0405, 0.0141]
+        },
+        {
+          "text": "① これで俺とあんたは縁が出来たな。\nハーハッハッハッハッハッハ!やぁやぁやぁ!\n祭りだ!祭りだ!踊れ!歌え!",
+          "translation": "① A bond has formed between you and me.\nHa-ha-ha-ha-ha-ha! Hey, hey, hey!\nIt's a festival! It's a festival! Dance! Sing!",
+          "bbox": [0.1082, 0.5319, 0.3335, 0.0594]
+        },
+        {
+          "text": "8",
+          "translation": "8",
+          "bbox": [0.4912, 0.5319, 0.0157, 0.0107]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.49, 0.5545, 0.0187, 0.012]
+        },
+        {
+          "text": "ハッハッハッハッハッハッハッ!いざ尋常に･･･勝負勝負!\n褒めれば、伸びるのか・・・あんたたちは･･･さ・・・(心肺停止)",
+          "translation": "Hahahahaha! Now then, in all fairness... battle, battle!\nIf praised, do they grow... you lot are... (cardiac arrest)",
+          "bbox": [0.5335, 0.5323, 0.3613, 0.0351]
+        },
+        {
+          "text": "10",
+          "translation": "10",
+          "bbox": [0.4906, 0.5785, 0.0175, 0.0103]
+        },
+        {
+          "text": "いいだろう、俺が教えてやる!",
+          "translation": "Alright, I'll teach you!",
+          "bbox": [0.5347, 0.5797, 0.2, 0.0111]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.11, 0.6268, 0.0151, 0.0103]
+        },
+        {
+          "text": "袖振り合うも他生の縁。 躓く石も縁の端くれ。\nともに踊れば繋がる縁。",
+          "translation": "Even a brushing of sleeves is a bond from another life. Even a stumbling stone is a fragment of fate.\nDance together, and those bonds connect.",
+          "bbox": [0.1505, 0.6028, 0.3082, 0.0355]
+        },
+        {
+          "text": "17",
+          "translation": "17",
+          "bbox": [0.4894, 0.6011, 0.0181, 0.0133]
+        },
+        {
+          "text": "えええええええい!よいしょー――っ!さあ、楽しもうか。",
+          "translation": "Eeeeeeh! Heave-ho—! Now, shall we have some fun?",
+          "bbox": [0.5341, 0.6032, 0.368, 0.0111]
+        },
+        {
+          "text": "はーっはっはっはっは。 俺の足を引っ張るなよ!",
+          "translation": "Hahahaha. Don't hold me back!",
+          "bbox": [0.5353, 0.6272, 0.3172, 0.0107]
+        },
+        {
+          "text": "12",
+          "translation": "12",
+          "bbox": [0.4906, 0.6392, 0.0163, 0.009]
+        },
+        {
+          "text": "この世は楽園!悩みなんざ吹っ飛ばせ!",
+          "translation": "This world is paradise! Blow your worries away!",
+          "bbox": [0.1511, 0.6503, 0.2622, 0.012]
+        },
+        {
+          "text": "おばかたち!!",
+          "translation": "You goofballs!",
+          "bbox": [0.5347, 0.6503, 0.09, 0.0115]
+        },
+        {
+          "text": "笑え!笑え!はーっはっはっはっはっはっは!",
+          "translation": "Laugh! Laugh! Hahahahahaha!",
+          "bbox": [0.1511, 0.6746, 0.287, 0.0107]
+        },
+        {
+          "text": "13",
+          "translation": "13",
+          "bbox": [0.49, 0.6742, 0.0169, 0.0094]
+        },
+        {
+          "text": "待たせたな、お供達。",
+          "translation": "Sorry to keep you waiting, my companions.",
+          "bbox": [0.5335, 0.6738, 0.1432, 0.0124]
+        },
+        {
+          "text": "ハッ!さあ楽しもうぜ! あ、勝負勝負!!",
+          "translation": "Ha! Let's have some fun! Oh—battle, battle!",
+          "bbox": [0.1511, 0.6982, 0.2459, 0.012]
+        },
+        {
+          "text": "あきらめるな!俺を見ろ!歩いてこい!",
+          "translation": "Don't give up! Look at me! Come walk over!",
+          "bbox": [0.5347, 0.6982, 0.252, 0.0115]
+        },
+        {
+          "text": "14",
+          "translation": "14",
+          "bbox": [0.4906, 0.7101, 0.0163, 0.0098]
+        },
+        {
+          "text": "③",
+          "translation": "③",
+          "bbox": [0.1094, 0.7221, 0.0193, 0.0098]
+        },
+        {
+          "text": "わーっはっはっはっは、 あ、大勝利!!!",
+          "translation": "Wahahaha! Oh—what a great victory!",
+          "bbox": [0.1517, 0.7221, 0.2447, 0.0115]
+        },
+        {
+          "text": "信じるんだ!お前なら出来る! ただ信じろ!",
+          "translation": "Believe! You can do it! Just believe!",
+          "bbox": [0.5341, 0.7221, 0.2816, 0.0111]
+        },
+        {
+          "text": "ほぉ、面白れぇ、だが、",
+          "translation": "Oh—interesting, but...",
+          "bbox": [0.1523, 0.7456, 0.1438, 0.012]
+        },
+        {
+          "text": "15",
+          "translation": "15",
+          "bbox": [0.4906, 0.7448, 0.0163, 0.0103]
+        },
+        {
+          "text": "ほぉ。面白い!やるじゃないか。",
+          "translation": "Oh. Interesting! Not bad at all.",
+          "bbox": [0.5353, 0.7456, 0.2048, 0.0115]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.113, 0.7589, 0.0085, 0.0073]
+        },
+        {
+          "text": "ダメだダメだダメだダメだダメだダメだ",
+          "translation": "No good, no good, no good, no good, no good, no good",
+          "bbox": [0.1505, 0.7687, 0.2785, 0.0124]
+        },
+        {
+          "text": "16",
+          "translation": "16",
+          "bbox": [0.4912, 0.77, 0.0145, 0.0086]
+        },
+        {
+          "text": "遅れを取るなお供達。",
+          "translation": "Don't fall behind, my companions.",
+          "bbox": [0.5335, 0.7696, 0.1529, 0.0111]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.1112, 0.7931, 0.0127, 0.0098]
+        },
+        {
+          "text": "さぁさぁ、勝負勝負!",
+          "translation": "Come on, come on—battle, battle!",
+          "bbox": [0.1517, 0.7935, 0.1347, 0.0115]
+        },
+        {
+          "text": "17",
+          "translation": "17",
+          "bbox": [0.49, 0.7922, 0.0175, 0.0107]
+        },
+        {
+          "text": "褒めてやる。 よく持ちこたえた。",
+          "translation": "I'll praise you. You held out well.",
+          "bbox": [0.5329, 0.7935, 0.2175, 0.0107]
+        },
+        {
+          "text": "⑥6",
+          "translation": "⑥6",
+          "bbox": [0.1094, 0.817, 0.0151, 0.0098]
+        },
+        {
+          "text": "25点だ!",
+          "translation": "25 points!",
+          "bbox": [0.1511, 0.8179, 0.064, 0.0098]
+        },
+        {
+          "text": "18",
+          "translation": "18",
+          "bbox": [0.4912, 0.817, 0.0145, 0.0094]
+        },
+        {
+          "text": "ガタガタ言うな。命令だ。",
+          "translation": "Don't complain. It's an order.",
+          "bbox": [0.5341, 0.817, 0.1686, 0.0111]
+        },
+        {
+          "text": "7 祭りは楽しんでるか!?",
+          "translation": "7Are you enjoying the festival!?",
+          "bbox": [0.1088, 0.8405, 0.1988, 0.0115]
+        },
+        {
+          "text": "19",
+          "translation": "19",
+          "bbox": [0.4912, 0.8414, 0.0145, 0.009]
+        },
+        {
+          "text": "いくぞ!お供達!",
+          "translation": "Let's go, my companions!",
+          "bbox": [0.5347, 0.841, 0.1039, 0.0111]
+        },
+        {
+          "text": "19",
+          "translation": "19",
+          "bbox": [0.4834, 0.9701, 0.0356, 0.0124]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-19.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0369, 0.0342, 0.1656, 0.0162]
+        },
+        {
+          "text": "音声一覧表",
+          "translation": "Audio List",
+          "bbox": [0.0961, 0.1201, 0.1589, 0.0218]
+        },
+        {
+          "text": "セリフボタンを短押しするたびに表の順に音声が鳴ります。\n※最後の音声の後にセリフボタンを短押しすると、1に戻ります。",
+          "translation": "Each time you press the dialogue button briefly, the audio will play in the order shown in the table.\n※If you press the dialogue button briefly after the last audio clip, playback will return to 1.",
+          "bbox": [0.3202, 0.1159, 0.5662, 0.0329]
+        },
+        {
+          "text": "サルブラザーモード",
+          "translation": "Saru Brother Mode",
+          "bbox": [0.1299, 0.1975, 0.2338, 0.018]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.0973, 0.2552, 0.0387, 0.0128]
+        },
+        {
+          "text": "音声",
+          "translation": "Audio",
+          "bbox": [0.3076, 0.2544, 0.0405, 0.0133]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.5021, 0.2544, 0.0405, 0.0137]
+        },
+        {
+          "text": "音声",
+          "translation": "Audio",
+          "bbox": [0.7021, 0.254, 0.0393, 0.0137]
+        },
+        {
+          "text": "私には金がない。 (中略)",
+          "translation": "I have no money. (omitted)",
+          "bbox": [0.1511, 0.2817, 0.1637, 0.0115]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.516, 0.2933, 0.0145, 0.0094]
+        },
+        {
+          "text": "①",
+          "translation": "①",
+          "bbox": [0.1082, 0.3048, 0.0224, 0.0107]
+        },
+        {
+          "text": "そこでだ。コーヒー代の代わりにどうだろう。\n私が俳句を詠むというのは。",
+          "translation": "Here's an idea. Instead of paying for the coffee, how about this: I compose a haiku.",
+          "bbox": [0.1511, 0.3053, 0.3045, 0.0355]
+        },
+        {
+          "text": "ここで1句。亡き友がそこに佇む 花筏(はないかだ)\nで、できたー!",
+          "translation": "Here is a haiku. A departed friend stands there — hanaikada (a raft of cherry blossoms).\nThere — done!",
+          "bbox": [0.5565, 0.2805, 0.3408, 0.0359]
+        },
+        {
+          "text": "⑩",
+          "translation": "⑩",
+          "bbox": [0.5142, 0.3283, 0.0121, 0.0124]
+        },
+        {
+          "text": "②",
+          "translation": "②",
+          "bbox": [0.1094, 0.3536, 0.0151, 0.009]
+        },
+        {
+          "text": "春風や亡きあの人とすれ違う。",
+          "translation": "A spring breeze—and I pass by that person who is no longer with us.",
+          "bbox": [0.1511, 0.3527, 0.2211, 0.0115]
+        },
+        {
+          "text": "11",
+          "translation": "11",
+          "bbox": [0.5148, 0.351, 0.0169, 0.0124]
+        },
+        {
+          "text": "私たちに謝ってもいいんじゃないか、桃井太郎。\nここで一句。 カキ氷キンとこめかみ 初デート。",
+          "translation": "Don't you think you owe us an apology, Momoi Taro?\nAnd now, a haiku: Shaved ice—a sharp chill at the temples—our first date.",
+          "bbox": [0.5565, 0.3283, 0.3269, 0.0359]
+        },
+        {
+          "text": "想像力は、時に、現実と同等の力を持つ。",
+          "translation": "Imagination sometimes holds power equal to that of reality.",
+          "bbox": [0.1511, 0.3762, 0.2761, 0.012]
+        },
+        {
+          "text": "12",
+          "translation": "12",
+          "bbox": [0.5154, 0.3767, 0.0151, 0.0094]
+        },
+        {
+          "text": "ここで1句。 夏の夜や古本の端折りし跡。",
+          "translation": "Here is a haiku. Summer night — the dog-eared edge of an old book.",
+          "bbox": [0.5571, 0.3762, 0.2918, 0.012]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.113, 0.3886, 0.0109, 0.0086]
+        },
+        {
+          "text": "という事だ。",
+          "translation": "That's how it is.",
+          "bbox": [0.1517, 0.4002, 0.0816, 0.0115]
+        },
+        {
+          "text": "13 ここで1句。 片恋やプールの中は万華鏡。",
+          "translation": "13 Here is a haiku. Unrequited love — the pool's surface is a kaleidoscope.",
+          "bbox": [0.5148, 0.3997, 0.3366, 0.012]
+        },
+        {
+          "text": "④",
+          "translation": "④",
+          "bbox": [0.1076, 0.4245, 0.0175, 0.0098]
+        },
+        {
+          "text": "ここで1句。 もう春かまだ春こぬか それが春。",
+          "translation": "Here is a haiku. Is it already spring, or has spring not yet come? That is spring.",
+          "bbox": [0.1517, 0.4241, 0.3221, 0.0115]
+        },
+        {
+          "text": "(14",
+          "translation": "(14",
+          "bbox": [0.5136, 0.425, 0.0151, 0.0077]
+        },
+        {
+          "text": "太郎なしでは戦いにくい!",
+          "translation": "It's hard to fight without Taro!",
+          "bbox": [0.5565, 0.4241, 0.1764, 0.0111]
+        },
+        {
+          "text": "これは私の推理だが、彼は我々を",
+          "translation": "This is my deduction, but he... us...",
+          "bbox": [0.1517, 0.4476, 0.2278, 0.0115]
+        },
+        {
+          "text": "15",
+          "translation": "15",
+          "bbox": [0.5166, 0.4485, 0.0109, 0.0077]
+        },
+        {
+          "text": "もっとわびを、もっとさびを!",
+          "translation": "More wabi, more sabi!",
+          "bbox": [0.5565, 0.4481, 0.1952, 0.0107]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.1136, 0.4617, 0.0079, 0.0068]
+        },
+        {
+          "text": "鍛えようとしているのかもしれない。",
+          "translation": "They might be trying to build up their strength.",
+          "bbox": [0.1505, 0.4716, 0.2544, 0.0111]
+        },
+        {
+          "text": "16",
+          "translation": "16",
+          "bbox": [0.5154, 0.4724, 0.0139, 0.0081]
+        },
+        {
+          "text": "ここで1句。 夕月や寄り道の道 整えり。",
+          "translation": "Here is a haiku. Evening moon — the detour's path, neatly arranged.",
+          "bbox": [0.5571, 0.4711, 0.2743, 0.0124]
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.1136, 0.4959, 0.0091, 0.0086]
+        },
+        {
+          "text": "ここで1句。 風船を見送る子供大人びて。",
+          "translation": "Here is a haiku. A child watches a balloon drift away, looking all grown-up.",
+          "bbox": [0.1517, 0.4951, 0.2961, 0.012]
+        },
+        {
+          "text": "①17",
+          "translation": "①17",
+          "bbox": [0.5142, 0.4955, 0.0181, 0.0103]
+        },
+        {
+          "text": "お待ちどうさま。お近づきの印に。",
+          "translation": "Sorry to keep you waiting. A small token to mark our acquaintance.",
+          "bbox": [0.5571, 0.4951, 0.2314, 0.0115]
+        },
+        {
+          "text": "7 本当になんでもありだな",
+          "translation": "7Anything really goes, doesn't it?",
+          "bbox": [0.1094, 0.519, 0.2145, 0.0115]
+        },
+        {
+          "text": "18 深呼吸少し近づく 赤とんぼ。",
+          "translation": "18A deep breath — drawing slightly closer to the red dragonfly.",
+          "bbox": [0.5166, 0.5182, 0.2441, 0.0128]
+        },
+        {
+          "text": "出たな･･･嘘をつこうとすると死ぬ",
+          "translation": "There it is... If you try to tell a lie, you die.",
+          "bbox": [0.1517, 0.543, 0.2314, 0.0111]
+        },
+        {
+          "text": "19",
+          "translation": "19",
+          "bbox": [0.5166, 0.5434, 0.0133, 0.0094]
+        },
+        {
+          "text": "今のは...うつ。",
+          "translation": "That was... depression.",
+          "bbox": [0.5565, 0.5425, 0.0967, 0.012]
+        },
+        {
+          "text": "8",
+          "translation": "8",
+          "bbox": [0.1136, 0.5558, 0.0073, 0.0073]
+        },
+        {
+          "text": "わけわからない体質。",
+          "translation": "A baffling constitution.",
+          "bbox": [0.1511, 0.5665, 0.1486, 0.0115]
+        },
+        {
+          "text": "20",
+          "translation": "20",
+          "bbox": [0.5148, 0.5678, 0.0169, 0.0077]
+        },
+        {
+          "text": "ここで1句。 去る君の足跡みえず雪の夜。",
+          "translation": "Here is a haiku. On a snowy night — your departing footprints cannot be seen.",
+          "bbox": [0.5571, 0.5665, 0.2955, 0.0115]
+        },
+        {
+          "text": "20",
+          "translation": "20",
+          "bbox": [0.4792, 0.9701, 0.0399, 0.0133]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-20.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0375, 0.0342, 0.1656, 0.0167]
+        },
+        {
+          "text": "音声一覧表",
+          "translation": "Audio List",
+          "bbox": [0.0961, 0.1189, 0.1583, 0.0227]
+        },
+        {
+          "text": "セリフボタンを短押しするたびに表の順に音声が鳴ります。\n※最後の音声の後にセリフボタンを短押しすると、1に戻ります。",
+          "translation": "Each time you press the Dialogue button briefly, the voice lines will play in the order shown in the table.\n※If you press the Dialogue button briefly after the final voice line, it returns to 1.",
+          "bbox": [0.3202, 0.1159, 0.5662, 0.0329]
+        },
+        {
+          "text": "オニシスターモード",
+          "translation": "Oni Sister Mode",
+          "bbox": [0.1299, 0.1988, 0.2332, 0.0171]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.0967, 0.2544, 0.0399, 0.0137]
+        },
+        {
+          "text": "音声",
+          "translation": "Audio",
+          "bbox": [0.3076, 0.2544, 0.0399, 0.0141]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.5021, 0.254, 0.0405, 0.0141]
+        },
+        {
+          "text": "音声",
+          "translation": "Audio",
+          "bbox": [0.7021, 0.254, 0.0405, 0.0133]
+        },
+        {
+          "text": "①",
+          "translation": "①",
+          "bbox": [0.1082, 0.2941, 0.0199, 0.0103]
+        },
+        {
+          "text": "私は生まれながらの天才だ。漫画の神様に\n愛されている。 (中略) 身に余る光栄です。",
+          "translation": "I am a born genius. I am loved by the god of manga. (omitted) It is an honor beyond measure.",
+          "bbox": [0.1505, 0.2817, 0.2931, 0.0355]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.5166, 0.2941, 0.0133, 0.0094]
+        },
+        {
+          "text": "おほほほほほ!私はスランプ! スランプ娘~~!\nほほほほほ〜。",
+          "translation": "Ohohohohoho! I'm in a slump! Slump-girl~~!\nHohohohoho~.",
+          "bbox": [0.5577, 0.2805, 0.3118, 0.0363]
+        },
+        {
+          "text": "②",
+          "translation": "②",
+          "bbox": [0.11, 0.342, 0.0175, 0.009]
+        },
+        {
+          "text": "桃井太郎様!あなたに忠誠を誓います!!\nうえあああ!",
+          "translation": "Tarou Momoi-sama! I pledge my loyalty to you!\nWaaaah!",
+          "bbox": [0.1511, 0.3279, 0.2695, 0.0363]
+        },
+        {
+          "text": "10",
+          "translation": "10",
+          "bbox": [0.5148, 0.3283, 0.0169, 0.0111]
+        },
+        {
+          "text": "ソノザ・・・やっぱ襲うんかい!",
+          "translation": "Sonoza... so you're really going to attack, huh!",
+          "bbox": [0.5565, 0.3288, 0.1897, 0.0115]
+        },
+        {
+          "text": "11",
+          "translation": "11",
+          "bbox": [0.5148, 0.3514, 0.0175, 0.012]
+        },
+        {
+          "text": "これは、私のと同じ味!盗作!!",
+          "translation": "This tastes exactly like mine! Plagiarism!",
+          "bbox": [0.5577, 0.3531, 0.1946, 0.0115]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.1118, 0.3767, 0.0139, 0.0098]
+        },
+        {
+          "text": "何々、なんなのおおお。も~やだ。",
+          "translation": "What, what is this? Nooo... I hate it.",
+          "bbox": [0.1511, 0.3771, 0.2278, 0.0107]
+        },
+        {
+          "text": "12",
+          "translation": "12",
+          "bbox": [0.5154, 0.3767, 0.0163, 0.0094]
+        },
+        {
+          "text": "もーこんなことやってる場合じゃないのに!",
+          "translation": "This isn't the time to be doing something like this!",
+          "bbox": [0.5577, 0.3767, 0.2955, 0.0111]
+        },
+        {
+          "text": "え?ええええええええええええ~~~~?",
+          "translation": "Huh? Whaaaaaaaaaaaat?!",
+          "bbox": [0.1511, 0.4006, 0.2834, 0.0107]
+        },
+        {
+          "text": "13",
+          "translation": "13",
+          "bbox": [0.5148, 0.3997, 0.0175, 0.0098]
+        },
+        {
+          "text": "気付いていたかーやっぱり。",
+          "translation": "You noticed, huh—just as I thought.",
+          "bbox": [0.5565, 0.3993, 0.1946, 0.0133]
+        },
+        {
+          "text": "④",
+          "translation": "④",
+          "bbox": [0.1082, 0.4134, 0.0151, 0.0086]
+        },
+        {
+          "text": "なんで~~~~???",
+          "translation": "Whyyyy~~~~?",
+          "bbox": [0.1517, 0.425, 0.142, 0.0098]
+        },
+        {
+          "text": "14",
+          "translation": "14",
+          "bbox": [0.516, 0.425, 0.0127, 0.0077]
+        },
+        {
+          "text": "はい!頑張ります! 編集長!",
+          "translation": "Yes! I'll do my best, Editor-in-Chief!",
+          "bbox": [0.5577, 0.4241, 0.1716, 0.0111]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.1094, 0.4472, 0.0169, 0.0111]
+        },
+        {
+          "text": "なぜ?なぜ?なぜがいっぱー",
+          "translation": "Why? Why? So many whys—",
+          "bbox": [0.1517, 0.4481, 0.194, 0.0103]
+        },
+        {
+          "text": "―い!",
+          "translation": "―い!",
+          "bbox": [0.4363, 0.4498, 0.0266, 0.0081]
+        },
+        {
+          "text": "15",
+          "translation": "15",
+          "bbox": [0.5148, 0.4472, 0.0169, 0.0111]
+        },
+        {
+          "text": "これって一一一面白いのか?",
+          "translation": "Is this—really interesting?",
+          "bbox": [0.5571, 0.4481, 0.1976, 0.0115]
+        },
+        {
+          "text": "嫌すぎる嫌すぎる嫌すぎる嫌すぎる",
+          "translation": "I hate this so much, I hate this so much, I hate this so much, I hate this so much",
+          "bbox": [0.1498, 0.4711, 0.2556, 0.0115]
+        },
+        {
+          "text": "(16",
+          "translation": "(16",
+          "bbox": [0.5136, 0.4724, 0.0151, 0.0081]
+        },
+        {
+          "text": "漫画、おもしろい漫画を描きたい!!",
+          "translation": "I want to draw a manga—a fun/interesting manga!",
+          "bbox": [0.5565, 0.4716, 0.2393, 0.012]
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.1142, 0.4844, 0.0073, 0.0077]
+        },
+        {
+          "text": "嫌すぎる嫌すぎる嫌すぎる嫌すぎる嫌すぎる",
+          "translation": "I hate this so much, I hate this so much, I hate this so much, I hate this so much, I hate this so much",
+          "bbox": [0.1505, 0.4951, 0.3178, 0.0111]
+        },
+        {
+          "text": "17",
+          "translation": "17",
+          "bbox": [0.5142, 0.4938, 0.0193, 0.0124]
+        },
+        {
+          "text": "うぉお!痛い!やっぱり襲うんかい!編集長!",
+          "translation": "Whoa! It hurts! So you really are going to attack me, Editor-in-Chief!",
+          "bbox": [0.5571, 0.4955, 0.2804, 0.0115]
+        },
+        {
+          "text": "7",
+          "translation": "7",
+          "bbox": [0.11, 0.519, 0.0163, 0.0103]
+        },
+        {
+          "text": "やっぱりわたしってば・・・天才?",
+          "translation": "I guess I really am... a genius?",
+          "bbox": [0.1517, 0.5195, 0.2079, 0.0107]
+        },
+        {
+          "text": "18",
+          "translation": "18",
+          "bbox": [0.516, 0.5195, 0.0151, 0.009]
+        },
+        {
+          "text": "ん?あれ?なんだ?こりゃ~!",
+          "translation": "Huh? Wait? What is this?!",
+          "bbox": [0.5571, 0.519, 0.1909, 0.0111]
+        },
+        {
+          "text": "8",
+          "translation": "8",
+          "bbox": [0.1106, 0.543, 0.0157, 0.0098]
+        },
+        {
+          "text": "えー編集者かい!脳人さんっ!!",
+          "translation": "Eh—an editor?! Nouto-san!",
+          "bbox": [0.1511, 0.543, 0.2375, 0.0111]
+        },
+        {
+          "text": "19",
+          "translation": "19",
+          "bbox": [0.5154, 0.543, 0.0163, 0.0094]
+        },
+        {
+          "text": "大ベストセラーか。さすがです。 はるかさん...。",
+          "translation": "A huge bestseller, huh. As expected. Haruka-san...",
+          "bbox": [0.5559, 0.5425, 0.3215, 0.0115]
+        },
+        {
+          "text": "20 って盗作問題はどうすんじゃー!",
+          "translation": "20: So what're you gonna do about the plagiarism problem?!",
+          "bbox": [0.5148, 0.5665, 0.2598, 0.0115]
+        },
+        {
+          "text": "21",
+          "translation": "21",
+          "bbox": [0.4779, 0.9692, 0.0369, 0.015]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-21.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0369, 0.0342, 0.1651, 0.0158]
+        },
+        {
+          "text": "ブラザー",
+          "translation": "Brother",
+          "bbox": [0.3337, 0.0321, 0.0496, 0.015]
+        },
+        {
+          "text": "音声一覧表",
+          "translation": "Audio List",
+          "bbox": [0.0955, 0.1201, 0.1584, 0.0218]
+        },
+        {
+          "text": "セリフボタンを短押しするたびに表の順に音声が鳴ります。\n※最後の音声の後にセリフボタンを短押しすると、1に戻ります。",
+          "translation": "Each time you press the dialogue button briefly, the audio plays in the order shown in the table.\n※If you press the dialogue button briefly after the final audio, it returns to 1.",
+          "bbox": [0.3204, 0.1159, 0.5653, 0.0329]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.0967, 0.2544, 0.0405, 0.0141]
+        },
+        {
+          "text": "イヌブラザーモード",
+          "translation": "Inu Brother Mode",
+          "bbox": [0.1306, 0.1971, 0.2322, 0.0184]
+        },
+        {
+          "text": "音声",
+          "translation": "Audio",
+          "bbox": [0.3071, 0.254, 0.0399, 0.0141]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.5018, 0.2544, 0.0405, 0.0137]
+        },
+        {
+          "text": "音声",
+          "translation": "Audio",
+          "bbox": [0.7019, 0.2544, 0.0399, 0.0133]
+        },
+        {
+          "text": "①首輪も鎖も俺には要らない。ましてや犬小屋など。",
+          "translation": "I don't need a collar or a chain. Much less a doghouse.",
+          "bbox": [0.1076, 0.2805, 0.3797, 0.0124]
+        },
+        {
+          "text": "10 彼女は夏美だ。間違いない。 夏美だ。",
+          "translation": "10 That's Natsumi. No doubt about it. It's Natsumi.",
+          "bbox": [0.5145, 0.2813, 0.2884, 0.012]
+        },
+        {
+          "text": "② 好きでイヌやってんじゃーねーよ。",
+          "translation": "② I'm not acting like a dog because I want to!",
+          "bbox": [0.1088, 0.3044, 0.2787, 0.0128]
+        },
+        {
+          "text": "11",
+          "translation": "11",
+          "bbox": [0.5145, 0.3035, 0.0175, 0.0124]
+        },
+        {
+          "text": "などと、申しており",
+          "translation": "…and so he says.",
+          "bbox": [0.5568, 0.3044, 0.1288, 0.0128]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.1112, 0.3288, 0.0139, 0.0098]
+        },
+        {
+          "text": "俺は無実なのだ!",
+          "translation": "I am innocent!",
+          "bbox": [0.1499, 0.3283, 0.1179, 0.012]
+        },
+        {
+          "text": "12 夏美 !!!",
+          "translation": "12 Natsumi!",
+          "bbox": [0.5151, 0.3288, 0.0907, 0.0115]
+        },
+        {
+          "text": "愛を知りたいならまずは、自分で誰かを",
+          "translation": "If you want to know love, first you must love someone yourself.",
+          "bbox": [0.1505, 0.3523, 0.2733, 0.012]
+        },
+        {
+          "text": "はっきり言う。 みほは夏美だ。",
+          "translation": "I'll say it clearly: Miho is Natsumi.",
+          "bbox": [0.5574, 0.3531, 0.1971, 0.0111]
+        },
+        {
+          "text": "13",
+          "translation": "13",
+          "bbox": [0.5145, 0.3647, 0.0163, 0.0094]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.1088, 0.3767, 0.0151, 0.0098]
+        },
+        {
+          "text": "愛する事だ。俺には大切な人がいるんでな。\nほかの女に興味はない。",
+          "translation": "What you must do is love someone. I have someone important to me.\nI'm not interested in other women.",
+          "bbox": [0.1499, 0.3767, 0.3035, 0.0355]
+        },
+        {
+          "text": "倉持夏美 俺の彼女だ。 ずっと前から。",
+          "translation": "Natsumi Kuramochi. She's my girlfriend. She has been for a long time.",
+          "bbox": [0.5562, 0.3762, 0.2551, 0.012]
+        },
+        {
+          "text": "離せ!俺は無実だ!おまえ!",
+          "translation": "Let go of me! I'm innocent! You...!",
+          "bbox": [0.5562, 0.4002, 0.1747, 0.0115]
+        },
+        {
+          "text": "(14)",
+          "translation": "(14)",
+          "bbox": [0.5133, 0.413, 0.0187, 0.0086]
+        },
+        {
+          "text": "夏美、夏美、何を言ってる、俺だ!俺だよ。",
+          "translation": "Natsumi, Natsumi—what are you saying? It's me! It's me.",
+          "bbox": [0.1505, 0.4237, 0.2733, 0.012]
+        },
+        {
+          "text": "うったな俺を一一一!やめろ!離せ! 雉野――― !",
+          "translation": "You shot me...! Stop it! Let go! Kijino...!",
+          "bbox": [0.5568, 0.4237, 0.3204, 0.0115]
+        },
+        {
+          "text": "15",
+          "translation": "15",
+          "bbox": [0.1094, 0.4369, 0.0103, 0.009]
+        },
+        {
+          "text": "犬塚翼だ。",
+          "translation": "I'm Tsubasa Inuzuka.",
+          "bbox": [0.1505, 0.4472, 0.0719, 0.0124]
+        },
+        {
+          "text": "どんなに離れていようと俺と夏美は一緒だ。",
+          "translation": "No matter how far apart we are, Natsumi and I are together.",
+          "bbox": [0.558, 0.4476, 0.2999, 0.0115]
+        },
+        {
+          "text": "15",
+          "translation": "15",
+          "bbox": [0.5151, 0.4596, 0.0157, 0.0094]
+        },
+        {
+          "text": "俺は約束を守り、1年間あの出来事を",
+          "translation": "I kept my promise and kept that incident to myself for a year.",
+          "bbox": [0.1505, 0.4716, 0.2582, 0.012]
+        },
+        {
+          "text": "片時も離れたことはない。",
+          "translation": "We have never been apart, not even for a moment.",
+          "bbox": [0.5562, 0.4716, 0.1808, 0.0111]
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.1137, 0.4848, 0.0079, 0.0073]
+        },
+        {
+          "text": "誰にも話さなかった。",
+          "translation": "I didn't tell anyone.",
+          "bbox": [0.1505, 0.4959, 0.1475, 0.0103]
+        },
+        {
+          "text": "16",
+          "translation": "16",
+          "bbox": [0.5163, 0.4951, 0.0145, 0.0103]
+        },
+        {
+          "text": "おいソノニ! 死ぬな!ソノニ!おい!",
+          "translation": "Hey, Sononi! Don't die! Sononi! Hey!",
+          "bbox": [0.5574, 0.4955, 0.2261, 0.0107]
+        },
+        {
+          "text": "記憶喪失･･･?それとも夏美そっくりの",
+          "translation": "Amnesia...? Or someone who looks exactly like Natsumi...",
+          "bbox": [0.1505, 0.519, 0.2594, 0.0115]
+        },
+        {
+          "text": "17",
+          "translation": "17",
+          "bbox": [0.5157, 0.5203, 0.0151, 0.0081]
+        },
+        {
+          "text": "よせ・・・話すな、来るな、俺を見るな。",
+          "translation": "Stop... don't speak, don't come any closer, don't look at me.",
+          "bbox": [0.5574, 0.519, 0.2455, 0.0115]
+        },
+        {
+          "text": "7",
+          "translation": "7",
+          "bbox": [0.1082, 0.531, 0.0169, 0.0098]
+        },
+        {
+          "text": "別人だったのか･･･?",
+          "translation": "Was it someone else...?",
+          "bbox": [0.1505, 0.543, 0.1354, 0.0111]
+        },
+        {
+          "text": "18",
+          "translation": "18",
+          "bbox": [0.5157, 0.543, 0.0145, 0.0098]
+        },
+        {
+          "text": "・・・獣人は夏美の夢を演じていた、そういう事か?",
+          "translation": "...So, the beastman was acting out Natsumi's dream—is that it?",
+          "bbox": [0.5574, 0.5425, 0.3289, 0.012]
+        },
+        {
+          "text": "愛について語るつもりはない。",
+          "translation": "I have no intention of talking about love.",
+          "bbox": [0.1505, 0.5669, 0.2134, 0.0103]
+        },
+        {
+          "text": "夏美、 (中略) 言いたいことはわかってる。",
+          "translation": "Natsumi... I know what you want to say.",
+          "bbox": [0.5562, 0.5669, 0.2787, 0.0115]
+        },
+        {
+          "text": "19",
+          "translation": "19",
+          "bbox": [0.5163, 0.5789, 0.0139, 0.009]
+        },
+        {
+          "text": "8",
+          "translation": "8",
+          "bbox": [0.1131, 0.5913, 0.0079, 0.0077]
+        },
+        {
+          "text": "恥ずかしいからな。だが、一言だけ言うなら、",
+          "translation": "It's embarrassing, you see. But if I were to say just one thing...",
+          "bbox": [0.1505, 0.5904, 0.3035, 0.0115]
+        },
+        {
+          "text": "お前の事ならなんだってわかる。",
+          "translation": "I know everything about you.",
+          "bbox": [0.5574, 0.5904, 0.2267, 0.0111]
+        },
+        {
+          "text": "愛は光だ。光が無ければ人は一歩も歩けない。",
+          "translation": "Love is light. Without light, one cannot take a single step.",
+          "bbox": [0.1505, 0.6139, 0.3186, 0.0115]
+        },
+        {
+          "text": "俺は戦う。誰かを愛している者のために…",
+          "translation": "I will fight. For the sake of those who love someone...",
+          "bbox": [0.5562, 0.6139, 0.2817, 0.012]
+        },
+        {
+          "text": "20",
+          "translation": "20",
+          "bbox": [0.5145, 0.6263, 0.0157, 0.0081]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.1088, 0.6375, 0.0181, 0.0111]
+        },
+        {
+          "text": "夏美に･･･ 会いたい。",
+          "translation": "I want to see Natsumi...",
+          "bbox": [0.1505, 0.6379, 0.1348, 0.0111]
+        },
+        {
+          "text": "誰かに愛されている者のために。",
+          "translation": "For those who are loved by someone.",
+          "bbox": [0.5568, 0.6379, 0.2285, 0.0111]
+        },
+        {
+          "text": "22",
+          "translation": "22",
+          "bbox": [0.4794, 0.9696, 0.0387, 0.0133]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-22.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0369, 0.0342, 0.165, 0.0158]
+        },
+        {
+          "text": "音声一覧表",
+          "translation": "Audio List",
+          "bbox": [0.0961, 0.1193, 0.1577, 0.0222]
+        },
+        {
+          "text": "セリフボタンを短押しするたびに表の順に音声が鳴ります。\n※最後の音声の後にセリフボタンを短押しすると、1に戻ります。",
+          "translation": "Each time you press the Dialogue Button briefly, the audio plays in the order shown in the table.\n※If you press the Dialogue Button briefly after the final audio, it returns to ①.",
+          "bbox": [0.3202, 0.1159, 0.5656, 0.0329]
+        },
+        {
+          "text": "キジブラザーモード",
+          "translation": "Kiji Brother Mode",
+          "bbox": [0.1305, 0.1975, 0.2326, 0.018]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.0967, 0.2548, 0.0399, 0.0133]
+        },
+        {
+          "text": "音声",
+          "translation": "Audio",
+          "bbox": [0.3069, 0.254, 0.0399, 0.0141]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.5027, 0.2552, 0.0387, 0.012]
+        },
+        {
+          "text": "音声",
+          "translation": "Audio",
+          "bbox": [0.7021, 0.254, 0.0399, 0.0137]
+        },
+        {
+          "text": "① 僕はごくごく平凡な男だ。",
+          "translation": "① I am a very ordinary man.",
+          "bbox": [0.1076, 0.28, 0.2181, 0.0128]
+        },
+        {
+          "text": "12 うわあああん、よかったよぉおみほちゃーん。",
+          "translation": "12 Waaaah — I'm so relieved, Miho-chan!",
+          "bbox": [0.5142, 0.2817, 0.3474, 0.0111]
+        },
+        {
+          "text": "②",
+          "translation": "②",
+          "bbox": [0.1082, 0.3057, 0.0175, 0.0094]
+        },
+        {
+          "text": "みほちゃん! みほちゃん・・・",
+          "translation": "Miho-chan! Miho-chan...",
+          "bbox": [0.1517, 0.3057, 0.1758, 0.0107]
+        },
+        {
+          "text": "みほちゃんは絶対に渡さない!",
+          "translation": "I will absolutely not hand Miho-chan over!",
+          "bbox": [0.5571, 0.3053, 0.2079, 0.0115]
+        },
+        {
+          "text": "(13",
+          "translation": "(13",
+          "bbox": [0.513, 0.3181, 0.0163, 0.0086]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.1106, 0.3292, 0.0151, 0.0098]
+        },
+        {
+          "text": "あいつが･･･あんたが、 みほちゃんを!!!",
+          "translation": "That guy... you... you did that to Miho-chan!",
+          "bbox": [0.1517, 0.3292, 0.261, 0.0111]
+        },
+        {
+          "text": "たとえ命にかえても!",
+          "translation": "Even at the cost of my life!",
+          "bbox": [0.5571, 0.3292, 0.1444, 0.0111]
+        },
+        {
+          "text": "みほちゃんは僕が守る。絶対に。",
+          "translation": "I will protect Miho-chan. Absolutely.",
+          "bbox": [0.1517, 0.3527, 0.2187, 0.0111]
+        },
+        {
+          "text": "14",
+          "translation": "14",
+          "bbox": [0.516, 0.354, 0.0151, 0.0086]
+        },
+        {
+          "text": "みほちゃん・・・",
+          "translation": "Miho-chan...",
+          "bbox": [0.5571, 0.3527, 0.0918, 0.0115]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.11, 0.3651, 0.0157, 0.0094]
+        },
+        {
+          "text": "たとえ相手が誰でも。何をしても・・・",
+          "translation": "No matter who the opponent is, no matter what they do...",
+          "bbox": [0.1511, 0.3767, 0.2441, 0.0111]
+        },
+        {
+          "text": "15",
+          "translation": "15",
+          "bbox": [0.5148, 0.3767, 0.0163, 0.0098]
+        },
+        {
+          "text": "一体みほちゃんになにをしたんですか!",
+          "translation": "What on earth did you do to Miho-chan!?",
+          "bbox": [0.5565, 0.3767, 0.2695, 0.0111]
+        },
+        {
+          "text": "⑤ はい。は?病院?え! みほちゃんが!?\nみほちゃん…許せない。",
+          "translation": "⑤ Hello? Huh? A hospital? What!? Miho-chan!?\nMiho-chan... I can't forgive this.",
+          "bbox": [0.1076, 0.3997, 0.2834, 0.0359]
+        },
+        {
+          "text": "返してくださいみほちゃんを今すぐ!",
+          "translation": "Please return Miho-chan immediately!",
+          "bbox": [0.5559, 0.4002, 0.2526, 0.0115]
+        },
+        {
+          "text": "16",
+          "translation": "16",
+          "bbox": [0.516, 0.4121, 0.0139, 0.0098]
+        },
+        {
+          "text": "みほちゃんは僕の命なんだ!",
+          "translation": "Miho-chan is my life!",
+          "bbox": [0.5571, 0.4245, 0.1927, 0.0111]
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.1136, 0.4374, 0.0066, 0.0073]
+        },
+        {
+          "text": "なんでみほちゃんがこんなめに･･･",
+          "translation": "Why did this have to happen to Miho-chan...?",
+          "bbox": [0.1511, 0.4476, 0.2332, 0.0115]
+        },
+        {
+          "text": "みほちゃんは、 戻る戻る戻る戻る･･･",
+          "translation": "Miho-chan keeps going back, back, back, back...",
+          "bbox": [0.5571, 0.4481, 0.2447, 0.0107]
+        },
+        {
+          "text": "17",
+          "translation": "17",
+          "bbox": [0.5142, 0.4596, 0.0187, 0.0107]
+        },
+        {
+          "text": "7 ゆるせない・・・ゆるせない・・・ ぜったいにいいい!",
+          "translation": "7 I can't forgive this... I can't forgive this... Absolutely not!",
+          "bbox": [0.1088, 0.4711, 0.3637, 0.012]
+        },
+        {
+          "text": "ごめんなさい! ほんとにごめんなさい!",
+          "translation": "I'm sorry! I'm truly sorry!",
+          "bbox": [0.1511, 0.4955, 0.3082, 0.0111]
+        },
+        {
+          "text": "18",
+          "translation": "18",
+          "bbox": [0.516, 0.4951, 0.0145, 0.0098]
+        },
+        {
+          "text": "みほちゃんみほちゃんみほちゃんみほちゃん•••\n犬塚翼・・・",
+          "translation": "Miho-chan, Miho-chan, Miho-chan, Miho-chan...\nInuzuka Tsubasa...",
+          "bbox": [0.5565, 0.4707, 0.3233, 0.0355]
+        },
+        {
+          "text": "8",
+          "translation": "8",
+          "bbox": [0.1136, 0.5083, 0.0073, 0.0073]
+        },
+        {
+          "text": "まさか僕がヒトツ鬼になるなんて…..",
+          "translation": "To think that I would become a Hitotsu-ki...",
+          "bbox": [0.1517, 0.5195, 0.2477, 0.0111]
+        },
+        {
+          "text": "19",
+          "translation": "19",
+          "bbox": [0.5148, 0.5199, 0.0157, 0.0086]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.1088, 0.5425, 0.0169, 0.0107]
+        },
+        {
+          "text": "くぅ~優しいなぁみほちゃん。",
+          "translation": "Aww — how kind, Miho-chan.",
+          "bbox": [0.1517, 0.543, 0.2, 0.012]
+        },
+        {
+          "text": "雑野みほ･･･なんで獣人のリストに",
+          "translation": "Zanno Miho... why is she on the beast-people list?",
+          "bbox": [0.1505, 0.5669, 0.2332, 0.0111]
+        },
+        {
+          "text": "20",
+          "translation": "20",
+          "bbox": [0.5148, 0.5673, 0.0169, 0.0081]
+        },
+        {
+          "text": "僕の愛は、永遠にみほちゃんのものだから!\nこれからも人々を守るために生きようって。\nそれが自分を救う事になるような気がして。",
+          "translation": "My love belongs to Miho-chan forever!\nI decided to keep living to protect people.\nI felt like that would also save me.",
+          "bbox": [0.5565, 0.519, 0.3015, 0.059]
+        },
+        {
+          "text": "10",
+          "translation": "10",
+          "bbox": [0.11, 0.5785, 0.0151, 0.0094]
+        },
+        {
+          "text": "みほちゃんの名前が。",
+          "translation": "Miho-chan's name...",
+          "bbox": [0.1517, 0.5904, 0.1474, 0.0111]
+        },
+        {
+          "text": "構いませんよね、自分のために戦っても・・・・・・",
+          "translation": "It's all right, isn't it... to fight for my own sake...",
+          "bbox": [0.5559, 0.59, 0.3063, 0.012]
+        },
+        {
+          "text": "みほちゃん! みほちゃん!",
+          "translation": "Miho-chan! Miho-chan!",
+          "bbox": [0.1511, 0.6144, 0.1644, 0.0107]
+        },
+        {
+          "text": "11",
+          "translation": "11",
+          "bbox": [0.1106, 0.6259, 0.0139, 0.0094]
+        },
+        {
+          "text": "ねぇしっかりして、みほちゃん!",
+          "translation": "Hey, pull yourself together, Miho-chan!",
+          "bbox": [0.1511, 0.6379, 0.2079, 0.0115]
+        },
+        {
+          "text": "23",
+          "translation": "23",
+          "bbox": [0.4804, 0.9696, 0.0399, 0.0141]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-23.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0369, 0.0342, 0.165, 0.0158]
+        },
+        {
+          "text": "音声一覧表",
+          "translation": "Audio List",
+          "bbox": [0.0955, 0.1197, 0.1583, 0.0218]
+        },
+        {
+          "text": "セリフボタンを短押しするたびに表の順に音声が鳴ります。\n※最後の音声の後にセリフボタンを短押しすると、1に戻ります。",
+          "translation": "Each time you briefly press the dialogue button, the audio will play in the order shown in the table.\n*If you briefly press the dialogue button after the last audio, it returns to ①.",
+          "bbox": [0.3184, 0.1159, 0.5668, 0.0325]
+        },
+        {
+          "text": "最終名乗りモード",
+          "translation": "Final Name-Announcement Mode",
+          "bbox": [0.1426, 0.1975, 0.2079, 0.0188]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.0967, 0.2552, 0.0393, 0.012]
+        },
+        {
+          "text": "音声",
+          "translation": "Audio",
+          "bbox": [0.3076, 0.254, 0.0381, 0.0137]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.5021, 0.2544, 0.0399, 0.0137]
+        },
+        {
+          "text": "音声",
+          "translation": "Audio",
+          "bbox": [0.7021, 0.254, 0.0399, 0.0133]
+        },
+        {
+          "text": "①",
+          "translation": "①",
+          "bbox": [0.1076, 0.2941, 0.0199, 0.0098]
+        },
+        {
+          "text": "ハーッハッハッハッハッハッハッ!\nこの声は!",
+          "translation": "Hahahahahaha!\nThis voice!",
+          "bbox": [0.1505, 0.2817, 0.226, 0.0342]
+        },
+        {
+          "text": "7",
+          "translation": "7",
+          "bbox": [0.5142, 0.2809, 0.0181, 0.0115]
+        },
+        {
+          "text": "思い込んだら一直線 ソノザ!",
+          "translation": "Once he sets his mind on something, he goes straight ahead — Sonoza!",
+          "bbox": [0.5559, 0.2805, 0.2097, 0.0124]
+        },
+        {
+          "text": "8",
+          "translation": "8",
+          "bbox": [0.5154, 0.3048, 0.0157, 0.0107]
+        },
+        {
+          "text": "ハーッハッハッハッハッハッハッ!",
+          "translation": "Hahahahahaha!",
+          "bbox": [0.1511, 0.3301, 0.2248, 0.0115]
+        },
+        {
+          "text": "ジョーズに目覚めた ドンムラサメ!\n筋骨隆々ドンドラゴクウ!",
+          "translation": "Don Murasame, awakened to Jaws!\nMuscular Don Doragoku!",
+          "bbox": [0.5565, 0.3048, 0.2489, 0.0359]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.516, 0.3412, 0.0139, 0.0094]
+        },
+        {
+          "text": "タロウ!",
+          "translation": "Taro!",
+          "bbox": [0.1511, 0.3531, 0.0508, 0.0107]
+        },
+        {
+          "text": "ドントラボルト!",
+          "translation": "Don Torabolt!",
+          "bbox": [0.5577, 0.3527, 0.1051, 0.0115]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.1124, 0.366, 0.0097, 0.0068]
+        },
+        {
+          "text": "お前は!",
+          "translation": "You...!",
+          "bbox": [0.1523, 0.3767, 0.0526, 0.0111]
+        },
+        {
+          "text": "10 浮世におさらば、サルブラザー!",
+          "translation": "10 Farewell to this world, Saru Brother!",
+          "bbox": [0.5154, 0.3758, 0.258, 0.0128]
+        },
+        {
+          "text": "桃井さん!",
+          "translation": "Momoi-san!",
+          "bbox": [0.1492, 0.4002, 0.0713, 0.0115]
+        },
+        {
+          "text": "17 漫画のマスター!オニシスター!",
+          "translation": "17 Manga Master! Oni Sister!",
+          "bbox": [0.5148, 0.3997, 0.2568, 0.0124]
+        },
+        {
+          "text": "ハッハッハッハッハッハッ!さぁ笑え!",
+          "translation": "Hahahahaha! Now, laugh!",
+          "bbox": [0.1511, 0.4245, 0.2453, 0.0111]
+        },
+        {
+          "text": "12",
+          "translation": "12",
+          "bbox": [0.5154, 0.4245, 0.0151, 0.009]
+        },
+        {
+          "text": "逃げ足ナンバーワン!イヌブラザー!",
+          "translation": "Number one at fleeing! Inu Brother!",
+          "bbox": [0.5559, 0.4237, 0.2453, 0.0115]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.113, 0.4489, 0.0091, 0.0068]
+        },
+        {
+          "text": "祭りだ祭り!ハーッハッハッハッハッハッハッ!",
+          "translation": "It's a festival! It's a festival! Hahahahahaha!",
+          "bbox": [0.1505, 0.4476, 0.3063, 0.0128]
+        },
+        {
+          "text": "13",
+          "translation": "13",
+          "bbox": [0.5148, 0.4481, 0.0169, 0.0094]
+        },
+        {
+          "text": "トリは堅実! キジブラザー",
+          "translation": "The last one is steady! Kiji Brother!",
+          "bbox": [0.5577, 0.4472, 0.1704, 0.012]
+        },
+        {
+          "text": "情けないぞ!お供達!立て!名乗りだ!!",
+          "translation": "How pathetic, my followers! Stand up! Announce your names!",
+          "bbox": [0.1511, 0.4716, 0.2502, 0.0115]
+        },
+        {
+          "text": "タロウ...",
+          "translation": "Taro...",
+          "bbox": [0.5571, 0.4716, 0.061, 0.0107]
+        },
+        {
+          "text": "14",
+          "translation": "14",
+          "bbox": [0.5154, 0.484, 0.0169, 0.0094]
+        },
+        {
+          "text": "うん!",
+          "translation": "Yeah!",
+          "bbox": [0.1511, 0.4951, 0.0344, 0.0111]
+        },
+        {
+          "text": "桃井さん!",
+          "translation": "Momoi-san!",
+          "bbox": [0.5559, 0.4955, 0.0701, 0.0107]
+        },
+        {
+          "text": "こんな時に･･･!",
+          "translation": "At a time like this...!",
+          "bbox": [0.1517, 0.519, 0.0997, 0.0111]
+        },
+        {
+          "text": "15",
+          "translation": "15",
+          "bbox": [0.516, 0.5199, 0.0139, 0.009]
+        },
+        {
+          "text": "モモから生まれた!ドンモモタロウ!",
+          "translation": "Born from a peach! Don Momotaro!",
+          "bbox": [0.5571, 0.519, 0.2411, 0.0111]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.1124, 0.5323, 0.0091, 0.0068]
+        },
+        {
+          "text": "名乗りだと?",
+          "translation": "Announcing your names?",
+          "bbox": [0.1511, 0.5425, 0.0858, 0.0115]
+        },
+        {
+          "text": "暴太郎戦隊",
+          "translation": "Avataro Sentai",
+          "bbox": [0.5565, 0.543, 0.0792, 0.0111]
+        },
+        {
+          "text": "16",
+          "translation": "16",
+          "bbox": [0.5154, 0.5549, 0.0151, 0.0086]
+        },
+        {
+          "text": "やりましょう!",
+          "translation": "Let's do it!",
+          "bbox": [0.1511, 0.5673, 0.09, 0.0103]
+        },
+        {
+          "text": "ドンブラザーズ!",
+          "translation": "Donbrothers!",
+          "bbox": [0.5577, 0.5661, 0.11, 0.0115]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.1112, 0.5904, 0.0139, 0.0094]
+        },
+        {
+          "text": "清廉潔白完全主義 ソノイ!",
+          "translation": "The impeccably upright perfectionist—Sonoi!",
+          "bbox": [0.1511, 0.5904, 0.194, 0.0115]
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.1124, 0.6144, 0.0109, 0.0094]
+        },
+        {
+          "text": "美しい花には刺がある。 愛を知りたい ソノニ!",
+          "translation": "Beautiful flowers have thorns. I want to know love — Sononi!",
+          "bbox": [0.1511, 0.6139, 0.3154, 0.0115]
+        },
+        {
+          "text": "DXモード",
+          "translation": "DX Mode",
+          "bbox": [0.1873, 0.6832, 0.1221, 0.0184]
+        },
+        {
+          "text": "セリフボタンを短押しするとセリフが鳴ります。",
+          "translation": "Briefly press the dialogue button to play a line.",
+          "bbox": [0.0997, 0.7388, 0.4024, 0.0128]
+        },
+        {
+          "text": "24",
+          "translation": "24",
+          "bbox": [0.4792, 0.9701, 0.0429, 0.012]
+        }
+      ]
+    }
+  ]
+}

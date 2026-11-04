@@ -1,0 +1,24 @@
+# New manual for this quality pass; no pages overlap the original pilot.
+name = "Fang Memory quality development sample"
+dpi = 300
+
+[[cases]]
+id = "fang-p2"
+pdf = "pdfs/CSM FangMemory.pdf"
+manual = "manuals/CSM-Fang-Memory"
+page = 2
+features = ["kamen-rider", "battery-replacement", "warnings", "diagram-labels"]
+
+[[cases]]
+id = "fang-p6"
+pdf = "pdfs/CSM FangMemory.pdf"
+manual = "manuals/CSM-Fang-Memory"
+page = 6
+features = ["kamen-rider", "operating-steps", "transformation", "terminology"]
+
+[[cases]]
+id = "fang-p10"
+pdf = "pdfs/CSM FangMemory.pdf"
+manual = "manuals/CSM-Fang-Memory"
+page = 10
+features = ["kamen-rider", "operating-steps", "warnings", "mechanical-parts"]

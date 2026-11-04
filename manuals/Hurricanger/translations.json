@@ -1,0 +1,2441 @@
+{
+  "meta": {
+    "manual_name": "Hurricanger",
+    "source": "Hurricanger.pdf",
+    "source_lang": "ja",
+    "target_lang": "en",
+    "source_url": "",
+    "blog_url": "",
+    "pages": 15,
+    "blocks": 470,
+    "thumbnail": "pages/page-0.webp",
+    "tags": ["memorial", "sentai"]
+  },
+  "pages": [
+    {
+      "image": "pages/page-0.webp",
+      "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0369, 0.0376, 0.1644, 0.0158]
+        },
+        {
+          "text": "風戦隊",
+          "translation": "Wind Sentai",
+          "bbox": [0.3293, 0.0179, 0.0459, 0.0098]
+        },
+        {
+          "text": "©東映",
+          "translation": "©Toei",
+          "bbox": [0.3251, 0.0637, 0.0314, 0.0073]
+        },
+        {
+          "text": "ハリケンジャイロ",
+          "translation": "Hurricane Gyro",
+          "bbox": [0.3432, 0.1256, 0.3245, 0.0291]
+        },
+        {
+          "text": "-MEMORIAL EDITION- の遊び方",
+          "translation": "How to Play -MEMORIAL EDITION-",
+          "bbox": [0.2199, 0.1551, 0.6701, 0.035]
+        },
+        {
+          "text": "※WEB取扱説明書内の画像はイメージです。",
+          "translation": "*Images in the WEB Instruction Manual are for illustrative purposes only.",
+          "bbox": [0.0725, 0.2098, 0.3323, 0.012]
+        },
+        {
+          "text": "セット内容",
+          "translation": "Set Contents",
+          "bbox": [0.1088, 0.2803, 0.1154, 0.0167]
+        },
+        {
+          "text": "レッド用",
+          "translation": "For Red",
+          "bbox": [0.3825, 0.4338, 0.0701, 0.0128]
+        },
+        {
+          "text": "ブルー用",
+          "translation": "For Blue",
+          "bbox": [0.5613, 0.4329, 0.0798, 0.0132]
+        },
+        {
+          "text": "イエロー用",
+          "translation": "For Yellow",
+          "bbox": [0.7408, 0.4329, 0.1015, 0.0141]
+        },
+        {
+          "text": "シノビメダル･･･1",
+          "translation": "Shinobi Medal... 1",
+          "bbox": [0.3813, 0.4496, 0.1474, 0.015]
+        },
+        {
+          "text": "シノビメダル...1",
+          "translation": "Shinobi Medal... 1",
+          "bbox": [0.5613, 0.4496, 0.1468, 0.0141]
+        },
+        {
+          "text": "シノビメダル･･･1",
+          "translation": "Shinobi Medal... 1",
+          "bbox": [0.742, 0.4504, 0.1474, 0.0137]
+        },
+        {
+          "text": "(8)",
+          "translation": "(8)",
+          "bbox": [0.2133, 0.4679, 0.0121, 0.0047]
+        },
+        {
+          "text": "ハリケンジャイロ本体... 1",
+          "translation": "Hurricane Gyro main unit... 1",
+          "bbox": [0.1045, 0.5778, 0.2254, 0.0132]
+        },
+        {
+          "text": "ベルト... 1",
+          "translation": "Belt... 1",
+          "bbox": [0.5317, 0.5769, 0.0888, 0.0145]
+        },
+        {
+          "text": "△ 注意",
+          "translation": "△ Caution",
+          "bbox": [0.4435, 0.6457, 0.1124, 0.0167]
+        },
+        {
+          "text": "お買い上げのお客様へ 必ずお読みください。",
+          "translation": "To our customers: Please be sure to read this.",
+          "bbox": [0.3408, 0.6701, 0.319, 0.0115]
+        },
+        {
+          "text": "●本商品の対象年齢は15才以上です。 対象年齢未満のお子様には絶対に与えないでください。 ●電池 (別売り)、 電池ぶたなどの誤飲事故に\n注意してください。 ●耳の近くで使用してはいけません。 誤って使用すると、聴覚を損なう恐れがあります。●本商品には電子部品を使用しております。\nペースメーカーをご使用の方は、本商品を身体に近づけないようご注意ください。 ●LEDの光の点滅を見続けないでください。 気分が悪くなったり\nする恐れがあります。 ●回転部に指や髪の毛や衣服などをはさまれないように注意してください。《電池を誤使用すると発熱・破裂・液漏れの恐れが\nあります。下記に注意してください》 二次電池(充電式電池) は、 絶対に使用しないでください。 古い電池と新しい電池、いろいろな種類の\n電池をまぜて使わないでください。●+一(プラスマイナス) を正しくセットしてください。 ●遊んだ後は必ずスイッチを切り電池をはずしてください。\n電池を入れたままにしておくと、液漏れの恐れがあり危険です。ショートさせたり充電、分解、加熱、火の中に入れたりしないでください。 ●万一、\n電池から漏れた液が目に入ったときはすぐに大量の水で洗い、医師に相談してください。 皮膚や服に付いた時は水で洗ってください。 廃棄する\nときは、自治体の廃棄物処理の指示に従ってください。",
+          "translation": "● This product is for ages 15+. Never give it to children below the target age. ● Take care to prevent accidental ingestion of batteries (sold separately), the battery cover, or other small parts. ● Do not use near the ear. Improper use may damage hearing. ● This product contains electronic components. People with pacemakers should keep this product away from their body. ● Do not stare at flashing LED lights; this may cause discomfort or other symptoms. ● Take care not to get fingers, hair, or clothing caught in rotating parts. 《Improper use of batteries may cause overheating, rupture, or leakage. Observe the following:》 Never use secondary (rechargeable) batteries. Do not mix old and new batteries or different types of batteries. ● Insert batteries with the + and - terminals in the correct orientation. ● After playing, always turn the switch off and remove the batteries. Leaving batteries installed may cause leakage and is dangerous. Do not short-circuit, charge, disassemble, heat, or throw batteries into fire. ● If battery fluid gets into the eyes, immediately rinse with plenty of water and consult a physician. If it gets on the skin or clothing, wash with water. When disposing, follow your local municipality's waste-disposal instructions.",
+          "bbox": [0.0882, 0.6919, 0.8236, 0.1231]
+        },
+        {
+          "text": "<使用上の注意> ●本商品は精密に作られています。 無理な力を加えたり、落としたりすると破損する恐れがあります。 本商品は精密な電子部品で\n構成されています。 落としたり、水に濡らしたり、汚したり、分解したりしないでください。 また、高温・低温になるところでの使用、保管はさけてください。\n●プラスチック梱包材は、開封後はすぐに捨ててください。●本商品には塗装部分がありますので、 保管の際には他のもの (樹脂製品や家具、\nソファー)と接触しないようにしてください。 色が移る場合があります。●可動部分・取付部分・縫製部分を無理な方向に強く引っ張ったり、曲げたり\nしないでください。●発音の一部にイントネーションが違っていたり、 商品の特性上聞き取りにくいものがありますが、ご了承ください。●ハリケンジャイロ\n本体には、対応商品以外はセットしないでください。故障や破損の原因となります。 ●付属のシノビメダルはハリケンジャイロ本体以外にはセットしないで\nください。故障や破損の原因となります。 ●強く擦るなどすると、 塗装部分に傷や剥がれ等が発生する場合があります。取扱いに注意してください。",
+          "translation": "<Precautions for Use> ● This product is precision-made. Applying excessive force or dropping it may cause breakage. This product contains precision electronic components. Do not drop it, get it wet, soil it, or disassemble it. Also avoid use or storage in places subject to high or low temperatures. ● Dispose of plastic packaging materials immediately after opening. ● This product has painted surfaces; when storing, avoid contact with other items (resin products, furniture, sofas, etc.) to prevent color transfer. ● Do not forcefully pull or bend movable parts, attachment points, or sewn areas in unnatural directions. ● Due to the nature of the product, some spoken lines may have different intonation or be difficult to hear; please understand this in advance. ● Do not set or insert anything other than compatible items into the Hurricane Gyro main unit; doing so may cause malfunction or damage. ● Do not set the included Shinobi Medal into anything other than the Hurricane Gyro main unit; doing so may cause malfunction or damage. ● Rubbing strongly may cause scratches or peeling of painted surfaces. Handle with care.",
+          "bbox": [0.081, 0.8299, 0.8387, 0.0957]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.4949, 0.9701, 0.0109, 0.0124]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-1.webp",
+      "blocks": [
+        {
+          "text": "風戦隊",
+          "translation": "Wind Sentai",
+          "bbox": [0.3293, 0.0179, 0.0459, 0.0098]
+        },
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0369, 0.038, 0.1662, 0.0154]
+        },
+        {
+          "text": "©東映",
+          "translation": "©Toei",
+          "bbox": [0.3251, 0.0637, 0.0308, 0.0073]
+        },
+        {
+          "text": "矢印一覧 取り付けます。\n■ \n|",
+          "translation": "Arrow legend — 'Attach.'  'Remove.'  'Can be moved.'",
+          "bbox": [0.0828, 0.1124, 0.3498, 0.0162]
+        },
+        {
+          "text": "取り外します。",
+          "translation": "Remove.",
+          "bbox": [0.5414, 0.1132, 0.1233, 0.0167]
+        },
+        {
+          "text": "可動させます。",
+          "translation": "Can be moved.",
+          "bbox": [0.7867, 0.1145, 0.1293, 0.0141]
+        },
+        {
+          "text": "各部名称",
+          "translation": "Part names",
+          "bbox": [0.1154, 0.1795, 0.1281, 0.0222]
+        },
+        {
+          "text": "ハリケンジャイロ",
+          "translation": "Hurricane Gyro",
+          "bbox": [0.1444, 0.2658, 0.1408, 0.0132]
+        },
+        {
+          "text": "LED",
+          "translation": "LED",
+          "bbox": [0.2502, 0.3094, 0.0338, 0.0073]
+        },
+        {
+          "text": "【正面】",
+          "translation": "[Front View]",
+          "bbox": [0.1607, 0.3226, 0.0465, 0.012]
+        },
+        {
+          "text": "【背面】",
+          "translation": "[Back View]",
+          "bbox": [0.4653, 0.3231, 0.0465, 0.0115]
+        },
+        {
+          "text": "ベルト通し",
+          "translation": "Belt loop",
+          "bbox": [0.6647, 0.344, 0.0725, 0.0098]
+        },
+        {
+          "text": "BGM ボタン",
+          "translation": "BGM Button",
+          "bbox": [0.0991, 0.515, 0.084, 0.0107]
+        },
+        {
+          "text": "通信ボタン",
+          "translation": "Communication Button",
+          "bbox": [0.1088, 0.541, 0.0755, 0.0103]
+        },
+        {
+          "text": "ベルト",
+          "translation": "Belt",
+          "bbox": [0.1873, 0.6479, 0.0592, 0.012]
+        },
+        {
+          "text": "【正面】",
+          "translation": "[Front View]",
+          "bbox": [0.1934, 0.6915, 0.0489, 0.012]
+        },
+        {
+          "text": "【背面】",
+          "translation": "[Back View]",
+          "bbox": [0.194, 0.8068, 0.0459, 0.0128]
+        },
+        {
+          "text": "8",
+          "translation": "8",
+          "bbox": [0.2622, 0.4991, 0.0091, 0.006]
+        },
+        {
+          "text": "変身ボタン",
+          "translation": "Transformation Button",
+          "bbox": [0.3474, 0.4936, 0.0743, 0.0098]
+        },
+        {
+          "text": "セリフボタン",
+          "translation": "Dialogue Button",
+          "bbox": [0.348, 0.5158, 0.0858, 0.0094]
+        },
+        {
+          "text": "攻撃ボタン",
+          "translation": "Attack Button",
+          "bbox": [0.3474, 0.5406, 0.0731, 0.0103]
+        },
+        {
+          "text": "カバー",
+          "translation": "Cover",
+          "bbox": [0.4302, 0.4479, 0.0441, 0.0094]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.4888, 0.9705, 0.0199, 0.0111]
+        },
+        {
+          "text": "【カバーを取り外した図】",
+          "translation": "[View with cover removed]",
+          "bbox": [0.7069, 0.3957, 0.177, 0.0132]
+        },
+        {
+          "text": "電源スイッチ",
+          "translation": "Power Switch",
+          "bbox": [0.7674, 0.4179, 0.0852, 0.009]
+        },
+        {
+          "text": "電池ぶた",
+          "translation": "Battery cover",
+          "bbox": [0.6526, 0.5291, 0.0592, 0.009]
+        },
+        {
+          "text": "映",
+          "translation": "Reflect / Project / Shine",
+          "bbox": [0.7764, 0.5226, 0.0085, 0.0047]
+        },
+        {
+          "text": "BANDAI",
+          "translation": "BANDAI",
+          "bbox": [0.7595, 0.5291, 0.0356, 0.0056]
+        },
+        {
+          "text": "MADE IN CHINA",
+          "translation": "MADE IN CHINA",
+          "bbox": [0.7595, 0.5363, 0.0725, 0.0051]
+        },
+        {
+          "text": "2668937",
+          "translation": "2668937",
+          "bbox": [0.7601, 0.5427, 0.0344, 0.0051]
+        },
+        {
+          "text": "ベルト通し",
+          "translation": "Belt loop",
+          "bbox": [0.8127, 0.7393, 0.0707, 0.0094]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-2.webp",
+      "blocks": [
+        {
+          "text": "風戦隊",
+          "translation": "Wind Sentai",
+          "bbox": [0.3293, 0.0179, 0.0465, 0.0098]
+        },
+        {
+          "text": "WEB取扱説明書",
+          "translation": "Online Instruction Manual",
+          "bbox": [0.0369, 0.038, 0.1662, 0.0154]
+        },
+        {
+          "text": "©東映",
+          "translation": "©Toei",
+          "bbox": [0.3251, 0.0637, 0.0308, 0.0073]
+        },
+        {
+          "text": "矢印一覧 取り付けます。\n■ \n|",
+          "translation": "Arrow legend: Attach.",
+          "bbox": [0.0828, 0.1124, 0.3498, 0.0162]
+        },
+        {
+          "text": "取り外します。",
+          "translation": "Remove.",
+          "bbox": [0.5414, 0.1137, 0.1233, 0.0162]
+        },
+        {
+          "text": "可動させます。",
+          "translation": "Can be moved.",
+          "bbox": [0.7867, 0.1145, 0.1293, 0.0141]
+        },
+        {
+          "text": "乾電池・電源の入れ方",
+          "translation": "How to insert batteries and turn on the power",
+          "bbox": [0.1511, 0.1808, 0.2997, 0.0201]
+        },
+        {
+          "text": "乾電池の入れ方",
+          "translation": "How to insert the batteries",
+          "bbox": [0.0943, 0.2513, 0.1855, 0.0179]
+        },
+        {
+          "text": "※音が小さくなって聞き取りにくくなったり、音が止まるなどの誤動作をする場合や、\nLEDの発光が弱くなった場合は、すべて新しい電池に交換してください。",
+          "translation": "If the sound becomes faint or hard to hear, if the sound stops or other malfunctions occur, or if the LED emission becomes weak, replace all batteries with new ones.",
+          "bbox": [0.0918, 0.3013, 0.713, 0.035]
+        },
+        {
+          "text": "①カバーパーツを取り外します。\n本体背面のカバーを取り外します。\n②電池ぶたを取り外します。",
+          "translation": "① Remove the cover part. Remove the rear cover of the main unit.\n② Remove the battery cover.",
+          "bbox": [0.0804, 0.3538, 0.3112, 0.0573]
+        },
+        {
+          "text": "②-1 本体背面の電池ぶたの穴を先の細い棒などで押しながら、\n②-2 電池ぶたを矢印の方向にスライドさせて取り外します。",
+          "translation": "②-1 While pressing the hole in the battery cover on the back of the main unit with the tip of a thin rod or similar tool,\n②-2 slide the battery cover in the direction of the arrow to remove it.",
+          "bbox": [0.1003, 0.4179, 0.5317, 0.0355]
+        },
+        {
+          "text": "③電池を入れます。",
+          "translation": "③ Insert the batteries.",
+          "bbox": [0.081, 0.4607, 0.1644, 0.0137]
+        },
+        {
+          "text": "単4乾電池2本(別売り) の + をそれぞれ間違えないように入れます。",
+          "translation": "Insert two AAA (LR03) batteries (sold separately), making sure the + and - of each battery are not reversed.",
+          "bbox": [0.1009, 0.4812, 0.5909, 0.0137]
+        },
+        {
+          "text": "④電池ぶたを戻します。",
+          "translation": "④ Replace the battery cover.",
+          "bbox": [0.081, 0.5004, 0.2006, 0.015]
+        },
+        {
+          "text": "電池ぶたの突起と本体のミゾを合わせ、電池ぶたを閉じます。",
+          "translation": "Align the protrusion on the battery cover with the groove on the main unit, then close the battery cover.",
+          "bbox": [0.1009, 0.5226, 0.5094, 0.0137]
+        },
+        {
+          "text": "⑤カバーを戻します。",
+          "translation": "⑤ Replace the cover.",
+          "bbox": [0.0804, 0.544, 0.1807, 0.0128]
+        },
+        {
+          "text": "【背面】",
+          "translation": "[Back]",
+          "bbox": [0.1009, 0.5808, 0.0465, 0.0128]
+        },
+        {
+          "text": "凸部",
+          "translation": "protrusion",
+          "bbox": [0.197, 0.585, 0.0278, 0.0098]
+        },
+        {
+          "text": "カバー",
+          "translation": "Cover",
+          "bbox": [0.1166, 0.7107, 0.0459, 0.0103]
+        },
+        {
+          "text": "①",
+          "translation": "①",
+          "bbox": [0.339, 0.688, 0.0181, 0.0179]
+        },
+        {
+          "text": "+",
+          "translation": "+",
+          "bbox": [0.3813, 0.7111, 0.0175, 0.015]
+        },
+        {
+          "text": "【背面】",
+          "translation": "[Back]",
+          "bbox": [0.4369, 0.5675, 0.0477, 0.0124]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.435, 0.6436, 0.0085, 0.0068]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.4042, 0.8342, 0.0066, 0.0068]
+        },
+        {
+          "text": "凹部",
+          "translation": "Recess",
+          "bbox": [0.4254, 0.7474, 0.0296, 0.0103]
+        },
+        {
+          "text": "ミゾ",
+          "translation": "Groove",
+          "bbox": [0.4254, 0.8615, 0.0308, 0.0098]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.49, 0.9697, 0.0205, 0.0132]
+        },
+        {
+          "text": "単4 AAA LR03)",
+          "translation": "AAA (LR03)",
+          "bbox": [0.542, 0.7944, 0.0115, 0.0667]
+        },
+        {
+          "text": "14, AAA LR03)+",
+          "translation": "14, AAA LR03)+",
+          "bbox": [0.5946, 0.8132, 0.0121, 0.0731]
+        },
+        {
+          "text": "単4 x2\n単4乾電池2本使用(別売り)",
+          "translation": "Uses 2 × AAA batteries (sold separately)",
+          "bbox": [0.7172, 0.5598, 0.1281, 0.0239]
+        },
+        {
+          "text": "●アルカリ電池専用",
+          "translation": "●For alkaline batteries only",
+          "bbox": [0.7142, 0.5966, 0.1329, 0.0098]
+        },
+        {
+          "text": "②-2",
+          "translation": "②-2",
+          "bbox": [0.6882, 0.7863, 0.0363, 0.0107]
+        },
+        {
+          "text": "突起",
+          "translation": "Protrusion",
+          "bbox": [0.7378, 0.7637, 0.0314, 0.0098]
+        },
+        {
+          "text": "(4)",
+          "translation": "(4)",
+          "bbox": [0.7027, 0.8333, 0.0157, 0.0077]
+        },
+        {
+          "text": "東映",
+          "translation": "Toei",
+          "bbox": [0.7861, 0.7983, 0.0193, 0.0064]
+        },
+        {
+          "text": "BANDAI",
+          "translation": "BANDAI",
+          "bbox": [0.774, 0.8073, 0.0465, 0.0064]
+        },
+        {
+          "text": "MADE IN CHINA\n12668937",
+          "translation": "MADE IN CHINA\n12668937",
+          "bbox": [0.7692, 0.8167, 0.1021, 0.0154]
+        },
+        {
+          "text": "電池ぶた",
+          "translation": "Battery cover",
+          "bbox": [0.7287, 0.8509, 0.0604, 0.0094]
+        },
+        {
+          "text": "②-1",
+          "translation": "②-1",
+          "bbox": [0.7517, 0.8739, 0.0369, 0.0124]
+        },
+        {
+          "text": "突起",
+          "translation": "Protrusion",
+          "bbox": [0.8634, 0.8718, 0.032, 0.0107]
+        },
+        {
+          "text": "ミゾ",
+          "translation": "Groove",
+          "bbox": [0.6785, 0.8833, 0.0308, 0.0098]
+        },
+        {
+          "text": "穴",
+          "translation": "Hole",
+          "bbox": [0.9009, 0.8543, 0.0181, 0.0094]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-3.webp",
+      "blocks": [
+        {
+          "text": "風戦隊",
+          "translation": "Wind Sentai",
+          "bbox": [0.3293, 0.0175, 0.0465, 0.0103]
+        },
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0369, 0.038, 0.1662, 0.0154]
+        },
+        {
+          "text": "©東映",
+          "translation": "©Toei",
+          "bbox": [0.3251, 0.0632, 0.0314, 0.0077]
+        },
+        {
+          "text": "矢印一覧 取り付けます。",
+          "translation": "Arrow legend: Attach.",
+          "bbox": [0.0828, 0.1141, 0.3323, 0.0141]
+        },
+        {
+          "text": "■■■■",
+          "translation": "■■■■",
+          "bbox": [0.232, 0.1179, 0.0429, 0.0094]
+        },
+        {
+          "text": "取り外します。",
+          "translation": "Remove.",
+          "bbox": [0.5414, 0.1137, 0.1233, 0.0167]
+        },
+        {
+          "text": "可動させます。",
+          "translation": "Make movable.",
+          "bbox": [0.7873, 0.115, 0.1287, 0.0132]
+        },
+        {
+          "text": "電源の入れ方",
+          "translation": "How to turn on the power",
+          "bbox": [0.1082, 0.1825, 0.1595, 0.0167]
+        },
+        {
+          "text": "本体背面の電源スイッチをONにします。\n→LEDが光り、 起動音が鳴ります。\n※遊び終わった後は、\n必ず電源スイッチを\nOFFにしてください。",
+          "translation": "Set the power switch on the back of the main unit to ON.\n→ The LED will light and a start-up sound will play.\n※ After you finish playing, be sure to turn the power switch OFF.",
+          "bbox": [0.0816, 0.2269, 0.3486, 0.0991]
+        },
+        {
+          "text": "【カバーを取り外した図】",
+          "translation": "[Illustration with the cover removed]",
+          "bbox": [0.4918, 0.206, 0.177, 0.0132]
+        },
+        {
+          "text": "ベルトの取り付け方",
+          "translation": "How to attach the belt",
+          "bbox": [0.2073, 0.3953, 0.2713, 0.0214]
+        },
+        {
+          "text": "ハリケンジャイロ本体への取り付け",
+          "translation": "Attaching to the Hurricanger Gyro main unit",
+          "bbox": [0.1021, 0.4645, 0.4127, 0.0188]
+        },
+        {
+          "text": "①本体背面のベルト通しに",
+          "translation": "① To the belt loop on the back of the main unit",
+          "bbox": [0.0816, 0.5103, 0.232, 0.0141]
+        },
+        {
+          "text": "ベルトを通します。",
+          "translation": "Thread the belt through.",
+          "bbox": [0.1015, 0.5312, 0.1595, 0.0141]
+        },
+        {
+          "text": "ベルト",
+          "translation": "Belt",
+          "bbox": [0.3027, 0.5744, 0.0435, 0.0103]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.4882, 0.9701, 0.0205, 0.0124]
+        },
+        {
+          "text": "①",
+          "translation": "①",
+          "bbox": [0.6447, 0.6244, 0.0199, 0.0115]
+        },
+        {
+          "text": "ハリケンジャイロ本体",
+          "translation": "Hurricanger Gyro main unit",
+          "bbox": [0.5239, 0.7038, 0.1438, 0.0103]
+        },
+        {
+          "text": "ベルト通し",
+          "translation": "Belt loop",
+          "bbox": [0.7281, 0.5261, 0.0713, 0.0098]
+        },
+        {
+          "text": "OFF",
+          "translation": "OFF",
+          "bbox": [0.7934, 0.2427, 0.0344, 0.0077]
+        },
+        {
+          "text": "電源スイッチ",
+          "translation": "Power switch",
+          "bbox": [0.7934, 0.2615, 0.0858, 0.009]
+        },
+        {
+          "text": "突起",
+          "translation": "Protrusion",
+          "bbox": [0.7927, 0.2906, 0.0302, 0.0098]
+        },
+        {
+          "text": "ON",
+          "translation": "ON",
+          "bbox": [0.7927, 0.3209, 0.0242, 0.0077]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-4.webp",
+      "blocks": [
+        {
+          "text": "風戦隊",
+          "translation": "Wind Sentai",
+          "bbox": [0.3293, 0.0179, 0.0459, 0.0098]
+        },
+        {
+          "text": "WEB取扱説明書",
+          "translation": "Online Instruction Manual",
+          "bbox": [0.0369, 0.038, 0.1662, 0.0154]
+        },
+        {
+          "text": "©東映",
+          "translation": "©Toei",
+          "bbox": [0.3251, 0.0637, 0.0308, 0.0073]
+        },
+        {
+          "text": "矢印一覧 取り付けます。\n■ \n|",
+          "translation": "Arrow legend: Attaching.",
+          "bbox": [0.0828, 0.1124, 0.3498, 0.0162]
+        },
+        {
+          "text": "取り外します。",
+          "translation": "Removing.",
+          "bbox": [0.5414, 0.1137, 0.1233, 0.0158]
+        },
+        {
+          "text": "可動させます。",
+          "translation": "Make movable.",
+          "bbox": [0.7867, 0.1145, 0.1293, 0.0141]
+        },
+        {
+          "text": "ベルトの取り付け方",
+          "translation": "How to attach the belt",
+          "bbox": [0.2073, 0.1829, 0.2719, 0.0209]
+        },
+        {
+          "text": "腕への取り付け方",
+          "translation": "How to attach to your arm",
+          "bbox": [0.174, 0.2521, 0.2127, 0.0188]
+        },
+        {
+          "text": "② 本体背面に腕を置き、 ベルトを巻きつけます。",
+          "translation": "② Place your arm on the back of the main unit, and wrap the belt around it.",
+          "bbox": [0.081, 0.2974, 0.4079, 0.0137]
+        },
+        {
+          "text": "④ベルトを腕に巻きつけます。",
+          "translation": "④ Wrap the belt around your arm.",
+          "bbox": [0.084, 0.6551, 0.2604, 0.0145]
+        },
+        {
+          "text": "01",
+          "translation": "01",
+          "bbox": [0.4924, 0.9692, 0.0163, 0.0141]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.49, 0.9705, 0.0193, 0.0124]
+        },
+        {
+          "text": "③ベルトをベルト通しに通します。",
+          "translation": "③ Thread the belt through the belt loop.",
+          "bbox": [0.5776, 0.2966, 0.2924, 0.0141]
+        },
+        {
+          "text": "ベルト通し",
+          "translation": "Belt loop",
+          "bbox": [0.6592, 0.3308, 0.0713, 0.0107]
+        },
+        {
+          "text": "T",
+          "translation": "T",
+          "bbox": [0.7233, 0.4765, 0.0218, 0.015]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.7347, 0.3919, 0.0079, 0.0068]
+        },
+        {
+          "text": "完成!",
+          "translation": "Complete!",
+          "bbox": [0.7517, 0.8632, 0.1317, 0.0333]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-5.webp",
+      "blocks": [
+        {
+          "text": "【風戦隊]",
+          "translation": "[Wind Sentai]",
+          "bbox": [0.3053, 0.0162, 0.0804, 0.012]
+        },
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0369, 0.0376, 0.1669, 0.0167]
+        },
+        {
+          "text": "©東映",
+          "translation": "©Toei",
+          "bbox": [0.3247, 0.0637, 0.032, 0.0073]
+        },
+        {
+          "text": "■■■■■■",
+          "translation": "■■■■■■",
+          "bbox": [0.2134, 0.1179, 0.0605, 0.0085]
+        },
+        {
+          "text": "矢印一覧 取り付けます。",
+          "translation": "Arrow legend: Attach.",
+          "bbox": [0.0822, 0.1141, 0.3331, 0.0141]
+        },
+        {
+          "text": "取り外します。 ◆",
+          "translation": "Remove. ◆",
+          "bbox": [0.5411, 0.1128, 0.1657, 0.0184]
+        },
+        {
+          "text": "可動させます。",
+          "translation": "Make movable.",
+          "bbox": [0.7866, 0.1141, 0.1294, 0.0145]
+        },
+        {
+          "text": "シノビメダルを装着しない場合の遊び方",
+          "translation": "How to play without attaching a Shinobi Medal",
+          "bbox": [0.101, 0.1795, 0.5593, 0.0222]
+        },
+        {
+          "text": "変身遊び",
+          "translation": "Transformation Play",
+          "bbox": [0.2225, 0.2504, 0.1088, 0.0188]
+        },
+        {
+          "text": "※図はベルトを省略しています。\n①変身ボタンを押します。\n効果音が鳴り、LEDが白く発光します。\n②ジャイロを回転させます。\n効果音が鳴ります。",
+          "translation": "*The belt is omitted from the illustration.\n① Press the transformation button.\nA sound effect plays and the LED lights white.\n② Rotate the gyro.\nA sound effect plays.",
+          "bbox": [0.0804, 0.3004, 0.3482, 0.1034]
+        },
+        {
+          "text": "攻撃遊び",
+          "translation": "Attack Play",
+          "bbox": [0.2231, 0.4944, 0.1088, 0.0184]
+        },
+        {
+          "text": "※図はベルトを省略しています。\n①攻撃ボタンを押します。\n効果音が鳴り、LEDが白く発光します。\n②ジャイロを回転させます。\n効果音が鳴り、LEDが白く発光します。",
+          "translation": "*The belt is omitted from the illustration.\n① Press the attack button.\nA sound effect plays and the LED lights white.\n② Rotate the gyro.\nA sound effect plays and the LED lights white.",
+          "bbox": [0.0798, 0.5427, 0.3489, 0.1051]
+        },
+        {
+          "text": "その他のボタン操作",
+          "translation": "Other Button Operations",
+          "bbox": [0.1584, 0.765, 0.2358, 0.0192]
+        },
+        {
+          "text": "※図はベルトを省略しています。",
+          "translation": "*The belt is omitted from the illustration.",
+          "bbox": [0.0967, 0.8141, 0.2805, 0.0137]
+        },
+        {
+          "text": "②",
+          "translation": "②",
+          "bbox": [0.6058, 0.3252, 0.0109, 0.0115]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.7437, 0.3897, 0.0127, 0.0085]
+        },
+        {
+          "text": "①通信ボタンを押します。 通信音が鳴り、LEDが白く発光します。\n②セリフボタンを押します。 効果音が鳴り、LEDが白く発光します。\n③BGMボタンを押します。 押すたびにBGMが再生・停止します。\n※P8の「BGM遊び」と同様です。",
+          "translation": "① Press the Communication button. A communication sound plays and the LED lights white.\n② Press the Dialogue button. A sound effect plays and the LED lights white.\n③ Press the BGM button. Each press toggles BGM playback on/off.\n*Same as \"BGM Play\" on P8.",
+          "bbox": [0.0798, 0.8402, 0.5701, 0.0778]
+        },
+        {
+          "text": "[6]",
+          "translation": "[6]",
+          "bbox": [0.4909, 0.9675, 0.0151, 0.0192]
+        },
+        {
+          "text": "(3)",
+          "translation": "(3)",
+          "bbox": [0.6638, 0.8795, 0.0151, 0.0081]
+        },
+        {
+          "text": "(1)",
+          "translation": "(1)",
+          "bbox": [0.766, 0.8376, 0.0139, 0.0081]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-6.webp",
+      "blocks": [
+        {
+          "text": "風戦隊",
+          "translation": "Wind Sentai",
+          "bbox": [0.3293, 0.0175, 0.0465, 0.0107]
+        },
+        {
+          "text": "WEB取扱説明書",
+          "translation": "Online Instruction Manual",
+          "bbox": [0.0375, 0.038, 0.1668, 0.0167]
+        },
+        {
+          "text": "©東映",
+          "translation": "©Toei",
+          "bbox": [0.3251, 0.0632, 0.0308, 0.0077]
+        },
+        {
+          "text": "矢印一覧 取り付けます。\n◆ \n|",
+          "translation": "Arrow guide: Attach.",
+          "bbox": [0.0828, 0.1124, 0.3486, 0.0179]
+        },
+        {
+          "text": "取り外します。",
+          "translation": "Remove.",
+          "bbox": [0.5414, 0.1141, 0.1239, 0.0162]
+        },
+        {
+          "text": "可動させます。",
+          "translation": "Move.",
+          "bbox": [0.7867, 0.115, 0.1293, 0.0124]
+        },
+        {
+          "text": "【別角度】",
+          "translation": "Alternate view",
+          "bbox": [0.5142, 0.1821, 0.0731, 0.015]
+        },
+        {
+          "text": "※形に合わせて",
+          "translation": "*Align to the shape",
+          "bbox": [0.4483, 0.2402, 0.1341, 0.0128]
+        },
+        {
+          "text": "遊び方",
+          "translation": "How to Play",
+          "bbox": [0.1311, 0.1795, 0.0961, 0.0222]
+        },
+        {
+          "text": "① 変身遊び",
+          "translation": "① Transformation Play",
+          "bbox": [0.1148, 0.2504, 0.1353, 0.0179]
+        },
+        {
+          "text": "※レッド用シノビメダルを例に説明します。\n※図はベルトを省略しています。\n①ハリケンジャイロ本体に",
+          "translation": "*The following explains using the Red Shinobi Medal as an example.\n*Belt omitted from illustrations.\n① To the Hurricanger Gyro unit",
+          "bbox": [0.0804, 0.2991, 0.3879, 0.0568]
+        },
+        {
+          "text": "取り付けます。",
+          "translation": "Attach.",
+          "bbox": [0.4665, 0.2615, 0.1239, 0.0128]
+        },
+        {
+          "text": "レッド用シノビメダル",
+          "translation": "Red Shinobi Medal",
+          "bbox": [0.6882, 0.3026, 0.1408, 0.0107]
+        },
+        {
+          "text": "レッド用シノビメダルを取り付けます。",
+          "translation": "Attach the Red Shinobi Medal.",
+          "bbox": [0.1015, 0.3628, 0.313, 0.0137]
+        },
+        {
+          "text": "ハリケンジャイロ本体",
+          "translation": "Hurricanger Gyro unit",
+          "bbox": [0.4876, 0.3714, 0.145, 0.0107]
+        },
+        {
+          "text": "②ジャイロを回転させます。\n効果音が鳴り、各メダルに対応する色で",
+          "translation": "② Spin the gyro. A sound effect will play,",
+          "bbox": [0.0804, 0.3846, 0.3571, 0.035]
+        },
+        {
+          "text": "LEDが発光します。\n③変身ボタンを押します。\nセリフが鳴り、各セリフに対応する色で\nLEDが発光します。",
+          "translation": "The LED lights up.\n③ Press the Transformation button.\nA voice line plays, and the LED lights up in the color corresponding to that voice line.",
+          "bbox": [0.0804, 0.4261, 0.3517, 0.0791]
+        },
+        {
+          "text": "※セリフはセットしたメダルによって変わります。\n下記を参照してください。",
+          "translation": "*The spoken lines vary depending on the medal inserted.\nPlease refer to the information below.",
+          "bbox": [0.0828, 0.5124, 0.4121, 0.0355]
+        },
+        {
+          "text": "レッド : 行くぞ!!",
+          "translation": "Red: Let's go!",
+          "bbox": [0.0973, 0.5624, 0.1293, 0.0111]
+        },
+        {
+          "text": "ブルー:おう!",
+          "translation": "Blue: Yeah!",
+          "bbox": [0.0937, 0.5872, 0.1094, 0.0128]
+        },
+        {
+          "text": "イエロー: おう!",
+          "translation": "Yellow: Yeah!",
+          "bbox": [0.0846, 0.6137, 0.1178, 0.012]
+        },
+        {
+          "text": "レッド用シノビメダル装着時 忍風! シノビチェンジ!はあ!\nブルー用シノビメダル装着時:忍びチェンジ!はあ!",
+          "translation": "When the Red Shinobi Medal is attached: Ninpu! Shinobi Change! Haa!\nWhen the Blue Shinobi Medal is attached: Shinobi Change! Haa!",
+          "bbox": [0.1517, 0.6389, 0.4224, 0.0389]
+        },
+        {
+          "text": "④ジャイロを回転させます。\n変身音とセリフが鳴り、各メダルに対応する色で",
+          "translation": "④ Spin the gyro. The transformation sound and voice line play, and",
+          "bbox": [0.0804, 0.7137, 0.4296, 0.0372]
+        },
+        {
+          "text": "LEDが発光します。",
+          "translation": "The LED lights up.",
+          "bbox": [0.1015, 0.7577, 0.1662, 0.012]
+        },
+        {
+          "text": "ジャイロ",
+          "translation": "Gyro",
+          "bbox": [0.632, 0.5919, 0.055, 0.0103]
+        },
+        {
+          "text": "(3)",
+          "translation": "(3)",
+          "bbox": [0.7444, 0.7526, 0.0133, 0.0073]
+        },
+        {
+          "text": "LED",
+          "translation": "LED",
+          "bbox": [0.8356, 0.5603, 0.0338, 0.0073]
+        },
+        {
+          "text": "(4)",
+          "translation": "(4)",
+          "bbox": [0.8816, 0.6885, 0.0157, 0.009]
+        },
+        {
+          "text": "※セリフはセットしたメダルによって変わります。\n下記を参照してください。",
+          "translation": "*The spoken lines vary depending on the medal inserted.\nPlease refer to the information below.",
+          "bbox": [0.0828, 0.7769, 0.4121, 0.0376]
+        },
+        {
+          "text": "変身ボタン",
+          "translation": "Transformation button",
+          "bbox": [0.8447, 0.7859, 0.0749, 0.0098]
+        },
+        {
+          "text": "100",
+          "translation": "100",
+          "bbox": [0.7015, 0.8064, 0.081, 0.0252]
+        },
+        {
+          "text": "レッド用シノビメダル装着時 :風が鳴き、空が怒る!空忍、ハリケンレッド!",
+          "translation": "When the Red Shinobi Medal is attached: The wind howls, the sky rages! Sky Ninja, Hurricane Red!",
+          "bbox": [0.1003, 0.8291, 0.5215, 0.0115]
+        },
+        {
+          "text": "ブルー用シノビメダル装着時: 水が舞い、波が躍る!水忍、ハリケンブルー!",
+          "translation": "When the Blue Shinobi Medal is equipped: Water dances, waves leap! The Water Ninja, Hurricane Blue!",
+          "bbox": [0.0961, 0.8543, 0.5329, 0.0124]
+        },
+        {
+          "text": "イエロー用シノビメダル装着時 : 大地が震え、花が詠う! 陸忍、 ハリケンイエロー!",
+          "translation": "When equipped with the Yellow Shinobi Medal: The earth trembles, and the flowers sing! The Land Ninja, Hurricane Yellow!",
+          "bbox": [0.09, 0.8803, 0.568, 0.0128]
+        },
+        {
+          "text": "7",
+          "translation": "7",
+          "bbox": [0.4912, 0.9697, 0.0187, 0.0132]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-7.webp",
+      "blocks": [
+        {
+          "text": "忍風戦隊",
+          "translation": "Ninpuu Sentai",
+          "bbox": [0.315, 0.0171, 0.0611, 0.0103]
+        },
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0363, 0.038, 0.1663, 0.0154]
+        },
+        {
+          "text": "©東映",
+          "translation": "©Toei",
+          "bbox": [0.3247, 0.0637, 0.032, 0.0073]
+        },
+        {
+          "text": "矢印一覧 取り付けます。\n■■■■■■ \n|",
+          "translation": "Arrow guide: Attach.",
+          "bbox": [0.0822, 0.1132, 0.3489, 0.0154]
+        },
+        {
+          "text": "取り外します。",
+          "translation": "Remove.",
+          "bbox": [0.5411, 0.1141, 0.1239, 0.0162]
+        },
+        {
+          "text": "可動させます。",
+          "translation": "Make movable.",
+          "bbox": [0.7866, 0.1141, 0.1306, 0.0141]
+        },
+        {
+          "text": "遊び方",
+          "translation": "How to Play",
+          "bbox": [0.1312, 0.1803, 0.0949, 0.0209]
+        },
+        {
+          "text": "②攻撃遊び",
+          "translation": "② Attack Play",
+          "bbox": [0.1125, 0.2504, 0.1354, 0.0162]
+        },
+        {
+          "text": "※レッド用シノビメダルを例に説明します。\n※図はベルトを省略しています。\n※変身遊び後の状態から始めます。\n①攻撃ボタンを押します。\n効果音が鳴り、各メダルに対応する色で",
+          "translation": "*The explanation uses the Shinobi Medal for Red as an example.\n*The belt is omitted from the illustration.\n*Start from the state after transformation play.\n① Press the Attack button.\nA sound effect plays, and in the color corresponding to each medal...",
+          "bbox": [0.081, 0.2979, 0.3869, 0.0957]
+        },
+        {
+          "text": "LEDが発光します。\n②ジャイロを回転させます。\n攻撃音が鳴り、各メダルに対応する色で",
+          "translation": "The LED lights up.\n② Rotate the gyro.\nAn attack sound plays, and the LED lights in the color corresponding to each medal...",
+          "bbox": [0.081, 0.4004, 0.3567, 0.0577]
+        },
+        {
+          "text": "LEDが発光します。",
+          "translation": "The LED lights up.",
+          "bbox": [0.1022, 0.4654, 0.1675, 0.0132]
+        },
+        {
+          "text": "③通信遊び",
+          "translation": "③ Communication Play",
+          "bbox": [0.1125, 0.5731, 0.1354, 0.0179]
+        },
+        {
+          "text": "※図はベルトを省略しています。\n※変身遊び後の状態から始めます。\n①通信ボタンを押します。",
+          "translation": "*The belt is omitted from the illustration.\n*Start from the state after transformation play.\n① Press the Communication button.",
+          "bbox": [0.081, 0.6218, 0.3222, 0.056]
+        },
+        {
+          "text": "◆通信音が鳴り、各メダルに対応する色でLEDが発光します。\n②再度、通信ボタンを押します。\n→セリフが鳴り、各メダルに対応する色でLEDが発光します。\n①②を繰り返すと、表の順番にセリフが鳴ります。",
+          "translation": "◆A communication sound plays, and the LED lights in the color corresponding to each medal.\n② Press the Communication button again.\n→ A voice line plays, and the LED lights in the color corresponding to each medal.\nRepeat ① and ② to play the voice lines in the order shown in the table.",
+          "bbox": [0.0804, 0.6846, 0.5236, 0.0782]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.0865, 0.7748, 0.0339, 0.0111]
+        },
+        {
+          "text": "セリフ",
+          "translation": "Voice line",
+          "bbox": [0.347, 0.7752, 0.0447, 0.0098]
+        },
+        {
+          "text": "1 ハリケンホーク、ハリケンドルフィン、ハリケンレオン! スタンバイ!発進!",
+          "translation": "1 Hurrican Hawk, Hurrican Dolphin, Hurrican Leon! Standby! Launch!",
+          "bbox": [0.0992, 0.7897, 0.5018, 0.0115]
+        },
+        {
+          "text": "2 みんな! たのんだで!",
+          "translation": "2 Everyone! I'm counting on you!",
+          "bbox": [0.0961, 0.806, 0.1771, 0.0103]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.0967, 0.8222, 0.0133, 0.0085]
+        },
+        {
+          "text": "みんな!合体するんや!",
+          "translation": "Everyone! Let's combine!",
+          "bbox": [0.133, 0.8209, 0.1548, 0.0111]
+        },
+        {
+          "text": "4 みんな!カラクリボールを使うんや!\n5 おっしゃいくでぇえ!シノビマシン、発進!",
+          "translation": "4 Everyone! Use the Karakuri Ball!\n5Alright, here we go! Shinobi Machine, launch!",
+          "bbox": [0.0961, 0.8363, 0.3108, 0.0265]
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.0973, 0.8684, 0.0121, 0.0085]
+        },
+        {
+          "text": "えええい!とりあえず、頑張って!! シノビマシン! 発進!",
+          "translation": "Oh, whatever! Just give it your all! Shinobi Machine! Launch!",
+          "bbox": [0.1318, 0.8667, 0.3634, 0.012]
+        },
+        {
+          "text": "※6の後は1に戻ります。",
+          "translation": "*After step 6, return to step 1.",
+          "bbox": [0.0943, 0.8876, 0.1753, 0.0107]
+        },
+        {
+          "text": "00",
+          "translation": "00",
+          "bbox": [0.4915, 0.9684, 0.0169, 0.0162]
+        },
+        {
+          "text": "①,②",
+          "translation": "①,②",
+          "bbox": [0.6965, 0.7825, 0.0381, 0.0098]
+        },
+        {
+          "text": "攻撃ボタン",
+          "translation": "Attack button",
+          "bbox": [0.8283, 0.4893, 0.075, 0.0098]
+        },
+        {
+          "text": "通信ボタン",
+          "translation": "Communication button",
+          "bbox": [0.8283, 0.8551, 0.0744, 0.0103]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-8.webp",
+      "blocks": [
+        {
+          "text": "風戦隊",
+          "translation": "Wind Sentai",
+          "bbox": [0.3299, 0.0171, 0.0489, 0.0107]
+        },
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0387, 0.038, 0.1656, 0.0158]
+        },
+        {
+          "text": "©東映",
+          "translation": "©Toei",
+          "bbox": [0.3263, 0.0641, 0.032, 0.0068]
+        },
+        {
+          "text": "矢印一覧 ■■■■■■ 取り付けます。|",
+          "translation": "Arrow legend ■■■■■■ Attach.",
+          "bbox": [0.084, 0.1132, 0.348, 0.0162]
+        },
+        {
+          "text": "取り外します。",
+          "translation": "Detach.",
+          "bbox": [0.542, 0.115, 0.1257, 0.0132]
+        },
+        {
+          "text": "可動させます。",
+          "translation": "Make movable.",
+          "bbox": [0.7885, 0.1141, 0.1293, 0.0145]
+        },
+        {
+          "text": "遊び方",
+          "translation": "How to Play",
+          "bbox": [0.1323, 0.1799, 0.0937, 0.0218]
+        },
+        {
+          "text": "④セリフ遊び",
+          "translation": "④ Dialogue Play",
+          "bbox": [0.1033, 0.25, 0.1571, 0.0179]
+        },
+        {
+          "text": "※レッド用シノビメダルを例に説明します。\n※図はベルトを省略しています。\n変身遊び後の状態から始めます。\nセリフボタンを押します。\n効果音が鳴り、各メダルに対応する色で",
+          "translation": "*Using the Red Shinobi Medal as an example.\n*The illustration omits the belt.\nStart from the state after the transformation play.\nPress the Dialogue Button.\nA sound effect will play, and in the color corresponding to each medal...",
+          "bbox": [0.084, 0.297, 0.3849, 0.0962]
+        },
+        {
+          "text": "LEDが発光します。",
+          "translation": "The LED lights up.",
+          "bbox": [0.1033, 0.4004, 0.1656, 0.0128]
+        },
+        {
+          "text": "※セリフの詳細はP14~15のセリフ一覧表をご覧ください。",
+          "translation": "*For details on the lines, please refer to the list of lines on pages 14–15.",
+          "bbox": [0.0846, 0.4214, 0.5221, 0.0141]
+        },
+        {
+          "text": "⑤BGM遊び",
+          "translation": "⑤ BGM Play",
+          "bbox": [0.1051, 0.5791, 0.1535, 0.0179]
+        },
+        {
+          "text": "※レッド用シノビメダルを例に説明します。\n※図はベルトを省略しています。\n※シノビメダル装着なしでも\nBGM遊びは可能です。\nBGMボタンを押します。\n→押すたびに下記表の順番で、\nBGMが再生・停止します。",
+          "translation": "*Using the Red Shinobi Medal as an example.\n*The illustration omits the belt.\n*BGM play is possible even without attaching a Shinobi Medal.\nPress the BGM Button.\n→Each press will play or stop the BGM in the order shown below.",
+          "bbox": [0.0834, 0.6278, 0.3873, 0.1329]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.0882, 0.7726, 0.0344, 0.0124]
+        },
+        {
+          "text": "BGM",
+          "translation": "BGM",
+          "bbox": [0.2272, 0.7744, 0.0429, 0.0081]
+        },
+        {
+          "text": "1 |ハリケンジャー参上! (TVサイズ)\n2 忍風シノビチェンジ!!1番目\n3 忍風シノビチェンジ!!2番目\n4 影となりて悪を討つ!\n5 シノビマシン発進!!\n※5の後は1に戻ります。",
+          "translation": "1 Hurricanger Arrives! (TV size)\n2 Ninpuu Shinobi Change! — 1st\n3 Ninpuu Shinobi Change! — 2nd\n4 Become a shadow and strike down evil!\n5 Shinobi Machine Launch!\n*After 5 the sequence returns to 1.",
+          "bbox": [0.0846, 0.788, 0.2804, 0.0932]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.4888, 0.9692, 0.0205, 0.0137]
+        },
+        {
+          "text": "BGM ボタン",
+          "translation": "BGM Button",
+          "bbox": [0.5505, 0.7906, 0.084, 0.0094]
+        },
+        {
+          "text": "セリフボタン",
+          "translation": "Dialogue Button",
+          "bbox": [0.8193, 0.4603, 0.0852, 0.0098]
+        },
+        {
+          "text": "GOOD",
+          "translation": "GOOD",
+          "bbox": [0.6399, 0.4607, 0.1438, 0.0607]
+        },
+        {
+          "text": "8",
+          "translation": "8",
+          "bbox": [0.7299, 0.8017, 0.0127, 0.0081]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-9.webp",
+      "blocks": [
+        {
+          "text": "風戦隊",
+          "translation": "Wind Sentai",
+          "bbox": [0.3281, 0.0167, 0.0477, 0.0107]
+        },
+        {
+          "text": "WEB取扱説明書",
+          "translation": "Online Instruction Manual",
+          "bbox": [0.0369, 0.0376, 0.1656, 0.0167]
+        },
+        {
+          "text": "©東映",
+          "translation": "©Toei",
+          "bbox": [0.3245, 0.0632, 0.0308, 0.0073]
+        },
+        {
+          "text": "矢印一覧 取り付けます。\n■■■■■■■ \n|",
+          "translation": "Arrow legend: Attach.",
+          "bbox": [0.0816, 0.1128, 0.3498, 0.0158]
+        },
+        {
+          "text": "取り外します。",
+          "translation": "Detach.",
+          "bbox": [0.5408, 0.1132, 0.1227, 0.0167]
+        },
+        {
+          "text": "可動させます。",
+          "translation": "Make movable.",
+          "bbox": [0.7849, 0.1145, 0.1305, 0.0141]
+        },
+        {
+          "text": "遊び方",
+          "translation": "How to Play",
+          "bbox": [0.1299, 0.1803, 0.0949, 0.0201]
+        },
+        {
+          "text": "63人変身遊び",
+          "translation": "63-Person Transformation Game",
+          "bbox": [0.0876, 0.2491, 0.1837, 0.0188]
+        },
+        {
+          "text": "※レッド用シノビメダルを例に説明します。\n※図はベルトを省略しています。",
+          "translation": "* The explanation uses the Shinobi Medal for Red as an example.\n* The belt is omitted from the illustration.",
+          "bbox": [0.0973, 0.2979, 0.371, 0.0338]
+        },
+        {
+          "text": "①ジャイロを回転させます。",
+          "translation": "① Rotate the gyro.",
+          "bbox": [0.0798, 0.3466, 0.2326, 0.015]
+        },
+        {
+          "text": "効果音が鳴り、各メダルに対応する色でLEDが発光します。",
+          "translation": "A sound effect plays, and the LED lights up in the color corresponding to each medal.",
+          "bbox": [0.0997, 0.3679, 0.5039, 0.0137]
+        },
+        {
+          "text": "②BGMボタンを長押しします。",
+          "translation": "② Press and hold the BGM button.",
+          "bbox": [0.081, 0.3897, 0.261, 0.0132]
+        },
+        {
+          "text": "効果音が鳴り、各メダルに対応する色でLEDが発光します。",
+          "translation": "A sound effect plays, and the LED lights up in the color corresponding to each medal.",
+          "bbox": [0.0997, 0.4107, 0.5051, 0.0141]
+        },
+        {
+          "text": "レッド : 行くぞ!!",
+          "translation": "Red: Let's go!",
+          "bbox": [0.0967, 0.4363, 0.1287, 0.012]
+        },
+        {
+          "text": "ブルー:おう!",
+          "translation": "Blue: Yeah!",
+          "bbox": [0.0937, 0.462, 0.1094, 0.012]
+        },
+        {
+          "text": "イエロー: おう!",
+          "translation": "Yellow: Yeah!",
+          "bbox": [0.0846, 0.488, 0.1178, 0.0124]
+        },
+        {
+          "text": "BGM",
+          "translation": "BGM",
+          "bbox": [0.0961, 0.5154, 0.0429, 0.009]
+        },
+        {
+          "text": "忍風シノビチェンジ!!1番目\nレッド 忍風! シノビチェンジ!はあ!\nブルー:忍びチェンジ! はあ!",
+          "translation": "Ninpuu Shinobi Change!! No.1\nRed: Ninpuu! Shinobi Change! Haa!\nBlue: Shinobi Change! Haa!",
+          "bbox": [0.0937, 0.5137, 0.2695, 0.0645]
+        },
+        {
+          "text": "イエロー:忍びチェンジ!はあ!",
+          "translation": "Yellow: Shinobi Change! Haa!",
+          "bbox": [0.084, 0.5932, 0.2211, 0.0107]
+        },
+        {
+          "text": "③ジャイロを回転させます。",
+          "translation": "③ Spin the gyro.",
+          "bbox": [0.081, 0.6197, 0.2314, 0.0145]
+        },
+        {
+          "text": "変身音が鳴った後、下記の通りセリフが鳴り、\n各キャラクターに対応する色でLEDが発光します。\nレッド : 風が鳴き、空が怒る!空忍、 ハリケンレッド!",
+          "translation": "After the transformation sound plays, the lines below will play and the LED will light in the color corresponding to each character.\nRed: The wind cries, the sky rages! Sky Ninja, Hurricane Red!",
+          "bbox": [0.0967, 0.641, 0.4381, 0.062]
+        },
+        {
+          "text": "ブルー 水が舞い、波が躍る!水忍、ハリケンブルー!",
+          "translation": "Blue: Water dances and the waves leap! Water Ninja, Hurricane Blue!",
+          "bbox": [0.0937, 0.7158, 0.374, 0.0124]
+        },
+        {
+          "text": "イエロー: 大地が震え、花が詠う!陸忍、 ハリケンイエロー!",
+          "translation": "Yellow: The earth trembles and the flowers sing! Land Ninja, Hurricane Yellow!",
+          "bbox": [0.0846, 0.7427, 0.4127, 0.012]
+        },
+        {
+          "text": "レッド人も知らず",
+          "translation": "Red: People know it not!",
+          "bbox": [0.0973, 0.7688, 0.1498, 0.012]
+        },
+        {
+          "text": "ブルー:世も知らず!",
+          "translation": "Blue: Unaware of the world!",
+          "bbox": [0.0931, 0.7949, 0.1601, 0.0115]
+        },
+        {
+          "text": "イエロー : 影となりて悪を打つ!",
+          "translation": "Yellow: Striking down evil from the shadows!",
+          "bbox": [0.0846, 0.8209, 0.232, 0.012]
+        },
+        {
+          "text": "レッド : 忍風戦隊!",
+          "translation": "Red: Ninpuu Sentai!",
+          "bbox": [0.0967, 0.8466, 0.1426, 0.0128]
+        },
+        {
+          "text": "3人",
+          "translation": "3 people",
+          "bbox": [0.1021, 0.8731, 0.0326, 0.0103]
+        },
+        {
+          "text": "レッド",
+          "translation": "Red",
+          "bbox": [0.0967, 0.8987, 0.0423, 0.0111]
+        },
+        {
+          "text": ": ハリケンジャー",
+          "translation": ": Hurricanger",
+          "bbox": [0.1571, 0.8731, 0.1166, 0.012]
+        },
+        {
+          "text": ": あ、参上!",
+          "translation": ": Ah, I've arrived!",
+          "bbox": [0.1583, 0.8987, 0.0719, 0.0128]
+        },
+        {
+          "text": "10",
+          "translation": "10",
+          "bbox": [0.4834, 0.9697, 0.0387, 0.0132]
+        },
+        {
+          "text": "①、③",
+          "translation": "1, 3",
+          "bbox": [0.6133, 0.3329, 0.0429, 0.0111]
+        },
+        {
+          "text": "(2)",
+          "translation": "(2)",
+          "bbox": [0.6526, 0.4897, 0.0145, 0.0081]
+        },
+        {
+          "text": "(8)",
+          "translation": "(8)",
+          "bbox": [0.7728, 0.4667, 0.0193, 0.009]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-10.webp",
+      "blocks": [
+        {
+          "text": "風戦隊",
+          "translation": "Wind Sentai",
+          "bbox": [0.3281, 0.0175, 0.0471, 0.0103]
+        },
+        {
+          "text": "WEB取扱説明書",
+          "translation": "Online Instruction Manual",
+          "bbox": [0.0369, 0.0376, 0.1656, 0.0158]
+        },
+        {
+          "text": "©東映",
+          "translation": "©Toei",
+          "bbox": [0.3245, 0.0637, 0.032, 0.0077]
+        },
+        {
+          "text": "矢印一覧 取り付けます。\n■■■■■■ \n|",
+          "translation": "Arrow legend — 'Attach.' 'Remove.' 'Make movable.'",
+          "bbox": [0.0828, 0.1132, 0.3486, 0.015]
+        },
+        {
+          "text": "取り外します。",
+          "translation": "Remove.",
+          "bbox": [0.5408, 0.1132, 0.1245, 0.0171]
+        },
+        {
+          "text": "可動させます。",
+          "translation": "Make movable.",
+          "bbox": [0.7867, 0.115, 0.1293, 0.0132]
+        },
+        {
+          "text": "大江戸メダル(別売り)での遊び方",
+          "translation": "How to play with the Oedo Medal (sold separately)",
+          "bbox": [0.1015, 0.1799, 0.4689, 0.0222]
+        },
+        {
+          "text": "① 変身遊び",
+          "translation": "① Transformation play",
+          "bbox": [0.1124, 0.2509, 0.1366, 0.0179]
+        },
+        {
+          "text": "※図はベルトを省略しています。\n①ハリケンジャイロ本体に大江戸メダル (別売り)を取り付けます。",
+          "translation": "*The belt is omitted from the illustration.\n① Attach the Oedo Medal (sold separately) to the Hurricane Gyro main unit.",
+          "bbox": [0.081, 0.3004, 0.5462, 0.0402]
+        },
+        {
+          "text": "②ジャイロを回転させます。\n効果音が鳴り、LEDが白く発光します。\n③変身ボタンを押します。",
+          "translation": "② Spin the gyro. A sound effect will play, and the LED will light white.\n③ Press the transformation button.",
+          "bbox": [0.081, 0.3483, 0.3474, 0.0564]
+        },
+        {
+          "text": "待機音とセリフが鳴り、LEDが赤く発光します。",
+          "translation": "A standby sound and dialogue will play, and the LED will light red.",
+          "bbox": [0.1003, 0.412, 0.4012, 0.0141]
+        },
+        {
+          "text": "④待機音中にジャイロを回転させます。",
+          "translation": "④ While the standby sound is playing, rotate the gyro.",
+          "bbox": [0.081, 0.4333, 0.3281, 0.0141]
+        },
+        {
+          "text": "変身音と右記セリフが鳴り、LEDが赤く発光します。",
+          "translation": "The transformation sound and the dialogue shown at right will play, and the LED will light red.",
+          "bbox": [0.1003, 0.4547, 0.4405, 0.0137]
+        },
+        {
+          "text": "※形に合わせて",
+          "translation": "*Fit to the shape",
+          "bbox": [0.1039, 0.4893, 0.1335, 0.0128]
+        },
+        {
+          "text": "取り付けます。",
+          "translation": "Attach.",
+          "bbox": [0.1208, 0.5098, 0.1233, 0.0137]
+        },
+        {
+          "text": "【別角度】",
+          "translation": "[Alternate view]",
+          "bbox": [0.1045, 0.5333, 0.0725, 0.0141]
+        },
+        {
+          "text": "2888938",
+          "translation": "2888938",
+          "bbox": [0.1644, 0.5628, 0.0314, 0.006]
+        },
+        {
+          "text": "I",
+          "translation": "I",
+          "bbox": [0.3112, 0.7991, 0.0091, 0.0064]
+        },
+        {
+          "text": "大江戸メダル (別売り)",
+          "translation": "Oedo Medal (sold separately)",
+          "bbox": [0.3752, 0.6137, 0.1468, 0.0103]
+        },
+        {
+          "text": "K",
+          "translation": "K",
+          "bbox": [0.4453, 0.7949, 0.0097, 0.0077]
+        },
+        {
+          "text": "11",
+          "translation": "11",
+          "bbox": [0.4834, 0.9701, 0.0302, 0.0137]
+        },
+        {
+          "text": "セリフ",
+          "translation": "Dialogue",
+          "bbox": [0.713, 0.3654, 0.0459, 0.0094]
+        },
+        {
+          "text": "やあやあやあ\n遠からん者は音に聞け、\n|近くば寄って目にも見よ\n我こそは、時を超え、運命を超え、\n心を一つに集いし魂なり!\n|疾風迅雷! 大江戸ハリケンレッド!あ!誕生!\n妖魔必滅の刃、受けてみよ!",
+          "translation": "Ya-ya-ya-ya!\nThose far away, hear with your ears; those nearby, come close and see with your eyes.\nI am a soul gathered into one heart, transcending time and destiny!\nSwift gale, sudden thunder! Oedo Hurricanger Red! Ah — my birth!\nReceive the blade that ensures the demons' annihilation!",
+          "bbox": [0.5758, 0.3812, 0.2991, 0.103]
+        },
+        {
+          "text": "(3)",
+          "translation": "(3)",
+          "bbox": [0.7414, 0.7675, 0.0133, 0.0085]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-11.webp",
+      "blocks": [
+        {
+          "text": "風戦隊",
+          "translation": "Wind Sentai",
+          "bbox": [0.3287, 0.0175, 0.0465, 0.0103]
+        },
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0369, 0.038, 0.165, 0.0154]
+        },
+        {
+          "text": "©東映",
+          "translation": "©Toei",
+          "bbox": [0.3251, 0.0637, 0.0308, 0.0073]
+        },
+        {
+          "text": "矢印一覧 取り付けます。\n■■■■■ \n|",
+          "translation": "Arrow legend: Attach.",
+          "bbox": [0.0828, 0.1137, 0.3474, 0.0145]
+        },
+        {
+          "text": "取り外します。 |",
+          "translation": "Detach. |",
+          "bbox": [0.5414, 0.112, 0.1396, 0.0175]
+        },
+        {
+          "text": "可動させます。",
+          "translation": "Can be moved.",
+          "bbox": [0.7873, 0.115, 0.1287, 0.0132]
+        },
+        {
+          "text": "大江戸メダル (別売り)での遊び方",
+          "translation": "How to play with Oedo Medals (sold separately)",
+          "bbox": [0.1015, 0.1795, 0.4695, 0.0226]
+        },
+        {
+          "text": "②攻撃遊び",
+          "translation": "② Attack Play",
+          "bbox": [0.1118, 0.2517, 0.1347, 0.0167]
+        },
+        {
+          "text": "※図はベルトを省略しています。\n※変身遊び後の状態から始めます。",
+          "translation": "Note: The belt is omitted from the illustration.\nNote: Start from the state after transformation play.",
+          "bbox": [0.0967, 0.3004, 0.3063, 0.0321]
+        },
+        {
+          "text": "①攻撃ボタンを押します。\n効果音が鳴り、LEDが赤く発光します。\n②ジャイロを回転させます。\n→攻撃音が鳴り、LEDが赤く発光します。",
+          "translation": "① Press the attack button.\nA sound effect will play, and the LED will light red.\n② Rotate the gyro.\n→ An attack sound will play, and the LED will light red.",
+          "bbox": [0.0804, 0.3466, 0.3486, 0.0786]
+        },
+        {
+          "text": "③通信遊び",
+          "translation": "③ Communication Play",
+          "bbox": [0.1118, 0.6239, 0.1353, 0.0188]
+        },
+        {
+          "text": "※図はベルトを省略しています。\n※変身遊び後の状態から始めます。\n通信ボタンを押します。\n通信音が鳴り、LEDが赤く発光します。",
+          "translation": "Note: The belt is omitted from the illustration.\nNote: Start from the state after transformation play.\nPress the communication button.\nA communication sound will play, and the LED will light red.",
+          "bbox": [0.0804, 0.6701, 0.3462, 0.0795]
+        },
+        {
+          "text": "12",
+          "translation": "12",
+          "bbox": [0.484, 0.9692, 0.0356, 0.0141]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-12.webp",
+      "blocks": [
+        {
+          "text": "風戦隊",
+          "translation": "Wind Sentai",
+          "bbox": [0.3293, 0.0175, 0.0465, 0.0107]
+        },
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0375, 0.0376, 0.1662, 0.0167]
+        },
+        {
+          "text": "©東映",
+          "translation": "©Toei",
+          "bbox": [0.3251, 0.0632, 0.0308, 0.0077]
+        },
+        {
+          "text": "矢印一覧 ◆ 取り付けます。",
+          "translation": "Arrow legend ◆ Attach.",
+          "bbox": [0.0828, 0.1132, 0.3317, 0.0162]
+        },
+        {
+          "text": "取り外します。",
+          "translation": "Detach.",
+          "bbox": [0.5414, 0.1137, 0.1239, 0.0162]
+        },
+        {
+          "text": "可動させます。",
+          "translation": "Allows movement.",
+          "bbox": [0.7867, 0.1145, 0.1299, 0.0141]
+        },
+        {
+          "text": "大江戸メダル (別売り)での遊び方",
+          "translation": "How to play with Oedo Medals (sold separately)",
+          "bbox": [0.1015, 0.1795, 0.4695, 0.0226]
+        },
+        {
+          "text": "④セリフ遊び",
+          "translation": "④ Dialogue Play",
+          "bbox": [0.1015, 0.2517, 0.1571, 0.0175]
+        },
+        {
+          "text": "※図はベルトを省略しています。\n※変身遊び後の状態から始めます。\nセリフボタンを押します。",
+          "translation": "*The belt is omitted in the illustration.\n*Start from the state after transformation play.\nPress the dialogue button.",
+          "bbox": [0.0822, 0.3009, 0.3208, 0.0547]
+        },
+        {
+          "text": "→押すたびに効果音が鳴り、LEDが白く発光します。",
+          "translation": "→Each time you press it, a sound effect plays and the LED lights up white.",
+          "bbox": [0.081, 0.3641, 0.4447, 0.0141]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.0858, 0.397, 0.0344, 0.0115]
+        },
+        {
+          "text": "セリフ",
+          "translation": "Dialogue",
+          "bbox": [0.2314, 0.397, 0.0459, 0.0107]
+        },
+        {
+          "text": "1 超忍法、大江戸疾風斬!\n2 超忍法、大江戸破裏剣!\n3 疾風迅雷 ・天・空・超・忍・剣!",
+          "translation": "1 Super Ninpo — Oedo Gale Slash!\n2 Super Ninpo — Oedo Hariken!\n3 Swift · Wind · Lightning · Heaven · Sky · Super · Ninja · Sword!",
+          "bbox": [0.0967, 0.4124, 0.2502, 0.0423]
+        },
+        {
+          "text": "4 成敗!",
+          "translation": "4 Judgment!",
+          "bbox": [0.0961, 0.4577, 0.0743, 0.0124]
+        },
+        {
+          "text": "※4の後は1に戻ります。",
+          "translation": "*After step 4, it returns to step 1.",
+          "bbox": [0.0828, 0.4782, 0.1752, 0.012]
+        },
+        {
+          "text": "⑤BGM遊び",
+          "translation": "⑤ BGM Play",
+          "bbox": [0.1033, 0.6214, 0.1529, 0.0184]
+        },
+        {
+          "text": "※図はベルトを省略しています。\n大江戸メダル装着なしでも\nBGM遊びが可能です。\nBGMボタンを押します。\n押すたびに下記表の順番で、\nBGMが再生・停止します。",
+          "translation": "*The illustration omits the belt.\n*BGM play is possible even without attaching an Oedo Medal.\nPress the BGM button.\nEach time you press it, the BGM will play or stop in the order shown below.",
+          "bbox": [0.0822, 0.6744, 0.2955, 0.1158]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.087, 0.8017, 0.0314, 0.0107]
+        },
+        {
+          "text": "BGM",
+          "translation": "BGM",
+          "bbox": [0.2326, 0.8026, 0.0441, 0.0085]
+        },
+        {
+          "text": "1 ハリケンジャー参上! (TVサイズ)\n2 忍風シノビチェンジ!!1番目\n3 忍風シノビチェンジ!!2番目\n4 影となりて悪を討つ!",
+          "translation": "1 Hurricanger Appears! (TV size)\n2 Ninpuu Shinobi Change! — 1st\n3 Ninpuu Shinobi Change! — 2nd\n4 Become a shadow and strike down evil!",
+          "bbox": [0.0949, 0.8167, 0.2677, 0.0573]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.0967, 0.8803, 0.0121, 0.0081]
+        },
+        {
+          "text": "シノビマシン発進!!",
+          "translation": "Shinobi Machine, Launch!",
+          "bbox": [0.1323, 0.8778, 0.1366, 0.012]
+        },
+        {
+          "text": "※5の後は1に戻ります。",
+          "translation": "*After step 5, it returns to step 1.",
+          "bbox": [0.0828, 0.8979, 0.1752, 0.0124]
+        },
+        {
+          "text": "13",
+          "translation": "13",
+          "bbox": [0.484, 0.9684, 0.0356, 0.0162]
+        },
+        {
+          "text": "(8)",
+          "translation": "(8)",
+          "bbox": [0.7039, 0.4607, 0.0169, 0.0073]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-13.webp",
+      "blocks": [
+        {
+          "text": "【風戦隊",
+          "translation": "Fuu Sentai",
+          "bbox": [0.3047, 0.0162, 0.0713, 0.0115]
+        },
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0369, 0.0376, 0.1663, 0.0167]
+        },
+        {
+          "text": "©東映",
+          "translation": "©Toei",
+          "bbox": [0.3247, 0.0637, 0.032, 0.0073]
+        },
+        {
+          "text": "セリフ遊び(レッド用シノビメダル装着時)",
+          "translation": "Voice Line Play (When Red's Shinobi Medal is equipped)",
+          "bbox": [0.1076, 0.1201, 0.5738, 0.0231]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.0955, 0.1919, 0.0405, 0.0141]
+        },
+        {
+          "text": "セリフ",
+          "translation": "Dialogue",
+          "bbox": [0.2896, 0.1923, 0.0544, 0.0124]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.4964, 0.1923, 0.0417, 0.0137]
+        },
+        {
+          "text": "セリフ",
+          "translation": "Dialogue",
+          "bbox": [0.7031, 0.1923, 0.0544, 0.0124]
+        },
+        {
+          "text": "1 超忍法!空駆け!",
+          "translation": "1 Super Ninja Art! Sky Dash!",
+          "bbox": [0.1106, 0.2162, 0.1687, 0.0124]
+        },
+        {
+          "text": "13",
+          "translation": "13",
+          "bbox": [0.5042, 0.2167, 0.0302, 0.0124]
+        },
+        {
+          "text": "ファイヤー! (SE付き)",
+          "translation": "Fire! (with sound effects)",
+          "bbox": [0.5574, 0.2167, 0.1711, 0.0124]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.107, 0.2419, 0.0163, 0.0094]
+        },
+        {
+          "text": "ジャイロシュリケン!",
+          "translation": "Gyro Shuriken!",
+          "bbox": [0.1548, 0.2397, 0.1548, 0.0132]
+        },
+        {
+          "text": "14",
+          "translation": "14",
+          "bbox": [0.5042, 0.2402, 0.0296, 0.0128]
+        },
+        {
+          "text": "セイ!バイバイ!",
+          "translation": "Say! Bye-bye!",
+          "bbox": [0.5568, 0.2402, 0.1185, 0.0128]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.1082, 0.2654, 0.0145, 0.0103]
+        },
+        {
+          "text": "超忍法!影の舞!",
+          "translation": "Super Ninja Art! Dance of Shadows!",
+          "bbox": [0.1548, 0.2645, 0.1239, 0.0124]
+        },
+        {
+          "text": "15",
+          "translation": "15",
+          "bbox": [0.5042, 0.265, 0.0296, 0.0115]
+        },
+        {
+          "text": "よし!みんな!いくぞっ!",
+          "translation": "Alright! Everyone! Let's go!",
+          "bbox": [0.5574, 0.265, 0.1729, 0.0115]
+        },
+        {
+          "text": "はあっ!やぁ!とう!おら!",
+          "translation": "Haa! Yah! Toh! Ora!",
+          "bbox": [0.1566, 0.2902, 0.1735, 0.012]
+        },
+        {
+          "text": "16",
+          "translation": "16",
+          "bbox": [0.5042, 0.2885, 0.0308, 0.012]
+        },
+        {
+          "text": "おう!",
+          "translation": "Yeah!",
+          "bbox": [0.5574, 0.2885, 0.0387, 0.012]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.1064, 0.3017, 0.0181, 0.0103]
+        },
+        {
+          "text": "はああああああっつ! (SE付き)",
+          "translation": "Haaaaaaah! (with sound effects)",
+          "bbox": [0.1566, 0.312, 0.243, 0.012]
+        },
+        {
+          "text": "17",
+          "translation": "17",
+          "bbox": [0.5042, 0.3124, 0.0302, 0.0128]
+        },
+        {
+          "text": "忍風合体!",
+          "translation": "Ninpuu Gattai!",
+          "bbox": [0.5568, 0.3124, 0.0804, 0.0128]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.1076, 0.338, 0.0151, 0.0103]
+        },
+        {
+          "text": "ハーリーケー――ン! (SE付き)",
+          "translation": "Hurricane! (with sound effects)",
+          "bbox": [0.1548, 0.3372, 0.2473, 0.012]
+        },
+        {
+          "text": "18",
+          "translation": "18",
+          "bbox": [0.5042, 0.3372, 0.0302, 0.0115]
+        },
+        {
+          "text": "カラクリ巨人!",
+          "translation": "Clockwork Giant!",
+          "bbox": [0.5568, 0.3372, 0.1094, 0.0115]
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.1082, 0.3615, 0.0145, 0.0107]
+        },
+        {
+          "text": "よっしゃー!",
+          "translation": "All right!",
+          "bbox": [0.156, 0.3615, 0.0859, 0.0111]
+        },
+        {
+          "text": "19",
+          "translation": "19",
+          "bbox": [0.5042, 0.3603, 0.0272, 0.0128]
+        },
+        {
+          "text": "旋風神!推参!",
+          "translation": "Senpuujin! Arrives!",
+          "bbox": [0.5562, 0.3603, 0.1058, 0.0128]
+        },
+        {
+          "text": "7",
+          "translation": "7",
+          "bbox": [0.1076, 0.3859, 0.0169, 0.0103]
+        },
+        {
+          "text": "ハヤテマル!ガンモード!はっ!",
+          "translation": "Hayatemaru! Gun Mode! Hah!",
+          "bbox": [0.1554, 0.3846, 0.2279, 0.0124]
+        },
+        {
+          "text": "20",
+          "translation": "20",
+          "bbox": [0.5006, 0.385, 0.0345, 0.0115]
+        },
+        {
+          "text": "おぼろさん!",
+          "translation": "Oboro-san!",
+          "bbox": [0.5574, 0.385, 0.0949, 0.0115]
+        },
+        {
+          "text": "8 ドライガン!",
+          "translation": "8 Dry Gun!",
+          "bbox": [0.1082, 0.4085, 0.1378, 0.0124]
+        },
+        {
+          "text": "21",
+          "translation": "21",
+          "bbox": [0.5, 0.4094, 0.029, 0.0115]
+        },
+        {
+          "text": "よし! 行くぜ!",
+          "translation": "Alright! Let's go!",
+          "bbox": [0.5574, 0.4094, 0.0973, 0.0111]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.1064, 0.4333, 0.0175, 0.0111]
+        },
+        {
+          "text": "ソニックメガホン!",
+          "translation": "Sonic Megaphone!",
+          "bbox": [0.1548, 0.4329, 0.1403, 0.012]
+        },
+        {
+          "text": "22",
+          "translation": "22",
+          "bbox": [0.5012, 0.4325, 0.0302, 0.0128]
+        },
+        {
+          "text": "シノビメダル!セット! (SE付き)",
+          "translation": "Shinobi Medal! Set! (with sound effects)",
+          "bbox": [0.5568, 0.4325, 0.2437, 0.0128]
+        },
+        {
+          "text": "10",
+          "translation": "10",
+          "bbox": [0.1028, 0.4577, 0.0278, 0.0107]
+        },
+        {
+          "text": "クエイクハンマー!",
+          "translation": "Quake Hammer!",
+          "bbox": [0.1554, 0.4573, 0.1463, 0.0115]
+        },
+        {
+          "text": "23 カラクリボール!発動!",
+          "translation": "23 Karakuri Ball! Activate!",
+          "bbox": [0.5012, 0.4568, 0.2267, 0.0124]
+        },
+        {
+          "text": "11",
+          "translation": "11",
+          "bbox": [0.1028, 0.4816, 0.0242, 0.0107]
+        },
+        {
+          "text": "三重連!",
+          "translation": "Triple Strike!",
+          "bbox": [0.1548, 0.4808, 0.0617, 0.0124]
+        },
+        {
+          "text": "24 ソードスラッシャー!",
+          "translation": "24 Sword Slasher!",
+          "bbox": [0.5012, 0.4808, 0.2098, 0.0124]
+        },
+        {
+          "text": "12 トリプルガジェット!",
+          "translation": "12 Triple Gadget!",
+          "bbox": [0.1028, 0.5047, 0.2001, 0.0128]
+        },
+        {
+          "text": "25 究極奥義!分身幻斬り! (SE付き)",
+          "translation": "25 Ultimate Technique! Clone-Phantom Slash! (with sound effects)",
+          "bbox": [0.5012, 0.5047, 0.3132, 0.0132]
+        },
+        {
+          "text": "※25の後は1に戻ります。",
+          "translation": "*After 25, it returns to 1.",
+          "bbox": [0.7158, 0.5321, 0.1874, 0.0124]
+        },
+        {
+          "text": "セリフ遊び(ブルー用シノビメダル装着時)",
+          "translation": "Voice Line Play (When Blue's Shinobi Medal is equipped)",
+          "bbox": [0.1016, 0.5791, 0.5871, 0.0235]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.0955, 0.6513, 0.0399, 0.0137]
+        },
+        {
+          "text": "セリフ",
+          "translation": "Dialogue",
+          "bbox": [0.2896, 0.6517, 0.0556, 0.012]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.4964, 0.6509, 0.0411, 0.0141]
+        },
+        {
+          "text": "セリフ",
+          "translation": "Dialogue",
+          "bbox": [0.6917, 0.6513, 0.055, 0.0128]
+        },
+        {
+          "text": "1 ハヤテマル!ガンモード!",
+          "translation": "1 Hayatemaru! Gun Mode!",
+          "bbox": [0.1106, 0.6752, 0.2334, 0.0132]
+        },
+        {
+          "text": "10 セイ!バイバイ!",
+          "translation": "10 Say! Bye-bye!",
+          "bbox": [0.5042, 0.6752, 0.1705, 0.0128]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.1064, 0.7009, 0.0163, 0.0094]
+        },
+        {
+          "text": "いくわよおお!",
+          "translation": "Here I go!",
+          "bbox": [0.156, 0.7004, 0.1112, 0.012]
+        },
+        {
+          "text": "11 いくわよーー!忍風合体!",
+          "translation": "11 Here we go! Ninpuu Gattai!",
+          "bbox": [0.5042, 0.6987, 0.2449, 0.0137]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.1076, 0.7248, 0.0163, 0.0098]
+        },
+        {
+          "text": "超忍法!水流波",
+          "translation": "Super Ninja Art: Water Current Wave!",
+          "bbox": [0.1548, 0.7239, 0.1179, 0.012]
+        },
+        {
+          "text": "12 忍風合体!",
+          "translation": "12 Ninpuu Gattai!",
+          "bbox": [0.5042, 0.7235, 0.1324, 0.0128]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.107, 0.7491, 0.0181, 0.0098]
+        },
+        {
+          "text": "やったー!",
+          "translation": "Yay!",
+          "bbox": [0.1554, 0.7487, 0.0738, 0.0107]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.1076, 0.7735, 0.0145, 0.0103]
+        },
+        {
+          "text": "超忍法!影の舞!",
+          "translation": "Super Ninja Art! Dance of Shadows!",
+          "bbox": [0.1548, 0.7709, 0.1233, 0.0137]
+        },
+        {
+          "text": "はあっ!やぁ!とう!おら!",
+          "translation": "Haa! Yah! Toh! Ora!",
+          "bbox": [0.1566, 0.7979, 0.1735, 0.0111]
+        },
+        {
+          "text": "13 カラクリ巨人!\n14 旋風神! 推参!\n15 おぼろさん!",
+          "translation": "13 Karakuri Giant!\n14 Senpuujin! Arrives!\n15 Oboro-san!",
+          "bbox": [0.5042, 0.7483, 0.1608, 0.0598]
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.1082, 0.809, 0.0139, 0.0103]
+        },
+        {
+          "text": "はああああああっつ! (SE付き)",
+          "translation": "Haaaaaaah! (with sound effects)",
+          "bbox": [0.1566, 0.8192, 0.2437, 0.0115]
+        },
+        {
+          "text": "16 シノビメダル!セット!(SE付き)",
+          "translation": "16 Shinobi Medal! Set! (with sound effects)",
+          "bbox": [0.5042, 0.8197, 0.2969, 0.0128]
+        },
+        {
+          "text": "7",
+          "translation": "7",
+          "bbox": [0.1076, 0.8453, 0.0175, 0.0103]
+        },
+        {
+          "text": "ハーリーケー―ーン! (SE付き)",
+          "translation": "Hurricane! (with sound effects)",
+          "bbox": [0.1548, 0.844, 0.2497, 0.0124]
+        },
+        {
+          "text": "17",
+          "translation": "17",
+          "bbox": [0.5042, 0.8444, 0.029, 0.012]
+        },
+        {
+          "text": "カラクリボール!発動!",
+          "translation": "Karakuri Ball! Activate!",
+          "bbox": [0.5568, 0.8444, 0.1705, 0.012]
+        },
+        {
+          "text": "8",
+          "translation": "8",
+          "bbox": [0.1076, 0.8692, 0.0139, 0.0103]
+        },
+        {
+          "text": "やったー!",
+          "translation": "Yay!",
+          "bbox": [0.1554, 0.8684, 0.0744, 0.0115]
+        },
+        {
+          "text": "18",
+          "translation": "18",
+          "bbox": [0.5042, 0.8688, 0.0278, 0.0111]
+        },
+        {
+          "text": "トータスハンマー!",
+          "translation": "Tortoise Hammer!",
+          "bbox": [0.558, 0.8684, 0.1439, 0.0115]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.1064, 0.8927, 0.0163, 0.0111]
+        },
+        {
+          "text": "トリプルガジェット!ロールアップ!",
+          "translation": "Triple Gadget! Roll Up!",
+          "bbox": [0.156, 0.8915, 0.2576, 0.0137]
+        },
+        {
+          "text": "19",
+          "translation": "19",
+          "bbox": [0.5042, 0.8923, 0.0272, 0.0128]
+        },
+        {
+          "text": "究極奥義!ロックドバスター!",
+          "translation": "Ultimate Technique! Rock-do Buster!",
+          "bbox": [0.5562, 0.8923, 0.2213, 0.0128]
+        },
+        {
+          "text": "※19の後は1に戻ります。",
+          "translation": "*After 19, it returns to 1.",
+          "bbox": [0.7158, 0.9209, 0.1886, 0.0111]
+        },
+        {
+          "text": "14",
+          "translation": "14",
+          "bbox": [0.4837, 0.9684, 0.0369, 0.0145]
+        }
+      ]
+    },
+    {
+      "image": "pages/page-14.webp",
+      "blocks": [
+        {
+          "text": "【風戦隊",
+          "translation": "Wind Sentai",
+          "bbox": [0.3047, 0.0162, 0.0707, 0.0111]
+        },
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0369, 0.0376, 0.1663, 0.0167]
+        },
+        {
+          "text": "©東映",
+          "translation": "©Toei",
+          "bbox": [0.3247, 0.0632, 0.0308, 0.0081]
+        },
+        {
+          "text": "セリフ遊び(イエロー用シノビメダル装着時)",
+          "translation": "Dialogue Play (When Yellow Shinobi Medal is equipped)",
+          "bbox": [0.1034, 0.1205, 0.6191, 0.0226]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.0949, 0.1919, 0.0411, 0.0141]
+        },
+        {
+          "text": "セリフ",
+          "translation": "Line",
+          "bbox": [0.2896, 0.1923, 0.0544, 0.0124]
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [0.497, 0.1919, 0.0411, 0.0137]
+        },
+        {
+          "text": "セリフ",
+          "translation": "Line",
+          "bbox": [0.7037, 0.1927, 0.0544, 0.0115]
+        },
+        {
+          "text": "1 超忍法!舞獅子!",
+          "translation": "1 Super Ninjutsu! Dancing Lion!",
+          "bbox": [0.1106, 0.2158, 0.1644, 0.0132]
+        },
+        {
+          "text": "11",
+          "translation": "11",
+          "bbox": [0.5042, 0.2171, 0.0248, 0.0103]
+        },
+        {
+          "text": "やりいい!",
+          "translation": "Yay!",
+          "bbox": [0.5568, 0.2167, 0.0695, 0.012]
+        },
+        {
+          "text": "2 超忍法!地雷撃!",
+          "translation": "2 Super Ninjutsu! Landmine Strike!",
+          "bbox": [0.107, 0.2397, 0.1693, 0.0132]
+        },
+        {
+          "text": "12",
+          "translation": "12",
+          "bbox": [0.5048, 0.2406, 0.026, 0.0128]
+        },
+        {
+          "text": "いくぞ!忍風合体!",
+          "translation": "Let's go! Ninpuu Gattai!",
+          "bbox": [0.5568, 0.2397, 0.1372, 0.0132]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.1076, 0.2654, 0.0163, 0.0103]
+        },
+        {
+          "text": "はあっ!やあっ!とうっ!",
+          "translation": "Haa! Yaah! Toh!",
+          "bbox": [0.1566, 0.265, 0.1626, 0.012]
+        },
+        {
+          "text": "13",
+          "translation": "13",
+          "bbox": [0.5042, 0.2645, 0.0284, 0.0128]
+        },
+        {
+          "text": "忍風合体!",
+          "translation": "Ninpuu Gattai!",
+          "bbox": [0.5568, 0.2645, 0.0798, 0.0128]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.107, 0.2897, 0.0169, 0.0098]
+        },
+        {
+          "text": "ハヤテマル!ガンモード!",
+          "translation": "Hayatemaru! Gun Mode!",
+          "bbox": [0.1554, 0.2885, 0.185, 0.012]
+        },
+        {
+          "text": "14",
+          "translation": "14",
+          "bbox": [0.5042, 0.2889, 0.0302, 0.0124]
+        },
+        {
+          "text": "カラクリ巨人!",
+          "translation": "Clockwork Giant!",
+          "bbox": [0.5568, 0.2889, 0.1076, 0.0124]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.1076, 0.3141, 0.0151, 0.0103]
+        },
+        {
+          "text": "超忍法!影の舞!",
+          "translation": "Super Ninjutsu! Dance of Shadows!",
+          "bbox": [0.1554, 0.3124, 0.1215, 0.0132]
+        },
+        {
+          "text": "15 旋風神!推参!",
+          "translation": "15 Senpuujin! Here I come!",
+          "bbox": [0.5042, 0.3128, 0.1554, 0.0128]
+        },
+        {
+          "text": "はあっ!やぁ!とう!おら!",
+          "translation": "Haa! Yah! Toh! Ora!",
+          "bbox": [0.156, 0.3385, 0.1699, 0.0115]
+        },
+        {
+          "text": "16",
+          "translation": "16",
+          "bbox": [0.5042, 0.3368, 0.0296, 0.012]
+        },
+        {
+          "text": "おぼろさん!",
+          "translation": "Oboro-san!",
+          "bbox": [0.5574, 0.3368, 0.0937, 0.012]
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.1076, 0.3496, 0.0145, 0.0103]
+        },
+        {
+          "text": "はああああああっつ! (SE付き)",
+          "translation": "Haaaaaaah! (with sound effects)",
+          "bbox": [0.1566, 0.3598, 0.2424, 0.012]
+        },
+        {
+          "text": "17",
+          "translation": "17",
+          "bbox": [0.5048, 0.3607, 0.0284, 0.0128]
+        },
+        {
+          "text": "シノビメダル!セット!(SE付き)",
+          "translation": "Shinobi Medal! Set! (with sound effects)",
+          "bbox": [0.5574, 0.3607, 0.24, 0.0128]
+        },
+        {
+          "text": "7",
+          "translation": "7",
+          "bbox": [0.1076, 0.3859, 0.0169, 0.0103]
+        },
+        {
+          "text": "ハーリーケーーーン! (SE付き)",
+          "translation": "Hurricane! (with sound effects)",
+          "bbox": [0.1548, 0.3855, 0.2467, 0.0115]
+        },
+        {
+          "text": "18 カラクリボール!発動!",
+          "translation": "18 Karakuri Ball! Activate!",
+          "bbox": [0.5042, 0.3846, 0.2219, 0.0124]
+        },
+        {
+          "text": "8",
+          "translation": "8",
+          "bbox": [0.1076, 0.4098, 0.0151, 0.0103]
+        },
+        {
+          "text": "トリプルガジェット!ブレイクダウン!",
+          "translation": "Triple Gadget! Breakdown!",
+          "bbox": [0.1566, 0.4081, 0.2703, 0.0132]
+        },
+        {
+          "text": "19",
+          "translation": "19",
+          "bbox": [0.5042, 0.4098, 0.0284, 0.0103]
+        },
+        {
+          "text": "ゴートクラッシャー",
+          "translation": "Goat Crusher",
+          "bbox": [0.5574, 0.4081, 0.1469, 0.0128]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.1076, 0.4333, 0.0151, 0.0111]
+        },
+        {
+          "text": "セイ!バイバイ!",
+          "translation": "Sei! Bye-bye!",
+          "bbox": [0.1554, 0.4321, 0.1167, 0.0128]
+        },
+        {
+          "text": "20 究極奥義! 疾風! 豪快落とし!",
+          "translation": "20 Ultimate Secret Move! Gale! Mighty Drop!",
+          "bbox": [0.5012, 0.4325, 0.2703, 0.0132]
+        },
+        {
+          "text": "10 はああああああっ!",
+          "translation": "10 Haaaaaaaaa!",
+          "bbox": [0.1022, 0.4573, 0.2001, 0.0115]
+        },
+        {
+          "text": "※20の後は1に戻ります。",
+          "translation": "*After 20, it returns to 1.",
+          "bbox": [0.7207, 0.4607, 0.188, 0.0107]
+        },
+        {
+          "text": "15",
+          "translation": "15",
+          "bbox": [0.4843, 0.9697, 0.0339, 0.0141]
+        }
+      ]
+    }
+  ]
+}

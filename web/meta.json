@@ -1,19 +1,54 @@
 {
   "manuals": [
     {
+      "name": "BlackSun",
+      "source": "BlackSun.pdf",
+      "pages": 4,
+      "blocks": 359,
+      "thumbnail": "BlackSun/pages/page-0.webp",
+      "source_url": "",
+      "blog_url": "",
+      "tags": ["csm", "kamen-rider"]
+    },
+    {
+      "name": "CSM Double Driver v2",
+      "source": "CSM Double Driver v2.PDF",
+      "pages": 30,
+      "blocks": 1259,
+      "thumbnail": "CSM Double Driver v2/pages/page-0.webp",
+      "source_url": "",
+      "blog_url": "",
+      "tags": ["csm", "dx", "kamen-rider", "memorial", "premium"]
+    },
+    {
+      "name": "CSM Lockseed Charmant Set Manual",
+      "source": "CSM Lockseed Charmant Set Manual.pdf",
+      "pages": 4,
+      "blocks": 294,
+      "thumbnail": "CSM Lockseed Charmant Set Manual/pages/page-0.webp",
+      "source_url": "",
+      "blog_url": "",
+      "tags": ["csm", "kamen-rider", "premium"]
+    },
+    {
+      "name": "CSM Lost Driver v2",
+      "source": "CSM Lost Driver v2.pdf",
+      "pages": 18,
+      "blocks": 938,
+      "thumbnail": "CSM Lost Driver v2/pages/page-0.webp",
+      "source_url": "",
+      "blog_url": "",
+      "tags": ["csm", "kamen-rider", "premium"]
+    },
+    {
       "name": "CSM Sengoku Driver Manual",
       "source": "CSM Sengoku Driver Manual.pdf",
       "pages": 24,
       "blocks": 1667,
       "thumbnail": "CSM Sengoku Driver Manual/pages/page-0.webp",
-      "source_url": "https://tokullectibles.com/products/preorder-csm-sengoku-driver",
+      "source_url": "https://archive.org/details/csm-sengoku-driver-manual",
       "blog_url": "",
-      "tags": [
-        "csm",
-        "premium",
-        "kamen-rider",
-        "gaim"
-      ]
+      "tags": ["csm", "premium", "kamen-rider", "gaim"]
     },
     {
       "name": "CSM-Den-O-Belt-v2",
@@ -23,9 +58,7 @@
       "thumbnail": "CSM-Den-O-Belt-v2/pages/page-0.webp",
       "source_url": "https://toy.bandai.co.jp/manuals/?prod_name=&p_id=1&release_date=&t_id=&jan_code=",
       "blog_url": "https://translate.google.com/translate?sl=ja&tl=en&u=https://toy.bandai.co.jp/series/rider/blog/",
-      "tags": [
-        "csm"
-      ]
+      "tags": ["csm"]
     },
     {
       "name": "CSM-DenGasher",
@@ -35,10 +68,7 @@
       "thumbnail": "CSM-DenGasher/pages/page-0.webp",
       "source_url": "https://toy.bandai.co.jp/manuals/pdf.php?id=2756971",
       "blog_url": "https://translate.google.com/translate?sl=ja&tl=en&u=https://toy.bandai.co.jp/series/rider/blog/",
-      "tags": [
-        "csm",
-        "kamen-rider"
-      ]
+      "tags": ["csm", "kamen-rider"]
     },
     {
       "name": "CSM-Faiz-Driver-NEXT",
@@ -46,12 +76,9 @@
       "pages": 47,
       "blocks": 1255,
       "thumbnail": "CSM-Faiz-Driver-NEXT/pages/page-0.webp",
-      "source_url": "https://tokullectibles.com/products/csm-faiz-driver-next",
+      "source_url": "https://toy.bandai.co.jp/manuals/files/2689661.pdf?ver=sm7m6t",
       "blog_url": "https://translate.google.com/translate?sl=ja&tl=en&u=https://toy.bandai.co.jp/series/rider/blog/",
-      "tags": [
-        "csm",
-        "kamen-rider"
-      ]
+      "tags": ["csm", "kamen-rider"]
     },
     {
       "name": "CSM-Fang-Memory",
@@ -61,10 +88,7 @@
       "thumbnail": "CSM-Fang-Memory/pages/page-0.webp",
       "source_url": "https://toy.bandai.co.jp/manuals/?prod_name=&p_id=1&release_date=&t_id=&jan_code=",
       "blog_url": "https://translate.google.com/translate?sl=ja&tl=en&u=https://toy.bandai.co.jp/series/rider/blog/",
-      "tags": [
-        "csm",
-        "kamen-rider"
-      ]
+      "tags": ["csm", "kamen-rider"]
     },
     {
       "name": "DX-Ridewatch",
@@ -74,24 +98,147 @@
       "thumbnail": "DX-Ridewatch/pages/page-0.webp",
       "source_url": "https://toy.bandai.co.jp/manuals/?prod_name=&p_id=1&release_date=&t_id=&jan_code=",
       "blog_url": "https://translate.google.com/translate?sl=ja&tl=en&u=https://toy.bandai.co.jp/series/rider/blog/",
-      "tags": [
-        "dx",
-        "kamen-rider"
-      ]
+      "tags": ["dx", "kamen-rider"]
     },
     {
-      "name": "Memorial Dino Buckler",
-      "source": "Memorial Dino Buckler.pdf",
-      "pages": 9,
-      "blocks": 218,
-      "thumbnail": "Memorial Dino Buckler/pages/page-0.webp",
-      "source_url": "https://tokullectibles.com/products/memorial-dino-buckler",
-      "blog_url": "https://www.google.com/search?q=site%3Atoy.bandai.co.jp/series/rider/blog%20%22Memorial%20Dino%20Buckler%22",
-      "tags": [
-        "memorial",
-        "sentai",
-        "premium"
-      ]
+      "name": "Gaisoul Ken Memorial Edition",
+      "source": "Gaisoul Ken Memorial Edition.pdf",
+      "pages": 16,
+      "blocks": 400,
+      "thumbnail": "Gaisoul Ken Memorial Edition/pages/page-0.webp",
+      "source_url": "",
+      "blog_url": "",
+      "tags": ["dx", "kamen-rider", "memorial", "sentai"]
+    },
+    {
+      "name": "Geardalinger",
+      "source": "Geardalinger.pdf",
+      "pages": 10,
+      "blocks": 628,
+      "thumbnail": "Geardalinger/pages/page-0.webp",
+      "source_url": "",
+      "blog_url": "",
+      "tags": ["dx", "kamen-rider", "memorial", "sentai"]
+    },
+    {
+      "name": "Geartlinger",
+      "source": "Geartlinger.pdf",
+      "pages": 16,
+      "blocks": 1775,
+      "thumbnail": "Geartlinger/pages/page-0.webp",
+      "source_url": "",
+      "blog_url": "",
+      "tags": ["dx", "memorial", "sentai"]
+    },
+    {
+      "name": "Geartozinger",
+      "source": "Geartozinger.pdf",
+      "pages": 10,
+      "blocks": 594,
+      "thumbnail": "Geartozinger/pages/page-0.webp",
+      "source_url": "",
+      "blog_url": "",
+      "tags": ["kamen-rider", "memorial", "sentai"]
+    },
+    {
+      "name": "GoKaiKeys",
+      "source": "GoKaiKeys.pdf",
+      "pages": 1,
+      "blocks": 70,
+      "thumbnail": "GoKaiKeys/pages/page-0.webp",
+      "source_url": "",
+      "blog_url": "",
+      "tags": ["memorial", "sentai"]
+    },
+    {
+      "name": "Gokai Cellular",
+      "source": "Gokai Cellular.pdf",
+      "pages": 10,
+      "blocks": 726,
+      "thumbnail": "Gokai Cellular/pages/page-0.webp",
+      "source_url": "",
+      "blog_url": "",
+      "tags": ["dx", "memorial", "sentai"]
+    },
+    {
+      "name": "GokaiKeyAfter",
+      "source": "GokaiKeyAfter.pdf",
+      "pages": 1,
+      "blocks": 97,
+      "thumbnail": "GokaiKeyAfter/pages/page-0.webp",
+      "source_url": "",
+      "blog_url": "",
+      "tags": ["memorial", "sentai"]
+    },
+    {
+      "name": "Gokaiger",
+      "source": "Gokaiger.pdf",
+      "pages": 8,
+      "blocks": 252,
+      "thumbnail": "Gokaiger/pages/page-0.webp",
+      "source_url": "",
+      "blog_url": "",
+      "tags": ["memorial", "sentai"]
+    },
+    {
+      "name": "Hurricanger",
+      "source": "Hurricanger.pdf",
+      "pages": 15,
+      "blocks": 470,
+      "thumbnail": "Hurricanger/pages/page-0.webp",
+      "source_url": "",
+      "blog_url": "",
+      "tags": ["memorial", "sentai"]
+    },
+    {
+      "name": "Kiramai Changer",
+      "source": "Kiramai Changer.pdf",
+      "pages": 19,
+      "blocks": 1784,
+      "thumbnail": "Kiramai Changer/pages/page-0.webp",
+      "source_url": "",
+      "blog_url": "",
+      "tags": ["dx", "memorial", "premium", "sentai"]
+    },
+    {
+      "name": "Master-Ressha-Manual-v1",
+      "source": "Master-Ressha-Manual-v1.pdf",
+      "pages": 5,
+      "blocks": 77,
+      "thumbnail": "Master-Ressha-Manual-v1/pages/page-0.webp",
+      "source_url": "",
+      "blog_url": "",
+      "tags": ["dx", "kamen-rider", "sentai"]
+    },
+    {
+      "name": "Memorial DonBlaster",
+      "source": "Memorial DonBlaster.pdf",
+      "pages": 24,
+      "blocks": 754,
+      "thumbnail": "Memorial DonBlaster/pages/page-0.webp",
+      "source_url": "",
+      "blog_url": "",
+      "tags": ["dx", "kamen-rider", "memorial", "sentai"]
+    },
+    {
+      "name": "Memorial Gabuisword",
+      "source": "Memorial Gabuisword.pdf",
+      "pages": 10,
+      "blocks": 217,
+      "thumbnail": "Memorial Gabuisword/pages/page-0.webp",
+      "source_url": "",
+      "blog_url": "",
+      "tags": ["kamen-rider", "memorial"]
+    },
+    {
+      "name": "Memorial Gaburevolver",
+      "source": "Memorial Gaburevolver.pdf",
+      "pages": 25,
+      "blocks": 633,
+      "thumbnail": "Memorial Gaburevolver/pages/page-0.webp",
+      "source_url": "",
+      "blog_url": "",
+      "tags": ["dx", "kamen-rider", "memorial", "sentai"]
     },
     {
       "name": "Memorial Zanglass sword",
@@ -99,22 +246,29 @@
       "pages": 19,
       "blocks": 419,
       "thumbnail": "Memorial Zanglass sword/pages/page-0.webp",
-      "source_url": "https://tokullectibles.com/products/memorial-zanglasssword",
+      "source_url": "https://toy.bandai.co.jp/manuals/files/2671234.pdf?ver=so7hth",
       "blog_url": "https://www.google.com/search?q=site%3Atoy.bandai.co.jp/series/rider/blog%20%22Memorial%20ZanGlassSword%22",
-      "tags": [
-        "memorial",
-        "sentai"
-      ]
+      "tags": ["memorial", "sentai"]
     },
     {
       "name": "Memorial-Dino-Brace",
       "source": "Memorial-Dino-Brace.pdf",
       "pages": 25,
-      "blocks": 497,
+      "blocks": 487,
       "thumbnail": "Memorial-Dino-Brace/pages/page-0.webp",
-      "source_url": "https://tokullectibles.com/products/abaranger-memorial-dino-brace",
+      "source_url": "https://tokullectibles.com/products/memorial-dino-buckler",
       "blog_url": "",
       "tags": []
+    },
+    {
+      "name": "Mobilates",
+      "source": "Mobilates.pdf",
+      "pages": 8,
+      "blocks": 552,
+      "thumbnail": "Mobilates/pages/page-0.webp",
+      "source_url": "",
+      "blog_url": "",
+      "tags": ["kamen-rider", "memorial", "sentai"]
     },
     {
       "name": "Premium DX Zein Driver",
@@ -122,13 +276,19 @@
       "pages": 7,
       "blocks": 345,
       "thumbnail": "Premium DX Zein Driver/pages/page-0.webp",
-      "source_url": "https://tokullectibles.com/products/premium-dx-zein-driver",
-      "blog_url": "https://www.google.com/search?q=site%3Atoy.bandai.co.jp/series/rider/blog%20%22Premium%20DX%20Zein%20Driver%22",
-      "tags": [
-        "dx",
-        "kamen-rider",
-        "premium"
-      ]
+      "source_url": "https://toy.bandai.co.jp/manuals/files/2687102.pdf?ver=stnsuf",
+      "blog_url": "",
+      "tags": ["dx", "kamen-rider", "premium"]
+    },
+    {
+      "name": "Premium DX Zikan Girade",
+      "source": "Premium DX Zikan Girade.pdf",
+      "pages": 8,
+      "blocks": 135,
+      "thumbnail": "Premium DX Zikan Girade/pages/page-0.webp",
+      "source_url": "",
+      "blog_url": "",
+      "tags": ["dx", "kamen-rider", "premium"]
     },
     {
       "name": "Ranger-Key-Memorial-Edition-35-Reds-Set",
@@ -136,12 +296,19 @@
       "pages": 1,
       "blocks": 74,
       "thumbnail": "Ranger-Key-Memorial-Edition-35-Reds-Set/pages/page-0.webp",
-      "source_url": "https://toy.bandai.co.jp/manuals/?prod_name=&p_id=1&release_date=&t_id=&jan_code=",
+      "source_url": "https://toy.bandai.co.jp/manuals/files/2588451.pdf?ver=sf7ihe",
       "blog_url": "https://translate.google.com/translate?sl=ja&tl=en&u=https://toy.bandai.co.jp/series/rider/blog/",
-      "tags": [
-        "memorial",
-        "sentai"
-      ]
+      "tags": ["memorial", "sentai"]
+    },
+    {
+      "name": "Ryusoulken Memorial Edition",
+      "source": "Ryusoulken Memorial Edition.pdf",
+      "pages": 12,
+      "blocks": 230,
+      "thumbnail": "Ryusoulken Memorial Edition/pages/page-0.webp",
+      "source_url": "",
+      "blog_url": "",
+      "tags": ["dx", "memorial", "sentai"]
     },
     {
       "name": "ShinUltraman",
@@ -149,11 +316,19 @@
       "pages": 3,
       "blocks": 90,
       "thumbnail": "ShinUltraman/pages/page-0.webp",
-      "source_url": "https://tokullectibles.com/products/dx-shin-ultraman-beta-capsule",
+      "source_url": "https://toy.bandai.co.jp/manuals/files/2565785.pdf?ver=sf7iib",
       "blog_url": "",
-      "tags": [
-        "ultraman"
-      ]
+      "tags": ["ultraman"]
+    },
+    {
+      "name": "ShodoPhone",
+      "source": "ShodoPhone.pdf",
+      "pages": 9,
+      "blocks": 318,
+      "thumbnail": "ShodoPhone/pages/page-0.webp",
+      "source_url": "",
+      "blog_url": "",
+      "tags": ["kamen-rider", "memorial", "sentai"]
     },
     {
       "name": "Zero One Limited Clear",
@@ -161,12 +336,29 @@
       "pages": 4,
       "blocks": 853,
       "thumbnail": "Zero One Limited Clear/pages/page-0.webp",
-      "source_url": "https://tokullectibles.com/products/super-best-dx-hiden-zero-one-driver-limited-clear-ver",
+      "source_url": "https://toy.bandai.co.jp/manuals/files/2782856.pdf?ver=t0mbvd",
       "blog_url": "",
-      "tags": [
-        "dx",
-        "kamen-rider"
-      ]
+      "tags": ["dx", "kamen-rider"]
+    },
+    {
+      "name": "kingogher",
+      "source": "kingogher.pdf",
+      "pages": 30,
+      "blocks": 887,
+      "thumbnail": "kingogher/pages/page-0.webp",
+      "source_url": "",
+      "blog_url": "",
+      "tags": ["dx", "kamen-rider", "memorial", "sentai"]
+    },
+    {
+      "name": "visionDriver",
+      "source": "visionDriver.pdf",
+      "pages": 14,
+      "blocks": 323,
+      "thumbnail": "visionDriver/pages/page-0.webp",
+      "source_url": "https://tokullectibles.com/products/premium-dx-memorial-vision-driver-high-spec-belt-set",
+      "blog_url": "",
+      "tags": []
     }
   ],
   "tags": {
@@ -200,8 +392,8 @@
     }
   },
   "stats": {
-    "total_manuals": 13,
-    "total_pages": 198,
-    "total_blocks": 7990
+    "total_manuals": 36,
+    "total_pages": 496,
+    "total_blocks": 21534
   }
 }
