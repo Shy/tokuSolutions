@@ -154,6 +154,16 @@ def validate_plan(page: ContextPage, plan: PagePlan) -> None:
                 )
 
 
+def incomplete_source_clause(text: str) -> bool:
+    """Identify strong Japanese continuation endings, excluding complete sentences."""
+    return bool(
+        re.search(
+            r"(?:[をにでとはがの]|細い|尖った|ながら[、,]?|場合[はに]?[、,]?|して[、,]?|し[、,])$",
+            text.strip(),
+        )
+    )
+
+
 def validate_translations(
     page: ContextPage,
     plan: PagePlan,
@@ -201,6 +211,29 @@ def validate_translations(
                     f"{panel.id}: likely summary of a full source paragraph"
                 )
         reference = (reference_texts or {}).get(panel.id, source)
+        if panel.kind == "prose":
+            evidence = re.sub(r"[\W_]+", "", source + reference)
+            for japanese, item in zip(
+                text.japanese_items, text.english_items, strict=True
+            ):
+                if (
+                    re.search(
+                        r"\b(?:a|an|the|of|with|into|onto|and|or|to|(?:a|an|the)\s+(?:thin\s+)?(?:thin|pointed))\s*[.!?,;:)]*$",
+                        item,
+                        re.IGNORECASE,
+                    )
+                    or re.search(
+                        r"^\s*(?:while|if|when|unless)\b[^.!?;]*,\s*$",
+                        item,
+                        re.IGNORECASE,
+                    )
+                    or incomplete_source_clause(japanese)
+                ):
+                    raise ValueError(f"{panel.id}: incomplete instruction clause")
+                if incomplete_source_clause(source):
+                    ending = re.sub(r"[\W_]+", "", japanese)[-10:]
+                    if ending not in evidence:
+                        raise ValueError(f"{panel.id}: unsupported clause ending")
         headings = {
             "warning": "警告",
             "caution": "注意",

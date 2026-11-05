@@ -34,6 +34,7 @@ from src.quality.semantic_layout import (
     panel_geometry,
     panel_preserves_illustrations,
     panel_references,
+    recover_clause_panels,
     safe_plan,
     source_candidates,
     split_illustrated_panel,
@@ -260,6 +261,7 @@ def _plan_page(request_path: str, reply: AgentReply) -> list[str]:
                     f"Retained {panel.id} source IDs {sorted(missing)} unchanged: illustration-mask check"
                 )
     plan.panels = safe_panels
+    plan = recover_clause_panels(page, plan, directory / "scan.jpg", lines)
     references = panel_references(page, plan, lines)
     _write(directory / "plan.json", plan.model_dump(mode="json"))
     paths = []
@@ -369,7 +371,7 @@ def _check_translation(request_path: str, reply: AgentReply, repaired: bool) -> 
             directory / f"panel-{panel.id}.repair.request.json",
             "translate",
             TRANSLATE_INSTRUCTIONS
-            + " Fix the specified failure without omitting other instructions. Correct OCR from the crop where necessary.",
+            + " Fix the specified failure without omitting other instructions. Correct OCR from the crop where necessary. Recover only clauses supported by the supplied source and crop, including adjacent printed continuations. Never invent a missing action or import another step, column or diagram label. If the ending is still unreadable, retain grounded text and record the missing evidence in uncertainties.",
             payload,
             directory / "scan.jpg",
             panel_geometry(

@@ -17,6 +17,7 @@ from src.quality.page_grouping import (
     cover_reading_guides,
     eligible_ruby_parents,
     grounded_panel,
+    incomplete_source_clause,
     normalize_plan,
     panel_box,
     validate_plan,
@@ -500,6 +501,85 @@ def split_illustrated_panel(
                     ),
                 ]
             )
+    return result
+
+
+def recover_clause_panels(
+    page: ContextPage, plan: PagePlan, image_path: Path, lines: list[OCRLine]
+) -> PagePlan:
+    """Join at most three adjacent continuation regions after illustration splitting.
+
+    Only strong unfinished Japanese endings trigger recovery. All source IDs,
+    reading-guide links, column checks and illustration checks remain authoritative.
+    """
+    result = plan.model_copy(deep=True)
+    ruby_ids = {link.source_id for link in result.furigana}
+    for original in list(result.panels):
+        panel = next((item for item in result.panels if item.id == original.id), None)
+        if panel is None or panel.kind != "prose":
+            continue
+        before = result.model_copy(deep=True)
+        for _attempt in range(3):
+            last = page.blocks[panel.source_ids[-1]]
+            if not last.bbox or not incomplete_source_clause(last.text):
+                break
+            bounds = panel_box(page, panel, result)
+            typical = last.bbox[3] / max(1, len(last.text.splitlines()))
+            candidates = [
+                identity
+                for identity, block in enumerate(page.blocks)
+                if identity not in panel.source_ids
+                and identity not in ruby_ids
+                and block.bbox
+                and bounds[0]
+                <= block.bbox[0] + block.bbox[2] / 2
+                <= bounds[0] + bounds[2]
+                and 0 <= block.bbox[1] - (last.bbox[1] + last.bbox[3]) <= typical * 2.3
+            ]
+            if not candidates:
+                break
+            identity = min(
+                candidates,
+                key=lambda identity: (
+                    (page.blocks[identity].bbox or (0, 0, 0, 0))[1],
+                    (page.blocks[identity].bbox or (0, 0, 0, 0))[0],
+                ),
+            )
+            candidate = page.blocks[identity]
+            assert candidate.bbox is not None
+            if (
+                candidate.bbox[3] / max(1, len(candidate.text.splitlines()))
+                > typical * 1.7
+                or not re.search(r"[ぁ-ゖァ-ヺ一-龯]", candidate.text)
+                or re.match(r"\s*(?:[●•]|警告|注意|使用上の注意)", candidate.text)
+                or any(
+                    item.kind == "heading" and identity in item.source_ids
+                    for item in result.panels
+                )
+            ):
+                break
+            trial = result.model_copy(deep=True)
+            merged = next(item for item in trial.panels if item.id == panel.id)
+            merged.source_ids.append(identity)
+            for other in trial.panels:
+                if other.id != merged.id and identity in other.source_ids:
+                    other.source_ids.remove(identity)
+            trial.panels = [item for item in trial.panels if item.source_ids]
+            try:
+                validate_plan(page, trial)
+            except ValueError:
+                break
+            if not panel_preserves_illustrations(
+                page, trial, merged, image_path, lines
+            ):
+                break
+            trial.notes.append(
+                f"{panel.id}: recovered adjacent clause source {identity}"
+            )
+            result = trial
+            panel = merged
+        if incomplete_source_clause(page.blocks[panel.source_ids[-1]].text):
+            result = before
     return result
 
 

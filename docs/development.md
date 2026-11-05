@@ -193,7 +193,22 @@ comes from source regions and rich OCR lines, with checks against neighboring
 regions and large connected illustration ink. Solid background color is allowed.
 The planner cannot submit coordinates. Panels that include illustration ink are
 split into smaller text units where possible. OCR continuations stop before
-neighboring headings. Invalid proposals retain the existing
+neighboring headings. After splitting, strong unfinished Japanese clauses can
+reclaim up to three adjacent source regions in the same text column, including
+regions split into another prose panel. Recovery must reach a complete clause
+and pass the existing source-membership and illustration-mask checks; otherwise
+the tentative join is rolled back. This fixes sentence endings lost during
+illustration protection without widening masks over diagrams or merging columns.
+The reconstructed panel's crop and cached rich OCR provide translation context.
+
+Prose validation detects strong dangling Japanese/English endings and rejects
+new Japanese clause endings unsupported by source/OCR when completing a fragment.
+These conservative heuristics are not a grammar or semantic-accuracy proof.
+Detected fragments use the existing single bounded repair with source-only
+completion instructions; rejection evidence remains in run-local files. If the
+source cannot support a safe completion, the original grounded draft remains,
+even if it is incomplete. No guessed action or human gate is introduced.
+Invalid proposals retain the existing
 overlay; failed translation checks allow one targeted repair and then retain the
 old translation. This fallback is advisory, with no mandatory review page.
 Source-ledger completeness is checked again before publication.
