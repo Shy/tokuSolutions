@@ -148,3 +148,31 @@ test('semantic layout and source provenance survive editor export without transi
   persisted.pages[0].source_blocks[0].text = 'Changed';
   assert.notEqual(manual.pages[0].source_blocks[0].text, 'Changed');
 });
+
+test('native artwork suppression survives editing and serialized export', () => {
+  const manual = createManual();
+  const page = manual.pages[0];
+  page.source_blocks = [
+    structuredClone(page.blocks[0]),
+    { text: '+', translation: '+', bbox: [0.6, 0.2, 0.02, 0.02] }
+  ];
+  page.layout_provenance = {
+    version: 2,
+    plan: { panels: [], furigana: [], notes: [], native_artwork: [1] },
+    mapping: [
+      { display_index: 0, source_ids: [0], furigana_ids: [] },
+      {
+        display_index: -1,
+        source_ids: [1],
+        furigana_ids: [],
+        disposition: 'native graphic retained without overlay'
+      }
+    ]
+  };
+  page.blocks[0].translation = 'Edited instruction';
+  const exported = JSON.parse(serializeManual(manual));
+  validateManualDocument(exported);
+  assert.equal(exported.pages[0].blocks.length, 1);
+  assert.deepEqual(exported.pages[0].source_blocks, page.source_blocks);
+  assert.deepEqual(exported.pages[0].layout_provenance, page.layout_provenance);
+});

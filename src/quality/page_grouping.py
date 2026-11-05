@@ -32,6 +32,7 @@ class PagePlan(Artifact):
     panels: list[Panel]
     furigana: list[RubyLink]
     notes: list[str]
+    native_artwork: list[int] = Field(default_factory=list)
 
 
 class PanelText(Artifact):
@@ -47,6 +48,52 @@ class PanelTranslations(Artifact):
 
     panels: list[PanelText]
     uncertainties: list[str]
+
+
+def native_artwork_candidate(text: str) -> Literal["automatic", "scan", ""]:
+    """Bound overlay suppression to symbols or scan-confirmable English labels.
+
+    Japanese, battery specifications, quantities and ambiguous punctuation remain
+    translated. ASCII words alone never establish readability; the planner must
+    confirm them against the image.
+    """
+    normalized = unicodedata.normalize("NFKC", text).strip()
+    if normalized in {
+        "+",
+        "−",
+        "⊕",
+        "⊖",
+        "→",
+        "←",
+        "↑",
+        "↓",
+        "↔",
+        "↕",
+        "✓",
+        "✔",
+        "✕",
+        "✖",
+        "×",
+        "☓",
+        "LED",
+        "ON",
+        "OFF",
+        "ON/OFF",
+    }:
+        return "automatic"
+    if re.fullmatch(r"[1-9][0-9]?(?:-[1-9][0-9]?)?", normalized):
+        return "scan"
+    if (
+        len(normalized) <= 120
+        and re.fullmatch(r"[A-Za-z][A-Za-z0-9 .,:;!?'/()&+−–—-]*", normalized)
+        and len(re.findall(r"[A-Za-z]", normalized)) >= 3
+        and not re.search(
+            r"(?i)\b(?:LR\d+|CR\d+|AA|AAA|AAAA|[x×]\s*\d+|\d+\s*(?:V|mAh|batteries))\b",
+            normalized,
+        )
+    ):
+        return "scan"
+    return ""
 
 
 def _box(page: ContextPage, identifier: int) -> tuple[float, float, float, float]:
@@ -116,6 +163,15 @@ def validate_plan(page: ContextPage, plan: PagePlan) -> None:
         raise ValueError("Duplicate panel identity")
     main = [identity for panel in plan.panels for identity in panel.source_ids]
     ruby_ids = [ruby.source_id for ruby in plan.furigana]
+    if len(set(plan.native_artwork)) != len(plan.native_artwork):
+        raise ValueError("Duplicate native artwork assignment")
+    for identity in plan.native_artwork:
+        _box(page, identity)
+        if (
+            not native_artwork_candidate(page.blocks[identity].text)
+            or identity in main + ruby_ids
+        ):
+            raise ValueError("Invalid native artwork assignment")
     if any(count != 1 for count in Counter(main + ruby_ids).values()):
         raise ValueError("Duplicate source assignment")
     for identity in main + ruby_ids:
@@ -145,6 +201,15 @@ def validate_plan(page: ContextPage, plan: PagePlan) -> None:
                 continue
             other = _box(page, identity)
             center = (other[0] + other[2] / 2, other[1] + other[3] / 2)
+            if identity in plan.native_artwork and (
+                min(bounds[0] + bounds[2], other[0] + other[2])
+                > max(bounds[0], other[0])
+                and min(bounds[1] + bounds[3], other[1] + other[3])
+                > max(bounds[1], other[1])
+            ):
+                raise ValueError(
+                    f"Panel {panel.id} would mask native artwork {identity}"
+                )
             if (
                 bounds[0] + 0.001 < center[0] < bounds[0] + bounds[2] - 0.001
                 and bounds[1] + 0.001 < center[1] < bounds[1] + bounds[3] - 0.001
@@ -162,6 +227,39 @@ def incomplete_source_clause(text: str) -> bool:
             text.strip(),
         )
     )
+
+
+def join_printed_continuations(result: PanelTranslations) -> PanelTranslations:
+    """Join at most three paired fragments without adding or deleting words.
+
+    Only an unfinished Japanese clause followed by another item in the same
+    independently cropped panel qualifies. Full source/safety validation follows.
+    """
+    joined = result.model_copy(deep=True)
+    for panel in joined.panels:
+        if len(panel.japanese_items) != len(panel.english_items):
+            continue
+        japanese_items: list[str] = []
+        english_items: list[str] = []
+        joined_count = 0
+        for japanese, english in zip(
+            panel.japanese_items, panel.english_items, strict=True
+        ):
+            if (
+                japanese_items
+                and joined_count < 3
+                and incomplete_source_clause(japanese_items[-1])
+            ):
+                japanese_items[-1] += "\n" + japanese
+                english_items[-1] += " " + english
+                joined_count += 1
+            else:
+                japanese_items.append(japanese)
+                english_items.append(english)
+                joined_count = 0
+        panel.japanese_items = japanese_items
+        panel.english_items = english_items
+    return joined
 
 
 def validate_translations(
@@ -244,6 +342,10 @@ def validate_translations(
             if heading and heading not in source + reference:
                 raise ValueError(f"{panel.id}: unrelated neighboring heading imported")
         english = "\n".join(text.english_items)
+        if re.search(r"単[34]", source + reference) and re.search(
+            r"\bsingle[- ]A\b", english, re.IGNORECASE
+        ):
+            raise ValueError(f"{panel.id}: contradictory battery type (single-A)")
         if re.search(
             r"\([^)]*(?:incomplete in (?:the )?source|OCR (?:error|unclear)|illegible in (?:the )?(?:scan|source))[^)]*\)",
             english,
@@ -293,12 +395,28 @@ def normalize_plan(page: ContextPage, proposed: PagePlan) -> PagePlan:
                 links.append(link)
     plan.furigana = links
     ruby_ids = {link.source_id for link in links}
+    plan.native_artwork = sorted(
+        {
+            identity
+            for identity in proposed.native_artwork
+            if 0 <= identity < len(page.blocks)
+            and native_artwork_candidate(page.blocks[identity].text)
+            and identity not in ruby_ids
+        }
+        | {
+            identity
+            for identity, block in enumerate(page.blocks)
+            if native_artwork_candidate(block.text) == "automatic"
+            and identity not in ruby_ids
+        }
+    )
+    native_ids = set(plan.native_artwork)
     panels: list[Panel] = []
     for panel in plan.panels:
         members = [
             identity
             for identity in dict.fromkeys(panel.source_ids)
-            if identity not in ruby_ids
+            if identity not in ruby_ids and identity not in native_ids
         ]
         if not members:
             continue
@@ -374,7 +492,7 @@ def normalize_plan(page: ContextPage, proposed: PagePlan) -> PagePlan:
             typical = median(heights)
             extra = []
             for identity, block in enumerate(page.blocks):
-                if identity in owned or identity in ruby_ids:
+                if identity in owned or identity in ruby_ids or identity in native_ids:
                     continue
                 box = _box(page, identity)
                 center = box[0] + box[2] / 2

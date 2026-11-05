@@ -105,7 +105,9 @@ def test_cross_region_clause_reconstruction_keeps_source_coverage(
     assert grouped["source_blocks"] == [
         block.model_dump(mode="json", exclude_none=True) for block in page.blocks
     ]
-    assert grouped["blocks"][1]["translation"] == "ON"
+    assert len(grouped["blocks"]) == 1
+    assert grouped["source_blocks"][3]["text"] == "ON"
+    assert plan.native_artwork == [3]
 
 
 @pytest.mark.parametrize("boundary", ["column", "gap", "heading", "art"])

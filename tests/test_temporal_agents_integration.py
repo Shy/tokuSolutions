@@ -387,7 +387,11 @@ async def test_real_plugin_retries_and_replays_without_recalling_model(
                 output = json.loads(Path(complete.json_path).read_text())
                 assert [
                     block["translation"] for block in output["pages"][0]["blocks"]
-                ] == ["Lever", "ON"]
+                ] == ["Lever"]
+                assert output["pages"][0]["source_blocks"][1]["text"] == "ON"
+                assert output["pages"][0]["layout_provenance"]["plan"][
+                    "native_artwork"
+                ] == [1]
                 assert provider.calls == 6, (
                     "Expected glossary, cleanup, semantic-plan and crop-translation calls"
                 )

@@ -24,6 +24,7 @@ from src.quality.page_grouping import (
     Panel,
     PanelText,
     PanelTranslations,
+    join_printed_continuations,
     validate_translations,
 )
 from src.quality.pipeline import infer_franchise
@@ -345,7 +346,9 @@ def _check_translation(request_path: str, reply: AgentReply, repaired: bool) -> 
     panel = Panel.model_validate(payload["panel"])
     value_path = directory / f"panel-{panel.id}.validated.json"
     try:
-        texts = PanelTranslations.model_validate_json(reply.output_json)
+        texts = join_printed_continuations(
+            PanelTranslations.model_validate_json(reply.output_json)
+        )
         validate_translations(
             page,
             PagePlan(panels=[panel], furigana=[], notes=[]),
@@ -371,7 +374,7 @@ def _check_translation(request_path: str, reply: AgentReply, repaired: bool) -> 
             directory / f"panel-{panel.id}.repair.request.json",
             "translate",
             TRANSLATE_INSTRUCTIONS
-            + " Fix the specified failure without omitting other instructions. Correct OCR from the crop where necessary. Recover only clauses supported by the supplied source and crop, including adjacent printed continuations. Never invent a missing action or import another step, column or diagram label. If the ending is still unreadable, retain grounded text and record the missing evidence in uncertainties.",
+            + " Fix the specified failure without omitting other instructions. Correct OCR from the crop where necessary. Recover only clauses supported by the supplied source and crop, including adjacent printed continuations. When one numbered substep ends with a subordinate clause such as while pressing and the next supplies its printed action, combine those adjacent fragments into one complete Japanese/English pair, retaining their step references. Do not return a dangling item merely to keep one item per printed number. Never invent a missing action or import another step, column or diagram label. If the ending is still unreadable, retain grounded text and record the missing evidence in uncertainties.",
             payload,
             directory / "scan.jpg",
             panel_geometry(

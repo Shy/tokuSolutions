@@ -334,7 +334,7 @@
       "name": "Zero One Limited Clear",
       "source": "Zero One Limited Clear.pdf",
       "pages": 4,
-      "blocks": 252,
+      "blocks": 231,
       "thumbnail": "Zero One Limited Clear/pages/page-0.webp",
       "source_url": "https://toy.bandai.co.jp/manuals/files/2782856.pdf?ver=t0mbvd",
       "blog_url": "",
@@ -394,6 +394,6 @@
   "stats": {
     "total_manuals": 36,
     "total_pages": 496,
-    "total_blocks": 16793
+    "total_blocks": 16772
   }
 }

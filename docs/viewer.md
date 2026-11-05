@@ -57,6 +57,12 @@ block with `layout: "panel"` uses an opaque paragraph mask in both reader and
 print. Grouped pages retain `source_blocks` (all original regions) and
 `layout_provenance` (source-ID membership, guide-parent links, OCR line geometry
 and uncertainty notes). Export preserves these fields through final human edits.
+Readable original artwork can have a ledger entry with `display_index: -1`
+and disposition `native graphic retained without overlay`. This removes only
+the redundant English box: polarity signs, arrows, readable English and other
+confirmed artwork stay visible in the original scan. Battery instructions and
+specifications still receive translation overlays. Export preserves both the
+suppression ledger and the complete source regions.
 These are source records, not an instruction to the browser or a review gate.
 Draft versions, fit measurements, undo
 history and UI state must never enter saved manual JSON.

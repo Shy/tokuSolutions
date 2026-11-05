@@ -205,12 +205,28 @@ Prose validation detects strong dangling Japanese/English endings and rejects
 new Japanese clause endings unsupported by source/OCR when completing a fragment.
 These conservative heuristics are not a grammar or semantic-accuracy proof.
 Detected fragments use the existing single bounded repair with source-only
-completion instructions; rejection evidence remains in run-local files. If the
+completion instructions; rejection evidence remains in run-local files.
+Adjacent paired output items ending in a Japanese continuation can be joined
+within the same independently cropped panel, at most three joins, without adding
+or deleting words. All ordinary source/safety checks still run afterward. The
+battery check also rejects contradictory “single-A” wording for explicit Japanese
+AA/AAA designations; it is not an exhaustive battery terminology validator. If the
 source cannot support a safe completion, the original grounded draft remains,
 even if it is incomplete. No guessed action or human gate is introduced.
 Invalid proposals retain the existing
 overlay; failed translation checks allow one targeted repair and then retain the
 old translation. This fallback is advisory, with no mandatory review page.
+Readable source artwork keeps its scan pixels without a redundant English box.
+A small deterministic set covers polarity symbols, arrows, check/cross graphics,
+LED and ON/OFF labels. The existing image planner confirms eligible readable
+English/branding and standalone diagram step numerals; uppercase text alone is
+not sufficient. Japanese/mixed-language instructions, battery specifications and
+counts, and ambiguous glyphs retain overlays. Native-artwork IDs cannot enter
+prose panels or be reclaimed by clause recovery; overlapping paragraph masks are
+rejected or clipped. The existing negative-display-index ledger disposition
+records each omission, alongside exact source text/geometry. Editor export and
+explicit regrouping preserve the source records and repeat the classification.
+These bounded rules do not certify OCR or model judgments.
 Source-ledger completeness is checked again before publication.
 
 Repair the existing corpus through the same stage:
