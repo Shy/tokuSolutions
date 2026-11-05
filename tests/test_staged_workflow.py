@@ -85,6 +85,8 @@ async def test_publish_is_last_and_quality_warnings_are_nonblocking(
             return CleanupOutput(
                 0, 0, 1, None, None, True, "AI unavailable" if advisory else None
             )
+        if name == "SemanticLayoutWorkflow":
+            return []
         raise AssertionError(function)
 
     with (
@@ -117,6 +119,7 @@ async def test_publish_is_last_and_quality_warnings_are_nonblocking(
         "TranslationWorkflow",
         "SiteGenerationWorkflow",
         "CleanupWorkflow",
+        "SemanticLayoutWorkflow",
         "validate",
         "audit",
         "audit",

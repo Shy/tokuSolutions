@@ -1,9 +1,9 @@
 // Navigation and routing module
-import { state, DOM, EditSession } from './state.js?v=14';
-import { renderManualList, loadManual } from './renderer.js?v=14';
-import { filterManuals as filterCatalogManuals } from './catalog-model.js?v=14';
-import { reduceViewerState } from './viewer-state.js?v=14';
-import { formatPageIndicator } from './reader-controls.js?v=14';
+import { state, DOM, EditSession } from './state.js?v=17';
+import { renderManualList, loadManual } from './renderer.js?v=17';
+import { filterManuals as filterCatalogManuals } from './catalog-model.js?v=17';
+import { reduceViewerState } from './viewer-state.js?v=17';
+import { formatPageIndicator } from './reader-controls.js?v=17';
 
 export function manualNameFromHash(hash) {
   const value = hash.replace(/^#/, '');

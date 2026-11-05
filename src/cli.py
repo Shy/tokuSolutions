@@ -208,12 +208,13 @@ def translate(
             phases = ["ocr", "translation", "site_generation"]
             if not skip_cleanup:
                 phases.append("cleanup")
-            phases.extend(["audit", "publish"])
+            phases.extend(["semantic_layout", "audit", "publish"])
             labels = {
                 "ocr": "OCR",
                 "translation": "Translation",
                 "site_generation": "Staging",
                 "cleanup": "Cleanup",
+                "semantic_layout": "Semantic panels",
                 "audit": "Browser audit",
                 "publish": "Publication",
             }
@@ -222,6 +223,7 @@ def translate(
                 "translation": "translation_progress",
                 "site_generation": "site_progress",
                 "cleanup": "cleanup_progress",
+                "semantic_layout": "cleanup_progress",
                 "audit": "audit_progress",
                 "publish": "publish_progress",
             }

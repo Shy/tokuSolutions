@@ -1,5 +1,5 @@
-import { classifyPrintOrientation } from './print-preparation.js?v=14';
-import { fitOverlayText, measureProbeText } from './text-fit-dom.js?v=14';
+import { classifyPrintOrientation } from './print-preparation.js?v=17';
+import { fitOverlayText, measureProbeText } from './text-fit-dom.js?v=17';
 
 const SHEET_PIXELS = Object.freeze({
   portrait: { width: 733, height: 1062 },
@@ -26,6 +26,7 @@ export function buildPrintPageModels(manual, assets) {
         .map((block, blockIndex) => ({
           translation: block.translation,
           bbox: [...block.bbox],
+          ...(block.layout === 'panel' ? { layout: 'panel' } : {}),
           blockIndex
         }))
         .filter((block) => block.translation.trim() !== ''),
@@ -62,6 +63,7 @@ export function renderPrintDocument(manual, assets) {
     for (const block of model.blocks) {
       const overlay = document.createElement('div');
       overlay.className = 'print-overlay';
+      if (block.layout === 'panel') overlay.classList.add('semantic-panel');
       overlay.dataset.blockIndex = String(block.blockIndex);
       overlay.textContent = block.translation;
       [overlay.style.left, overlay.style.top, overlay.style.width, overlay.style.height] =
@@ -111,7 +113,11 @@ export async function fitPrintDocument(representation) {
           minFontSize: 12,
           maxFontSize: 36,
           lineHeight: 1.15,
-          measure: (text, style) => measureProbeText(probe, text, style)
+          measure: (text, style) =>
+            measureProbeText(probe, text, {
+              ...style,
+              whiteSpace: getComputedStyle(overlay).whiteSpace
+            })
         });
         overlay.dataset.fitStatus = result.status;
         overlay.style.fontSize = `${result.fontSize}px`;

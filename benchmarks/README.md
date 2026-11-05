@@ -244,3 +244,39 @@ need separate layout work.
 Local artifact: `benchmark-runs/geartlinger-layout-v1/public/renderer-fit.html`.
 Serve only that `public/` directory to inspect the complete comparison; the
 original AI-only report remains beside it, with its original raw evidence.
+
+## Semantic-panel and furigana prototype
+
+The isolated Zero One Limited Clear first-page trial classifies existing OCR
+regions into semantic panels and attached furigana. A structured AI plan selects
+source IDs; deterministic geometry and coverage checks reject cross-column
+merges, duplicate assignments and invalid reading-guide links. Fresh Document AI
+lines ground panel crops. Translation runs independently per panel, with paired
+Japanese/English items, numeric and instruction checks and one targeted repair
+when validation fails. These checks catch selected omissions; they do not prove
+semantic accuracy. Original Japanese, source IDs and guide-parent links remain
+in the private run ledger. Furigana is excluded from English translation.
+
+The prototype has been promoted into the normal pipeline and the disposable
+prototype driver has been removed. Use the shared production repair command to
+run the same stage on a manual; see [semantic grouping and migration](../docs/development.md#semantic-grouping-and-corpus-migration).
+Frozen first-page evidence remains at
+`benchmark-runs/zero-one-grouped-v1/public/index.html`; its candidate viewer is a
+first-page-only snapshot with GitHub submission disabled. The original trial did
+not alter the published four-page manual. Subsequent corpus migration uses the
+normal staging, automatic audit and publication safeguards.
+
+On 2026-11-04, 204 original regions became 53 display regions, including 11
+semantic panels; 110 furigana regions were omitted from English. Every original
+ID has one recorded disposition, including a graphic preserved without an
+English overlay. Fresh OCR alone produced more blocks (282), so changing OCR
+without semantic grouping would not solve fragmentation. A whole-page translation
+omitted battery instructions; cropped per-panel translation replaced it. Checks
+also caught an incomplete caregiver instruction and triggered a targeted repair.
+
+The final caution panel fits at approximately 15.3px in the 1280×900 desktop
+viewer. Phone (390×844) and A4 layouts still overflow; remaining diagram-label
+translations have not been regenerated. Some source reading guides remain visible
+at mask edges. This is a desktop prototype, not a production rollout or a claim
+of reference-verified translation accuracy. An interrupted initial model attempt
+returned no usage, so complete experiment cost is unknown.

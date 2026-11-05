@@ -52,7 +52,13 @@ The shared catalog is `web/meta.json`, regenerated with `src.cli reindex`.
 `bbox` is normalized `[x, y, width, height]`, relative to the scan. Metadata may
 also contain source/blog URLs, tags, counts and thumbnail information. Export
 preserves metadata while keeping only persisted page/block fields: `image`,
-`blocks`, `text`, `translation`, `bbox`. Draft versions, fit measurements, undo
+`blocks`, `text`, `translation`, `bbox`, plus optional semantic fields. A display
+block with `layout: "panel"` uses an opaque paragraph mask in both reader and
+print. Grouped pages retain `source_blocks` (all original regions) and
+`layout_provenance` (source-ID membership, guide-parent links, OCR line geometry
+and uncertainty notes). Export preserves these fields through final human edits.
+These are source records, not an instruction to the browser or a review gate.
+Draft versions, fit measurements, undo
 history and UI state must never enter saved manual JSON.
 
 Pure projection/validation lives in `web/js/manual-data.js`; editor state and

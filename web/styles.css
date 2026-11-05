@@ -1124,3 +1124,11 @@ footer {
   margin: 0 0.75rem;
   color: var(--line);
 }
+
+/* Source-derived semantic panels mask the original paragraph and its reading guides. */
+.overlay.semantic-panel,
+.print-overlay.semantic-panel {
+  background: #fff;
+  white-space: pre-line;
+  padding: 2px;
+}

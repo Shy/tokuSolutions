@@ -5,7 +5,7 @@ import hashlib
 import io
 import re
 from pathlib import Path
-from typing import NotRequired, TypedDict
+from typing import Literal, NotRequired, TypedDict
 
 from openai.types.responses import ResponseInputContentParam, ResponseInputParam
 from PIL import Image
@@ -22,6 +22,7 @@ class ManualBlockData(TypedDict):
     text: str
     translation: str
     bbox: NotRequired[list[float]]
+    layout: NotRequired[str]
 
 
 class ManualPageData(TypedDict):
@@ -29,6 +30,8 @@ class ManualPageData(TypedDict):
 
     blocks: list[ManualBlockData]
     image: NotRequired[str]
+    source_blocks: NotRequired[list[ManualBlockData]]
+    layout_provenance: NotRequired[dict[str, JsonValue]]
 
 
 class ManualData(TypedDict):
@@ -44,6 +47,7 @@ class ContextBlock(BaseModel):
     text: str
     translation: str
     bbox: tuple[float, float, float, float] | None = None
+    layout: Literal["panel"] | None = None
 
 
 class ContextPage(BaseModel):
@@ -51,6 +55,8 @@ class ContextPage(BaseModel):
 
     image: str = ""
     blocks: list[ContextBlock]
+    source_blocks: list[ContextBlock] | None = None
+    layout_provenance: dict[str, JsonValue] | None = None
 
 
 class ContextManual(BaseModel):

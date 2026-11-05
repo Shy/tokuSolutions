@@ -1,4 +1,4 @@
-import { fitText } from './text-fit.js?v=14';
+import { fitText } from './text-fit.js?v=17';
 
 export const READER_FIT_DEFAULTS = Object.freeze({
   padding: 2,
@@ -67,11 +67,16 @@ function createMeasurementProbe() {
   return probe;
 }
 
-export function measureProbeText(probe, text, { fontSize, lineHeight, width }) {
+export function measureProbeText(
+  probe,
+  text,
+  { fontSize, lineHeight, width, whiteSpace = 'pre-wrap' }
+) {
   probe.textContent = text;
   probe.style.width = `${width}px`;
   probe.style.fontSize = `${fontSize}px`;
   probe.style.lineHeight = String(lineHeight);
+  probe.style.whiteSpace = whiteSpace;
   // scrollWidth/scrollHeight are integer-valued. Comparing them with a
   // fractional OCR box can force overflow even when the text actually fits.
   const range = probe.ownerDocument.createRange();
@@ -110,17 +115,19 @@ export async function fitRenderedManual({
       if (!image?.naturalWidth || !image?.naturalHeight) continue;
 
       const rendered = image.getBoundingClientRect();
+      const overlayStyle = getComputedStyle(overlay);
       const result = fitOverlayText({
         text: block.translation,
         bbox: block.bbox,
         sourceSize: { width: image.naturalWidth, height: image.naturalHeight },
         renderedSize: { width: rendered.width, height: rendered.height },
-        borderWidth: Number.parseFloat(getComputedStyle(overlay).borderLeftWidth) || 0,
+        borderWidth: Number.parseFloat(overlayStyle.borderLeftWidth) || 0,
         minFontSize: READER_FIT_DEFAULTS.minFontSize * readerScale,
         maxFontSize: READER_FIT_DEFAULTS.maxFontSize * readerScale,
         generation,
         isCurrentGeneration,
-        measure: (text, style) => measureProbeText(probe, text, style)
+        measure: (text, style) =>
+          measureProbeText(probe, text, { ...style, whiteSpace: overlayStyle.whiteSpace })
       });
 
       if (result.status === 'stale') return results;

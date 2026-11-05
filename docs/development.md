@@ -73,7 +73,7 @@ Restart persistent workers after code or dependency changes. Keep the Temporal
 server's state and local run artifacts when recovering an in-flight workflow;
 restarting the translation CLI instead starts another workflow.
 
-The parent stages output, runs OCR, translation, site generation and cleanup child
+The parent stages output, runs OCR, translation, site generation, cleanup and semantic-layout child
 workflows, validates source coverage, audits each page and publishes last.
 OCR schedules page Activities with fan-out/fan-in, bounded by worker capacity.
 Browser audit Activities also fan out per page and heartbeat while Chrome runs.
@@ -162,6 +162,52 @@ list to resume without scheduling completed model calls again. Replacements use
 the normal publication backup/conflict checks. Browser warnings and remaining
 terminology/numeric concerns do not add a human approval step or preview page.
 
+## Semantic grouping and corpus migration
+
+Japanese-to-English runs now finish with `SemanticLayoutWorkflow` after draft
+cleanup and before browser audit/publication. `SemanticPageWorkflow` freezes
+source scans and OCR, asks a structured page planner for source-ID membership,
+then translates complete prose panels from independent crops. Default planning
+is `gpt-5.5` (`LAYOUT_MODEL`); panel translation uses `OPENAI_MODEL`, default
+`gpt-5-mini`. Existing valid single-heading translations are reused. The official
+Temporal Agents plugin owns all model calls. Page and panel fan-out is bounded.
+
+Furigana is omitted only from English display; source text, boxes and attached
+parent IDs persist in the manual JSON. Ambiguous kana stays retained. Geometry
+comes from source regions and rich OCR lines, with checks against neighboring
+regions and large connected illustration ink. Solid background color is allowed.
+The planner cannot submit coordinates. Panels that include illustration ink are
+split into smaller text units where possible. OCR continuations stop before
+neighboring headings. Invalid proposals retain the existing
+overlay; failed translation checks allow one targeted repair and then retain the
+old translation. This fallback is advisory, with no mandatory review page.
+Source-ledger completeness is checked again before publication.
+
+Repair the existing corpus through the same stage:
+
+```bash
+uv run python -m src.quality.semantic_repair --run-id semantic-repair-2026-11-04
+# Limit an initial run to one manual:
+uv run python -m src.quality.semantic_repair --run-id semantic-one --manual "Manual folder"
+```
+
+The command manages its own isolated queue/worker, three manuals, six Activities
+(including model calls), and three browser slots. It freezes the glossary and
+source JSON, reuses exact-match rich OCR where available, and caches fresh OCR for
+older pages. Completed model replies are saved before validation. Reuse the same
+run ID to resume; published manuals are skipped and failures stay in staging.
+Choose a new run ID after changing code, prompts, models or source inputs. A
+manual already marked `meta.semantic_layout: 1` is skipped to protect subsequent
+editor changes. Use `--regroup` with a new run ID to explicitly retranslate
+previously grouped prose; this can replace final prose edits. Current standalone
+label edits are retained as the next draft. Exact-request reply and identical-scan
+OCR caches are reused across runs; changed inputs are checked again. No initial full retranslation of unchanged diagram labels is
+required. Final desktop/phone/A4 measurements precede replacement, with existing
+backup and concurrent-edit protections.
+
+Grouped paragraph masks improve desktop reading but do not solve all phone/A4
+overflow. Fewer display regions or flags do not prove translation accuracy.
+
 ## Dependencies and credentials
 
 `uv.lock` and `package-lock.json` define the tested environment. Avoid claiming
@@ -233,6 +279,6 @@ RUN_LAYOUT_BROWSER_TESTS=1 uv run python -m pytest tests/test_layout_browser.py 
 
 Text fitting measures fractional text bounds and line height rather than integer
 scroll dimensions, and reserves the reader overlay's border space. Reader and
-print use the same probe helper. Module assets use version `v=14` so existing
+print use the same probe helper. Module assets use version `v=17` so existing
 browsers load the correction. The [rendered-layout trial](../benchmarks/README.md#rendered-layout-trial)
 records the Geartlinger measurement and remaining phone/print limitations.

@@ -22,6 +22,16 @@ from src.activities.publication import (
     publish_manual_activity,
 )
 from src.activities.render_audit import audit_page_activity, summarize_audit_activity
+from src.activities.semantic_layout import (
+    apply_semantic_manual_activity,
+    cached_semantic_reply_activity,
+    check_semantic_translation_activity,
+    finish_semantic_page_activity,
+    load_semantic_request_activity,
+    plan_semantic_page_activity,
+    prepare_semantic_page_activity,
+    save_semantic_reply_activity,
+)
 from src.activities.site_generation import generate_site_activity
 from src.activities.translation import translate_blocks_activity
 from src.temporal_client import TASK_QUEUE, connect_temporal
@@ -34,11 +44,19 @@ from src.workflows.agent_workflows import (
 # Import all workflows (parent + children)
 from src.workflows.cleanup_workflow import CleanupWorkflow
 from src.workflows.ocr_workflow import OCRWorkflow
+from src.workflows.page_grouping_workflow import PageGroupingAgentWorkflow
 from src.workflows.pdf_translation_workflow import PDFTranslationWorkflow
+from src.workflows.semantic_layout_workflow import (
+    SemanticLayoutWorkflow,
+    SemanticPageWorkflow,
+)
 from src.workflows.site_generation_workflow import SiteGenerationWorkflow
 from src.workflows.translation_workflow import TranslationWorkflow
 
 WORKFLOWS = (
+    PageGroupingAgentWorkflow,
+    SemanticLayoutWorkflow,
+    SemanticPageWorkflow,
     DurableAgentWorkflow,
     AgentCleanupWorkflow,
     GlossaryAgentWorkflow,
@@ -50,6 +68,14 @@ WORKFLOWS = (
 )
 
 ACTIVITIES = (
+    apply_semantic_manual_activity,
+    cached_semantic_reply_activity,
+    check_semantic_translation_activity,
+    finish_semantic_page_activity,
+    load_semantic_request_activity,
+    plan_semantic_page_activity,
+    prepare_semantic_page_activity,
+    save_semantic_reply_activity,
     prepare_publication_activity,
     prepare_audit_activity,
     audit_page_activity,

@@ -103,7 +103,22 @@ def _validate(plan: StagedManual, page_count: int) -> ContextManual:
     if data.meta.get("source") != original.meta.get("source"):
         raise ValueError("Source identity changed")
     for page, source in zip(data.pages, original.pages, strict=True):
-        if len(page.blocks) != len(source.blocks) or page.image != source.image:
+        if page.layout_provenance is not None:
+            from src.quality.semantic_layout import validate_grouped_page
+
+            comparison_source = (
+                source.model_copy(
+                    update={
+                        "blocks": source.source_blocks,
+                        "source_blocks": None,
+                        "layout_provenance": None,
+                    }
+                )
+                if source.source_blocks is not None
+                else source
+            )
+            validate_grouped_page(comparison_source, page)
+        elif len(page.blocks) != len(source.blocks) or page.image != source.image:
             raise ValueError("Source regions or image identity changed")
         image = (stage / page.image).resolve()
         if not image.is_relative_to(stage.resolve()):
@@ -115,8 +130,11 @@ def _validate(plan: StagedManual, page_count: int) -> ContextManual:
                 scan.verify()
         except OSError as error:
             raise ValueError("Unreadable page image") from error
-        for block, before in zip(page.blocks, source.blocks, strict=True):
-            if block.text != before.text or block.bbox != before.bbox:
+        for index, block in enumerate(page.blocks):
+            if page.layout_provenance is None and (
+                block.text != source.blocks[index].text
+                or block.bbox != source.blocks[index].bbox
+            ):
                 raise ValueError("Original Japanese or geometry changed")
             if not block.translation.strip():
                 raise ValueError("Empty English translation")

@@ -1,15 +1,15 @@
 // Main application entry point - modular architecture
-import { state, DOM, EditSession } from './js/state.js?v=14';
-import { ImageLoader } from './js/image-loader.js?v=14';
-import { debounce, throttle } from './js/utils.js?v=14';
-import { UI_TIMINGS } from './js/config.js?v=14';
+import { state, DOM, EditSession } from './js/state.js?v=17';
+import { ImageLoader } from './js/image-loader.js?v=17';
+import { debounce, throttle } from './js/utils.js?v=17';
+import { UI_TIMINGS } from './js/config.js?v=17';
 import {
   renderManualList,
   renderTagFilters,
   highlightBlock,
   clearHighlights,
   scheduleManualFit
-} from './js/renderer.js?v=14';
+} from './js/renderer.js?v=17';
 import {
   commitBboxGesture,
   createTextBlock,
@@ -19,7 +19,7 @@ import {
   saveInspectorTranslation,
   syncInspectorBbox,
   undoLastEdit
-} from './js/editor.js?v=14';
+} from './js/editor.js?v=17';
 import {
   navigate,
   toggleTranslations,
@@ -29,9 +29,9 @@ import {
   jumpToPage,
   manualNameFromHash,
   updatePageIndicator
-} from './js/navigation.js?v=14';
-import { submitToGitHub, downloadJSON } from './js/github.js?v=14';
-import { createViewerState, reduceViewerState } from './js/viewer-state.js?v=14';
+} from './js/navigation.js?v=17';
+import { submitToGitHub, downloadJSON } from './js/github.js?v=17';
+import { createViewerState, reduceViewerState } from './js/viewer-state.js?v=17';
 import {
   DEFAULT_READER_FONT_SIZE,
   adjustReaderScale,
@@ -40,16 +40,16 @@ import {
   parseReaderPreferences,
   requiresLargeTextPopover,
   serializeReaderPreferences
-} from './js/reader-controls.js?v=14';
-import { createDraftAutosave, createDraftStore } from './js/draft-store.js?v=14';
+} from './js/reader-controls.js?v=17';
+import { createDraftAutosave, createDraftStore } from './js/draft-store.js?v=17';
 import {
   beginBboxGesture,
   cancelBboxGesture,
   commitBboxGesture as finalizeBboxGesture,
   updateBboxGesture
-} from './js/bbox-interaction.js?v=14';
-import { createPrintPreparation } from './js/print-preparation.js?v=14';
-import { fitPrintDocument, renderPrintDocument } from './js/print-renderer.js?v=14';
+} from './js/bbox-interaction.js?v=17';
+import { createPrintPreparation } from './js/print-preparation.js?v=17';
+import { fitPrintDocument, renderPrintDocument } from './js/print-renderer.js?v=17';
 
 const finePointerQuery = window.matchMedia('(pointer: fine)');
 const READER_PREFERENCES_KEY = 'tokusolutions:reader-preferences';
@@ -218,7 +218,7 @@ function dispatchViewer(action) {
   state.viewer = reduceViewerState(state.viewer, action);
 
   if (wasEditing && state.viewer.mode === 'reading') {
-    import('./js/editor.js?v=14').then(({ exitBlockEditMode }) => exitBlockEditMode());
+    import('./js/editor.js?v=17').then(({ exitBlockEditMode }) => exitBlockEditMode());
   }
 
   renderViewerState();
@@ -497,7 +497,7 @@ function setupEventListeners() {
       if (state.viewer.mode === 'reading') {
         maybeOpenLargeTextPopover(pageIdx, blockIdx, overlay);
       } else {
-        import('./js/editor.js?v=14').then(({ enterBlockEditMode }) => {
+        import('./js/editor.js?v=17').then(({ enterBlockEditMode }) => {
           enterBlockEditMode(pageIdx, blockIdx);
         });
       }
@@ -593,7 +593,7 @@ function setupEventListeners() {
 
     highlightBlock(pageIdx, blockIdx);
     if (state.viewer.mode === 'editing') {
-      import('./js/editor.js?v=14').then(({ enterBlockEditMode }) => {
+      import('./js/editor.js?v=17').then(({ enterBlockEditMode }) => {
         enterBlockEditMode(pageIdx, blockIdx);
       });
     }

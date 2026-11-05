@@ -7,8 +7,6 @@ import logging
 import math
 import re
 import shutil
-import unicodedata
-from collections import Counter
 from copy import deepcopy
 from dataclasses import asdict, dataclass
 from datetime import timedelta
@@ -53,6 +51,7 @@ from src.quality.glossary import (
 )
 from src.quality.models import Block
 from src.quality.pipeline import infer_franchise
+from src.quality.quantities import numeric_tokens
 from src.temporal_client import connect_temporal
 from src.worker import ACTIVITIES, WORKFLOWS
 from src.workflows.agent_workflows import DurableAgentWorkflow
@@ -91,64 +90,6 @@ def canonical_box(box: list[float]) -> list[float]:
     return normalized
 
 
-def _numbers(text: str) -> Counter[str]:
-    normalized = unicodedata.normalize("NFKC", text).lower()
-    # Japanese battery-size digits map to AA/AAA/etc., not battery quantities.
-    normalized = re.sub(r"単\s*[1-5]", "", normalized)
-    normalized = re.sub(r"(?<=\d),(?=\d{3}(?:\D|$))", "", normalized)
-    numbers = Counter(re.findall(r"\d+(?:\.\d+)?", normalized))
-    units = [
-        "zero",
-        "one",
-        "two",
-        "three",
-        "four",
-        "five",
-        "six",
-        "seven",
-        "eight",
-        "nine",
-        "ten",
-        "eleven",
-        "twelve",
-        "thirteen",
-        "fourteen",
-        "fifteen",
-        "sixteen",
-        "seventeen",
-        "eighteen",
-        "nineteen",
-    ]
-    values = {word: value for value, word in enumerate(units)}
-    values.update(
-        {
-            word: value
-            for word, value in zip(
-                [
-                    "twenty",
-                    "thirty",
-                    "forty",
-                    "fifty",
-                    "sixty",
-                    "seventy",
-                    "eighty",
-                    "ninety",
-                ],
-                range(20, 100, 10),
-                strict=True,
-            )
-        }
-    )
-    pattern = (
-        r"\b(?:(?:twenty|thirty|forty|fifty|sixty|seventy|eighty|ninety)(?:[- ]+(?:one|two|three|four|five|six|seven|eight|nine))?|"
-        + "|".join(units)
-        + r")\b"
-    )
-    for matched in re.findall(pattern, normalized):
-        numbers[str(sum(values[word] for word in re.split(r"[- ]+", matched)))] += 1
-    return numbers
-
-
 def find_issues(data: ManualData, glossary: Glossary, product: str) -> list[Issue]:
     """Find literal-label, scoped terminology and numeric-coverage concerns offline."""
     franchise = infer_franchise(
@@ -170,7 +111,9 @@ def find_issues(data: ManualData, glossary: Glossary, product: str) -> list[Issu
                         f"Expected exact source label {label}",
                     )
                 )
-            missing = _numbers(block["text"]) - _numbers(block["translation"])
+            missing = numeric_tokens(block["text"]) - numeric_tokens(
+                block["translation"]
+            )
             if missing:
                 issues.append(
                     Issue(
@@ -239,9 +182,9 @@ def guard_repairs(
             if source["translation"] == candidate["translation"]:
                 continue
             identifier = f"{page_index}-{block_index}"
-            source_numbers = _numbers(source["text"])
-            old_numbers = _numbers(source["translation"])
-            new_numbers = _numbers(candidate["translation"])
+            source_numbers = numeric_tokens(source["text"])
+            old_numbers = numeric_tokens(source["translation"])
+            new_numbers = numeric_tokens(candidate["translation"])
             new_loss = (source_numbers - new_numbers) - (source_numbers - old_numbers)
             new_invention = new_numbers - (source_numbers | old_numbers)
             editable = EditBlock(

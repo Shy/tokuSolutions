@@ -1,4 +1,4 @@
-import { clampBbox } from './utils.js?v=14';
+import { clampBbox } from './utils.js?v=17';
 
 function clone(value) {
   return structuredClone(value);

@@ -135,3 +135,16 @@ test('an edited browser session exports only its manual value', () => {
   assert.doesNotMatch(json, /UNDO_STACK|REDO_STACK|DRAFT_METADATA|FIT_CACHE|VIEWER_STATE/);
   assert.throws(() => serializeManual(session), /manual\.meta must be an object/);
 });
+
+test('semantic layout and source provenance survive editor export without transient state', () => {
+  const manual = createManual();
+  manual.pages[0].source_blocks = structuredClone(manual.pages[0].blocks);
+  manual.pages[0].layout_provenance = { version: 1, mapping: [{ source_ids: [0] }] };
+  manual.pages[0].blocks[0].layout = 'panel';
+  const persisted = toPersistedManual(manual);
+  assert.equal(persisted.pages[0].blocks[0].layout, 'panel');
+  assert.deepEqual(persisted.pages[0].source_blocks, manual.pages[0].source_blocks);
+  assert.deepEqual(persisted.pages[0].layout_provenance, manual.pages[0].layout_provenance);
+  persisted.pages[0].source_blocks[0].text = 'Changed';
+  assert.notEqual(manual.pages[0].source_blocks[0].text, 'Changed');
+});

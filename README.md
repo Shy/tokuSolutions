@@ -2,7 +2,8 @@
 
 Translate Japanese toy manuals into English while keeping the scanned pages and
 text positions. Temporal coordinates Google Document AI OCR, source-backed toku
-terminology research, Google Translation LLM and image-aware OpenAI cleanup.
+terminology research, Google Translation LLM, image-aware OpenAI cleanup and
+source-linked semantic panel translation.
 The result opens directly in the reading and editing webpage.
 
 The machine pipeline is automatic. Uncertain terminology becomes an advisory
@@ -31,9 +32,10 @@ You need Python 3.12+, [uv](https://docs.astral.sh/uv/), the
 [Temporal CLI](https://docs.temporal.io/cli), and a Google Cloud project with
 Document AI and Cloud Translation enabled. Configure a Document AI OCR processor
 and a service account able to use both APIs. Install Google Chrome for the automatic
-browser layout audit. OpenAI API access enables automated
-glossary web research and AI cleanup; a missing key or failed optional AI stage
-retains the translated draft.
+browser layout audit. OpenAI API access is required for semantic layout planning
+and panel translation, and also enables glossary web research and AI cleanup.
+A failed optional research/cleanup stage retains the draft; a failed semantic
+planning stage retains staging and prevents publication.
 
 ```bash
 uv sync --locked --all-groups
@@ -108,10 +110,15 @@ not left in the preview. Refresh the staged copy after generating or editing dat
 4. **Cleanup:** normalize English formatting, restore literal source labels and
    run one page-aware AI cleanup call per batch. Guards preserve the original
    Japanese, boxes, accepted names and literal labels.
-5. **Audit:** validate every page, translation and image, then measure the real
+5. **Semantic layout:** group complete instruction paragraphs and safety panels,
+   attach confirmed furigana to their source words and omit standalone guide
+   translations. Translate prose from independent source crops with the frozen
+   glossary. Source geometry and illustration-ink checks reject unsafe merges;
+   one automatic repair is allowed before retaining an existing translation.
+6. **Audit:** validate every page, translation and image, then measure the real
    Chrome viewer at desktop, phone and A4 print sizes. Overflow, small text and
    unavailable browser checks become advisory warnings.
-6. **Publish:** move the completed manual into place, retain any previous version
+7. **Publish:** move the completed manual into place, retain any previous version
    and refresh the catalog. Incomplete OCR or changed source data prevents
    publication. There is no approval gate or extra preview page.
 

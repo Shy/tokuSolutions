@@ -36,9 +36,14 @@ from src.workflows.agent_workflows import (
 )
 from src.workflows.cleanup_workflow import CleanupWorkflow
 from src.workflows.ocr_workflow import OCRWorkflow
+from src.workflows.page_grouping_workflow import PageGroupingAgentWorkflow
 from src.workflows.pdf_translation_workflow import (
     PDFTranslationInput,
     PDFTranslationWorkflow,
+)
+from src.workflows.semantic_layout_workflow import (
+    SemanticLayoutWorkflow,
+    SemanticPageWorkflow,
 )
 from src.workflows.site_generation_workflow import SiteGenerationWorkflow
 from src.workflows.translation_workflow import TranslationWorkflow
@@ -108,6 +113,10 @@ class FixtureModel(Model):
             raise RuntimeError("Simulated transient model failure")
         if output_schema is not None and output_schema.name() == "ResearchFindings":
             payload = '{"findings": []}'
+        elif output_schema is not None and output_schema.name() == "PagePlan":
+            payload = '{"panels": [{"id":"lever","kind":"prose","source_ids":[0]}], "furigana": [], "notes": []}'
+        elif output_schema is not None and output_schema.name() == "PanelTranslations":
+            payload = '{"panels":[{"panel_id":"lever","japanese_items":["レバー"],"english_items":["Lever"]}],"uncertainties":[]}'
         elif output_schema is not None and output_schema.name() == "InstructionReview":
             request = instruction_payload(TypeAdapter(JsonValue).validate_python(input))
             assert request is not None
@@ -193,7 +202,7 @@ async def fixture_ocr(pdf_path: str, page_num: int) -> PageOCRResult:
     return PageOCRResult(
         page_num,
         [
-            TextBlock("レバー", page_num, 0, 0, 1, 0.2, 0.99),
+            TextBlock("レバー", page_num, 0, 0, 0.4, 0.2, 0.99),
             TextBlock("ON", page_num, 0, 0.3, 1, 0.2, 0.99),
         ],
         True,
@@ -268,6 +277,13 @@ async def test_real_plugin_retries_and_replays_without_recalling_model(
         with (
             patch("src.activities.agent_pipeline.ROOT", tmp_path),
             patch("src.activities.publication.ROOT", tmp_path),
+            patch("src.activities.semantic_layout.ROOT", tmp_path),
+            patch(
+                "src.quality.ocr_source.cached_page_lines",
+                side_effect=lambda page, image, output, page_index: output.write_text(
+                    "[]"
+                ),
+            ),
             patch.dict(
                 os.environ,
                 {"OPENAI_API_KEY": "fixture-only", "OPENAI_MODEL": "fixture"},
@@ -372,13 +388,26 @@ async def test_real_plugin_retries_and_replays_without_recalling_model(
                 assert [
                     block["translation"] for block in output["pages"][0]["blocks"]
                 ] == ["Lever", "ON"]
-                assert provider.calls == 4, (
-                    "Expected only glossary and cleanup model calls"
+                assert provider.calls == 6, (
+                    "Expected glossary, cleanup, semantic-plan and crop-translation calls"
                 )
                 for identifier, workflow_type in [
                     ("full-agent-pipeline", PDFTranslationWorkflow),
                     ("full-agent-pipeline-translation", TranslationWorkflow),
                     ("full-agent-pipeline-cleanup", CleanupWorkflow),
+                    ("full-agent-pipeline-semantic-layout", SemanticLayoutWorkflow),
+                    (
+                        "full-agent-pipeline-semantic-layout-page-0",
+                        SemanticPageWorkflow,
+                    ),
+                    (
+                        "full-agent-pipeline-semantic-layout-page-0-plan",
+                        PageGroupingAgentWorkflow,
+                    ),
+                    (
+                        "full-agent-pipeline-semantic-layout-page-0-panel-0",
+                        PageGroupingAgentWorkflow,
+                    ),
                     (
                         "full-agent-pipeline-translation-glossary-agent",
                         GlossaryAgentWorkflow,
@@ -390,7 +419,7 @@ async def test_real_plugin_retries_and_replays_without_recalling_model(
                     await Replayer(
                         workflows=[workflow_type], plugins=[agents_plugin(provider)]
                     ).replay_workflow(history)
-                assert provider.calls == 4
+                assert provider.calls == 6
 
                 # A missing local browser is advisory, never a human approval gate.
                 with patch(
@@ -414,7 +443,7 @@ async def test_real_plugin_retries_and_replays_without_recalling_model(
                     ]
                     == 0
                 )
-                assert provider.calls == 5
+                assert provider.calls == 7
 
                 incomplete_pdf = tmp_path / "failed-ocr.pdf"
                 with pymupdf.open() as document:
@@ -433,7 +462,7 @@ async def test_real_plugin_retries_and_replays_without_recalling_model(
                 )
                 assert not failed.success and failed.quality_status == "failed"
                 assert not (tmp_path / "manuals/Incomplete").exists()
-                assert provider.calls == 5, (
+                assert provider.calls == 7, (
                     "Incomplete OCR must stop before any translation/cleanup model call"
                 )
 

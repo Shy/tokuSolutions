@@ -1,12 +1,12 @@
 // DOM rendering module
-import { state, DOM, EditSession } from './state.js?v=14';
-import { ImageLoader } from './image-loader.js?v=14';
-import { ErrorHandler } from './errors.js?v=14';
-import { validateManualDocument } from './manual-data.js?v=14';
-import { fitRenderedManual } from './text-fit-dom.js?v=14';
-import { buildCatalogView } from './catalog-view.js?v=14';
-import { formatPageIndicator } from './reader-controls.js?v=14';
-import { reduceViewerState } from './viewer-state.js?v=14';
+import { state, DOM, EditSession } from './state.js?v=17';
+import { ImageLoader } from './image-loader.js?v=17';
+import { ErrorHandler } from './errors.js?v=17';
+import { validateManualDocument } from './manual-data.js?v=17';
+import { fitRenderedManual } from './text-fit-dom.js?v=17';
+import { buildCatalogView } from './catalog-view.js?v=17';
+import { formatPageIndicator } from './reader-controls.js?v=17';
+import { reduceViewerState } from './viewer-state.js?v=17';
 
 let pendingFitFrame = null;
 const RESIZE_HANDLES = ['n', 's', 'e', 'w', 'ne', 'nw', 'se', 'sw'];
@@ -120,7 +120,7 @@ export function renderManualList(filteredManuals) {
 
     card.append(artwork, content);
     const openManual = () => {
-      import('./navigation.js?v=14').then(({ navigate }) => {
+      import('./navigation.js?v=17').then(({ navigate }) => {
         navigate('viewer', manual.manualName);
       });
     };
@@ -154,7 +154,7 @@ export function renderTagFilters() {
     tagButton.dataset.tagId = tagId; // Store tag ID on button
     tagButton.onclick = () => {
       // Import toggleTagFilter dynamically
-      import('./navigation.js?v=14').then(({ toggleTagFilter }) => {
+      import('./navigation.js?v=17').then(({ toggleTagFilter }) => {
         toggleTagFilter(tagId);
       });
     };
@@ -223,6 +223,7 @@ export function renderOverlays(pageDiv, page, pageIdx) {
   page.blocks.forEach((block, blockIdx) => {
     const overlay = document.createElement('div');
     overlay.className = 'overlay';
+    if (block.layout === 'panel') overlay.classList.add('semantic-panel');
     overlay.textContent = block.translation;
     overlay.dataset.pageId = pageIdx;
     overlay.dataset.blockId = blockIdx;

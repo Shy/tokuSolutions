@@ -26,9 +26,7 @@
       "english": "Ranger Key",
       "franchise": "sentai",
       "product": "GoKaiKeys",
-      "aliases": [
-        "Ranger Keys"
-      ],
+      "aliases": ["Ranger Keys"],
       "status": "accepted",
       "sources": [
         {
@@ -5741,6 +5739,32 @@
       "status": "needs_review",
       "sources": [],
       "notes": "Web evidence did not establish an exact bilingual contextual name. English currently contains a Japanese placeholder and must not be applied."
+    },
+    {
+      "id": "progrise-key",
+      "japanese": "プログライズキー",
+      "english": "Progrise Key",
+      "franchise": "kamen-rider",
+      "product": null,
+      "aliases": [],
+      "status": "accepted",
+      "sources": [
+        {
+          "url": "https://toy.bandai.co.jp/manuals/files/2756843.pdf?ver=sqhcx9",
+          "title": "Bandai SUPER BEST DX Hellrise Progrise Key official manual, page 1",
+          "evidence": "Visually verified the Japanese product heading ヘルライジングプログライズキー and the English subtitle HELLRISE PROGRISEKEY on the same rendered first page.",
+          "accessed": "2026-11-04",
+          "kind": "page"
+        },
+        {
+          "url": "https://toy.bandai.co.jp/en/series/rider//item/01_20933/",
+          "title": "Bandai official Assault Wolf and Rampage Gatling product page",
+          "evidence": "The English product description uses Progrise Key as the spaced generic item spelling.",
+          "accessed": "2026-11-04",
+          "kind": "page"
+        }
+      ],
+      "notes": "Shared Kamen Rider item term verified against an official bilingual manual and official English product page; retain any more specific verified product-name mappings."
     }
   ]
 }

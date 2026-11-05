@@ -20,8 +20,10 @@ with workflow.unsafe.imports_passed_through():
         summarize_audit_activity,
     )
     from src.publication_models import AuditPreparation, PageAudit
+    from src.semantic_models import SemanticLayoutInput
     from src.workflows.cleanup_workflow import CleanupInput, CleanupWorkflow
     from src.workflows.ocr_workflow import OCRInput, OCRWorkflow
+    from src.workflows.semantic_layout_workflow import SemanticLayoutWorkflow
     from src.workflows.site_generation_workflow import (
         SiteGenerationInput,
         SiteGenerationWorkflow,
@@ -218,6 +220,23 @@ class PDFTranslationWorkflow:
                 )
             else:
                 self._warnings.append("Cleanup skipped by request")
+            if input.source_language == "ja" and input.target_language == "en":
+                self._progress.phase = "semantic_layout"
+                self._progress.cleanup_progress = (
+                    "Grouping complete instructions and removing furigana from English"
+                )
+                grouped_warnings = await workflow.execute_child_workflow(
+                    SemanticLayoutWorkflow.run,
+                    SemanticLayoutInput(
+                        site.json_path,
+                        plan.run_dir,
+                        ocr.page_count,
+                        input.pdf_path,
+                        translated.glossary_path,
+                    ),
+                    id=f"{workflow.info().workflow_id}-semantic-layout",
+                )
+                self._warnings.extend(grouped_warnings)
             self._progress.phase = "audit"
             self._progress.pages_completed = 0
             self._progress.audit_progress = (

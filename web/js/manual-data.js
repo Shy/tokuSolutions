@@ -73,10 +73,15 @@ export function toPersistedManual(manual) {
     meta: structuredClone(manual.meta),
     pages: manual.pages.map((page) => ({
       image: page.image,
+      ...(page.source_blocks ? { source_blocks: structuredClone(page.source_blocks) } : {}),
+      ...(page.layout_provenance
+        ? { layout_provenance: structuredClone(page.layout_provenance) }
+        : {}),
       blocks: page.blocks.map((block) => ({
         text: block.text,
         translation: block.translation,
-        bbox: [...block.bbox]
+        bbox: [...block.bbox],
+        ...(block.layout === 'panel' ? { layout: 'panel' } : {})
       }))
     }))
   };
