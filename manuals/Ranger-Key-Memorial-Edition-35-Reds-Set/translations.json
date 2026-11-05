@@ -16,8 +16,32 @@
     {
       "blocks": [
         {
+          "text": "セット内容",
+          "translation": "Set contents",
+          "bbox": [0.0926, 0.2093020931482315, 0.09280000000000001, 0.028392994284629824],
+          "layout": "panel"
+        },
+        {
+          "text": "取扱説明書 (本書)......1\nレンジャーキー......各1\n(アカレンジャー・スペードエース・バトルジャパン\n・デンジレッド・バルイーグル ゴーグルレッド\nダイナレッド・レッドワン・チェンジドラゴン\n・レッドフラッシュ・レッドマスク・レッドファルコン\n・レッドターボ・ファイブレッド・レッドホーク\n・ティラノレンジャー・リュウレンジャー\n・ニンジャレッド オーレッド・レッドレーサー\n・メガレッド・ギンガレッド・ゴーレッド\nタイムレッド・ガオレッド・ハリケンレッド\n・アバレッド・デカレッド・マジレッド・ボウケンレッド\nゲキレッド・ゴーオンレッド・シンケンレッド\n・ゴセイレッド・アカレッド)",
+          "translation": "• Instruction manual (this booklet) ...... 1\n• Ranger Keys ...... 1 each\n• Ranger Keys (one each): Akarenja, Spade Ace, Battle Japan, Denji Red, Val Eagle, Goggle Red, Dyna Red, Red One, Change Dragon, Red Flash, Red Mask, Red Falcon, Red Turbo, Five Red, Red Hawk, Tyranno Ranger, Ryuu Ranger, Ninja Red, O-Red, Red Racer, Mega Red, Ginga Red, Go Red, Time Red, Gao Red, Hurricane Red, Abarred, Deka Red, Maji Red, Bouken Red, Geki Red, Go-On Red, Shinken Red, Gosei Red, Aka Red",
+          "bbox": [0.0336, 0.2741952941417694, 0.21041922965049745, 0.34400470585823056],
+          "layout": "panel"
+        },
+        {
+          "text": "レンジャーキーの変形方法",
+          "translation": "How to transform the Ranger Key",
+          "bbox": [0.2862, 0.1887458667755127, 0.1638, 0.021943980336189273],
+          "layout": "panel"
+        },
+        {
+          "text": "側面のボタンを押すことで、変形することが\nできます。",
+          "translation": "Press the button on the side to transform.",
+          "bbox": [0.2797767028808594, 0.5426000000000001, 0.1660094051361084, 0.04159999999999997],
+          "layout": "panel"
+        },
+        {
           "text": "△注意 お買い上げのお客様へ 必ずお読みください。\n●本商品の対象年齢は15才以上です。 対象年齢未満のお子様には絶対に与えないでください。\n●小さな部品、電池がありますので、小さなお子様が誤って飲み込まないように注意してください。 窒息などの危険があります。\n●尖った部分や鋭い部分がありますので、取扱や保管場所に注意してください。思わぬケガをする恐れがあります。",
-          "translation": "• Warning — To customers who purchased this product: Please read before use.\n• This product is intended for ages 15 and over. Never give it to children under the specified age.\n• This product contains small parts and batteries; take care that small children do not accidentally swallow them. There is a risk of choking and similar dangers.\n• There are pointed and sharp parts; take care when handling and storing. There is a risk of unexpected injury.",
+          "translation": "• Warning — Read this before use.\n• This product is for ages 15 and older. Do not give it to children under the indicated age.\n• This product contains small parts and batteries. Keep it away from young children to prevent accidental swallowing, which can cause choking and other dangers.\n• This product has pointed or sharp parts. Take care when handling and storing it to avoid unexpected injury.",
           "bbox": [
             0.03155784985423088, 0.6873351440429688, 0.4099535620510578, 0.08006485595703117
           ],
@@ -31,7 +55,7 @@
         },
         {
           "text": "●本商品は精密に作られています。無理な力を加えたり、 落としたりすると破損する恐れがあります。\n●プラスチック梱包材は開封後はすぐに捨ててください。",
-          "translation": "• This product is precisely manufactured. Applying excessive force or dropping it may cause damage.\n• Dispose of plastic packing materials immediately after opening.",
+          "translation": "• This product is finely/precisely made. Applying excessive force or dropping it may cause damage.\n• Discard plastic packaging immediately after opening.",
           "bbox": [
             0.030599999999999995, 0.7845000000000001, 0.32826677050590514, 0.031187824726104596
           ],
@@ -39,46 +63,16 @@
         },
         {
           "text": "●本商品には塗装部分がありますので、保管の際には他のもの (樹脂製品や家具、 ソファー)と接触しないようにしてください。\n色が移る場合があります。\n■可動部分・取付部分を無理な方向に強く引っ張ったり、曲げたりしないでください。",
-          "translation": "• This product has painted parts; when storing it, avoid contact with other items (plastic products, furniture, sofas). Color may transfer.\n• Do not pull or bend movable parts or attachment parts forcefully in an unnatural direction.",
+          "translation": "• This product has painted areas. When storing it, do not let it touch other items (resin products, furniture, sofas). Color may rub off.\n• Do not strongly pull or bend moving parts or attachment points in directions they are not meant to go.",
           "bbox": [
             0.030417925924062728, 0.8177000000000001, 0.43731178107857704, 0.048773783493041845
           ],
           "layout": "panel"
         },
         {
-          "text": "レンジャーキー 35レッドセット\nMEMORIAL EDITION\nUSER MANUAL",
-          "translation": "Ranger Key 35 Red Set\nMEMORIAL EDITION\nUSER MANUAL",
-          "bbox": [0.0237, 0.0336, 0.3412, 0.11850000000000002],
-          "layout": "panel"
-        },
-        {
-          "text": "セット内容",
-          "translation": "Set contents",
-          "bbox": [0.0926, 0.2093020931482315, 0.09280000000000001, 0.028392994284629824],
-          "layout": "panel"
-        },
-        {
-          "text": "取扱説明書 (本書)......1\nレンジャーキー......各1\n(アカレンジャー・スペードエース・バトルジャパン\n・デンジレッド・バルイーグル ゴーグルレッド\nダイナレッド・レッドワン・チェンジドラゴン\n・レッドフラッシュ・レッドマスク・レッドファルコン\n・レッドターボ・ファイブレッド・レッドホーク\n・ティラノレンジャー・リュウレンジャー\n・ニンジャレッド オーレッド・レッドレーサー\n・メガレッド・ギンガレッド・ゴーレッド\nタイムレッド・ガオレッド・ハリケンレッド\n・アバレッド・デカレッド・マジレッド・ボウケンレッド\nゲキレッド・ゴーオンレッド・シンケンレッド\n・ゴセイレッド・アカレッド)",
-          "translation": "• Instruction manual (this book)......1\n• Ranger Key......Each 1\n• (AkaRanger · Spade Ace · Battle Japan · Denji Red · Baru Eagle · Goggle Red · Dyna Red · Red One · Change Dragon · Red Flash · Red Mask · Red Falcon · Red Turbo · Five Red · Red Hawk · Tyranno Ranger · Ryu Ranger · Ninja Red · O-Red · Red Racer · Mega Red · Ginga Red · Go Red · Time Red · Gao Red · Hurrican Red · Abar Red · Deka Red · Maji Red · Bouken Red · Geki Red · Go-On Red · Shinken Red · Gosei Red · Aka Red)",
-          "bbox": [0.0336, 0.2741952941417694, 0.21041922965049745, 0.34400470585823056],
-          "layout": "panel"
-        },
-        {
-          "text": "レンジャーキーの変形方法",
-          "translation": "How to transform the Ranger Key",
-          "bbox": [0.2862, 0.1887458667755127, 0.1638, 0.021943980336189273],
-          "layout": "panel"
-        },
-        {
-          "text": "側面のボタンを押すことで、変形することが\nできます。",
-          "translation": "Press the side button to transform.",
-          "bbox": [0.2797767028808594, 0.5426000000000001, 0.1660094051361084, 0.04159999999999997],
-          "layout": "panel"
-        },
-        {
-          "text": "① 両腕を上げます。\n② 側面のボタンを押します。\n※梱包時はキーモードの状態です。\n両腕と脚を展開してから遊んでください。",
-          "translation": "• 1) Raise both arms.\n• 2) Press the side button.\n• Note: When packaged, it is in key mode. Deploy both arms and legs before playing.",
-          "bbox": [0.2794, 0.5837000000000001, 0.15869162521362307, 0.05987983016967757],
+          "text": "合わせてご覧ください。\nモバイレーツ -MEMORIAL EDITION- のWEB取説は、コチラから!!\nhttps://toy.bandai.co.jp/manuals/pdf.php?id=2588450",
+          "translation": "• Please also see the following.\n• The Mobirates -MEMORIAL EDITION- web manual is available at:\n• https://toy.bandai.co.jp/manuals/pdf.php?id=2588450",
+          "bbox": [0.072, 0.886, 0.2938, 0.06068339633941644],
           "layout": "panel"
         },
         {
@@ -89,7 +83,7 @@
         },
         {
           "text": "※アカレッドキーを例に説明します。\n※別売りのモバイレーツ MEMORIAL EDITION- を使用し、 「通常変身モード」の状態で行います。",
-          "translation": "• ※Using the Aka Red Key as an example.\n• ※Use the separately sold Mobirates -MEMORIAL EDITION- and perform this in \"Normal Transformation Mode.\"",
+          "translation": "• Using the Aka Red Key as an example.\n• Use the separately sold Mobirates MEMORIAL EDITION in its “Normal Transformation Mode.”",
           "bbox": [0.6693, 0.039599999999999996, 0.28774286241531366, 0.025999999999999995],
           "layout": "panel"
         },
@@ -100,24 +94,22 @@
           "layout": "panel"
         },
         {
-          "text": "挿入口に\nレンジャーキーを\n挿入します。\n→挿入音が鳴ります。",
-          "translation": "• Insert the Ranger Key into the insertion slot.\n• →An insertion sound will play.",
+          "text": "レンジャーキーを\n挿入します。\n→挿入音が鳴ります。",
+          "translation": "• Insert the Ranger Key.\n• An insertion sound will play.",
           "bbox": [
-            0.6559522852897645, 0.10329645431041717, 0.07994500684738148, 0.05983192610740662
+            0.6559522852897645, 0.11699999999999999, 0.07994500684738148, 0.0461283804178238
           ],
           "layout": "panel"
         },
         {
-          "text": "90° ひねります。\nクロスボーンが開き、\nひねり音と\nレンジャーキーに\n応じた音声が鳴ります。",
-          "translation": "• Turn 90°.\n• The Cross Bone opens, and a twisting sound and a voice corresponding to the Ranger Key will play.",
-          "bbox": [
-            0.7716547355651856, 0.10289339280128479, 0.09077427673339833, 0.07570660719871522
-          ],
+          "text": "レンジャーキーを\n90° ひねります。\nクロスボーンが開き、\nひねり音と\nレンジャーキーに\n応じた音声が鳴ります。",
+          "translation": "• Turn the Ranger Key 90°.\n• The Crossbone opens; a twisting sound plays and a voice corresponding to the Ranger Key will sound.",
+          "bbox": [0.7716547355651856, 0.0874, 0.09077427673339833, 0.0912],
           "layout": "panel"
         },
         {
           "text": "レンジャーキーを\n挿入した状態で\nエンターキーを押します。\nレンジャーキーに\n応じた音声が鳴ります。",
-          "translation": "• With the Ranger Key inserted, press the Enter key.\n• A voice corresponding to the Ranger Key will sound.",
+          "translation": "• With the Ranger Key inserted, press the Enter key.\n• A voice corresponding to the Ranger Key will play.",
           "bbox": [0.8895000000000001, 0.088, 0.09279999999999988, 0.07593450343608857],
           "layout": "panel"
         },
@@ -129,28 +121,20 @@
         },
         {
           "text": "※アカレッドキーを例に説明します。\n※別売りのモバイレーツ-MEMORIAL EDITION- を使用し、 「通常身モード」の状態で行います。",
-          "translation": "• The Aka Red Key is used as an example.\n• Using the separately sold Mobairetsu -MEMORIAL EDITION-, perform this while in \"Normal Transformation Mode.\"",
+          "translation": "• This example uses the Aka Red Key.\n• Use the separately sold Mobairets -MEMORIAL EDITION- and perform this while in \"Normal Transformation Mode.\"",
           "bbox": [0.6693, 0.39592040634155273, 0.28769999999999996, 0.02557153391838074],
           "layout": "panel"
         },
         {
           "text": "レンジャーキー挿入口に\nレンジャーキーを挿入します。\n→挿入音が鳴ります。",
-          "translation": "• Insert the Ranger Key into the Ranger Key slot.\n• →An insertion sound will play.",
+          "translation": "• Insert the Ranger Key into the Ranger Key slot.\n• An insertion sound plays.",
           "bbox": [0.5466000000000001, 0.4465, 0.1076999999999999, 0.04593106389045715],
           "layout": "panel"
         },
         {
           "text": "レンジャーキーを90° ひねります。\n→クロスボーンが開き、 ひねり音と\nレンジャーキーに応じた\n音声が鳴ります。",
-          "translation": "• Twist the Ranger Key 90°.\n• The Crossbone opens, and a twisting sound and a voice corresponding to the Ranger Key will play.",
+          "translation": "• Turn the Ranger Key 90°.\n• The Crossbone opens, and a twisting sound and a voice corresponding to the Ranger Key will play.",
           "bbox": [0.6877000000000001, 0.4465, 0.12485726957321153, 0.06003826141357416],
-          "layout": "panel"
-        },
-        {
-          "text": "BGMボタンを2回長押しします。\n→挿入されているレンジャーキーに\n応じた「スーパー戦隊ヒーロー\nゲッター」が鳴ります。",
-          "translation": "• Press and hold the BGM button two times.\n• The “Super Sentai Hero Getter” corresponding to the inserted Ranger Key will sound.",
-          "bbox": [
-            0.8460348949432374, 0.44751248812675476, 0.12953177976608266, 0.05942887949943537
-          ],
           "layout": "panel"
         },
         {
@@ -161,35 +145,26 @@
         },
         {
           "text": "※アカレッドキーを例に説明します。\n※別売りのモバイレーツ-MEMORIAL EDITION- を使用し、 「お宝ナビゲート」の状態で行います。",
-          "translation": "• Note: The Aka Red Key is used as an example.\n• Note: Use the separately sold Mobirates - MEMORIAL EDITION - and perform this while in the \"Treasure Navigate\" mode.",
+          "translation": "• Using the Aka Red Key as an example.\n• Use the separately sold Mobirets -MEMORIAL EDITION- and perform this while in \"Treasure Navigate\" mode.",
           "bbox": [0.6693, 0.7352996573448182, 0.28649999999999987, 0.026200342655181785],
           "layout": "panel"
         },
         {
           "text": "レンジャーキー\n挿入口に\nレンジャーキーを\n挿入します。\n→挿入音が\n鳴ります。",
-          "translation": "• Ranger Key\n• Insert the Ranger Key into the insertion slot. → An insertion sound will play.",
+          "translation": "• Insert the Ranger Key into the Ranger Key slot.\n• An insertion sound will play.",
           "bbox": [0.5462343797683716, 0.7869, 0.06541095066070546, 0.09069999999999989],
           "layout": "panel"
         },
         {
           "text": "レンジャーキーを\n90° ひねります。\nクロスボーンが開き、ひねり音と\n「レッツお宝ナビゲート!」が鳴り、\n挿入されている\nレンジャーキーに応じた\n音声が鳴ります。\n赤き海賊団の\nキャプテンは\nいづこに~?",
-          "translation": "• Turn the Ranger Key 90°. The crossbone opens, a twisting sound and “Let’s Treasure Navigate!” play, and a voice corresponding to the inserted Ranger Key sounds.\n• Where is the captain of the Red Pirate Crew~?",
+          "translation": "• Turn the Ranger Key 90°. The crossbone opens, a twisting sound plays and “Let’s Treasure Navigate!” will sound, then a voice matching the inserted Ranger Key plays.\n• Where is the Captain of the Red Pirate Crew~?",
           "bbox": [0.7471463189125062, 0.7863, 0.1401536810874937, 0.17973040838241572],
           "layout": "panel"
         },
         {
-          "text": "合わせてご覧ください。\nモバイレーツ -MEMORIAL EDITION- のWEB取説は、コチラから!!\nhttps://toy.bandai.co.jp/manuals/pdf.php?id=2588450",
-          "translation": "• Please also see.\n• The WEB manual for Mobairetsu -MEMORIAL EDITION- is here!!\n• https://toy.bandai.co.jp/manuals/pdf.php?id=2588450",
-          "bbox": [0.072, 0.886, 0.2938, 0.06068339633941644],
-          "layout": "panel"
-        },
-        {
-          "text": "●画像はイメージです。",
-          "translation": "Image is for illustrative purposes.",
-          "bbox": [
-            0.025858220890164374, 0.9507000000000001, 0.06256113152205944, 0.012508962917327726
-          ],
-          "layout": "panel"
+          "text": "レンジャーキー 35レッドセット\nMEMORIAL EDITION\nUSER MANUAL",
+          "translation": "Ranger Key 35 Red Set\nMEMORIAL EDITION\nUSER MANUAL",
+          "bbox": [0.0252, 0.0351, 0.3382, 0.1155]
         },
         {
           "text": "海賊戰隊",
@@ -207,9 +182,9 @@
           "bbox": [0.6593, 0.0895, 0.053, 0.0109]
         },
         {
-          "text": "レンジャーキーを",
-          "translation": "Ranger Key",
-          "bbox": [0.7747, 0.0889, 0.0607, 0.0115]
+          "text": "挿入口に",
+          "translation": "into the insertion slot",
+          "bbox": [0.6575, 0.1052, 0.0316, 0.0097]
         },
         {
           "text": "©石森プロ・東映",
@@ -282,6 +257,11 @@
           "bbox": [0.9461, 0.3694, 0.0308, 0.0073]
         },
         {
+          "text": "BGMボタンを2回長押しします。\n→挿入されているレンジャーキーに\n応じた「スーパー戦隊ヒーロー\nゲッター」が鳴ります。",
+          "translation": "Press and hold the BGM button twice. →The \"Super Sentai Hero Getter\" corresponding to the inserted Ranger Key will play.",
+          "bbox": [0.8478, 0.4492, 0.1261, 0.0562]
+        },
+        {
           "text": "キーモード",
           "translation": "Key Mode",
           "bbox": [0.3942, 0.5151, 0.0436, 0.0121]
@@ -290,6 +270,11 @@
           "text": "レンジャーモード",
           "translation": "Ranger Mode",
           "bbox": [0.2852, 0.5139, 0.0658, 0.0133]
+        },
+        {
+          "text": "① 両腕を上げます。\n② 側面のボタンを押します。\n※梱包時はキーモードの状態です。\n両腕と脚を展開してから遊んでください。",
+          "translation": "1. Raise both arms.\n2. Press the side button.\n*The item is in Key Mode when packaged. Please unfold the arms and legs before playing.",
+          "bbox": [0.2809, 0.5852, 0.1556, 0.0568]
         },
         {
           "text": "【側面】",
@@ -305,6 +290,11 @@
           "text": "ボタン",
           "translation": "button",
           "bbox": [0.8559, 0.6264, 0.0158, 0.0073]
+        },
+        {
+          "text": "●画像はイメージです。",
+          "translation": "●The image is for illustrative purposes only.",
+          "bbox": [0.0274, 0.9522, 0.0594, 0.0091]
         }
       ],
       "image": "pages/page-0.webp",
@@ -685,170 +675,184 @@
         "plan": {
           "panels": [
             {
-              "id": "p_warning_caution",
-              "kind": "prose",
-              "source_ids": [58]
-            },
-            {
-              "id": "p_usage_precautions_heading",
-              "kind": "heading",
-              "source_ids": [59]
-            },
-            {
-              "id": "p_usage_precautions_body_1",
-              "kind": "prose",
-              "source_ids": [60]
-            },
-            {
-              "id": "p_usage_precautions_body_2",
-              "kind": "prose",
-              "source_ids": [61]
-            },
-            {
-              "id": "p_manual_title",
-              "kind": "heading",
-              "source_ids": [0]
-            },
-            {
-              "id": "p_set_contents_heading",
+              "id": "p_set_heading",
               "kind": "heading",
               "source_ids": [1]
             },
             {
-              "id": "p_set_contents_list",
+              "id": "p_set_body",
               "kind": "prose",
               "source_ids": [2, 3, 4, 5, 6, 37, 38, 40, 49, 50, 51]
             },
             {
-              "id": "p_transformation_heading",
+              "id": "p_transform_heading",
               "kind": "heading",
               "source_ids": [25]
             },
             {
-              "id": "p_transformation_body",
+              "id": "p_transform_body-a",
               "kind": "prose",
               "source_ids": [53]
             },
             {
-              "id": "p_transformation_steps",
+              "id": "p_warning_body",
               "kind": "prose",
-              "source_ids": [54]
+              "source_ids": [58]
             },
             {
-              "id": "p_gokai_change_heading",
+              "id": "p_usage_heading",
               "kind": "heading",
-              "source_ids": [7]
+              "source_ids": [59]
             },
             {
-              "id": "p_gokai_change_notes",
+              "id": "p_usage_body_1",
               "kind": "prose",
-              "source_ids": [10, 11]
+              "source_ids": [60]
             },
             {
-              "id": "p_gokai_change_step_1",
+              "id": "p_usage_body_2",
               "kind": "prose",
-              "source_ids": [12, 18]
+              "source_ids": [61]
             },
             {
-              "id": "p_gokai_change_step_2",
-              "kind": "prose",
-              "source_ids": [15, 19, 21]
-            },
-            {
-              "id": "p_gokai_change_step_3",
-              "kind": "prose",
-              "source_ids": [16, 20, 34]
-            },
-            {
-              "id": "p_gokai_change_step_4",
-              "kind": "prose",
-              "source_ids": [22, 35]
-            },
-            {
-              "id": "p_special_bgm_heading",
-              "kind": "heading",
-              "source_ids": [42]
-            },
-            {
-              "id": "p_special_bgm_notes",
-              "kind": "prose",
-              "source_ids": [43, 44]
-            },
-            {
-              "id": "p_special_bgm_step_1",
-              "kind": "prose",
-              "source_ids": [45]
-            },
-            {
-              "id": "p_special_bgm_step_2",
-              "kind": "prose",
-              "source_ids": [46]
-            },
-            {
-              "id": "p_special_bgm_step_3",
-              "kind": "prose",
-              "source_ids": [47]
-            },
-            {
-              "id": "p_treasure_navigate_heading",
-              "kind": "heading",
-              "source_ids": [62]
-            },
-            {
-              "id": "p_treasure_navigate_notes",
-              "kind": "prose",
-              "source_ids": [68, 69]
-            },
-            {
-              "id": "p_treasure_navigate_step_1",
-              "kind": "prose",
-              "source_ids": [63]
-            },
-            {
-              "id": "p_treasure_navigate_step_2",
-              "kind": "prose",
-              "source_ids": [70, 71, 72, 73]
-            },
-            {
-              "id": "p_web_manual_notice",
+              "id": "p_web_notice",
               "kind": "prose",
               "source_ids": [64, 65, 66]
             },
             {
-              "id": "p_image_note",
+              "id": "p_gokai_heading",
+              "kind": "heading",
+              "source_ids": [7]
+            },
+            {
+              "id": "p_gokai_intro",
               "kind": "prose",
-              "source_ids": [67]
+              "source_ids": [10, 11]
+            },
+            {
+              "id": "p_gokai_step_1",
+              "kind": "prose",
+              "source_ids": [12, 18]
+            },
+            {
+              "id": "p_gokai_step_2",
+              "kind": "prose",
+              "source_ids": [19, 21]
+            },
+            {
+              "id": "p_gokai_step_3",
+              "kind": "prose",
+              "source_ids": [14, 16, 20, 34]
+            },
+            {
+              "id": "p_gokai_step_4",
+              "kind": "prose",
+              "source_ids": [22, 35]
+            },
+            {
+              "id": "p_bgm_heading",
+              "kind": "heading",
+              "source_ids": [42]
+            },
+            {
+              "id": "p_bgm_intro",
+              "kind": "prose",
+              "source_ids": [43, 44]
+            },
+            {
+              "id": "p_bgm_step_1",
+              "kind": "prose",
+              "source_ids": [45]
+            },
+            {
+              "id": "p_bgm_step_2",
+              "kind": "prose",
+              "source_ids": [46]
+            },
+            {
+              "id": "p_treasure_heading",
+              "kind": "heading",
+              "source_ids": [62]
+            },
+            {
+              "id": "p_treasure_intro",
+              "kind": "prose",
+              "source_ids": [68, 69]
+            },
+            {
+              "id": "p_treasure_step_1",
+              "kind": "prose",
+              "source_ids": [63]
+            },
+            {
+              "id": "p_treasure_step_2",
+              "kind": "prose",
+              "source_ids": [70, 71, 72, 73]
             }
           ],
           "furigana": [],
           "notes": [
-            "Source 58 combines the caution heading and body in one OCR region, so it cannot be separated without splitting the source.",
-            "p_gokai_change_step_2: excluded other-column members; retained separately"
-          ]
+            "Source 58 contains both the caution heading and its body in one OCR region, so it cannot be separated by source ID.",
+            "Panel p_transform_body-b retained original English after failed automatic checks",
+            "Panel p_bgm_step_3 retained original English after failed automatic checks"
+          ],
+          "native_artwork": []
         },
         "mapping": [
           {
             "display_index": 0,
-            "panel_id": "p_warning_caution",
+            "panel_id": "p_set_heading",
+            "source_ids": [1],
+            "furigana_ids": [],
+            "japanese_items": ["セット内容"]
+          },
+          {
+            "display_index": 1,
+            "panel_id": "p_set_body",
+            "source_ids": [2, 3, 4, 5, 6, 37, 38, 40, 49, 50, 51],
+            "furigana_ids": [],
+            "japanese_items": [
+              "取扱説明書（本書）･･････1",
+              "レンジャーキー･･････各1",
+              "（アカレンジャー・スペードエース・バトルジャパン・デンジレッド・バルイーグル・ゴーグルレッド・ダイナレッド・レッドワン・チェンジドラゴン・レッドフラッシュ・レッドマスク・レッドファルコン・レッドターボ・ファイブレッド・レッドホーク・ティラノレンジャー・リュウレンジャー・ニンジャレッド・オーレッド・レッドレーサー・メガレッド・ギンガレッド・ゴーレッド・タイムレッド・ガオレッド・ハリケンレッド・アバレッド・デカレッド・マジレッド・ボウケンレッド・ゲキレッド・ゴーオンレッド・シンケンレッド・ゴセイレッド・アカレッド）"
+            ]
+          },
+          {
+            "display_index": 2,
+            "panel_id": "p_transform_heading",
+            "source_ids": [25],
+            "furigana_ids": [],
+            "japanese_items": ["レンジャーキーの変形方法"]
+          },
+          {
+            "display_index": 3,
+            "panel_id": "p_transform_body-a",
+            "source_ids": [53],
+            "furigana_ids": [],
+            "japanese_items": ["側面のボタンを押すことで、変形することができます。"]
+          },
+          {
+            "display_index": 4,
+            "panel_id": "p_warning_body",
             "source_ids": [58],
             "furigana_ids": [],
             "japanese_items": [
-              "△注意 お買い上げのお客様へ 必ずお読みください。",
+              "△注意　お買い上げのお客様へ　必ずお読みください。",
               "●本商品の対象年齢は15才以上です。 対象年齢未満のお子様には絶対に与えないでください。",
               "●小さな部品、電池がありますので、小さなお子様が誤って飲み込まないように注意してください。 窒息などの危険があります。",
               "●尖った部分や鋭い部分がありますので、取扱や保管場所に注意してください。思わぬケガをする恐れがあります。"
             ]
           },
           {
-            "display_index": 1,
-            "panel_id": "p_usage_precautions_heading",
+            "display_index": 5,
+            "panel_id": "p_usage_heading",
             "source_ids": [59],
             "furigana_ids": [],
             "japanese_items": ["《使用上の注意》"]
           },
           {
-            "display_index": 2,
-            "panel_id": "p_usage_precautions_body_1",
+            "display_index": 6,
+            "panel_id": "p_usage_body_1",
             "source_ids": [60],
             "furigana_ids": [],
             "japanese_items": [
@@ -857,8 +861,8 @@
             ]
           },
           {
-            "display_index": 3,
-            "panel_id": "p_usage_precautions_body_2",
+            "display_index": 7,
+            "panel_id": "p_usage_body_2",
             "source_ids": [61],
             "furigana_ids": [],
             "japanese_items": [
@@ -867,193 +871,8 @@
             ]
           },
           {
-            "display_index": 4,
-            "panel_id": "p_manual_title",
-            "source_ids": [0],
-            "furigana_ids": [],
-            "japanese_items": ["レンジャーキー 35レッドセット\nMEMORIAL EDITION\nUSER MANUAL"]
-          },
-          {
-            "display_index": 5,
-            "panel_id": "p_set_contents_heading",
-            "source_ids": [1],
-            "furigana_ids": [],
-            "japanese_items": ["セット内容"]
-          },
-          {
-            "display_index": 6,
-            "panel_id": "p_set_contents_list",
-            "source_ids": [2, 3, 4, 5, 6, 37, 38, 40, 49, 50, 51],
-            "furigana_ids": [],
-            "japanese_items": [
-              "取扱説明書 (本書)･･････1",
-              "レンジャーキー･･････各1",
-              "(アカレンジャー・スペードエース・バトルジャパン・デンジレッド・バルイーグル・ゴーグルレッド・ダイナレッド・レッドワン・チェンジドラゴン・レッドフラッシュ・レッドマスク・レッドファルコン・レッドターボ・ファイブレッド・レッドホーク・ティラノレンジャー・リュウレンジャー・ニンジャレッド・オーレッド・レッドレーサー・メガレッド・ギンガレッド・ゴーレッド・タイムレッド・ガオレッド・ハリケンレッド・アバレッド・デカレッド・マジレッド・ボウケンレッド・ゲキレッド・ゴーオンレッド・シンケンレッド・ゴセイレッド・アカレッド)"
-            ]
-          },
-          {
-            "display_index": 7,
-            "panel_id": "p_transformation_heading",
-            "source_ids": [25],
-            "furigana_ids": [],
-            "japanese_items": ["レンジャーキーの変形方法"]
-          },
-          {
             "display_index": 8,
-            "panel_id": "p_transformation_body",
-            "source_ids": [53],
-            "furigana_ids": [],
-            "japanese_items": ["側面のボタンを押すことで、変形することができます。"]
-          },
-          {
-            "display_index": 9,
-            "panel_id": "p_transformation_steps",
-            "source_ids": [54],
-            "furigana_ids": [],
-            "japanese_items": [
-              "① 両腕を上げます。",
-              "② 側面のボタンを押します。",
-              "※梱包時はキーモードの状態です。両腕と脚を展開してから遊んでください。"
-            ]
-          },
-          {
-            "display_index": 10,
-            "panel_id": "p_gokai_change_heading",
-            "source_ids": [7],
-            "furigana_ids": [],
-            "japanese_items": ["豪快に変身"]
-          },
-          {
-            "display_index": 11,
-            "panel_id": "p_gokai_change_notes",
-            "source_ids": [10, 11],
-            "furigana_ids": [],
-            "japanese_items": [
-              "※アカレッドキーを例に説明します。",
-              "※別売りのモバイレーツ-MEMORIAL EDITION- を使用し、「通常変身モード」の状態で行います。"
-            ]
-          },
-          {
-            "display_index": 12,
-            "panel_id": "p_gokai_change_step_1",
-            "source_ids": [12, 18],
-            "furigana_ids": [],
-            "japanese_items": ["セリフボタンを押します。", "→変身アクション音が鳴ります。"]
-          },
-          {
-            "display_index": 13,
-            "panel_id": "p_gokai_change_step_2",
-            "source_ids": [15, 19, 21],
-            "furigana_ids": [],
-            "japanese_items": ["挿入口にレンジャーキーを挿入します。", "→挿入音が鳴ります。"]
-          },
-          {
-            "display_index": 14,
-            "panel_id": "p_gokai_change_step_3",
-            "source_ids": [16, 20, 34],
-            "furigana_ids": [],
-            "japanese_items": [
-              "90° ひねります。",
-              "→クロスボーンが開き、ひねり音とレンジャーキーに応じた音声が鳴ります。"
-            ]
-          },
-          {
-            "display_index": 15,
-            "panel_id": "p_gokai_change_step_4",
-            "source_ids": [22, 35],
-            "furigana_ids": [],
-            "japanese_items": [
-              "レンジャーキーを挿入した状態でエンターキーを押します。",
-              "レンジャーキーに応じた音声が鳴ります。"
-            ]
-          },
-          {
-            "display_index": 16,
-            "panel_id": "p_special_bgm_heading",
-            "source_ids": [42],
-            "furigana_ids": [],
-            "japanese_items": ["特殊BGM遊び"]
-          },
-          {
-            "display_index": 17,
-            "panel_id": "p_special_bgm_notes",
-            "source_ids": [43, 44],
-            "furigana_ids": [],
-            "japanese_items": [
-              "※アカレッドキーを例に説明します。",
-              "※別売りのモバイレーツ-MEMORIAL EDITION-を使用し、 「通常変身モード」の状態で行います。"
-            ]
-          },
-          {
-            "display_index": 18,
-            "panel_id": "p_special_bgm_step_1",
-            "source_ids": [45],
-            "furigana_ids": [],
-            "japanese_items": [
-              "レンジャーキー挿入口にレンジャーキーを挿入します。",
-              "→挿入音が鳴ります。"
-            ]
-          },
-          {
-            "display_index": 19,
-            "panel_id": "p_special_bgm_step_2",
-            "source_ids": [46],
-            "furigana_ids": [],
-            "japanese_items": [
-              "レンジャーキーを90°ひねります。",
-              "→クロスボーンが開き、ひねり音とレンジャーキーに応じた音声が鳴ります。"
-            ]
-          },
-          {
-            "display_index": 20,
-            "panel_id": "p_special_bgm_step_3",
-            "source_ids": [47],
-            "furigana_ids": [],
-            "japanese_items": [
-              "BGMボタンを2回長押しします。",
-              "→挿入されているレンジャーキーに応じた「スーパー戦隊ヒーローゲッター」が鳴ります。"
-            ]
-          },
-          {
-            "display_index": 21,
-            "panel_id": "p_treasure_navigate_heading",
-            "source_ids": [62],
-            "furigana_ids": [],
-            "japanese_items": ["お宝ナビゲート"]
-          },
-          {
-            "display_index": 22,
-            "panel_id": "p_treasure_navigate_notes",
-            "source_ids": [68, 69],
-            "furigana_ids": [],
-            "japanese_items": [
-              "※アカレッドキーを例に説明します。",
-              "※別売りのモバイレーツ-MEMORIAL EDITION- を使用し、 「お宝ナビゲート」の状態で行います。"
-            ]
-          },
-          {
-            "display_index": 23,
-            "panel_id": "p_treasure_navigate_step_1",
-            "source_ids": [63],
-            "furigana_ids": [],
-            "japanese_items": [
-              "レンジャーキー",
-              "挿入口にレンジャーキーを挿入します。→挿入音が鳴ります。"
-            ]
-          },
-          {
-            "display_index": 24,
-            "panel_id": "p_treasure_navigate_step_2",
-            "source_ids": [70, 71, 72, 73],
-            "furigana_ids": [],
-            "japanese_items": [
-              "レンジャーキーを90°ひねります。クロスボーンが開き、ひねり音と「レッツお宝ナビゲート！」が鳴り、挿入されているレンジャーキーに応じた音声が鳴ります。",
-              "赤き海賊団のキャプテンは　いづこに〜?"
-            ]
-          },
-          {
-            "display_index": 25,
-            "panel_id": "p_web_manual_notice",
+            "panel_id": "p_web_notice",
             "source_ids": [64, 65, 66],
             "furigana_ids": [],
             "japanese_items": [
@@ -1063,134 +882,267 @@
             ]
           },
           {
-            "display_index": 26,
-            "panel_id": "p_image_note",
-            "source_ids": [67],
+            "display_index": 9,
+            "panel_id": "p_gokai_heading",
+            "source_ids": [7],
             "furigana_ids": [],
-            "japanese_items": ["画像はイメージです。"]
+            "japanese_items": ["豪快に変身"]
           },
           {
-            "display_index": 27,
+            "display_index": 10,
+            "panel_id": "p_gokai_intro",
+            "source_ids": [10, 11],
+            "furigana_ids": [],
+            "japanese_items": [
+              "※アカレッドキーを例に説明します。",
+              "※別売りのモバイレーツ MEMORIAL EDITION- を使用し、「通常変身モード」の状態で行います。"
+            ]
+          },
+          {
+            "display_index": 11,
+            "panel_id": "p_gokai_step_1",
+            "source_ids": [12, 18],
+            "furigana_ids": [],
+            "japanese_items": ["セリフボタンを押します。", "→変身アクション音が鳴ります。"]
+          },
+          {
+            "display_index": 12,
+            "panel_id": "p_gokai_step_2",
+            "source_ids": [19, 21],
+            "furigana_ids": [],
+            "japanese_items": ["レンジャーキーを挿入します。", "→挿入音が鳴ります。"]
+          },
+          {
+            "display_index": 13,
+            "panel_id": "p_gokai_step_3",
+            "source_ids": [14, 16, 20, 34],
+            "furigana_ids": [],
+            "japanese_items": [
+              "レンジャーキーを90°ひねります。",
+              "クロスボーンが開き、ひねり音とレンジャーキーに応じた音声が鳴ります。"
+            ]
+          },
+          {
+            "display_index": 14,
+            "panel_id": "p_gokai_step_4",
+            "source_ids": [22, 35],
+            "furigana_ids": [],
+            "japanese_items": [
+              "レンジャーキーを挿入した状態でエンターキーを押します。",
+              "レンジャーキーに応じた音声が鳴ります。"
+            ]
+          },
+          {
+            "display_index": 15,
+            "panel_id": "p_bgm_heading",
+            "source_ids": [42],
+            "furigana_ids": [],
+            "japanese_items": ["特殊BGM遊び"]
+          },
+          {
+            "display_index": 16,
+            "panel_id": "p_bgm_intro",
+            "source_ids": [43, 44],
+            "furigana_ids": [],
+            "japanese_items": [
+              "※アカレッドキーを例に説明します。",
+              "※別売りのモバイレーツ-MEMORIAL EDITION-を使用し、 「通常変身モード」の状態で行います。"
+            ]
+          },
+          {
+            "display_index": 17,
+            "panel_id": "p_bgm_step_1",
+            "source_ids": [45],
+            "furigana_ids": [],
+            "japanese_items": [
+              "レンジャーキー挿入口にレンジャーキーを挿入します。",
+              "挿入音が鳴ります。"
+            ]
+          },
+          {
+            "display_index": 18,
+            "panel_id": "p_bgm_step_2",
+            "source_ids": [46],
+            "furigana_ids": [],
+            "japanese_items": [
+              "レンジャーキーを90° ひねります。",
+              "クロスボーンが開き、ひねり音とレンジャーキーに応じた音声が鳴ります。"
+            ]
+          },
+          {
+            "display_index": 19,
+            "panel_id": "p_treasure_heading",
+            "source_ids": [62],
+            "furigana_ids": [],
+            "japanese_items": ["お宝ナビゲート"]
+          },
+          {
+            "display_index": 20,
+            "panel_id": "p_treasure_intro",
+            "source_ids": [68, 69],
+            "furigana_ids": [],
+            "japanese_items": [
+              "※アカレッドキーを例に説明します。",
+              "※別売りのモバイレーツ-MEMORIAL EDITION- を使用し、 「お宝ナビゲート」の状態で行います。"
+            ]
+          },
+          {
+            "display_index": 21,
+            "panel_id": "p_treasure_step_1",
+            "source_ids": [63],
+            "furigana_ids": [],
+            "japanese_items": [
+              "レンジャーキー挿入口にレンジャーキーを挿入します。",
+              "→挿入音が鳴ります。"
+            ]
+          },
+          {
+            "display_index": 22,
+            "panel_id": "p_treasure_step_2",
+            "source_ids": [70, 71, 72, 73],
+            "furigana_ids": [],
+            "japanese_items": [
+              "レンジャーキーを90°ひねります。クロスボーンが開き、ひねり音と「レッツお宝ナビゲート！」が鳴り、挿入されているレンジャーキーに応じた音声が鳴ります。",
+              "赤き海賊団のキャプテンは　いづこに~?"
+            ]
+          },
+          {
+            "display_index": 23,
+            "source_ids": [0],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 24,
             "source_ids": [8],
             "furigana_ids": []
           },
           {
-            "display_index": 28,
+            "display_index": 25,
             "source_ids": [9],
             "furigana_ids": []
           },
           {
-            "display_index": 29,
+            "display_index": 26,
             "source_ids": [13],
             "furigana_ids": []
           },
           {
-            "display_index": 30,
-            "source_ids": [14],
+            "display_index": 27,
+            "source_ids": [15],
             "furigana_ids": []
           },
           {
-            "display_index": 31,
+            "display_index": 28,
             "source_ids": [17],
             "furigana_ids": []
           },
           {
-            "display_index": 32,
+            "display_index": 29,
             "source_ids": [23],
             "furigana_ids": []
           },
           {
-            "display_index": 33,
+            "display_index": 30,
             "source_ids": [24],
             "furigana_ids": []
           },
           {
-            "display_index": 34,
+            "display_index": 31,
             "source_ids": [26],
             "furigana_ids": []
           },
           {
-            "display_index": 35,
+            "display_index": 32,
             "source_ids": [27],
             "furigana_ids": []
           },
           {
-            "display_index": 36,
+            "display_index": 33,
             "source_ids": [28],
             "furigana_ids": []
           },
           {
-            "display_index": 37,
+            "display_index": 34,
             "source_ids": [29],
             "furigana_ids": []
           },
           {
-            "display_index": 38,
+            "display_index": 35,
             "source_ids": [30],
             "furigana_ids": []
           },
           {
-            "display_index": 39,
+            "display_index": 36,
             "source_ids": [31],
             "furigana_ids": []
           },
           {
-            "display_index": 40,
+            "display_index": 37,
             "source_ids": [32],
             "furigana_ids": []
           },
           {
-            "display_index": 41,
+            "display_index": 38,
             "source_ids": [33],
             "furigana_ids": []
           },
           {
-            "display_index": 42,
+            "display_index": 39,
             "source_ids": [36],
             "furigana_ids": []
           },
           {
-            "display_index": 43,
+            "display_index": 40,
             "source_ids": [39],
             "furigana_ids": []
           },
           {
-            "display_index": 44,
+            "display_index": 41,
             "source_ids": [41],
             "furigana_ids": []
           },
           {
-            "display_index": 45,
+            "display_index": 42,
+            "source_ids": [47],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 43,
             "source_ids": [48],
             "furigana_ids": []
           },
           {
-            "display_index": 46,
+            "display_index": 44,
             "source_ids": [52],
             "furigana_ids": []
           },
           {
-            "display_index": 47,
+            "display_index": 45,
+            "source_ids": [54],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 46,
             "source_ids": [55],
             "furigana_ids": []
           },
           {
-            "display_index": 48,
+            "display_index": 47,
             "source_ids": [56],
             "furigana_ids": []
           },
           {
-            "display_index": 49,
+            "display_index": 48,
             "source_ids": [57],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 49,
+            "source_ids": [67],
             "furigana_ids": []
           }
         ],
-        "uncertainties": [
-          "Transliteration choices for character/team names (for example バルイーグル rendered as 'Baru Eagle', ハリケンレッド rendered as 'Hurrican Red', and アカレンジャー/アカレッド as 'AkaRanger'/'Aka Red') may have alternate common English forms; original katakana-to-English mappings uncertain.",
-          "Romanization of the product name モバイレーツ rendered as \"Mobairetsu\"; exact official English rendering is unknown.",
-          "Transliteration of モバイレーツ as \"Mobirates\" chosen from image; original romanization uncertain.",
-          "Translation of お宝ナビゲート rendered as \"Treasure Navigate\" mode; alternative phrasing possible."
-        ],
+        "uncertainties": [],
         "ocr_lines": [
           {
             "id": 0,

@@ -63,6 +63,10 @@ the redundant English box: polarity signs, arrows, readable English and other
 confirmed artwork stay visible in the original scan. Battery instructions and
 specifications still receive translation overlays. Export preserves both the
 suppression ledger and the complete source regions.
+English overlays receive a script check during generation, including labels
+outside prose panels. Valid electrical units remain allowed. Source scans and
+source ledgers intentionally retain their original language. A bounded repair
+that cannot resolve an overlay safely retains it with an advisory warning.
 These are source records, not an instruction to the browser or a review gate.
 Draft versions, fit measurements, undo
 history and UI state must never enter saved manual JSON.

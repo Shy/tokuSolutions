@@ -7,7 +7,7 @@
     "source_url": "",
     "blog_url": "",
     "pages": 12,
-    "blocks": 201,
+    "blocks": 191,
     "thumbnail": "pages/page-0.webp",
     "tags": ["dx", "memorial", "sentai"],
     "semantic_layout": 1
@@ -35,13 +35,13 @@
         },
         {
           "text": "リュウソウケンの各部名称\n電池の入れ方\n電源の入れ方\nリュウソウケン単体の遊び方\nレッドリュウソウルの各部名称\nレッドリュウソウルの遊び方",
-          "translation": "• Names of the parts of the Ryusoul Ken\n• How to insert the batteries\n• How to turn on the power\n• How to play with the Ryusoul Ken by itself\n• Names of the parts of the Red Ryusoul\n• How to play with the Red Ryusoul",
+          "translation": "• Names of the Ryusoul Ken parts\n• How to insert the batteries\n• How to turn the power on\n• How to play with the Ryusoul Ken by itself\n• Names of the Red Ryusoul parts\n• How to play with the Red Ryusoul",
           "bbox": [0.1271, 0.6937841877937317, 0.27577222409248353, 0.16805438089370717],
           "layout": "panel"
         },
         {
           "text": "リュウソウケンの遊び方\n必殺攻撃遊び\nセリフ遊び\n特殊必殺攻撃遊び\nBGM遊び\n再生待機 BGM 遊び",
-          "translation": "• How to play with the Ryusoul Ken\n• Special attack play\n• Dialogue play\n• Special/unique finishing-attack play\n• BGM play\n• Playback-standby BGM play",
+          "translation": "• How to play with the Ryusouken\n• Special attack play\n• Voice-line play\n• Special special-attack play\n• BGM play\n• Playback-standby BGM play",
           "bbox": [0.539666365146637, 0.6937841877937317, 0.22173363485336295, 0.16744981098175038],
           "layout": "panel"
         },
@@ -249,63 +249,65 @@
         "plan": {
           "panels": [
             {
-              "id": "p0",
+              "id": "p1",
               "kind": "heading",
               "source_ids": [2]
             },
             {
-              "id": "p1",
+              "id": "p2",
               "kind": "heading",
               "source_ids": [3]
             },
             {
-              "id": "p2",
+              "id": "p3",
               "kind": "heading",
               "source_ids": [4]
             },
             {
-              "id": "p3",
+              "id": "p4",
               "kind": "prose",
               "source_ids": [5, 8, 12, 16, 20, 23]
             },
             {
-              "id": "p4",
+              "id": "p5",
               "kind": "prose",
               "source_ids": [7, 10, 14, 18, 21, 25]
             }
           ],
           "furigana": [],
           "notes": [
-            "Logo/copyright regions are left ungrouped. Some table-of-contents page numbers visible in the scan are not present as source regions.",
-            "p3: excluded other-column members; retained separately",
-            "p4: excluded other-column members; retained separately"
-          ]
+            "Source 0 is part of the printed series logo rather than a separate prose heading.",
+            "The page number for source 20 appears in the scan but was not supplied as a separate OCR region.",
+            "p4: excluded other-column members; retained separately",
+            "p5: excluded other-column members; retained separately"
+          ],
+          "native_artwork": []
         },
         "mapping": [
           {
             "display_index": 0,
-            "panel_id": "p0",
+            "panel_id": "p1",
             "source_ids": [2],
             "furigana_ids": [],
             "japanese_items": ["ソーサッサケン\n-MEMORIAL EDITION-"]
           },
           {
             "display_index": 1,
-            "panel_id": "p1",
+            "panel_id": "p2",
             "source_ids": [3],
             "furigana_ids": [],
             "japanese_items": ["取扱説明書"]
           },
           {
             "display_index": 2,
-            "panel_id": "p2",
+            "panel_id": "p3",
             "source_ids": [4],
             "furigana_ids": [],
             "japanese_items": ["目次"]
           },
           {
             "display_index": 3,
-            "panel_id": "p3",
+            "panel_id": "p4",
             "source_ids": [5, 8, 12, 16, 20, 23],
             "furigana_ids": [],
             "japanese_items": [
@@ -319,7 +321,7 @@
           },
           {
             "display_index": 4,
-            "panel_id": "p4",
+            "panel_id": "p5",
             "source_ids": [7, 10, 14, 18, 21, 25],
             "furigana_ids": [],
             "japanese_items": [
@@ -328,7 +330,7 @@
               "セリフ遊び",
               "特殊必殺攻撃遊び",
               "BGM遊び",
-              "再生待機 BGM遊び"
+              "再生待機 BGM 遊び"
             ]
           },
           {
@@ -392,12 +394,7 @@
             "furigana_ids": []
           }
         ],
-        "uncertainties": [
-          "Translation of リュウソウケン: treated as a product/name and transliterated as \"Ryusoul Ken\".",
-          "Translation of セリフ遊び: rendered as \"Dialogue play\" (could also be \"Line play\" or \"Voice-line play\").",
-          "Translation of 特殊必殺攻撃遊び: rendered as \"Special/unique finishing-attack play\" to reflect both 特殊 and 必殺攻撃; other renderings possible (e.g., \"special special-attack play\").",
-          "Translation of 再生待機 BGM遊び: rendered as \"Playback-standby BGM play\" to reflect literal components; exact intended nuance of 待機 (standby/wait) is uncertain."
-        ],
+        "uncertainties": [],
         "ocr_lines": [
           {
             "id": 0,
@@ -599,6 +596,28 @@
     {
       "blocks": [
         {
+          "text": "セット内容",
+          "translation": "Set Contents",
+          "bbox": [0.128, 0.094, 0.10163035547733307, 0.018140868544578553],
+          "layout": "panel"
+        },
+        {
+          "text": "取扱説明書(本書)\nセリフ一覧 (別紙)",
+          "translation": "• Instruction manual (this booklet)\n• Line list (separate sheet)",
+          "bbox": [
+            0.2600780532360077, 0.08858464217185974, 0.11534989762306214, 0.030215357828140263
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "1 リュウソウケン\nレッドリュウソウル",
+          "translation": "• 1 Ryusouken\n• 1 Red Ryusoul",
+          "bbox": [
+            0.4684828326702118, 0.08979383414983749, 0.15222812581062312, 0.027206165850162514
+          ],
+          "layout": "panel"
+        },
+        {
           "text": "△注意",
           "translation": "△Caution",
           "bbox": [0.1434, 0.16597279465198517, 0.10081011352539063, 0.018127205348014847],
@@ -612,7 +631,7 @@
         },
         {
           "text": "●本商品の対象年齢は15才以上です。 対象年齢未満のお子様には絶対に与えないでください。\n●小さな部品、電池がありますので、小さなお子様が誤って飲み込まないように注意してください。\n窒息などの危険があります。\n●本商品は精密に作られています。 無理な力を加えたり、落としたりすると破損するおそれがあります。\n●袋を頭からかぶったり、顔を覆ったりしないでください。 窒息する恐れがあります。\n●ぶつけたり、ふりまわすなど乱暴な遊びをしないでください。\n●可動部には指などを入れないでください。はさまれてケガをする恐れがあります。\n●本商品にはスピーカーを使用しております。 ペースメーカーをご使用の方は、 本商品を身体に\n近づけないようご注意ください。\n●LEDの光の点滅を見続けないでください。 気分が悪くなったりするおそれがあります。\n《電池を誤使用すると発熱・ 破裂 液漏れの恐れがあります。 下記に注意してください》\n●二次電池(充電式電池) は、 絶対に使用しないでください。\n●古い電池と新しい電池、いろいろな種類の電池をまぜて使わないでください。\n●+(プラスマイナス)を正しくセットしてください。\n●遊んだ後は必ずスイッチを切り電池をはずしてください。 電池を入れたままにしておくと、液漏れの\n恐れがあり危険です。\n●ショートさせたり充電、分解、 加熱、火の中に入れたりしないでください。\n●万一、 電池から漏れた液が目に入ったときはすぐに大量の水で洗い、医師に相談してください。\n皮膚や服に付いた時は水で洗ってください。\n●廃棄するときは、 自治体の廃棄処理の指示に従ってください。\n●耳の近くで使用してはいけません。 誤って使用すると、聴覚を損なう恐れがあります。",
-          "translation": "• This product is intended for ages 15 and over. Do not give it to children younger than the intended age under any circumstances.\n• This product contains small parts and batteries; take care that small children do not accidentally swallow them. There is a risk of choking and other dangers.\n• This product is made with precision. Applying excessive force or dropping it may cause damage.\n• Do not place a bag over your head or cover your face. There is a risk of suffocation.\n• Do not play roughly, such as by hitting or swinging the product.\n• Do not put fingers or similar body parts into moving parts. There is a risk of being pinched and injured.\n• This product uses a speaker. If you use a pacemaker, take care not to bring this product close to your body.\n• Do not stare continuously at the flashing LED light. It may cause you to feel unwell.\n• Incorrect use of batteries may cause overheating, rupture, or leakage. Pay attention to the following.\n• Never use secondary (rechargeable) batteries.\n• Do not mix old and new batteries or different types of batteries.\n• Set the +/− polarity correctly.\n• After playing, always turn off the switch and remove the batteries. Leaving batteries installed may cause leakage and is dangerous.\n• Do not short-circuit, charge, disassemble, heat, or place batteries in fire.\n• If battery electrolyte gets into the eyes, immediately rinse with plenty of water and consult a physician. If it gets on skin or clothing, wash with water.\n• When disposing of the product, follow your local municipality's disposal instructions.\n• Do not use near the ear. Misuse may impair hearing.",
+          "translation": "• This product is for ages 15 and over. Do not give it to children under the age limit.\n• This product contains small parts and batteries. Keep it away from small children who might swallow them; there is a choking hazard.\n• This product is made with precision. Applying excessive force or dropping it may cause damage.\n• Do not pull a bag over your head or cover your face with it. There is a risk of suffocation.\n• Do not play roughly, such as by hitting or swinging the product.\n• Do not put fingers or other body parts into moving parts. They can be pinched and cause injury.\n• This product contains a speaker. If you use a pacemaker, keep this product away from your body.\n• Do not stare at flashing LED lights. Doing so may make you feel unwell.\n• Incorrect battery use can cause overheating, rupture, or leakage. Observe the following precautions.\n• Do not use secondary (rechargeable) batteries under any circumstances.\n• Do not mix old and new batteries or different types of batteries.\n• Insert the batteries with the correct +/− polarity.\n• After use, always turn the switch off and remove the batteries. Leaving batteries installed may cause leakage and is dangerous.\n• Do not short-circuit, charge, disassemble, heat, or throw batteries into fire.\n• If battery fluid gets into the eyes, rinse immediately with plenty of water and consult a doctor. If it gets on the skin or clothing, wash with water.\n• When disposing of this product, follow local municipal disposal regulations.\n• Do not use the product near your ear. Accidental use near the ear may damage hearing.",
           "bbox": [0.128, 0.1968, 0.7388516173362731, 0.3331159779548645],
           "layout": "panel"
         },
@@ -624,43 +643,41 @@
         },
         {
           "text": "●プラスチック梱包材は開封後はすぐに捨ててください。\n●本商品には塗装部分がありますので、保管の際には他のもの (樹脂製品や家具、 ソファー)と接触しない\nようにしてください。 色が移る場合があります。\n●可動部分・取付部分を無理な方向に強く引っ張ったり、曲げたりしないでください。\n発音の一部にイントネーションが違っていたり、 商品の特性上聞き取りにくいものがありますが、ご了承\nください。",
-          "translation": "• Dispose of plastic packing materials immediately after opening.\n• This product has painted surfaces, so when storing do not let it come into contact with other items (resin products, furniture, sofas). Color transfer may occur.\n• Do not forcibly pull or bend movable parts or mounting parts in unreasonable directions.\n• Some pronunciations may have different intonation and, due to the nature of the product, some parts may be difficult to hear; please understand this.",
+          "translation": "• Dispose of plastic packaging immediately after opening.\n• This product has painted surfaces; when storing it, do not let it touch other items (plastic products, furniture, sofas), as the paint may transfer.\n• Do not pull or bend movable parts or attachment parts forcefully in directions they are not meant to move.\n• Some pronunciations may have unusual intonation or may be hard to hear because of the product's characteristics.",
           "bbox": [
             0.12628730690479278, 0.5716559991836548, 0.7560126930952071, 0.09074400081634515
           ],
           "layout": "panel"
         },
         {
+          "text": "web取説は、\nコチラから!!",
+          "translation": "See the web instruction manual here!!",
+          "bbox": [0.1288602010011673, 0.7095, 0.14113979899883267, 0.03929999999999989],
+          "layout": "panel"
+        },
+        {
           "text": "webからも本書の内容をご覧いただけます。\nURL https://toy.bandai.co.jp/manuals/pdf.php?id=2519556",
-          "translation": "• You can also view the contents of this manual on the web.\n• URL https://toy.bandai.co.jp/manuals/pdf.php?id=2519556",
+          "translation": "• You can also view this manual online.\n• URL https://toy.bandai.co.jp/manuals/pdf.php?id=2519556",
           "bbox": [0.4187, 0.7131000000000001, 0.4438634803771972, 0.04353905286788928],
           "layout": "panel"
         },
         {
           "text": "商品アンケートに回答して、 電子マネーギフト\n「1,000円分」が当たるスピードくじに挑戦しよう!!\nスマートフォン・携帯電話からは右の二次元コードを読み取って\nアクセスしてください。 パソコンからはこちらにアクセスしてください。\nhttps://toy.bandai.co.jp/series/sentai/",
-          "translation": "• Answer the product survey and try the instant lottery to win an electronic money gift worth ¥1,000!!\n• From a smartphone or mobile phone, scan the QR code on the right to access. From a PC, access here: https://toy.bandai.co.jp/series/sentai/",
+          "translation": "• Answer the product questionnaire and try the instant lottery to win a 1,000-yen electronic money gift!!\n• From a smartphone or mobile phone, scan the QR code on the right to access the site. From a PC, go to: https://toy.bandai.co.jp/series/sentai/",
           "bbox": [0.128, 0.7948000000000001, 0.43181903219223017, 0.09729999999999994],
           "layout": "panel"
         },
         {
-          "text": "セット内容",
-          "translation": "Set Contents",
-          "bbox": [0.1295, 0.0955, 0.0986, 0.0151]
+          "text": "商品コード",
+          "translation": "Product Code",
+          "bbox": [0.5979853973388672, 0.8709, 0.06561460266113273, 0.011499999999999844],
+          "layout": "panel"
         },
         {
-          "text": "取扱説明書(本書)\nセリフ一覧 (別紙)",
-          "translation": "Instruction Manual (this document)\nList of Lines (separate sheet)",
-          "bbox": [0.2616, 0.0901, 0.1123, 0.0272]
-        },
-        {
-          "text": "1 リュウソウケン\nレッドリュウソウル",
-          "translation": "1 Ryusouken\n1 Red Ryusoul",
-          "bbox": [0.47, 0.0913, 0.1492, 0.0242]
-        },
-        {
-          "text": "JASRAC",
-          "translation": "JASRAC",
-          "bbox": [0.777, 0.0804, 0.1046, 0.0169]
+          "text": "476450",
+          "translation": "476450",
+          "bbox": [0.5962701544761658, 0.8848, 0.06652984552383412, 0.011500484180450354],
+          "layout": "panel"
         },
         {
           "text": "1",
@@ -671,21 +688,6 @@
           "text": "T-2050044",
           "translation": "T-2050044",
           "bbox": [0.7864, 0.1058, 0.0798, 0.0091]
-        },
-        {
-          "text": "web取説は、\nコチラから!!",
-          "translation": "Access the online manual here!",
-          "bbox": [0.1304, 0.711, 0.1381, 0.0363]
-        },
-        {
-          "text": "商品コード",
-          "translation": "Product Code",
-          "bbox": [0.5995, 0.8724, 0.0626, 0.0085]
-        },
-        {
-          "text": "476450",
-          "translation": "476450",
-          "bbox": [0.5978, 0.8863, 0.0635, 0.0085]
         },
         {
           "text": "※アンケート回答締め切り\n2021年9月末日\n※お答えいただいたアンケートは\n個人を特定しない統計処理に\n利用させていただきます。\n※PHSからはご利用いただけ\nません。\n※通信料などはお客様のご負担と\nなります。",
@@ -788,60 +790,116 @@
             {
               "id": "p0",
               "kind": "heading",
-              "source_ids": [6]
+              "source_ids": [0]
             },
             {
               "id": "p1",
-              "kind": "heading",
-              "source_ids": [7]
+              "kind": "prose",
+              "source_ids": [1]
             },
             {
               "id": "p2",
               "kind": "prose",
-              "source_ids": [8]
+              "source_ids": [2]
             },
             {
               "id": "p3",
               "kind": "heading",
-              "source_ids": [9]
+              "source_ids": [6]
             },
             {
               "id": "p4",
-              "kind": "prose",
-              "source_ids": [10]
+              "kind": "heading",
+              "source_ids": [7]
             },
             {
               "id": "p5",
               "kind": "prose",
-              "source_ids": [12]
+              "source_ids": [8]
             },
             {
               "id": "p6",
+              "kind": "heading",
+              "source_ids": [9]
+            },
+            {
+              "id": "p7",
+              "kind": "prose",
+              "source_ids": [10]
+            },
+            {
+              "id": "p8",
+              "kind": "prose",
+              "source_ids": [11]
+            },
+            {
+              "id": "p9",
+              "kind": "prose",
+              "source_ids": [12]
+            },
+            {
+              "id": "p10",
               "kind": "prose",
               "source_ids": [13]
+            },
+            {
+              "id": "p11",
+              "kind": "heading",
+              "source_ids": [14]
+            },
+            {
+              "id": "p12",
+              "kind": "prose",
+              "source_ids": [15]
             }
           ],
           "furigana": [],
-          "notes": ["Panel p7 retained original English after failed automatic checks"]
+          "notes": [
+            "No furigana confirmed on this page.",
+            "Source 4 is a quantity in the set-contents table, not a diagram step numeral; left ungrouped to avoid masking table layout.",
+            "Panel p13 retained original English after failed automatic checks"
+          ],
+          "native_artwork": [3]
         },
         "mapping": [
           {
             "display_index": 0,
             "panel_id": "p0",
+            "source_ids": [0],
+            "furigana_ids": [],
+            "japanese_items": ["セット内容"]
+          },
+          {
+            "display_index": 1,
+            "panel_id": "p1",
+            "source_ids": [1],
+            "furigana_ids": [],
+            "japanese_items": ["取扱説明書(本書)", "セリフ一覧 (別紙)"]
+          },
+          {
+            "display_index": 2,
+            "panel_id": "p2",
+            "source_ids": [2],
+            "furigana_ids": [],
+            "japanese_items": ["1 リュウソウケン", "1 レッドリュウソウル"]
+          },
+          {
+            "display_index": 3,
+            "panel_id": "p3",
             "source_ids": [6],
             "furigana_ids": [],
             "japanese_items": ["△注意"]
           },
           {
-            "display_index": 1,
-            "panel_id": "p1",
+            "display_index": 4,
+            "panel_id": "p4",
             "source_ids": [7],
             "furigana_ids": [],
             "japanese_items": ["お買い上げのお客様へ 必ずお読みください。"]
           },
           {
-            "display_index": 2,
-            "panel_id": "p2",
+            "display_index": 5,
+            "panel_id": "p5",
             "source_ids": [8],
             "furigana_ids": [],
             "japanese_items": [
@@ -856,7 +914,7 @@
               "電池を誤使用すると発熱・破裂・液漏れの恐れがあります。 下記に注意してください",
               "二次電池(充電式電池)は、絶対に使用しないでください。",
               "古い電池と新しい電池、いろいろな種類の電池をまぜて使わないでください。",
-              "+(プラスマイナス)を正しくセットしてください。",
+              "+−(プラスマイナス)を正しくセットしてください。",
               "遊んだ後は必ずスイッチを切り電池をはずしてください。 電池を入れたままにしておくと、液漏れの恐れがあり危険です。",
               "ショートさせたり充電、分解、加熱、火の中に入れたりしないでください。",
               "万一、電池から漏れた液が目に入ったときはすぐに大量の水で洗い、医師に相談してください。 皮膚や服に付いた時は水で洗ってください。",
@@ -865,27 +923,34 @@
             ]
           },
           {
-            "display_index": 3,
-            "panel_id": "p3",
+            "display_index": 6,
+            "panel_id": "p6",
             "source_ids": [9],
             "furigana_ids": [],
             "japanese_items": ["《使用上の注意》"]
           },
           {
-            "display_index": 4,
-            "panel_id": "p4",
+            "display_index": 7,
+            "panel_id": "p7",
             "source_ids": [10],
             "furigana_ids": [],
             "japanese_items": [
               "プラスチック梱包材は開封後はすぐに捨ててください。",
-              "本商品には塗装部分がありますので、保管の際には他のもの（樹脂製品や家具、ソファー）と接触しないようにしてください。色が移る場合があります。",
+              "本商品には塗装部分がありますので、保管の際には他のもの (樹脂製品や家具、 ソファー)と接触しないようにしてください。 色が移る場合があります。",
               "可動部分・取付部分を無理な方向に強く引っ張ったり、曲げたりしないでください。",
               "発音の一部にイントネーションが違っていたり、商品の特性上聞き取りにくいものがありますが、ご了承ください。"
             ]
           },
           {
-            "display_index": 5,
-            "panel_id": "p5",
+            "display_index": 8,
+            "panel_id": "p8",
+            "source_ids": [11],
+            "furigana_ids": [],
+            "japanese_items": ["web取説は、コチラから!!"]
+          },
+          {
+            "display_index": 9,
+            "panel_id": "p9",
             "source_ids": [12],
             "furigana_ids": [],
             "japanese_items": [
@@ -894,8 +959,8 @@
             ]
           },
           {
-            "display_index": 6,
-            "panel_id": "p6",
+            "display_index": 10,
+            "panel_id": "p10",
             "source_ids": [13],
             "furigana_ids": [],
             "japanese_items": [
@@ -904,52 +969,37 @@
             ]
           },
           {
-            "display_index": 7,
-            "source_ids": [0],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 8,
-            "source_ids": [1],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 9,
-            "source_ids": [2],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 10,
-            "source_ids": [3],
-            "furigana_ids": []
-          },
-          {
             "display_index": 11,
+            "panel_id": "p11",
+            "source_ids": [14],
+            "furigana_ids": [],
+            "japanese_items": ["商品コード"]
+          },
+          {
+            "display_index": 12,
+            "panel_id": "p12",
+            "source_ids": [15],
+            "furigana_ids": [],
+            "japanese_items": ["476450"]
+          },
+          {
+            "display_index": -1,
+            "source_ids": [3],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
+          },
+          {
+            "display_index": 13,
             "source_ids": [4],
             "furigana_ids": []
           },
           {
-            "display_index": 12,
+            "display_index": 14,
             "source_ids": [5],
             "furigana_ids": []
           },
           {
-            "display_index": 13,
-            "source_ids": [11],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 14,
-            "source_ids": [14],
-            "furigana_ids": []
-          },
-          {
             "display_index": 15,
-            "source_ids": [15],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 16,
             "source_ids": [16],
             "furigana_ids": []
           }
@@ -1399,11 +1449,6 @@
           "bbox": [0.5635, 0.4105, 0.0935, 0.0103]
         },
         {
-          "text": "LED",
-          "translation": "LED",
-          "bbox": [0.3971, 0.4456, 0.0412, 0.0097]
-        },
-        {
           "text": "レバー",
           "translation": "Lever",
           "bbox": [0.4031, 0.5949, 0.0523, 0.0097]
@@ -1432,11 +1477,6 @@
           "text": "セリフボタン BGMボタン",
           "translation": "Dialogue button / BGM button",
           "bbox": [0.7213, 0.8954, 0.2298, 0.0127]
-        },
-        {
-          "text": "2",
-          "translation": "2",
-          "bbox": [0.9374, 0.9534, 0.0154, 0.0115]
         }
       ],
       "image": "pages/page-2.webp",
@@ -1524,8 +1564,9 @@
           ],
           "furigana": [],
           "notes": [
-            "All other detected text regions are diagram labels, section labels within the illustration, an OCR fragment, or the page number and are left ungrouped."
-          ]
+            "Source 10 appears to be an OCR artifact or fragment within the illustration area; left ungrouped."
+          ],
+          "native_artwork": [6, 13]
         },
         "mapping": [
           {
@@ -1561,44 +1602,46 @@
             "furigana_ids": []
           },
           {
-            "display_index": 6,
+            "display_index": -1,
             "source_ids": [6],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 7,
+            "display_index": 6,
             "source_ids": [7],
             "furigana_ids": []
           },
           {
-            "display_index": 8,
+            "display_index": 7,
             "source_ids": [8],
             "furigana_ids": []
           },
           {
-            "display_index": 9,
+            "display_index": 8,
             "source_ids": [9],
             "furigana_ids": []
           },
           {
-            "display_index": 10,
+            "display_index": 9,
             "source_ids": [10],
             "furigana_ids": []
           },
           {
-            "display_index": 11,
+            "display_index": 10,
             "source_ids": [11],
             "furigana_ids": []
           },
           {
-            "display_index": 12,
+            "display_index": 11,
             "source_ids": [12],
             "furigana_ids": []
           },
           {
-            "display_index": 13,
+            "display_index": -1,
             "source_ids": [13],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           }
         ],
         "uncertainties": [],
@@ -1714,8 +1757,16 @@
         },
         {
           "text": "※電源スイッチがOFFになっていることを確認してください。\n※音が小さくなって聞きとりにくくなったり、 音が止まるなどの誤動作をする場合や、\nLEDの発光が弱くなった場合は、すべて新しい電池に交換してください。",
-          "translation": "• Make sure the power switch is OFF.\n• If the sound becomes quieter and difficult to hear, if the sound stops or other malfunctions occur, or if the LED’s illumination becomes weak, replace all batteries with new ones.",
+          "translation": "• Make sure the power switch is OFF.\n• If the sound becomes quiet and hard to hear, if the sound stops or the unit malfunctions, or if the LED’s light becomes weak, replace all batteries with new ones.",
           "bbox": [0.0602, 0.1188, 0.520202244567871, 0.046545226168632506],
+          "layout": "panel"
+        },
+        {
+          "text": "単4乾電池3本使用(別売り)\n●アルカリ電池推奨",
+          "translation": "• Uses 3 AAA batteries (sold separately)\n• Alkaline batteries recommended",
+          "bbox": [
+            0.7995000000000001, 0.13997521555423736, 0.15139999999999987, 0.03202478444576262
+          ],
           "layout": "panel"
         },
         {
@@ -1727,23 +1778,11 @@
           "layout": "panel"
         },
         {
-          "text": "2. ①電池ぶたBを取り外します。\n①-1 リュウソウケン背面の電池ぶたBの\nネジ2箇所を+または、ドライバーで\n矢印の方向に回し、\n①-2 電池ぶたBを取り外します。\n②乾電池を入れます。\n単4乾電池3本 (別売り)の土をそれぞれ\n間違えないように入れます。",
-          "translation": "• 2. ① Remove battery cover B.\n• ①-1 On the back of the Ryusoulken, turn the two screws of battery cover B in the direction of the arrow using a + or − screwdriver,\n• ①-2 Remove battery cover B.\n• ② Insert batteries.\n• Insert three AAA batteries (sold separately), making sure the + and − polarities for each are not reversed.",
-          "bbox": [0.5593919262886048, 0.4851989254951477, 0.3658080737113951, 0.13782463359832758],
-          "layout": "panel"
-        },
-        {
           "text": "3.電池ぶたBを戻します。\n電池ぶたBの突起とリュウソウケンのミゾを合わせ、\n電池ぶたBのネジ2箇所を①-1と逆方向に回して閉じます。",
-          "translation": "• 3. Replace battery cover B.\n• Align the protrusion on battery cover B with the groove on the Ryusouken,\n• turn the two screws on battery cover B in the direction opposite to ①-1 to close.",
+          "translation": "• 3. Replace battery cover B.\n• Align the protrusion on battery cover B with the groove on the Ryusouken,\n• and turn the two screws on battery cover B in the opposite direction to ①-1 to close it.",
           "bbox": [
             0.05596140703558922, 0.8721000000000001, 0.4541385929644108, 0.05559999999999987
           ],
-          "layout": "panel"
-        },
-        {
-          "text": "4.電池ぶたAを戻します。\n電池ぶたAの突起とリュウソウケンのミゾを\nそれぞれ合わせ、カチッと音が鳴るまで\nはめ込みます。",
-          "translation": "• 4. Return battery cover A.\n• Align the protrusion on battery cover A with the groove on the Ryusouken, and press them together until you hear a click.",
-          "bbox": [0.5593919262886048, 0.8739534721374512, 0.3538080737113951, 0.06954652786254867],
           "layout": "panel"
         },
         {
@@ -1755,11 +1794,6 @@
           "text": "単4 x3",
           "translation": "AAA x3",
           "bbox": [0.8611, 0.1179, 0.0678, 0.0097]
-        },
-        {
-          "text": "単4乾電池3本使用(別売り)\n●アルカリ電池推奨",
-          "translation": "Uses 3AAA batteries (sold separately)\n●Alkaline batteries recommended",
-          "bbox": [0.801, 0.1415, 0.1484, 0.029]
         },
         {
           "text": "電池ぶたA",
@@ -1775,6 +1809,11 @@
           "text": "電池ぶたB",
           "translation": "Battery cover B",
           "bbox": [0.5386, 0.3452, 0.0695, 0.0091]
+        },
+        {
+          "text": "2. ①電池ぶたBを取り外します。\n①-1 リュウソウケン背面の電池ぶたBの\nネジ2箇所を+または、ドライバーで\n矢印の方向に回し、\n①-2 電池ぶたBを取り外します。\n②乾電池を入れます。\n単4乾電池3本 (別売り)の土をそれぞれ\n間違えないように入れます。",
+          "translation": "2. ① Remove battery cover B.\n①-1 On the back of the Ryusoulken, turn the two screws on battery cover B with a Phillips (+) screwdriver in the direction of the arrows.\n①-2 Remove battery cover B.\n② Insert the batteries.\nInsert 3AAA batteries (sold separately), making sure each + and − is placed correctly.",
+          "bbox": [0.5609, 0.4867, 0.3628, 0.1348]
         },
         {
           "text": "O",
@@ -1807,9 +1846,9 @@
           "bbox": [0.5617, 0.8446, 0.1123, 0.0103]
         },
         {
-          "text": "+",
-          "translation": "+",
-          "bbox": [0.9365, 0.4486, 0.0206, 0.0175]
+          "text": "4.電池ぶたAを戻します。\n電池ぶたAの突起とリュウソウケンのミゾを\nそれぞれ合わせ、カチッと音が鳴るまで\nはめ込みます。",
+          "translation": "4. Reattach battery cover A.\nAlign the protrusions on battery cover A with the grooves on the Ryusoulken, and press in until it snaps with a click.",
+          "bbox": [0.5609, 0.8755, 0.3508, 0.0665]
         }
       ],
       "image": "pages/page-3.webp",
@@ -1927,26 +1966,27 @@
             {
               "id": "p2",
               "kind": "prose",
-              "source_ids": [8]
+              "source_ids": [4]
             },
             {
               "id": "p3",
               "kind": "prose",
-              "source_ids": [9]
-            },
-            {
-              "id": "p4",
-              "kind": "prose",
-              "source_ids": [15]
+              "source_ids": [8]
             },
             {
               "id": "p5",
               "kind": "prose",
-              "source_ids": [17]
+              "source_ids": [15]
             }
           ],
           "furigana": [],
-          "notes": []
+          "notes": [
+            "Source 2 appears to be OCR noise/diagram mark, not retained as text.",
+            "Source 14 is a diagram label, not furigana for source 15.",
+            "Panel p4 retained original English after failed automatic checks",
+            "Panel p6 retained original English after failed automatic checks"
+          ],
+          "native_artwork": [18]
         },
         "mapping": [
           {
@@ -1969,26 +2009,20 @@
           {
             "display_index": 2,
             "panel_id": "p2",
+            "source_ids": [4],
+            "furigana_ids": [],
+            "japanese_items": ["単4乾電池3本使用(別売り)", "●アルカリ電池推奨"]
+          },
+          {
+            "display_index": 3,
+            "panel_id": "p3",
             "source_ids": [8],
             "furigana_ids": [],
             "japanese_items": ["1.電池ぶたAを下部から取り外します。"]
           },
           {
-            "display_index": 3,
-            "panel_id": "p3",
-            "source_ids": [9],
-            "furigana_ids": [],
-            "japanese_items": [
-              "2. ①電池ぶたBを取り外します。",
-              "①-1 リュウソウケン背面の電池ぶたBのネジ2箇所を＋または、−ドライバーで矢印の方向に回し、",
-              "①-2 電池ぶたBを取り外します。",
-              "②乾電池を入れます。",
-              "単4乾電池3本 (別売り)の＋−をそれぞれ間違えないように入れます。"
-            ]
-          },
-          {
             "display_index": 4,
-            "panel_id": "p4",
+            "panel_id": "p5",
             "source_ids": [15],
             "furigana_ids": [],
             "japanese_items": [
@@ -1999,78 +2033,74 @@
           },
           {
             "display_index": 5,
-            "panel_id": "p5",
-            "source_ids": [17],
-            "furigana_ids": [],
-            "japanese_items": [
-              "4.電池ぶたAを戻します。",
-              "電池ぶたAの突起とリュウソウケンのミゾをそれぞれ合わせ、カチッと音が鳴るまではめ込みます。"
-            ]
-          },
-          {
-            "display_index": 6,
             "source_ids": [2],
             "furigana_ids": []
           },
           {
-            "display_index": 7,
+            "display_index": 6,
             "source_ids": [3],
             "furigana_ids": []
           },
           {
-            "display_index": 8,
-            "source_ids": [4],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 9,
+            "display_index": 7,
             "source_ids": [5],
             "furigana_ids": []
           },
           {
-            "display_index": 10,
+            "display_index": 8,
             "source_ids": [6],
             "furigana_ids": []
           },
           {
-            "display_index": 11,
+            "display_index": 9,
             "source_ids": [7],
             "furigana_ids": []
           },
           {
-            "display_index": 12,
+            "display_index": 10,
+            "source_ids": [9],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 11,
             "source_ids": [10],
             "furigana_ids": []
           },
           {
-            "display_index": 13,
+            "display_index": 12,
             "source_ids": [11],
             "furigana_ids": []
           },
           {
-            "display_index": 14,
+            "display_index": 13,
             "source_ids": [12],
             "furigana_ids": []
           },
           {
-            "display_index": 15,
+            "display_index": 14,
             "source_ids": [13],
             "furigana_ids": []
           },
           {
-            "display_index": 16,
+            "display_index": 15,
             "source_ids": [14],
             "furigana_ids": []
           },
           {
-            "display_index": 17,
+            "display_index": 16,
             "source_ids": [16],
             "furigana_ids": []
           },
           {
-            "display_index": 18,
-            "source_ids": [18],
+            "display_index": 17,
+            "source_ids": [17],
             "furigana_ids": []
+          },
+          {
+            "display_index": -1,
+            "source_ids": [18],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           }
         ],
         "uncertainties": [],
@@ -2315,15 +2345,21 @@
     {
       "blocks": [
         {
-          "text": "電源の入れ方\nリュウソウケン背面の電源スイッチを",
-          "translation": "How to turn on the power\nSet the power switch on the back of the Ryusoulken",
-          "bbox": [0.0705, 0.0504951619207859, 0.3709, 0.07310483807921411],
+          "text": "電源の入れ方\nリュウソウケン背面の電源スイッチを\nONにします。",
+          "translation": "• How to turn on the power\n• Turn the power switch on the back of the Ryusouken to ON.",
+          "bbox": [0.0688, 0.0504951619207859, 0.37260000000000004, 0.0954048380792141],
           "layout": "panel"
         },
         {
-          "text": "ONにします。\n「リュウソウケン!」が鳴り、\nLEDが光ります。\n※遊び終わった後は、必ず電源スイッチを\nOFFにしてください。",
-          "translation": "• Turn the power ON.\n• \"Ryusouken!\" will sound and the LED will light.\n• After you finish playing, be sure to switch the power OFF.",
-          "bbox": [0.0688, 0.12667412614822388, 0.3057703294277191, 0.10942587385177613],
+          "text": "「リュウソウケン!」が鳴り、\nLEDが光ります。",
+          "translation": "The “Ryusouken!” sound plays, and the LED lights up.",
+          "bbox": [0.08597855573892593, 0.1454, 0.19512144426107403, 0.033246315574645996],
+          "layout": "panel"
+        },
+        {
+          "text": "※遊び終わった後は、必ず電源スイッチを\nOFFにしてください。",
+          "translation": "Always turn the power switch OFF after you finish playing.",
+          "bbox": [0.0705, 0.20345767891407013, 0.3040703294277191, 0.032642321085929876],
           "layout": "panel"
         },
         {
@@ -2336,7 +2372,7 @@
         },
         {
           "text": "※レッドリュウソウルを\nセットしない状態\nから始めます。",
-          "translation": "Start with the Red Ryusoul not set.",
+          "translation": "Begin with the Red Ryusoul not set.",
           "bbox": [0.0705, 0.3546, 0.21230361437797546, 0.05983832659721372],
           "layout": "panel"
         },
@@ -2347,15 +2383,9 @@
           "layout": "panel"
         },
         {
-          "text": "トリガーを短押しします。\n→押す度に斬撃音A/Bが\n交互に鳴りLEDが光ります。",
-          "translation": "• Short-press the trigger.\n• Each time you press it, slashing sound A/B plays alternately and the LED lights.",
-          "bbox": [0.0688, 0.4761, 0.2234375693321228, 0.0507999999999999],
-          "layout": "panel"
-        },
-        {
-          "text": "● 「セリフ遊び」で「コウモード」\n「メルトモード」「アスナモード」\n「トワモード」 「バンバモード」の\n際はトリガーを押すと斬撃音と\n各ヒーローのかけ声が\n交互に鳴ります。\n※「セリフ遊び」の詳細は、本書\n8ページをご覧ください。",
-          "translation": "• In \"Serif Asobi\" (Line Play), when in \"Kou Mode\", \"Melt Mode\", \"Asuna Mode\", \"Towa Mode\", or \"Banba Mode\", pressing the trigger will alternately play slashing sounds and each hero's shout.\n• ※For details on \"Serif Asobi\" (Line Play), see page 8 of this manual.",
-          "bbox": [0.0705, 0.5607732639312745, 0.24146313047409057, 0.16142673606872548],
+          "text": "トリガーを短押しします。\n→押す度に斬撃音A/Bが\n交互に鳴りLEDが光ります。\n● 「セリフ遊び」で「コウモード」\n「メルトモード」「アスナモード」\n「トワモード」 「バンバモード」の\n際はトリガーを押すと斬撃音と\n各ヒーローのかけ声が\n交互に鳴ります。\n※「セリフ遊び」の詳細は、本書\n8ページをご覧ください。",
+          "translation": "• Short-press the trigger. Each time you press it, slashing sound A or B plays alternately and the LED lights.\n• In \"Serifu Asobi\" modes Kou Mode, Meruto Mode, Asuna Mode, Towa Mode and Banba Mode, pressing the trigger alternates a slashing sound with each hero’s shout.\n• For details on \"Serifu Asobi,\" see page 8 of this manual.",
+          "bbox": [0.0688, 0.4761, 0.24316313047409058, 0.24609999999999993],
           "layout": "panel"
         },
         {
@@ -2366,13 +2396,19 @@
         },
         {
           "text": "ロック解除グリップを\n握りながら、 レバーを\n下げ、口を開けます。\n「口開き音」が\n鳴ります。",
-          "translation": "• While holding the lock-release grip, push the lever down and open the mouth.\n• The “mouth opening” sound will play.",
+          "translation": "• While holding the lock-release grip, pull the lever down to open the mouth.\n• A \"mouth-opening\" sound will play.",
           "bbox": [0.5207984552383423, 0.3975, 0.15994683790206898, 0.08769999999999994],
           "layout": "panel"
         },
         {
+          "text": "※ロック解除\nグリップを\n握りながら\n行います。",
+          "translation": "Unlock: perform while gripping the handle.",
+          "bbox": [0.883577178478241, 0.40599698877334595, 0.0768228215217589, 0.04592622208595276],
+          "layout": "panel"
+        },
+        {
           "text": "※レバー操作10回に一度\n「ゲップ音」が鳴ります。",
-          "translation": "Every ten lever operations, a “belch” sound will play.",
+          "translation": "A “belch” sound plays once every 10 lever operations.",
           "bbox": [
             0.5216561064720154, 0.6496000000000001, 0.20204389352798446, 0.03206928434371936
           ],
@@ -2380,10 +2416,16 @@
         },
         {
           "text": "ロック解除グリップを\n握りながら、 レバーを\n上げ、口を閉じます。\n→ 「口閉じ音」が鳴り、\nLEDが光ります。",
-          "translation": "• While holding the unlock grip, lift the lever and close the mouth.\n• → A \"mouth-closing\" sound will play, and the LED will light.",
+          "translation": "While holding the lock-release grip, lift the lever and close the mouth. → A “mouth-close” sound will play and the LED will light.",
           "bbox": [
             0.5207984552383423, 0.7168000000000001, 0.16170154476165766, 0.08889999999999987
           ],
+          "layout": "panel"
+        },
+        {
+          "text": "※ロック解除\nグリップを\n握りながら\n行います。",
+          "translation": "To unlock: perform this while holding the grip.",
+          "bbox": [0.8827, 0.805, 0.07759999999999989, 0.0477696623802184],
           "layout": "panel"
         },
         {
@@ -2397,19 +2439,9 @@
           "bbox": [0.819, 0.2219, 0.0866, 0.0079]
         },
         {
-          "text": "※ロック解除\nグリップを\n握りながら\n行います。",
-          "translation": "*Perform while holding the lock-release grip.",
-          "bbox": [0.8851, 0.4075, 0.0738, 0.0429]
-        },
-        {
           "text": "ロック解除グリップ",
           "translation": "Lock-release grip",
           "bbox": [0.8293, 0.5677, 0.1218, 0.0085]
-        },
-        {
-          "text": "※ロック解除\nグリップを\n握りながら\n行います。",
-          "translation": "*Perform while holding the lock-release grip.",
-          "bbox": [0.8842, 0.8065, 0.0746, 0.0447]
         },
         {
           "text": "トリガー",
@@ -2555,14 +2587,19 @@
         "plan": {
           "panels": [
             {
-              "id": "p0",
-              "kind": "heading",
-              "source_ids": [0]
+              "id": "p0-a",
+              "kind": "prose",
+              "source_ids": [0, 1]
+            },
+            {
+              "id": "p0-b",
+              "kind": "prose",
+              "source_ids": [2]
             },
             {
               "id": "p1",
               "kind": "prose",
-              "source_ids": [1, 2, 3, 4]
+              "source_ids": [3, 4]
             },
             {
               "id": "p2",
@@ -2582,22 +2619,22 @@
             {
               "id": "p5",
               "kind": "prose",
-              "source_ids": [14]
+              "source_ids": [14, 16, 17, 20, 21]
             },
             {
               "id": "p6",
-              "kind": "prose",
-              "source_ids": [16, 17, 20, 21]
-            },
-            {
-              "id": "p7",
               "kind": "heading",
               "source_ids": [10]
             },
             {
-              "id": "p8",
+              "id": "p7",
               "kind": "prose",
               "source_ids": [11, 15]
+            },
+            {
+              "id": "p8",
+              "kind": "prose",
+              "source_ids": [18]
             },
             {
               "id": "p9",
@@ -2608,83 +2645,84 @@
               "id": "p10",
               "kind": "prose",
               "source_ids": [23]
+            },
+            {
+              "id": "p11",
+              "kind": "prose",
+              "source_ids": [24]
             }
           ],
           "furigana": [],
           "notes": [
-            "Source 0 mixes the top heading with the first body line in one OCR region; kept as a heading to avoid duplicating the source ID."
-          ]
+            "Source 0 contains both the power-on heading and the first body line in one OCR region, so it could not be separated cleanly.",
+            "p0-a: recovered adjacent clause source 1"
+          ],
+          "native_artwork": []
         },
         "mapping": [
           {
             "display_index": 0,
-            "panel_id": "p0",
-            "source_ids": [0],
+            "panel_id": "p0-a",
+            "source_ids": [0, 1],
             "furigana_ids": [],
-            "japanese_items": ["電源の入れ方\nリュウソウケン背面の電源スイッチを"]
+            "japanese_items": ["電源の入れ方", "リュウソウケン背面の電源スイッチを\nONにします。"]
           },
           {
             "display_index": 1,
-            "panel_id": "p1",
-            "source_ids": [1, 2, 3, 4],
+            "panel_id": "p0-b",
+            "source_ids": [2],
             "furigana_ids": [],
-            "japanese_items": [
-              "ONにします。",
-              "「リュウソウケン!」が鳴り、LEDが光ります。",
-              "※遊び終わった後は、必ず電源スイッチをOFFにしてください。"
-            ]
+            "japanese_items": ["「リュウソウケン!」が鳴り、LEDが光ります。"]
           },
           {
             "display_index": 2,
+            "panel_id": "p1",
+            "source_ids": [3, 4],
+            "furigana_ids": [],
+            "japanese_items": ["※遊び終わった後は、必ず電源スイッチをOFFにしてください。"]
+          },
+          {
+            "display_index": 3,
             "panel_id": "p2",
             "source_ids": [5],
             "furigana_ids": [],
             "japanese_items": ["リュウソウケン単体の遊び方"]
           },
           {
-            "display_index": 3,
+            "display_index": 4,
             "panel_id": "p3",
             "source_ids": [6, 7, 12],
             "furigana_ids": [],
             "japanese_items": ["※レッドリュウソウルをセットしない状態から始めます。"]
           },
           {
-            "display_index": 4,
+            "display_index": 5,
             "panel_id": "p4",
             "source_ids": [13],
             "furigana_ids": [],
             "japanese_items": ["斬撃遊び"]
           },
           {
-            "display_index": 5,
-            "panel_id": "p5",
-            "source_ids": [14],
-            "furigana_ids": [],
-            "japanese_items": [
-              "トリガーを短押しします。",
-              "→押す度に斬撃音A/Bが交互に鳴りLEDが光ります。"
-            ]
-          },
-          {
             "display_index": 6,
-            "panel_id": "p6",
-            "source_ids": [16, 17, 20, 21],
+            "panel_id": "p5",
+            "source_ids": [14, 16, 17, 20, 21],
             "furigana_ids": [],
             "japanese_items": [
-              "「セリフ遊び」で「コウモード」「メルトモード」「アスナモード」「トワモード」「バンバモード」の際はトリガーを押すと斬撃音と各ヒーローのかけ声が交互に鳴ります。",
+              "トリガーを短押しします。→押す度に斬撃音A/Bが交互に鳴りLEDが光ります。",
+              "●「セリフ遊び」で「コウモード」「メルトモード」「アスナモード」「トワモード」「バンバモード」の際はトリガーを押すと斬撃音と各ヒーローのかけ声が交互に鳴ります。",
               "※「セリフ遊び」の詳細は、本書8ページをご覧ください。"
             ]
           },
           {
             "display_index": 7,
-            "panel_id": "p7",
+            "panel_id": "p6",
             "source_ids": [10],
             "furigana_ids": [],
             "japanese_items": ["レバー操作 〈口の開閉〉の仕方"]
           },
           {
             "display_index": 8,
-            "panel_id": "p8",
+            "panel_id": "p7",
             "source_ids": [11, 15],
             "furigana_ids": [],
             "japanese_items": [
@@ -2694,44 +2732,47 @@
           },
           {
             "display_index": 9,
-            "panel_id": "p9",
-            "source_ids": [22],
+            "panel_id": "p8",
+            "source_ids": [18],
             "furigana_ids": [],
-            "japanese_items": ["※レバー操作10回に一度「ゲップ音」が鳴ります。"]
+            "japanese_items": ["※ロック解除　グリップを握りながら行います。"]
           },
           {
             "display_index": 10,
+            "panel_id": "p9",
+            "source_ids": [22],
+            "furigana_ids": [],
+            "japanese_items": ["※レバー操作10回に一度\n「ゲップ音」が鳴ります。"]
+          },
+          {
+            "display_index": 11,
             "panel_id": "p10",
             "source_ids": [23],
             "furigana_ids": [],
             "japanese_items": [
-              "ロック解除グリップを握りながら、レバーを上げ、口を閉じます。",
-              "→「口閉じ音」が鳴り、LEDが光ります。"
+              "ロック解除グリップを握りながら、レバーを上げ、口を閉じます。→「口閉じ音」が鳴り、LEDが光ります。"
             ]
           },
           {
-            "display_index": 11,
+            "display_index": 12,
+            "panel_id": "p11",
+            "source_ids": [24],
+            "furigana_ids": [],
+            "japanese_items": ["※ロック解除　グリップを握りながら行います。"]
+          },
+          {
+            "display_index": 13,
             "source_ids": [8],
             "furigana_ids": []
           },
           {
-            "display_index": 12,
+            "display_index": 14,
             "source_ids": [9],
             "furigana_ids": []
           },
           {
-            "display_index": 13,
-            "source_ids": [18],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 14,
-            "source_ids": [19],
-            "furigana_ids": []
-          },
-          {
             "display_index": 15,
-            "source_ids": [24],
+            "source_ids": [19],
             "furigana_ids": []
           },
           {
@@ -3111,7 +3152,7 @@
         },
         {
           "text": "上半身をカチッと\n鳴るまで折りたたむと\nナイトモードから\nソウルモードに\n変形します。",
-          "translation": "Fold the upper body until it clicks to transform from Night Mode to Soul Mode.",
+          "translation": "Fold the upper body until it clicks; it will transform from Night Mode into Soul Mode.",
           "bbox": [0.07568696445226669, 0.5740743384361268, 0.1608130355477333, 0.0882479338645934],
           "layout": "panel"
         },
@@ -3123,14 +3164,9 @@
         },
         {
           "text": "※パーツが外れた場合は、 元の位置に戻してください。",
-          "translation": "If a part comes off, return it to its original position.",
+          "translation": "If a part comes off, put it back in its original position.",
           "bbox": [0.0774, 0.9041832194328309, 0.39070000000000005, 0.013916780567169051],
           "layout": "panel"
-        },
-        {
-          "text": "5",
-          "translation": "5",
-          "bbox": [0.0463, 0.9541, 0.0146, 0.0115]
         },
         {
           "text": "上半身",
@@ -3282,7 +3318,8 @@
             }
           ],
           "furigana": [],
-          "notes": []
+          "notes": [],
+          "native_artwork": [0]
         },
         "mapping": [
           {
@@ -3337,37 +3374,38 @@
             "japanese_items": ["※パーツが外れた場合は、元の位置に戻してください。"]
           },
           {
-            "display_index": 7,
+            "display_index": -1,
             "source_ids": [0],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 8,
+            "display_index": 7,
             "source_ids": [3],
             "furigana_ids": []
           },
           {
-            "display_index": 9,
+            "display_index": 8,
             "source_ids": [4],
             "furigana_ids": []
           },
           {
-            "display_index": 10,
+            "display_index": 9,
             "source_ids": [9],
             "furigana_ids": []
           },
           {
-            "display_index": 11,
+            "display_index": 10,
             "source_ids": [11],
             "furigana_ids": []
           },
           {
-            "display_index": 12,
+            "display_index": 11,
             "source_ids": [12],
             "furigana_ids": []
           },
           {
-            "display_index": 13,
+            "display_index": 12,
             "source_ids": [14],
             "furigana_ids": []
           }
@@ -3528,20 +3566,26 @@
           "layout": "panel"
         },
         {
-          "text": "レッドリュウソウルのセットの仕方\n※リュウソウケンの口を開けた状態でナイトモードで\nセットします。\n※リュウソウケンの電源スイッチを入れる前に\nレッドリュウソウルがセットされていると\nレッドリュウソウルを認識出来ませんので\n電源を入れてからセットてください。",
-          "translation": "• How to set the Red Ryusoul\n• Set it with the Ryusouken’s mouth open and in Night Mode.\n• If the Red Ryusoul is set before turning on the Ryusouken power switch, the Red Ryusoul cannot be recognized, so turn the power on first and then set it.",
-          "bbox": [0.0782598659992218, 0.11518682098388672, 0.4858473627567291, 0.1801131790161133],
+          "text": "レッドリュウソウルのセットの仕方\n※リュウソウケンの口を開けた状態でナイトモードで",
+          "translation": "How to set the Red Ryusoul\n*Set with the Ryusouken's mouth open in Knight Mode.",
+          "bbox": [0.0808, 0.11518682098388672, 0.4833072287559509, 0.053813179016113266],
+          "layout": "panel"
+        },
+        {
+          "text": "セットします。\n※リュウソウケンの電源スイッチを入れる前に\nレッドリュウソウルがセットされていると\nレッドリュウソウルを認識出来ませんので\n電源を入れてからセットてください。",
+          "translation": "• Set it.\n• If the Red Ryusoul is set before you turn on the Ryusouken's power switch, the Ryusoul will not be recognized, so turn the power on first and then set the Red Ryusoul.",
+          "bbox": [0.0782598659992218, 0.1726, 0.4206672399044037, 0.1227],
           "layout": "panel"
         },
         {
           "text": "① レッドリュウソウルを\n矢印の方向に\nセットします。\n→セット音が鳴り、\nLEDが光ります。",
-          "translation": "1. Insert the Red Ryusoul in the direction of the arrow. A set sound will play and the LED will light.",
+          "translation": "• 1. Set the Red Ryusoul in the direction of the arrow.\n• A set (confirmation) sound plays and the LED lights.",
           "bbox": [0.0782598659992218, 0.294751505613327, 0.1711401340007782, 0.08764849438667299],
           "layout": "panel"
         },
         {
           "text": "リュウソウケンの\nスロット部に合わせて\nレッドリュウソウルの\n凸部をセットします。",
-          "translation": "Align the protruding part of the Red Ryusoul with the slot on the Ryusoulken and insert it.",
+          "translation": "Align the protruding part of the Red Ryusoul with the slot in the Ryusouken, and insert it.",
           "bbox": [
             0.13915180718898773, 0.4573875472545624, 0.16174819281101227, 0.07011245274543759
           ],
@@ -3549,13 +3593,19 @@
         },
         {
           "text": "②ロック解除グリップを握り、レバー操作で口を閉じます。\n→「口閉じ音」、「レッド!」が鳴り、LEDが光ります。",
-          "translation": "• 2. Grasp the unlock grip and close the mouth by operating the lever.\n• →The \"mouth-closing\" sound and \"Red!\" will play, and the LED will light.",
+          "translation": "• ②Grasp the lock-release grip and use the lever to close the mouth.\n• →You will hear the “mouth-closing” sound and “Red!”, and the LED will light up.",
           "bbox": [0.0782598659992218, 0.6599, 0.4198401340007782, 0.032047390079498195],
           "layout": "panel"
         },
         {
+          "text": "③トリガーを短押しします。\n→押す度に斬撃音 A/Bが交互に鳴り、\nLEDが光ります。",
+          "translation": "3. Briefly press the trigger.\nEach time you press it, slashing sounds A and B play alternately, and the LED lights.",
+          "bbox": [0.0782598659992218, 0.7149000000000001, 0.2963401340007782, 0.05262178812026963],
+          "layout": "panel"
+        },
+        {
           "text": "※ロック解除\nグリップを\n握りながら\n行います。",
-          "translation": "※Unlocking: perform while holding the grip.",
+          "translation": "Unlock: do it while holding the grip.",
           "bbox": [0.8827, 0.8582000000000001, 0.07679999999999987, 0.04709999999999992],
           "layout": "panel"
         },
@@ -3563,16 +3613,6 @@
           "text": "スロット部",
           "translation": "Slot",
           "bbox": [0.2093, 0.5508, 0.0643, 0.0091]
-        },
-        {
-          "text": "③トリガーを短押しします。\n→押す度に斬撃音 A/Bが交互に鳴り、",
-          "translation": "③ Press the trigger briefly.\n→ Each time you press it, slashing sounds A/B will play alternately,",
-          "bbox": [0.0798, 0.7164, 0.2933, 0.0314]
-        },
-        {
-          "text": "LEDが光ります。",
-          "translation": "The LED will light up.",
-          "bbox": [0.1141, 0.7551, 0.1235, 0.0109]
         },
         {
           "text": "④トリガーを長押しします。\n「勇猛の騎士 リュウソウレッド」が鳴り、\nLEDが光ります。",
@@ -3588,11 +3628,6 @@
           "text": "凸部",
           "translation": "protrusion",
           "bbox": [0.6707, 0.5937, 0.03, 0.0091]
-        },
-        {
-          "text": "6",
-          "translation": "6",
-          "bbox": [0.9383, 0.9541, 0.0137, 0.0115]
         }
       ],
       "image": "pages/page-6.webp",
@@ -3689,36 +3724,46 @@
             },
             {
               "id": "p1",
-              "kind": "prose",
-              "source_ids": [1, 2, 3]
+              "kind": "heading",
+              "source_ids": [1]
             },
             {
               "id": "p2",
               "kind": "prose",
-              "source_ids": [4]
+              "source_ids": [2, 3]
             },
             {
               "id": "p3",
               "kind": "prose",
-              "source_ids": [5, 6]
+              "source_ids": [4]
             },
             {
               "id": "p4",
               "kind": "prose",
+              "source_ids": [5, 6]
+            },
+            {
+              "id": "p5",
+              "kind": "prose",
               "source_ids": [8]
             },
             {
-              "id": "p7",
+              "id": "p6",
+              "kind": "prose",
+              "source_ids": [9, 10]
+            },
+            {
+              "id": "p8",
               "kind": "prose",
               "source_ids": [14]
             }
           ],
           "furigana": [],
           "notes": [
-            "Source 1 contains both the section heading and the first precaution line, so they cannot be separated by source ID. Diagram labels and page number are left ungrouped.",
-            "Panel p5 retained original English after failed automatic checks",
-            "Panel p6 retained original English after failed automatic checks"
-          ]
+            "Source 1 contains both the subsection heading and the first line of the following note in one OCR region, so it cannot be cleanly split.",
+            "Panel p7 retained original English after failed automatic checks"
+          ],
+          "native_artwork": [15]
         },
         "mapping": [
           {
@@ -3731,35 +3776,44 @@
           {
             "display_index": 1,
             "panel_id": "p1",
-            "source_ids": [1, 2, 3],
+            "source_ids": [1],
             "furigana_ids": [],
             "japanese_items": [
-              "レッドリュウソウルのセットの仕方",
-              "※リュウソウケンの口を開けた状態でナイトモードでセットします。",
-              "※リュウソウケンの電源スイッチを入れる前にレッドリュウソウルがセットされているとレッドリュウソウルを認識出来ませんので電源を入れてからセットしてください。"
+              "レッドリュウソウルのセットの仕方\n※リュウソウケンの口を開けた状態でナイトモードで"
             ]
           },
           {
             "display_index": 2,
             "panel_id": "p2",
-            "source_ids": [4],
+            "source_ids": [2, 3],
             "furigana_ids": [],
             "japanese_items": [
-              "① レッドリュウソウルを矢印の方向にセットします。→セット音が鳴り、LEDが光ります。"
+              "セットします。",
+              "※リュウソウケンの電源スイッチを入れる前に\nレッドリュウソウルがセットされていると\nレッドリュウソウルを認識出来ませんので\n電源を入れてからセットてください。"
             ]
           },
           {
             "display_index": 3,
             "panel_id": "p3",
-            "source_ids": [5, 6],
+            "source_ids": [4],
             "furigana_ids": [],
             "japanese_items": [
-              "リュウソウケンのスロット部に合わせてレッドリュウソウルの凸部をセットします。"
+              "① レッドリュウソウルを矢印の方向にセットします。",
+              "→セット音が鳴り、LEDが光ります。"
             ]
           },
           {
             "display_index": 4,
             "panel_id": "p4",
+            "source_ids": [5, 6],
+            "furigana_ids": [],
+            "japanese_items": [
+              "リュウソウケンの\nスロット部に合わせて\nレッドリュウソウルの\n凸部をセットします。"
+            ]
+          },
+          {
+            "display_index": 5,
+            "panel_id": "p5",
             "source_ids": [8],
             "furigana_ids": [],
             "japanese_items": [
@@ -3768,25 +3822,24 @@
             ]
           },
           {
-            "display_index": 5,
-            "panel_id": "p7",
-            "source_ids": [14],
-            "furigana_ids": [],
-            "japanese_items": ["※ロック解除 グリップを握りながら行います。"]
-          },
-          {
             "display_index": 6,
-            "source_ids": [7],
-            "furigana_ids": []
+            "panel_id": "p6",
+            "source_ids": [9, 10],
+            "furigana_ids": [],
+            "japanese_items": [
+              "③トリガーを短押しします。\n→押す度に斬撃音 A/Bが交互に鳴り、\nLEDが光ります。"
+            ]
           },
           {
             "display_index": 7,
-            "source_ids": [9],
-            "furigana_ids": []
+            "panel_id": "p8",
+            "source_ids": [14],
+            "furigana_ids": [],
+            "japanese_items": ["※ロック解除\nグリップを\n握りながら\n行います。"]
           },
           {
             "display_index": 8,
-            "source_ids": [10],
+            "source_ids": [7],
             "furigana_ids": []
           },
           {
@@ -3805,9 +3858,10 @@
             "furigana_ids": []
           },
           {
-            "display_index": 12,
+            "display_index": -1,
             "source_ids": [15],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           }
         ],
         "uncertainties": [],
@@ -4056,19 +4110,19 @@
         },
         {
           "text": "※6ページ「レッドリュウソウルのセットの仕方」 ② 以降から始めます。",
-          "translation": "Start from ② onward on page 6, \"How to Set the Red Ryusoul.\"",
+          "translation": "Start from step ② on page 6, \"How to set the Red Ryu Soul.\"",
           "bbox": [0.0782598659992218, 0.1043, 0.6342401340007782, 0.0169097972035408],
           "layout": "panel"
         },
         {
           "text": "2.必殺待機音中にレバーで口の開閉操作を行います。\nレバー操作をする度に、\n「それ!」 「それ!」 「それ!」 → 「それ! その調子!」\n「必殺攻撃待機音」が鳴り、LEDが光ります。",
-          "translation": "• 2. During the special-attack standby sound, operate the lever to open and close the mouth.\n• Each time you operate the lever, “Sore!” “Sore!” “Sore!” → “Sore! Keep it up!” ⇒ the “special-attack standby sound” will play and the LED will light.",
+          "translation": "• 2. While the special-attack ready sound is playing, operate the lever to open and close the mouth.\n• Each time you operate the lever,\n• \"That's it!\" \"That's it!\" \"That's it!\" → \"That's it! Keep it up!\"\nThe \"Special Attack Ready\" sound will play and the LED will light.",
           "bbox": [0.07568696445226669, 0.5178, 0.47555573421716685, 0.07499999999999984],
           "layout": "panel"
         },
         {
           "text": "3.必殺攻撃待機音中にトリガーを押します。\nセリフ「剣ボーン!」と攻撃音が鳴り、LEDが光ります。",
-          "translation": "• 3.While the special attack standby sound is playing, press the trigger.\n• The line \"Ken-Boon!\" and an attack sound will play, and the LED will light up.",
+          "translation": "• 3. Press the trigger while the special-attack standby sound is playing.\n• A voice line \"Ken-Boon!\" and an attack sound play, and the LED lights up.",
           "bbox": [0.0765, 0.6206, 0.4472999999999999, 0.03930387344360342],
           "layout": "panel"
         },
@@ -4082,7 +4136,7 @@
         },
         {
           "text": "ロック解除グリップを握り、\nレバー操作で口を開け、\n解除ボタンを押して、\nレッドリュウソウルを矢印の方向に\n引き抜きます。\n解除音が鳴ります。",
-          "translation": "• Grip the lock-release grip, operate the lever to open the mouth, press the release button, and pull the Red Ryusoul out in the direction of the arrow.\n• An unlock sound will play.",
+          "translation": "• Grip the lock-release grip, open the mouth by operating the lever, press the release button, and pull the Red Ryusoul out in the direction of the arrow.\n• A release sound will play.",
           "bbox": [0.11428044295310974, 0.7675000000000001, 0.25261955704689026, 0.105825873851776],
           "layout": "panel"
         },
@@ -4236,10 +4290,8 @@
             }
           ],
           "furigana": [],
-          "notes": [
-            "Diagram-adjacent labels/callouts left ungrouped: 3, 12, 13, 14, 15.",
-            "Panel p2 retained original English after failed automatic checks"
-          ]
+          "notes": ["Panel p2 retained original English after failed automatic checks"],
+          "native_artwork": []
         },
         "mapping": [
           {
@@ -4254,7 +4306,7 @@
             "panel_id": "p1",
             "source_ids": [1],
             "furigana_ids": [],
-            "japanese_items": ["※6ページ「レッドリュウソウルのセットの仕方」 ② 以降から始めます。"]
+            "japanese_items": ["※6ページ「レッドリュウソウルのセットの仕方」②以降から始めます。"]
           },
           {
             "display_index": 2,
@@ -4262,8 +4314,9 @@
             "source_ids": [4, 5, 6],
             "furigana_ids": [],
             "japanese_items": [
-              "2. 必殺待機音中にレバーで口の開閉操作を行います。",
-              "レバー操作をする度に、「それ!」 「それ!」 「それ!」 → 「それ! その調子!」 ⇒ 「必殺攻撃待機音」が鳴り、LEDが光ります。"
+              "2.必殺待機音中にレバーで口の開閉操作を行います。",
+              "レバー操作をする度に、",
+              "「それ!」 「それ!」 「それ!」 → 「それ! その調子!」\n「必殺攻撃待機音」が鳴り、LEDが光ります。"
             ]
           },
           {
@@ -4290,7 +4343,7 @@
             "furigana_ids": [],
             "japanese_items": [
               "ロック解除グリップを握り、レバー操作で口を開け、解除ボタンを押して、レッドリュウソウルを矢印の方向に引き抜きます。",
-              "解除音が鳴ります。"
+              "▶解除音が鳴ります。"
             ]
           },
           {
@@ -4531,22 +4584,16 @@
         },
         {
           "text": "※レッドリュウソウルをセットしている、いない、に関わらず遊べます。\n※起動時は「ノーマルモード」になっています。",
-          "translation": "• You can play regardless of whether a Red Ryusoul is set or not.\n• At startup the device is in \"Normal Mode.\"",
+          "translation": "• You can play whether or not the Red Ryusoul is installed.\n• When you turn it on, it starts in \"Normal Mode.\"",
           "bbox": [0.0808, 0.10369951581954956, 0.6291047794342041, 0.04350785303115845],
           "layout": "panel"
         },
         {
           "text": "1. セリフボタンを短押しします。\n「口開き音」が鳴ります。",
-          "translation": "• 1. Press the speech button briefly.\n• \"Mouth-opening\" sound will play.",
+          "translation": "• 1. Press the dialogue button briefly.\n• The \"mouth-opening\" sound will play.",
           "bbox": [
             0.07997513121366501, 0.18229685282707214, 0.250024868786335, 0.03930314717292785
           ],
-          "layout": "panel"
-        },
-        {
-          "text": "2. ① セリフボタンを長押しします。\n長押しする度に、下記の表の順に\nモードが切り替えセリフが鳴り、\nLEDが光ります。",
-          "translation": "2. ① Press and hold the phrase button. Each time you press and hold it, the mode will switch in the order shown in the table below, a phrase will play, and the LED will light.",
-          "bbox": [0.0791, 0.24638391590118408, 0.31090772380828857, 0.0875160840988159],
           "layout": "panel"
         },
         {
@@ -4574,12 +4621,6 @@
           "layout": "panel"
         },
         {
-          "text": "1回",
-          "translation": "One time",
-          "bbox": [0.1039888516664505, 0.3739534423351288, 0.03559004652500153, 0.0198465576648712],
-          "layout": "panel"
-        },
-        {
           "text": "リュウソウジャーモード",
           "translation": "Ryusoulger Mode",
           "bbox": [
@@ -4589,13 +4630,13 @@
         },
         {
           "text": "②モードを選択後、セリフボタンを短押しします。\n→短押しする度に、各モードのセリフが順に\nLEDの発光と共に鳴ります。",
-          "translation": "• 2. After selecting a mode, briefly press the Line button.\n• Each time you briefly press it, the lines for each mode will play in sequence, accompanied by LED illumination.",
+          "translation": "• ② After selecting a mode, briefly press the Phrase button.\n• Each brief press plays that mode's lines in order, accompanied by the LED lighting.",
           "bbox": [0.1134, 0.5166000000000001, 0.3555099385738373, 0.07069999999999999],
           "layout": "panel"
         },
         {
           "text": "※長押し7回目「騎士竜モード」の後は、\n起動時の「ノーマルモード」に戻ります。\n※電源スイッチをOFFにするまで、他の遊びを\n行っても最後に再生されたセリフの次の\nセリフから始まります。",
-          "translation": "• After the 7th long press (\"Knightryu Mode\"), it returns to the startup \"Normal Mode\".\n• Until the power switch is turned OFF, even if you play other modes, it will start from the line following the last line that was played.",
+          "translation": "• After the 7th long press, \"Knight Dragon Mode\" ends and the unit returns to the startup \"Normal Mode.\"\n• Until you turn the power switch OFF, even if you switch to other play modes it will resume from the voice line following the last line that played.",
           "bbox": [
             0.11599570816755295, 0.5867708430290223, 0.33580429183244703, 0.08764330434799184
           ],
@@ -4603,7 +4644,7 @@
         },
         {
           "text": "※各モードのセリフは、別紙「セリフ一覧」を\nご覧ください。",
-          "translation": "※For the lines for each mode, please see the separate sheet \"List of Lines.\"",
+          "translation": "For the voice lines in each mode, see the separate sheet titled “List of Lines.”",
           "bbox": [
             0.11599570816755295, 0.7058760628700257, 0.35634477573633194, 0.03443894672393788
           ],
@@ -4611,11 +4652,16 @@
         },
         {
           "text": "● 「BGM遊び」 で、 BGMを再生中に\n「セリフ遊び」の 1.~ 2. の操作をすることで\nBGMとセリフを同時に再生することができます。\n● 「セリフ遊び」で「コウモード」 「メルトモード」\n「アスナモード」「トワモード」「バンバモード」の際は\nトリガーを押すと斬撃音と各ヒーローのかけ声が\n交互に鳴ります。",
-          "translation": "• \"BGM Play\": While BGM is playing, performing operations 1 and 2 of \"Dialogue Play\" allows the BGM and dialogue lines to play at the same time.\n• In \"Dialogue Play\", when in \"Kou Mode\", \"Melt Mode\", \"Asuna Mode\", \"Towa Mode\", or \"Banba Mode\", pressing the trigger causes slashing sounds and each hero's shout to sound alternately.",
+          "translation": "• While playing BGM in “BGM Play,” perform operations 1–2 of “Voice Play” to play the BGM and voice lines at the same time.\n• In “Voice Play,” when in Kō Mode, Melt Mode, Asuna Mode, Towa Mode, or Banba Mode, pressing the trigger plays a slashing sound and the hero’s shout alternately.",
           "bbox": [
             0.11428044295310974, 0.7917000000000001, 0.3855195570468903, 0.13241183261871325
           ],
           "layout": "panel"
+        },
+        {
+          "text": "2. ① セリフボタンを長押しします。\n長押しする度に、下記の表の順に\nモードが切り替えセリフが鳴り、\nLEDが光ります。",
+          "translation": "2. ① Press and hold the Dialogue Button.\n→ Each time you press and hold, the mode will change in the order shown in the table below, a line of dialogue will play, and the LED will light.",
+          "bbox": [0.0806, 0.2479, 0.3079, 0.0726]
         },
         {
           "text": "セリフ",
@@ -4636,6 +4682,11 @@
           "text": "白",
           "translation": "White",
           "bbox": [0.5472, 0.3561, 0.0137, 0.0097]
+        },
+        {
+          "text": "1回",
+          "translation": "1 time",
+          "bbox": [0.1081, 0.3755, 0.0283, 0.0097]
         },
         {
           "text": "リュウソウジャー",
@@ -4766,11 +4817,6 @@
           "text": "セリフボタン",
           "translation": "Dialogue Button",
           "bbox": [0.7581, 0.8283, 0.0789, 0.0085]
-        },
-        {
-          "text": "8",
-          "translation": "8",
-          "bbox": [0.9383, 0.9541, 0.0146, 0.0115]
         }
       ],
       "image": "pages/page-8.webp",
@@ -5026,11 +5072,6 @@
               "source_ids": [2]
             },
             {
-              "id": "p3-a-a",
-              "kind": "prose",
-              "source_ids": [3]
-            },
-            {
               "id": "p3-a-b-a",
               "kind": "prose",
               "source_ids": [4]
@@ -5049,11 +5090,6 @@
               "id": "p3-b-a-b",
               "kind": "prose",
               "source_ids": [8]
-            },
-            {
-              "id": "p3-b-b-a",
-              "kind": "prose",
-              "source_ids": [12]
             },
             {
               "id": "p3-b-b-b",
@@ -5083,9 +5119,12 @@
           ],
           "furigana": [],
           "notes": [
-            "Source 40 appears to be an OCR artifact or stray fragment not confirmed as main text; left ungrouped. Diagram label 44 and page number 45 left ungrouped.",
-            "Conservative panel fallback: Panel p3 would mask unrelated source 5"
-          ]
+            "Source 40 appears to be corrupted OCR/no clear main text in the scan, so it is left ungrouped.",
+            "Conservative panel fallback: Panel p3 would mask unrelated source 5",
+            "Panel p3-a-a retained original English after failed automatic checks",
+            "Panel p3-b-b-a retained original English after failed automatic checks"
+          ],
+          "native_artwork": [45]
         },
         "mapping": [
           {
@@ -5114,57 +5153,41 @@
           },
           {
             "display_index": 3,
-            "panel_id": "p3-a-a",
-            "source_ids": [3],
-            "furigana_ids": [],
-            "japanese_items": [
-              "2. ① セリフボタンを長押しします。長押しする度に、下記の表の順にモードが切り替えセリフが鳴り、LEDが光ります。"
-            ]
-          },
-          {
-            "display_index": 4,
             "panel_id": "p3-a-b-a",
             "source_ids": [4],
             "furigana_ids": [],
             "japanese_items": ["長押し"]
           },
           {
-            "display_index": 5,
+            "display_index": 4,
             "panel_id": "p3-a-b-b",
             "source_ids": [5],
             "furigana_ids": [],
             "japanese_items": ["モード"]
           },
           {
-            "display_index": 6,
+            "display_index": 5,
             "panel_id": "p3-b-a-a",
             "source_ids": [9],
             "furigana_ids": [],
             "japanese_items": ["ノーマルモード"]
           },
           {
-            "display_index": 7,
+            "display_index": 6,
             "panel_id": "p3-b-a-b",
             "source_ids": [8],
             "furigana_ids": [],
             "japanese_items": ["起動時"]
           },
           {
-            "display_index": 8,
-            "panel_id": "p3-b-b-a",
-            "source_ids": [12],
-            "furigana_ids": [],
-            "japanese_items": ["1回"]
-          },
-          {
-            "display_index": 9,
+            "display_index": 7,
             "panel_id": "p3-b-b-b",
             "source_ids": [13],
             "furigana_ids": [],
             "japanese_items": ["リュウソウジャーモード"]
           },
           {
-            "display_index": 10,
+            "display_index": 8,
             "panel_id": "p5",
             "source_ids": [37],
             "furigana_ids": [],
@@ -5174,50 +5197,60 @@
             ]
           },
           {
-            "display_index": 11,
+            "display_index": 9,
             "panel_id": "p6",
             "source_ids": [38],
             "furigana_ids": [],
             "japanese_items": [
-              "※長押し7回目「騎士竜モード」の後は、\n起動時の「ノーマルモード」に戻ります。",
-              "※電源スイッチをOFFにするまで、他の遊びを\n行っても最後に再生されたセリフの次の\nセリフから始まります。"
+              "※長押し7回目「騎士竜モード」の後は、起動時の「ノーマルモード」に戻ります。",
+              "※電源スイッチをOFFにするまで、他の遊びを行っても最後に再生されたセリフの次のセリフから始まります。"
             ]
           },
           {
-            "display_index": 12,
+            "display_index": 10,
             "panel_id": "p7",
             "source_ids": [41, 42],
             "furigana_ids": [],
-            "japanese_items": ["※各モードのセリフは、別紙「セリフ一覧」をご覧ください。"]
+            "japanese_items": ["※各モードのセリフは、別紙「セリフ一覧」を\nご覧ください。"]
           },
           {
-            "display_index": 13,
+            "display_index": 11,
             "panel_id": "p8",
             "source_ids": [43],
             "furigana_ids": [],
             "japanese_items": [
-              "「BGM遊び」で、BGMを再生中に「セリフ遊び」の1.~2.の操作をすることでBGMとセリフを同時に再生することができます。",
-              "「セリフ遊び」で「コウモード」「メルトモード」「アスナモード」「トワモード」「バンバモード」の際はトリガーを押すと斬撃音と各ヒーローのかけ声が交互に鳴ります。"
+              "●「BGM遊び」で、BGMを再生中に「セリフ遊び」の1.~2.の操作をすることでBGMとセリフを同時に再生することができます。",
+              "●「セリフ遊び」で「コウモード」「メルトモード」「アスナモード」「トワモード」「バンバモード」の際はトリガーを押すと斬撃音と各ヒーローのかけ声が交互に鳴ります。"
             ]
           },
           {
-            "display_index": 14,
+            "display_index": 12,
+            "source_ids": [3],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 13,
             "source_ids": [6],
             "furigana_ids": []
           },
           {
-            "display_index": 15,
+            "display_index": 14,
             "source_ids": [7],
             "furigana_ids": []
           },
           {
-            "display_index": 16,
+            "display_index": 15,
             "source_ids": [10],
             "furigana_ids": []
           },
           {
-            "display_index": 17,
+            "display_index": 16,
             "source_ids": [11],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 17,
+            "source_ids": [12],
             "furigana_ids": []
           },
           {
@@ -5351,9 +5384,10 @@
             "furigana_ids": []
           },
           {
-            "display_index": 44,
+            "display_index": -1,
             "source_ids": [45],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           }
         ],
         "uncertainties": [],
@@ -5814,7 +5848,7 @@
         },
         {
           "text": "「セリフ遊び」 で 「コウモード」に切り替え、\n必殺攻撃遊びの操作を行うと\n必殺攻撃遊びの 3. の操作でトリガーを\n押した時にセリフ「ディーノスラッシュ」\n「剣ボーン」 と攻撃音が鳴り、LEDが光ります。",
-          "translation": "Switch to “Serifu Asobi” (Lines Play) and “Kou Mode”; when you perform the special-attack play operations, pressing the trigger in operation 3 of the special-attack play will play the lines “Dino Slash” and “Sword-Bone” together with an attack sound, and the LED will light.",
+          "translation": "Switch to “Serifu Play” and set it to “Kou Mode.” When you perform the special attack play operation, pressing the trigger for operation 3 of the special attack play will play the lines “Dino Slash” and “Ken-Boon,” play an attack sound, and light the LED.",
           "bbox": [
             0.07568696445226669, 0.12969709491729736, 0.33061577516794205, 0.0864341049194336
           ],
@@ -5822,7 +5856,7 @@
         },
         {
           "text": "※「セリフ遊び」の詳細は、本書\n8ページをご覧ください。\n※電源スイッチをOFF、 または、\n「セリフ遊び」で「コウモード」\n以外に切り替えることで\n特殊必殺モードがリセットされます。",
-          "translation": "• For details of \"Serifu Asobi\", see page 8 of this manual.\n• Turning the power switch OFF, or switching \"Serifu Asobi\" to any mode other than \"Kou Mode\", will reset the Special Finishing Mode.",
+          "translation": "• See page 8 of this manual for details on \"Serifu Asobi\".\n• Turning the power switch OFF, or switching to any mode other than \"Kou Mode\" within \"Serifu Asobi\", will reset the special finisher mode.",
           "bbox": [0.0774, 0.328, 0.2792, 0.10699999999999998],
           "layout": "panel"
         },
@@ -5836,7 +5870,7 @@
         },
         {
           "text": "BGMボタンを短押しします。\n→下記の表のBGM1~3が順に流れます。\nBGM3の後は、BGM1に戻ります。",
-          "translation": "• Short-press the BGM button.\n• The BGM1–BGM3 listed in the table below will play in sequence.\n• After BGM3, playback returns to BGM1.",
+          "translation": "• Press the BGM button briefly.\n• BGM1–3 from the table below will play in order.\n• After BGM3 plays, playback returns to BGM1.",
           "bbox": [
             0.07568696445226669, 0.5801000000000001, 0.30317153173685074, 0.06399999999999995
           ],
@@ -5862,7 +5896,7 @@
         },
         {
           "text": "「俺たちがリュウソウジャー」",
-          "translation": "We are the Ryusoulgers",
+          "translation": "“We are the Ryusoulgers.”",
           "bbox": [0.194, 0.6611, 0.1762821626663208, 0.020499999999999963],
           "layout": "panel"
         },
@@ -5876,37 +5910,27 @@
         },
         {
           "text": "「ソウルをひとつに」",
-          "translation": "\"Unite the souls\"",
+          "translation": "Unite the souls",
           "bbox": [0.2189, 0.6810876832008362, 0.126510813331604, 0.01331231679916367],
           "layout": "panel"
         },
         {
           "text": "※BGM2、BGM3は、3回ループします。",
-          "translation": "Note: BGM2 and BGM3 will loop three times.",
+          "translation": "BGM2 and BGM3 loop 3 times.",
           "bbox": [0.0834, 0.7064806327819825, 0.280021101808548, 0.013919367218017453],
           "layout": "panel"
         },
         {
           "text": "BGMの再生中にもう一度、BGMボタンを\n短押しすると、 BGMが停止します。\n停止後、再びBGMボタンを短押しすると、\n次のBGMが流れます。",
-          "translation": "• While BGM is playing, briefly press the BGM button once more to stop the BGM.\n• After it stops, briefly press the BGM button again to play the next BGM.",
+          "translation": "• While BGM is playing, press the BGM button briefly again to stop the BGM.\n• After it stops, press the BGM button briefly again to play the next BGM.",
           "bbox": [0.09455488926172256, 0.7494000000000001, 0.2997451107382775, 0.0695123167991637],
           "layout": "panel"
         },
         {
           "text": "※電源スイッチをOFFにするまで、 他の遊びを行っても\n最後に再生されたBGMの次のBGMから始まります。\nBGMの再生中に 「必殺攻撃遊び」 を行うとBGMは、\n止まります。",
-          "translation": "• Until the power switch is turned OFF, even if you play other modes, playback will begin from the BGM following the last BGM that was played.\n• If you perform the “Special Attack Play” while a BGM is playing, the BGM will stop.",
+          "translation": "• Until you turn the power switch OFF, even if you change to other play modes, playback will start from the BGM that comes after the BGM last played.\n• If you perform \"Special Attack Play\" while BGM is playing, the BGM will stop.",
           "bbox": [0.0825, 0.8709, 0.3992744388580322, 0.06893130598068231],
           "layout": "panel"
-        },
-        {
-          "text": "9",
-          "translation": "9",
-          "bbox": [0.0455, 0.9541, 0.0154, 0.0109]
-        },
-        {
-          "text": "wwww",
-          "translation": "wwww",
-          "bbox": [0.5163, 0.7533, 0.0729, 0.0272]
         },
         {
           "text": "※ロック解除\nグリップを\n握りながら\n行います。",
@@ -6098,7 +6122,8 @@
             }
           ],
           "furigana": [],
-          "notes": ["Diagram callouts/labels and page number left ungrouped."]
+          "notes": [],
+          "native_artwork": [12, 14]
         },
         "mapping": [
           {
@@ -6200,8 +6225,8 @@
             "source_ids": [13],
             "furigana_ids": [],
             "japanese_items": [
-              "BGMの再生中にもう一度、BGMボタンを短押しすると、BGMが停止します。",
-              "停止後、再びBGMボタンを短押しすると、次のBGMが流れます。"
+              "BGMの再生中にもう一度、BGMボタンを\n短押しすると、 BGMが停止します。",
+              "停止後、再びBGMボタンを短押しすると、\n次のBGMが流れます。"
             ]
           },
           {
@@ -6210,32 +6235,34 @@
             "source_ids": [17],
             "furigana_ids": [],
             "japanese_items": [
-              "※電源スイッチをOFFにするまで、他の遊びを行っても最後に再生されたBGMの次のBGMから始まります。",
-              "※BGMの再生中に「必殺攻撃遊び」を行うとBGMは止まります。"
+              "※電源スイッチをOFFにするまで、 他の遊びを行っても最後に再生されたBGMの次のBGMから始まります。",
+              "※BGMの再生中に「必殺攻撃遊び」を行うとBGMは、止まります。"
             ]
           },
           {
-            "display_index": 14,
+            "display_index": -1,
             "source_ids": [12],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 15,
+            "display_index": -1,
             "source_ids": [14],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 16,
+            "display_index": 14,
             "source_ids": [15],
             "furigana_ids": []
           },
           {
-            "display_index": 17,
+            "display_index": 15,
             "source_ids": [16],
             "furigana_ids": []
           },
           {
-            "display_index": 18,
+            "display_index": 16,
             "source_ids": [18],
             "furigana_ids": []
           }
@@ -6520,20 +6547,14 @@
       "blocks": [
         {
           "text": "再生待機BGM遊び\n※レッドリュウソウルをセットしている、いない、に関わらず始められます。\nレッドリュウソウルをセットしている場合、\n2.をスキップして下さい。",
-          "translation": "Standby BGM Playback\n*This can be started whether or not the Red Ryusoul is set.\nIf the Red Ryusoul is set, please skip step 2.",
+          "translation": "• Standby BGM Play\n• You can start whether or not the Red Ryu Soul is set.\n• If the Red Ryu Soul is set, skip step 2.",
           "bbox": [0.0808, 0.0511, 0.6694135529518127, 0.1197],
           "layout": "panel"
         },
         {
           "text": "2.リュウソウケンにレッドリュウソウルを\nセットします。",
-          "translation": "2. Set the Red Ryusoul into the Ryusoul Ken.",
+          "translation": "2. Insert the Red Ryusoul into the Ryusoul Ken.",
           "bbox": [0.07997513121366501, 0.4918, 0.31782486878633504, 0.03751134843826287],
-          "layout": "panel"
-        },
-        {
-          "text": "※一度、再生が終了すると 「再生待機BGM遊び」 は\n終了します。\n※BGM2、BGM3は、3回ループします。",
-          "translation": "• Once playback finishes, \"Playback standby BGM play\" will end.\n• BGM2 and BGM3 will loop three times.",
-          "bbox": [0.5868000000000001, 0.903, 0.36753019542694076, 0.053199999999999914],
           "layout": "panel"
         },
         {
@@ -6582,9 +6603,9 @@
           "bbox": [0.8825, 0.6354, 0.0729, 0.0435]
         },
         {
-          "text": "10",
-          "translation": "10",
-          "bbox": [0.9322, 0.9534, 0.0266, 0.0127]
+          "text": "※一度、再生が終了すると 「再生待機BGM遊び」 は\n終了します。\n※BGM2、BGM3は、3回ループします。",
+          "translation": "※ Once playback has finished, \"Standby BGM Playback\" ends.\n※ BGM2 and BGM3 loop three times.",
+          "bbox": [0.5883, 0.9045, 0.3645, 0.0502]
         }
       ],
       "image": "pages/page-10.webp",
@@ -6666,26 +6687,25 @@
           "panels": [
             {
               "id": "p0",
-              "kind": "heading",
+              "kind": "prose",
               "source_ids": [0]
             },
             {
               "id": "p2",
               "kind": "prose",
               "source_ids": [6, 7]
-            },
-            {
-              "id": "p4",
-              "kind": "prose",
-              "source_ids": [12]
             }
           ],
           "furigana": [],
           "notes": [
-            "Source 0 contains both the page heading and introductory notes in one OCR region; kept together because the source region cannot be split. Diagram labels/page number left ungrouped.",
+            "Source 0 combines the main heading with introductory note text in one OCR region, so it could not be separated by source ID.",
+            "Source 11 is treated as a diagram callout/instruction label and left ungrouped.",
+            "Conservative panel fallback: Panel p4 would mask native artwork 13",
+            "Retained p4 unchanged: Panel p4 would mask native artwork 13",
             "Panel p1 retained original English after failed automatic checks",
             "Panel p3 retained original English after failed automatic checks"
-          ]
+          ],
+          "native_artwork": [13]
         },
         "mapping": [
           {
@@ -6694,7 +6714,9 @@
             "source_ids": [0],
             "furigana_ids": [],
             "japanese_items": [
-              "再生待機BGM遊び\n※レッドリュウソウルをセットしている、いない、に関わらず始められます。\nレッドリュウソウルをセットしている場合、\n2.をスキップして下さい。"
+              "再生待機BGM遊び",
+              "※レッドリュウソウルをセットしている、いない、に関わらず始められます。",
+              "レッドリュウソウルをセットしている場合、\n2.をスキップして下さい。"
             ]
           },
           {
@@ -6702,67 +6724,63 @@
             "panel_id": "p2",
             "source_ids": [6, 7],
             "furigana_ids": [],
-            "japanese_items": ["2. リュウソウケンにレッドリュウソウルをセットします。"]
+            "japanese_items": ["2.リュウソウケンにレッドリュウソウルをセットします。"]
           },
           {
             "display_index": 2,
-            "panel_id": "p4",
-            "source_ids": [12],
-            "furigana_ids": [],
-            "japanese_items": [
-              "※一度、再生が終了すると「再生待機BGM遊び」は終了します。",
-              "※BGM2、BGM3は、3回ループします。"
-            ]
-          },
-          {
-            "display_index": 3,
             "source_ids": [1],
             "furigana_ids": []
           },
           {
-            "display_index": 4,
+            "display_index": 3,
             "source_ids": [2],
             "furigana_ids": []
           },
           {
-            "display_index": 5,
+            "display_index": 4,
             "source_ids": [3],
             "furigana_ids": []
           },
           {
-            "display_index": 6,
+            "display_index": 5,
             "source_ids": [4],
             "furigana_ids": []
           },
           {
-            "display_index": 7,
+            "display_index": 6,
             "source_ids": [5],
             "furigana_ids": []
           },
           {
-            "display_index": 8,
+            "display_index": 7,
             "source_ids": [8],
             "furigana_ids": []
           },
           {
-            "display_index": 9,
+            "display_index": 8,
             "source_ids": [9],
             "furigana_ids": []
           },
           {
-            "display_index": 10,
+            "display_index": 9,
             "source_ids": [10],
             "furigana_ids": []
           },
           {
-            "display_index": 11,
+            "display_index": 10,
             "source_ids": [11],
             "furigana_ids": []
           },
           {
-            "display_index": 12,
-            "source_ids": [13],
+            "display_index": 11,
+            "source_ids": [12],
             "furigana_ids": []
+          },
+          {
+            "display_index": -1,
+            "source_ids": [13],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           }
         ],
         "uncertainties": [],
@@ -6969,9 +6987,8 @@
         "plan": {
           "panels": [],
           "furigana": [],
-          "notes": [
-            "Source 0 is part of the central series logo/product mark, so it is not grouped as prose."
-          ]
+          "notes": [],
+          "native_artwork": []
         },
         "mapping": [
           {

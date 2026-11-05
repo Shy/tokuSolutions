@@ -7,7 +7,7 @@
     "source_url": "",
     "blog_url": "",
     "pages": 8,
-    "blocks": 211,
+    "blocks": 181,
     "thumbnail": "pages/page-0.webp",
     "tags": ["memorial", "sentai"],
     "semantic_layout": 1
@@ -16,18 +16,6 @@
     {
       "blocks": [
         {
-          "text": "WANTED\nGOKAI SABER\nGOKAI GUN\nMEMORIAL EDITION",
-          "translation": "WANTED\nGOKAI SABER\nGOKAI GUN\nMEMORIAL EDITION",
-          "bbox": [0.5539000000000001, 0.0378, 0.3860999999999999, 0.2986],
-          "layout": "panel"
-        },
-        {
-          "text": "USER MANUAL",
-          "translation": "USER MANUAL",
-          "bbox": [0.5906, 0.7590804204940796, 0.3164151939392089, 0.05441957950592036],
-          "layout": "panel"
-        },
-        {
           "text": "目次",
           "translation": "Table of Contents",
           "bbox": [0.7377, 0.8364685878753663, 0.027801727104186935, 0.02113781261444081],
@@ -35,13 +23,13 @@
         },
         {
           "text": "各部名称・・・\n電池の交換/電源の入れ方\nゴーカイサーベル 通常攻撃遊び･･･\nゴーカイサーベル 必殺技遊び\nゴーカイガン 通常攻撃遊び・",
-          "translation": "• Names of parts...\n• Battery replacement / How to turn the power on\n• Gokai Saber — Normal attack play...\n• Gokai Saber — Special move play\n• Gokai Gun — Normal attack play·",
+          "translation": "• Names of parts...\n• Replacing the batteries / How to turn the power on\n• Gokai Saber — Normal attack play...\n• Gokai Saber — Special move play\n• Gokai Gun — Normal attack play...",
           "bbox": [0.5252, 0.8691000000000001, 0.11417943124771113, 0.07379999999999987],
           "layout": "panel"
         },
         {
           "text": "ゴーカイガン 必殺技遊び・\n特殊必殺技遊び\n特殊必殺技遊び (5刀流)\nレンジャーキーの取り外し方",
-          "translation": "• Gokaigan special attack play\n• Special finishing-move play\n• Special finishing-move play (Five-sword style)\n• How to remove Ranger Keys",
+          "translation": "• Gokaigan — Special Attack Play\n• Special Finishing Move Play\n• Special Finishing Move Play (Five‑sword Style)\n• How to remove the Ranger Key",
           "bbox": [0.7573713169097901, 0.8691000000000001, 0.0953471450805663, 0.0592999999999998],
           "layout": "panel"
         },
@@ -51,14 +39,14 @@
           "bbox": [0.1693, 0.136, 0.0175, 0.0224]
         },
         {
-          "text": "APTON",
-          "translation": "APTON",
-          "bbox": [0.1304, 0.2956, 0.0795, 0.1022]
-        },
-        {
           "text": "lista",
           "translation": "list",
           "bbox": [0.3194, 0.0834, 0.0513, 0.0302]
+        },
+        {
+          "text": "WANTED\nGOKAI SABER\nGOKAI GUN\nMEMORIAL EDITION",
+          "translation": "WANTED\nGOKAI SABER\nGOKAI GUN\nMEMORIAL EDITION",
+          "bbox": [0.5554, 0.0393, 0.3831, 0.2956]
         },
         {
           "text": "海賊戦隊",
@@ -91,59 +79,14 @@
           "bbox": [0.286, 0.6572, 0.0402, 0.0979]
         },
         {
-          "text": "←",
-          "translation": "←",
-          "bbox": [0.5199, 0.8386, 0.015, 0.0175]
-        },
-        {
           "text": "+3←",
           "translation": "+3←",
           "bbox": [0.9466, 0.8386, 0.0325, 0.0169]
         },
         {
-          "text": "1",
-          "translation": "1",
-          "bbox": [0.7341, 0.873, 0.0034, 0.0067]
-        },
-        {
-          "text": "7",
-          "translation": "7",
-          "bbox": [0.9658, 0.873, 0.0051, 0.0073]
-        },
-        {
-          "text": "3",
-          "translation": "3",
-          "bbox": [0.7341, 0.8875, 0.0038, 0.0073]
-        },
-        {
-          "text": "9",
-          "translation": "9",
-          "bbox": [0.9662, 0.8875, 0.0047, 0.0079]
-        },
-        {
-          "text": "5",
-          "translation": "5",
-          "bbox": [0.7341, 0.9033, 0.0043, 0.0073]
-        },
-        {
-          "text": "11",
-          "translation": "11",
-          "bbox": [0.9649, 0.9033, 0.0077, 0.006]
-        },
-        {
-          "text": "5",
-          "translation": "5",
-          "bbox": [0.7341, 0.9178, 0.0038, 0.0073]
-        },
-        {
           "text": "13",
           "translation": "13",
           "bbox": [0.9662, 0.9184, 0.0064, 0.006]
-        },
-        {
-          "text": "7",
-          "translation": "7",
-          "bbox": [0.7341, 0.9329, 0.0043, 0.0073]
         }
       ],
       "image": "pages/page-0.webp",
@@ -316,188 +259,183 @@
             {
               "id": "p1",
               "kind": "heading",
-              "source_ids": [3]
-            },
-            {
-              "id": "p2",
-              "kind": "heading",
-              "source_ids": [10]
-            },
-            {
-              "id": "p3",
-              "kind": "heading",
               "source_ids": [12]
             },
             {
-              "id": "p4",
+              "id": "p2",
               "kind": "prose",
               "source_ids": [14, 18, 22, 26, 30]
             },
             {
-              "id": "p5",
+              "id": "p3",
               "kind": "prose",
               "source_ids": [16, 20, 24, 28]
             }
           ],
           "furigana": [],
           "notes": [
-            "Cover logo/copyright/decorative marks and illustration-associated labels left ungrouped.",
-            "p4: excluded other-column members; retained separately",
-            "p5: excluded other-column members; retained separately"
-          ]
+            "Cover/logo artwork and product title areas were not grouped as prose panels.",
+            "p3: excluded other-column members; retained separately"
+          ],
+          "native_artwork": [1, 10, 11, 15, 17, 19, 21, 23, 25, 27, 31]
         },
         "mapping": [
           {
             "display_index": 0,
             "panel_id": "p1",
-            "source_ids": [3],
-            "furigana_ids": [],
-            "japanese_items": ["WANTED\nGOKAI SABER\nGOKAI GUN\nMEMORIAL EDITION"]
-          },
-          {
-            "display_index": 1,
-            "panel_id": "p2",
-            "source_ids": [10],
-            "furigana_ids": [],
-            "japanese_items": ["USER MANUAL"]
-          },
-          {
-            "display_index": 2,
-            "panel_id": "p3",
             "source_ids": [12],
             "furigana_ids": [],
             "japanese_items": ["目次"]
           },
           {
-            "display_index": 3,
-            "panel_id": "p4",
+            "display_index": 1,
+            "panel_id": "p2",
             "source_ids": [14, 18, 22, 26, 30],
             "furigana_ids": [],
             "japanese_items": [
               "各部名称・・・",
-              "電池の交換／電源の入れ方",
-              "ゴーカイサーベル　通常攻撃遊び・・・",
+              "電池の交換/電源の入れ方",
+              "ゴーカイサーベル　通常攻撃遊び･･･",
               "ゴーカイサーベル　必殺技遊び",
               "ゴーカイガン　通常攻撃遊び・"
             ]
           },
           {
-            "display_index": 4,
-            "panel_id": "p5",
+            "display_index": 2,
+            "panel_id": "p3",
             "source_ids": [16, 20, 24, 28],
             "furigana_ids": [],
             "japanese_items": [
-              "ゴーカイガン 必殺技遊び",
+              "ゴーカイガン 必殺技遊び・",
               "特殊必殺技遊び",
-              "特殊必殺技遊び（5刀流）",
+              "特殊必殺技遊び (5刀流)",
               "レンジャーキーの取り外し方"
             ]
           },
           {
-            "display_index": 5,
+            "display_index": 3,
             "source_ids": [0],
             "furigana_ids": []
           },
           {
-            "display_index": 6,
+            "display_index": -1,
             "source_ids": [1],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 7,
+            "display_index": 4,
             "source_ids": [2],
             "furigana_ids": []
           },
           {
-            "display_index": 8,
+            "display_index": 5,
+            "source_ids": [3],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 6,
             "source_ids": [4],
             "furigana_ids": []
           },
           {
-            "display_index": 9,
+            "display_index": 7,
             "source_ids": [5],
             "furigana_ids": []
           },
           {
-            "display_index": 10,
+            "display_index": 8,
             "source_ids": [6],
             "furigana_ids": []
           },
           {
-            "display_index": 11,
+            "display_index": 9,
             "source_ids": [7],
             "furigana_ids": []
           },
           {
-            "display_index": 12,
+            "display_index": 10,
             "source_ids": [8],
             "furigana_ids": []
           },
           {
-            "display_index": 13,
+            "display_index": 11,
             "source_ids": [9],
             "furigana_ids": []
           },
           {
-            "display_index": 14,
-            "source_ids": [11],
-            "furigana_ids": []
+            "display_index": -1,
+            "source_ids": [10],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 15,
+            "display_index": -1,
+            "source_ids": [11],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
+          },
+          {
+            "display_index": 12,
             "source_ids": [13],
             "furigana_ids": []
           },
           {
-            "display_index": 16,
+            "display_index": -1,
             "source_ids": [15],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 17,
+            "display_index": -1,
             "source_ids": [17],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 18,
+            "display_index": -1,
             "source_ids": [19],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 19,
+            "display_index": -1,
             "source_ids": [21],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 20,
+            "display_index": -1,
             "source_ids": [23],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 21,
+            "display_index": -1,
             "source_ids": [25],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 22,
+            "display_index": -1,
             "source_ids": [27],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 23,
+            "display_index": 13,
             "source_ids": [29],
             "furigana_ids": []
           },
           {
-            "display_index": 24,
+            "display_index": -1,
             "source_ids": [31],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           }
         ],
         "uncertainties": [
-          "Lines ending with ellipses indicate the text likely continues on the next page or section; full wording is not visible.",
-          "Final line (ゴーカイガン　通常攻撃遊び・) appears truncated or uses a middle dot; the remainder of the item is not visible.",
-          "Romanization of product names (rendered here as “Gokai Saber” and “Gokai Gun”) is an interpretation of ゴーカイサーベル/ゴーカイガン and may vary."
+          "The last Japanese line ends with a trailing dot/marker and may be incomplete in the scan."
         ],
         "ocr_lines": [
           {
@@ -749,34 +687,6 @@
     {
       "blocks": [
         {
-          "text": "△ 注意 お買い上げのお客様へ 必ずお読みください。\n●本商品の対象年齢は15才以上です。 対象年齢未満のお子様には絶対に与えないでください。",
-          "translation": "△ Caution — To customers: Please read carefully.\n● This product is for Ages 15 and up. Do not give it to children below the recommended age.",
-          "bbox": [
-            0.03567948868870735, 0.5885846719741822, 0.30262051131129264, 0.03811532802581774
-          ],
-          "layout": "panel"
-        },
-        {
-          "text": "●小さな部品、電池がありますので、小さなお子様が誤って飲み込まないように注意してください。 窒息などの危険があります。\n●本商品には電子部品を使用しておりますので、ペースメーカーをご使用の方はご注意ください。\n●尖った部分や鋭い部分がありますので、取扱いや保管場所に注意してください。思わぬケガをする恐れがあります。\n●耳の近くで使用してはいけません。 誤って使用すると、聴覚を損なう恐れがあります。\n●LEDの光の点滅を見続けないでください。気分が悪くなったりする恐れがあります。\n<電池を誤使用すると発熱・破裂・液漏れの恐れがあります。 下記に注意してください。>\n●二次電池(充電式電池) は、 絶対に使用しないでください。\n●古い電池と新しい電池、いろいろな種類の電池をまぜて使わないでください。\n●+(プラスマイナス)を正しくセットしてください。\n●遊んだ後は必ずスイッチを切り電池をはずしてください。 電池を入れたままにしておくと、液漏れの恐れがあり危険です。\n●ショートさせたり充電、 分解、 加熱、火の中に入れたりしないでください。\n●万一、 電池から漏れた液が目に入ったときはすぐに大量の水で洗い、医師に相談してください。 皮膚や服に付いたときは水で洗って\nください。\n●廃棄するときは、 自治体の廃棄物処理の指示に従ってください。",
-          "translation": "• There are small parts and batteries; take care that small children do not accidentally swallow them. There is a risk of choking.\n• This product contains electronic components; people who use pacemakers should exercise caution.\n• There are pointed and sharp parts; be careful when handling and storing. There is a risk of unexpected injury.\n• Do not use near the ear. Accidental use may cause hearing damage.\n• Do not continue to stare at the flashing LED light. It may cause nausea or other adverse effects.\n• Incorrect use of batteries may cause heating, rupture, or leakage. Observe the following precautions.\n• Do not use secondary batteries (rechargeable batteries) under any circumstances.\n• Do not mix old and new batteries or different types of batteries.\n• Set the +/− polarity correctly.\n• Always turn off the switch and remove the batteries after playing. Leaving batteries installed may cause leakage and is dangerous.\n• Do not short-circuit, charge, disassemble, heat, or place batteries in fire.\n• If battery fluid leaks into the eyes, immediately rinse with plenty of water and consult a physician. If it contacts skin or clothing, wash with water.\n• When disposing of batteries, follow your local municipality's waste disposal instructions.",
-          "bbox": [0.0318, 0.6278833255767823, 0.4364, 0.19411667442321767],
-          "layout": "panel"
-        },
-        {
-          "text": "《使用上の注意》",
-          "translation": "《Precautions for Use》",
-          "bbox": [
-            0.024995726779103278, 0.8364685878753663, 0.06752991627156735, 0.015131412124633647
-          ],
-          "layout": "panel"
-        },
-        {
-          "text": "●本商品は精密に作られています。 無理な力を加えたり、落としたりすると破損する恐れがあります。●本商品は精密な電子\n部品で構成されています。 落としたり、水にぬらしたり、汚したり、分解したりしないでください。 また、高温・低温になる所での\n使用、保管は避けてください。 プラスチック梱包材は、 開封後はすぐに捨ててください。●本商品を樹脂製のソファーやシート、\nタイルなどの上に置かないでください。 長時間接触していると色が移る場合があります。 ●可動部分・取付部分を無理な方向に\n強く引っ張ったり、曲げたりしないでください。 ●発音の一部にイントネーションが違っていたり、 商品の特性上聞き取りにくい\nものがありますが、ご了承ください。 本商品には、対応しているレンジャーキー以外はセットしないでください。 故障や破損の\n原因となります。",
-          "translation": "• This product is manufactured precisely. Applying excessive force or dropping it may cause damage.\n• This product is made of precision electronic components. Do not drop it, get it wet, soil it, or disassemble it. Also avoid using or storing it in places that become very hot or very cold.\n• Dispose of plastic packaging immediately after opening.\n• Do not place this product on resin (plastic) sofas, seats, tiles, or similar surfaces. Prolonged contact may cause color transfer.\n• Do not strongly pull or bend movable parts or attachment parts in unreasonable directions.\n• Some pronunciations may have different intonation or be difficult to understand due to the product’s characteristics; please be aware of this.\n• Do not set anything other than a compatible Ranger Key in this product. Doing so may cause malfunction or damage.",
-          "bbox": [0.0254, 0.8546, 0.4492, 0.09974157991409294],
-          "layout": "panel"
-        },
-        {
           "text": "各部名称",
           "translation": "Names of Parts",
           "bbox": [
@@ -792,33 +702,52 @@
         },
         {
           "text": "ゴーカイサーベル本体 ...... 1\nゴーカイガン本体......1\nレンジャーキー･･･各1\n(ゴーカイレッド・ゴーカイプルー・ゴーカイイエロー・ゴーカイグリーンゴーカイピンク)",
-          "translation": "• Gokai Saber main unit ...... 1\n• Gokai Gun main unit ...... 1\n• Ranger Keys ...... 1 each\n• (Gokai Red · Gokai Blue · Gokai Yellow · Gokai Green · Gokai Pink)",
+          "translation": "• Gokai Saber main unit — 1\n• Gokai Gun main unit — 1\n• Ranger Keys — 1 each (Gokai Red, Gokai Blue, Gokai Yellow, Gokai Green, Gokai Pink)",
           "bbox": [0.0288, 0.1339, 0.2098794879436493, 0.060500000000000026],
           "layout": "panel"
         },
         {
           "text": "ゴーカイサーベルの剣先を曲げたり、\n無理な力を加えたりすると変形や破損の恐れがあります。\n取扱いには十分にご注意ください。",
-          "translation": "Bending the tip of the Gokai Saber or applying excessive force may cause deformation or breakage. Handle with care.",
+          "translation": "Bending the Gokaiger Saber’s blade tip or applying excessive force may cause deformation or breakage. Handle it with care.",
           "bbox": [0.10106410390138626, 0.2778, 0.20943589609861374, 0.046499999999999986],
           "layout": "panel"
         },
         {
-          "text": "●WEB取扱説明書内の画像はすべてイメージです。\nゴーカイサーベル本体\nsliga\n【別角度】",
-          "translation": "• All images in the web instruction manual are for illustrative purposes.\n• Gokai Saber main unit\n• sliga\n• Another angle",
-          "bbox": [0.2634572789669037, 0.0275, 0.19915381956100464, 0.10640629434585572],
-          "layout": "panel"
-        },
-        {
           "text": "側面のボタンを押すことで、\n変形することができます。",
-          "translation": "Press the button on the side to transform.",
+          "translation": "Press the side button to transform.",
           "bbox": [0.7848247990608216, 0.1442, 0.13077775526046742, 0.04039999999999999],
           "layout": "panel"
         },
         {
           "text": "①両腕を上げます。\n② 側面のボタンを押します。\n※梱包時はキーモードの状態です。\n両腕と脚を展開してから遊んでください。\n※レンジャーキーには全体に彩色を施しております。\n組み立て~操作の際にキズがつく恐れがありますので\n取扱いには十分注意してください。",
-          "translation": "• 1) Raise both arms.\n• 2) Press the side button.\n• *When packaged, the unit is in key mode. Please unfold both arms and legs before playing.\n• *The Ranger Key is painted over its entire surface. There is a risk of scratches during assembly and operation, so handle with great care.",
+          "translation": "• 1. Raise both arms.\n• 2. Press the button on the side.\n• When packaged, the key is in key mode. Open both the arms and legs before playing.\n• The Ranger Key is painted over its entire surface. It may be scratched during assembly or operation, so handle it with care.",
           "bbox": [0.7848, 0.18409999999999999, 0.17182819290161122, 0.09732746233940126],
           "layout": "panel"
+        },
+        {
+          "text": "△ 注意 お買い上げのお客様へ 必ずお読みください。\n●本商品の対象年齢は15才以上です。 対象年齢未満のお子様には絶対に与えないでください。\n●小さな部品、電池がありますので、小さなお子様が誤って飲み込まないように注意してください。 窒息などの危険があります。\n●本商品には電子部品を使用しておりますので、ペースメーカーをご使用の方はご注意ください。\n●尖った部分や鋭い部分がありますので、取扱いや保管場所に注意してください。思わぬケガをする恐れがあります。\n●耳の近くで使用してはいけません。 誤って使用すると、聴覚を損なう恐れがあります。\n●LEDの光の点滅を見続けないでください。気分が悪くなったりする恐れがあります。\n<電池を誤使用すると発熱・破裂・液漏れの恐れがあります。 下記に注意してください。>\n●二次電池(充電式電池) は、 絶対に使用しないでください。\n●古い電池と新しい電池、いろいろな種類の電池をまぜて使わないでください。\n●+(プラスマイナス)を正しくセットしてください。\n●遊んだ後は必ずスイッチを切り電池をはずしてください。 電池を入れたままにしておくと、液漏れの恐れがあり危険です。\n●ショートさせたり充電、 分解、 加熱、火の中に入れたりしないでください。\n●万一、 電池から漏れた液が目に入ったときはすぐに大量の水で洗い、医師に相談してください。 皮膚や服に付いたときは水で洗って\nください。\n●廃棄するときは、 自治体の廃棄物処理の指示に従ってください。",
+          "translation": "• Warning — Read before use.\n• This product is for ages 15 and older. Do not give it to children under the stated age.\n• This product contains small parts and batteries. Keep it away from small children to prevent accidental swallowing, which can cause choking.\n• This product contains electronic components; people with pacemakers should take care when using it.\n• This product has pointed and sharp parts. Take care when handling and storing it to avoid unexpected injury.\n• Do not use this product close to the ear. Incorrect use may damage hearing.\n• Do not stare at flashing LED lights. Doing so may cause nausea or other illness.\n• Incorrect battery use may cause overheating, explosion or leakage. Follow the precautions below.\n• Do not use secondary (rechargeable) batteries.\n• Do not mix old and new batteries or different types of batteries.\n• Insert batteries with correct +/− polarity.\n• Always turn the power off and remove the batteries after use. Leaving batteries installed may cause leakage and is dangerous.\n• Do not short-circuit, charge, disassemble, heat, or throw batteries into fire.\n• If battery fluid gets into the eyes, immediately flush with plenty of water and consult a doctor. If battery fluid gets on skin or clothing, wash with water.\n• When disposing, follow your local municipality's waste disposal instructions.",
+          "bbox": [0.0318, 0.5885846719741822, 0.4364, 0.23341532802581777],
+          "layout": "panel"
+        },
+        {
+          "text": "《使用上の注意》",
+          "translation": "《Precautions for Use》",
+          "bbox": [
+            0.024995726779103278, 0.8364685878753663, 0.06752991627156735, 0.015131412124633647
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "●本商品は精密に作られています。 無理な力を加えたり、落としたりすると破損する恐れがあります。●本商品は精密な電子\n部品で構成されています。 落としたり、水にぬらしたり、汚したり、分解したりしないでください。 また、高温・低温になる所での\n使用、保管は避けてください。 プラスチック梱包材は、 開封後はすぐに捨ててください。●本商品を樹脂製のソファーやシート、\nタイルなどの上に置かないでください。 長時間接触していると色が移る場合があります。 ●可動部分・取付部分を無理な方向に\n強く引っ張ったり、曲げたりしないでください。 ●発音の一部にイントネーションが違っていたり、 商品の特性上聞き取りにくい\nものがありますが、ご了承ください。 本商品には、対応しているレンジャーキー以外はセットしないでください。 故障や破損の\n原因となります。",
+          "translation": "• This product is made with precision. Applying excessive force or dropping it may cause damage.\n• This product contains delicate electronic parts. Do not drop it, get it wet, soil it, or disassemble it. Also avoid using or storing it where it will become very hot or very cold. Discard plastic packaging immediately after opening.\n• Do not place this product on resin sofas, seats, tiles, or similar surfaces. Prolonged contact may cause color transfer.\n• Do not strongly pull or bend movable parts or attachment points in directions they are not meant to move.\n• Some voice lines may have different intonation or may be hard to hear due to the product's characteristics.\n• Only insert ranger keys that are compatible with this product. Using other keys may cause malfunction or damage.",
+          "bbox": [0.0254, 0.8546, 0.4492, 0.09974157991409294],
+          "layout": "panel"
+        },
+        {
+          "text": "●WEB取扱説明書内の画像はすべてイメージです。\nゴーカイサーベル本体\nsliga",
+          "translation": "●All images in the WEB Instruction Manual are for illustrative purposes only.\nGokai Saber main unit",
+          "bbox": [0.265, 0.029, 0.188, 0.0859]
         },
         {
           "text": "シリンダー",
@@ -826,14 +755,14 @@
           "bbox": [0.5043, 0.0907, 0.0457, 0.0139]
         },
         {
+          "text": "【別角度】",
+          "translation": "[Different angle]",
+          "bbox": [0.4205, 0.1179, 0.0406, 0.0145]
+        },
+        {
           "text": "キー挿入口 -",
           "translation": "Key slot",
           "bbox": [0.4201, 0.1844, 0.0581, 0.0157]
-        },
-        {
-          "text": "LED",
-          "translation": "LED",
-          "bbox": [0.4658, 0.2993, 0.0231, 0.0115]
         },
         {
           "text": "LED (刃)",
@@ -899,11 +828,6 @@
           "text": "ロック解除ボタン",
           "translation": "Lock release button",
           "bbox": [0.6487, 0.8688, 0.0799, 0.0145]
-        },
-        {
-          "text": "LED",
-          "translation": "LED",
-          "bbox": [0.8662, 0.7424, 0.0226, 0.0109]
         },
         {
           "text": "トリガー",
@@ -1126,146 +1050,85 @@
             {
               "id": "p0",
               "kind": "heading",
-              "source_ids": [23]
-            },
-            {
-              "id": "p1",
-              "kind": "prose",
-              "source_ids": [24, 26, 27, 29, 30, 31, 32, 34, 35]
-            },
-            {
-              "id": "p2",
-              "kind": "heading",
-              "source_ids": [36]
-            },
-            {
-              "id": "p3",
-              "kind": "prose",
-              "source_ids": [37]
-            },
-            {
-              "id": "p4",
-              "kind": "heading",
               "source_ids": [0]
             },
             {
-              "id": "p5",
+              "id": "p1",
               "kind": "heading",
               "source_ids": [1]
             },
             {
-              "id": "p6",
+              "id": "p2",
               "kind": "prose",
               "source_ids": [2, 3, 4]
             },
             {
-              "id": "p7",
+              "id": "p3",
               "kind": "prose",
               "source_ids": [5, 10]
             },
             {
-              "id": "p8",
-              "kind": "prose",
-              "source_ids": [6, 8]
-            },
-            {
-              "id": "p9",
+              "id": "p4",
               "kind": "prose",
               "source_ids": [19]
             },
             {
-              "id": "p10",
+              "id": "p5",
               "kind": "prose",
               "source_ids": [20]
+            },
+            {
+              "id": "p6",
+              "kind": "prose",
+              "source_ids": [23, 24, 26, 27, 29, 30, 31, 32, 34, 35]
+            },
+            {
+              "id": "p7",
+              "kind": "heading",
+              "source_ids": [36]
+            },
+            {
+              "id": "p8",
+              "kind": "prose",
+              "source_ids": [37]
             }
           ],
           "furigana": [],
           "notes": [
-            "Source 23 contains both the caution heading and the first bullet; kept as heading because the heading is embedded in the same OCR region."
-          ]
+            "Source 23 contains both the caution heading and the first safety bullet, so they cannot be separated by source ID.",
+            "Source 6 mixes a prose note with a product/diagram label and OCR noise; left ungrouped to avoid masking a product label."
+          ],
+          "native_artwork": [11, 39]
         },
         "mapping": [
           {
             "display_index": 0,
             "panel_id": "p0",
-            "source_ids": [23],
-            "furigana_ids": [],
-            "japanese_items": [
-              "△ 注意 お買い上げのお客様へ 必ずお読みください。\n●本商品の対象年齢は15才以上です。 対象年齢未満のお子様には絶対に与えないでください。"
-            ]
-          },
-          {
-            "display_index": 1,
-            "panel_id": "p1",
-            "source_ids": [24, 26, 27, 29, 30, 31, 32, 34, 35],
-            "furigana_ids": [],
-            "japanese_items": [
-              "小さな部品、電池がありますので、小さなお子様が誤って飲み込まないように注意してください。窒息などの危険があります。",
-              "本商品には電子部品を使用しておりますので、ペースメーカーをご使用の方はご注意ください。",
-              "尖った部分や鋭い部分がありますので、取扱いや保管場所に注意してください。思わぬケガをする恐れがあります。",
-              "耳の近くで使用してはいけません。誤って使用すると、聴覚を損なう恐れがあります。",
-              "LEDの光の点滅を見続けないでください。気分が悪くなったりする恐れがあります。",
-              "電池を誤使用すると発熱・破裂・液漏れの恐れがあります。下記に注意してください。",
-              "二次電池（充電式電池）は、絶対に使用しないでください。",
-              "古い電池と新しい電池、いろいろな種類の電池をまぜて使わないでください。",
-              "+−（プラスマイナス）を正しくセットしてください。",
-              "遊んだ後は必ずスイッチを切り電池をはずしてください。電池を入れたままにしておくと、液漏れの恐れがあり危険です。",
-              "ショートさせたり、充電、分解、加熱、火の中に入れたりしないでください。",
-              "万一、電池から漏れた液が目に入ったときはすぐに大量の水で洗い、医師に相談してください。皮膚や服に付いたときは水で洗ってください。",
-              "廃棄するときは、自治体の廃棄物処理の指示に従ってください。"
-            ]
-          },
-          {
-            "display_index": 2,
-            "panel_id": "p2",
-            "source_ids": [36],
-            "furigana_ids": [],
-            "japanese_items": ["《使用上の注意》"]
-          },
-          {
-            "display_index": 3,
-            "panel_id": "p3",
-            "source_ids": [37],
-            "furigana_ids": [],
-            "japanese_items": [
-              "本商品は精密に作られています。無理な力を加えたり、落としたりすると破損する恐れがあります。",
-              "本商品は精密な電子部品で構成されています。落としたり、水にぬらしたり、汚したり、分解したりしないでください。また、高温・低温になる所での使用、保管は避けてください。",
-              "プラスチック梱包材は、開封後はすぐに捨ててください。",
-              "本商品を樹脂製のソファーやシート、タイルなどの上に置かないでください。長時間接触していると色が移る場合があります。",
-              "可動部分・取付部分を無理な方向に強く引っ張ったり、曲げたりしないでください。",
-              "発音の一部にイントネーションが違っていたり、商品の特性上聞き取りにくいものがありますが、ご了承ください。",
-              "本商品には、対応しているレンジャーキー以外はセットしないでください。故障や破損の原因となります。"
-            ]
-          },
-          {
-            "display_index": 4,
-            "panel_id": "p4",
             "source_ids": [0],
             "furigana_ids": [],
             "japanese_items": ["各部名称"]
           },
           {
-            "display_index": 5,
-            "panel_id": "p5",
+            "display_index": 1,
+            "panel_id": "p1",
             "source_ids": [1],
             "furigana_ids": [],
             "japanese_items": ["セット内容"]
           },
           {
-            "display_index": 6,
-            "panel_id": "p6",
+            "display_index": 2,
+            "panel_id": "p2",
             "source_ids": [2, 3, 4],
             "furigana_ids": [],
             "japanese_items": [
-              "ゴーカイサーベル本体 ...... 1",
-              "ゴーカイガン本体......1",
-              "レンジャーキー･･･各1",
-              "(ゴーカイレッド・ゴーカイブルー・ゴーカイイエロー・ゴーカイグリーン・ゴーカイピンク)"
+              "ゴーカイサーベル本体……1",
+              "ゴーカイガン本体……1",
+              "レンジャーキー……各1（ゴーカイレッド・ゴーカイブルー・ゴーカイイエロー・ゴーカイグリーン・ゴーカイピンク）"
             ]
           },
           {
-            "display_index": 7,
-            "panel_id": "p7",
+            "display_index": 3,
+            "panel_id": "p3",
             "source_ids": [5, 10],
             "furigana_ids": [],
             "japanese_items": [
@@ -1273,39 +1136,81 @@
             ]
           },
           {
-            "display_index": 8,
-            "panel_id": "p8",
-            "source_ids": [6, 8],
-            "furigana_ids": [],
-            "japanese_items": [
-              "●WEB取扱説明書内の画像はすべてイメージです。",
-              "ゴーカイサーベル本体",
-              "sliga",
-              "【別角度】"
-            ]
-          },
-          {
-            "display_index": 9,
-            "panel_id": "p9",
+            "display_index": 4,
+            "panel_id": "p4",
             "source_ids": [19],
             "furigana_ids": [],
-            "japanese_items": ["側面のボタンを押すことで、\n変形することができます。"]
+            "japanese_items": ["側面のボタンを押すことで、変形することができます。"]
           },
           {
-            "display_index": 10,
-            "panel_id": "p10",
+            "display_index": 5,
+            "panel_id": "p5",
             "source_ids": [20],
             "furigana_ids": [],
             "japanese_items": [
               "①両腕を上げます。",
               "②側面のボタンを押します。",
               "※梱包時はキーモードの状態です。両腕と脚を展開してから遊んでください。",
-              "※レンジャーキーには全体に彩色を施しております。組み立て～操作の際にキズがつく恐れがありますので取扱いには十分注意してください。"
+              "※レンジャーキーには全体に彩色を施しております。組み立て〜操作の際にキズがつく恐れがありますので取扱いには十分注意してください。"
             ]
           },
           {
-            "display_index": 11,
+            "display_index": 6,
+            "panel_id": "p6",
+            "source_ids": [23, 24, 26, 27, 29, 30, 31, 32, 34, 35],
+            "furigana_ids": [],
+            "japanese_items": [
+              "△ 注意 お買い上げのお客様へ 必ずお読みください。",
+              "本商品の対象年齢は15才以上です。 対象年齢未満のお子様には絶対に与えないでください。",
+              "小さな部品、電池がありますので、小さなお子様が誤って飲み込まないように注意してください。 窒息などの危険があります。",
+              "本商品には電子部品を使用しておりますので、ペースメーカーをご使用の方はご注意ください。",
+              "尖った部分や鋭い部分がありますので、取扱いや保管場所に注意してください。思わぬケガをする恐れがあります。",
+              "耳の近くで使用してはいけません。 誤って使用すると、聴覚を損なう恐れがあります。",
+              "LEDの光の点滅を見続けないでください。気分が悪くなったりする恐れがあります。",
+              "電池を誤使用すると発熱・破裂・液漏れの恐れがあります。 下記に注意してください。",
+              "二次電池(充電式電池) は、 絶対に使用しないでください。",
+              "古い電池と新しい電池、いろいろな種類の電池をまぜて使わないでください。",
+              "+−(プラスマイナス)を正しくセットしてください。",
+              "遊んだ後は必ずスイッチを切り電池をはずしてください。 電池を入れたままにしておくと、液漏れの恐れがあり危険です。",
+              "ショートさせたり充電、 分解、 加熱、火の中に入れたりしないでください。",
+              "万一、 電池から漏れた液が目に入ったときはすぐに大量の水で洗い、医師に相談してください。 皮膚や服に付いたときは水で洗ってください。",
+              "廃棄するときは、 自治体の廃棄物処理の指示に従ってください。"
+            ]
+          },
+          {
+            "display_index": 7,
+            "panel_id": "p7",
+            "source_ids": [36],
+            "furigana_ids": [],
+            "japanese_items": ["《使用上の注意》"]
+          },
+          {
+            "display_index": 8,
+            "panel_id": "p8",
+            "source_ids": [37],
+            "furigana_ids": [],
+            "japanese_items": [
+              "本商品は精密に作られています。無理な力を加えたり、落としたりすると破損する恐れがあります。",
+              "本商品は精密な電子部品で構成されています。落としたり、水にぬらしたり、汚したり、分解したりしないでください。また、高温・低温になる所での使用、保管は避けてください。プラスチック梱包材は、開封後はすぐに捨ててください。",
+              "本商品を樹脂製のソファーやシート、タイルなどの上に置かないでください。長時間接触していると色が移る場合があります。",
+              "可動部分・取付部分を無理な方向に強く引っ張ったり、曲げたりしないでください。",
+              "発音の一部にイントネーションが違っていたり、商品の特性上聞き取りにくいものがありますが、ご了承ください。",
+              "本商品には、対応しているレンジャーキー以外はセットしないでください。故障や破損の原因となります。"
+            ]
+          },
+          {
+            "display_index": 9,
+            "source_ids": [6],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 10,
             "source_ids": [7],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 11,
+            "source_ids": [8],
             "furigana_ids": []
           },
           {
@@ -1314,90 +1219,89 @@
             "furigana_ids": []
           },
           {
-            "display_index": 13,
+            "display_index": -1,
             "source_ids": [11],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 14,
+            "display_index": 13,
             "source_ids": [12],
             "furigana_ids": []
           },
           {
-            "display_index": 15,
+            "display_index": 14,
             "source_ids": [13],
             "furigana_ids": []
           },
           {
-            "display_index": 16,
+            "display_index": 15,
             "source_ids": [14],
             "furigana_ids": []
           },
           {
-            "display_index": 17,
+            "display_index": 16,
             "source_ids": [15],
             "furigana_ids": []
           },
           {
-            "display_index": 18,
+            "display_index": 17,
             "source_ids": [16],
             "furigana_ids": []
           },
           {
-            "display_index": 19,
+            "display_index": 18,
             "source_ids": [17],
             "furigana_ids": []
           },
           {
-            "display_index": 20,
+            "display_index": 19,
             "source_ids": [18],
             "furigana_ids": []
           },
           {
-            "display_index": 21,
+            "display_index": 20,
             "source_ids": [21],
             "furigana_ids": []
           },
           {
-            "display_index": 22,
+            "display_index": 21,
             "source_ids": [22],
             "furigana_ids": []
           },
           {
-            "display_index": 23,
+            "display_index": 22,
             "source_ids": [25],
             "furigana_ids": []
           },
           {
-            "display_index": 24,
+            "display_index": 23,
             "source_ids": [28],
             "furigana_ids": []
           },
           {
-            "display_index": 25,
+            "display_index": 24,
             "source_ids": [33],
             "furigana_ids": []
           },
           {
-            "display_index": 26,
+            "display_index": 25,
             "source_ids": [38],
             "furigana_ids": []
           },
           {
-            "display_index": 27,
+            "display_index": -1,
             "source_ids": [39],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 28,
+            "display_index": 26,
             "source_ids": [40],
             "furigana_ids": []
           }
         ],
-        "uncertainties": [
-          "Romanization of the product name ゴーカイサーベル rendered as \"Gokai Saber\" — other spellings (e.g., Gokaio Saber) are possible.",
-          "The string 'sliga' appears in Latin letters in the scan; its meaning or intended Japanese text is unclear and may be an OCR artifact."
-        ],
+        "uncertainties": [],
         "ocr_lines": [
           {
             "id": 0,
@@ -1867,35 +1771,11 @@
           "layout": "panel"
         },
         {
-          "text": "※電源スイッチがX (OFF)になっていることを確認してください。\n※音が小さくなって聞きとりにくくなったり、音が繰り返し鳴るなどの誤動作をする場合や\nLEDの発光が弱くなった場合は、すべて新しい電池に交換してください。",
-          "translation": "• Ensure the power switch is set to X (OFF).\n• If the sound becomes faint and hard to hear, if the sound repeats or other malfunctions occur, or if the LED’s illumination becomes weak, replace all batteries with new ones.",
+          "text": "※電源スイッチがX (OFF)になっていることを確認してください。\n※音が小さくなって聞きとりにくくなったり、音が繰り返し鳴るなどの誤動作をする場合や\nLEDの発光が弱くなった場合は、すべて新しい電池に交換してください。\nゴーカイサーベル\n①カバーパーツを取り外します。\n本体側面のカバーパーツを印の箇所に指を掛け、取り外します。",
+          "translation": "• Make sure the power switch is set to X (OFF).\n• If the sound becomes quiet and hard to hear, the sound repeats, or the LED glow becomes weak, replace all batteries with new ones.\n• Gokaiger Saber\n• 1. Remove the cover part.\n• Hook your finger on the marked spot of the cover on the side of the main unit and remove it.",
           "bbox": [
-            0.023724454700946807, 0.1103500605225563, 0.4121755452990532, 0.07724993947744369
+            0.023724454700946807, 0.1103500605225563, 0.4121755452990532, 0.13894993947744372
           ],
-          "layout": "panel"
-        },
-        {
-          "text": "ゴーカイサーベル\n①カバーパーツを取り外します。",
-          "translation": "Gokai Saber\n① Remove the cover part.",
-          "bbox": [0.024151987642049788, 0.1871, 0.11544801235795021, 0.046499999999999986],
-          "layout": "panel"
-        },
-        {
-          "text": "本体側面のカバーパーツを印の箇所に指を掛け、取り外します。\n②電池ぶたを取り外します。\n②-1 本体内側の電池ぶたのネジを+または、ドライバーで矢印の方向に回し、\n②-2 電池ぶたを取り外します。\n③電池を入れます。\n単4乾電池3本(別売り)の土をそれぞれ間違えないように入れます。",
-          "translation": "• Hook your finger on the cover part on the side of the unit at the mark (○) and remove it.\n• ② Remove the battery cover.\n• ②-1 Turn the screw of the battery cover inside the unit in the direction of the arrow with a + or − screwdriver,\n• ②-2 Remove the battery cover.\n• ③ Insert the batteries.\n• Insert three AAA batteries (sold separately), making sure the + and − polarities are not reversed.",
-          "bbox": [0.0237, 0.23368742620944977, 0.3339351001262665, 0.09061257379055021],
-          "layout": "panel"
-        },
-        {
-          "text": "④電池ぶたを戻します。\n電池ぶたの突起と本体のミゾを合わせ、電池ぶたのネジを ②-1と逆方向に回して閉じます。\n⑤カバーパーツを戻します。\nカバーパーツの凸部と本体の凹部を合わせ、 カバーパーツを戻します。",
-          "translation": "• ④ Return the battery cover. Align the protrusion on the battery cover with the groove on the main body, and turn the battery cover screw in the direction opposite to ②-1 to close it.\n• ⑤ Reattach the cover parts. Align the convex part of the cover parts with the concave part of the main body, and reattach the cover parts.",
-          "bbox": [0.0237, 0.3237720534801483, 0.3339351001262665, 0.07302794651985167],
-          "layout": "panel"
-        },
-        {
-          "text": "【背面】\n凸部\n【側面】",
-          "translation": "• Rear\n• Protrusion (raised part)\n• Side",
-          "bbox": [0.029282384797930716, 0.3963, 0.17315819437801838, 0.025400000000000034],
           "layout": "panel"
         },
         {
@@ -1905,34 +1785,72 @@
           "layout": "panel"
         },
         {
-          "text": "①カバーパーツを取り外します。\n本体背面のカバーパーツを本体側面の印の箇所に指を掛け、取り外します。\n②電池ぶたを取り外します。\n②-1 本体内側の電池ぶたのネジを+または、ドライバーで矢印の方向に回し、\n②-2 電池ぶたを取り外します。\n③電池を入れます。\n単4乾電池2本(別売り)の土をそれぞれ間違えないように入れます。\n④電池ぶたを戻します。\n電池ぶたの突起と本体のミゾを合わせ、電池ぶたのネジを\n②-1と逆方向に回して閉じます。\n⑤カバーパーツを戻します。\nカバーパーツの凸部と本体の凹部を合わせ、 カバーパーツを戻します。",
-          "translation": "• ①Remove the cover part. Hook your finger on the cover part on the back of the unit at the ○ mark on the side of the main body and remove it.\n• ②Remove the battery cover.\n• ②-1 Turn the screw of the battery cover on the inside of the main body in the direction of the arrow using a Phillips (+) or flat (−) screwdriver,\n• ②-2 and remove the battery cover.\n• ③Insert the batteries. Insert two AAA dry batteries (sold separately), making sure the + and − polarities are not reversed.\n• ④Replace the battery cover. Align the protrusion of the battery cover with the groove of the main body and turn the battery cover screw in the opposite direction of ②-1 to close it.\n• ⑤Replace the cover part. Align the raised part of the cover with the recessed part of the main body and return the cover part.",
-          "bbox": [0.5247932777404786, 0.0783, 0.2942067222595214, 0.18020000000000003],
+          "text": "①カバーパーツを取り外します。",
+          "translation": "1) Remove the cover part.",
+          "bbox": [0.5247932777404786, 0.0783, 0.11590672225952137, 0.014499999999999999],
+          "layout": "panel"
+        },
+        {
+          "text": "③電池を入れます。\n単4乾電池2本(別売り)の土をそれぞれ間違えないように入れます。\n④電池ぶたを戻します。\n電池ぶたの突起と本体のミゾを合わせ、電池ぶたのネジを\n②-1と逆方向に回して閉じます。\n⑤カバーパーツを戻します。\nカバーパーツの凸部と本体の凹部を合わせ、 カバーパーツを戻します。",
+          "translation": "• 3. Insert the batteries.\nInsert two AAA (R03) batteries (sold separately), making sure each battery’s + and − ends are correct.\n• 4. Replace the battery cover.\nAlign the cover’s projection with the groove on the main body, then turn the cover screw in the direction opposite to ②-1 to close it.\n• 5. Reattach the cover part.\nAlign the cover part’s protrusions with the main body’s recesses, then reattach the cover part.",
+          "bbox": [
+            0.5247932777404786, 0.15388088977336883, 0.2608067222595214, 0.10461911022663117
+          ],
           "layout": "panel"
         },
         {
           "text": "ゴーカイサーベル本体の\n電源スイッチを○ (ON)にします。\nLEDが発光し、起動音が鳴ります。\n遊び終わった後は、必ず電源スイッチを\nx (OFF)にしてください。\n※ロック解除ボタンを押しシリンダーを\n起こした状態で、トリガーを押しながら\n電源を入れるとP.5以降のモードで\nゴーカイサーベルのLED (刃) は発光しなくなります。",
-          "translation": "• Set the Gokai Saber unit’s power switch to ○ (ON).\n• The LED will light and a startup sound will play.\n• After finishing play, always set the power switch to x (OFF).\n• If you press the lock release button and raise the cylinder, then turn on the power while holding the trigger, the Gokai Saber’s LED (blade) will not light in modes from P.5 onward.",
+          "translation": "• Set the Gokaiger Saber main unit power switch to ○ (ON).\n• The LED will light and a startup sound will play.\n• After playing, always set the power switch to x (OFF).\n• If you press the lock-release button and raise the cylinder, then hold the trigger while turning the power on, the Gokaiger Saber's LED (blade) will not light in modes from P.5 onward.",
           "bbox": [0.2195, 0.8322, 0.1993, 0.1360999999999999],
           "layout": "panel"
         },
         {
           "text": "ゴーカイガン本体の\n電源スイッチをO (ON)にします。\nLEDが発光し、 起動音が鳴ります。\n※遊び終わった後は、必ず電源スイッチを\nx (OFF)にしてください。",
-          "translation": "• Set the Gokai Gun main unit power switch to O (ON).\n• The LED will light and a startup sound will play.\n• After you finish playing, be sure to set the power switch to x (OFF).",
+          "translation": "• Set the Gokai Gun main unit's power switch to O (ON).\n• The LED will light and a startup sound will play.\n• After you finish playing, be sure to switch the power to x (OFF).",
           "bbox": [
             0.6705820665359498, 0.7838688001632691, 0.15092650938034047, 0.07623119983673088
           ],
           "layout": "panel"
         },
         {
+          "text": "②電池ぶたを取り外します。",
+          "translation": "② Remove the battery cover.",
+          "bbox": [0.0252, 0.2503, 0.0996, 0.0115]
+        },
+        {
+          "text": "②-1 本体内側の電池ぶたのネジを+または、ドライバーで矢印の方向に回し、",
+          "translation": "②-1 Turn the screw on the battery cover inside the main unit in the direction of the arrow using a + or - screwdriver,",
+          "bbox": [0.0338, 0.2654, 0.2817, 0.0109]
+        },
+        {
+          "text": "②-2 電池ぶたを取り外します。\n③電池を入れます。",
+          "translation": "②-2 Remove the battery cover.\n③ Insert the batteries.",
+          "bbox": [0.0257, 0.2799, 0.1171, 0.0272]
+        },
+        {
+          "text": "単4乾電池3本(別売り)の土をそれぞれ間違えないように入れます。",
+          "translation": "Insert 3 AAA batteries (sold separately), making sure to observe the correct polarity for each battery.",
+          "bbox": [0.0342, 0.3108, 0.2488, 0.0115]
+        },
+        {
+          "text": "④電池ぶたを戻します。",
+          "translation": "④ Put the battery cover back on.",
+          "bbox": [0.0252, 0.3253, 0.0847, 0.0115]
+        },
+        {
+          "text": "電池ぶたの突起と本体のミゾを合わせ、電池ぶたのネジを ②-1と逆方向に回して閉じます。\n⑤カバーパーツを戻します。\nカバーパーツの凸部と本体の凹部を合わせ、 カバーパーツを戻します。",
+          "translation": "Align the protrusion on the battery cover with the groove on the main unit, then turn the battery cover screw in the direction opposite to ②-1 to close it.\n⑤ Reattach the cover part.\nAlign the protruding part of the cover part with the recessed part of the main unit, then reattach the cover part.",
+          "bbox": [0.0252, 0.3398, 0.3309, 0.0429]
+        },
+        {
+          "text": "本体背面のカバーパーツを本体側面の印の箇所に指を掛け、取り外します。\n②電池ぶたを取り外します。\n②-1 本体内側の電池ぶたのネジを+または、ドライバーで矢印の方向に回し、\n②-2 電池ぶたを取り外します。",
+          "translation": "Hook your finger on the marked spot on the side of the main unit and remove the cover part from the back of the main unit.\n② Remove the battery cover.\n②-1 Turn the screw on the battery cover inside the main unit in the direction of the arrow using a + or - screwdriver,\n②-2 Remove the battery cover.",
+          "bbox": [0.5263, 0.0943, 0.2912, 0.0574]
+        },
+        {
           "text": "AR",
           "translation": "AR",
           "bbox": [0.8414, 0.0478, 0.0898, 0.0417]
-        },
-        {
-          "text": "Acors inful",
-          "translation": "Acors inful",
-          "bbox": [0.8166, 0.2225, 0.1022, 0.0272]
         },
         {
           "text": "【背面】",
@@ -1955,9 +1873,24 @@
           "bbox": [0.7841, 0.3724, 0.0171, 0.0115]
         },
         {
+          "text": "【側面】",
+          "translation": "[Side]",
+          "bbox": [0.0308, 0.4045, 0.0269, 0.0157]
+        },
+        {
           "text": "3",
           "translation": "3",
           "bbox": [0.0201, 0.968, 0.0056, 0.0097]
+        },
+        {
+          "text": "【背面】",
+          "translation": "[Back]",
+          "bbox": [0.1445, 0.3978, 0.0274, 0.0133]
+        },
+        {
+          "text": "凸部",
+          "translation": "protrusion",
+          "bbox": [0.1834, 0.4027, 0.0175, 0.0115]
         },
         {
           "text": "カバーパーツ",
@@ -2020,34 +1953,14 @@
           "bbox": [0.3236, 0.5381, 0.0197, 0.0097]
         },
         {
-          "text": "①",
-          "translation": "①",
-          "bbox": [0.2283, 0.5562, 0.0107, 0.0115]
-        },
-        {
           "text": "← 電池ぶた",
           "translation": "← Battery cover",
           "bbox": [0.416, 0.5689, 0.0504, 0.0127]
         },
         {
-          "text": "②-2",
-          "translation": "②-2",
-          "bbox": [0.3514, 0.6094, 0.0158, 0.0109]
-        },
-        {
           "text": "阿部",
           "translation": "Abe",
           "bbox": [0.3155, 0.7981, 0.0167, 0.0115]
-        },
-        {
-          "text": "+",
-          "translation": "+",
-          "bbox": [0.3472, 0.8017, 0.009, 0.0109]
-        },
-        {
-          "text": "②-1",
-          "translation": "②-1",
-          "bbox": [0.3938, 0.7993, 0.0162, 0.0109]
         },
         {
           "text": "ネジ",
@@ -2063,11 +1976,6 @@
           "text": "・凸部",
           "translation": "・Protrusion",
           "bbox": [0.5819, 0.4468, 0.0201, 0.0109]
-        },
-        {
-          "text": "Raw",
-          "translation": "Raw",
-          "bbox": [0.5814, 0.838, 0.0453, 0.026]
         },
         {
           "text": "電源スイッチ",
@@ -2095,16 +2003,6 @@
           "bbox": [0.7666, 0.4033, 0.0162, 0.0103]
         },
         {
-          "text": "+",
-          "translation": "+",
-          "bbox": [0.8093, 0.5762, 0.0098, 0.0121]
-        },
-        {
-          "text": "①",
-          "translation": "①",
-          "bbox": [0.8179, 0.5992, 0.0094, 0.0157]
-        },
-        {
           "text": "OL",
           "translation": "OL",
           "bbox": [0.7815, 0.6312, 0.0141, 0.0242]
@@ -2113,16 +2011,6 @@
           "text": "電池ぶた",
           "translation": "Battery cover",
           "bbox": [0.8247, 0.6439, 0.0338, 0.0097]
-        },
-        {
-          "text": "+",
-          "translation": "+",
-          "bbox": [0.7905, 0.6651, 0.0081, 0.0103]
-        },
-        {
-          "text": "②-1",
-          "translation": "②-1",
-          "bbox": [0.8529, 0.6983, 0.018, 0.0109]
         },
         {
           "text": "単4",
@@ -2538,56 +2426,44 @@
               "source_ids": [1]
             },
             {
-              "id": "p2",
+              "id": "p2-a",
               "kind": "prose",
-              "source_ids": [2]
+              "source_ids": [2, 3, 4]
             },
             {
-              "id": "p3",
-              "kind": "heading",
-              "source_ids": [3]
-            },
-            {
-              "id": "p4-a",
-              "kind": "prose",
-              "source_ids": [4, 5, 6, 7, 8]
-            },
-            {
-              "id": "p4-b-a",
-              "kind": "prose",
-              "source_ids": [9, 10]
-            },
-            {
-              "id": "p4-b-b",
-              "kind": "prose",
-              "source_ids": [25, 26, 23]
-            },
-            {
-              "id": "p5",
+              "id": "p4",
               "kind": "heading",
               "source_ids": [11]
             },
             {
-              "id": "p6",
+              "id": "p5-native-a-native-a",
               "kind": "prose",
-              "source_ids": [12, 13, 14, 15, 18]
+              "source_ids": [12]
             },
             {
-              "id": "p7",
+              "id": "p5-native-b",
+              "kind": "prose",
+              "source_ids": [14, 15, 18]
+            },
+            {
+              "id": "p6",
               "kind": "prose",
               "source_ids": [45, 53, 54, 55]
             },
             {
-              "id": "p8",
+              "id": "p7",
               "kind": "prose",
               "source_ids": [68]
             }
           ],
           "furigana": [],
           "notes": [
-            "Source 3 contains both the ゴーカイサーベル heading and the first step line; grouped as heading due to OCR region inseparability.",
-            "Diagram labels, battery callouts, page numbers, and logo-like/OCR-noise regions were left ungrouped."
-          ]
+            "Source 3 contains both the ゴーカイサーベル heading and the first instruction line, so it could not be separated without splitting the source region.",
+            "Conservative panel fallback: Panel p5 would mask native artwork 17",
+            "Retained p5-native-a-native-b unchanged: Panel p5-native-a-native-b would mask native artwork 17",
+            "Panel p2-b retained original English after failed automatic checks"
+          ],
+          "native_artwork": [17, 39, 41, 43, 44, 49, 58, 59, 62, 63]
         },
         "mapping": [
           {
@@ -2606,89 +2482,57 @@
           },
           {
             "display_index": 2,
-            "panel_id": "p2",
-            "source_ids": [2],
+            "panel_id": "p2-a",
+            "source_ids": [2, 3, 4],
             "furigana_ids": [],
             "japanese_items": [
               "※電源スイッチがX (OFF)になっていることを確認してください。",
-              "※音が小さくなって聞きとりにくくなったり、音が繰り返し鳴るなどの誤動作をする場合やLEDの発光が弱くなった場合は、すべて新しい電池に交換してください。"
+              "※音が小さくなって聞きとりにくくなったり、音が繰り返し鳴るなどの誤動作をする場合やLEDの発光が弱くなった場合は、すべて新しい電池に交換してください。",
+              "ゴーカイサーベル",
+              "①カバーパーツを取り外します。",
+              "本体側面のカバーパーツを印の箇所に指を掛け、取り外します。"
             ]
           },
           {
             "display_index": 3,
-            "panel_id": "p3",
-            "source_ids": [3],
-            "furigana_ids": [],
-            "japanese_items": ["ゴーカイサーベル\n①カバーパーツを取り外します。"]
-          },
-          {
-            "display_index": 4,
-            "panel_id": "p4-a",
-            "source_ids": [4, 5, 6, 7, 8],
-            "furigana_ids": [],
-            "japanese_items": [
-              "本体側面のカバーパーツを○印の箇所に指を掛け、取り外します。",
-              "② 電池ぶたを取り外します。",
-              "②-1 本体内側の電池ぶたのネジを＋または－ドライバーで矢印の方向に回し、",
-              "②-2 電池ぶたを取り外します。",
-              "③ 電池を入れます。",
-              "単4乾電池3本（別売り）の＋と－をそれぞれ間違えないように入れます。"
-            ]
-          },
-          {
-            "display_index": 5,
-            "panel_id": "p4-b-a",
-            "source_ids": [9, 10],
-            "furigana_ids": [],
-            "japanese_items": [
-              "④電池ぶたを戻します。電池ぶたの突起と本体のミゾを合わせ、電池ぶたのネジを②-1と逆方向に回して閉じます。",
-              "⑤カバーパーツを戻します。カバーパーツの凸部と本体の凹部を合わせ、カバーパーツを戻します。"
-            ]
-          },
-          {
-            "display_index": 6,
-            "panel_id": "p4-b-b",
-            "source_ids": [25, 26, 23],
-            "furigana_ids": [],
-            "japanese_items": ["【背面】", "凸部", "【側面】"]
-          },
-          {
-            "display_index": 7,
-            "panel_id": "p5",
+            "panel_id": "p4",
             "source_ids": [11],
             "furigana_ids": [],
             "japanese_items": ["ゴーカイガン"]
           },
           {
-            "display_index": 8,
-            "panel_id": "p6",
-            "source_ids": [12, 13, 14, 15, 18],
+            "display_index": 4,
+            "panel_id": "p5-native-a-native-a",
+            "source_ids": [12],
+            "furigana_ids": [],
+            "japanese_items": ["①カバーパーツを取り外します。"]
+          },
+          {
+            "display_index": 5,
+            "panel_id": "p5-native-b",
+            "source_ids": [14, 15, 18],
             "furigana_ids": [],
             "japanese_items": [
-              "①カバーパーツを取り外します。本体背面のカバーパーツを本体側面の○印の箇所に指を掛け、取り外します。",
-              "②電池ぶたを取り外します。",
-              "②-1 本体内側の電池ぶたのネジを＋または－ドライバーで矢印の方向に回し、",
-              "②-2 電池ぶたを取り外します。",
-              "③電池を入れます。単4乾電池2本(別売り)の＋−をそれぞれ間違えないように入れます。",
-              "④電池ぶたを戻します。電池ぶたの突起と本体のミゾを合わせ、電池ぶたのネジを②-1と逆方向に回して閉じます。",
-              "⑤カバーパーツを戻します。カバーパーツの凸部と本体の凹部を合わせ、カバーパーツを戻します。"
+              "③電池を入れます。\n単4乾電池2本（別売り）の＋−をそれぞれ間違えないように入れます。",
+              "④電池ぶたを戻します。\n電池ぶたの突起と本体のミゾを合わせ、電池ぶたのネジを②-1と逆方向に回して閉じます。",
+              "⑤カバーパーツを戻します。\nカバーパーツの凸部と本体の凹部を合わせ、カバーパーツを戻します。"
             ]
           },
           {
-            "display_index": 9,
-            "panel_id": "p7",
+            "display_index": 6,
+            "panel_id": "p6",
             "source_ids": [45, 53, 54, 55],
             "furigana_ids": [],
             "japanese_items": [
               "ゴーカイサーベル本体の電源スイッチを○ (ON)にします。",
               "LEDが発光し、起動音が鳴ります。",
               "遊び終わった後は、必ず電源スイッチをx (OFF)にしてください。",
-              "※ロック解除ボタンを押しシリンダーを起こした状態で、トリガーを押しながら電源を入れるとP.5以降のモードでゴーカイサーベルのLED (刃) は発光しなくなります。"
+              "※ロック解除ボタンを押しシリンダーを起こした状態で、トリガーを押しながら電源を入れるとP.5以降のモードでゴーカイサーベルのLED(刃)は発光しなくなります。"
             ]
           },
           {
-            "display_index": 10,
-            "panel_id": "p8",
+            "display_index": 7,
+            "panel_id": "p7",
             "source_ids": [68],
             "furigana_ids": [],
             "japanese_items": [
@@ -2698,248 +2542,302 @@
             ]
           },
           {
+            "display_index": 8,
+            "source_ids": [5],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 9,
+            "source_ids": [6],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 10,
+            "source_ids": [7],
+            "furigana_ids": []
+          },
+          {
             "display_index": 11,
-            "source_ids": [16],
+            "source_ids": [8],
             "furigana_ids": []
           },
           {
             "display_index": 12,
-            "source_ids": [17],
+            "source_ids": [9],
             "furigana_ids": []
           },
           {
             "display_index": 13,
-            "source_ids": [19],
+            "source_ids": [10],
             "furigana_ids": []
           },
           {
             "display_index": 14,
-            "source_ids": [20],
+            "source_ids": [13],
             "furigana_ids": []
           },
           {
             "display_index": 15,
-            "source_ids": [21],
+            "source_ids": [16],
             "furigana_ids": []
           },
           {
+            "display_index": -1,
+            "source_ids": [17],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
+          },
+          {
             "display_index": 16,
-            "source_ids": [22],
+            "source_ids": [19],
             "furigana_ids": []
           },
           {
             "display_index": 17,
-            "source_ids": [24],
+            "source_ids": [20],
             "furigana_ids": []
           },
           {
             "display_index": 18,
-            "source_ids": [27],
+            "source_ids": [21],
             "furigana_ids": []
           },
           {
             "display_index": 19,
-            "source_ids": [28],
+            "source_ids": [22],
             "furigana_ids": []
           },
           {
             "display_index": 20,
-            "source_ids": [29],
+            "source_ids": [23],
             "furigana_ids": []
           },
           {
             "display_index": 21,
-            "source_ids": [30],
+            "source_ids": [24],
             "furigana_ids": []
           },
           {
             "display_index": 22,
-            "source_ids": [31],
+            "source_ids": [25],
             "furigana_ids": []
           },
           {
             "display_index": 23,
-            "source_ids": [32],
+            "source_ids": [26],
             "furigana_ids": []
           },
           {
             "display_index": 24,
-            "source_ids": [33],
+            "source_ids": [27],
             "furigana_ids": []
           },
           {
             "display_index": 25,
-            "source_ids": [34],
+            "source_ids": [28],
             "furigana_ids": []
           },
           {
             "display_index": 26,
-            "source_ids": [35],
+            "source_ids": [29],
             "furigana_ids": []
           },
           {
             "display_index": 27,
-            "source_ids": [36],
+            "source_ids": [30],
             "furigana_ids": []
           },
           {
             "display_index": 28,
-            "source_ids": [37],
+            "source_ids": [31],
             "furigana_ids": []
           },
           {
             "display_index": 29,
-            "source_ids": [38],
+            "source_ids": [32],
             "furigana_ids": []
           },
           {
             "display_index": 30,
-            "source_ids": [39],
+            "source_ids": [33],
             "furigana_ids": []
           },
           {
             "display_index": 31,
-            "source_ids": [40],
+            "source_ids": [34],
             "furigana_ids": []
           },
           {
             "display_index": 32,
-            "source_ids": [41],
+            "source_ids": [35],
             "furigana_ids": []
           },
           {
             "display_index": 33,
-            "source_ids": [42],
+            "source_ids": [36],
             "furigana_ids": []
           },
           {
             "display_index": 34,
-            "source_ids": [43],
+            "source_ids": [37],
             "furigana_ids": []
           },
           {
             "display_index": 35,
-            "source_ids": [44],
+            "source_ids": [38],
             "furigana_ids": []
           },
           {
+            "display_index": -1,
+            "source_ids": [39],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
+          },
+          {
             "display_index": 36,
+            "source_ids": [40],
+            "furigana_ids": []
+          },
+          {
+            "display_index": -1,
+            "source_ids": [41],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
+          },
+          {
+            "display_index": 37,
+            "source_ids": [42],
+            "furigana_ids": []
+          },
+          {
+            "display_index": -1,
+            "source_ids": [43],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
+          },
+          {
+            "display_index": -1,
+            "source_ids": [44],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
+          },
+          {
+            "display_index": 38,
             "source_ids": [46],
             "furigana_ids": []
           },
           {
-            "display_index": 37,
+            "display_index": 39,
             "source_ids": [47],
             "furigana_ids": []
           },
           {
-            "display_index": 38,
+            "display_index": 40,
             "source_ids": [48],
             "furigana_ids": []
           },
           {
-            "display_index": 39,
+            "display_index": -1,
             "source_ids": [49],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 40,
+            "display_index": 41,
             "source_ids": [50],
             "furigana_ids": []
           },
           {
-            "display_index": 41,
+            "display_index": 42,
             "source_ids": [51],
             "furigana_ids": []
           },
           {
-            "display_index": 42,
+            "display_index": 43,
             "source_ids": [52],
             "furigana_ids": []
           },
           {
-            "display_index": 43,
+            "display_index": 44,
             "source_ids": [56],
             "furigana_ids": []
           },
           {
-            "display_index": 44,
+            "display_index": 45,
             "source_ids": [57],
             "furigana_ids": []
           },
           {
-            "display_index": 45,
+            "display_index": -1,
             "source_ids": [58],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
+          },
+          {
+            "display_index": -1,
+            "source_ids": [59],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
             "display_index": 46,
-            "source_ids": [59],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 47,
             "source_ids": [60],
             "furigana_ids": []
           },
           {
-            "display_index": 48,
+            "display_index": 47,
             "source_ids": [61],
             "furigana_ids": []
           },
           {
-            "display_index": 49,
+            "display_index": -1,
             "source_ids": [62],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 50,
+            "display_index": -1,
             "source_ids": [63],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 51,
+            "display_index": 48,
             "source_ids": [64],
             "furigana_ids": []
           },
           {
-            "display_index": 52,
+            "display_index": 49,
             "source_ids": [65],
             "furigana_ids": []
           },
           {
-            "display_index": 53,
+            "display_index": 50,
             "source_ids": [66],
             "furigana_ids": []
           },
           {
-            "display_index": 54,
+            "display_index": 51,
             "source_ids": [67],
             "furigana_ids": []
           },
           {
-            "display_index": 55,
+            "display_index": 52,
             "source_ids": [69],
             "furigana_ids": []
           },
           {
-            "display_index": 56,
+            "display_index": 53,
             "source_ids": [70],
             "furigana_ids": []
           },
           {
-            "display_index": 57,
+            "display_index": 54,
             "source_ids": [71],
             "furigana_ids": []
           }
         ],
-        "uncertainties": [
-          "The original shows symbol ○ for the mark; preserved as ○.",
-          "The OCR showed '土' in the battery polarity line — interpreted as '＋と－' (plus and minus) according to typical battery instructions.",
-          "The text for the screwdriver type used '＋または、－ドライバー' reconstructed as '＋または－ドライバー'.",
-          "The ○ mark location is preserved as shown; exact shape/function of the mark is assumed but not certain from the scan.",
-          "The symbols ＋ and － for the screwdriver were interpreted as Phillips (+) and flat (−) screwdrivers; the original may use those symbols differently."
-        ],
+        "uncertainties": [],
         "ocr_lines": [
           {
             "id": 0,
@@ -3617,8 +3515,16 @@
           "layout": "panel"
         },
         {
+          "text": "ゴーカイサーベル",
+          "translation": "Gokai Saber",
+          "bbox": [
+            0.030978634268045424, 0.10969999999999999, 0.1081282100379467, 0.019974126148223886
+          ],
+          "layout": "panel"
+        },
+        {
           "text": "1 トリガーを押します。\nLED (刃)が白色に発光し、 「通常攻撃音」が鳴ります。\n※トリガーを押すごとにLEDの発光する色が変わります。",
-          "translation": "• 1 Press the trigger.\n• The LED (blade) lights up white, and the “normal attack sound” plays.\n• Note: Each time the trigger is pressed, the color emitted by the LED changes.",
+          "translation": "• 1 Press the trigger.\n• The LED (blade) lights white and the \"Normal Attack\" sound plays.\n• Note: Each time you press the trigger, the LED's light color changes.",
           "bbox": [0.0331, 0.1677865788936615, 0.2526, 0.0623134211063385],
           "layout": "panel"
         },
@@ -3632,7 +3538,7 @@
         },
         {
           "text": "3 キーを捻ります。\nLEDがキーに対応した色に発光し、\n「効果音」が鳴ります。",
-          "translation": "• Turn the 3 key.\n• The LED lights in the color corresponding to the key, and an \"effect sound\" will play.",
+          "translation": "3 Turn the key. The LED lights in the color corresponding to the key, and a “sound effect” plays.",
           "bbox": [
             0.7668760523796082, 0.05895949086546898, 0.17693165826797475, 0.06104050913453102
           ],
@@ -3640,7 +3546,7 @@
         },
         {
           "text": "派手に攻撃\n※ゴーカイレッドキーを例に説明します。\n※キーに対応した色でLEDが発光します。\n詳しくは下記表をご確認ください。",
-          "translation": "• Flashy Attack\n• Using the Gokai Red Key as an example.\n• The LED lights in the color corresponding to the key.\n• Please refer to the table below for details.",
+          "translation": "• Flashy Attack\n• Using the Gokai Red Key as an example.\n• The LED lights in the color that corresponds to the key.\n• See the table below for details.",
           "bbox": [0.0455, 0.5438000000000001, 0.19620000000000004, 0.1161038734436034],
           "layout": "panel"
         },
@@ -3651,18 +3557,6 @@
           "layout": "panel"
         },
         {
-          "text": "4 ① シリンダーを倒します。\nLEDがキーに対応した色に発光し、\nその後、LEDの発光する色が変わり、\n「必殺技待機音」が鳴ります。\n※LED (刃)はキーに対応した色で発光します。",
-          "translation": "4 ① Tilt the cylinder. The LED will light in the color corresponding to the key, then the LED’s color will change and the “Special Move Standby Sound” will play. Note: The LED (blade) lights in the color corresponding to the key.",
-          "bbox": [0.5314000000000001, 0.548076759338379, 0.21411706457138047, 0.09372324066162097],
-          "layout": "panel"
-        },
-        {
-          "text": "②トリガーを押します。\n→LEDとLED (刃)がキーに対応した色に\n発光し、 「必殺技音」が鳴ります。",
-          "translation": "2. Press the trigger.\n→ The LED and the LED (blade) light up in the color corresponding to the key, and the \"special attack sound\" plays.",
-          "bbox": [0.7536, 0.548076759338379, 0.1743999999999999, 0.06042324066162097],
-          "layout": "panel"
-        },
-        {
           "text": "対応表",
           "translation": "Correspondence Table",
           "bbox": [0.1173, 0.7131000000000001, 0.027800000000000005, 0.014518505001067994],
@@ -3670,21 +3564,11 @@
         },
         {
           "text": "ゴーカイレッド 赤\n| ゴーカイブルー 青\n|ゴーカイイエロー 黄\nゴーカイグリーン緑\nゴーカイピンク 桃",
-          "translation": "• Gokai Red → red\n• Gokai Blue → blue\n• Gokai Yellow → yellow\n• Gokai Green → green\n• Gokai Pink → pink",
+          "translation": "• Gokai Red → red\n• Gokai Blue → blue\n• Gokai Yellow → yellow\n• Gokai Green → green\n• Gokai Pink → peach",
           "bbox": [
             0.08226068621873855, 0.7306644425392151, 0.09103931378126146, 0.10403555746078474
           ],
           "layout": "panel"
-        },
-        {
-          "text": "ゴーカイサーベル",
-          "translation": "Gokai Saber",
-          "bbox": [0.0325, 0.1112, 0.1051, 0.0169]
-        },
-        {
-          "text": "5",
-          "translation": "5",
-          "bbox": [0.0197, 0.9686, 0.006, 0.0097]
         },
         {
           "text": "asmo",
@@ -3695,11 +3579,6 @@
           "text": "LED (刃)",
           "translation": "LED (Blade)",
           "bbox": [0.1312, 0.4123, 0.0342, 0.0121]
-        },
-        {
-          "text": "LED",
-          "translation": "LED",
-          "bbox": [0.3085, 0.3168, 0.0179, 0.0085]
         },
         {
           "text": "トリガー",
@@ -3720,6 +3599,16 @@
           "text": "<1 ロック解除ボタンを押します。\nシリンダーが上がり、 LEDが白色に発光し、\n「効果音が鳴ります。",
           "translation": "<1 Press the unlock button.\nThe cylinder rises, the LED lights white,\nand an \"effect\" sound plays.",
           "bbox": [0.265, 0.6245, 0.2073, 0.0593]
+        },
+        {
+          "text": "4 ① シリンダーを倒します。\nLEDがキーに対応した色に発光し、\nその後、LEDの発光する色が変わり、\n「必殺技待機音」が鳴ります。\n※LED (刃)はキーに対応した色で発光します。",
+          "translation": "4 ① Fold the cylinder down.\nThe LED lights in the color corresponding to the key,\nthen the LED color changes and the \"Special Move standby\" sound plays.\n*LED (Blade) lights in the color corresponding to the key.",
+          "bbox": [0.5329, 0.5496, 0.2111, 0.0907]
+        },
+        {
+          "text": "②トリガーを押します。\n→LEDとLED (刃)がキーに対応した色に\n発光し、 「必殺技音」が鳴ります。",
+          "translation": "② Press the trigger.\n→ The LED and LED (Blade) light in the color corresponding to the key,\nand the \"special move\" sound plays.",
+          "bbox": [0.7551, 0.5496, 0.1714, 0.0574]
         },
         {
           "text": "Ja Conte",
@@ -3901,55 +3790,53 @@
             },
             {
               "id": "p2",
-              "kind": "prose",
-              "source_ids": [4]
+              "kind": "heading",
+              "source_ids": [3]
             },
             {
               "id": "p3",
               "kind": "prose",
-              "source_ids": [2]
+              "source_ids": [4]
             },
             {
               "id": "p4",
               "kind": "prose",
-              "source_ids": [11]
+              "source_ids": [2]
             },
             {
               "id": "p5",
               "kind": "prose",
-              "source_ids": [12]
+              "source_ids": [11]
             },
             {
               "id": "p6",
+              "kind": "prose",
+              "source_ids": [12]
+            },
+            {
+              "id": "p7",
               "kind": "heading",
               "source_ids": [14]
             },
             {
-              "id": "p8",
-              "kind": "prose",
-              "source_ids": [16]
-            },
-            {
-              "id": "p9",
-              "kind": "prose",
-              "source_ids": [17]
-            },
-            {
-              "id": "p10",
+              "id": "p11",
               "kind": "heading",
               "source_ids": [19]
             },
             {
-              "id": "p11",
+              "id": "p12",
               "kind": "prose",
               "source_ids": [20]
             }
           ],
           "furigana": [],
           "notes": [
-            "Source 12 mixes the section heading with explanatory precautions in one OCR region, so it is kept as one prose panel.",
-            "Panel p7 retained original English after failed automatic checks"
-          ]
+            "Source 12 combines the lower-section heading with explanatory notes in one OCR region, so it could not be separated by source ID.",
+            "Panel p8 retained original English after failed automatic checks",
+            "Panel p9 retained original English after failed automatic checks",
+            "Panel p10 retained original English after failed automatic checks"
+          ],
+          "native_artwork": [5, 8]
         },
         "mapping": [
           {
@@ -3969,34 +3856,40 @@
           {
             "display_index": 2,
             "panel_id": "p2",
-            "source_ids": [4],
+            "source_ids": [3],
             "furigana_ids": [],
-            "japanese_items": [
-              "1 トリガーを押します。",
-              "LED（刃）が白色に発光し、「通常攻撃音」が鳴ります。",
-              "※トリガーを押すごとにLEDの発光する色が変わります。"
-            ]
+            "japanese_items": ["ゴーカイサーベル"]
           },
           {
             "display_index": 3,
             "panel_id": "p3",
-            "source_ids": [2],
+            "source_ids": [4],
             "furigana_ids": [],
-            "japanese_items": ["2 キーを挿入します。"]
+            "japanese_items": [
+              "1 トリガーを押します。",
+              "LED (刃)が白色に発光し、「通常攻撃音」が鳴ります。",
+              "※トリガーを押すごとにLEDの発光する色が変わります。"
+            ]
           },
           {
             "display_index": 4,
             "panel_id": "p4",
-            "source_ids": [11],
+            "source_ids": [2],
             "furigana_ids": [],
-            "japanese_items": [
-              "3キーを捻ります。",
-              "LEDがキーに対応した色に発光し、「効果音」が鳴ります。"
-            ]
+            "japanese_items": ["2　キーを挿入します。"]
           },
           {
             "display_index": 5,
             "panel_id": "p5",
+            "source_ids": [11],
+            "furigana_ids": [],
+            "japanese_items": [
+              "3 キーを捻ります。LEDがキーに対応した色に発光し、「効果音」が鳴ります。"
+            ]
+          },
+          {
+            "display_index": 6,
+            "panel_id": "p6",
             "source_ids": [12],
             "furigana_ids": [],
             "japanese_items": [
@@ -4007,40 +3900,22 @@
             ]
           },
           {
-            "display_index": 6,
-            "panel_id": "p6",
+            "display_index": 7,
+            "panel_id": "p7",
             "source_ids": [14],
             "furigana_ids": [],
             "japanese_items": ["~必殺技遊び~"]
           },
           {
-            "display_index": 7,
-            "panel_id": "p8",
-            "source_ids": [16],
-            "furigana_ids": [],
-            "japanese_items": [
-              "4 ① シリンダーを倒します。LEDがキーに対応した色に発光し、その後、LEDの発光する色が変わり、「必殺技待機音」が鳴ります。※LED (刃)はキーに対応した色で発光します。"
-            ]
-          },
-          {
             "display_index": 8,
-            "panel_id": "p9",
-            "source_ids": [17],
-            "furigana_ids": [],
-            "japanese_items": [
-              "②トリガーを押します。\n→LEDとLED（刃）がキーに対応した色に発光し、「必殺技音」が鳴ります。"
-            ]
-          },
-          {
-            "display_index": 9,
-            "panel_id": "p10",
+            "panel_id": "p11",
             "source_ids": [19],
             "furigana_ids": [],
             "japanese_items": ["対応表"]
           },
           {
-            "display_index": 10,
-            "panel_id": "p11",
+            "display_index": 9,
+            "panel_id": "p12",
             "source_ids": [20],
             "furigana_ids": [],
             "japanese_items": [
@@ -4052,77 +3927,84 @@
             ]
           },
           {
-            "display_index": 11,
-            "source_ids": [3],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 12,
+            "display_index": -1,
             "source_ids": [5],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 13,
+            "display_index": 10,
             "source_ids": [6],
             "furigana_ids": []
           },
           {
-            "display_index": 14,
+            "display_index": 11,
             "source_ids": [7],
             "furigana_ids": []
           },
           {
-            "display_index": 15,
+            "display_index": -1,
             "source_ids": [8],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 16,
+            "display_index": 12,
             "source_ids": [9],
             "furigana_ids": []
           },
           {
-            "display_index": 17,
+            "display_index": 13,
             "source_ids": [10],
             "furigana_ids": []
           },
           {
-            "display_index": 18,
+            "display_index": 14,
             "source_ids": [13],
             "furigana_ids": []
           },
           {
-            "display_index": 19,
+            "display_index": 15,
             "source_ids": [15],
             "furigana_ids": []
           },
           {
-            "display_index": 20,
+            "display_index": 16,
+            "source_ids": [16],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 17,
+            "source_ids": [17],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 18,
             "source_ids": [18],
             "furigana_ids": []
           },
           {
-            "display_index": 21,
+            "display_index": 19,
             "source_ids": [21],
             "furigana_ids": []
           },
           {
-            "display_index": 22,
+            "display_index": 20,
             "source_ids": [22],
             "furigana_ids": []
           },
           {
-            "display_index": 23,
+            "display_index": 21,
             "source_ids": [23],
             "furigana_ids": []
           },
           {
-            "display_index": 24,
+            "display_index": 22,
             "source_ids": [24],
             "furigana_ids": []
           },
           {
-            "display_index": 25,
+            "display_index": 23,
             "source_ids": [25],
             "furigana_ids": []
           }
@@ -4458,9 +4340,9 @@
           "layout": "panel"
         },
         {
-          "text": "ゴーカイガン",
-          "translation": "Gokai Gun",
-          "bbox": [0.03099251842498779, 0.1079, 0.08040748157501221, 0.022378710961341863],
+          "text": "1 トリガーを押します。\nLED (銃口)がオレンジ色に発光し、 「通常攻撃音」 が鳴ります。\n※トリガーを押すごとにLEDの発光する色が変わります。\nLED (銃口)",
+          "translation": "• 1 Press the trigger.\n• The LED (muzzle) lights orange and the \"normal attack\" sound plays.\n• Each time you press the trigger, the LED's color changes.",
+          "bbox": [0.0327, 0.16839117860794067, 0.2805, 0.09550882139205935],
           "layout": "panel"
         },
         {
@@ -4471,7 +4353,7 @@
         },
         {
           "text": "3 キーを捻ります。\nLEDがキーに対応した色に発光し、\n「効果音」が鳴ります。",
-          "translation": "• 3 Turn the key.\n• The LED lights in the color corresponding to the key, and a \"sound effect\" will play.",
+          "translation": "• 3 Turn the key.\n• The LED lights the color that matches the key, and a sound effect plays.",
           "bbox": [0.7599, 0.05775030261278152, 0.17749999999999988, 0.060449697387218476],
           "layout": "panel"
         },
@@ -4488,11 +4370,9 @@
           "layout": "panel"
         },
         {
-          "text": "1 ロック解除ボタンを押します。\nシリンダーが上がり、 LEDが白色に発光し、\n「効果音」が鳴ります。",
-          "translation": "• 1 Press the unlock button.\n• The cylinder rises, the LED lights white, and a \"sound effect\" will play.",
-          "bbox": [
-            0.26998354053497314, 0.6230000000000001, 0.20351645946502683, 0.06229999999999991
-          ],
+          "text": "②トリガーを押します。\n→LEDとLED(銃口)がキーに対応した色に\n発光し、「必殺技音」が鳴ります。",
+          "translation": "• ② Press the trigger.\n• → The LEDs, including the muzzle LED, light in the color that matches the key, and the \"special attack\" sound plays.",
+          "bbox": [0.7535000000000001, 0.5668000000000001, 0.1842999999999999, 0.0603999999999999],
           "layout": "panel"
         },
         {
@@ -4503,35 +4383,16 @@
         },
         {
           "text": "| ゴーカイグリーン 緑\nゴーカイピンク 桃",
-          "translation": "• Gokai Green → Green\n• Gokai Pink → Peach",
+          "translation": "• Gokai Green — green\n• Gokai Pink — peach",
           "bbox": [
             0.08229649370908737, 0.797774504184723, 0.0885066254734993, 0.035648086547851454
           ],
           "layout": "panel"
         },
         {
-          "text": "4 ① シリンダーを倒します。\nLEDがキー対応した色に発光します。\nその後、「必殺技待機音」 が鳴ります。\n※LEDとLED (銃口)は発光しません。",
-          "translation": "• 4-1 Fold down the cylinder.\n• The LED lights up in the color corresponding to the key.\n• After that, the \"special move standby sound\" will play.\n• Note: The LED and the LED (muzzle) will not light.",
-          "bbox": [
-            0.5316000000000001, 0.5668000000000001, 0.18601797809600817, 0.07739999999999991
-          ],
-          "layout": "panel"
-        },
-        {
-          "text": "②トリガーを押します。\n→LEDとLED(銃口)がキーに対応した色に\n発光し、「必殺技音」が鳴ります。",
-          "translation": "• 2. Pull the trigger.\n• → The LED and the LED (muzzle) will light in the color corresponding to the key, and the “special move” sound will play.",
-          "bbox": [0.7535000000000001, 0.5668000000000001, 0.1842999999999999, 0.0603999999999999],
-          "layout": "panel"
-        },
-        {
-          "text": "1 トリガーを押します。\nLED (銃口)がオレンジ色に発光し、 「通常攻撃音」 が鳴ります。\n※トリガーを押すごとにLEDの発光する色が変わります。",
-          "translation": "1 Press the trigger.\nLED (muzzle) lights orange and the \"standard attack sound\" plays.\n*The LED color changes each time the trigger is pressed.",
-          "bbox": [0.0342, 0.1699, 0.2775, 0.0574]
-        },
-        {
-          "text": "LED (銃口)",
-          "translation": "LED (muzzle)",
-          "bbox": [0.0829, 0.2515, 0.0428, 0.0109]
+          "text": "ゴーカイガン",
+          "translation": "Gokai Gun",
+          "bbox": [0.0325, 0.1094, 0.0774, 0.0193]
         },
         {
           "text": "asmo",
@@ -4539,19 +4400,14 @@
           "bbox": [0.0714, 0.3712, 0.062, 0.0417]
         },
         {
-          "text": "LED",
-          "translation": "LED",
-          "bbox": [0.1714, 0.3301, 0.0175, 0.0103]
-        },
-        {
           "text": "トリガー",
           "translation": "Trigger",
           "bbox": [0.3194, 0.3452, 0.0282, 0.0091]
         },
         {
-          "text": "7",
-          "translation": "7",
-          "bbox": [0.0197, 0.9661, 0.0056, 0.0127]
+          "text": "1 ロック解除ボタンを押します。",
+          "translation": "1 Press the unlock button.",
+          "bbox": [0.2715, 0.6245, 0.183, 0.0206]
         },
         {
           "text": "ゴーカイレッド 赤\nゴーカイブルー 青\nゴーカイイエロー 黄",
@@ -4564,9 +4420,19 @@
           "bbox": [0.159, 0.8168, 0.0881, 0.0326]
         },
         {
+          "text": "シリンダーが上がり、 LEDが白色に発光し、\n「効果音」が鳴ります。",
+          "translation": "The cylinder rises, the LED lights white, and an effect sound plays.",
+          "bbox": [0.3006, 0.6518, 0.1714, 0.032]
+        },
+        {
           "text": "シリンダー",
           "translation": "Cylinder",
           "bbox": [0.3942, 0.7261, 0.0368, 0.0091]
+        },
+        {
+          "text": "4 ① シリンダーを倒します。\nLEDがキー対応した色に発光します。\nその後、「必殺技待機音」 が鳴ります。\n※LEDとLED (銃口)は発光しません。",
+          "translation": "4 ① Tilt the cylinder.\nThe LED lights in the color corresponding to the key.\nAfter that, the \"special move standby sound\" plays.\n*Note: LED and LED (muzzle) will not light.",
+          "bbox": [0.5331, 0.5683, 0.183, 0.0744]
         },
         {
           "text": "A",
@@ -4592,11 +4458,6 @@
           "text": "corn",
           "translation": "corn",
           "bbox": [0.932, 0.8222, 0.0282, 0.0139]
-        },
-        {
-          "text": "8",
-          "translation": "8",
-          "bbox": [0.9739, 0.9686, 0.006, 0.0091]
         }
       ],
       "image": "pages/page-4.webp",
@@ -4768,61 +4629,53 @@
             },
             {
               "id": "p2",
-              "kind": "heading",
-              "source_ids": [5]
+              "kind": "prose",
+              "source_ids": [6, 7]
             },
             {
-              "id": "p4",
+              "id": "p3",
               "kind": "prose",
               "source_ids": [2]
             },
             {
-              "id": "p5",
+              "id": "p4",
               "kind": "prose",
               "source_ids": [3, 4]
             },
             {
-              "id": "p6",
+              "id": "p5",
               "kind": "heading",
               "source_ids": [11]
             },
             {
-              "id": "p7",
+              "id": "p6",
               "kind": "heading",
               "source_ids": [12]
             },
             {
-              "id": "p8",
+              "id": "p9",
               "kind": "prose",
-              "source_ids": [13, 20]
+              "source_ids": [23]
             },
             {
-              "id": "p9",
+              "id": "p10",
               "kind": "heading",
               "source_ids": [15]
             },
             {
-              "id": "p10-b",
+              "id": "p11-b",
               "kind": "prose",
               "source_ids": [17, 18]
-            },
-            {
-              "id": "p11",
-              "kind": "prose",
-              "source_ids": [22]
-            },
-            {
-              "id": "p12",
-              "kind": "prose",
-              "source_ids": [23]
             }
           ],
           "furigana": [],
           "notes": [
-            "Source 11 contains both the lower-section heading and explanatory precautions, but OCR provides them as one region, so it is kept together as a heading panel to avoid splitting a source ID. Diagram labels and page numbers are left ungrouped.",
-            "Retained p10 source IDs [16] unchanged: illustration-mask check",
-            "Panel p3 retained original English after failed automatic checks"
-          ]
+            "Source 11 includes both the lower-section heading and adjacent explanatory notes in one OCR region; grouped as a heading due to inseparable region content.",
+            "Retained p11 source IDs [16] unchanged: illustration-mask check",
+            "Panel p7 retained original English after failed automatic checks",
+            "Panel p8 retained original English after failed automatic checks"
+          ],
+          "native_artwork": [9, 14, 29]
         },
         "mapping": [
           {
@@ -4842,20 +4695,24 @@
           {
             "display_index": 2,
             "panel_id": "p2",
-            "source_ids": [5],
+            "source_ids": [6, 7],
             "furigana_ids": [],
-            "japanese_items": ["ゴーカイガン"]
+            "japanese_items": [
+              "1 トリガーを押します。",
+              "LED（銃口）がオレンジ色に発光し、「通常攻撃音」が鳴ります。",
+              "※トリガーを押すごとにLEDの発光する色が変わります。"
+            ]
           },
           {
             "display_index": 3,
-            "panel_id": "p4",
+            "panel_id": "p3",
             "source_ids": [2],
             "furigana_ids": [],
             "japanese_items": ["2キーを挿入します。"]
           },
           {
             "display_index": 4,
-            "panel_id": "p5",
+            "panel_id": "p4",
             "source_ids": [3, 4],
             "furigana_ids": [],
             "japanese_items": [
@@ -4865,7 +4722,7 @@
           },
           {
             "display_index": 5,
-            "panel_id": "p6",
+            "panel_id": "p5",
             "source_ids": [11],
             "furigana_ids": [],
             "japanese_items": [
@@ -4874,50 +4731,14 @@
           },
           {
             "display_index": 6,
-            "panel_id": "p7",
+            "panel_id": "p6",
             "source_ids": [12],
             "furigana_ids": [],
             "japanese_items": ["~必殺技遊び~"]
           },
           {
             "display_index": 7,
-            "panel_id": "p8",
-            "source_ids": [13, 20],
-            "furigana_ids": [],
-            "japanese_items": [
-              "1 ロック解除ボタンを押します。",
-              "シリンダーが上がり、LEDが白色に発光し、「効果音」が鳴ります。"
-            ]
-          },
-          {
-            "display_index": 8,
             "panel_id": "p9",
-            "source_ids": [15],
-            "furigana_ids": [],
-            "japanese_items": ["対応表"]
-          },
-          {
-            "display_index": 9,
-            "panel_id": "p10-b",
-            "source_ids": [17, 18],
-            "furigana_ids": [],
-            "japanese_items": ["ゴーカイグリーン→緑", "ゴーカイピンク→桃"]
-          },
-          {
-            "display_index": 10,
-            "panel_id": "p11",
-            "source_ids": [22],
-            "furigana_ids": [],
-            "japanese_items": [
-              "4 ① シリンダーを倒します。",
-              "LEDがキー対応した色に発光します。",
-              "その後、「必殺技待機音」が鳴ります。",
-              "※LEDとLED（銃口）は発光しません。"
-            ]
-          },
-          {
-            "display_index": 11,
-            "panel_id": "p12",
             "source_ids": [23],
             "furigana_ids": [],
             "japanese_items": [
@@ -4926,86 +4747,109 @@
             ]
           },
           {
-            "display_index": 12,
-            "source_ids": [6],
+            "display_index": 8,
+            "panel_id": "p10",
+            "source_ids": [15],
+            "furigana_ids": [],
+            "japanese_items": ["対応表"]
+          },
+          {
+            "display_index": 9,
+            "panel_id": "p11-b",
+            "source_ids": [17, 18],
+            "furigana_ids": [],
+            "japanese_items": ["ゴーカイグリーン　緑", "ゴーカイピンク　桃"]
+          },
+          {
+            "display_index": 10,
+            "source_ids": [5],
             "furigana_ids": []
           },
           {
-            "display_index": 13,
-            "source_ids": [7],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 14,
+            "display_index": 11,
             "source_ids": [8],
             "furigana_ids": []
           },
           {
-            "display_index": 15,
+            "display_index": -1,
             "source_ids": [9],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 16,
+            "display_index": 12,
             "source_ids": [10],
             "furigana_ids": []
           },
           {
-            "display_index": 17,
-            "source_ids": [14],
+            "display_index": 13,
+            "source_ids": [13],
             "furigana_ids": []
           },
           {
-            "display_index": 18,
+            "display_index": -1,
+            "source_ids": [14],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
+          },
+          {
+            "display_index": 14,
             "source_ids": [16],
             "furigana_ids": []
           },
           {
-            "display_index": 19,
+            "display_index": 15,
             "source_ids": [19],
             "furigana_ids": []
           },
           {
-            "display_index": 20,
+            "display_index": 16,
+            "source_ids": [20],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 17,
             "source_ids": [21],
             "furigana_ids": []
           },
           {
-            "display_index": 21,
+            "display_index": 18,
+            "source_ids": [22],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 19,
             "source_ids": [24],
             "furigana_ids": []
           },
           {
-            "display_index": 22,
+            "display_index": 20,
             "source_ids": [25],
             "furigana_ids": []
           },
           {
-            "display_index": 23,
+            "display_index": 21,
             "source_ids": [26],
             "furigana_ids": []
           },
           {
-            "display_index": 24,
+            "display_index": 22,
             "source_ids": [27],
             "furigana_ids": []
           },
           {
-            "display_index": 25,
+            "display_index": 23,
             "source_ids": [28],
             "furigana_ids": []
           },
           {
-            "display_index": 26,
+            "display_index": -1,
             "source_ids": [29],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           }
         ],
-        "uncertainties": [
-          "The phrase \"LEDとLED（銃口）\" is ambiguous in the source — it is unclear which two separate LEDs are meant.",
-          "The verb 倒します for シリンダー could be translated as \"fold down\", \"tilt\", or \"push down\" depending on the mechanism; rendered here as \"fold down.\"",
-          "Translation of 必殺技待機音 as \"special move standby sound\" reflects literal meaning; exact game/localized term may differ."
-        ],
+        "uncertainties": [],
         "ocr_lines": [
           {
             "id": 0,
@@ -5336,40 +5180,22 @@
         },
         {
           "text": "※ゴーカイサーベル、ゴーカイガン、\n下記表のキーのうち2種を使用します。\n※どの組み合わせでキーを使用した場合も、\n同様の遊びが可能です。\n※キーに対応した色でそれぞれのLEDが\n発光します。\n詳しくは下記表をご確認ください。\n※①~③をゴーカイガンも同様に行います。",
-          "translation": "• Gokaikaiserver and Gokaigun use two kinds of the keys shown in the table below.\n• Regardless of which combination of keys is used, the same play functions are available.\n• Each LED lights in the color corresponding to its key. See the table below for details.\n• Steps 1–3 are performed the same way with the Gokaigun.",
+          "translation": "• Use the Gokai Saber or Gokai Gun with two types of keys from the table below.\n• Any combination of keys can be used and allows the same play.\n• Each LED lights in the color that corresponds to its key.\n• See the table below for details.\n• Perform steps ①–③ the same way with the Gokai Gun.",
           "bbox": [0.045899999999999996, 0.1176, 0.20517264959812165, 0.1481],
           "layout": "panel"
         },
         {
-          "text": "対応表",
-          "translation": "Color Correspondence Table",
-          "bbox": [0.1173, 0.3080526099205017, 0.02693504912853241, 0.01454739007949829],
-          "layout": "panel"
-        },
-        {
-          "text": "ゴーカイレッド 赤\n| ゴーカイブルー 青\n| ゴーカイイエロー 黄\n| ゴーカイグリーン 緑\nゴーカイピンク 桃",
-          "translation": "• Gokai Red → Red\n• Gokai Blue → Blue\n• Gokai Yellow → Yellow\n• Gokai Green → Green\n• Gokai Pink → Peach",
-          "bbox": [0.08226068621873855, 0.328, 0.09063931378126144, 0.10220000000000001],
-          "layout": "panel"
-        },
-        {
-          "text": "1 ロック解除ボタンを押します。\nシリンダーが上がり、 LEDが白色に発光し、\n「効果音」が鳴ります。",
-          "translation": "• 1 Press the unlock button.\n• The cylinder rises, the LED lights white, and a “sound effect” plays.",
-          "bbox": [0.2702948853969574, 0.1363, 0.2034273235797882, 0.0604841579914093],
-          "layout": "panel"
-        },
-        {
-          "text": "4 ① シリンダーを同時に倒します。\nLEDがキーに対応した色に発光し、\nその後、LEDの発光する色が変わり、\n「必殺技待機音」が鳴ります。\n※LED (刃)とLED (銃口)が\nキーに対応した色で発光します。",
-          "translation": "• 4 ① Push the cylinders down at the same time.\n• The LEDs will light in the color corresponding to the key, then the LED color will change and the \"Special Move Ready\" sound will play.\n• ※ The LED (blade) and LED (muzzle) will light in the color corresponding to the key.",
+          "text": "対応表\nゴーカイレッド 赤\n| ゴーカイブルー 青\n| ゴーカイイエロー 黄\n| ゴーカイグリーン 緑\nゴーカイピンク 桃",
+          "translation": "• Reference chart\n• Gokai Red → Red\n• Gokai Blue → Blue\n• Gokai Yellow → Yellow\n• Gokai Green → Green\n• Gokai Pink → Pink",
           "bbox": [
-            0.5309786305427552, 0.05895949086546898, 0.19872651386260975, 0.11064050913453102
+            0.08226068621873855, 0.3080526099205017, 0.09063931378126144, 0.12214739007949832
           ],
           "layout": "panel"
         },
         {
-          "text": "②トリガーを同時に押します。\n→LEDとLED (刃)、LED (銃口)が\nキーに対応した色に発光し、\n「特殊必殺技音」が鳴ります。",
-          "translation": "• 2. Press the triggers at the same time.\n• → The LED and LED (blade), LED (muzzle) will light up in the color corresponding to the key, and the “Special Finishing Move Sound” will play.",
-          "bbox": [0.7536, 0.06077327510714531, 0.16713075914382924, 0.07562672489285469],
+          "text": "1 ロック解除ボタンを押します。\nシリンダーが上がり、 LEDが白色に発光し、\n「効果音」が鳴ります。",
+          "translation": "1 Press the unlock button. The cylinder rises, the LED lights white, and a \"sound effect\" plays.",
+          "bbox": [0.2702948853969574, 0.1363, 0.2034273235797882, 0.0604841579914093],
           "layout": "panel"
         },
         {
@@ -5381,10 +5207,33 @@
           "layout": "panel"
         },
         {
-          "text": "3 トリガーを押しながら\nキーを捻ります。\nLEDが白色に発光し、 「効果音」 が鳴ります。",
-          "translation": "• 3 While holding the trigger, turn the key.\n• The LED lights white and a \"sound effect\" plays.",
-          "bbox": [0.269, 0.5353803143501282, 0.2103, 0.06466863441467274],
+          "text": "4 ① シリンダーを同時に倒します。\nLEDがキーに対応した色に発光し、\nその後、LEDの発光する色が変わり、\n「必殺技待機音」が鳴ります。\n※LED (刃)とLED (銃口)が\nキーに対応した色で発光します。",
+          "translation": "• 4-1 Fold both cylinders down at the same time.\n• The LED will light in the color corresponding to the key; then the LED’s color will change and the “Special Move Standby” sound will play.\n• The LED (blade) and the LED (muzzle) will light in the color corresponding to the key.",
+          "bbox": [
+            0.5309786305427552, 0.05895949086546898, 0.19872651386260975, 0.11064050913453102
+          ],
           "layout": "panel"
+        },
+        {
+          "text": "②トリガーを同時に押します。\n→LEDとLED (刃)、LED (銃口)が\nキーに対応した色に発光し、\n「特殊必殺技音」が鳴ります。",
+          "translation": "2. Press both triggers at the same time. The LEDs and the blade LED and barrel LED will light in the color matching the key, and the “special finishing move” sound will play.",
+          "bbox": [0.7536, 0.06077327510714531, 0.16713075914382924, 0.07562672489285469],
+          "layout": "panel"
+        },
+        {
+          "text": "3 トリガーを押しながら",
+          "translation": "3 While pressing the trigger",
+          "bbox": [0.2705, 0.5369, 0.1406, 0.0187]
+        },
+        {
+          "text": "キーを捻ります。",
+          "translation": "Turn the key.",
+          "bbox": [0.2915, 0.5586, 0.091, 0.02]
+        },
+        {
+          "text": "LEDが白色に発光し、 「効果音」 が鳴ります。",
+          "translation": "The LED lights white and a sound effect plays.",
+          "bbox": [0.3009, 0.5852, 0.1769, 0.0133]
         },
         {
           "text": "Antillas Ini\ndasw",
@@ -5395,11 +5244,6 @@
           "text": "de",
           "translation": "de",
           "bbox": [0.794, 0.5611, 0.0256, 0.0248]
-        },
-        {
-          "text": "Gonsequa",
-          "translation": "Gonsequa",
-          "bbox": [0.8179, 0.5586, 0.0799, 0.0272]
         },
         {
           "text": "fa\ncja \nConte",
@@ -5415,11 +5259,6 @@
           "text": "orn",
           "translation": "orn",
           "bbox": [0.9368, 0.8235, 0.0244, 0.0121]
-        },
-        {
-          "text": "10",
-          "translation": "10",
-          "bbox": [0.9748, 0.968, 0.0094, 0.0103]
         }
       ],
       "image": "pages/page-5.webp",
@@ -5551,45 +5390,36 @@
             },
             {
               "id": "p3",
-              "kind": "heading",
-              "source_ids": [8]
+              "kind": "prose",
+              "source_ids": [8, 9]
             },
             {
               "id": "p4",
               "kind": "prose",
-              "source_ids": [9]
+              "source_ids": [4]
             },
             {
               "id": "p5",
               "kind": "prose",
-              "source_ids": [4]
-            },
-            {
-              "id": "p6",
-              "kind": "prose",
-              "source_ids": [5]
+              "source_ids": [10]
             },
             {
               "id": "p7",
               "kind": "prose",
-              "source_ids": [6]
+              "source_ids": [5]
             },
             {
               "id": "p8",
               "kind": "prose",
-              "source_ids": [10]
-            },
-            {
-              "id": "p9",
-              "kind": "prose",
-              "source_ids": [11, 12, 13]
+              "source_ids": [6]
             }
           ],
           "furigana": [],
           "notes": [
-            "Source regions 14-19 appear to be faint background illustration/map text rather than manual instructions and are left ungrouped.",
-            "Source 20 is the page number and is left ungrouped."
-          ]
+            "OCR regions 14–19 appear to be faint background map/art text, not main instructions.",
+            "Panel p6 retained original English after failed automatic checks"
+          ],
+          "native_artwork": [16, 20]
         },
         "mapping": [
           {
@@ -5614,43 +5444,44 @@
             "japanese_items": [
               "※ゴーカイサーベル、ゴーカイガン、下記表のキーのうち2種を使用します。",
               "※どの組み合わせでキーを使用した場合も、同様の遊びが可能です。",
-              "※キーに対応した色でそれぞれのLEDが発光します。詳しくは下記表をご確認ください。",
+              "※キーに対応した色でそれぞれのLEDが発光します。",
+              "詳しくは下記表をご確認ください。",
               "※①〜③をゴーカイガンも同様に行います。"
             ]
           },
           {
             "display_index": 3,
             "panel_id": "p3",
-            "source_ids": [8],
+            "source_ids": [8, 9],
             "furigana_ids": [],
-            "japanese_items": ["対応表"]
+            "japanese_items": [
+              "対応表",
+              "ゴーカイレッド 赤",
+              "ゴーカイブルー 青",
+              "ゴーカイイエロー 黄",
+              "ゴーカイグリーン 緑",
+              "ゴーカイピンク 桃"
+            ]
           },
           {
             "display_index": 4,
             "panel_id": "p4",
-            "source_ids": [9],
+            "source_ids": [4],
             "furigana_ids": [],
             "japanese_items": [
-              "ゴーカイレッド➡赤",
-              "ゴーカイブルー➡青",
-              "ゴーカイイエロー➡黄",
-              "ゴーカイグリーン➡緑",
-              "ゴーカイピンク➡桃"
+              "1 ロック解除ボタンを押します。シリンダーが上がり、LEDが白色に発光し、「効果音」が鳴ります。"
             ]
           },
           {
             "display_index": 5,
             "panel_id": "p5",
-            "source_ids": [4],
+            "source_ids": [10],
             "furigana_ids": [],
-            "japanese_items": [
-              "1 ロック解除ボタンを押します。",
-              "シリンダーが上がり、LEDが白色に発光し、「効果音」が鳴ります。"
-            ]
+            "japanese_items": ["2 キーを挿入します。"]
           },
           {
             "display_index": 6,
-            "panel_id": "p6",
+            "panel_id": "p7",
             "source_ids": [5],
             "furigana_ids": [],
             "japanese_items": [
@@ -5661,45 +5492,43 @@
           },
           {
             "display_index": 7,
-            "panel_id": "p7",
+            "panel_id": "p8",
             "source_ids": [6],
             "furigana_ids": [],
             "japanese_items": [
-              "②トリガーを同時に押します。",
-              "→LEDとLED (刃)、LED (銃口)がキーに対応した色に発光し、「特殊必殺技音」が鳴ります。"
+              "②トリガーを同時に押します。→LEDとLED(刃)、LED(銃口)がキーに対応した色に発光し、「特殊必殺技音」が鳴ります。"
             ]
           },
           {
             "display_index": 8,
-            "panel_id": "p8",
-            "source_ids": [10],
-            "furigana_ids": [],
-            "japanese_items": ["2 キーを挿入します。"]
+            "source_ids": [11],
+            "furigana_ids": []
           },
           {
             "display_index": 9,
-            "panel_id": "p9",
-            "source_ids": [11, 12, 13],
-            "furigana_ids": [],
-            "japanese_items": [
-              "3 トリガーを押しながらキーを捻ります。",
-              "LEDが白色に発光し、「効果音」が鳴ります。"
-            ]
+            "source_ids": [12],
+            "furigana_ids": []
           },
           {
             "display_index": 10,
-            "source_ids": [14],
+            "source_ids": [13],
             "furigana_ids": []
           },
           {
             "display_index": 11,
-            "source_ids": [15],
+            "source_ids": [14],
             "furigana_ids": []
           },
           {
             "display_index": 12,
-            "source_ids": [16],
+            "source_ids": [15],
             "furigana_ids": []
+          },
+          {
+            "display_index": -1,
+            "source_ids": [16],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
             "display_index": 13,
@@ -5717,14 +5546,13 @@
             "furigana_ids": []
           },
           {
-            "display_index": 16,
+            "display_index": -1,
             "source_ids": [20],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           }
         ],
-        "uncertainties": [
-          "The original lists \"LEDとLED (刃)、LED (銃口)\" — the exact grouping or distinction between the first two \"LED\" items is unclear from the scan."
-        ],
+        "uncertainties": [],
         "ocr_lines": [
           {
             "id": 0,
@@ -6053,14 +5881,8 @@
           "layout": "panel"
         },
         {
-          "text": "1 ロック解除ボタンを押します。\n→LEDが白色に発光し、 「効果音」が鳴ります。",
-          "translation": "1 Press the lock release button. → The LED lights white, and an \"effect sound\" will play.",
-          "bbox": [0.0335, 0.154485489487648, 0.2081709407567978, 0.04411451051235199],
-          "layout": "panel"
-        },
-        {
           "text": "4 シリンダーを倒します。\n「必殺技待機音」が鳴ります。",
-          "translation": "• 4 Tilt the cylinder.\n• 'Special Move standby' sound will play.",
+          "translation": "• 4 Tilt the cylinder.\n• The \"Special Move Ready Sound\" will play.",
           "bbox": [
             0.5309786305427552, 0.059564086854457854, 0.1496213694572448, 0.042935913145542154
           ],
@@ -6068,7 +5890,7 @@
         },
         {
           "text": "2 キーを挿入します。",
-          "translation": "2 Insert the key.",
+          "translation": "Step 2: Insert the key.",
           "bbox": [
             0.030978634268045424, 0.5450537905693055, 0.1269316277205944, 0.022347071647643935
           ],
@@ -6076,7 +5898,7 @@
         },
         {
           "text": "5 トリガーを押します。\n→LEDとLED (刃) が青色に発光し、\n「特殊必殺技音 (5刀流)」 が鳴ります。",
-          "translation": "• 5 Press the trigger.\n• → LED and LED (blade) light up blue, and the “Special Finishing Move Sound (5-Sword Style)” plays.",
+          "translation": "• 5 Press the trigger.\n• The LED and the LED (blade) light up blue, and the “Special Finishing Move Sound (5-Sword Style)” plays.",
           "bbox": [
             0.5314000000000001, 0.5438000000000001, 0.18209999999999993, 0.06159999999999988
           ],
@@ -6084,14 +5906,14 @@
         },
         {
           "text": "※5回連続の読み込みに失敗した場合、1からやり直してください。",
-          "translation": "If the reading fails five times in a row, please start over from 1.",
+          "translation": "If a read fails five times in a row, start over from 1.",
           "bbox": [0.5258504257202149, 0.9199, 0.27014957427978503, 0.015699999999999936],
           "layout": "panel"
         },
         {
-          "text": "MAR",
-          "translation": "MAR",
-          "bbox": [0.7897, 0.0411, 0.1423, 0.055]
+          "text": "1 ロック解除ボタンを押します。\n→LEDが白色に発光し、 「効果音」が鳴ります。",
+          "translation": "1 Press the lock release button.\n→The LED lights white and the \"effect sound\" plays.",
+          "bbox": [0.035, 0.156, 0.2051, 0.0411]
         },
         {
           "text": "35回連続キーを捻ります。",
@@ -6104,34 +5926,9 @@
           "bbox": [0.2906, 0.5738, 0.1953, 0.0127]
         },
         {
-          "text": "11",
-          "translation": "11",
-          "bbox": [0.0154, 0.9667, 0.0103, 0.0109]
-        },
-        {
-          "text": "S.S.Est",
-          "translation": "S.S.Est",
-          "bbox": [0.2863, 0.6572, 0.0397, 0.0985]
-        },
-        {
           "text": "Antillas\nel de Fonuqua",
           "translation": "Antillas\nel de Fonuqua",
           "bbox": [0.7573, 0.5193, 0.1415, 0.0707]
-        },
-        {
-          "text": "MaConte",
-          "translation": "MaConte",
-          "bbox": [0.8372, 0.6112, 0.0778, 0.0574]
-        },
-        {
-          "text": "Raws",
-          "translation": "Raws",
-          "bbox": [0.5795, 0.8386, 0.0709, 0.0278]
-        },
-        {
-          "text": "12",
-          "translation": "12",
-          "bbox": [0.9744, 0.968, 0.009, 0.0097]
         }
       ],
       "image": "pages/page-6.webp",
@@ -6247,11 +6044,6 @@
               "source_ids": [5]
             },
             {
-              "id": "p4",
-              "kind": "prose",
-              "source_ids": [6]
-            },
-            {
               "id": "p5",
               "kind": "prose",
               "source_ids": [4, 0]
@@ -6274,9 +6066,10 @@
           ],
           "furigana": [],
           "notes": [
-            "OCR regions 1, 11, 13, 14, and 15 appear to be background/illustration artifacts rather than manual text.",
+            "Panel p4 retained original English after failed automatic checks",
             "Panel p7 retained original English after failed automatic checks"
-          ]
+          ],
+          "native_artwork": [1, 10, 11, 14, 15, 17]
         },
         "mapping": [
           {
@@ -6302,88 +6095,90 @@
           },
           {
             "display_index": 3,
-            "panel_id": "p4",
-            "source_ids": [6],
-            "furigana_ids": [],
-            "japanese_items": [
-              "1 ロック解除ボタンを押します。→LEDが白色に発光し、「効果音」が鳴ります。"
-            ]
-          },
-          {
-            "display_index": 4,
             "panel_id": "p5",
             "source_ids": [4, 0],
             "furigana_ids": [],
             "japanese_items": ["4 シリンダーを倒します。", "「必殺技待機音」が鳴ります。"]
           },
           {
-            "display_index": 5,
+            "display_index": 4,
             "panel_id": "p6",
             "source_ids": [7],
             "furigana_ids": [],
             "japanese_items": ["2 キーを挿入します。"]
           },
           {
-            "display_index": 6,
+            "display_index": 5,
             "panel_id": "p8",
             "source_ids": [12],
             "furigana_ids": [],
             "japanese_items": [
               "5 トリガーを押します。",
-              "→LEDとLED（刃）が青色に発光し、「特殊必殺技音（5刀流）」が鳴ります。"
+              "→LEDとLED (刃) が青色に発光し、「特殊必殺技音 (5刀流)」 が鳴ります。"
             ]
           },
           {
-            "display_index": 7,
+            "display_index": 6,
             "panel_id": "p9",
             "source_ids": [16],
             "furigana_ids": [],
             "japanese_items": ["※5回連続の読み込みに失敗した場合、1からやり直してください。"]
           },
           {
-            "display_index": 8,
+            "display_index": -1,
             "source_ids": [1],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
+          },
+          {
+            "display_index": 7,
+            "source_ids": [6],
             "furigana_ids": []
           },
           {
-            "display_index": 9,
+            "display_index": 8,
             "source_ids": [8],
             "furigana_ids": []
           },
           {
-            "display_index": 10,
+            "display_index": 9,
             "source_ids": [9],
             "furigana_ids": []
           },
           {
-            "display_index": 11,
+            "display_index": -1,
             "source_ids": [10],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 12,
+            "display_index": -1,
             "source_ids": [11],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 13,
+            "display_index": 10,
             "source_ids": [13],
             "furigana_ids": []
           },
           {
-            "display_index": 14,
+            "display_index": -1,
             "source_ids": [14],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 15,
+            "display_index": -1,
             "source_ids": [15],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 16,
+            "display_index": -1,
             "source_ids": [17],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           }
         ],
         "uncertainties": [],
@@ -6555,7 +6350,7 @@
         },
         {
           "text": "1 ロック解除ボタンを押します。\nLEDが白色に発光し、 「効果音」 が鳴ります。",
-          "translation": "• 1 Press the unlock button.\n• The LED will light white, and a \"sound effect\" will play.",
+          "translation": "• 1 Press the unlock button.\n• The LED lights white and a sound effect plays.",
           "bbox": [
             0.03268803587555885, 0.15388088977336883, 0.20983760568499565, 0.04051911022663118
           ],
@@ -6570,21 +6365,15 @@
           "layout": "panel"
         },
         {
-          "text": "2 キーを捻ります。\n→LEDがキーに対応した色に発光し、\n「効果音」が鳴ります。",
-          "translation": "• Turn the 2 key.\n• The LED lights in the color corresponding to the key, and a \"sound effect\" will play.",
-          "bbox": [0.0318, 0.548076759338379, 0.17781966061592103, 0.05562324066162094],
-          "layout": "panel"
-        },
-        {
           "text": "4 シリンダーを倒します。\n→LEDが白色に発光し、「効果音」が鳴ります。",
-          "translation": "• 4 Tilt the cylinder.\n• →The LED emits white light and a \"sound effect\" plays.",
+          "translation": "• 4 Tilt the cylinder.\n• The LED lights white and a sound effect plays.",
           "bbox": [0.5314000000000001, 0.5462629899978638, 0.2115529919624327, 0.04233701000213608],
           "layout": "panel"
         },
         {
-          "text": "13",
-          "translation": "13",
-          "bbox": [0.0158, 0.9674, 0.0085, 0.0103]
+          "text": "2 キーを捻ります。\n→LEDがキーに対応した色に発光し、\n「効果音」が鳴ります。",
+          "translation": "2 Turn the key.\n→ The LED will light in the color corresponding to the key, and a sound effect will play.",
+          "bbox": [0.0333, 0.5496, 0.1748, 0.0526]
         },
         {
           "text": "Coucit",
@@ -6610,11 +6399,6 @@
           "text": "da Conte",
           "translation": "da Conte",
           "bbox": [0.8436, 0.6149, 0.0735, 0.0556]
-        },
-        {
-          "text": "14",
-          "translation": "14",
-          "bbox": [0.9748, 0.9686, 0.0098, 0.0091]
         }
       ],
       "image": "pages/page-7.webp",
@@ -6700,11 +6484,6 @@
               "source_ids": [6]
             },
             {
-              "id": "p3",
-              "kind": "prose",
-              "source_ids": [2]
-            },
-            {
               "id": "p4",
               "kind": "prose",
               "source_ids": [8]
@@ -6712,8 +6491,10 @@
           ],
           "furigana": [],
           "notes": [
-            "Source 0 contains both the main heading and explanatory notes in one OCR region, so it is kept as a single heading panel."
-          ]
+            "Source 0 contains both the section heading and explanatory note text in one OCR region, so it cannot be split further.",
+            "Panel p3 retained original English after failed automatic checks"
+          ],
+          "native_artwork": [3, 11]
         },
         "mapping": [
           {
@@ -6744,16 +6525,6 @@
           },
           {
             "display_index": 3,
-            "panel_id": "p3",
-            "source_ids": [2],
-            "furigana_ids": [],
-            "japanese_items": [
-              "2 キーを捻ります。",
-              "LEDがキーに対応した色に発光し、「効果音」が鳴ります。"
-            ]
-          },
-          {
-            "display_index": 4,
             "panel_id": "p4",
             "source_ids": [8],
             "furigana_ids": [],
@@ -6763,39 +6534,46 @@
             ]
           },
           {
-            "display_index": 5,
-            "source_ids": [3],
+            "display_index": 4,
+            "source_ids": [2],
             "furigana_ids": []
           },
           {
-            "display_index": 6,
+            "display_index": -1,
+            "source_ids": [3],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
+          },
+          {
+            "display_index": 5,
             "source_ids": [4],
             "furigana_ids": []
           },
           {
-            "display_index": 7,
+            "display_index": 6,
             "source_ids": [5],
             "furigana_ids": []
           },
           {
-            "display_index": 8,
+            "display_index": 7,
             "source_ids": [7],
             "furigana_ids": []
           },
           {
-            "display_index": 9,
+            "display_index": 8,
             "source_ids": [9],
             "furigana_ids": []
           },
           {
-            "display_index": 10,
+            "display_index": 9,
             "source_ids": [10],
             "furigana_ids": []
           },
           {
-            "display_index": 11,
+            "display_index": -1,
             "source_ids": [11],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           }
         ],
         "uncertainties": [],

@@ -33,7 +33,7 @@
         },
         {
           "text": "取扱説明書 (本書)･･････1\nレンジャーキー.....各1\n(レッドバスター\nキョウリュウレッド\nトッキュウ1号\nアカニンジャー\nジュウオウイーグル\nシシレッド\nルパンレッド\nパトレン1号\nリュウソウレッド\nキラメイレッド\n・ゼンカイザー)",
-          "translation": "• Instruction manual (this book) — 1\n• Ranger Key — 1 each\n• (Red Buster\n• Kyoryu Red\n• Tokkyu 1\n• Aka Ninger\n• Juuou Eagle\n• Shishi Red\n• Lupin Red\n• Patren 1\n• Ryusoul Red\n• Kiramei Red\n• Zenkai-zer)",
+          "translation": "• Instruction manual (this book) — 1\n• Ranger Keys — one each\n• (Red Buster\n• Kyoryu Red\n• Tokkyu 1\n• Akaninja\n• Juou Eagle\n• Shishi Red\n• Lupin Red\n• Patren 1\n• Ryusoul Red\n• Kiramai Red\n• ZenkaiZer)",
           "bbox": [0.03526784783601761, 0.2621, 0.0992321521639824, 0.32709999999999995],
           "layout": "panel"
         },
@@ -45,7 +45,7 @@
         },
         {
           "text": "キーモードの状態です。\n両腕と脚を展開してから\n遊んでください。",
-          "translation": "This is the key mode. Please spread both arms and legs before playing.",
+          "translation": "This is key mode. Spread both arms and both legs before playing.",
           "bbox": [
             0.17036832427978515, 0.3364685580730438, 0.09023167572021484, 0.04353144192695618
           ],
@@ -59,7 +59,7 @@
         },
         {
           "text": "※ゼンカイザーキーを例に説明します。\n※別売りのモバイレーツ-MEMORIAL EDITION- を使用し、 「通常身モード」の状態で行います。",
-          "translation": "• Note: The ZenkaiZer Key is used as an example for explanation.\n• Note: Use the separately sold Mobiretsu - MEMORIAL EDITION - and perform this while in \"tsuujou-shin mode\".",
+          "translation": "• Using the Zenkai-zer Key as an example.\n• Use the separately sold Mobirates -MEMORIAL EDITION- and perform this while in “Normal Transformation Mode.”",
           "bbox": [
             0.6692994937896729, 0.039599999999999996, 0.288200506210327, 0.025999999999999995
           ],
@@ -67,25 +67,25 @@
         },
         {
           "text": "セリフボタンを\n押します。\n→変身アクション音が\n鳴ります。",
-          "translation": "• Press the speech button.\n• →A transformation action sound will play.",
+          "translation": "• Press the dialogue button.\n• A transformation action sound will play.",
           "bbox": [0.5461699471473694, 0.0874, 0.08213005285263053, 0.0754],
           "layout": "panel"
         },
         {
           "text": "レンジャーキー\n挿入口に\nレンジャーキーを\n挿入します。\n→挿入音が鳴ります。",
-          "translation": "• Insert the Ranger Key into the Ranger Key insertion slot.\n• An insertion sound will play.",
+          "translation": "• Insert the Ranger Key into the Ranger Key slot.\n• An insertion sound will play.",
           "bbox": [0.656, 0.08677085793018341, 0.08000189828872672, 0.0761559842824936],
           "layout": "panel"
         },
         {
           "text": "レンジャーキーを\n90° ひねります。\n→クロスボーンが開き、\nひねり音と\nレンジャーキーに\n応じた音声が鳴ります。",
-          "translation": "• Turn the Ranger Key 90°.\n• The crossbone opens, and a twisting sound and a voice corresponding to the Ranger Key will play.",
+          "translation": "Turn the Ranger Key 90°. The Cross Bone opens, a twisting sound plays, and a voice or sound corresponding to the Ranger Key is played.",
           "bbox": [0.7719, 0.08798004990816116, 0.09065173826217643, 0.09006166595220566],
           "layout": "panel"
         },
         {
           "text": "レンジャーキーを\n挿入した状態で\nエンターキーを押します。\nレンジャーキーに\n応じた音声が鳴ります。",
-          "translation": "• With the Ranger Key inserted, press the Enter key.\n• A voice corresponding to the Ranger Key will play.",
+          "translation": "Press the Enter key while the Ranger Key is inserted. A voice corresponding to the Ranger Key will play.",
           "bbox": [0.8899, 0.08737545019388199, 0.09279999999999988, 0.07615599173307419],
           "layout": "panel"
         },
@@ -97,19 +97,19 @@
         },
         {
           "text": "※ゼンカイザーキーを例に説明します。\n※別売りのモバイレーツ-MEMORIAL EDITION- を使用し、 「通常身モード」の状態で行います。",
-          "translation": "• Note: The ZenkaiZer Key is used as an example.\n• Note: Use the separately sold Mobirates - MEMORIAL EDITION - and perform this while in \"Normal Transformation Mode.\"",
+          "translation": "• We use the ZenkaiZer Key as an example.\n• Use the separately sold Mobirates -MEMORIAL EDITION- and perform this while it is in “Normal Transformation Mode.”",
           "bbox": [0.6692994937896729, 0.3836, 0.288200506210327, 0.025400000000000034],
           "layout": "panel"
         },
         {
           "text": "レンジャーキー挿入口に\nレンジャーキーを挿入します。\n→挿入音が鳴ります。",
-          "translation": "• Insert the ranger key into the ranger key slot.\n• →An insertion sound will play.",
+          "translation": "Insert the Ranger Key into the Ranger Key insertion slot. An insertion sound will play.",
           "bbox": [0.5465974912643433, 0.435, 0.10820250873565662, 0.04473458909988404],
           "layout": "panel"
         },
         {
           "text": "レンジャーキーを90° ひねります。\n→クロスボーンが開き、ひねり音と\nレンジャーキーに応じた\n音声が鳴ります。",
-          "translation": "• Turn the Ranger Key 90°.\n• → The Crossbone opens, and a twisting sound and a voice corresponding to the Ranger Key play.",
+          "translation": "• Turn the Ranger Key 90°.\n• The Cross Bone opens; a twisting sound plays and a voice corresponding to the Ranger Key will play.",
           "bbox": [0.6876834139823914, 0.4344, 0.12484691429138173, 0.05984486303329467],
           "layout": "panel"
         },
@@ -133,19 +133,19 @@
         },
         {
           "text": "●本商品は精密に作られています。 無理な力を加えたり、落としたりすると破損する恐れがあります。\n●プラスチック梱包材は開封後はすぐに捨ててください。\n●本商品には塗装部分がありますので、 保管の際には他のもの (樹脂製品や家具、 ソファー)と接触しないようにしてください。\n色が移る場合があります。\n●可動部分・取付部分を無理な方向に強く引っ張ったり、曲げたりしないでください。",
-          "translation": "• This product is precisely manufactured. Applying excessive force or dropping it may cause damage.\n• Dispose of plastic packing materials immediately after opening.\n• This product has painted surfaces; when storing, avoid contact with other items (plastic products, furniture, sofas). Color transfer may occur.\n• Do not forcefully pull or bend movable parts or attachment parts in unnatural directions.",
+          "translation": "• This product is made precisely. Applying excessive force or dropping it may cause damage.\n• Dispose of plastic packaging immediately after opening.\n• This product has painted surfaces. When storing it, avoid contact with other items (plastic products, furniture, sofas), as the color may transfer.\n• Do not strongly pull or bend movable parts or attachment parts in unnatural directions.",
           "bbox": [0.02799978597462177, 0.7548, 0.4408002140253782, 0.08104098958969108],
           "layout": "panel"
         },
         {
           "text": "※ゼンカイザーキーを例に説明します。",
-          "translation": "The Zenkai-zer Key is used as an example.",
+          "translation": "This explains using the ZenkaiZer Key as an example.",
           "bbox": [0.6692994937896729, 0.7246, 0.1137310652732848, 0.011499999999999844],
           "layout": "panel"
         },
         {
           "text": "レンジャーキー\n挿入口に\nレンジャーキーを\n挿入します。\n→挿入音が\n鳴ります。",
-          "translation": "• Ranger Key\n• Insert the Ranger Key into the insertion slot.\n• → An insertion sound will play.",
+          "translation": "• Ranger Key\n• Insert the Ranger Key into the slot.\n• An insertion sound will play.",
           "bbox": [
             0.5465974912643433, 0.7741952643394471, 0.06541983175277699, 0.09130473566055286
           ],
@@ -153,21 +153,33 @@
         },
         {
           "text": "レンジャーキーを\n90° ひねります。\nクロスボーンが開き、ひねり音と\n「DANGER! DANGER!\nでんじゃらす~!」が鳴ります。\n※音声は全て共通です。",
-          "translation": "• Turn the Ranger Key 90°.\n• The crossbone opens, and a twisting sound and “DANGER! DANGER! Denjarasu~!” play.\n• All voice lines are the same.",
+          "translation": "• Rotate the Ranger Key 90°.\n• The crossbone opens, and a twisting sound plus \"DANGER! DANGER! Denjarasu~!\" plays.\n• All voice lines are the same.",
           "bbox": [0.7475, 0.7741952643394471, 0.1248999999999999, 0.09127090263366688],
           "layout": "panel"
         },
         {
-          "text": "併せてご覧ください。\nモバイレーツ-MEMORIAL EDITION- のWEB取説は、コチラから!!",
-          "translation": "• Please also see the following.\n• The web manual for MOBAIRETSU - MEMORIAL EDITION - is available here!!",
-          "bbox": [0.04125331273674965, 0.8685, 0.3326466872632503, 0.03626482057571401],
+          "text": "併せてご覧ください。",
+          "translation": "Please also see.",
+          "bbox": [0.04125331273674965, 0.8685, 0.08984668726325035, 0.01570860910415639],
           "layout": "panel"
         },
         {
-          "text": "URL\n●画像はイメージです。",
-          "translation": "• URL\n• Image is for illustrative purposes.",
+          "text": "モバイレーツ-MEMORIAL EDITION- のWEB取説は、コチラから!!",
+          "translation": "The web instruction manual for Mobailetsu -MEMORIAL EDITION- is here!",
+          "bbox": [0.0421, 0.8866, 0.3318, 0.018164820575714002],
+          "layout": "panel"
+        },
+        {
+          "text": "https://toy.bandai.co.jp/manuals/pdf.php?id=2588450",
+          "translation": "https://toy.bandai.co.jp/manuals/pdf.php?id=2588450",
+          "bbox": [0.0716, 0.9325991377830506, 0.19370000000000004, 0.015100862216949396],
+          "layout": "panel"
+        },
+        {
+          "text": "●画像はイメージです。",
+          "translation": "Images are for illustrative purposes.",
           "bbox": [
-            0.02457952058315277, 0.9338000000000001, 0.06292047941684724, 0.030299999999999883
+            0.02457952058315277, 0.953155408859253, 0.06292047941684724, 0.010944591140746973
           ],
           "layout": "panel"
         },
@@ -342,11 +354,6 @@
           "bbox": [0.885, 0.6052, 0.0068, 0.0067]
         },
         {
-          "text": "10",
-          "translation": "10",
-          "bbox": [0.5708, 0.6511, 0.015, 0.0121]
-        },
-        {
           "text": "●本商品の対象年齢は15才以上です。 対象年齢未満のお子様には絶対に与えないでください。\n●小さな部品がありますので、小さなお子様が誤って飲み込まないように注意してください。 窒息などの危険があります。\n●尖った部分や鋭い部分がありますので、取扱や保管場所に注意してください。思わぬケガをする恐れがあります。",
           "translation": "● This product is for ages 15 and up. Do not give to children under the recommended age.\n● This product contains small parts. Be careful that small children do not accidentally swallow them. There is a risk of choking.\n● This product has pointed and/or sharp parts. Handle and store with care to avoid unexpected injury.",
           "bbox": [0.0333, 0.6844, 0.3882, 0.0375]
@@ -355,11 +362,6 @@
           "text": "お宝ナビゲート ※別売りのモバイレーツ・MEMORIAL EDITIONを使用し、「お宝ナビゲート」の状態で行います。",
           "translation": "Treasure Navigation *Perform this in \"Treasure Navigation\" mode using the Mobirates -MEMORIAL EDITION- (sold separately).",
           "bbox": [0.5485, 0.7261, 0.4066, 0.0284]
-        },
-        {
-          "text": "https://toy.bandai.co.jp/manuals/pdf.php?id=2588450",
-          "translation": "https://toy.bandai.co.jp/manuals/pdf.php?id=2588450",
-          "bbox": [0.0731, 0.9341, 0.1907, 0.0121]
         },
         {
           "text": "200",
@@ -960,22 +962,22 @@
               "source_ids": [60]
             },
             {
-              "id": "p16-a",
+              "id": "p16",
               "kind": "heading",
               "source_ids": [40]
             },
             {
-              "id": "p16-b",
+              "id": "p17",
               "kind": "heading",
               "source_ids": [41]
             },
             {
-              "id": "p17-a-b",
+              "id": "p18-a-b",
               "kind": "prose",
               "source_ids": [73]
             },
             {
-              "id": "p17-b",
+              "id": "p18-b",
               "kind": "prose",
               "source_ids": [74, 75]
             },
@@ -995,26 +997,36 @@
               "source_ids": [81, 82, 95]
             },
             {
-              "id": "p25-a",
+              "id": "p25-native-a",
               "kind": "prose",
-              "source_ids": [83, 84]
+              "source_ids": [83]
             },
             {
-              "id": "p25-b-b",
+              "id": "p25-native-b-native-a",
               "kind": "prose",
-              "source_ids": [86, 87]
+              "source_ids": [84]
+            },
+            {
+              "id": "p25-native-b-native-b",
+              "kind": "prose",
+              "source_ids": [85]
+            },
+            {
+              "id": "p26",
+              "kind": "prose",
+              "source_ids": [87]
             }
           ],
           "furigana": [],
           "notes": [
-            "Source 77 contains both the お宝ナビゲート heading and explanatory text in one OCR region, so it is kept as a heading panel.",
+            "No confirmed furigana found; candidate parent links appear to be OCR/region associations for main instruction text, not pronunciation guides.",
             "Conservative panel fallback: Panel p21 would mask unrelated source 76",
             "Retained p21 unchanged: Panel p21 would mask unrelated source 76",
             "Retained p4 source IDs [4] unchanged: illustration-mask check",
-            "Retained p17 source IDs [72] unchanged: illustration-mask check",
-            "Panel p15 retained original English after failed automatic checks",
-            "Panel p25-b-a retained original English after failed automatic checks"
-          ]
+            "Retained p18 source IDs [72] unchanged: illustration-mask check",
+            "Panel p15 retained original English after failed automatic checks"
+          ],
+          "native_artwork": [71, 86]
         },
         "mapping": [
           {
@@ -1042,16 +1054,16 @@
               "取扱説明書（本書）･･････1",
               "レンジャーキー･･････各1",
               "（レッドバスター",
-              "キョウリュウレッド",
-              "トッキュウ1号",
-              "アカニンジャー",
-              "ジュウオウイーグル",
-              "シシレッド",
-              "ルパンレッド",
-              "パトレン1号",
-              "リュウソウレッド",
-              "キラメイレッド",
-              "ゼンカイザー）"
+              "・キョウリュウレッド",
+              "・トッキュウ1号",
+              "・アカニンジャー",
+              "・ジュウオウイーグル",
+              "・シシレッド",
+              "・ルパンレッド",
+              "・パトレン1号",
+              "・リュウソウレッド",
+              "・キラメイレッド",
+              "・ゼンカイザー）"
             ]
           },
           {
@@ -1066,7 +1078,7 @@
             "panel_id": "p4-b",
             "source_ids": [6],
             "furigana_ids": [],
-            "japanese_items": ["キーモードの状態です。両腕と脚を展開してから遊んでください。"]
+            "japanese_items": ["キーモードの状態です。\n両腕と脚を展開してから\n遊んでください。"]
           },
           {
             "display_index": 5,
@@ -1108,8 +1120,7 @@
             "source_ids": [20, 26, 30, 36],
             "furigana_ids": [],
             "japanese_items": [
-              "レンジャーキーを90°ひねります。",
-              "→クロスボーンが開き、ひねり音とレンジャーキーに応じた音声が鳴ります。"
+              "レンジャーキーを90°ひねります。→クロスボーンが開き、ひねり音とレンジャーキーに応じた音声が鳴ります。"
             ]
           },
           {
@@ -1118,8 +1129,7 @@
             "source_ids": [24, 31, 37],
             "furigana_ids": [],
             "japanese_items": [
-              "レンジャーキーを挿入した状態でエンターキーを押します。",
-              "レンジャーキーに応じた音声が鳴ります。"
+              "レンジャーキーを挿入した状態でエンターキーを押します。レンジャーキーに応じた音声が鳴ります。"
             ]
           },
           {
@@ -1136,7 +1146,7 @@
             "furigana_ids": [],
             "japanese_items": [
               "※ゼンカイザーキーを例に説明します。",
-              "※別売りのモバイレーツ-MEMORIAL EDITION- を使用し、「通常変身モード」の状態で行います。"
+              "※別売りのモバイレーツ-MEMORIAL EDITION- を使用し、 「通常身モード」の状態で行います。"
             ]
           },
           {
@@ -1145,8 +1155,7 @@
             "source_ids": [58, 59],
             "furigana_ids": [],
             "japanese_items": [
-              "レンジャーキー挿入口にレンジャーキーを挿入します。",
-              "→挿入音が鳴ります。"
+              "レンジャーキー挿入口にレンジャーキーを挿入します。→挿入音が鳴ります。"
             ]
           },
           {
@@ -1155,34 +1164,34 @@
             "source_ids": [60],
             "furigana_ids": [],
             "japanese_items": [
-              "レンジャーキーを90°ひねります。",
+              "レンジャーキーを90° ひねります。",
               "→クロスボーンが開き、ひねり音とレンジャーキーに応じた音声が鳴ります。"
             ]
           },
           {
             "display_index": 15,
-            "panel_id": "p16-a",
+            "panel_id": "p16",
             "source_ids": [40],
             "furigana_ids": [],
             "japanese_items": ["△注意"]
           },
           {
             "display_index": 16,
-            "panel_id": "p16-b",
+            "panel_id": "p17",
             "source_ids": [41],
             "furigana_ids": [],
             "japanese_items": ["お買い上げのお客様へ 必ずお読みください。"]
           },
           {
             "display_index": 17,
-            "panel_id": "p17-a-b",
+            "panel_id": "p18-a-b",
             "source_ids": [73],
             "furigana_ids": [],
-            "japanese_items": ["《使用上の注意》"]
+            "japanese_items": ["〈使用上の注意〉"]
           },
           {
             "display_index": 18,
-            "panel_id": "p17-b",
+            "panel_id": "p18-b",
             "source_ids": [74, 75],
             "furigana_ids": [],
             "japanese_items": [
@@ -1223,210 +1232,223 @@
           },
           {
             "display_index": 22,
-            "panel_id": "p25-a",
-            "source_ids": [83, 84],
+            "panel_id": "p25-native-a",
+            "source_ids": [83],
             "furigana_ids": [],
-            "japanese_items": [
-              "併せてご覧ください。",
-              "モバイレーツ-MEMORIAL EDITION- のWEB取説は、コチラから!!"
-            ]
+            "japanese_items": ["併せてご覧ください。"]
           },
           {
             "display_index": 23,
-            "panel_id": "p25-b-b",
-            "source_ids": [86, 87],
+            "panel_id": "p25-native-b-native-a",
+            "source_ids": [84],
             "furigana_ids": [],
-            "japanese_items": ["URL", "画像はイメージです。"]
+            "japanese_items": ["モバイレーツ-MEMORIAL EDITION- のWEB取説は、コチラから!!"]
           },
           {
             "display_index": 24,
+            "panel_id": "p25-native-b-native-b",
+            "source_ids": [85],
+            "furigana_ids": [],
+            "japanese_items": ["https://toy.bandai.co.jp/manuals/pdf.php?id=2588450"]
+          },
+          {
+            "display_index": 25,
+            "panel_id": "p26",
+            "source_ids": [87],
+            "furigana_ids": [],
+            "japanese_items": ["●画像はイメージです。"]
+          },
+          {
+            "display_index": 26,
             "source_ids": [4],
             "furigana_ids": []
           },
           {
-            "display_index": 25,
+            "display_index": 27,
             "source_ids": [5],
             "furigana_ids": []
           },
           {
-            "display_index": 26,
+            "display_index": 28,
             "source_ids": [15],
             "furigana_ids": []
           },
           {
-            "display_index": 27,
+            "display_index": 29,
             "source_ids": [17],
             "furigana_ids": []
           },
           {
-            "display_index": 28,
+            "display_index": 30,
             "source_ids": [18],
             "furigana_ids": []
           },
           {
-            "display_index": 29,
+            "display_index": 31,
             "source_ids": [27],
             "furigana_ids": []
           },
           {
-            "display_index": 30,
+            "display_index": 32,
             "source_ids": [33],
             "furigana_ids": []
           },
           {
-            "display_index": 31,
+            "display_index": 33,
             "source_ids": [34],
             "furigana_ids": []
           },
           {
-            "display_index": 32,
+            "display_index": 34,
             "source_ids": [35],
             "furigana_ids": []
           },
           {
-            "display_index": 33,
+            "display_index": 35,
             "source_ids": [38],
             "furigana_ids": []
           },
           {
-            "display_index": 34,
+            "display_index": 36,
             "source_ids": [39],
             "furigana_ids": []
           },
           {
-            "display_index": 35,
+            "display_index": 37,
             "source_ids": [42],
             "furigana_ids": []
           },
           {
-            "display_index": 36,
+            "display_index": 38,
             "source_ids": [43],
             "furigana_ids": []
           },
           {
-            "display_index": 37,
+            "display_index": 39,
             "source_ids": [44],
             "furigana_ids": []
           },
           {
-            "display_index": 38,
+            "display_index": 40,
             "source_ids": [45],
             "furigana_ids": []
           },
           {
-            "display_index": 39,
+            "display_index": 41,
             "source_ids": [46],
             "furigana_ids": []
           },
           {
-            "display_index": 40,
+            "display_index": 42,
             "source_ids": [47],
             "furigana_ids": []
           },
           {
-            "display_index": 41,
+            "display_index": 43,
             "source_ids": [48],
             "furigana_ids": []
           },
           {
-            "display_index": 42,
+            "display_index": 44,
             "source_ids": [49],
             "furigana_ids": []
           },
           {
-            "display_index": 43,
+            "display_index": 45,
             "source_ids": [50],
             "furigana_ids": []
           },
           {
-            "display_index": 44,
+            "display_index": 46,
             "source_ids": [51],
             "furigana_ids": []
           },
           {
-            "display_index": 45,
+            "display_index": 47,
             "source_ids": [52],
             "furigana_ids": []
           },
           {
-            "display_index": 46,
+            "display_index": 48,
             "source_ids": [55],
             "furigana_ids": []
           },
           {
-            "display_index": 47,
+            "display_index": 49,
             "source_ids": [56],
             "furigana_ids": []
           },
           {
-            "display_index": 48,
+            "display_index": 50,
             "source_ids": [61],
             "furigana_ids": []
           },
           {
-            "display_index": 49,
+            "display_index": 51,
             "source_ids": [62],
             "furigana_ids": []
           },
           {
-            "display_index": 50,
+            "display_index": 52,
             "source_ids": [63],
             "furigana_ids": []
           },
           {
-            "display_index": 51,
+            "display_index": 53,
             "source_ids": [64],
             "furigana_ids": []
           },
           {
-            "display_index": 52,
+            "display_index": 54,
             "source_ids": [65],
             "furigana_ids": []
           },
           {
-            "display_index": 53,
+            "display_index": 55,
             "source_ids": [66],
             "furigana_ids": []
           },
           {
-            "display_index": 54,
+            "display_index": 56,
             "source_ids": [67],
             "furigana_ids": []
           },
           {
-            "display_index": 55,
+            "display_index": 57,
             "source_ids": [68],
             "furigana_ids": []
           },
           {
-            "display_index": 56,
+            "display_index": 58,
             "source_ids": [69],
             "furigana_ids": []
           },
           {
-            "display_index": 57,
+            "display_index": 59,
             "source_ids": [70],
             "furigana_ids": []
           },
           {
-            "display_index": 58,
+            "display_index": -1,
             "source_ids": [71],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 59,
+            "display_index": 60,
             "source_ids": [72],
             "furigana_ids": []
           },
           {
-            "display_index": 60,
+            "display_index": 61,
             "source_ids": [77],
             "furigana_ids": []
           },
           {
-            "display_index": 61,
-            "source_ids": [85],
-            "furigana_ids": []
+            "display_index": -1,
+            "source_ids": [86],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
             "display_index": 62,
@@ -1460,10 +1482,12 @@
           }
         ],
         "uncertainties": [
-          "Romanizations/translations of character/ranger names (Kyoryu/Kyōryū, Tokkyu/Tokkyū, Aka Ninger/Akaninja, Juuou/Jūō, Shishi, Patren, Ryusoul, Kiramei, Zenkai-zer) are approximate due to lack of an accepted glossary.",
-          "The term 「通常身モード」 in the panel may be an OCR or print error; it could possibly be 「通常変身モード\" (normal transformation mode).",
-          "Product name spacing and punctuation for \"モバイレーツ-MEMORIAL EDITION-\" reproduced exactly from the image; formatting may vary in official English.",
-          "Romanization of the product name モバイレーツ rendered as \"MOBAIRETSU\" — exact official English rendering of the product name is not available from the image."
+          "The Japanese phrase 「通常身モード」 in the source may be a misprint or OCR error; it is likely intended to be 「通常変身モード」 (\"Normal Transformation Mode\").",
+          "Product name spellings (ゼンカイザーキー, モバイレーツ-MEMORIAL EDITION-) are transliterated as given; exact official Romanization may differ.",
+          "Romanization of the product name ゼンカイザーキー is rendered as “ZenkaiZer Key”; original styling may differ.",
+          "Romanization of モバイレーツ is rendered as “Mobirates”; original product name spelling may differ.",
+          "Uncertain about the romanization of 'モバイレーツ'; rendered here as 'Mobailetsu'.",
+          "The provided image crop only showed a URL. No other Japanese text from the manual panel was visible, so the translation is the same URL."
         ],
         "ocr_lines": [
           {

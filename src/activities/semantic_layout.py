@@ -17,6 +17,12 @@ from temporalio import activity
 from src.agent_models import AgentReply
 from src.quality.cleanup_context import ContextManual, ContextPage, ManualData
 from src.quality.core import write_bytes
+from src.quality.english_overlays import (
+    include_untranslated_labels,
+    normalize_battery_codes,
+    normalize_parallel_quotes,
+    unexpected_letters,
+)
 from src.quality.glossary import load_glossary, resolve_glossary
 from src.quality.page_grouping import (
     OCRLine,
@@ -233,7 +239,9 @@ def _plan_page(request_path: str, reply: AgentReply) -> list[str]:
     page = ContextPage.model_validate_json(
         (directory / "source-page.json").read_bytes()
     )
-    plan = safe_plan(page, PagePlan.model_validate_json(reply.output_json))
+    plan = include_untranslated_labels(
+        page, safe_plan(page, PagePlan.model_validate_json(reply.output_json))
+    )
     _write(directory / "plan.json", plan.model_dump(mode="json"))
     terms = json.loads((directory / "glossary.json").read_bytes())
     lines = TypeAdapter(list[OCRLine]).validate_json(
@@ -349,6 +357,14 @@ def _check_translation(request_path: str, reply: AgentReply, repaired: bool) -> 
         texts = join_printed_continuations(
             PanelTranslations.model_validate_json(reply.output_json)
         )
+        source_text = "\n".join(
+            page.blocks[identity].text for identity in panel.source_ids
+        )
+        for translated in texts.panels:
+            translated.english_items = [
+                normalize_parallel_quotes(source_text, item)
+                for item in translated.english_items
+            ]
         validate_translations(
             page,
             PagePlan(panels=[panel], furigana=[], notes=[]),
@@ -439,6 +455,11 @@ def _finish_page(directory: str) -> str:
         PanelTranslations(panels=translations, uncertainties=uncertainties),
         lines,
     )
+    for block in grouped["blocks"]:
+        block["translation"] = normalize_battery_codes(
+            block["text"],
+            normalize_parallel_quotes(block["text"], block["translation"]),
+        )
     _write(output / "result.json", grouped)
     return str(output / "result.json")
 
@@ -463,7 +484,9 @@ async def apply_semantic_manual_activity(
         raise ValueError("Missing grouped pages")
     warnings = []
     pages = []
-    for page, result_path in zip(source.pages, page_paths, strict=True):
+    for page_index, (page, result_path) in enumerate(
+        zip(source.pages, page_paths, strict=True)
+    ):
         value = json.loads(Path(result_path).read_bytes())
         grouped = ContextPage.model_validate(value)
         original_page = (
@@ -483,6 +506,11 @@ async def apply_semantic_manual_activity(
         plan = PagePlan.model_validate(notes["plan"])
         warnings.extend(plan.notes)
         warnings.extend(cast(list[str], notes["uncertainties"]))
+        for block_index, block in enumerate(grouped.blocks):
+            if unexpected_letters(block.translation):
+                warnings.append(
+                    f"Page {page_index + 1}, block {block_index + 1}: retained non-English overlay after bounded source checks"
+                )
     data["pages"] = pages
     data["meta"]["blocks"] = sum(len(page["blocks"]) for page in pages)
     data["meta"]["semantic_layout"] = 1

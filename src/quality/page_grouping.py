@@ -83,11 +83,16 @@ def native_artwork_candidate(text: str) -> Literal["automatic", "scan", ""]:
         return "automatic"
     if re.fullmatch(r"[1-9][0-9]?(?:-[1-9][0-9]?)?", normalized):
         return "scan"
-    # Document AI can mistake repeated diagram-arrow ticks for Hebrew letters.
-    # This only permits image classification, never automatic removal of a script.
-    if 1 <= len(normalized) <= 24 and all(
-        unicodedata.name(character, "").startswith("HEBREW LETTER ")
-        for character in normalized
+    # OCR can mistake diagram marks for letters in several scripts. A lone
+    # Japanese glyph also needs image context; meaningful labels still translate.
+    if (
+        1 <= len(normalized) <= 24
+        and all(
+            unicodedata.category(character).startswith("L")
+            and "LATIN" not in unicodedata.name(character, "")
+            for character in normalized
+        )
+        and (len(normalized) == 1 or not re.search(r"[ぁ-ゖァ-ヺ一-龯]", normalized))
     ):
         return "scan"
     if (
@@ -361,8 +366,12 @@ def validate_translations(
             raise ValueError(
                 f"{panel.id}: editorial uncertainty belongs in uncertainties, not translated instructions"
             )
-        if re.search(r"[ぁ-ゖァ-ヺ一-龯]", english):
-            raise ValueError(f"{panel.id}: untranslated Japanese/OCR glyphs in English")
+        from src.quality.english_overlays import unexpected_letters
+
+        if unexpected_letters(english):
+            raise ValueError(
+                f"{panel.id}: untranslated Japanese/other-script OCR glyphs in English"
+            )
         bullets = max(source.count("●"), reference.count("●"))
         if panel.kind == "prose" and len(text.english_items) < bullets:
             raise ValueError(f"{panel.id}: source bullet coverage reduced")

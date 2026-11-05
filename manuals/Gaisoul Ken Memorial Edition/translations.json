@@ -7,7 +7,7 @@
     "source_url": "",
     "blog_url": "",
     "pages": 16,
-    "blocks": 270,
+    "blocks": 263,
     "thumbnail": "pages/page-0.webp",
     "tags": ["dx", "kamen-rider", "memorial", "sentai"],
     "semantic_layout": 1
@@ -31,8 +31,16 @@
         },
         {
           "text": "ガイソーケンの各部名称 -\n電池の入れ方\n電源の入れ方\nガイソーケン単体の遊び方\nリュウソウルの各部名称\nリュウソウルの遊び方\nガイソーケンの遊び方\n必殺攻撃遊び",
-          "translation": "• Names of the parts of the Gaisoken -\n• How to insert the batteries\n• How to turn on the power\n• How to play with the Gaisoken alone\n• Names of the parts of the Ryusoul\n• How to play with the Ryusoul\n• How to play with the Gaisoken\n• Special attack play",
+          "translation": "• Names of the parts of Gaisoken\n• How to insert batteries\n• How to turn on the power\n• How to play with Gaisoken by itself\n• Names of the parts of Ryusoul\n• How to play with Ryusoul\n• How to play with Gaisoken\n• Special attack play",
           "bbox": [0.12628730690479278, 0.6629, 0.2457126930952072, 0.22859999999999991],
+          "layout": "panel"
+        },
+        {
+          "text": "セリフ遊び\n特殊変身遊び\nBGM遊び\nカナエソウル特別挙動\n【特別メッセージ】-\nカナエソウル特別挙動\n【幻の7人並び変身】\nセリフ一覧",
+          "translation": "• Play lines\n• Special transformation play\n• BGM play\n• Kanae Soul special behavior\n• [Special message] -\n• Kanae Soul special behavior\n• [Phantom seven-person lineup transformation]\n• List of lines",
+          "bbox": [
+            0.5370934710502625, 0.6635544404983521, 0.20540652894973743, 0.22794555950164785
+          ],
           "layout": "panel"
         },
         {
@@ -51,24 +59,9 @@
           "bbox": [0.1612, 0.4849, 0.3165, 0.0151]
         },
         {
-          "text": "EDITION-",
-          "translation": "EDITION-",
-          "bbox": [0.5326, 0.4849, 0.2521, 0.0145]
-        },
-        {
-          "text": "セリフ遊び",
-          "translation": "Voice Line Play",
-          "bbox": [0.5403, 0.6651, 0.0986, 0.0109]
-        },
-        {
           "text": "8",
           "translation": "8",
           "bbox": [0.8568, 0.6669, 0.0086, 0.0067]
-        },
-        {
-          "text": "特殊変身遊び",
-          "translation": "Special Transformation Play",
-          "bbox": [0.5386, 0.6935, 0.1244, 0.0139]
         },
         {
           "text": "9",
@@ -81,19 +74,9 @@
           "bbox": [0.4666, 0.7285, 0.0103, 0.0067]
         },
         {
-          "text": "BGM遊び",
-          "translation": "BGM Play",
-          "bbox": [0.5403, 0.7255, 0.0926, 0.0115]
-        },
-        {
           "text": "4",
           "translation": "4",
           "bbox": [0.4657, 0.7588, 0.012, 0.0048]
-        },
-        {
-          "text": "カナエソウル特別挙動",
-          "translation": "Kanae Soul Special Actions",
-          "bbox": [0.5403, 0.7551, 0.2007, 0.0133]
         },
         {
           "text": "5",
@@ -101,19 +84,9 @@
           "bbox": [0.4657, 0.789, 0.0103, 0.0073]
         },
         {
-          "text": "【特別メッセージ】-",
-          "translation": "[Special Message] -",
-          "bbox": [0.5403, 0.7842, 0.1707, 0.0145]
-        },
-        {
           "text": "10",
           "translation": "10",
           "bbox": [0.8533, 0.7872, 0.0172, 0.0079]
-        },
-        {
-          "text": "カナエソウル特別挙動",
-          "translation": "Kanae Soul Special Actions",
-          "bbox": [0.5403, 0.8156, 0.2007, 0.0133]
         },
         {
           "text": "6",
@@ -121,19 +94,9 @@
           "bbox": [0.4657, 0.8495, 0.0094, 0.0067]
         },
         {
-          "text": "【幻の7人並び変身】",
-          "translation": "[The Phantom 7-Person Lineup Transformation]",
-          "bbox": [0.5395, 0.844, 0.1827, 0.0145]
-        },
-        {
           "text": "-----",
           "translation": "-----",
           "bbox": [0.783, 0.8507, 0.0532, 0.0042]
-        },
-        {
-          "text": "セリフ一覧",
-          "translation": "List of Lines",
-          "bbox": [0.5403, 0.8761, 0.0969, 0.0139]
         },
         {
           "text": "10",
@@ -309,45 +272,52 @@
         "plan": {
           "panels": [
             {
-              "id": "p0",
+              "id": "p1",
               "kind": "heading",
               "source_ids": [4]
             },
             {
-              "id": "p1",
+              "id": "p2",
               "kind": "heading",
               "source_ids": [5]
             },
             {
-              "id": "p2",
+              "id": "p3",
               "kind": "prose",
               "source_ids": [6, 9, 12, 15, 18, 23, 27]
+            },
+            {
+              "id": "p4",
+              "kind": "prose",
+              "source_ids": [7, 10, 14, 17, 20, 22, 25, 28]
             }
           ],
           "furigana": [],
           "notes": [
-            "Cover logos/title and copyright left ungrouped as product/logo text.",
-            "p2: excluded other-column members; retained separately"
-          ]
+            "Source 18 contains two table-of-contents entries merged by OCR; kept together because it is one retained source region.",
+            "p3: excluded other-column members; retained separately",
+            "p4: excluded other-column members; retained separately"
+          ],
+          "native_artwork": [3]
         },
         "mapping": [
           {
             "display_index": 0,
-            "panel_id": "p0",
+            "panel_id": "p1",
             "source_ids": [4],
             "furigana_ids": [],
             "japanese_items": ["取扱説明書"]
           },
           {
             "display_index": 1,
-            "panel_id": "p1",
+            "panel_id": "p2",
             "source_ids": [5],
             "furigana_ids": [],
             "japanese_items": ["目次"]
           },
           {
             "display_index": 2,
-            "panel_id": "p2",
+            "panel_id": "p3",
             "source_ids": [6, 9, 12, 15, 18, 23, 27],
             "furigana_ids": [],
             "japanese_items": [
@@ -363,119 +333,93 @@
           },
           {
             "display_index": 3,
+            "panel_id": "p4",
+            "source_ids": [7, 10, 14, 17, 20, 22, 25, 28],
+            "furigana_ids": [],
+            "japanese_items": [
+              "セリフ遊び",
+              "特殊変身遊び",
+              "BGM遊び",
+              "カナエソウル特別挙動",
+              "【特別メッセージ】-",
+              "カナエソウル特別挙動",
+              "【幻の7人並び変身】",
+              "セリフ一覧"
+            ]
+          },
+          {
+            "display_index": 4,
             "source_ids": [0],
             "furigana_ids": []
           },
           {
-            "display_index": 4,
+            "display_index": 5,
             "source_ids": [1],
             "furigana_ids": []
           },
           {
-            "display_index": 5,
+            "display_index": 6,
             "source_ids": [2],
             "furigana_ids": []
           },
           {
-            "display_index": 6,
+            "display_index": -1,
             "source_ids": [3],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
             "display_index": 7,
-            "source_ids": [7],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 8,
             "source_ids": [8],
             "furigana_ids": []
           },
           {
-            "display_index": 9,
-            "source_ids": [10],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 10,
+            "display_index": 8,
             "source_ids": [11],
             "furigana_ids": []
           },
           {
-            "display_index": 11,
+            "display_index": 9,
             "source_ids": [13],
             "furigana_ids": []
           },
           {
-            "display_index": 12,
-            "source_ids": [14],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 13,
+            "display_index": 10,
             "source_ids": [16],
             "furigana_ids": []
           },
           {
-            "display_index": 14,
-            "source_ids": [17],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 15,
+            "display_index": 11,
             "source_ids": [19],
             "furigana_ids": []
           },
           {
-            "display_index": 16,
-            "source_ids": [20],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 17,
+            "display_index": 12,
             "source_ids": [21],
             "furigana_ids": []
           },
           {
-            "display_index": 18,
-            "source_ids": [22],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 19,
+            "display_index": 13,
             "source_ids": [24],
             "furigana_ids": []
           },
           {
-            "display_index": 20,
-            "source_ids": [25],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 21,
+            "display_index": 14,
             "source_ids": [26],
             "furigana_ids": []
           },
           {
-            "display_index": 22,
-            "source_ids": [28],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 23,
+            "display_index": 15,
             "source_ids": [29],
             "furigana_ids": []
           },
           {
-            "display_index": 24,
+            "display_index": 16,
             "source_ids": [30],
             "furigana_ids": []
           }
         ],
-        "uncertainties": [
-          "Transliteration of product names: \"ガイソーケン\" rendered as \"Gaisoken\" and \"リュウソウル\" rendered as \"Ryusoul\"; original official English spellings are not known from the image.",
-          "Trailing dash after the first line may be a section separator; preserved verbatim as in source."
-        ],
+        "uncertainties": [],
         "ocr_lines": [
           {
             "id": 0,
@@ -730,7 +674,7 @@
         },
         {
           "text": "●プラスチック梱包材は開封後はすぐに捨ててください。\n●本商品には塗装部分がありますので、保管の際には他のもの (樹脂製品や家具、ソファー)と接触しない\nようにしてください。 色が移る場合があります。\n●可動部分・取付部分を無理な方向に強く引っ張ったり、曲げたりしないでください。\n●発音の一部にイントネーションが違っていたり、 商品の特性上聞き取りにくいものがありますが、ご了承\nください。",
-          "translation": "• Dispose of plastic packing materials immediately after opening.\n• This product has painted parts, so when storing it do not let it come into contact with other items (resin products, furniture, sofas). Color may transfer.\n• Do not strongly pull or bend movable parts or mounting parts in unreasonable directions.\n• Some pronunciations may have different intonation or be difficult to hear due to the characteristics of the product; please understand this.",
+          "translation": "• Dispose of plastic packaging immediately after opening.\n• This product has painted parts; when storing it, keep it from touching other items (plastic products, furniture, or sofas). Color may transfer.\n• Do not forcefully pull or bend moving parts or attachment parts in unnatural directions.\n• Some pronunciations may have different intonation or may be hard to hear because of the product's characteristics.",
           "bbox": [0.1288602010011673, 0.5154000000000001, 0.7543397989988325, 0.09429999999999994],
           "layout": "panel"
         },
@@ -753,11 +697,6 @@
           "text": "ガイソウル",
           "translation": "Gaisoul",
           "bbox": [0.506, 0.0913, 0.0686, 0.0079]
-        },
-        {
-          "text": "JASRAC",
-          "translation": "JASRAC",
-          "bbox": [0.783, 0.0786, 0.0935, 0.0187]
         },
         {
           "text": "ガイソーケン",
@@ -884,7 +823,8 @@
             }
           ],
           "furigana": [],
-          "notes": ["Retained p3 source IDs [11] unchanged: illustration-mask check"]
+          "notes": ["Retained p3 source IDs [11] unchanged: illustration-mask check"],
+          "native_artwork": [4]
         },
         "mapping": [
           {
@@ -914,10 +854,10 @@
             "source_ids": [13],
             "furigana_ids": [],
             "japanese_items": [
-              "●プラスチック梱包材は開封後はすぐに捨ててください。",
-              "●本商品には塗装部分がありますので、保管の際には他のもの（樹脂製品や家具、ソファー）と接触しないようにしてください。色が移る場合があります。",
-              "●可動部分・取付部分を無理な方向に強く引っ張ったり、曲げたりしないでください。",
-              "●発音の一部にイントネーションが違っていたり、商品の特性上聞き取りにくいものがありますが、ご了承ください。"
+              "プラスチック梱包材は開封後はすぐに捨ててください。",
+              "本商品には塗装部分がありますので、保管の際には他のもの (樹脂製品や家具、ソファー)と接触しないようにしてください。 色が移る場合があります。",
+              "可動部分・取付部分を無理な方向に強く引っ張ったり、曲げたりしないでください。",
+              "発音の一部にイントネーションが違っていたり、商品の特性上聞き取りにくいものがありますが、ご了承ください。"
             ]
           },
           {
@@ -941,40 +881,38 @@
             "furigana_ids": []
           },
           {
-            "display_index": 8,
+            "display_index": -1,
             "source_ids": [4],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 9,
+            "display_index": 8,
             "source_ids": [5],
             "furigana_ids": []
           },
           {
-            "display_index": 10,
+            "display_index": 9,
             "source_ids": [6],
             "furigana_ids": []
           },
           {
-            "display_index": 11,
+            "display_index": 10,
             "source_ids": [7],
             "furigana_ids": []
           },
           {
-            "display_index": 12,
+            "display_index": 11,
             "source_ids": [8],
             "furigana_ids": []
           },
           {
-            "display_index": 13,
+            "display_index": 12,
             "source_ids": [11],
             "furigana_ids": []
           }
         ],
-        "uncertainties": [
-          "Minor OCR spacing and line-break artifacts: spacing around parentheses and after commas was normalized.",
-          "Fourth bullet: interpreted '商品の特性上聞き取りにくいものがありますが、ご了承ください' as a notice that some pronunciations may be hard to hear due to product characteristics."
-        ],
+        "uncertainties": [],
         "ocr_lines": [
           {
             "id": 0,
@@ -1236,22 +1174,12 @@
         {
           "text": "ガイソーケンの各部名称",
           "translation": "Names of the parts of the Gaisouken",
-          "bbox": [0.16916895961761474, 0.0535, 0.47473104038238517, 0.032038697183132174],
-          "layout": "panel"
+          "bbox": [0.1707, 0.055, 0.4717, 0.029]
         },
         {
           "text": "全体図",
           "translation": "Overall view",
-          "bbox": [0.1177, 0.1236511424779892, 0.08191320304870606, 0.021148857522010817],
-          "layout": "panel"
-        },
-        {
-          "text": "拡大図",
-          "translation": "Enlarged view",
-          "bbox": [
-            0.7918000000000001, 0.7149000000000001, 0.0810550567626952, 0.019369072055816505
-          ],
-          "layout": "panel"
+          "bbox": [0.1192, 0.1252, 0.0789, 0.0181]
         },
         {
           "text": "トリガー",
@@ -1274,11 +1202,6 @@
           "bbox": [0.5609, 0.4111, 0.0995, 0.0097]
         },
         {
-          "text": "LED",
-          "translation": "LED",
-          "bbox": [0.3962, 0.4456, 0.0395, 0.0097]
-        },
-        {
           "text": "レバー",
           "translation": "Lever",
           "bbox": [0.4022, 0.5949, 0.0506, 0.0091]
@@ -1294,6 +1217,11 @@
           "bbox": [0.3276, 0.8761, 0.0712, 0.0109]
         },
         {
+          "text": "拡大図",
+          "translation": "Enlarged view",
+          "bbox": [0.7933, 0.7164, 0.078, 0.0163]
+        },
+        {
           "text": "セリフボタン",
           "translation": "Dialogue button",
           "bbox": [0.7196, 0.896, 0.1029, 0.0115]
@@ -1302,11 +1230,6 @@
           "text": "BGMボタン",
           "translation": "BGM button",
           "bbox": [0.8508, 0.8948, 0.0978, 0.0127]
-        },
-        {
-          "text": "2",
-          "translation": "2",
-          "bbox": [0.9357, 0.9528, 0.0154, 0.0103]
         }
       ],
       "image": "pages/page-2.webp",
@@ -1385,104 +1308,83 @@
       "layout_provenance": {
         "version": 2,
         "plan": {
-          "panels": [
-            {
-              "id": "p0",
-              "kind": "heading",
-              "source_ids": [0]
-            },
-            {
-              "id": "p1",
-              "kind": "heading",
-              "source_ids": [1]
-            },
-            {
-              "id": "p2",
-              "kind": "heading",
-              "source_ids": [10]
-            }
-          ],
+          "panels": [],
           "furigana": [],
-          "notes": [
-            "All other source regions are diagram labels or page number and are left ungrouped."
-          ]
+          "notes": [],
+          "native_artwork": [6, 13]
         },
         "mapping": [
           {
             "display_index": 0,
-            "panel_id": "p0",
             "source_ids": [0],
-            "furigana_ids": [],
-            "japanese_items": ["ガイソーケンの各部名称"]
+            "furigana_ids": []
           },
           {
             "display_index": 1,
-            "panel_id": "p1",
             "source_ids": [1],
-            "furigana_ids": [],
-            "japanese_items": ["全体図"]
+            "furigana_ids": []
           },
           {
             "display_index": 2,
-            "panel_id": "p2",
-            "source_ids": [10],
-            "furigana_ids": [],
-            "japanese_items": ["拡大図"]
-          },
-          {
-            "display_index": 3,
             "source_ids": [2],
             "furigana_ids": []
           },
           {
-            "display_index": 4,
+            "display_index": 3,
             "source_ids": [3],
             "furigana_ids": []
           },
           {
-            "display_index": 5,
+            "display_index": 4,
             "source_ids": [4],
             "furigana_ids": []
           },
           {
-            "display_index": 6,
+            "display_index": 5,
             "source_ids": [5],
             "furigana_ids": []
           },
           {
-            "display_index": 7,
+            "display_index": -1,
             "source_ids": [6],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 8,
+            "display_index": 6,
             "source_ids": [7],
             "furigana_ids": []
           },
           {
-            "display_index": 9,
+            "display_index": 7,
             "source_ids": [8],
             "furigana_ids": []
           },
           {
-            "display_index": 10,
+            "display_index": 8,
             "source_ids": [9],
             "furigana_ids": []
           },
           {
-            "display_index": 11,
+            "display_index": 9,
+            "source_ids": [10],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 10,
             "source_ids": [11],
             "furigana_ids": []
           },
           {
-            "display_index": 12,
+            "display_index": 11,
             "source_ids": [12],
             "furigana_ids": []
           },
           {
-            "display_index": 13,
+            "display_index": -1,
             "source_ids": [13],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           }
         ],
         "uncertainties": [],
@@ -1600,8 +1502,20 @@
         },
         {
           "text": "※電源スイッチがOFFになっていることを確認してください。\n※音が小さくなって聞きとりにくくなったり、 音が止まるなどの誤動作をする場合や、\nLEDの発光が弱くなった場合は、すべて新しい電池に交換してください。",
-          "translation": "• Confirm that the power switch is in the OFF position.\n• If the sound becomes quieter and hard to hear, the sound stops or other malfunctions occur, or the LED’s illumination becomes weak, replace all batteries with new ones.",
+          "translation": "• Make sure the power switch is OFF.\n• If the sound becomes quiet and hard to hear, if the sound stops or other malfunctions occur, or if the LED light becomes dim, replace all batteries with new ones.",
           "bbox": [0.06196483528614044, 0.1188, 0.5210351647138596, 0.046545226168632506],
+          "layout": "panel"
+        },
+        {
+          "text": "単4 x3",
+          "translation": "AAA x3",
+          "bbox": [0.8604, 0.11639601296186447, 0.07163174018859852, 0.012103987038135533],
+          "layout": "panel"
+        },
+        {
+          "text": "単4乾電池3本使用(別売り)\n●アルカリ電池推奨",
+          "translation": "• Uses three AAA batteries (sold separately)\n• Alkaline batteries recommended",
+          "bbox": [0.8012, 0.13997521555423736, 0.15227254419326774, 0.03262514758110047],
           "layout": "panel"
         },
         {
@@ -1613,42 +1527,16 @@
           "layout": "panel"
         },
         {
-          "text": "2. ①電池ぶたBを取り外します。\n①-1 ガイソーケン背面の電池ぶたBの\nネジ2箇所を+または、ドライバーで\n矢印の方向に回し、\n①-2 電池ぶたBを取り外します。\n②乾電池を入れます。\n単4乾電池3本(別売り)の+をそれぞれ\n間違えないように入れます。",
-          "translation": "• 2. ① Remove battery cover B.\n• ①-1 On the back of the Gaisoken, turn the two screws of battery cover B in the direction of the arrows with a Phillips (+) or flat (−) screwdriver,\n• ①-2 Remove battery cover B.\n• ② Insert the dry batteries.\n• Insert three AAA (R03) batteries (sold separately), making sure each + and − polarity is correct.",
-          "bbox": [0.5611, 0.4851989254951477, 0.3657999999999999, 0.13782463359832758],
-          "layout": "panel"
-        },
-        {
           "text": "3.電池ぶたBを戻します。\n電池ぶたBの突起とガイソーケンのミゾを合わせ、\n電池ぶたBのネジ2箇所を①-1と逆方向に回して閉じます。",
-          "translation": "• 3. Reinstall battery cover B.\n• Align the protrusion on battery cover B with the groove of the housing,\n• Turn the two screws on battery cover B in the direction opposite to that used in ①-1 to close it.",
+          "translation": "3. Put battery cover B back on. Align the protrusion on battery cover B with the groove in the outer case, then close it by turning the two screws on battery cover B in the direction opposite to step ①-1.",
           "bbox": [0.057676672250032424, 0.8715, 0.4533233277499675, 0.05559999999999987],
           "layout": "panel"
         },
         {
           "text": "4. 電池ぶたAを戻します。\n電池ぶたAの突起とガイソーケンのミゾを\nそれぞれ合わせ、カチッと音が鳴るまで\nはめ込みます。",
-          "translation": "4. Replace battery cover A. Align the protrusion on battery cover A with the groove on the outer case and press it in until it clicks.",
+          "translation": "4. Reinstall battery cover A. Align the protrusion on battery cover A with the groove in the housing, then press it in until it clicks.",
           "bbox": [0.5611, 0.8739534721374512, 0.3409146026611327, 0.06954652786254867],
           "layout": "panel"
-        },
-        {
-          "text": "4",
-          "translation": "4",
-          "bbox": [0.8293, 0.1197, 0.0103, 0.0097]
-        },
-        {
-          "text": "単4 x3",
-          "translation": "AAA ×3",
-          "bbox": [0.8619, 0.1179, 0.0686, 0.0091]
-        },
-        {
-          "text": "単4乾電池3本使用(別売り)",
-          "translation": "Uses 3 AAA batteries (sold separately)",
-          "bbox": [0.8027, 0.1415, 0.1492, 0.0079]
-        },
-        {
-          "text": "●アルカリ電池推奨",
-          "translation": "●Alkaline batteries recommended",
-          "bbox": [0.8027, 0.159, 0.1458, 0.0121]
         },
         {
           "text": "電池ぶた A",
@@ -1664,6 +1552,21 @@
           "text": "突起",
           "translation": "Protrusion",
           "bbox": [0.1852, 0.7684, 0.0292, 0.0091]
+        },
+        {
+          "text": "2. ①電池ぶたBを取り外します。\n①-1 ガイソーケン背面の電池ぶたBの\nネジ2箇所を+または、ドライバーで\n矢印の方向に回し、\n①-2 電池ぶたBを取り外します。",
+          "translation": "2. ① Remove battery cover B.\n①-1 Turn the two screws on battery cover B on the back of the Gaisouken in the direction of the arrows using a + (Phillips) or − (flat) screwdriver.\n①-2 Remove battery cover B.",
+          "bbox": [0.5626, 0.4867, 0.3628, 0.0846]
+        },
+        {
+          "text": "②乾電池を入れます。",
+          "translation": "② Insert the batteries.",
+          "bbox": [0.6003, 0.5768, 0.1552, 0.0109]
+        },
+        {
+          "text": "単4乾電池3本(別売り)の+をそれぞれ\n間違えないように入れます。",
+          "translation": "Insert three AAA batteries (sold separately), taking care to align the + terminal of each correctly.",
+          "bbox": [0.6184, 0.5931, 0.3045, 0.0284]
         },
         {
           "text": "突起",
@@ -1799,30 +1702,37 @@
               "source_ids": [1]
             },
             {
-              "id": "p2",
+              "id": "p2-native-a",
               "kind": "prose",
-              "source_ids": [8]
+              "source_ids": [3]
+            },
+            {
+              "id": "p2-native-b",
+              "kind": "prose",
+              "source_ids": [4, 5]
             },
             {
               "id": "p3",
               "kind": "prose",
-              "source_ids": [10, 11, 12]
+              "source_ids": [8]
             },
             {
-              "id": "p4",
+              "id": "p5",
               "kind": "prose",
               "source_ids": [16]
             },
             {
-              "id": "p5",
+              "id": "p6",
               "kind": "prose",
               "source_ids": [18]
             }
           ],
           "furigana": [],
           "notes": [
-            "Source IDs 2-5 are product/battery specification labels and remain ungrouped; diagram labels/captions 6,7,9,13,14,15,17 remain ungrouped."
-          ]
+            "Conservative panel fallback: Panel p2 would mask native artwork 2",
+            "Panel p4 retained original English after failed automatic checks"
+          ],
+          "native_artwork": [2]
         },
         "mapping": [
           {
@@ -1844,38 +1754,37 @@
           },
           {
             "display_index": 2,
-            "panel_id": "p2",
-            "source_ids": [8],
+            "panel_id": "p2-native-a",
+            "source_ids": [3],
             "furigana_ids": [],
-            "japanese_items": ["1.電池ぶたAを下部から取り外します。"]
+            "japanese_items": ["単4 x3"]
           },
           {
             "display_index": 3,
-            "panel_id": "p3",
-            "source_ids": [10, 11, 12],
+            "panel_id": "p2-native-b",
+            "source_ids": [4, 5],
             "furigana_ids": [],
-            "japanese_items": [
-              "2. ①電池ぶたBを取り外します。",
-              "①-1 ガイソーケン背面の電池ぶたBのネジ2箇所を+または、−ドライバーで矢印の方向に回し、",
-              "①-2 電池ぶたBを取り外します。",
-              "②乾電池を入れます。",
-              "単4乾電池3本(別売り)の+−をそれぞれ間違えないように入れます。"
-            ]
+            "japanese_items": ["単4乾電池3本使用(別売り)", "アルカリ電池推奨"]
           },
           {
             "display_index": 4,
-            "panel_id": "p4",
-            "source_ids": [16],
+            "panel_id": "p3",
+            "source_ids": [8],
             "furigana_ids": [],
-            "japanese_items": [
-              "3.電池ぶたBを戻します。",
-              "電池ぶたBの突起とガイソーケンのミゾを合わせ、",
-              "電池ぶたBのネジ2箇所を①-1と逆方向に回して閉じます。"
-            ]
+            "japanese_items": ["1. 電池ぶたAを下部から取り外します。"]
           },
           {
             "display_index": 5,
             "panel_id": "p5",
+            "source_ids": [16],
+            "furigana_ids": [],
+            "japanese_items": [
+              "3.電池ぶたBを戻します。電池ぶたBの突起とガイソーケンのミゾを合わせ、電池ぶたBのネジ2箇所を①-1と逆方向に回して閉じます。"
+            ]
+          },
+          {
+            "display_index": 6,
+            "panel_id": "p6",
             "source_ids": [18],
             "furigana_ids": [],
             "japanese_items": [
@@ -1883,38 +1792,39 @@
             ]
           },
           {
-            "display_index": 6,
+            "display_index": -1,
             "source_ids": [2],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
             "display_index": 7,
-            "source_ids": [3],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 8,
-            "source_ids": [4],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 9,
-            "source_ids": [5],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 10,
             "source_ids": [6],
             "furigana_ids": []
           },
           {
-            "display_index": 11,
+            "display_index": 8,
             "source_ids": [7],
             "furigana_ids": []
           },
           {
-            "display_index": 12,
+            "display_index": 9,
             "source_ids": [9],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 10,
+            "source_ids": [10],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 11,
+            "source_ids": [11],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 12,
+            "source_ids": [12],
             "furigana_ids": []
           },
           {
@@ -1938,9 +1848,7 @@
             "furigana_ids": []
           }
         ],
-        "uncertainties": [
-          "The term ガイソーケン (ガイソーケンのミゾ) was rendered as “outer case”; the exact intended component name in English is uncertain."
-        ],
+        "uncertainties": [],
         "ocr_lines": [
           {
             "id": 0,
@@ -2172,7 +2080,7 @@
         },
         {
           "text": "ONにします。\n「ガイソーケン!」が鳴り、\nLEDが光ります。",
-          "translation": "• Turn the power to ON.\n• \"Gaisōken!\" will sound, and the LED will light.",
+          "translation": "• Turn the power ON.\n• “Gaisoken!” will sound.\n• The LED will light.",
           "bbox": [
             0.06796826726198196, 0.12667412614822388, 0.19773173273801803, 0.05202587385177615
           ],
@@ -2180,7 +2088,7 @@
         },
         {
           "text": "※遊び終わった後は、必ず電源スイッチを\nOFFにしてください。",
-          "translation": "After you finish playing, be sure to turn the power switch OFF.",
+          "translation": "After playing, always turn the power switch OFF.",
           "bbox": [0.0688, 0.20345767891407013, 0.3040550567626953, 0.032642321085929876],
           "layout": "panel"
         },
@@ -2194,7 +2102,7 @@
         },
         {
           "text": "※ガイソウルを\nセットしない状態\nから始めます。",
-          "translation": "Start with the Gai Soul not set.",
+          "translation": "Start with the Gai Soul not installed.",
           "bbox": [0.06711063092947006, 0.354, 0.210547165453434, 0.0821],
           "layout": "panel"
         },
@@ -2206,8 +2114,14 @@
         },
         {
           "text": "トリガーを短押しします。\n→押す度に 「斬撃音」が鳴り、\nLEDが光ります。",
-          "translation": "• Briefly press the trigger.\n• Each time you press it, a \"slash sound\" plays and the LED lights up.",
+          "translation": "• Short-press the trigger.\n• Each time you press it, a slashing sound plays and the LED lights.",
           "bbox": [0.06709999999999999, 0.4755, 0.21055779638290406, 0.0507999999999999],
+          "layout": "panel"
+        },
+        {
+          "text": "●「セリフ遊び」で\nノーマルモード以外の際は、\nトリガーを押すと\n「斬撃音」とかけ声が\n交互に鳴ります。\n※「セリフ遊び」の詳細は、\n本書8ページをご覧ください。",
+          "translation": "• In \"Serifu Asobi\" mode, when the toy is in any mode other than Normal, pressing the trigger alternately plays a slashing sound and a shouted line.\n• For details about \"Serifu Asobi\", see page 8 of this manual.",
+          "bbox": [0.0688, 0.5619824633598328, 0.22690000000000002, 0.14391753664016715],
           "layout": "panel"
         },
         {
@@ -2218,19 +2132,13 @@
         },
         {
           "text": "ロック解除グリップを\n握りながら、 レバーを\n下げ、口を開けます。\n「口開き音」が\n鳴ります。",
-          "translation": "• While holding the lock-release grip, pull the lever down and open the mouth.\n• A \"mouth-opening\" sound will play.",
+          "translation": "• While holding the lock-release grip, push down the lever to open the mouth.\n• A \"mouth-opening\" sound plays.",
           "bbox": [0.5190832123756409, 0.3963, 0.1582315354347228, 0.08890000000000003],
           "layout": "panel"
         },
         {
-          "text": "●「セリフ遊び」で\nノーマルモード以外の際は、\nトリガーを押すと\n「斬撃音」とかけ声が\n交互に鳴ります。\n※「セリフ遊び」の詳細は、\n本書8ページをご覧ください。",
-          "translation": "• In “Serifu Asobi”, when in any mode other than Normal Mode, pressing the trigger causes “slashing sounds” and shouted calls to sound alternately.\n• For details on “Serifu Asobi”, please see page 8 of this manual.",
-          "bbox": [0.0688, 0.5619824633598328, 0.22690000000000002, 0.14391753664016715],
-          "layout": "panel"
-        },
-        {
           "text": "ロック解除グリップを\n握りながら、 レバーを\n上げ、口を閉じます。\n「口閉じ音」が鳴り、\nLEDが光ります。",
-          "translation": "• While holding the unlock grip, lift the lever and close the mouth.\n• A \"mouth-closing\" sound will play and the LED will light.",
+          "translation": "Hold the unlock grip, lift the lever, and close the mouth. A \"mouth-closing\" sound will play and the LED will light.",
           "bbox": [0.5190832123756409, 0.7168000000000001, 0.159116787624359, 0.08889999999999987],
           "layout": "panel"
         },
@@ -2268,11 +2176,6 @@
           "text": "トリガー",
           "translation": "Trigger",
           "bbox": [0.2736, 0.8924, 0.0489, 0.0097]
-        },
-        {
-          "text": "4",
-          "translation": "4",
-          "bbox": [0.9357, 0.9541, 0.0154, 0.0091]
         }
       ],
       "image": "pages/page-4.webp",
@@ -2398,129 +2301,140 @@
         "plan": {
           "panels": [
             {
-              "id": "p0",
+              "id": "p1",
               "kind": "heading",
               "source_ids": [0]
             },
             {
-              "id": "p1",
+              "id": "p2",
               "kind": "prose",
               "source_ids": [1]
             },
             {
-              "id": "p2",
+              "id": "p3",
               "kind": "prose",
               "source_ids": [2, 3]
             },
             {
-              "id": "p3",
+              "id": "p4",
               "kind": "heading",
               "source_ids": [6]
             },
             {
-              "id": "p4",
+              "id": "p5",
               "kind": "prose",
               "source_ids": [7]
             },
             {
-              "id": "p5",
+              "id": "p6",
               "kind": "heading",
               "source_ids": [8]
             },
             {
-              "id": "p6",
+              "id": "p7",
               "kind": "prose",
               "source_ids": [9]
             },
             {
-              "id": "p7",
-              "kind": "heading",
-              "source_ids": [10]
-            },
-            {
               "id": "p8",
-              "kind": "prose",
-              "source_ids": [11, 12]
-            },
-            {
-              "id": "p9",
               "kind": "prose",
               "source_ids": [15, 16, 18]
             },
             {
+              "id": "p9",
+              "kind": "heading",
+              "source_ids": [10]
+            },
+            {
               "id": "p10",
+              "kind": "prose",
+              "source_ids": [11, 12]
+            },
+            {
+              "id": "p11",
               "kind": "prose",
               "source_ids": [19]
             }
           ],
           "furigana": [],
           "notes": [
-            "Source 0 contains both the heading and the first line of the power-on instruction in the OCR region; kept as heading because it cannot be split by source ID. Diagram labels and page number left ungrouped."
-          ]
+            "Source 0 contains both the heading and the first body line, so it cannot be cleanly separated by source ID."
+          ],
+          "native_artwork": [22]
         },
         "mapping": [
           {
             "display_index": 0,
-            "panel_id": "p0",
+            "panel_id": "p1",
             "source_ids": [0],
             "furigana_ids": [],
             "japanese_items": ["電源の入れ方\nガイソーケン背面の電源スイッチを"]
           },
           {
             "display_index": 1,
-            "panel_id": "p1",
+            "panel_id": "p2",
             "source_ids": [1],
             "furigana_ids": [],
-            "japanese_items": ["ONにします。", "「ガイソーケン!」が鳴り、LEDが光ります。"]
+            "japanese_items": ["ONにします。", "「ガイソーケン!」が鳴り、", "LEDが光ります。"]
           },
           {
             "display_index": 2,
-            "panel_id": "p2",
+            "panel_id": "p3",
             "source_ids": [2, 3],
             "furigana_ids": [],
             "japanese_items": ["※遊び終わった後は、必ず電源スイッチをOFFにしてください。"]
           },
           {
             "display_index": 3,
-            "panel_id": "p3",
+            "panel_id": "p4",
             "source_ids": [6],
             "furigana_ids": [],
             "japanese_items": ["ガイソーケン単体の遊び方"]
           },
           {
             "display_index": 4,
-            "panel_id": "p4",
+            "panel_id": "p5",
             "source_ids": [7],
             "furigana_ids": [],
             "japanese_items": ["※ガイソウルをセットしない状態から始めます。"]
           },
           {
             "display_index": 5,
-            "panel_id": "p5",
+            "panel_id": "p6",
             "source_ids": [8],
             "furigana_ids": [],
             "japanese_items": ["斬撃遊び"]
           },
           {
             "display_index": 6,
-            "panel_id": "p6",
+            "panel_id": "p7",
             "source_ids": [9],
             "furigana_ids": [],
             "japanese_items": [
               "トリガーを短押しします。",
-              "→押す度に「斬撃音」が鳴り、LEDが光ります。"
+              "押す度に「斬撃音」が鳴り、LEDが光ります。"
             ]
           },
           {
             "display_index": 7,
-            "panel_id": "p7",
+            "panel_id": "p8",
+            "source_ids": [15, 16, 18],
+            "furigana_ids": [],
+            "japanese_items": [
+              "●「セリフ遊び」でノーマルモード以外の際は、トリガーを押すと「斬撃音」とかけ声が交互に鳴ります。",
+              "※「セリフ遊び」の詳細は、本書8ページをご覧ください。"
+            ]
+          },
+          {
+            "display_index": 8,
+            "panel_id": "p9",
             "source_ids": [10],
             "furigana_ids": [],
             "japanese_items": ["レバー操作〈口の開閉〉の仕方"]
           },
           {
-            "display_index": 8,
-            "panel_id": "p8",
+            "display_index": 9,
+            "panel_id": "p10",
             "source_ids": [11, 12],
             "furigana_ids": [],
             "japanese_items": [
@@ -2529,23 +2443,12 @@
             ]
           },
           {
-            "display_index": 9,
-            "panel_id": "p9",
-            "source_ids": [15, 16, 18],
-            "furigana_ids": [],
-            "japanese_items": [
-              "「セリフ遊び」でノーマルモード以外の際は、トリガーを押すと「斬撃音」とかけ声が交互に鳴ります。",
-              "※「セリフ遊び」の詳細は、本書8ページをご覧ください。"
-            ]
-          },
-          {
             "display_index": 10,
-            "panel_id": "p10",
+            "panel_id": "p11",
             "source_ids": [19],
             "furigana_ids": [],
             "japanese_items": [
-              "ロック解除グリップを握りながら、レバーを上げ、口を閉じます。",
-              "「口閉じ音」が鳴り、LEDが光ります。"
+              "ロック解除グリップを握りながら、レバーを上げ、口を閉じます。「口閉じ音」が鳴り、LEDが光ります。"
             ]
           },
           {
@@ -2584,9 +2487,10 @@
             "furigana_ids": []
           },
           {
-            "display_index": 18,
+            "display_index": -1,
             "source_ids": [22],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           }
         ],
         "uncertainties": [],
@@ -2942,20 +2846,28 @@
           "layout": "panel"
         },
         {
-          "text": "※ガイソウルを例に\n説明します。\n上半身をカチッと\n鳴るまで折りたたむと\nナイトモードから\nソウルモードに\n変形します。",
-          "translation": "• ※Using GaiSoul as an example.\n• Fold the upper body until it clicks, and it will transform from Night Mode into Soul Mode.",
-          "bbox": [0.0774, 0.5656000000000001, 0.18310515913963318, 0.14569999999999983],
+          "text": "※ガイソウルを例に\n説明します。",
+          "translation": "The following explanation uses Gaisoul as an example.",
+          "bbox": [
+            0.0774022296667099, 0.5656000000000001, 0.18310292947292328, 0.05729999999999991
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "上半身をカチッと\n鳴るまで折りたたむと\nナイトモードから\nソウルモードに\n変形します。",
+          "translation": "Fold the upper body until it clicks to transform from Night Mode into Soul Mode.",
+          "bbox": [0.0774, 0.6224000000000001, 0.1625219616651535, 0.08889999999999987],
           "layout": "panel"
         },
         {
           "text": "変形ボタンを押すと\nソウルモードから\nナイトモードに変形します。",
-          "translation": "Press the transform button to change from Soul Mode to Night Mode.",
+          "translation": "Press the transform button to switch from Soul Mode to Night Mode.",
           "bbox": [0.7635000000000001, 0.57346976852417, 0.19854887771606433, 0.051430231475829924],
           "layout": "panel"
         },
         {
           "text": "※パーツが外れた場合は、 元の位置に戻してください。\n※カナエソウルも同様の遊び方となります。",
-          "translation": "• If a part comes off, return it to its original position.\n• Kanae Soul is played in the same way.",
+          "translation": "• If a part comes off, put it back in its original position.\n• The Kanae Soul is used the same way.",
           "bbox": [0.0791, 0.9041832194328309, 0.3924, 0.03262511777877797],
           "layout": "panel"
         },
@@ -3175,21 +3087,27 @@
             {
               "id": "p2",
               "kind": "prose",
-              "source_ids": [11, 12]
+              "source_ids": [11]
             },
             {
               "id": "p3",
               "kind": "prose",
-              "source_ids": [20]
+              "source_ids": [12]
             },
             {
               "id": "p4",
+              "kind": "prose",
+              "source_ids": [20]
+            },
+            {
+              "id": "p5",
               "kind": "prose",
               "source_ids": [14, 16]
             }
           ],
           "furigana": [],
-          "notes": []
+          "notes": [],
+          "native_artwork": []
         },
         "mapping": [
           {
@@ -3209,107 +3127,113 @@
           {
             "display_index": 2,
             "panel_id": "p2",
-            "source_ids": [11, 12],
+            "source_ids": [11],
             "furigana_ids": [],
-            "japanese_items": [
-              "※ガイソウルを例に説明します。",
-              "上半身をカチッと鳴るまで折りたたむとナイトモードからソウルモードに変形します。"
-            ]
+            "japanese_items": ["※ガイソウルを例に説明します。"]
           },
           {
             "display_index": 3,
             "panel_id": "p3",
+            "source_ids": [12],
+            "furigana_ids": [],
+            "japanese_items": [
+              "上半身をカチッと鳴るまで折りたたむとナイトモードからソウルモードに変形します。"
+            ]
+          },
+          {
+            "display_index": 4,
+            "panel_id": "p4",
             "source_ids": [20],
             "furigana_ids": [],
             "japanese_items": ["変形ボタンを押すとソウルモードからナイトモードに変形します。"]
           },
           {
-            "display_index": 4,
-            "panel_id": "p4",
+            "display_index": 5,
+            "panel_id": "p5",
             "source_ids": [14, 16],
             "furigana_ids": [],
             "japanese_items": [
-              "※パーツが外れた場合は、元の位置に戻してください。",
+              "※パーツが外れた場合は、 元の位置に戻してください。",
               "※カナエソウルも同様の遊び方となります。"
             ]
           },
           {
-            "display_index": 5,
+            "display_index": 6,
             "source_ids": [1],
             "furigana_ids": []
           },
           {
-            "display_index": 6,
+            "display_index": 7,
             "source_ids": [2],
             "furigana_ids": []
           },
           {
-            "display_index": 7,
+            "display_index": 8,
             "source_ids": [3],
             "furigana_ids": []
           },
           {
-            "display_index": 8,
+            "display_index": 9,
             "source_ids": [4],
             "furigana_ids": []
           },
           {
-            "display_index": 9,
+            "display_index": 10,
             "source_ids": [5],
             "furigana_ids": []
           },
           {
-            "display_index": 10,
+            "display_index": 11,
             "source_ids": [6],
             "furigana_ids": []
           },
           {
-            "display_index": 11,
+            "display_index": 12,
             "source_ids": [7],
             "furigana_ids": []
           },
           {
-            "display_index": 12,
+            "display_index": 13,
             "source_ids": [8],
             "furigana_ids": []
           },
           {
-            "display_index": 13,
+            "display_index": 14,
             "source_ids": [9],
             "furigana_ids": []
           },
           {
-            "display_index": 14,
+            "display_index": 15,
             "source_ids": [13],
             "furigana_ids": []
           },
           {
-            "display_index": 15,
+            "display_index": 16,
             "source_ids": [15],
             "furigana_ids": []
           },
           {
-            "display_index": 16,
+            "display_index": 17,
             "source_ids": [17],
             "furigana_ids": []
           },
           {
-            "display_index": 17,
+            "display_index": 18,
             "source_ids": [18],
             "furigana_ids": []
           },
           {
-            "display_index": 18,
+            "display_index": 19,
             "source_ids": [19],
             "furigana_ids": []
           },
           {
-            "display_index": 19,
+            "display_index": 20,
             "source_ids": [21],
             "furigana_ids": []
           },
           {
-            "display_index": 20,
+            "display_index": 21,
             "source_ids": [22],
             "furigana_ids": []
           }
@@ -3539,19 +3463,19 @@
         },
         {
           "text": "ガイソウルのセットの仕方\n※ガイソーケンの口を開けた状態でナイトモードの\nガイソウルをセットします。\n※ガイソーケンの電源スイッチを入れる前に\nガイソウルがセットされていると\nガイソウルを認識出来ませんので\n電源を入れてからセットしください。",
-          "translation": "• How to set the Gai Soul\n• Set the Gai Soul in Night Mode while Gai Soken’s mouth is open.\n• If the Gai Soul is set before turning on Gai Soken’s power switch, it cannot recognize the Gai Soul, so turn on the power first and then set it.",
+          "translation": "• How to set the Gaisoul\n• With Gaisoken's mouth open, insert the Gaisoul in Night Mode.\n• If the Gaisoul is placed before turning on Gaisoken's power switch, Gaisoken may not recognize it. Turn the power on first, then set the Gaisoul.",
           "bbox": [0.0774022296667099, 0.11458222126960754, 0.465264135479927, 0.18001777873039243],
           "layout": "panel"
         },
         {
           "text": "①ガイソウルを\n矢印の方向に\nセットします。\n「セット音」、\n「ガイソーチェンジ」\n「変身待機音」が鳴り、\nLEDが光ります。",
-          "translation": "• 1. Set the Gai Soul in the direction of the arrow.\n• \"Set sound,\" \"Gai Soul Change,\" and \"Transformation standby sound\" will play, and the LED will light up.",
+          "translation": "1. Set the Gaisoul in the direction of the arrow. You will hear the “set” sound, “Gaiso Change” and “transformation standby” sounds, and the LED will light.",
           "bbox": [0.0774, 0.2941, 0.19253911409378052, 0.12520000000000003],
           "layout": "panel"
         },
         {
           "text": "ガイソーケンの\nスロット部に合わせて\nガイソウルの\n凸部をセットします。",
-          "translation": "Align the projection of the Gaisoul with the slot of the Gaisoken and set it in place.",
+          "translation": "Align the Gaisoul's protrusion with the Gaisoken's slot and insert it.",
           "bbox": [
             0.13657889819145203, 0.4567829475402832, 0.16172110180854798, 0.07011705245971672
           ],
@@ -3559,32 +3483,26 @@
         },
         {
           "text": "②ロック解除グリップを握り、レバー操作で口を閉じます。\n「変身音」が鳴り、LEDが光ります。",
-          "translation": "• 2. Grasp the unlock grip and operate the lever to close the mouth.\n• A \"transformation sound\" will play and the LED will light.",
+          "translation": "• ②Grip the lock-release grip and operate the lever to close the mouth.\n• The transformation sound plays, and the LED lights.",
           "bbox": [0.0774, 0.6593000000000001, 0.41900000000000004, 0.03204282016754134],
           "layout": "panel"
         },
         {
-          "text": "③トリガーを短押しします。\n→押す度に「斬撃音」が鳴り、\nLEDが光ります。",
-          "translation": "• 3. Press the trigger briefly.\n• → Each time you press it, a \"slash\" sound plays and the LED lights up.",
-          "bbox": [0.0774, 0.7161541686058045, 0.226, 0.05084583139419541],
-          "layout": "panel"
-        },
-        {
-          "text": "※「セリフ遊び」でノーマルモード以外の際は、\n「かけ声」 と 「斬撃音」が交互に鳴ります。",
-          "translation": "• When \"Serifu Asobi\" is set to any mode other than Normal,\n• the \"kakegoe\" (battle cries) and the \"zangeki-on\" (slash sounds) will sound alternately.",
-          "bbox": [0.0791, 0.7741952643394471, 0.3298, 0.03443894672393788],
-          "layout": "panel"
-        },
-        {
-          "text": "※「セリフ遊び」でノーマルモード以外の際は、\n「強攻撃音」以外の音声が鳴ります。",
-          "translation": "Note: In \"Dialogue Play\", when not in Normal Mode, voices other than the \"Strong Attack Sound\" will play.",
-          "bbox": [0.0782598659992218, 0.8781856403350831, 0.3289401340007782, 0.05251435966491691],
+          "text": "④トリガーを長押しします。\n「強攻撃音」が鳴り、LEDが光ります。\n※「セリフ遊び」でノーマルモード以外の際は、\n「強攻撃音」以外の音声が鳴ります。",
+          "translation": "• 4. Press and hold the trigger.\n• You will hear the \"Strong Attack\" sound and the LED will light.\n• If \"Serifu Asobi\" is set to a mode other than Normal, a sound other than the \"Strong Attack\" sound will play.",
+          "bbox": [0.0774, 0.8316, 0.3298, 0.09909999999999997],
           "layout": "panel"
         },
         {
           "text": "※「セリフ遊び」の詳細は、\n本書8ページをご覧ください。",
-          "translation": "For details about \"Serifu Asobi\" (line-play), please see page 8 of this book.",
+          "translation": "For details about “Serifu Asobi,” see page 8 of this manual.",
           "bbox": [0.0791, 0.9302, 0.22685969104766845, 0.03379999999999994],
+          "layout": "panel"
+        },
+        {
+          "text": "※ロック解除\nグリップを\n握りながら\n行います。",
+          "translation": "Unlock: perform while holding the grip.",
+          "bbox": [0.881, 0.8582000000000001, 0.07590308952331537, 0.04716939048767077],
           "layout": "panel"
         },
         {
@@ -3593,9 +3511,14 @@
           "bbox": [0.2067, 0.552, 0.0669, 0.0079]
         },
         {
-          "text": "④トリガーを長押しします。\n「強攻撃音」が鳴り、LEDが光ります。",
-          "translation": "④ Press and hold the trigger. The \"strong attack\" sound plays, and the LED lights up.",
-          "bbox": [0.0789, 0.8331, 0.2993, 0.0314]
+          "text": "③トリガーを短押しします。\n→押す度に「斬撃音」が鳴り、\nLEDが光ります。",
+          "translation": "③ Press the trigger briefly.\n→ Each time you press it, a \"slashing\" sound plays and the LED lights up.",
+          "bbox": [0.0789, 0.7177, 0.223, 0.0478]
+        },
+        {
+          "text": "※「セリフ遊び」でノーマルモード以外の際は、\n「かけ声」 と 「斬撃音」が交互に鳴ります。",
+          "translation": "※ In \"Dialogue Mode,\" when not in Normal Mode, \"shouts\" and \"slashing\" sounds alternate.",
+          "bbox": [0.0806, 0.7757, 0.3268, 0.0314]
         },
         {
           "text": "トリガー",
@@ -3606,16 +3529,6 @@
           "text": "凸部",
           "translation": "Protrusion",
           "bbox": [0.669, 0.5937, 0.03, 0.0091]
-        },
-        {
-          "text": "※ロック解除\nグリップを\n握りながら\n行います。",
-          "translation": "※ Perform while holding the lock-release grip.",
-          "bbox": [0.8825, 0.8597, 0.0729, 0.0441]
-        },
-        {
-          "text": "6",
-          "translation": "6",
-          "bbox": [0.9365, 0.9541, 0.0137, 0.0109]
         }
       ],
       "image": "pages/page-6.webp",
@@ -3751,31 +3664,27 @@
               "source_ids": [10]
             },
             {
-              "id": "p5",
-              "kind": "prose",
-              "source_ids": [11]
-            },
-            {
               "id": "p6",
               "kind": "prose",
-              "source_ids": [12]
+              "source_ids": [13, 14]
+            },
+            {
+              "id": "p7",
+              "kind": "prose",
+              "source_ids": [15]
             },
             {
               "id": "p8",
               "kind": "prose",
-              "source_ids": [14]
-            },
-            {
-              "id": "p9",
-              "kind": "prose",
-              "source_ids": [15]
+              "source_ids": [18]
             }
           ],
           "furigana": [],
           "notes": [
-            "Source 1 combines a section heading with its body, so it could not be separated by source ID. Diagram labels and page number were left ungrouped.",
-            "Panel p7 retained original English after failed automatic checks"
-          ]
+            "Source 1 contains both a subsection heading and its explanatory body in one OCR region, so it is kept as one prose panel.",
+            "Panel p5 retained original English after failed automatic checks"
+          ],
+          "native_artwork": [19]
         },
         "mapping": [
           {
@@ -3793,7 +3702,7 @@
             "japanese_items": [
               "ガイソウルのセットの仕方",
               "※ガイソーケンの口を開けた状態でナイトモードのガイソウルをセットします。",
-              "※ガイソーケンの電源スイッチを入れる前にガイソウルがセットされているとガイソウルを認識出来ませんので電源を入れてからセットしてください。"
+              "※ガイソーケンの電源スイッチを入れる前にガイソウルがセットされているとガイソウルを認識出来ませんので電源を入れてからセットしください。"
             ]
           },
           {
@@ -3802,8 +3711,7 @@
             "source_ids": [2, 3, 4, 5, 6, 7],
             "furigana_ids": [],
             "japanese_items": [
-              "①ガイソウルを矢印の方向にセットします。",
-              "「セット音」、「ガイソーチェンジ」「変身待機音」が鳴り、LEDが光ります。"
+              "①ガイソウルを矢印の方向にセットします。「セット音」「ガイソーチェンジ」「変身待機音」が鳴り、LEDが光ります。"
             ]
           },
           {
@@ -3825,48 +3733,42 @@
           },
           {
             "display_index": 5,
-            "panel_id": "p5",
-            "source_ids": [11],
-            "furigana_ids": [],
-            "japanese_items": [
-              "③トリガーを短押しします。",
-              "→押す度に「斬撃音」が鳴り、LEDが光ります。"
-            ]
-          },
-          {
-            "display_index": 6,
             "panel_id": "p6",
-            "source_ids": [12],
+            "source_ids": [13, 14],
             "furigana_ids": [],
             "japanese_items": [
-              "※「セリフ遊び」でノーマルモード以外の際は、",
-              "「かけ声」と「斬撃音」が交互に鳴ります。"
-            ]
-          },
-          {
-            "display_index": 7,
-            "panel_id": "p8",
-            "source_ids": [14],
-            "furigana_ids": [],
-            "japanese_items": [
+              "④トリガーを長押しします。",
+              "「強攻撃音」が鳴り、LEDが光ります。",
               "※「セリフ遊び」でノーマルモード以外の際は、「強攻撃音」以外の音声が鳴ります。"
             ]
           },
           {
-            "display_index": 8,
-            "panel_id": "p9",
+            "display_index": 6,
+            "panel_id": "p7",
             "source_ids": [15],
             "furigana_ids": [],
             "japanese_items": ["※「セリフ遊び」の詳細は、本書8ページをご覧ください。"]
           },
           {
-            "display_index": 9,
+            "display_index": 7,
+            "panel_id": "p8",
+            "source_ids": [18],
+            "furigana_ids": [],
+            "japanese_items": ["※ロック解除　グリップを握りながら行います。"]
+          },
+          {
+            "display_index": 8,
             "source_ids": [9],
             "furigana_ids": []
           },
           {
+            "display_index": 9,
+            "source_ids": [11],
+            "furigana_ids": []
+          },
+          {
             "display_index": 10,
-            "source_ids": [13],
+            "source_ids": [12],
             "furigana_ids": []
           },
           {
@@ -3880,14 +3782,10 @@
             "furigana_ids": []
           },
           {
-            "display_index": 13,
-            "source_ids": [18],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 14,
+            "display_index": -1,
             "source_ids": [19],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           }
         ],
         "uncertainties": [],
@@ -4187,20 +4085,20 @@
         },
         {
           "text": "※6ページ「リュウソウルのセットの仕方」 ② 以降から始めます。",
-          "translation": "Starts from page 6, \"How to set the Ryusoul\", beginning at step 2.",
+          "translation": "Begin from step ② on page 6, “How to set the Ryusoul.”",
           "bbox": [0.079, 0.1043, 0.5771701192855835, 0.0169097972035408],
           "layout": "panel"
         },
         {
-          "text": "1. レバー操作で口を開きます。\n「必殺待機音」が始まり、LEDが光ります。",
-          "translation": "1. Operate the lever to open the mouth. The \"Special Attack Standby Sound\" will start and the LED will light.",
-          "bbox": [0.08076221054792404, 0.1436, 0.35783778945207595, 0.03989999999999999],
+          "text": "2.必殺待機音中にレバーで口を閉じます。\n→ 「必殺攻撃音」 が鳴り、LEDが光ります。",
+          "translation": "• 2. While the special-attack standby sound is playing, close the mouth with the lever.\n• → The “Special Attack Sound” will play and the LED will light.",
+          "bbox": [0.079, 0.5166000000000001, 0.3449507212638855, 0.0512999999999999],
           "layout": "panel"
         },
         {
-          "text": "2.必殺待機音中にレバーで口を閉じます。\n→ 「必殺攻撃音」 が鳴り、LEDが光ります。",
-          "translation": "• 2. While the special-move standby sound is playing, close the mouth with the lever.\n• → The “special attack sound” will play, and the LED will light.",
-          "bbox": [0.079, 0.5166000000000001, 0.3449507212638855, 0.0512999999999999],
+          "text": "※「セリフ遊び」の各モード状態の際は、\n別の音声が鳴ります。\n※「セリフ遊び」の詳細は、\n本書8ページをご覧ください。",
+          "translation": "• In each Serifu Asobi mode, different voice lines will play.\n• For details about Serifu Asobi, see page 8 of this manual.",
+          "bbox": [0.1176, 0.5674, 0.28492827548980715, 0.06952926311492913],
           "layout": "panel"
         },
         {
@@ -4212,19 +4110,20 @@
           "layout": "panel"
         },
         {
+          "text": "ロック解除グリップを握り、\nレバー操作で口を開け、\n解除ボタンを押して、\nガイソウルを矢印の方向に\n引き抜きます。\n「解除音」が鳴ります。",
+          "translation": "• Hold the lock-release grip, open the mouth by operating the lever, press the release button, and pull the Gaisoul out in the direction of the arrow.\n• A \"release\" sound will play.",
+          "bbox": [0.11589502847194671, 0.7669, 0.19922965157032013, 0.10582130393981926],
+          "layout": "panel"
+        },
+        {
+          "text": "1. レバー操作で口を開きます。\n「必殺待機音」が始まり、LEDが光ります。",
+          "translation": "1. Operate the lever to open the mouth.\n→ The \"special attack standby\" sound will play and the LED will light.",
+          "bbox": [0.0823, 0.1451, 0.3548, 0.0369]
+        },
+        {
           "text": "※ロック解除\nグリップを\n握りながら\n行います。",
           "translation": "*When unlocking, hold the unlock grip while performing the action.",
           "bbox": [0.4447, 0.2062, 0.0728, 0.0435]
-        },
-        {
-          "text": "※「セリフ遊び」の各モード状態の際は、\n別の音声が鳴ります。\n※「セリフ遊び」の詳細は、\n本書8ページをご覧ください。",
-          "translation": "*Different sounds will play when in the various \"Dialogue Play\" modes.\n*For details on \"Dialogue Play,\" see page 8 of this Instruction Manual.",
-          "bbox": [0.1191, 0.5689, 0.2819, 0.0665]
-        },
-        {
-          "text": "ロック解除グリップを握り、\nレバー操作で口を開け、\n解除ボタンを押して、\nガイソウルを矢印の方向に\n引き抜きます。\n「解除音」が鳴ります。",
-          "translation": "Hold the unlock grip, operate the lever to open the mouth, press the release button, and pull the Gaisoul out in the direction of the arrow.\n→ A \"release\" sound will play.",
-          "bbox": [0.1174, 0.7684, 0.1962, 0.1028]
         },
         {
           "text": "トリガー",
@@ -4325,27 +4224,29 @@
               "source_ids": [1]
             },
             {
-              "id": "p2",
-              "kind": "prose",
-              "source_ids": [2]
-            },
-            {
               "id": "p3",
               "kind": "prose",
               "source_ids": [4]
             },
             {
+              "id": "p4",
+              "kind": "prose",
+              "source_ids": [5]
+            },
+            {
               "id": "p5",
               "kind": "heading",
               "source_ids": [6]
+            },
+            {
+              "id": "p6",
+              "kind": "prose",
+              "source_ids": [7]
             }
           ],
           "furigana": [],
-          "notes": [
-            "Source IDs 3, 8, 9, 10, and 11 are diagram callouts/labels or sound-effect display text and are left ungrouped.",
-            "Panel p4 retained original English after failed automatic checks",
-            "Panel p6 retained original English after failed automatic checks"
-          ]
+          "notes": ["Panel p2 retained original English after failed automatic checks"],
+          "native_artwork": []
         },
         "mapping": [
           {
@@ -4364,21 +4265,22 @@
           },
           {
             "display_index": 2,
-            "panel_id": "p2",
-            "source_ids": [2],
-            "furigana_ids": [],
-            "japanese_items": [
-              "1. レバー操作で口を開きます。 「必殺待機音」が始まり、LEDが光ります。"
-            ]
-          },
-          {
-            "display_index": 3,
             "panel_id": "p3",
             "source_ids": [4],
             "furigana_ids": [],
             "japanese_items": [
               "2.必殺待機音中にレバーで口を閉じます。",
-              "→ 「必殺攻撃音」が鳴り、LEDが光ります。"
+              "→ 「必殺攻撃音」 が鳴り、LEDが光ります。"
+            ]
+          },
+          {
+            "display_index": 3,
+            "panel_id": "p4",
+            "source_ids": [5],
+            "furigana_ids": [],
+            "japanese_items": [
+              "※「セリフ遊び」の各モード状態の際は、別の音声が鳴ります。",
+              "※「セリフ遊び」の詳細は、本書8ページをご覧ください。"
             ]
           },
           {
@@ -4390,17 +4292,22 @@
           },
           {
             "display_index": 5,
-            "source_ids": [3],
-            "furigana_ids": []
+            "panel_id": "p6",
+            "source_ids": [7],
+            "furigana_ids": [],
+            "japanese_items": [
+              "ロック解除グリップを握り、レバー操作で口を開け、解除ボタンを押して、ガイソウルを矢印の方向に引き抜きます。",
+              "「解除音」が鳴ります。"
+            ]
           },
           {
             "display_index": 6,
-            "source_ids": [5],
+            "source_ids": [2],
             "furigana_ids": []
           },
           {
             "display_index": 7,
-            "source_ids": [7],
+            "source_ids": [3],
             "furigana_ids": []
           },
           {
@@ -4637,22 +4544,16 @@
         },
         {
           "text": "※ガイソウルをセットしている、いないに関わらず遊べます。\n※起動時は「ノーマルモード」になっています。",
-          "translation": "• You can play whether or not a Gai Soul is set.\n• When powered on, it is in \"Normal Mode.\"",
+          "translation": "• You can play whether or not a Gaizoul is set.\n• The device starts in Normal Mode.",
           "bbox": [0.0791, 0.10369951581954956, 0.5562, 0.04350785303115845],
           "layout": "panel"
         },
         {
           "text": "1.セリフボタンを短押しします。\n「口開き音」が鳴ります。",
-          "translation": "• 1. Briefly press the dialogue button.\n• A \"mouth-opening\" sound will play.",
+          "translation": "• 1. Briefly press the speech button.\n• A mouth-opening sound will play.",
           "bbox": [
             0.08169039642810821, 0.18229685282707214, 0.24660960357189177, 0.039903147172927866
           ],
-          "layout": "panel"
-        },
-        {
-          "text": "2.①セリフボタンを長押しします。\n長押しする度に、下記の表の順に\nモードが切り替えセリフが鳴り、\nLEDが光ります。",
-          "translation": "2.① Press and hold the line (serif) button. Each time you press and hold it, the mode switches in the order shown in the table below, a line (phrase) plays, and the LED lights up.",
-          "bbox": [0.0774, 0.24638391590118408, 0.3100348297119141, 0.0875160840988159],
           "layout": "panel"
         },
         {
@@ -4669,7 +4570,7 @@
         },
         {
           "text": "ノーマルモード",
-          "translation": "Normal mode",
+          "translation": "Normal Mode",
           "bbox": [0.19489794528484344, 0.3546, 0.09991251814365387, 0.0121],
           "layout": "panel"
         },
@@ -4681,19 +4582,19 @@
         },
         {
           "text": "ガイソーグセリフモード",
-          "translation": "Gaisogu Dialogue Mode",
+          "translation": "Gaisōgu Speech Mode",
           "bbox": [0.16916895961761474, 0.3733, 0.15313104038238523, 0.019899999999999973],
           "layout": "panel"
         },
         {
           "text": "② モードを選択後、セリフボタンを短押しします。\n→短押しする度に、各モードのセリフが順に\nLEDの発光と共に鳴ります。",
-          "translation": "• 2. After selecting a mode, briefly press the phrase button.\n• → Each time you briefly press it, the phrases for each mode will play in order together with the LED lighting.",
+          "translation": "• 2. After selecting a mode, briefly press the phrase button.\n• Each short press plays the next mode's phrase in order, accompanied by the LED lighting.",
           "bbox": [0.11256517773866653, 0.4483, 0.35463482226133347, 0.07070000000000004],
           "layout": "panel"
         },
         {
           "text": "※各モードのセリフは、P.11~14ページの\n「セリフ一覧」をご覧ください。",
-          "translation": "※For the lines for each mode, please see the \"List of Lines\" on pages P.11–14.",
+          "translation": "See the “Line List” on pages P.11–14 for the lines in each mode.",
           "bbox": [
             0.11428044295310974, 0.7064806327819825, 0.33491955704689025, 0.03443894672393788
           ],
@@ -4701,9 +4602,14 @@
         },
         {
           "text": "「BGM遊び」 で、 BGMを再生中に\n「セリフ遊び」の 1.~2. の操作をすることで\nBGMとセリフを同時に再生することができます。\n「セリフ遊び」で「ガイソーグセリフモード」\n「ナダ登場初期モード」「ナダ後期モード」の際は\nトリガーを短押しすると 「斬撃音」と「かけ声」が\n交互に鳴ります。",
-          "translation": "• In “BGM Play,” while BGM is playing, performing operations 1–2 of “Line Play” allows BGM and lines to play simultaneously.\n• In “Line Play,” when in “Gaisog Line Mode,” “Nada Initial Appearance Mode,” or “Nada Later Mode,” a short press of the trigger causes the slashing sound and the shout to alternate.",
+          "translation": "• In “BGM Play,” while the BGM is playing, perform operations 1–2 of “Serifu Play” to play the BGM and voice lines at the same time.\n• In “Serifu Play,” when in “Gaisōg Serifu Mode,” “Nada Early-Appearance Mode,” or “Nada Late Mode,” a short press of the trigger will play the slashing sound and the shout alternately.",
           "bbox": [0.1297, 0.7917000000000001, 0.35464733295440676, 0.13180726270675647],
           "layout": "panel"
+        },
+        {
+          "text": "2.①セリフボタンを長押しします。\n長押しする度に、下記の表の順に\nモードが切り替えセリフが鳴り、\nLEDが光ります。",
+          "translation": "2. ① Press and hold the Dialogue Button.\n→Each time you press and hold, the mode will switch in the order shown in the table below, a line of dialogue will play, and the LED will light.",
+          "bbox": [0.0789, 0.2479, 0.307, 0.0732]
         },
         {
           "text": "1回",
@@ -4759,11 +4665,6 @@
           "text": "セリフボタン",
           "translation": "Dialogue Button",
           "bbox": [0.7556, 0.8283, 0.0789, 0.0085]
-        },
-        {
-          "text": "8",
-          "translation": "8",
-          "bbox": [0.9357, 0.9534, 0.0163, 0.0115]
         }
       ],
       "image": "pages/page-8.webp",
@@ -4909,11 +4810,6 @@
               "source_ids": [2]
             },
             {
-              "id": "p3-a-a",
-              "kind": "prose",
-              "source_ids": [3]
-            },
-            {
               "id": "p3-a-b-a",
               "kind": "prose",
               "source_ids": [5]
@@ -4939,29 +4835,29 @@
               "source_ids": [9]
             },
             {
-              "id": "p6",
+              "id": "p5",
               "kind": "prose",
               "source_ids": [17]
             },
             {
-              "id": "p8",
+              "id": "p7",
               "kind": "prose",
               "source_ids": [19]
             },
             {
-              "id": "p9",
+              "id": "p8",
               "kind": "prose",
               "source_ids": [21]
             }
           ],
           "furigana": [],
           "notes": [
-            "Source 20 appears to be an OCR artifact over the illustration and was left ungrouped. Source 22 is a diagram label and source 23 is the page number, left ungrouped.",
-            "Conservative panel fallback: Panel p4 would mask unrelated source 6",
-            "Retained p4 unchanged: Panel p4 would mask unrelated source 6",
+            "Conservative panel fallback: Panel p3 would mask unrelated source 5",
+            "Panel p3-a-a retained original English after failed automatic checks",
             "Panel p3-b-b-b retained original English after failed automatic checks",
-            "Panel p7 retained original English after failed automatic checks"
-          ]
+            "Panel p6 retained original English after failed automatic checks"
+          ],
+          "native_artwork": [23]
         },
         "mapping": [
           {
@@ -4977,7 +4873,7 @@
             "source_ids": [1],
             "furigana_ids": [],
             "japanese_items": [
-              "※ガイソウルをセットしている、いない、に関わらず遊べます。",
+              "※ガイソウルをセットしている、いないに関わらず遊べます。",
               "※起動時は「ノーマルモード」になっています。"
             ]
           },
@@ -4990,61 +4886,52 @@
           },
           {
             "display_index": 3,
-            "panel_id": "p3-a-a",
-            "source_ids": [3],
-            "furigana_ids": [],
-            "japanese_items": [
-              "2.①セリフボタンを長押しします。長押しする度に、下記の表の順にモードが切り替えセリフが鳴り、LEDが光ります。"
-            ]
-          },
-          {
-            "display_index": 4,
             "panel_id": "p3-a-b-a",
             "source_ids": [5],
             "furigana_ids": [],
             "japanese_items": ["モード"]
           },
           {
-            "display_index": 5,
+            "display_index": 4,
             "panel_id": "p3-a-b-b",
             "source_ids": [4],
             "furigana_ids": [],
             "japanese_items": ["長押し"]
           },
           {
-            "display_index": 6,
+            "display_index": 5,
             "panel_id": "p3-b-a-a",
             "source_ids": [7],
             "furigana_ids": [],
             "japanese_items": ["ノーマルモード"]
           },
           {
-            "display_index": 7,
+            "display_index": 6,
             "panel_id": "p3-b-a-b",
             "source_ids": [6],
             "furigana_ids": [],
             "japanese_items": ["起動時"]
           },
           {
-            "display_index": 8,
+            "display_index": 7,
             "panel_id": "p3-b-b-a",
             "source_ids": [9],
             "furigana_ids": [],
             "japanese_items": ["ガイソーグセリフモード"]
           },
           {
-            "display_index": 9,
-            "panel_id": "p6",
+            "display_index": 8,
+            "panel_id": "p5",
             "source_ids": [17],
             "furigana_ids": [],
             "japanese_items": [
               "② モードを選択後、セリフボタンを短押しします。",
-              "→短押しする度に、各モードのセリフが順にLEDの発光と共に鳴ります。"
+              "→短押しする度に、各モードのセリフが順に\nLEDの発光と共に鳴ります。"
             ]
           },
           {
-            "display_index": 10,
-            "panel_id": "p8",
+            "display_index": 9,
+            "panel_id": "p7",
             "source_ids": [19],
             "furigana_ids": [],
             "japanese_items": [
@@ -5052,14 +4939,19 @@
             ]
           },
           {
-            "display_index": 11,
-            "panel_id": "p9",
+            "display_index": 10,
+            "panel_id": "p8",
             "source_ids": [21],
             "furigana_ids": [],
             "japanese_items": [
               "「BGM遊び」で、BGMを再生中に「セリフ遊び」の1.~2.の操作をすることでBGMとセリフを同時に再生することができます。",
               "「セリフ遊び」で「ガイソーグセリフモード」「ナダ登場初期モード」「ナダ後期モード」の際はトリガーを短押しすると「斬撃音」と「かけ声」が交互に鳴ります。"
             ]
+          },
+          {
+            "display_index": 11,
+            "source_ids": [3],
+            "furigana_ids": []
           },
           {
             "display_index": 12,
@@ -5117,13 +5009,15 @@
             "furigana_ids": []
           },
           {
-            "display_index": 23,
+            "display_index": -1,
             "source_ids": [23],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           }
         ],
         "uncertainties": [
-          "Uncertain reading or meaning of \"ガイソーグ\" — translated here as \"Gaisogu\" because the term is unclear in the image; \"セリフモード\" confidently translated as \"Dialogue Mode.\""
+          "Reading/romanization of the proper noun ガイソーグ is uncertain; rendered as “Gaisōgu”.",
+          "セリフモード translated as “Speech Mode” (could also be “Line Mode” depending on context)."
         ],
         "ocr_lines": [
           {
@@ -5446,14 +5340,22 @@
           "layout": "panel"
         },
         {
-          "text": "1. トリガーを長押しします。\n「リュウソウ、リュウソウガイソー!あぁっ!」が鳴ります。\n2.ガイソウルセットします。\n「ガイソーチェンジ」 「そっちかいな」が鳴ります。\n3. レバー操作を行います。\n→変身音「不屈の騎士! ガイソーグ!\n俺の騎士道、見せたるわい!って\n言うてみたかったんや~っ、これ!」が",
-          "translation": "• 1. Press and hold the trigger. → “Ryusou, Ryusou Gaisou! Aaah!” will play.\n• 2. Set the Gaisoul. → “Gaisou Change” and “Sotchika na” will play.\n• 3. Operate the lever. → Transformation voice: “Indomitable knight! Gaisoug! I’ll show you my chivalry! I wanted to say that—this is it!” will play.",
-          "bbox": [0.079, 0.16718197917938232, 0.45206300973892205, 0.1879180208206177],
+          "text": "2.ガイソウルセットします。\n「ガイソーチェンジ」 「そっちかいな」が鳴ります。",
+          "translation": "2. Set the Gai Soul. \"Gaiso Change\" and \"Sotchika ina\" will sound.",
+          "bbox": [0.079, 0.2197817370891571, 0.3972, 0.055518262910842886],
+          "layout": "panel"
+        },
+        {
+          "text": "3. レバー操作を行います。\n→変身音「不屈の騎士! ガイソーグ!\n俺の騎士道、見せたるわい!って\n言うてみたかったんや~っ、これ!」が\n鳴ります。",
+          "translation": "3. Operate the lever. The transformation sound plays: \"Indomitable Knight! Gaisorg! I wanted to say, 'I'll show you my chivalry!' — this is it!\"",
+          "bbox": [
+            0.07904841309785843, 0.2747998938560486, 0.3731799437403679, 0.10570010614395142
+          ],
           "layout": "panel"
         },
         {
           "text": "3. の後に、ガイソウルを取り外した後、\n1. の操作を行うと「ガイソーチェンジ!」が鳴り、\n2.~3. の操作を行うと 「不屈の騎士 ! ガイソーグ!\n俺の騎士道、見せたるわい!」が鳴ります。",
-          "translation": "After step 3, after removing the Gaisoul, performing the operation in 1. will play “Gaiso Change!”, and performing the operations in 2.–3. will play “Indomitable Knight! Gaisorg! I’ll show you my chivalry!”",
+          "translation": "• After step 3, after removing the Gaisoul, performing operation 1 will play \"Gaiso Change!\"\n• Performing operations 2–3 will play \"Unyielding knight! Gaisorg! I'll show you my chivalry!\"",
           "bbox": [
             0.07819151437282562, 0.37999940967559814, 0.3980300067663193, 0.09660059032440188
           ],
@@ -5461,7 +5363,7 @@
         },
         {
           "text": "※ 「セリフ遊び」の詳細は、 本書8ページをご覧ください。\n※途中で上記以外の操作を行うと、特殊変身モードが解除されます。",
-          "translation": "• For details on “Dialogue Play,” please see page 8 of this manual.\n• If you perform any operation other than those listed above while in progress, the special transformation mode will be canceled.",
+          "translation": "• For details about the \"Serifu Asobi\" feature, see page 8 of this manual.\n• If you perform any operation other than the ones above while it is running, the special transformation mode will be canceled.",
           "bbox": [0.079, 0.4761, 0.494050965309143, 0.032699999999999896],
           "layout": "panel"
         },
@@ -5475,57 +5377,32 @@
         },
         {
           "text": "BGMボタンを短押しします。\n下記の表のBGM1~3が順に流れます。\nBGM3の後は、 BGM1に戻ります。",
-          "translation": "• Press the BGM button briefly.\n• BGM1~3 in the table below will play in order.\n• After BGM3, it returns to BGM1.",
+          "translation": "• Press the BGM button briefly.\n• BGM1–3 in the table below will play in order.\n• After BGM3, playback returns to BGM1.",
           "bbox": [0.07819151437282562, 0.6085, 0.30120050299167633, 0.06279999999999997],
           "layout": "panel"
         },
         {
-          "text": "「ガイソーグを打ち砕け」",
-          "translation": "Smash Gaisog",
-          "bbox": [
-            0.19472965157032013, 0.6708000000000001, 0.18466236579418183, 0.020499999999999963
-          ],
-          "layout": "panel"
-        },
-        {
-          "text": "BGM1",
-          "translation": "BGM1",
-          "bbox": [0.0893, 0.672, 0.0596, 0.01869999999999994],
-          "layout": "panel"
-        },
-        {
-          "text": "BGM2",
-          "translation": "BGM 2",
-          "bbox": [0.0893, 0.6901565895080567, 0.057872664046287534, 0.01214341049194323],
-          "layout": "panel"
-        },
-        {
-          "text": "「竜の鎧」\n「騎士竜戦隊リュウソウジャー",
-          "translation": "• \"Dragon Armor\"\n• \"Kishiryu Sentai Ryusoulger\"",
-          "bbox": [0.1947, 0.6907611594200135, 0.1847, 0.03613884057998651],
+          "text": "「ガイソーグを打ち砕け」\n「竜の鎧」\n「騎士竜戦隊リュウソウジャー\n(インストゥルメンタル)」",
+          "translation": "• \"Smash Gaisorg\"\n• \"Dragon Armor\"\n• \"Kishiryu Sentai Ryusoulger (Instrumental)\"",
+          "bbox": [0.1947, 0.6708000000000001, 0.1847, 0.0677011806488036],
           "layout": "panel"
         },
         {
           "text": "BGMの再生中にもう一度、BGMボタンを\n短押しすると、BGMが停止します。\n停止後、再びBGMボタンを短押しすると、\n次のBGMが流れます。",
-          "translation": "• While BGM is playing, press the BGM button briefly once more to stop the BGM.\n• After stopping, press the BGM button briefly again to play the next BGM.",
+          "translation": "While BGM is playing, press the BGM button once briefly to stop it. After it stops, press the BGM button briefly again to play the next BGM.",
           "bbox": [0.097, 0.7657309279441834, 0.29952999186515805, 0.07192383098602284],
           "layout": "panel"
         },
         {
           "text": "※電源スイッチをOFFにするまで、 他の遊びを行っても\n最後に再生されたBGMの次のBGMから始まります。",
-          "translation": "Until the power switch is turned OFF, even if you play other modes, playback will start from the BGM following the last BGM that was played.",
+          "translation": "Until you turn the power switch OFF, switching to other play modes will start with the BGM that comes after the BGM that was last played.",
           "bbox": [0.08499999999999999, 0.8727, 0.39893358731269835, 0.03146019105911246],
           "layout": "panel"
         },
         {
-          "text": "9",
-          "translation": "9",
-          "bbox": [0.0471, 0.9534, 0.0154, 0.0115]
-        },
-        {
-          "text": "www",
-          "translation": "www",
-          "bbox": [0.545, 0.2987, 0.048, 0.0218]
+          "text": "1. トリガーを長押しします。\n「リュウソウ、リュウソウガイソー!あぁっ!」が鳴ります。",
+          "translation": "1. Press and hold the trigger.\n\"Ryusoul, Ryusoul Gaisoul! Aah!\" will sound.",
+          "bbox": [0.0805, 0.1687, 0.449, 0.0369]
         },
         {
           "text": "※ロック解除",
@@ -5538,24 +5415,9 @@
           "bbox": [0.8543, 0.3591, 0.0617, 0.0308]
         },
         {
-          "text": "鳴ります。",
-          "translation": "It will sound.",
-          "bbox": [0.1354, 0.3561, 0.0686, 0.0127]
-        },
-        {
           "text": "トリガー",
           "translation": "Trigger",
           "bbox": [0.5613, 0.4528, 0.0471, 0.0085]
-        },
-        {
-          "text": "BGM3",
-          "translation": "BGM3",
-          "bbox": [0.0908, 0.7201, 0.0566, 0.0079]
-        },
-        {
-          "text": "(インストゥルメンタル)」",
-          "translation": "(Instrumental)\"",
-          "bbox": [0.2074, 0.7279, 0.1534, 0.0091]
         },
         {
           "text": "BGMボタン",
@@ -5711,9 +5573,14 @@
               "source_ids": [1]
             },
             {
-              "id": "p2",
+              "id": "p3",
               "kind": "prose",
-              "source_ids": [2, 3, 4, 6, 8]
+              "source_ids": [3]
+            },
+            {
+              "id": "p4",
+              "kind": "prose",
+              "source_ids": [4, 6, 8, 10]
             },
             {
               "id": "p5",
@@ -5731,29 +5598,14 @@
               "source_ids": [15]
             },
             {
-              "id": "p8-a-a",
+              "id": "p8",
               "kind": "prose",
               "source_ids": [16]
             },
             {
-              "id": "p8-a-b-a",
+              "id": "p9",
               "kind": "prose",
-              "source_ids": [17]
-            },
-            {
-              "id": "p8-a-b-b",
-              "kind": "prose",
-              "source_ids": [18]
-            },
-            {
-              "id": "p8-b-a",
-              "kind": "prose",
-              "source_ids": [19]
-            },
-            {
-              "id": "p8-b-b",
-              "kind": "prose",
-              "source_ids": [20, 21]
+              "source_ids": [17, 20, 21, 23]
             },
             {
               "id": "p10",
@@ -5768,10 +5620,10 @@
           ],
           "furigana": [],
           "notes": [
-            "Source 1 contains both the section heading and two usage-precaution lines in one OCR region, so they cannot be separated by source ID.",
-            "Source 5 appears to be an OCR artifact rather than visible manual text.",
-            "Conservative panel fallback: Panel p8 would mask unrelated source 17"
-          ]
+            "Source 1 contains both the section heading and two precaution lines in one OCR region, so it cannot be split into separate heading/body source IDs.",
+            "Panel p2 retained original English after failed automatic checks"
+          ],
+          "native_artwork": [0, 5, 18, 19, 22]
         },
         "mapping": [
           {
@@ -5785,44 +5637,52 @@
           },
           {
             "display_index": 1,
-            "panel_id": "p2",
-            "source_ids": [2, 3, 4, 6, 8],
+            "panel_id": "p3",
+            "source_ids": [3],
             "furigana_ids": [],
             "japanese_items": [
-              "1. トリガーを長押しします。→「リュウソウ、リュウソウガイソー！あぁっ！」が鳴ります。",
-              "2. ガイソウルセットします。→「ガイソーチェンジ」「そっちかいな」が鳴ります。",
-              "3. レバー操作を行います。→変身音「不屈の騎士！ガイソーグ！俺の騎士道、見せたるわい！って言うてみたかったんや〜っ、これ！」が鳴ります。"
+              "2.ガイソウルセットします。『ガイソーチェンジ』『そっちかいな』が鳴ります。"
             ]
           },
           {
             "display_index": 2,
-            "panel_id": "p5",
-            "source_ids": [11],
+            "panel_id": "p4",
+            "source_ids": [4, 6, 8, 10],
             "furigana_ids": [],
             "japanese_items": [
-              "3.の後に、ガイソウルを取り外した後、1.の操作を行うと「ガイソーチェンジ!」が鳴り、2.~3.の操作を行うと「不屈の騎士！ガイソーグ！俺の騎士道、見せたるわい！」が鳴ります。"
+              "3. レバー操作を行います。→変身音「不屈の騎士! ガイソーグ! 俺の騎士道、見せたるわい!って言うてみたかったんや〜っ、これ!」が鳴ります。"
             ]
           },
           {
             "display_index": 3,
-            "panel_id": "p6",
-            "source_ids": [12, 14],
+            "panel_id": "p5",
+            "source_ids": [11],
             "furigana_ids": [],
             "japanese_items": [
-              "※ 「セリフ遊び」の詳細は、本書8ページをご覧ください。",
-              "※途中で上記以外の操作を行うと、特殊変身モードが解除されます。"
+              "3.の後に、ガイソウルを取り外した後、1.の操作を行うと「ガイソーチェンジ!」が鳴り、",
+              "2.~3.の操作を行うと「不屈の騎士! ガイソーグ! 俺の騎士道、見せたるわい!」が鳴ります。"
             ]
           },
           {
             "display_index": 4,
+            "panel_id": "p6",
+            "source_ids": [12, 14],
+            "furigana_ids": [],
+            "japanese_items": [
+              "※ 「セリフ遊び」の詳細は、 本書8ページをご覧ください。",
+              "※途中で上記以外の操作を行うと、特殊変身モードが解除されます。"
+            ]
+          },
+          {
+            "display_index": 5,
             "panel_id": "p7",
             "source_ids": [15],
             "furigana_ids": [],
             "japanese_items": ["BGM遊び"]
           },
           {
-            "display_index": 5,
-            "panel_id": "p8-a-a",
+            "display_index": 6,
+            "panel_id": "p8",
             "source_ids": [16],
             "furigana_ids": [],
             "japanese_items": [
@@ -5832,104 +5692,91 @@
             ]
           },
           {
-            "display_index": 6,
-            "panel_id": "p8-a-b-a",
-            "source_ids": [17],
-            "furigana_ids": [],
-            "japanese_items": ["「ガイソーグを打ち砕け」"]
-          },
-          {
             "display_index": 7,
-            "panel_id": "p8-a-b-b",
-            "source_ids": [18],
+            "panel_id": "p9",
+            "source_ids": [17, 20, 21, 23],
             "furigana_ids": [],
-            "japanese_items": ["BGM1"]
+            "japanese_items": [
+              "「ガイソーグを打ち砕け」",
+              "「竜の鎧」",
+              "「騎士竜戦隊リュウソウジャー\n(インストゥルメンタル)」"
+            ]
           },
           {
             "display_index": 8,
-            "panel_id": "p8-b-a",
-            "source_ids": [19],
-            "furigana_ids": [],
-            "japanese_items": ["BGM2"]
-          },
-          {
-            "display_index": 9,
-            "panel_id": "p8-b-b",
-            "source_ids": [20, 21],
-            "furigana_ids": [],
-            "japanese_items": ["「竜の鎧」", "「騎士竜戦隊リュウソウジャー」"]
-          },
-          {
-            "display_index": 10,
             "panel_id": "p10",
             "source_ids": [24],
             "furigana_ids": [],
             "japanese_items": [
-              "BGMの再生中にもう一度、BGMボタンを短押しすると、BGMが停止します。",
-              "停止後、再びBGMボタンを短押しすると、次のBGMが流れます。"
+              "BGMの再生中にもう一度、BGMボタンを短押しすると、BGMが停止します。停止後、再びBGMボタンを短押しすると、次のBGMが流れます。"
             ]
           },
           {
-            "display_index": 11,
+            "display_index": 9,
             "panel_id": "p11",
             "source_ids": [25],
             "furigana_ids": [],
             "japanese_items": [
-              "※電源スイッチをOFFにするまで、他の遊びを行っても最後に再生されたBGMの次のBGMから始まります。"
+              "※電源スイッチをOFFにするまで、 他の遊びを行っても\n最後に再生されたBGMの次のBGMから始まります。"
             ]
           },
           {
-            "display_index": 12,
+            "display_index": -1,
             "source_ids": [0],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
+          },
+          {
+            "display_index": 10,
+            "source_ids": [2],
             "furigana_ids": []
           },
           {
-            "display_index": 13,
+            "display_index": -1,
             "source_ids": [5],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 14,
+            "display_index": 11,
             "source_ids": [7],
             "furigana_ids": []
           },
           {
-            "display_index": 15,
+            "display_index": 12,
             "source_ids": [9],
             "furigana_ids": []
           },
           {
-            "display_index": 16,
-            "source_ids": [10],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 17,
+            "display_index": 13,
             "source_ids": [13],
             "furigana_ids": []
           },
           {
-            "display_index": 18,
+            "display_index": -1,
+            "source_ids": [18],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
+          },
+          {
+            "display_index": -1,
+            "source_ids": [19],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
+          },
+          {
+            "display_index": -1,
             "source_ids": [22],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 19,
-            "source_ids": [23],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 20,
+            "display_index": 14,
             "source_ids": [26],
             "furigana_ids": []
           }
         ],
-        "uncertainties": [
-          "Uncertain reading/spacing for リュウソウガイソー — could be intended as リュウソウ、リュウソウガイソー or リュウソウガイソール; preserved as scanned.",
-          "Uncertain rendering of ガイソウル / ガイソール in step 2 — scanned as ガイソウルセット.",
-          "Uncertain exact punctuation and elongated/dialectal sounds in the final quoted line (〜っ, punctuation around って言うてみたかったんや〜っ).",
-          "Quoted short phrase そっちかいな translated as “Sotchika na” preserving colloquial nuance; alternative natural renderings possible."
-        ],
+        "uncertainties": [],
         "ocr_lines": [
           {
             "id": 0,
@@ -6251,19 +6098,13 @@
         },
         {
           "text": "1. カナエソウルをセットして、口を閉じます。\n「カナエソウル!」が鳴ります。",
-          "translation": "• 1. Set the Kanae Soul and close the mouth.\n• \"Kanae Soul!\" will sound.",
+          "translation": "1. Insert the Kanae Soul and close the mouth. \"Kanae Soul!\" will sound.",
           "bbox": [0.079, 0.1520671055316925, 0.3338110601902008, 0.0543328944683075],
           "layout": "panel"
         },
         {
-          "text": "2.レバー操作で口の開閉を5回行います。\n→ナダの「特別メッセージ1」が鳴ります。",
-          "translation": "• 2. Operate the lever to open and close the mouth five times.\n• → Nada's \"Special Message 1\" will sound.",
-          "bbox": [0.079, 0.20587606287002563, 0.33124037146568297, 0.05432393712997435],
-          "layout": "panel"
-        },
-        {
           "text": "3. トリガーを短押しします。\n本書13ページ\n「ナダ後期モードセリフ一覧表」の\n番号20の音声が鳴ります。",
-          "translation": "• 3. Briefly press the trigger.\n• Refer to page 13 of this manual.\n• The voice for number 20 on the \"Nada Late-Period Mode Dialogue List\" will play.",
+          "translation": "3. Press the trigger briefly. The voice line numbered 20 from the “Nada Late-Stage Mode” voice list on page 13 of this manual will play.",
           "bbox": [0.079, 0.25968502020835876, 0.3004, 0.0761559693813324],
           "layout": "panel"
         },
@@ -6275,7 +6116,7 @@
         },
         {
           "text": "【ナダの特別メッセージ1再生方法】 3. の後に、\nレバー操作で口の開閉を追加で5回行います。\n→ナダの「特別メッセージ2」が鳴ります。",
-          "translation": "• How to play Nada's Special Message 1: After step 3, operate the lever to open and close the mouth an additional 5 times.\n• → Nada's \"Special Message 2\" will play.",
+          "translation": "• How to play Nada's Special Message 1\n• After step 3, operate the lever to open and close the mouth five more times.\n• Nada's \"Special Message 2\" will play.",
           "bbox": [0.0773, 0.4241, 0.3398, 0.052007020616531396],
           "layout": "panel"
         },
@@ -6287,7 +6128,7 @@
         },
         {
           "text": "1. カナエソウルをセットして、口を閉じます。\n→ 「カナエソウル!」が鳴ります。",
-          "translation": "• 1. Set the Kanae Soul and close the mouth.\n• → \"Kanae Soul!\" will sound.",
+          "translation": "• 1. Set the Kanae Soul and close its mouth.\n• → \"Kanae Soul!\" will sound.",
           "bbox": [
             0.07819151437282562, 0.6170000000000001, 0.3355084856271744, 0.054299999999999904
           ],
@@ -6295,7 +6136,7 @@
         },
         {
           "text": "2. トリガーを長押しします。\n「7人の並び変身音」が鳴ります。",
-          "translation": "• 2. Press and hold the trigger.\n• \"'7-Person Lineup Transformation' sound will play.\"",
+          "translation": "• 2. Press and hold the trigger.\n• The “7-person lineup transformation” sound will play.",
           "bbox": [
             0.07819151437282562, 0.6708000000000001, 0.2892084856271744, 0.054299999999999904
           ],
@@ -6303,9 +6144,14 @@
         },
         {
           "text": "3. トリガーを短押しします。\n→トリガーを短押しする度に\n「名乗りセリフ」が鳴ります。",
-          "translation": "• 3. Press the trigger briefly.\n• →Each time you press the trigger briefly, the \"self-introduction\" phrase will play.",
+          "translation": "• 3. Short-press the trigger.\n• Each short press of the trigger plays the \"name announcement\" line.",
           "bbox": [0.07819151437282562, 0.7246, 0.2524084856271744, 0.0603999999999999],
           "layout": "panel"
+        },
+        {
+          "text": "2.レバー操作で口の開閉を5回行います。\n→ナダの「特別メッセージ1」が鳴ります。",
+          "translation": "2. Operate the lever to open and close the mouth five times.\n→ Nada's \"Special Message 1\" will play.",
+          "bbox": [0.0805, 0.2074, 0.3282, 0.0375]
         },
         {
           "text": "トリガー",
@@ -6346,11 +6192,6 @@
           "text": "幻の7人並び変身!",
           "translation": "Phantom 7-Person Lineup Transformation!",
           "bbox": [0.8715, 0.6058, 0.0488, 0.341]
-        },
-        {
-          "text": "10",
-          "translation": "10",
-          "bbox": [0.9297, 0.9534, 0.0257, 0.0121]
         }
       ],
       "image": "pages/page-10.webp",
@@ -6486,11 +6327,6 @@
               "source_ids": [2]
             },
             {
-              "id": "p3",
-              "kind": "prose",
-              "source_ids": [3]
-            },
-            {
               "id": "p4",
               "kind": "prose",
               "source_ids": [4, 5, 6]
@@ -6527,9 +6363,8 @@
             }
           ],
           "furigana": [],
-          "notes": [
-            "Diagram labels, vertical sound-effect text, and page number are left ungrouped."
-          ]
+          "notes": ["Panel p3 retained original English after failed automatic checks"],
+          "native_artwork": [21]
         },
         "mapping": [
           {
@@ -6552,57 +6387,45 @@
             "source_ids": [2],
             "furigana_ids": [],
             "japanese_items": [
-              "1. カナエソウルをセットして、口を閉じます。",
-              "「カナエソウル!」が鳴ります。"
+              "1. カナエソウルをセットして、口を閉じます。 「カナエソウル!」が鳴ります。"
             ]
           },
           {
             "display_index": 3,
-            "panel_id": "p3",
-            "source_ids": [3],
-            "furigana_ids": [],
-            "japanese_items": [
-              "2.レバー操作で口の開閉を5回行います。",
-              "→ナダの「特別メッセージ1」が鳴ります。"
-            ]
-          },
-          {
-            "display_index": 4,
             "panel_id": "p4",
             "source_ids": [4, 5, 6],
             "furigana_ids": [],
             "japanese_items": [
-              "3. トリガーを短押しします。",
-              "本書13ページ",
-              "「ナダ後期モード セリフ一覧表」の番号20の音声が鳴ります。"
+              "3. トリガーを短押しします。本書13ページ「ナダ後期モード セリフ一覧表」の番号20の音声が鳴ります。"
             ]
           },
           {
-            "display_index": 5,
+            "display_index": 4,
             "panel_id": "p5",
             "source_ids": [7],
             "furigana_ids": [],
             "japanese_items": ["【ナダの特別メッセージ2再生方法】"]
           },
           {
-            "display_index": 6,
+            "display_index": 5,
             "panel_id": "p6",
             "source_ids": [8],
             "furigana_ids": [],
             "japanese_items": [
-              "【ナダの特別メッセージ1再生方法】3.の後に、レバー操作で口の開閉を追加で5回行います。",
+              "【ナダの特別メッセージ1再生方法】",
+              "3. の後に、レバー操作で口の開閉を追加で5回行います。",
               "→ナダの「特別メッセージ2」が鳴ります。"
             ]
           },
           {
-            "display_index": 7,
+            "display_index": 6,
             "panel_id": "p7",
             "source_ids": [13],
             "furigana_ids": [],
             "japanese_items": ["カナエソウル特別挙動【幻の7人並び変身】"]
           },
           {
-            "display_index": 8,
+            "display_index": 7,
             "panel_id": "p8",
             "source_ids": [14],
             "furigana_ids": [],
@@ -6612,14 +6435,14 @@
             ]
           },
           {
-            "display_index": 9,
+            "display_index": 8,
             "panel_id": "p9",
             "source_ids": [15],
             "furigana_ids": [],
             "japanese_items": ["2. トリガーを長押しします。", "「7人の並び変身音」が鳴ります。"]
           },
           {
-            "display_index": 10,
+            "display_index": 9,
             "panel_id": "p10",
             "source_ids": [16],
             "furigana_ids": [],
@@ -6627,6 +6450,11 @@
               "3. トリガーを短押しします。",
               "→トリガーを短押しする度に「名乗りセリフ」が鳴ります。"
             ]
+          },
+          {
+            "display_index": 10,
+            "source_ids": [3],
+            "furigana_ids": []
           },
           {
             "display_index": 11,
@@ -6669,9 +6497,10 @@
             "furigana_ids": []
           },
           {
-            "display_index": 19,
+            "display_index": -1,
             "source_ids": [21],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           }
         ],
         "uncertainties": [],
@@ -6929,7 +6758,7 @@
         },
         {
           "text": "台詞モードを切り替えた際の音声 (ガイソーグ) 我が名はガイソーグ。",
-          "translation": "• Sound when switching dialogue mode\n• (Gaisōgu) My name is Gaisōgu.",
+          "translation": "• Voice played when switching dialogue mode (Gaisog)\n• My name is Gaisog.",
           "bbox": [0.11256517773866653, 0.1835, 0.4979348222613334, 0.026499999999999996],
           "layout": "panel"
         },
@@ -6947,7 +6776,7 @@
         },
         {
           "text": "もっと強さを。\n一番強いのはお前か。\n我に勝て。\n我が名はガイソーグ、 宇宙最強を求める者。\nフフフフフフ、お楽しみはまだまだこれからだ。\n貴様らの相手は俺だ。\nフハハハハハハハ、もっと俺を楽しませろぉ!うおおおおおおおお!\n一番強いのは誰だぁ!\nもっと楽しませろぉ!",
-          "translation": "• More strength.\n• Are you the strongest?\n• Defeat me.\n• My name is Gaisorg, one who seeks to be the strongest in the universe.\n• Fufufufufu, the fun is still just getting started.\n• You lot will face me.\n• Fuhahahahahaha, amuse me more! Uooooooooh!\n• Who is the strongest!?\n• Entertain me more!",
+          "translation": "• More strength!\n• Are you the strongest?\n• Beat me.\n• My name is Gaisorg. I seek the strongest in the universe.\n• Heh heh heh heh heh, the fun is just beginning.\n• I'm the one who will face you.\n• Fuhahahahaha, entertain me more! Uooooooo!\n• Who is the strongest!?\n• Entertain me more!",
           "bbox": [0.194, 0.2300598577260971, 0.3984090638160705, 0.17174014227390288],
           "layout": "panel"
         },
@@ -6955,6 +6784,12 @@
           "text": "ナダ登場初期モードセリフ一覧表",
           "translation": "Nada — Initial Appearance Mode — Line List",
           "bbox": [0.2626509473323822, 0.4374, 0.5081490526676178, 0.02782431516647338],
+          "layout": "panel"
+        },
+        {
+          "text": "台詞モードを切り替えた際の音声 (ナダ) ほんまに嫌いや...。",
+          "translation": "• Voice when switching dialogue mode\n• (Nada) I really hate it...",
+          "bbox": [0.11256517773866653, 0.4894, 0.5313018872141837, 0.028300000000000047],
           "layout": "panel"
         },
         {
@@ -6969,34 +6804,6 @@
           "text": "セリフ内容",
           "translation": "Dialogue content",
           "bbox": [0.4959, 0.5184516415596009, 0.08364459333419794, 0.013348358440399055],
-          "layout": "panel"
-        },
-        {
-          "text": "1",
-          "translation": "1",
-          "bbox": [
-            0.1288602010011673, 0.5486813888549805, 0.009939798998832683, 0.010918611145019463
-          ],
-          "layout": "panel"
-        },
-        {
-          "text": "2 3 4 5 6 7 8 9",
-          "translation": "2 3 4 5 6 7 8 9",
-          "bbox": [
-            0.12457203423976898, 0.577097366809845, 0.017627965760231012, 0.15173033761978139
-          ],
-          "layout": "panel"
-        },
-        {
-          "text": "10\n11\n12\n13\n14\n15\n16",
-          "translation": "• 10\n• 11\n• 12\n• 13\n• 14\n• 15\n• 16",
-          "bbox": [0.1211, 0.7469884858131409, 0.02800000000000001, 0.198311514186859],
-          "layout": "panel"
-        },
-        {
-          "text": "(ナダ) あの、 おやじ見ませんでした?? はぁ、こっち来たら見えたんですけどねぇ。 あの、体ね、真っ赤っかで、であの、\n身長がこれぐらいで、でー、足が1本で、口がこう2個、 ついてるんで、多分わかる思うんですけど、\n(ナダ) ポス・・・?おやじ。笑うてくれた。 あんたそっちの方が似合うで。 ほな。\n(ナダ) いやあ探したで探したで。 あんたがレッドか?\n(ナダ) あんたやったんか。 マスターが意志を託したんは。\n(ナダ) 残念ながら、リュウソウジャーにはなられへんかったけどな。\n(ナダ)なんやドルイドンが攻めてきとるんやろ。俺にも力にならせてくれ。\n(ナダ) 俺が相手や!\n(ナダ) 立ち向かわんと後悔するくらいなら、立ち向かって後悔するわい!\n(ナダ) 村は出たけど、 俺かてリュウソウ族の端くれ。 なんか力になりたかったんや。\n(ナダ) なんや、 自分はリュウソウジャー失格や言うたらしいな･･･ドアホ!マスターレッドがお前を選んだ理由、\nお前何も分かってないやないか。\n(ナダ) メルトに聞いたで。 お前は、自分でやさしさを手に入れたんや・・・。\nちゅうことは、奪われても何回でも手に入れられるっちゅうことちゃうんか? それがお前の強さなんとちゃうんか!\n・・・マスターが俺やのうて、お前をリュウソウジャーに選んだ理由ちゃうんか!\n(ナダ) これで終わりちゃうやろ!見せてみんかい、お前の強さを!\n(ナダ) いや......そうは言うても、リーダーのお前に何かあったらどないすんねん。\nここはメルトかアスナに行かせるべきや。\n(ナダ) そや、レッドはリーダーやろ?お前が一番なんや。 メルトとアスナはリーダーを守るために......。\n(コウ) 違う、誰がリーダーとか、 誰が一番とか、そういうのじゃない。俺達は、みんなでひとつなんだ!\n(ナダ) マスターレッド、 あんたは正しかったようやな。",
-          "translation": "• (Nada) Um, did you see an old man?? Hah, when I came over here I could see him, though. His body was completely red, and, um, his height was about this much, and—he had one leg, and two mouths like this attached, so I think you'd probably recognize him,\n• (Nada) Posu...? Old man. He smiled at me. That suits you better. See ya.\n• (Nada) Man, I searched and searched. Are you the Red?\n• (Nada) So it was you. The master entrusted his will to you.\n• (Nada) Unfortunately, you didn't become a Ryusoulger, though.\n• (Nada) What's this, the Druidon are attacking, right? Let me be of help too.\n• (Nada) I'll take them on!\n• (Nada) If you're going to regret not standing up to them, I'd rather stand up and regret it!\n• (Nada) I left the village, but I'm still a scrap of the Ryusoul tribe. I wanted to help in some way.\n• (Nada) So I heard you said you're unfit to be a Ryusoulger... idiot! You don't understand at all why Master Red chose you.\n• (Nada) I asked Melt. You gained kindness on your own...\n• (Nada) Which means, even if it's taken away, you can get it back again and again, right? Isn't that your strength!\n• (Nada) ...Isn't that exactly why the master chose you to be a Ryusoulger instead of me!\n• (Nada) This isn't the end! Show me your strength!\n• (Nada) Well... even so, what if something happens to you, the leader? This should be Melt or Asuna's job.\n• (Nada) Yeah, Red is the leader, right? You're number one. Melt and Asuna are to protect the leader...\n• (Kou) No, it's not about who's the leader or who's number one. We're all one together!\n• (Nada) Master Red, you were apparently right.",
-          "bbox": [0.19489794528484344, 0.5377986536026002, 0.6943020547151566, 0.4093013463973998],
           "layout": "panel"
         },
         {
@@ -7020,14 +6827,119 @@
           "bbox": [0.1286, 0.3706, 0.0111, 0.0302]
         },
         {
-          "text": "台詞モードを切り替えた際の音声 (ナダ) ほんまに嫌いや...。",
-          "translation": "Voice when switching dialogue mode (Nada): \"I really hate this...\"",
-          "bbox": [0.1141, 0.4909, 0.4434, 0.0145]
+          "text": "(ナダ) あの、 おやじ見ませんでした?? はぁ、こっち来たら見えたんですけどねぇ。 あの、体ね、真っ赤っかで、であの、",
+          "translation": "(Nada) Uh—have you seen my old man? Huh... I thought I saw him when I came this way. His body was completely red, and, um...",
+          "bbox": [0.1973, 0.5393, 0.6904, 0.0103]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.1304, 0.5502, 0.0069, 0.0079]
+        },
+        {
+          "text": "身長がこれぐらいで、でー、足が1本で、口がこう2個、 ついてるんで、多分わかる思うんですけど、",
+          "translation": "He's about this tall, um—he's got one leg and, like, two mouths like this, so you'll probably know who I mean.",
+          "bbox": [0.1964, 0.5599, 0.5866, 0.0097]
+        },
+        {
+          "text": "(ナダ) ポス・・・?おやじ。笑うてくれた。 あんたそっちの方が似合うで。 ほな。",
+          "translation": "(Nada) Pos...? My old man. He actually smiled. That look suits you better. Bye.",
+          "bbox": [0.1973, 0.5792, 0.4451, 0.0097]
+        },
+        {
+          "text": "(ナダ) いやあ探したで探したで。 あんたがレッドか?",
+          "translation": "(Nada) Man, I've been looking all over for you. So, you're Red?",
+          "bbox": [0.1981, 0.5992, 0.307, 0.0097]
+        },
+        {
+          "text": "(ナダ) あんたやったんか。 マスターが意志を託したんは。\n(ナダ) 残念ながら、リュウソウジャーにはなられへんかったけどな。\n(ナダ)なんやドルイドンが攻めてきとるんやろ。俺にも力にならせてくれ。\n(ナダ) 俺が相手や!\n(ナダ) 立ち向かわんと後悔するくらいなら、立ち向かって後悔するわい!",
+          "translation": "(Nada) So it was you—the one Master entrusted his will to.\n(Nada) Too bad I never became a Ryusoulger myself.\n(Nada) I hear the Druidon are attacking. Let me be of help too.\n(Nada) I'll take them on!\n(Nada) If I'm going to regret something, I'd rather regret having fought than regret not fighting!",
+          "bbox": [0.1973, 0.6191, 0.4443, 0.0889]
+        },
+        {
+          "text": "(ナダ) 村は出たけど、 俺かてリュウソウ族の端くれ。 なんか力になりたかったんや。\n(ナダ) なんや、 自分はリュウソウジャー失格や言うたらしいな･･･ドアホ!マスターレッドがお前を選んだ理由、\nお前何も分かってないやないか。\n(ナダ) メルトに聞いたで。 お前は、自分でやさしさを手に入れたんや・・・。",
+          "translation": "(Nada) I left the village, but I'm still part of the Ryusoul tribe. I wanted to be of some help.\n(Nada) I heard you said you were unfit to be a Ryusoulger... idiot! You don't understand why Master Red chose you, do you?\n(Nada) I heard it from Melt. You gained your kindness by yourself...",
+          "bbox": [0.1973, 0.7183, 0.6475, 0.0689]
+        },
+        {
+          "text": "2 3 4 5 6 7 8 9",
+          "translation": "2 3 4 5 6 7 8 9",
+          "bbox": [0.1261, 0.5786, 0.0146, 0.1487]
+        },
+        {
+          "text": "10",
+          "translation": "10",
+          "bbox": [0.1244, 0.7485, 0.0232, 0.0091]
         },
         {
           "text": "11",
           "translation": "11",
-          "bbox": [0.0463, 0.9541, 0.0172, 0.0115]
+          "bbox": [0.1235, 0.7975, 0.0214, 0.0079]
+        },
+        {
+          "text": "ちゅうことは、奪われても何回でも手に入れられるっちゅうことちゃうんか? それがお前の強さなんとちゃうんか!",
+          "translation": "So that means even if it's taken away, you can get it back again and again, right? Isn't that your strength?",
+          "bbox": [0.1964, 0.7969, 0.6758, 0.0097]
+        },
+        {
+          "text": "・・・マスターが俺やのうて、お前をリュウソウジャーに選んだ理由ちゃうんか!",
+          "translation": "...Isn't that the reason Master chose you to be a Ryusoulger instead of me?",
+          "bbox": [0.1964, 0.8174, 0.4554, 0.0091]
+        },
+        {
+          "text": "12",
+          "translation": "12",
+          "bbox": [0.1235, 0.838, 0.0223, 0.0067]
+        },
+        {
+          "text": "(ナダ) これで終わりちゃうやろ!見せてみんかい、お前の強さを!",
+          "translation": "(Nada) This isn't over! Show me your strength!",
+          "bbox": [0.1981, 0.8368, 0.3825, 0.0103]
+        },
+        {
+          "text": "(ナダ) いや......そうは言うても、リーダーのお前に何かあったらどないすんねん。",
+          "translation": "(Nada) Well... even so, what would we do if something happened to you, the leader?",
+          "bbox": [0.1973, 0.8567, 0.4931, 0.0097]
+        },
+        {
+          "text": "13",
+          "translation": "13",
+          "bbox": [0.1235, 0.8676, 0.0232, 0.0079]
+        },
+        {
+          "text": "ここはメルトかアスナに行かせるべきや。",
+          "translation": "We should send Melt or Asuna for this.",
+          "bbox": [0.1973, 0.8767, 0.2479, 0.0091]
+        },
+        {
+          "text": "14",
+          "translation": "14",
+          "bbox": [0.1226, 0.8972, 0.0249, 0.0079]
+        },
+        {
+          "text": "(ナダ) そや、レッドはリーダーやろ?お前が一番なんや。 メルトとアスナはリーダーを守るために......。",
+          "translation": "(Nada) That's right—Red is the leader, isn't he? You're the most important. Melt and Asuna are there to protect the leader...",
+          "bbox": [0.1981, 0.896, 0.6063, 0.0103]
+        },
+        {
+          "text": "15",
+          "translation": "15",
+          "bbox": [0.1235, 0.9166, 0.0232, 0.0079]
+        },
+        {
+          "text": "(コウ) 違う、誰がリーダーとか、 誰が一番とか、そういうのじゃない。俺達は、みんなでひとつなんだ!",
+          "translation": "(Kou) No, it's not about who's the leader or who's number one. We're all one!",
+          "bbox": [0.1973, 0.916, 0.5961, 0.0097]
+        },
+        {
+          "text": "16",
+          "translation": "16",
+          "bbox": [0.1235, 0.9365, 0.0232, 0.0073]
+        },
+        {
+          "text": "(ナダ) マスターレッド、 あんたは正しかったようやな。",
+          "translation": "(Nada) Master Red, it seems you were right.",
+          "bbox": [0.1973, 0.9359, 0.3173, 0.0097]
         }
       ],
       "image": "pages/page-11.webp",
@@ -7283,64 +7195,49 @@
               "source_ids": [2]
             },
             {
-              "id": "p3",
+              "id": "p3-a",
               "kind": "heading",
               "source_ids": [3]
             },
             {
-              "id": "p4",
+              "id": "p3-b",
               "kind": "heading",
               "source_ids": [9]
             },
             {
-              "id": "p6",
+              "id": "p4",
               "kind": "prose",
               "source_ids": [5, 7, 10, 11, 12, 13, 14, 15, 16]
             },
             {
-              "id": "p7",
+              "id": "p5",
               "kind": "heading",
               "source_ids": [18]
             },
             {
-              "id": "p9",
+              "id": "p6",
+              "kind": "prose",
+              "source_ids": [19]
+            },
+            {
+              "id": "p7-a",
               "kind": "heading",
               "source_ids": [20]
             },
             {
-              "id": "p10",
+              "id": "p7-b",
               "kind": "heading",
               "source_ids": [21]
-            },
-            {
-              "id": "p11-part-0",
-              "kind": "prose",
-              "source_ids": [23]
-            },
-            {
-              "id": "p11-heading-29",
-              "kind": "heading",
-              "source_ids": [29]
-            },
-            {
-              "id": "p11",
-              "kind": "prose",
-              "source_ids": [30, 31, 34, 37, 39, 41, 43]
-            },
-            {
-              "id": "p12",
-              "kind": "prose",
-              "source_ids": [22, 24, 25, 26, 27, 28, 32, 33, 35, 36, 38, 40, 42, 44]
             }
           ],
           "furigana": [],
           "notes": [
-            "Source 45 is the printed page number and is left ungrouped.",
-            "Top table number OCR has overlapping duplicate/combined regions; grouped visible number-column regions without using any source twice.",
-            "Conservative panel fallback: Panel p5-heading-8 would mask unrelated source 6",
-            "Retained p5 unchanged: Panel p5-heading-8 would mask unrelated source 6",
-            "Retained p8 unchanged: Panel p8 would mask unrelated source 23"
-          ]
+            "OCR source IDs 8 and 29 combine multiple table row numbers and overlap some individual row-number regions, but they are retained as main table text.",
+            "p4: excluded other-column members; retained separately",
+            "p8: excluded other-column members; retained separately",
+            "Panel p8 retained original English after failed automatic checks"
+          ],
+          "native_artwork": [45]
         },
         "mapping": [
           {
@@ -7363,27 +7260,27 @@
             "source_ids": [2],
             "furigana_ids": [],
             "japanese_items": [
-              "台詞モードを切り替えた際の音声",
-              "(ガイソーグ) 我が名はガイソーグ。"
+              "台詞モードを切り替えた際の音声（ガイソーグ）",
+              "我が名はガイソーグ。"
             ]
           },
           {
             "display_index": 3,
-            "panel_id": "p3",
+            "panel_id": "p3-a",
             "source_ids": [3],
             "furigana_ids": [],
             "japanese_items": ["番号"]
           },
           {
             "display_index": 4,
-            "panel_id": "p4",
+            "panel_id": "p3-b",
             "source_ids": [9],
             "furigana_ids": [],
             "japanese_items": ["セリフ内容"]
           },
           {
             "display_index": 5,
-            "panel_id": "p6",
+            "panel_id": "p4",
             "source_ids": [5, 7, 10, 11, 12, 13, 14, 15, 16],
             "furigana_ids": [],
             "japanese_items": [
@@ -7400,109 +7297,175 @@
           },
           {
             "display_index": 6,
-            "panel_id": "p7",
+            "panel_id": "p5",
             "source_ids": [18],
             "furigana_ids": [],
             "japanese_items": ["ナダ登場初期モードセリフ一覧表"]
           },
           {
             "display_index": 7,
-            "panel_id": "p9",
+            "panel_id": "p6",
+            "source_ids": [19],
+            "furigana_ids": [],
+            "japanese_items": ["台詞モードを切り替えた際の音声", "（ナダ）ほんまに嫌いや…。"]
+          },
+          {
+            "display_index": 8,
+            "panel_id": "p7-a",
             "source_ids": [20],
             "furigana_ids": [],
             "japanese_items": ["番号"]
           },
           {
-            "display_index": 8,
-            "panel_id": "p10",
+            "display_index": 9,
+            "panel_id": "p7-b",
             "source_ids": [21],
             "furigana_ids": [],
             "japanese_items": ["セリフ内容"]
           },
           {
-            "display_index": 9,
-            "panel_id": "p11-part-0",
-            "source_ids": [23],
-            "furigana_ids": [],
-            "japanese_items": ["1"]
-          },
-          {
             "display_index": 10,
-            "panel_id": "p11-heading-29",
-            "source_ids": [29],
-            "furigana_ids": [],
-            "japanese_items": ["2 3 4 5 6 7 8 9"]
-          },
-          {
-            "display_index": 11,
-            "panel_id": "p11",
-            "source_ids": [30, 31, 34, 37, 39, 41, 43],
-            "furigana_ids": [],
-            "japanese_items": ["10", "11", "12", "13", "14", "15", "16"]
-          },
-          {
-            "display_index": 12,
-            "panel_id": "p12",
-            "source_ids": [22, 24, 25, 26, 27, 28, 32, 33, 35, 36, 38, 40, 42, 44],
-            "furigana_ids": [],
-            "japanese_items": [
-              "(ナダ) あの、おやじ見ませんでした?? はぁ、こっち来たら見えたんですけどねぇ。あの、体ね、真っ赤っかで、であの、身長がこれぐらいで、でー、足が1本で、口がこう2個、ついてるんで、多分わかる思うんですけど、",
-              "(ナダ) ポス・・・?おやじ。笑うてくれた。あんたそっちの方が似合うで。ほな。",
-              "(ナダ) いやあ探したで探したで。あんたがレッドか?",
-              "(ナダ) あんたやったんか。マスターが意志を託したんは。",
-              "(ナダ) 残念ながら、リュウソウジャーにはなられへんかったけどな。",
-              "(ナダ) なんやドルイドンが攻めてきとるんやろ。俺にも力にならせてくれ。",
-              "(ナダ) 俺が相手や!",
-              "(ナダ) 立ち向かわんと後悔するくらいなら、立ち向かって後悔するわい!",
-              "(ナダ) 村は出たけど、俺かてリュウソウ族の端くれ。なんか力になりたかったんや。",
-              "(ナダ) なんや、自分はリュウソウジャー失格や言うたらしいな･･･ドアホ!マスターレッドがお前を選んだ理由、お前何も分かってないやないか。",
-              "(ナダ) メルトに聞いたで。お前は、自分でやさしさを手に入れたんや・・・。",
-              "(ナダ) ちゅうことは、奪われても何回でも手に入れられるっちゅうことちゃうんか? それがお前の強さなんとちゃうんか!",
-              "(ナダ) ・・・マスターが俺やのうて、お前をリュウソウジャーに選んだ理由ちゃうんか!",
-              "(ナダ) これで終わりちゃうやろ!見せてみんかい、お前の強さを!",
-              "(ナダ) いや......そうは言うても、リーダーのお前に何かあったらどないすんねん。ここはメルトかアスナに行かせるべきや。",
-              "(ナダ) そや、レッドはリーダーやろ?お前が一番なんや。メルトとアスナはリーダーを守るために......。",
-              "(コウ) 違う、誰がリーダーとか、誰が一番とか、そういうのじゃない。俺達は、みんなでひとつなんだ!",
-              "(ナダ) マスターレッド、あんたは正しかったようやな。"
-            ]
-          },
-          {
-            "display_index": 13,
             "source_ids": [4],
             "furigana_ids": []
           },
           {
-            "display_index": 14,
+            "display_index": 11,
             "source_ids": [6],
             "furigana_ids": []
           },
           {
-            "display_index": 15,
+            "display_index": 12,
             "source_ids": [8],
             "furigana_ids": []
           },
           {
-            "display_index": 16,
+            "display_index": 13,
             "source_ids": [17],
             "furigana_ids": []
           },
           {
+            "display_index": 14,
+            "source_ids": [22],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 15,
+            "source_ids": [23],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 16,
+            "source_ids": [24],
+            "furigana_ids": []
+          },
+          {
             "display_index": 17,
-            "source_ids": [19],
+            "source_ids": [25],
             "furigana_ids": []
           },
           {
             "display_index": 18,
-            "source_ids": [45],
+            "source_ids": [26],
             "furigana_ids": []
+          },
+          {
+            "display_index": 19,
+            "source_ids": [27],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 20,
+            "source_ids": [28],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 21,
+            "source_ids": [29],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 22,
+            "source_ids": [30],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 23,
+            "source_ids": [31],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 24,
+            "source_ids": [32],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 25,
+            "source_ids": [33],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 26,
+            "source_ids": [34],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 27,
+            "source_ids": [35],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 28,
+            "source_ids": [36],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 29,
+            "source_ids": [37],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 30,
+            "source_ids": [38],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 31,
+            "source_ids": [39],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 32,
+            "source_ids": [40],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 33,
+            "source_ids": [41],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 34,
+            "source_ids": [42],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 35,
+            "source_ids": [43],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 36,
+            "source_ids": [44],
+            "furigana_ids": []
+          },
+          {
+            "display_index": -1,
+            "source_ids": [45],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           }
         ],
-        "uncertainties": [
-          "Source shows only a single character '1'; may be a page number or label—no additional context to confirm meaning.",
-          "Panel contains only numerals 10–16 with no surrounding context; uncertain whether these are page numbers, step labels, or part identifiers.",
-          "The term 'ポス' in 'ポス・・・?おやじ' is unclear in the scan and may be misread or dialectal.",
-          "Dialectal contractions and casual speech (e.g., 'なられへんかった', 'とるんやろ', 'ちゃうんか', 'やないか') were interpreted as Kansai-style speech; meanings preserved but wording reconstructed into natural English."
-        ],
+        "uncertainties": [],
         "ocr_lines": [
           {
             "id": 0,
@@ -7904,14 +7867,9 @@
         },
         {
           "text": "(ナダ) 自分でも分かってると思うけど、ここぞっちゅう時の攻撃に乱れがあるで。\n(ナダ) まあ、ほんのちょびっとやから。 な? そんなに気にすることないわ。\n(ナダ) ドアホ!アスナの命に「もう一度」は無いんやぞ!\n(ナダ)......お前はレッド失格や。\n(ナダ) コウ、 安心せえ。俺がちゃんとレッドを受け継いだる。\n(ナダ) この鎧を長くまとった者は、いつしか心の弱い部分につけこまれて、鎧に支配される。\n(ナダ) 最強を求めて彷徨うガイソーグの鎧。 リュウソウジャーになれんかった俺は、みんなを見返す力が欲しかった。\n(ナダ)だから探して、探して!宇宙の果てまで行って!やっと!\n(ナダ) 俺は強くなった。 誰にも負けへん力を手に入れた!・・・でもな・・・・・・ 強なってもあんま楽しないんや。\n(ナダ) いくら相手を打ち負かしても、どっかにもっと強いヤツがおるんちゃうか。 そんなことばっかり考えてしまうんや!\n(ガイソーグ) そいつは強いのか。\n(ナダ) 敵も味方も無い。 この鎧は、 ただ強い相手を求めとる。\n(ナダ) 俺はガイソーグや。それでもか。\n(コウ) ガイソーグだろうと関係ない!ナダはナダだ!\n(ナダ) やっぱりお前は、 マスターレッドが認めた男だけあるんやな。 かなわんわ。\n(ナダ) くやしいなぁ、俺は・・・・・・俺は。\n(コウ) やっぱりナダは俺達の仲間だ!これからは一緒に戦おうぜ!\n(ナダ) 俺は、お前のそういうところがほんまに嫌いや。\n(ナダ) 関係あらへんやろが、 何様やねんお前!\n(ナダ) ええ加減、鬱陶しいねん、お前。\n(ナダ) もう時間が無いみたいやな･･････。\n(ガイソーグ) 無駄な抵抗を･･････諦めろ･･････。\n(ナダ) うわあああああああ\n----!!! <ガイソーグ変身音>\n(ガイソーグ)はぁああああああ。一番強いのは誰だ･･････?お前か、お前かぁぁあ?\n(ガイソーグ)一番強いのは誰だ･･・・・・一番強いのは誰だぁああ!\n(コウ) 誰よりもリュウソウジャーになりたかった、リュウソウ族としての誇りを、 誰よりも大切に思ってた\n(コウ) その気高き魂・・・ 俺たちと、ソウルはひとつ･･･。\n(コウ) ナダもリュウソウジャーだ。\n<剣を掴む効果音>\n(ナダ) 先輩に説教するとは、 ええ度胸や。\n(ナダ) 俺は、お前らのそういうところがほんまに･･･・・・嫌いや。",
-          "translation": "• (Nada) I think you know it yourself, but your attacks are sloppy at the crucial moments.\n• (Nada) Well, it's only a tiny bit. Right? It's not something to worry about that much.\n• (Nada) You idiot! There is no 'one more time' for Asuna's life!\n• (Nada) ...You're disqualified from being Red.\n• (Nada) Kou, don't worry. I'll properly inherit Red.\n• (Nada) Those who wear this armor for a long time are eventually taken advantage of at their weak points in the heart and come to be controlled by the armor.\n• (Nada) The armor of Gaisorg wanders seeking the strongest. I couldn't become a Ryusoulger, and I wanted the power to show everyone up.\n• (Nada) So I searched and searched! I went to the ends of the universe! Finally!\n• (Nada) I became stronger. I gained a power that loses to no one! ...But you know... even if I become strong, it isn't much fun.\n• (Nada) No matter how many opponents I beat, I keep thinking there might be someone stronger somewhere. That's all I can think about!\n• (Gaisorg) Is that one strong?\n• (Nada) There are no enemies or allies. This armor simply seeks a strong opponent.\n• (Nada) I am Gaisorg. Even so?\n• (Kou) Whether you're Gaisorg or not doesn't matter! Nada is Nada!\n• (Nada) As I thought, you are the kind of man Master Red acknowledged. I can't beat that.\n• (Nada) It's frustrating, I... I am.\n• (Kou) After all, Nada is one of our comrades! From now on let's fight together!\n• (Nada) I really hate that part of you.\n• (Nada) It has nothing to do with it, so who do you think you are!\n• (Nada) You're getting annoying already.\n• (Nada) Looks like there's no time left...\n• (Gaisorg) Cease your futile resistance... give up...\n• (Nada) Uwaaaaaaaahhhh\n• ----!!! <Gaisorg transformation sound>\n• (Gaisorg) Haaaaaaaahh. Who is the strongest...? Is it you, is it youuuuu?\n• (Gaisorg) Who is the strongest... who is the strongest ahhh!\n• (Kou) He wanted to be a Ryusoulger more than anyone, he valued the pride of the Ryusoul tribe more than anyone.\n• (Kou) That noble soul... our souls are one.\n• (Kou) Nada is also a Ryusoulger.\n• <sound effect of seizing a sword>\n• (Nada) You've got some nerve to lecture your senior.\n• (Nada) I really... hate that part of you.",
+          "translation": "• (Nada) I know you probably notice it yourself, but your strikes get sloppy at the crucial moments.\n• (Nada) Well, it's only a little. See? It's nothing to worry about that much.\n• (Nada) You idiot! There's no \"again\" for Asuna's life!\n• (Nada) ...You're unfit to be Red.\n• (Nada) Kou, don't worry. I'll properly inherit the Red mantle.\n• (Nada) Someone who wears this armor too long will eventually be preyed on at their weak spots and be controlled by the armor.\n• (Nada) The Gaisorg armor wanders seeking the strongest. I couldn't become a Ryusoulger, so I wanted the power to make everyone look at me differently.\n• (Nada) So I searched and searched! I went to the ends of the universe! At last—\n• (Nada) I became stronger. I gained power that loses to no one! ...But even so... getting stronger isn't that fun.\n• (Nada) No matter how many opponents I defeat, I keep thinking maybe there's someone even stronger out there. I can't stop thinking that!\n• (Gaisorg) Is that one strong?\n• (Nada) There is no enemy or ally. This armor only seeks a strong opponent.\n• (Nada) I am Gaisorg. Even so?\n• (Kou) It doesn't matter if you're Gaisorg! Nada is still Nada!\n• (Nada) As I thought, you really are the man Master Red approved. I can't beat you.\n• (Nada) It's frustrating... me... I am.\n• (Kou) After all, Nada is one of us! From now on we'll fight together!\n• (Nada) I really hate that about you.\n• (Nada) It doesn't concern you, who do you think you are!\n• (Nada) You're getting annoyingly tiresome.\n• (Nada) Looks like there's no time left...\n• (Gaisorg) Stop your useless resistance... give up...\n• (Nada) Uwaaaaaaaah!\n• ----!!! <Gaisorg transformation sound>\n• (Gaisorg) Haaaaaaa— who is the strongest...? Is it you? Is it youuu?\n• (Gaisorg) Who is the strongest... who is the strongest!\n• (Kou) He wanted to be a Ryusoulger more than anyone, and he treasured the pride of the Ryusoul tribe above all.\n• (Kou) That noble spirit... our souls are one.\n• (Kou) Nada is a Ryusoulger too.\n• <sound of a sword being grabbed>\n• (Nada) You've got some nerve to lecture your senior.\n• (Nada) I really... hate that about you guys.",
           "bbox": [0.19558654284477234, 0.0662, 0.7005149810314177, 0.6064003780364989],
           "layout": "panel"
-        },
-        {
-          "text": "12",
-          "translation": "12",
-          "bbox": [0.9306, 0.9534, 0.0266, 0.0115]
         }
       ],
       "image": "pages/page-12.webp",
@@ -8239,9 +8197,8 @@
             }
           ],
           "furigana": [],
-          "notes": [
-            "Page is a dialogue table; number column is kept separate from dialogue content. Source 57 is the page number and left ungrouped."
-          ]
+          "notes": [],
+          "native_artwork": [57]
         },
         "mapping": [
           {
@@ -8310,49 +8267,47 @@
             "furigana_ids": [],
             "japanese_items": [
               "(ナダ) 自分でも分かってると思うけど、ここぞっちゅう時の攻撃に乱れがあるで。",
-              "(ナダ) まあ、ほんのちょびっとやから。な？そんなに気にすることないわ。",
-              "(ナダ) ドアホ！アスナの命に「もう一度」は無いんやぞ！",
-              "(ナダ)……お前はレッド失格や。",
-              "(ナダ) コウ、安心せえ。俺がちゃんとレッドを受け継いだる。",
+              "(ナダ) まあ、ほんのちょびっとやから。 な? そんなに気にすることないわ。",
+              "(ナダ) ドアホ!アスナの命に「もう一度」は無いんやぞ!",
+              "(ナダ)......お前はレッド失格や。",
+              "(ナダ) コウ、 安心せえ。俺がちゃんとレッドを受け継いだる。",
               "(ナダ) この鎧を長くまとった者は、いつしか心の弱い部分につけこまれて、鎧に支配される。",
-              "(ナダ) 最強を求めて彷徨うガイソーグの鎧。リュウソウジャーになれんかった俺は、みんなを見返す力が欲しかった。",
-              "(ナダ) だから探して、探して！宇宙の果てまで行って！やっと！",
-              "(ナダ) 俺は強くなった。誰にも負けへん力を手に入れた！・・・でもな・・・・・・強なってもあんま楽しないんや。",
-              "(ナダ) いくら相手を打ち負かしても、どっかにもっと強いヤツがおるんちゃうか。そんなことばっかり考えてしまうんや！",
+              "(ナダ) 最強を求めて彷徨うガイソーグの鎧。 リュウソウジャーになれんかった俺は、みんなを見返す力が欲しかった。",
+              "(ナダ) だから探して、探して!宇宙の果てまで行って!やっと!",
+              "(ナダ) 俺は強くなった。 誰にも負けへん力を手に入れた!・・・でもな・・・・・・ 強なってもあんま楽しないんや。",
+              "(ナダ) いくら相手を打ち負かしても、どっかにもっと強いヤツがおるんちゃうか。 そんなことばっかり考えてしまうんや!",
               "(ガイソーグ) そいつは強いのか。",
-              "(ナダ) 敵も味方も無い。この鎧は、ただ強い相手を求めとる。",
+              "(ナダ) 敵も味方も無い。 この鎧は、 ただ強い相手を求めとる。",
               "(ナダ) 俺はガイソーグや。それでもか。",
-              "(コウ) ガイソーグだろうと関係ない！ナダはナダだ！",
-              "(ナダ) やっぱりお前は、マスターレッドが認めた男だけあるんやな。かなわんわ。",
+              "(コウ) ガイソーグだろうと関係ない!ナダはナダだ!",
+              "(ナダ) やっぱりお前は、 マスターレッドが認めた男だけあるんやな。 かなわんわ。",
               "(ナダ) くやしいなぁ、俺は・・・・・・俺は。",
-              "(コウ) やっぱりナダは俺達の仲間だ！これからは一緒に戦おうぜ！",
+              "(コウ) やっぱりナダは俺達の仲間だ!これからは一緒に戦おうぜ!",
               "(ナダ) 俺は、お前のそういうところがほんまに嫌いや。",
-              "(ナダ) 関係あらへんやろが、何様やねんお前！",
+              "(ナダ) 関係あらへんやろが、 何様やねんお前!",
               "(ナダ) ええ加減、鬱陶しいねん、お前。",
               "(ナダ) もう時間が無いみたいやな･･････。",
               "(ガイソーグ) 無駄な抵抗を･･････諦めろ･･････。",
               "(ナダ) うわあああああああ",
               "----!!! <ガイソーグ変身音>",
-              "(ガイソーグ) はぁああああああ。一番強いのは誰だ･･････？お前か、お前かぁぁあ？",
-              "(ガイソーグ) 一番強いのは誰だ･･・・・・一番強いのは誰だぁああ！",
-              "(コウ) 誰よりもリュウソウジャーになりたかった、リュウソウ族としての誇りを、誰よりも大切に思ってた",
-              "(コウ) その気高き魂・・・俺たちと、ソウルはひとつ･･･。",
+              "(ガイソーグ) はぁああああああ。一番強いのは誰だ･･････?お前か、お前かぁぁあ?",
+              "(ガイソーグ) 一番強いのは誰だ･･・・・・一番強いのは誰だぁああ!",
+              "(コウ) 誰よりもリュウソウジャーになりたかった、リュウソウ族としての誇りを、 誰よりも大切に思ってた",
+              "(コウ) その気高き魂・・・ 俺たちと、ソウルはひとつ･･･。",
               "(コウ) ナダもリュウソウジャーだ。",
               "<剣を掴む効果音>",
-              "(ナダ) 先輩に説教するとは、ええ度胸や。",
+              "(ナダ) 先輩に説教するとは、 ええ度胸や。",
               "(ナダ) 俺は、お前らのそういうところがほんまに･･･・・・嫌いや。"
             ]
           },
           {
-            "display_index": 4,
+            "display_index": -1,
             "source_ids": [57],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           }
         ],
-        "uncertainties": [
-          "Long screams and transformation sound lengths (e.g. multiple extended vowel sequences) were transcribed literally; exact vowel counts may be uncertain.",
-          "Minor dialectal particles and contractions (e.g. 'ここぞっちゅう', '負けへん', 'あんま') were reconstructed from the scanned text as presented; spacing and punctuation choices follow the source but may reflect OCR spacing."
-        ],
+        "uncertainties": [],
         "ocr_lines": [
           {
             "id": 0,
@@ -8837,7 +8792,7 @@
         },
         {
           "text": "(ナダ) 不屈の騎士!ガイソーグ!",
-          "translation": "(Nada) Indomitable knight! Gaisorg!",
+          "translation": "(Nada) Indomitable Knight! Gaisorg!",
           "bbox": [0.399, 0.08979383414983749, 0.19083616971969597, 0.012706165850162515],
           "layout": "panel"
         },
@@ -8856,21 +8811,10 @@
           "layout": "panel"
         },
         {
-          "text": "あぁ~、 背中かゆ。\nほんま、自分らのおかげや。おおきに。おおきに。\n俺な、お前らに会うまで、 自分のことが嫌いで仕方なかった。\n才能があるとかないとか、選ばれるや選ばれへんやとか。 そんなことばっかり気にしてな。\nでもな、そんなことどうでもええって、 お前らが教えてくれたんや。\nそれを教えてくれた仲間と一緒に戦っていけるなんて･･･ はは、 俺ワクワクが止まらんわ、コウ。\nただ、大事な人を守るためには、 まだまだ足らんモンがある。 せやから俺な......。\n俺もいくで。\nリュウソウ!･･････リュウソウガイソー!・・・・・・ああっ! <ガイソーチェンジ!>そっちかいな。\n<変身音>\n不屈の騎士!ガイソーグ! 俺の騎士道、見せたるわい!\nって言うてみたかったんや~っ、これ!\nさあ、いくでぇっ!\n立ち向かわんと、 後悔するくらいなら・・・・・・ 立ち向かって後悔する方がええ!\n俺は･･････リュウソウジャー。 不屈の騎士や!\n何してるっ!俺はええから、あいつをはよ倒せぇっ!・・・じゃないと、みんなの命が危ない･･････!\n俺のソウル......お前に託す。\nみんなを救え!コウ!\nああ・・・・・・最後に、ええ仲間に会えて、ほんま･･････。",
-          "translation": "• Ah— my back itches.\n• Really, it's thanks to you all. Thank you. Thank you.\n• You know, until I met you guys, I couldn't help but hate myself.\n• I kept worrying about whether I had talent or not, whether I'd be chosen or not. I only cared about that kind of stuff.\n• But you taught me that that kind of thing doesn't matter.\n• To be able to fight alongside the friends who taught me that... haha, I can't stop being excited, Kou.\n• But to protect the people who matter, there are still things I'm lacking. That's why I...\n• I'm going too.\n• Ryusoul! ...Ryusoul Gaiso! ...Ah! <Gaiso Change!> So that's the one.\n• <Transformation sound>\n• The indomitable knight! Gaisorg! I'll show you my knight's way!\n• That's what I've wanted to say—this!\n• Alright, let's go!\n• If facing it is going to lead to regret... it's better to face it and regret it!\n• I am... a Ryusoulger. The indomitable knight!\n• What are you doing! Don't worry about me, go beat that guy now! ...Otherwise, everyone's lives are in danger...!\n• My soul... I entrust it to you.\n• Save everyone! Kou!\n• Ah... to have met such good comrades at the end, really...\n• Is this recording properly? Ah, hi, thanks as always. I'm Nada.\n• Uh— well, it's not like it's something I need to say formally, but I don't want to be holding everyone back, so I'm thinking of going on a training journey for a bit.\n• So, well, I won't be around for a little while, but don't be lonely, okay? Hah...\n• Well, honestly, the Druidon are strong.",
-          "bbox": [0.194, 0.13695223188400268, 0.6882890415191649, 0.4286348013877868],
+          "text": "あぁ~、 背中かゆ。\nほんま、自分らのおかげや。おおきに。おおきに。\n俺な、お前らに会うまで、 自分のことが嫌いで仕方なかった。\n才能があるとかないとか、選ばれるや選ばれへんやとか。 そんなことばっかり気にしてな。\nでもな、そんなことどうでもええって、 お前らが教えてくれたんや。\nそれを教えてくれた仲間と一緒に戦っていけるなんて･･･ はは、 俺ワクワクが止まらんわ、コウ。\nただ、大事な人を守るためには、 まだまだ足らんモンがある。 せやから俺な......。\n俺もいくで。\nリュウソウ!･･････リュウソウガイソー!・・・・・・ああっ! <ガイソーチェンジ!>そっちかいな。\n<変身音>\n不屈の騎士!ガイソーグ! 俺の騎士道、見せたるわい!\nって言うてみたかったんや~っ、これ!\nさあ、いくでぇっ!\n立ち向かわんと、 後悔するくらいなら・・・・・・ 立ち向かって後悔する方がええ!\n俺は･･････リュウソウジャー。 不屈の騎士や!\n何してるっ!俺はええから、あいつをはよ倒せぇっ!・・・じゃないと、みんなの命が危ない･･････!\n俺のソウル......お前に託す。\nみんなを救え!コウ!\nああ・・・・・・最後に、ええ仲間に会えて、ほんま･･････。\nこれちゃんと撮れてんのか、これ。はぁっ、どうも、 まいどです。 ナダです。 え~、 ま、 別にあらたまって言うようなこと\nじゃないんやけど、 俺、 みんなの足引っ張りたないから、ちょっと修行の旅に出ようと思ってます。\nだから、ま、ちょっとおらんようなるけど、 ま、寂しがらんといてな、な? はぁ・・・・・・ まあ、ぶっちゃけ、ドルイドンは強い。\nでも、みんなと一緒やったら、 不思議と怖ないんや。カナロとバンバはめちゃくちゃ強いし、\nトワはすばしっこくて勇気もある。 メルトはちゃーんとした作戦考えてくれるし、アスナはほら、なんてったってほら、\nカワイイ。 コウ。コウはちょっと、向こう見ずなとこあるけど、 その勇気が、 みんなの力を引き上げてる。 ほんまええ\nチームや。そんでもって俺が帰ってきたらもう最強や。 ドルイドン一緒に倒してな、この星に平和が来たら、 また、\n卓球しよな、遊ぼうな、 いっぱいアホな話しような。 挨拶はこんぐらいにして、 ほなまた••••。\nそういや、照れくさくて、 まだちゃんと言えてなかったな・・・・・・ みんな、ありがとう。",
+          "translation": "• Ah—my back itches.\n• Really, it's thanks to you all. Thank you. Thank you.\n• You know, until I met you guys, I couldn't help hating myself.\n• I was always worrying about whether I had talent or not, whether I'd be chosen or not.\n• But you taught me that none of that matters.\n• To be able to fight alongside the comrades who taught me that... haha, I can't stop getting excited, Ko.\n• Still, to protect the people I care about, I'm still lacking in many ways. That's why I...\n• I'm going too.\n• Ryusoul! ...Ryusoul Gaisou! ...Ahh! <Gaiso Change!> Oh, that one, huh?\n• <Transformation sound>\n• The indomitable knight! Gaisoug! I'll show you my chivalry!\n• I wanted to say that so bad—this!\n• Alright, let's go!\n• If I'm going to regret it for not standing up, then I'd rather stand up and regret it!\n• I am... a Ryusoulger. The indomitable knight!\n• What are you doing!? Forget about me, hurry up and take him down! ...If you don't, everyone's life is in danger...!\n• I entrust my soul... to you.\n• Save everyone! Ko!\n• Ah... to have met such good comrades at the end, really...\n• Is this recording properly? Ah, hello, thanks as always. I'm Nada.\n• Well, it's not anything I need to say formally, but I don't want to be a drag on everyone, so I'm thinking of going on a training journey for a while.\n• So, I won't be around for a bit, but don't be lonely, okay? Ah... well, honestly, the Druidon are strong.\n• But when I'm with everyone, I'm strangely not afraid. Kanaro and Bamba are crazy strong, Towa is agile and brave. Melto actually comes up with solid plans, and Asuna is—well, above all—\n• cute. Ko. Ko can be a bit reckless, but that courage pulls everyone's strength up. Truly a great\n• team. And when I come back we'll be the strongest. Defeat the Druidon together, and when peace returns to this planet, let's\n• play table tennis, hang out, and tell a ton of stupid stories. That's enough greetings for now—see you again...\n• Come to think of it, I was too embarrassed to say it properly before... everyone, thank you.",
+          "bbox": [0.194, 0.13695223188400268, 0.693434829711914, 0.5477477681159972],
           "layout": "panel"
-        },
-        {
-          "text": "これちゃんと撮れてんのか、これ。はぁっ、どうも、 まいどです。 ナダです。 え~、 ま、 別にあらたまって言うようなこと\nじゃないんやけど、 俺、 みんなの足引っ張りたないから、ちょっと修行の旅に出ようと思ってます。\nだから、ま、ちょっとおらんようなるけど、 ま、寂しがらんといてな、な? はぁ・・・・・・ まあ、ぶっちゃけ、ドルイドンは強い。\nでも、みんなと一緒やったら、 不思議と怖ないんや。カナロとバンバはめちゃくちゃ強いし、\nトワはすばしっこくて勇気もある。 メルトはちゃーんとした作戦考えてくれるし、アスナはほら、なんてったってほら、\nカワイイ。 コウ。コウはちょっと、向こう見ずなとこあるけど、 その勇気が、 みんなの力を引き上げてる。 ほんまええ\nチームや。そんでもって俺が帰ってきたらもう最強や。 ドルイドン一緒に倒してな、この星に平和が来たら、 また、\n卓球しよな、遊ぼうな、 いっぱいアホな話しような。 挨拶はこんぐらいにして、 ほなまた••••。\nそういや、照れくさくて、 まだちゃんと言えてなかったな・・・・・・ みんな、ありがとう。",
-          "translation": "• Is this being filmed properly? Uh—hello, as always. I'm Nada.\n• Umm, well, it's not really anything formal, but I don't want to hold everyone back, so I'm thinking of going on a training journey for a bit.\n• So, well, I won't be around for a while, but don't be lonely, okay? Uh......\n• Honestly, Druidon is strong. But when I'm with everyone, strangely I'm not afraid.\n• Kanalo and Bamba are ridiculously strong, and Towa is quick and brave.\n• Melt actually comes up with proper strategies, and Asuna is—well, above all—cute.\n• Kou. Kou is a bit reckless, but that courage raises everyone's strength. Really a great team.\n• And when I come back we'll be the strongest. Defeat Druidon together, and when peace comes to this planet, let's play table tennis again, hang out, and tell lots of dumb stories.\n• I'll stop the greetings at about here—see you later......\n• Come to think of it, I was too shy and hadn't properly said this yet......thanks, everyone.",
-          "bbox": [0.19489794528484344, 0.513, 0.6925368844270705, 0.17169999999999985],
-          "layout": "panel"
-        },
-        {
-          "text": "13",
-          "translation": "13",
-          "bbox": [0.042, 0.9534, 0.0266, 0.0115]
         },
         {
           "text": "1",
@@ -9181,27 +9125,22 @@
               "source_ids": [4]
             },
             {
-              "id": "p5",
+              "id": "p6",
               "kind": "heading",
               "source_ids": [10]
             },
             {
               "id": "p7",
               "kind": "prose",
-              "source_ids": [8, 9, 11, 12, 13, 16, 17, 19, 22, 23, 25, 29, 30, 31, 33, 35, 37]
-            },
-            {
-              "id": "p8",
-              "kind": "prose",
-              "source_ids": [39]
+              "source_ids": [8, 9, 11, 12, 13, 16, 17, 19, 22, 23, 25, 29, 30, 31, 33, 35, 37, 39]
             }
           ],
           "furigana": [],
           "notes": [
-            "Source 15 appears to combine/garble adjacent number-column entries around rows 8–10; kept as number-column text.",
-            "Conservative panel fallback: Panel p6-heading-6 would mask unrelated source 7",
-            "Retained p6 unchanged: Panel p6-heading-6 would mask unrelated source 7"
-          ]
+            "Conservative panel fallback: Panel p5-heading-6 would mask unrelated source 7",
+            "Retained p5 unchanged: Panel p5-heading-6 would mask unrelated source 7"
+          ],
+          "native_artwork": [0]
         },
         "mapping": [
           {
@@ -9234,7 +9173,7 @@
           },
           {
             "display_index": 4,
-            "panel_id": "p5",
+            "panel_id": "p6",
             "source_ids": [10],
             "furigana_ids": [],
             "japanese_items": ["セリフ内容"]
@@ -9242,147 +9181,127 @@
           {
             "display_index": 5,
             "panel_id": "p7",
-            "source_ids": [8, 9, 11, 12, 13, 16, 17, 19, 22, 23, 25, 29, 30, 31, 33, 35, 37],
+            "source_ids": [8, 9, 11, 12, 13, 16, 17, 19, 22, 23, 25, 29, 30, 31, 33, 35, 37, 39],
             "furigana_ids": [],
             "japanese_items": [
-              "あぁ~、 背中かゆ。",
+              "あぁ～、背中かゆ。",
               "ほんま、自分らのおかげや。おおきに。おおきに。",
-              "俺な、お前らに会うまで、 自分のことが嫌いで仕方なかった。",
-              "才能があるとかないとか、選ばれるや選ばれへんやとか。 そんなことばっかり気にしてな。",
-              "でもな、そんなことどうでもええって、 お前らが教えてくれたんや。",
-              "それを教えてくれた仲間と一緒に戦っていけるなんて･･･ はは、 俺ワクワクが止まらんわ、コウ。",
-              "ただ、大事な人を守るためには、 まだまだ足らんモンがある。 せやから俺な......。",
+              "俺な、お前らに会うまで、自分のことが嫌いで仕方なかった。",
+              "才能があるとかないとか、選ばれるや選ばれへんやとか。そんなことばっかり気にしてな。",
+              "でもな、そんなことどうでもええって、お前らが教えてくれたんや。",
+              "それを教えてくれた仲間と一緒に戦っていけるなんて･･･はは、俺ワクワクが止まらんわ、コウ。",
+              "ただ、大事な人を守るためには、まだまだ足らんモンがある。せやから俺な......。",
               "俺もいくで。",
-              "リュウソウ!･･････リュウソウガイソー!・・・・・・ああっ! <ガイソーチェンジ!>そっちかいな。",
+              "リュウソウ!･･････リュウソウガイソー!･･････あぁっ! <ガイソーチェンジ!>そっちかいな。",
               "<変身音>",
               "不屈の騎士!ガイソーグ! 俺の騎士道、見せたるわい!",
-              "って言うてみたかったんや~っ、これ!",
+              "って言うてみたかったんや～っ、これ!",
               "さあ、いくでぇっ!",
-              "立ち向かわんと、 後悔するくらいなら・・・・・・ 立ち向かって後悔する方がええ!",
-              "俺は･･････リュウソウジャー。 不屈の騎士や!",
-              "何してるっ!俺はええから、あいつをはよ倒せぇっ!・・・じゃないと、みんなの命が危ない･･････!",
+              "立ち向かわんと、後悔するくらいなら･･････立ち向かって後悔する方がええ!",
+              "俺は･･････リュウソウジャー。不屈の騎士や!",
+              "何してるっ!俺はええから、あいつをはよ倒せぇっ!･･･じゃないと、みんなの命が危ない･･････!",
               "俺のソウル......お前に託す。",
               "みんなを救え!コウ!",
-              "ああ・・・・・・最後に、ええ仲間に会えて、ほんま･･････。",
-              "これちゃんと撮れてんのか、これ。はぁっ、どうも、 まいどです。 ナダです。",
-              "え~、 ま、 別にあらたまって言うようなことじゃないんやけど、 俺、 みんなの足引っ張りたないから、ちょっと修行の旅に出ようと思ってます。",
-              "だから、ま、ちょっとおらんようなるけど、 ま、寂しがらんといてな、な? はぁ・・・・・・",
-              "まあ、ぶっちゃけ、ドルイドンは強い。"
+              "ああ･･････最後に、ええ仲間に会えて、ほんま･･････。",
+              "これちゃんと撮れてんのか、これ。はぁっ、どうも、まいどです。ナダです。",
+              "え～、ま、別にあらたまって言うようなことじゃないんやけど、俺、みんなの足引っ張りたないから、ちょっと修行の旅に出ようと思ってます。",
+              "だから、ま、ちょっとおらんようなるけど、ま、寂しがらんといてな、な? はぁ･･････まあ、ぶっちゃけ、ドルイドンは強い。",
+              "でも、みんなと一緒やったら、不思議と怖ないんや。カナロとバンバはめちゃくちゃ強いし、\nトワはすばしっこくて勇気もある。メルトはちゃーんとした作戦考えてくれるし、アスナはほら、なんてったってほら、",
+              "カワイイ。コウ。コウはちょっと、向こう見ずなとこあるけど、その勇気が、みんなの力を引き上げてる。ほんまええ",
+              "チームや。そんでもって俺が帰ってきたらもう最強や。ドルイドン一緒に倒してな、この星に平和が来たら、また、",
+              "卓球しよな、遊ぼうな、いっぱいアホな話しような。挨拶はこんぐらいにして、ほなまた･･････。",
+              "そういや、照れくさくて、まだちゃんと言えてなかったな･･････みんな、ありがとう。"
             ]
+          },
+          {
+            "display_index": -1,
+            "source_ids": [0],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
             "display_index": 6,
-            "panel_id": "p8",
-            "source_ids": [39],
-            "furigana_ids": [],
-            "japanese_items": [
-              "これちゃんと撮れてんのか、これ。はぁっ、どうも、まいどです。ナダです。",
-              "え〜、ま、別にあらたまって言うようなことじゃないんやけど、俺、みんなの足引っ張りたないから、ちょっと修行の旅に出ようと思ってます。",
-              "だから、ま、ちょっとおらんようなるけど、ま、寂しがらんといてな、な? はぁ......",
-              "まあ、ぶっちゃけ、ドルイドンは強い。でも、みんなと一緒やったら、不思議と怖ないんや。",
-              "カナロとバンバはめちゃくちゃ強いし、トワはすばしっこくて勇気もある。",
-              "メルトはちゃーんとした作戦考えてくれるし、アスナはほら、なんてったってほら、カワイイ。",
-              "コウ。コウはちょっと、向こう見ずなとこあるけど、その勇気が、みんなの力を引き上げてる。ほんまええチームや。",
-              "そんでもって俺が帰ってきたらもう最強や。ドルイドン一緒に倒してな、この星に平和が来たら、また、卓球しよな、遊ぼうな、いっぱいアホな話しような。",
-              "挨拶はこんぐらいにして、ほなまた......。",
-              "そういや、照れくさくて、まだちゃんと言えてなかったな......みんな、ありがとう。"
-            ]
-          },
-          {
-            "display_index": 7,
-            "source_ids": [0],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 8,
             "source_ids": [5],
             "furigana_ids": []
           },
           {
-            "display_index": 9,
+            "display_index": 7,
             "source_ids": [6],
             "furigana_ids": []
           },
           {
-            "display_index": 10,
+            "display_index": 8,
             "source_ids": [7],
             "furigana_ids": []
           },
           {
-            "display_index": 11,
+            "display_index": 9,
             "source_ids": [14],
             "furigana_ids": []
           },
           {
-            "display_index": 12,
+            "display_index": 10,
             "source_ids": [15],
             "furigana_ids": []
           },
           {
-            "display_index": 13,
+            "display_index": 11,
             "source_ids": [18],
             "furigana_ids": []
           },
           {
-            "display_index": 14,
+            "display_index": 12,
             "source_ids": [20],
             "furigana_ids": []
           },
           {
-            "display_index": 15,
+            "display_index": 13,
             "source_ids": [21],
             "furigana_ids": []
           },
           {
-            "display_index": 16,
+            "display_index": 14,
             "source_ids": [24],
             "furigana_ids": []
           },
           {
-            "display_index": 17,
+            "display_index": 15,
             "source_ids": [26],
             "furigana_ids": []
           },
           {
-            "display_index": 18,
+            "display_index": 16,
             "source_ids": [27],
             "furigana_ids": []
           },
           {
-            "display_index": 19,
+            "display_index": 17,
             "source_ids": [28],
             "furigana_ids": []
           },
           {
-            "display_index": 20,
+            "display_index": 18,
             "source_ids": [32],
             "furigana_ids": []
           },
           {
-            "display_index": 21,
+            "display_index": 19,
             "source_ids": [34],
             "furigana_ids": []
           },
           {
-            "display_index": 22,
+            "display_index": 20,
             "source_ids": [36],
             "furigana_ids": []
           },
           {
-            "display_index": 23,
+            "display_index": 21,
             "source_ids": [38],
             "furigana_ids": []
           }
         ],
         "uncertainties": [
-          "Romanization/standard English rendering of ガイソーグ (Gaisorg) may be uncertain.",
-          "Speaker name ナダ rendered as 'Nada' per kana; alternative romanizations possible.",
-          "OCR may have errors in dialectal contractions (e.g., 'おおきに', 'せやから', 'や' endings) but translations preserve intent.",
-          "Character/name renderings assumed: コウ as 'Kou', ガイソーグ rendered as 'Gaisorg' and ガイソーチェンジ as 'Gaiso Change!' per the scan; these may have alternate official romanizations.",
-          "『変身音』 and '<変身音>' treated as 'Transformation sound' and included literally; exact sound effects may differ.",
-          "'リュウソウ' / 'リュウソウジャー' translated as 'Ryusoul' / 'Ryusoulger' based on scan; alternative spellings may exist.",
-          "Final lines introducing speaker 'ナダ' rendered as 'Nada' per OCR; name spelling uncertain.",
-          "'ドルイドン' rendered as 'Druidon' per OCR; official English name may vary."
+          "Romanization of the katakana ガイソーグ (rendered here as \"Gaisorg\") is uncertain."
         ],
         "ocr_lines": [
           {
@@ -9754,13 +9673,13 @@
         },
         {
           "text": "なんか力が入らんなぁ。 こんなんじゃ、あいつらの足手まといになってまう･･････。 俺自身の力で、強くなるしかないか。\nよし決めた。俺はもう一度修行に出る。 先輩の威厳を守らんとな。\nま、一応、あいつらにも伝えとくか。 けど面と向かっては言いづらいしな。\nそや、ええこと思いついた! 確かこのへんにういちゃんのカメラが・・・・・・ あった!",
-          "translation": "• I just don't have any strength. At this rate I'll become dead weight for those guys... I have no choice but to get stronger by my own power.\n• Alright, it's decided. I'll go off to train once more. I have to protect my senpai's dignity.\n• Well, I should at least tell those guys. But it's hard to say it to their faces.\n• That's it, I thought of something good! I'm pretty sure Ui-chan's camera is around here... there it is!",
+          "translation": "• I can't get my strength up. At this rate I'll just be a burden to those guys... I guess I have to get stronger by my own power.\n• Alright, I've decided. I'm going back out to train again. I have to protect my senior's dignity.\n• Well, I should at least tell those guys. But it's hard to say it to their faces.\n• Oh—I've got a good idea! I'm pretty sure Ui-chan's camera is around here... there it is!",
           "bbox": [0.1193, 0.1103500605225563, 0.7039651844024658, 0.07194993947744369],
           "layout": "panel"
         },
         {
           "text": "※【ナダの特別メッセージ1】の後にトリガーを短押しすると、本書13ページ 「ナダ後期モードセリフ一覧表」の\n番号20の音声が鳴ります。",
-          "translation": "If you briefly press the trigger after “Nada’s Special Message 1,” the audio for number 20 on page 13 of this book, “Nada Late-Stage Mode Line List,” will play.",
+          "translation": "If you briefly press the trigger after \"Nada's Special Message 1,\" the voice line numbered 20 in the \"Nada Late-Stage Mode Line List\" on page 13 will play.",
           "bbox": [0.097, 0.1986, 0.7819635791778564, 0.035669042253494265],
           "layout": "panel"
         },
@@ -9772,7 +9691,7 @@
         },
         {
           "text": "自分ら、ええやつやなぁ。離れ離れになっても、ずっとソウルは一緒や。\n独りやない。仲間は必ずいるはずや。 諦めへん限り、願いは叶う。叶えてみせる",
-          "translation": "• We're good people, aren't we. Even if we get separated, our souls will always be together.\n• You are not alone. There will always be friends. As long as you don't give up, wishes will come true. I'll make it happen.",
+          "translation": "• We're good people, aren't we? Even if we get separated, our souls stay together.\n• You are not alone. There will always be companions. As long as you don't give up, wishes can come true. I'll make it happen.",
           "bbox": [0.1193, 0.29958827352523804, 0.47345965833663933, 0.03262514758110047],
           "layout": "panel"
         },
@@ -9826,7 +9745,7 @@
         },
         {
           "text": "8\n00\n9",
-          "translation": "• 00\n• 8\n• 9",
+          "translation": "• 8\n• 00\n• 9",
           "bbox": [
             0.1261778131723404, 0.6708000000000001, 0.016722186827659608, 0.042308231067657354
           ],
@@ -9834,13 +9753,13 @@
         },
         {
           "text": "(コウ) 勇猛の騎士、リュウソウレッド!\n(メルト) 叡智の騎士、リュウソウブルー!\n(アスナ) 剛健の騎士、リュウソウピンク!\n(トワ) 疾風の騎士、リュウソウグリーン!\n(バンバ) 威風の騎士、リュウソウブラック!\n(カナロ) 栄光の騎士、リュウソウゴールド!\n(ナダ) 不屈の騎士、 ガイソーグ!\n(全員) 正義に仕える、気高き魂!\n(全員) 騎士竜戦隊! リュウソウジャー!\n(コウ) 俺達の騎士道、見せてやる!",
-          "translation": "• (Koh) Valiant knight, Ryusoul Red!\n• (Melt) Knight of wisdom, Ryusoul Blue!\n• (Asuna) Stalwart knight, Ryusoul Pink!\n• (Towa) Knight of the gale, Ryusoul Green!\n• (Bamba) Formidable knight, Ryusoul Black!\n• (Kanaro) Knight of glory, Ryusoul Gold!\n• (Nada) Indomitable knight, Gaisorg!\n• (All) Noble souls who serve justice!\n• (All) Knight-Dragon Squadron! Ryusoulger!\n• (Koh) We'll show you our chivalry!",
+          "translation": "• (Kou) Brave knight, Ryusoul Red!\n• (Melt) Wise knight, Ryusoul Blue!\n• (Asuna) Stalwart knight, Ryusoul Pink!\n• (Towa) Gale knight, Ryusoul Green!\n• (Bamba) Majestic knight, Ryusoul Black!\n• (Kanaro) Glorious knight, Ryusoul Gold!\n• (Nada) Indomitable knight, Gaisorg!\n• (All) Souls noble and devoted to justice!\n• (All) Knight-Dragon Squadron! Ryusoulger!\n• (Kou) We'll show you our code of knighthood!",
           "bbox": [0.1964, 0.5220791802406312, 0.25411457428932194, 0.19102905082702626],
           "layout": "panel"
         },
         {
           "text": "※セリフ再生中に開閉操作、 トリガー操作を行うと音声は止まります。",
-          "translation": "If you operate the open/close mechanism or the trigger while a line is playing, the audio will stop.",
+          "translation": "If you open or close the toy, or operate the trigger while a voice line is playing, the audio will stop.",
           "bbox": [
             0.40549999999999997, 0.7300598726272584, 0.49659999999999993, 0.014540127372741574
           ],
@@ -9850,11 +9769,6 @@
           "text": "(コウ、メルト、 アスナ、 トワ、バンバ、カナロ) リュウソウチェンジ!!\n(ナダ) ガイソーチェンジ!",
           "translation": "(Koh, Melt, Asuna, Towa, Bamba, Kanalo) Ryusoul Change!\n(Nada) Gaisoul Change!",
           "bbox": [0.2896, 0.4565, 0.3805, 0.0296]
-        },
-        {
-          "text": "14",
-          "translation": "14",
-          "bbox": [0.9306, 0.9534, 0.0257, 0.0109]
         }
       ],
       "image": "pages/page-14.webp",
@@ -10081,10 +9995,8 @@
             }
           ],
           "furigana": [],
-          "notes": [
-            "Source 20 appears to be an OCR artifact in the number column but is grouped with that column to avoid discarding it.",
-            "Retained p8 source IDs [12] unchanged: illustration-mask check"
-          ]
+          "notes": ["Retained p8 source IDs [12] unchanged: illustration-mask check"],
+          "native_artwork": [25]
         },
         "mapping": [
           {
@@ -10119,7 +10031,7 @@
             "source_ids": [5],
             "furigana_ids": [],
             "japanese_items": [
-              "※【ナダの特別メッセージ1】の後にトリガーを短押しすると、本書13ページ「ナダ後期モード セリフ一覧表」の番号20の音声が鳴ります。"
+              "※【ナダの特別メッセージ1】の後にトリガーを短押しすると、本書13ページ 「ナダ後期モードセリフ一覧表」の\n番号20の音声が鳴ります。"
             ]
           },
           {
@@ -10200,7 +10112,7 @@
             "panel_id": "p11",
             "source_ids": [19, 20, 21],
             "furigana_ids": [],
-            "japanese_items": ["00", "8", "9"]
+            "japanese_items": ["8", "00", "9"]
           },
           {
             "display_index": 15,
@@ -10233,18 +10145,14 @@
             "furigana_ids": []
           },
           {
-            "display_index": 18,
+            "display_index": -1,
             "source_ids": [25],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           }
         ],
         "uncertainties": [
-          "The scanned crop contains only the single character '1'; uncertain whether this is a page number, a list/item number, or part of a larger label not visible in the crop.",
-          "Image appears to contain only numeric digits with no surrounding Japanese text; exact intended reading order and meaning (labels, step numbers, or timer values) are unclear.",
-          "OCR/source text variants differed (original source_text showed ordering '8 / 00 / 9' while fresh OCR shows '00 / 8 / 9'); used fresh_panel_ocr ordering but ordering may be uncertain.",
-          "Rendered ガイソーグ as 'Gaisorg' (proper name transliteration uncertain).",
-          "Rendered リュウソウジャー as 'Ryusoulger' (standard romanization/branding variant uncertain).",
-          "Nuance choices for descriptors (e.g., 疾風, 威風, 剛健) were rendered as 'gale', 'formidable', 'stalwart' respectively; alternative natural translations may apply."
+          "Middle line read as \"00\" in the crop; it could be two zeros, two separate zeros, or another character (e.g., \"0 0\")."
         ],
         "ocr_lines": [
           {
@@ -10531,8 +10439,9 @@
           "panels": [],
           "furigana": [],
           "notes": [
-            "Source 0 is part of the central product/logo artwork, so it is left ungrouped."
-          ]
+            "Source 0 is part of the central logo/branding, so it is not grouped into a prose panel."
+          ],
+          "native_artwork": []
         },
         "mapping": [
           {

@@ -7,7 +7,7 @@
     "source_url": "https://toy.bandai.co.jp/manuals/files/2565785.pdf?ver=sf7iib",
     "blog_url": "",
     "pages": 3,
-    "blocks": 77,
+    "blocks": 68,
     "thumbnail": "pages/page-0.webp",
     "tags": ["ultraman"],
     "semantic_layout": 1
@@ -23,24 +23,14 @@
         },
         {
           "text": "お買い上げのお客様へ 必ずお読みください。",
-          "translation": "To customers who purchased this product: Please read carefully.",
+          "translation": "To customers who purchased this product: Please read this carefully.",
           "bbox": [0.3389, 0.8058525428771973, 0.32219999999999993, 0.01434745712280261],
           "layout": "panel"
-        },
-        {
-          "text": "ULTRAOREPLICA",
-          "translation": "ULTRAOREPLICA",
-          "bbox": [0.032, 0.0235, 0.1923, 0.0103]
         },
         {
           "text": "ウルトラレプリカ",
           "translation": "Ultra Replica",
           "bbox": [0.1814, 0.0346, 0.0417, 0.0043]
-        },
-        {
-          "text": "ULTRAMAN",
-          "translation": "ULTRAMAN",
-          "bbox": [0.107, 0.05, 0.0429, 0.0047]
         },
         {
           "text": "シングュラマン ベーターカプセル",
@@ -241,16 +231,17 @@
               "source_ids": [17]
             },
             {
-              "id": "p1-a",
+              "id": "p1",
               "kind": "prose",
               "source_ids": [18]
             }
           ],
           "furigana": [],
           "notes": [
-            "Retained p1 source IDs [19] unchanged: illustration-mask check",
-            "Panel p2 retained original English after failed automatic checks"
-          ]
+            "Retained p2 source IDs [19] unchanged: illustration-mask check",
+            "Panel p3 retained original English after failed automatic checks"
+          ],
+          "native_artwork": [0, 2]
         },
         "mapping": [
           {
@@ -262,103 +253,105 @@
           },
           {
             "display_index": 1,
-            "panel_id": "p1-a",
+            "panel_id": "p1",
             "source_ids": [18],
             "furigana_ids": [],
-            "japanese_items": ["お買い上げのお客様へ　必ずお読みください。"]
+            "japanese_items": ["お買い上げのお客様へ 必ずお読みください。"]
+          },
+          {
+            "display_index": -1,
+            "source_ids": [0],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
             "display_index": 2,
-            "source_ids": [0],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 3,
             "source_ids": [1],
             "furigana_ids": []
           },
           {
-            "display_index": 4,
+            "display_index": -1,
             "source_ids": [2],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 5,
+            "display_index": 3,
             "source_ids": [3],
             "furigana_ids": []
           },
           {
-            "display_index": 6,
+            "display_index": 4,
             "source_ids": [4],
             "furigana_ids": []
           },
           {
-            "display_index": 7,
+            "display_index": 5,
             "source_ids": [5],
             "furigana_ids": []
           },
           {
-            "display_index": 8,
+            "display_index": 6,
             "source_ids": [6],
             "furigana_ids": []
           },
           {
-            "display_index": 9,
+            "display_index": 7,
             "source_ids": [7],
             "furigana_ids": []
           },
           {
-            "display_index": 10,
+            "display_index": 8,
             "source_ids": [8],
             "furigana_ids": []
           },
           {
-            "display_index": 11,
+            "display_index": 9,
             "source_ids": [9],
             "furigana_ids": []
           },
           {
-            "display_index": 12,
+            "display_index": 10,
             "source_ids": [10],
             "furigana_ids": []
           },
           {
-            "display_index": 13,
+            "display_index": 11,
             "source_ids": [11],
             "furigana_ids": []
           },
           {
-            "display_index": 14,
+            "display_index": 12,
             "source_ids": [12],
             "furigana_ids": []
           },
           {
-            "display_index": 15,
+            "display_index": 13,
             "source_ids": [13],
             "furigana_ids": []
           },
           {
-            "display_index": 16,
+            "display_index": 14,
             "source_ids": [14],
             "furigana_ids": []
           },
           {
-            "display_index": 17,
+            "display_index": 15,
             "source_ids": [15],
             "furigana_ids": []
           },
           {
-            "display_index": 18,
+            "display_index": 16,
             "source_ids": [16],
             "furigana_ids": []
           },
           {
-            "display_index": 19,
+            "display_index": 17,
             "source_ids": [19],
             "furigana_ids": []
           },
           {
-            "display_index": 20,
+            "display_index": 18,
             "source_ids": [20],
             "furigana_ids": []
           }
@@ -628,40 +621,20 @@
         },
         {
           "text": "※電源スイッチがOFFになっていることを確認してください。\n※ボタンを押した際に同じ音しか鳴らない場合や、異なる音声が鳴るなど誤動作が起きた場合は、全て新しい電池に交換してください。",
-          "translation": "• Make sure the power switch is set to OFF.\n• If, when pressing a button, only the same sound plays or incorrect operation occurs such as different voice sounds playing, replace all batteries with new ones.",
+          "translation": "• Make sure the power switch is OFF.\n• If pressing a button only produces the same sound, or if incorrect operation occurs (for example, different voice lines play), replace all batteries with new ones.",
           "bbox": [0.04324002495408058, 0.0665, 0.8953820815980433, 0.03509999999999999],
           "layout": "panel"
         },
         {
-          "text": "①カバーパーツを取り外します。\n本体背面のカバーパーツを○印の箇所に指を掛け、取り外します。\n※カバーパーツ上部の細い部分を持って外そうとすると破損する恐れがあります。",
-          "translation": "• 1. Remove the cover part.\n• Hook your finger at the ○ mark on the cover part on the back of the main unit and remove it.\n• Do not try to remove it by holding the thin section at the top of the cover part, as it may break.",
-          "bbox": [0.043199999999999995, 0.1011, 0.4963894541740417, 0.0441],
+          "text": "①カバーパーツを取り外します。\n本体背面のカバーパーツを○印の箇所に指を掛け、取り外します。\n※カバーパーツ上部の細い部分を持って外そうとすると破損する恐れがあります。\n②電池ぶたを取り外します。\n②-1 本体内側の電池ぶたのネジを+または、ドライバーで矢印の方向に回し、\n②-2 電池ぶたを取り外します。\n③電池を入れます。\n古いボタン電池を取り外して、新しいボタン電池3個 (LR44・別売り)を\n+に注意してセットします。\n④電池ぶたを戻します。\n電池ぶたの突起と本体のミゾを合わせ、 電池ぶたのネジを\n②-1と逆方向に回して閉じます。\n⑤カバーパーツを戻します。\nカバーパーツの突起と本体のミゾを合わせ、カバーパーツを戻します。\n⑥スイッチを押して、スイッチを下げた状態にします。",
+          "translation": "• 1 Remove the cover part. Hook your finger on the marked spot on the back cover and remove it. Do not pull on the thin upper part of the cover, as it may break.\n• 2 Remove the battery cover.\n• 2-1 Turn the screw on the inside battery cover in the direction of the arrow using a + (Phillips) or − (flathead) screwdriver. 2-2 Remove the battery cover.\n• 3 Insert the batteries. Remove the old button batteries and install three new button batteries (LR44, sold separately), paying attention to + and − polarity.\n• 4 Replace the battery cover. Align the protrusion on the battery cover with the groove on the body, then turn the screw in the opposite direction of step 2-1 to close it.\n• 5 Replace the cover part. Align the cover's protrusion with the body's groove and put the cover back on.\n• 6 Press the switch and leave it in the down position.",
+          "bbox": [0.043199999999999995, 0.1011, 0.4963894541740417, 0.2113147846698761],
           "layout": "panel"
         },
         {
-          "text": "②電池ぶたを取り外します。\n②-1 本体内側の電池ぶたのネジを+または、ドライバーで矢印の方向に回し、\n②-2 電池ぶたを取り外します。\n③電池を入れます。",
-          "translation": "• ②Remove the battery cover.\n• ②-1 Turn the screw on the battery cover inside the main unit with a + or − screwdriver in the direction of the arrow,\n• ②-2 Remove the battery cover.\n• ③Insert the battery.",
-          "bbox": [0.043199999999999995, 0.1447, 0.4826853330612182, 0.05740000000000001],
-          "layout": "panel"
-        },
-        {
-          "text": "古いボタン電池を取り外して、新しいボタン電池3個 (LR44・別売り)を\n+に注意してセットします。\n④電池ぶたを戻します。",
-          "translation": "• Remove the old button batteries, and set three new button batteries (LR44, sold separately), taking care to observe the +/− polarity.\n• 4. Replace the battery cover.",
-          "bbox": [0.04324002495408058, 0.2016, 0.4270225814282894, 0.04189999999999999],
-          "layout": "panel"
-        },
-        {
-          "text": "電池ぶたの突起と本体のミゾを合わせ、 電池ぶたのネジを\n②-1と逆方向に回して閉じます。\n⑤カバーパーツを戻します。",
-          "translation": "• Align the protrusion on the battery cover with the groove on the main body, and turn the battery cover screw in the direction opposite to ②-1 to close it.\n• ⑤ Return the cover parts.",
-          "bbox": [0.043199999999999995, 0.243, 0.41980746941566466, 0.04370000000000002],
-          "layout": "panel"
-        },
-        {
-          "text": "カバーパーツの突起と本体のミゾを合わせ、カバーパーツを戻します。\n⑥スイッチを押して、スイッチを下げた状態にします。",
-          "translation": "• Align the protrusion on the cover part with the groove on the main body, and replace the cover part.\n• ⑥Press the switch to set the switch to the down position.",
-          "bbox": [
-            0.043643086463212966, 0.28576133704185486, 0.4193643829524517, 0.026653447628021243
-          ],
+          "text": "ボタン電池は\n上側が十に下側がに\nなるようにセットします。",
+          "translation": "Set the button battery with the + side up and the − side down.",
+          "bbox": [0.649, 0.5205000000000001, 0.11952940464019768, 0.03509999999999991],
           "layout": "panel"
         },
         {
@@ -672,19 +645,19 @@
         },
         {
           "text": "本体背面の電源スイッチを\nONにします。",
-          "translation": "Set the power switch on the rear of the unit to ON.",
+          "translation": "Set the power switch on the back of the unit to ON.",
           "bbox": [0.0444, 0.8442000000000001, 0.1392846067905426, 0.0230999999999999],
           "layout": "panel"
         },
         {
           "text": "※遊び終わった後は、必ず電源スイッチを\nOFFにしてください。",
-          "translation": "After you finish playing, be sure to turn the power switch OFF.",
+          "translation": "After playing, be sure to turn the power switch OFF.",
           "bbox": [0.043199999999999995, 0.9481, 0.18401544349193574, 0.02049999999999985],
           "layout": "panel"
         },
         {
           "text": "※3分間操作がない場合、\nスリープモードになります。\nスリープモードの解除は\n再度電源スイッチを\n入れなおしてください。",
-          "translation": "If there is no operation for 3 minutes, the unit will enter sleep mode. To exit sleep mode, turn the power switch off and then turn it on again.",
+          "translation": "• If there is no operation for 3 minutes, the unit will enter sleep mode.\n• To exit sleep mode, turn the power switch on again.",
           "bbox": [0.568834553718567, 0.8835000000000001, 0.13198021936416615, 0.04817953634262073],
           "layout": "panel"
         },
@@ -734,11 +707,6 @@
           "bbox": [0.3295, 0.587, 0.0466, 0.0068]
         },
         {
-          "text": "2-1",
-          "translation": "2-1",
-          "bbox": [0.3507, 0.7636, 0.0272, 0.0077]
-        },
-        {
           "text": "カバーパーツ",
           "translation": "Cover part",
           "bbox": [0.2539, 0.7914, 0.0701, 0.0077]
@@ -762,21 +730,6 @@
           "text": "突起",
           "translation": "protrusion",
           "bbox": [0.3235, 0.8965, 0.0236, 0.0077]
-        },
-        {
-          "text": "ボタン電池は\n上側が十に下側がに\nなるようにセットします。",
-          "translation": "Set the button batteries so the top side is + and the bottom side is −.",
-          "bbox": [0.6505, 0.522, 0.1155, 0.0321]
-        },
-        {
-          "text": "+",
-          "translation": "+",
-          "bbox": [0.7074, 0.5755, 0.023, 0.0103]
-        },
-        {
-          "text": "+",
-          "translation": "+",
-          "bbox": [0.7092, 0.646, 0.0242, 0.0103]
         },
         {
           "text": "スイッチ",
@@ -984,54 +937,39 @@
             {
               "id": "p2",
               "kind": "prose",
-              "source_ids": [3, 4]
+              "source_ids": [3, 4, 5, 6, 7, 8, 9, 10, 11]
             },
             {
               "id": "p3",
               "kind": "prose",
-              "source_ids": [5, 6, 7]
+              "source_ids": [31]
             },
             {
               "id": "p4",
-              "kind": "prose",
-              "source_ids": [8, 9]
-            },
-            {
-              "id": "p5",
-              "kind": "prose",
-              "source_ids": [10]
-            },
-            {
-              "id": "p6",
-              "kind": "prose",
-              "source_ids": [11]
-            },
-            {
-              "id": "p7",
               "kind": "heading",
               "source_ids": [24]
             },
             {
-              "id": "p8",
+              "id": "p5",
               "kind": "prose",
               "source_ids": [25, 26]
             },
             {
-              "id": "p9",
+              "id": "p6",
               "kind": "prose",
               "source_ids": [29]
             },
             {
-              "id": "p10",
+              "id": "p7",
               "kind": "prose",
               "source_ids": [34]
             }
           ],
           "furigana": [],
           "notes": [
-            "Source 7 and 9 each contain both the end of one step and the next step heading; kept with adjacent instruction text because OCR did not split them.",
-            "Diagram labels and product/part labels left ungrouped."
-          ]
+            "Source IDs 7, 9, 10, 11 each combine adjacent step text in one OCR region, so they are kept in the same prose panel rather than split."
+          ],
+          "native_artwork": [21, 32, 33]
         },
         "mapping": [
           {
@@ -1054,186 +992,152 @@
           {
             "display_index": 2,
             "panel_id": "p2",
-            "source_ids": [3, 4],
+            "source_ids": [3, 4, 5, 6, 7, 8, 9, 10, 11],
             "furigana_ids": [],
             "japanese_items": [
-              "①カバーパーツを取り外します。",
-              "本体背面のカバーパーツを○印の箇所に指を掛け、取り外します。",
-              "※カバーパーツ上部の細い部分を持って外そうとすると破損する恐れがあります。"
+              "①カバーパーツを取り外します。本体背面のカバーパーツを○印の箇所に指を掛け、取り外します。※カバーパーツ上部の細い部分を持って外そうとすると破損する恐れがあります。",
+              "②電池ぶたを取り外します。",
+              "②-1 本体内側の電池ぶたのネジを＋または−ドライバーで矢印の方向に回し、\n②-2 電池ぶたを取り外します。",
+              "③電池を入れます。古いボタン電池を取り外して、新しいボタン電池3個 (LR44・別売り)を＋−に注意してセットします。",
+              "④電池ぶたを戻します。電池ぶたの突起と本体のミゾを合わせ、電池ぶたのネジを②-1と逆方向に回して閉じます。",
+              "⑤カバーパーツを戻します。カバーパーツの突起と本体のミゾを合わせ、カバーパーツを戻します。",
+              "⑥スイッチを押して、スイッチを下げた状態にします。"
             ]
           },
           {
             "display_index": 3,
             "panel_id": "p3",
-            "source_ids": [5, 6, 7],
+            "source_ids": [31],
             "furigana_ids": [],
-            "japanese_items": [
-              "②電池ぶたを取り外します。",
-              "②-1 本体内側の電池ぶたのネジを＋または－ドライバーで矢印の方向に回し、",
-              "②-2 電池ぶたを取り外します。",
-              "③電池を入れます。"
-            ]
+            "japanese_items": ["ボタン電池は 上側が＋に 下側が－に なるようにセットします。"]
           },
           {
             "display_index": 4,
             "panel_id": "p4",
-            "source_ids": [8, 9],
-            "furigana_ids": [],
-            "japanese_items": [
-              "古いボタン電池を取り外して、新しいボタン電池3個（LR44・別売り）を＋−に注意してセットします。",
-              "④電池ぶたを戻します。"
-            ]
-          },
-          {
-            "display_index": 5,
-            "panel_id": "p5",
-            "source_ids": [10],
-            "furigana_ids": [],
-            "japanese_items": [
-              "電池ぶたの突起と本体のミゾを合わせ、電池ぶたのネジを②-1と逆方向に回して閉じます。",
-              "⑤カバーパーツを戻します。"
-            ]
-          },
-          {
-            "display_index": 6,
-            "panel_id": "p6",
-            "source_ids": [11],
-            "furigana_ids": [],
-            "japanese_items": [
-              "カバーパーツの突起と本体のミゾを合わせ、カバーパーツを戻します。",
-              "⑥スイッチを押して、スイッチを下げた状態にします。"
-            ]
-          },
-          {
-            "display_index": 7,
-            "panel_id": "p7",
             "source_ids": [24],
             "furigana_ids": [],
             "japanese_items": ["電源の入れ方 カバーパーツを外した状態で行います。"]
           },
           {
-            "display_index": 8,
-            "panel_id": "p8",
+            "display_index": 5,
+            "panel_id": "p5",
             "source_ids": [25, 26],
             "furigana_ids": [],
             "japanese_items": ["本体背面の電源スイッチをONにします。"]
           },
           {
-            "display_index": 9,
-            "panel_id": "p9",
+            "display_index": 6,
+            "panel_id": "p6",
             "source_ids": [29],
             "furigana_ids": [],
-            "japanese_items": ["※遊び終わった後は、必ず電源スイッチをOFFにしてください。"]
+            "japanese_items": ["遊び終わった後は、必ず電源スイッチをOFFにしてください。"]
           },
           {
-            "display_index": 10,
-            "panel_id": "p10",
+            "display_index": 7,
+            "panel_id": "p7",
             "source_ids": [34],
             "furigana_ids": [],
             "japanese_items": [
-              "※3分間操作がない場合、スリープモードになります。スリープモードの解除は再度電源スイッチを入れなおしてください。"
+              "※3分間操作がない場合、スリープモードになります。",
+              "スリープモードの解除は再度電源スイッチを入れなおしてください。"
             ]
           },
           {
-            "display_index": 11,
+            "display_index": 8,
             "source_ids": [12],
             "furigana_ids": []
           },
           {
-            "display_index": 12,
+            "display_index": 9,
             "source_ids": [13],
             "furigana_ids": []
           },
           {
-            "display_index": 13,
+            "display_index": 10,
             "source_ids": [14],
             "furigana_ids": []
           },
           {
-            "display_index": 14,
+            "display_index": 11,
             "source_ids": [15],
             "furigana_ids": []
           },
           {
-            "display_index": 15,
+            "display_index": 12,
             "source_ids": [16],
             "furigana_ids": []
           },
           {
-            "display_index": 16,
+            "display_index": 13,
             "source_ids": [17],
             "furigana_ids": []
           },
           {
-            "display_index": 17,
+            "display_index": 14,
             "source_ids": [18],
             "furigana_ids": []
           },
           {
-            "display_index": 18,
+            "display_index": 15,
             "source_ids": [19],
             "furigana_ids": []
           },
           {
-            "display_index": 19,
+            "display_index": 16,
             "source_ids": [20],
             "furigana_ids": []
           },
           {
-            "display_index": 20,
+            "display_index": -1,
             "source_ids": [21],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 21,
+            "display_index": 17,
             "source_ids": [22],
             "furigana_ids": []
           },
           {
-            "display_index": 22,
+            "display_index": 18,
             "source_ids": [23],
             "furigana_ids": []
           },
           {
-            "display_index": 23,
+            "display_index": 19,
             "source_ids": [27],
             "furigana_ids": []
           },
           {
-            "display_index": 24,
+            "display_index": 20,
             "source_ids": [28],
             "furigana_ids": []
           },
           {
-            "display_index": 25,
+            "display_index": 21,
             "source_ids": [30],
             "furigana_ids": []
           },
           {
-            "display_index": 26,
-            "source_ids": [31],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 27,
+            "display_index": -1,
             "source_ids": [32],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 28,
+            "display_index": -1,
             "source_ids": [33],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 29,
+            "display_index": 22,
             "source_ids": [35],
             "furigana_ids": []
           }
         ],
         "uncertainties": [
-          "The second screwdriver symbol in the source was unclear; interpreted as '－' (flat-head) but the original could differ.",
-          "The exact arrow direction referenced by the text is not visible in the provided crop.",
-          "The phrase 入れなおしてください could be interpreted as simply 'turn the power switch on again' or as 'turn the power switch off and then on again.' I translated it as 'turn the power switch off and then turn it on again.'"
+          "'入れなおしてください' is ambiguous in the source: it could mean simply 'turn the power switch on again' or 'turn it off and then on again.' The panel does not make this explicit."
         ],
         "ocr_lines": [
           {
@@ -1648,16 +1552,8 @@
     {
       "blocks": [
         {
-          "text": "専用台座の組み立て方\n①専用台座パーツAの凸部を専用台座パーツBの凹部に",
-          "translation": "How to assemble the dedicated stand\n① Insert the protrusion on dedicated stand part A into the recess on dedicated stand part B.",
-          "bbox": [
-            0.043199999999999995, 0.032127815544605254, 0.2889484222412109, 0.043467366576194766
-          ],
-          "layout": "panel"
-        },
-        {
           "text": "合わせてはめ込みます。\n②ベーターカプセル本体を図のように設置します。",
-          "translation": "• Fit together and snap into place.\n• ② Install the beta capsule body as shown in the illustration.",
+          "translation": "• Press the parts together until they snap into place.\n• 2. Place the Beta Capsule main unit as shown in the illustration.",
           "bbox": [0.043199999999999995, 0.07629999999999999, 0.258, 0.02294864464998246],
           "layout": "panel"
         },
@@ -1675,27 +1571,38 @@
         },
         {
           "text": "①スイッチを押します。\n→スイッチがポップアップし、\n待機音が鳴り、発光部が光ります。",
-          "translation": "• 1. Press the switch.\n• The switch pops up, a standby tone sounds, and the lighted section lights up.",
+          "translation": "1. Press the switch. The switch pops up, a standby sound plays, and the light turns on.",
           "bbox": [0.0438, 0.5043000000000001, 0.18726101596355438, 0.03499999999999981],
           "layout": "panel"
         },
         {
           "text": "クライマックス戦遊び\n①スイッチを押します。\n→スイッチがポップアップし、\n待機音が鳴り、発光部が光ります。",
-          "translation": "• Climax Battle Play\n• 1. Press the switch.\n• → The switch pops up, a standby sound plays, and the light-emitting part lights up.",
+          "translation": "• Climax Battle Play\n• 1. Press the switch.\n• The switch pops up, a standby sound plays, and the lighted section lights up.",
           "bbox": [0.0438, 0.7082, 0.2054, 0.05990019159317006],
           "layout": "panel"
         },
         {
+          "text": "※「変身遊び」の後に行います。",
+          "translation": "Do this after “Transformation Play.”",
+          "bbox": [0.2704, 0.7112, 0.2036, 0.013699999999999934],
+          "layout": "panel"
+        },
+        {
           "text": "②スイッチを再度押します。\nクライマックス戦転送音が鳴り、\n発光部が光ります。",
-          "translation": "• 2. Press the switch again.\n• The climax battle transfer sound will play, and the light-emitting part will light up.",
+          "translation": "• 2. Press the switch again.\n• A \"Climax Battle\" transfer sound plays, and the lighted section illuminates.",
           "bbox": [0.5900000000000001, 0.7108000000000001, 0.178314351081848, 0.045399999999999885],
           "layout": "panel"
         },
         {
           "text": "※再度スイッチを押すと\n「変身遊び」に戻ります。\n※3分間操作がない場合、\nスリープモードになります。\nスリープモードの解除は\n再度電源スイッチを\n入れなおしてください。",
-          "translation": "• When you press the switch again, it will return to “Transformation Play.”\n• If there is no operation for 3 minutes, it will enter sleep mode.\n• To exit sleep mode, please turn the power switch on again.",
+          "translation": "• If you press the switch again, it returns to “Henshin Play.”\n• If there is no operation for 3 minutes, the unit enters sleep mode.\n• To exit sleep mode, turn the power switch on again.",
           "bbox": [0.5991000000000001, 0.7557, 0.13229999999999986, 0.06709999999999983],
           "layout": "panel"
+        },
+        {
+          "text": "専用台座の組み立て方\n①専用台座パーツAの凸部を専用台座パーツBの凹部に",
+          "translation": "How to assemble the dedicated stand\n① Insert the protrusion on dedicated stand part A into the recess on dedicated stand part B.",
+          "bbox": [0.0447, 0.0338, 0.2858, 0.0398]
         },
         {
           "text": "ベーターカプセル本体",
@@ -1766,11 +1673,6 @@
           "text": "発光部が光ります。",
           "translation": "The light-emitting part lights up.",
           "bbox": [0.7033, 0.4994, 0.0973, 0.0077]
-        },
-        {
-          "text": "※「変身遊び」の後に行います。",
-          "translation": "※ This is performed after 'Transformation play'.",
-          "bbox": [0.2719, 0.7127, 0.2006, 0.0107]
         },
         {
           "text": "【正面図】",
@@ -1961,12 +1863,7 @@
         "plan": {
           "panels": [
             {
-              "id": "p0",
-              "kind": "heading",
-              "source_ids": [0]
-            },
-            {
-              "id": "p1",
+              "id": "p1-b",
               "kind": "prose",
               "source_ids": [1, 2]
             },
@@ -1993,35 +1890,32 @@
             {
               "id": "p7",
               "kind": "prose",
-              "source_ids": [24, 25]
+              "source_ids": [23]
             },
             {
               "id": "p8",
+              "kind": "prose",
+              "source_ids": [24, 25]
+            },
+            {
+              "id": "p9",
               "kind": "prose",
               "source_ids": [30, 31, 32]
             }
           ],
           "furigana": [],
           "notes": [
-            "Source 0 merges the assembly heading with the first instruction line, so it is assigned once as a heading region.",
-            "Source 22 merges the climax-play heading with the first instruction text, so it is grouped with that instruction body.",
-            "p6: excluded other-column members; retained separately",
+            "Source 0 mixes the assembly heading with instruction text, so it was kept in one prose panel.",
+            "Source 22 mixes the climax-play heading with step text, so it was kept with the step text.",
+            "Panel p1-a retained original English after failed automatic checks",
             "Panel p5 retained original English after failed automatic checks"
-          ]
+          ],
+          "native_artwork": []
         },
         "mapping": [
           {
             "display_index": 0,
-            "panel_id": "p0",
-            "source_ids": [0],
-            "furigana_ids": [],
-            "japanese_items": [
-              "専用台座の組み立て方\n①専用台座パーツAの凸部を専用台座パーツBの凹部に"
-            ]
-          },
-          {
-            "display_index": 1,
-            "panel_id": "p1",
+            "panel_id": "p1-b",
             "source_ids": [1, 2],
             "furigana_ids": [],
             "japanese_items": [
@@ -2030,43 +1924,49 @@
             ]
           },
           {
-            "display_index": 2,
+            "display_index": 1,
             "panel_id": "p2",
             "source_ids": [4],
             "furigana_ids": [],
             "japanese_items": ["遊び方"]
           },
           {
-            "display_index": 3,
+            "display_index": 2,
             "panel_id": "p3",
             "source_ids": [5],
             "furigana_ids": [],
             "japanese_items": ["変身遊び"]
           },
           {
-            "display_index": 4,
+            "display_index": 3,
             "panel_id": "p4",
             "source_ids": [6, 7, 9],
             "furigana_ids": [],
             "japanese_items": [
-              "①スイッチを押します。",
-              "→スイッチがポップアップし、待機音が鳴り、発光部が光ります。"
+              "①スイッチを押します。→スイッチがポップアップし、待機音が鳴り、発光部が光ります。"
             ]
           },
           {
-            "display_index": 5,
+            "display_index": 4,
             "panel_id": "p6",
             "source_ids": [22, 29],
             "furigana_ids": [],
             "japanese_items": [
               "クライマックス戦遊び",
               "①スイッチを押します。",
-              "→スイッチがポップアップし、待機音が鳴り、発光部が光ります。"
+              "→スイッチがポップアップし、\n待機音が鳴り、発光部が光ります。"
             ]
           },
           {
-            "display_index": 6,
+            "display_index": 5,
             "panel_id": "p7",
+            "source_ids": [23],
+            "furigana_ids": [],
+            "japanese_items": ["※「変身遊び」の後に行います。"]
+          },
+          {
+            "display_index": 6,
+            "panel_id": "p8",
             "source_ids": [24, 25],
             "furigana_ids": [],
             "japanese_items": [
@@ -2076,7 +1976,7 @@
           },
           {
             "display_index": 7,
-            "panel_id": "p8",
+            "panel_id": "p9",
             "source_ids": [30, 31, 32],
             "furigana_ids": [],
             "japanese_items": [
@@ -2087,77 +1987,77 @@
           },
           {
             "display_index": 8,
-            "source_ids": [3],
+            "source_ids": [0],
             "furigana_ids": []
           },
           {
             "display_index": 9,
-            "source_ids": [8],
+            "source_ids": [3],
             "furigana_ids": []
           },
           {
             "display_index": 10,
-            "source_ids": [10],
+            "source_ids": [8],
             "furigana_ids": []
           },
           {
             "display_index": 11,
-            "source_ids": [11],
+            "source_ids": [10],
             "furigana_ids": []
           },
           {
             "display_index": 12,
-            "source_ids": [12],
+            "source_ids": [11],
             "furigana_ids": []
           },
           {
             "display_index": 13,
-            "source_ids": [13],
+            "source_ids": [12],
             "furigana_ids": []
           },
           {
             "display_index": 14,
-            "source_ids": [14],
+            "source_ids": [13],
             "furigana_ids": []
           },
           {
             "display_index": 15,
-            "source_ids": [15],
+            "source_ids": [14],
             "furigana_ids": []
           },
           {
             "display_index": 16,
-            "source_ids": [16],
+            "source_ids": [15],
             "furigana_ids": []
           },
           {
             "display_index": 17,
-            "source_ids": [17],
+            "source_ids": [16],
             "furigana_ids": []
           },
           {
             "display_index": 18,
-            "source_ids": [18],
+            "source_ids": [17],
             "furigana_ids": []
           },
           {
             "display_index": 19,
-            "source_ids": [19],
+            "source_ids": [18],
             "furigana_ids": []
           },
           {
             "display_index": 20,
-            "source_ids": [20],
+            "source_ids": [19],
             "furigana_ids": []
           },
           {
             "display_index": 21,
-            "source_ids": [21],
+            "source_ids": [20],
             "furigana_ids": []
           },
           {
             "display_index": 22,
-            "source_ids": [23],
+            "source_ids": [21],
             "furigana_ids": []
           },
           {

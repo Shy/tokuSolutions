@@ -7,7 +7,7 @@
     "source_url": "",
     "blog_url": "",
     "pages": 4,
-    "blocks": 312,
+    "blocks": 296,
     "thumbnail": "pages/page-0.webp",
     "tags": ["csm", "kamen-rider"],
     "semantic_layout": 1
@@ -23,7 +23,7 @@
         },
         {
           "text": "梱包材に戻して商品を保管する際は、 必ず袋に入れてください。",
-          "translation": "When returning the product to the packaging for storage, always place it in a bag.",
+          "translation": "When returning the product to the packing materials for storage, always put it in a bag.",
           "bbox": [
             0.11897750502824783, 0.8649935231208802, 0.26362249497175216, 0.0157272605895995
           ],
@@ -43,11 +43,6 @@
           "text": "6888",
           "translation": "6888",
           "bbox": [0.6922, 0.5345, 0.0068, 0.0049]
-        },
-        {
-          "text": "OOO",
-          "translation": "OOO",
-          "bbox": [0.5106, 0.6712, 0.1047, 0.0247]
         },
         {
           "text": "仮面ライダー",
@@ -140,8 +135,9 @@
           ],
           "furigana": [],
           "notes": [
-            "Cover/logo text is mixed within source 3, so it is left ungrouped rather than included in a prose panel."
-          ]
+            "Source 3 combines branding/logo text with the cover title, so it is left ungrouped to avoid masking logo artwork."
+          ],
+          "native_artwork": [5]
         },
         "mapping": [
           {
@@ -174,27 +170,28 @@
             "furigana_ids": []
           },
           {
-            "display_index": 5,
+            "display_index": -1,
             "source_ids": [5],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 6,
+            "display_index": 5,
             "source_ids": [6],
             "furigana_ids": []
           },
           {
-            "display_index": 7,
+            "display_index": 6,
             "source_ids": [7],
             "furigana_ids": []
           },
           {
-            "display_index": 8,
+            "display_index": 7,
             "source_ids": [8],
             "furigana_ids": []
           },
           {
-            "display_index": 9,
+            "display_index": 8,
             "source_ids": [9],
             "furigana_ids": []
           }
@@ -305,6 +302,12 @@
     {
       "blocks": [
         {
+          "text": "取扱説明書",
+          "translation": "Instruction Manual",
+          "bbox": [0.1058, 0.036899999999999995, 0.0561367196559906, 0.01743505097031594],
+          "layout": "panel"
+        },
+        {
           "text": "△ 注意",
           "translation": "△ Caution",
           "bbox": [
@@ -320,7 +323,7 @@
         },
         {
           "text": "●本商品の対象年齢は15才以上です。 対象年齢未満のお子様には絶対に与えないでください。 ●小さな部品、電池がありますので、小さなお子様が誤って飲み込ま\nないように注意してください。 窒息などの危険があります。耳の近くで使用してはいけません。 誤って使用すると、聴覚を損なう恐れがあります。●本商品には電子部\n品を使用しております。 また電波を発信しますので、ペースメーカーをご使用の方はご注意ください。 ●可動部には指などを入れないでください。 はさまれてケガをする恐\nれがあります。●LEDの光の点滅を見続けないでください。気分が悪くなったりする恐れがあります。 《電池を誤使用すると発熱・破裂・ 液もれの恐れがあります。 下記に\n注意してください》 ●万一、電池を飲み込んだとき、 電池から漏れた液が目に入ったときは、すぐに医師に相談してください。漏れた液が皮膚や服に付いたときは水で洗\nってください。●電池は飲み込むと危険です。 お子様の手の届かない所に保管してください。 二次電池(充電式電池) は、絶対に使用しないでください。古い電池\nと新しい電池、いろいろな種類の電池をまぜて使わないでください。●十一 (プラスマイナス) を正しくセットしてください。 ●遊んだ後は必ずスイッチを切り電池をはずし\nてください。 電池を入れたままにしておくと、液漏れの恐れがあり危険です。ショートさせたり充電、分解、加熱、火の中に入れたりしないでください。 廃棄するときは、\n自治体の廃棄処理の指示に従ってください。",
-          "translation": "• Recommended age for this product is 15 years and older. Do not give it to children under the recommended age.\n• This product contains small parts and batteries; take care that small children do not accidentally swallow them. There is a risk of choking.\n• Do not use near the ear. Incorrect use may damage hearing.\n• This product contains electronic components and emits radio waves; persons using a pacemaker should exercise caution.\n• Do not put fingers or other objects into moving parts. There is a risk of being pinched and injured.\n• Do not stare at the flashing LED light. It may cause feelings of illness.\n• Incorrect use of batteries may cause heating, rupture, or leakage. Please observe the following precautions.\n• If a battery is swallowed, or if leaked battery liquid gets into the eye, consult a doctor immediately. If leaked liquid gets on the skin or clothing, wash it off with water.\n• Batteries are dangerous if swallowed. Keep out of reach of children.\n• Do not use secondary batteries (rechargeable batteries).\n• Do not mix old and new batteries or different types of batteries.\n• Set the +/− (polarity) correctly.\n• After playing, always turn the switch off and remove the batteries. Leaving batteries installed may cause leakage and is dangerous.\n• Do not short-circuit, charge, disassemble, heat, or place batteries in fire.\n• When disposing of batteries, follow your local municipality's disposal instructions.",
+          "translation": "• This product is for ages 15 and up. Do not give it to children under the target age.\n• This product contains small parts and batteries. Keep it away from small children so they do not accidentally swallow parts. There is a choking hazard.\n• Do not use this product near the ear. Accidental use may damage hearing.\n• This product contains electronic components and transmits radio waves; people with pacemakers should take care.\n• Do not put fingers or other objects into moving parts. There is a risk of getting pinched and injured.\n• Do not stare at flashing LED lights. They may cause nausea or other adverse effects.\n• Incorrect battery use can cause heating, explosion or leakage. Observe the following precautions.\n• If a battery is swallowed or battery fluid gets into the eye, consult a doctor immediately. If leaked fluid gets on skin or clothing, wash with water.\n• Batteries are dangerous if swallowed. Store them out of children’s reach.\n• Do not use secondary (rechargeable) batteries under any circumstances.\n• Do not mix old and new batteries or different types of batteries.\n• Insert batteries with the correct +/− (polarity).\n• After playing, always turn off the switch and remove the batteries. Leaving batteries installed may cause leakage and is dangerous.\n• Do not short-circuit, charge, disassemble, heat, or throw batteries into fire.\n• When disposing of this product, follow your local municipality’s disposal instructions.",
           "bbox": [
             0.029403033912181853, 0.19308763301372528, 0.4406387968659401, 0.11931236698627473
           ],
@@ -328,7 +331,7 @@
         },
         {
           "text": "<使用上の注意> ●本商品は精密に作られています。無理な力を加えたり、落としたりすると破損するおそれがあります。 本商品は精密な電子部品で構成されてい\nます。 落としたり、水にぬらしたり、汚したり、分解したりしないでください。 また、高温・低温になる所での使用、保管はさけてください。 本商品を樹脂製のソファーやシー\nト、タイルなどの上に置かないでください。 長時間接触していると色が移る場合があります。●可動部分・取付部分を無理な方向に強く引っ張ったり、 曲げたりしないでく\nださい。 発音の一部にイントネーションが違っていたり、商品の特性上聞き取りにくいものがありますが、ご了承ください。 ●商品の特性上、外観のばらつきがございま\nす。予めご了承ください。 ●テレビなど、他の赤外線リモコンで誤動作する場合があります。 太陽光の当たる窓際や蛍光灯の真下などでは誤動作する場合がありま\nす。誤動作した場合は電源を入れ直してください。●赤外線センサー反応部分の所にシールなどを貼らないでください。 動作しなくなります。 ●赤外線センサー反応\n部分とかざす手の間に障害物があると赤外線センサーを感知しなくなり作動しません。",
-          "translation": "• This product is finely manufactured. Applying excessive force or dropping it may cause damage.\n• This product is made of precision electronic components. Do not drop it, get it wet, dirty it, or disassemble it. Also avoid using or storing it in places that become very hot or very cold.\n• Do not place this product on resin sofas, seats, tiles, or similar surfaces. Prolonged contact may cause color transfer.\n• Do not forcibly pull or bend movable parts or mounting parts in unreasonable directions.\n• Some pronunciations may have different intonation, or may be difficult to hear due to the characteristics of the product; please understand this in advance.\n• Due to the nature of the product, appearance variations may occur. Please be aware of this in advance.\n• Other infrared remotes, such as those for TVs, may cause malfunction. Direct sunlight by windows or directly under fluorescent lamps may cause malfunction. If a malfunction occurs, turn the power off and on again.\n• Do not attach stickers or similar items to the infrared sensor response area. It will stop functioning.\n• If there is an obstacle between the infrared sensor response area and the hand held over it, the infrared sensor will not detect and the device will not operate.",
+          "translation": "• This product is made with precision. Applying excessive force or dropping it may cause damage.\n• This product contains delicate electronic components. Do not drop it, get it wet, soil it, or disassemble it. Do not use or store it in places that become very hot or very cold.\n• Do not place this product on resin sofas, seats, tiles, or similar surfaces. Prolonged contact may cause color transfer.\n• Do not strongly pull or bend moving parts or attachment parts in directions they are not intended to move.\n• Some voice lines may have different intonation or be hard to hear due to the product's characteristics.\n• Because of the product's characteristics, appearance may vary between units.\n• Other infrared remotes, such as TV remotes, may cause malfunctions. Sunlight near windows or directly under fluorescent lights can also cause malfunctions. If a malfunction occurs, turn the power off and on again.\n• Do not put stickers or similar items over the infrared sensor area. The product will stop working.\n• If there is an obstacle between the infrared sensor area and the hand you hold over it, the sensor may not detect it and the product will not operate.",
           "bbox": [0.0294, 0.3119, 0.44064183077812197, 0.08341444454193114],
           "layout": "panel"
         },
@@ -339,14 +342,14 @@
           "layout": "panel"
         },
         {
-          "text": "1\nベルト(左)の上下のボタンを押しながら、\nサンドライバー本体に取り付けます。",
-          "translation": "• 1\n• While pressing the upper and lower buttons on the left belt, attach it to the main body of the sand driver.",
-          "bbox": [0.5355000000000001, 0.0722, 0.1047999999999999, 0.0203],
+          "text": "ベルト(左)の上下のボタンを押しながら、\nサンドライバー本体に取り付けます。",
+          "translation": "While pressing the upper and lower buttons on the belt (left), attach it to the Sand Driver main unit.",
+          "bbox": [0.5484629974365235, 0.0722, 0.09183700256347649, 0.0203],
           "layout": "panel"
         },
         {
           "text": "※ベルト(右)も同様に行います。",
-          "translation": "Do the same for the belt (right).",
+          "translation": "Repeat the same procedure for the right belt.",
           "bbox": [
             0.5416000000000001, 0.23896391248703003, 0.07409999999999994, 0.010036087512969971
           ],
@@ -361,25 +364,29 @@
           "layout": "panel"
         },
         {
-          "text": "①ベルト(左)の上下のボタンを同時に押しながら、\n②矢印の方向に引き抜いて外します。",
-          "translation": "• ①While pressing the upper and lower buttons of the belt (left) simultaneously,\n• ②pull it out in the direction of the arrow to remove it.",
+          "text": "腰まわりのサイズに合うよう、\nベルト (右)の\nアタッチメントパーツの\n位置を調整します。",
+          "translation": "Adjust the attachment part on the belt (right) so it fits your waist.",
+          "bbox": [0.8945000000000001, 0.0722, 0.06629999999999991, 0.039900000000000005],
+          "layout": "panel"
+        },
+        {
+          "text": "ベルト(左)とベルト(右)の\nアタッチメントパーツをはめ合わせます。",
+          "translation": "Fit the left and right belt attachment parts together.",
           "bbox": [
-            0.7166717157363892, 0.09566495126485824, 0.11202828426361067, 0.02026803928613663
+            0.5493882403373719, 0.2747886583805084, 0.09052775192260731, 0.020011341619491585
           ],
           "layout": "panel"
         },
         {
-          "text": "2\n腰まわりのサイズに合うよう、",
-          "translation": "2. To fit your waist size, the right belt's",
-          "bbox": [0.8806, 0.0722, 0.08019999999999994, 0.016100000000000003],
+          "text": "アタッチメントパーツにベルト止めを\n図のように巻きつけて止めます。\nベルト止め",
+          "translation": "• Wrap the belt fastener around the attachment part as shown in the diagram to secure it.\n• Belt fastener",
+          "bbox": [0.6970566020011902, 0.2748, 0.08354339799880972, 0.0378],
           "layout": "panel"
         },
         {
-          "text": "ベルト (右)の\nアタッチメントパーツの\n位置を調整します。",
-          "translation": "Adjust the position of the attachment part on the belt (right).",
-          "bbox": [
-            0.8945000000000001, 0.08277835255861282, 0.054099999999999926, 0.029321647441387183
-          ],
+          "text": "セット内容",
+          "translation": "Set Contents",
+          "bbox": [0.0329, 0.5106, 0.05261184529066086, 0.01796187963485707],
           "layout": "panel"
         },
         {
@@ -390,19 +397,17 @@
         },
         {
           "text": "※電源スイッチがOFFになっていることを確認してください。\n※音声が小さくなって聞き取りにくくなったり、音が繰り返し\n鳴ったりする場合や、LED、赤外線センサー(左右)の反応が\n悪くなった場合、可動部の自動変形スピードが遅くなったり、\n最後まで変形しきらなくなった場合は、\n電池を全て新しい電池に交換してください。",
-          "translation": "• Confirm that the power switch is OFF.\n• If the voice becomes quieter and hard to hear, if sounds repeat, if the LED or infrared sensors (left/right) respond poorly, if the automatic transformation speed of movable parts slows, or if the unit no longer completes its transformation, replace all batteries with new batteries.",
+          "translation": "• Make sure the power switch is OFF.\n• If the sound becomes quiet and hard to hear, if sounds repeat, if the LED or infrared sensors (left/right) respond poorly, or if the automatic transformation speed of movable parts slows or they fail to complete transformation, replace all batteries with new ones.",
           "bbox": [0.26385898447036743, 0.5433, 0.1904537467956543, 0.0938],
           "layout": "panel"
         },
         {
-          "text": "JAPANESE",
-          "translation": "JAPANESE",
-          "bbox": [0.0315, 0.0394, 0.0572, 0.0116]
-        },
-        {
-          "text": "取扱説明書",
-          "translation": "Instruction Manual",
-          "bbox": [0.1073, 0.0384, 0.0531, 0.0144]
+          "text": "各部名称",
+          "translation": "Names of Parts",
+          "bbox": [
+            0.7238885865211487, 0.46886081552505493, 0.051311413478851264, 0.018739184474945048
+          ],
+          "layout": "panel"
         },
         {
           "text": "●石森プロ・東映 © 「仮面ライダーBLACK SUN」 PROJECT",
@@ -430,6 +435,16 @@
           "bbox": [0.6802, 0.15, 0.0044, 0.0242]
         },
         {
+          "text": "①ベルト(左)の上下のボタンを同時に押しながら、",
+          "translation": "① While simultaneously pressing the upper and lower buttons on the left belt,",
+          "bbox": [0.7182, 0.0972, 0.109, 0.0072]
+        },
+        {
+          "text": "②矢印の方向に引き抜いて外します。",
+          "translation": "② Pull it out in the direction of the arrow to remove it.",
+          "bbox": [0.7182, 0.1077, 0.0811, 0.0067]
+        },
+        {
           "text": "アタッチメントパーツ",
           "translation": "Attachment parts",
           "bbox": [0.908, 0.1273, 0.0464, 0.0067]
@@ -450,54 +465,14 @@
           "bbox": [0.7304, 0.2392, 0.0146, 0.0064]
         },
         {
-          "text": "3",
-          "translation": "3",
-          "bbox": [0.5372, 0.2807, 0.0052, 0.008]
-        },
-        {
-          "text": "ベルト(左)とベルト(右)の\nアタッチメントパーツをはめ合わせます。",
-          "translation": "Fit together the attachment parts of the left and right belts.",
-          "bbox": [0.5509, 0.2763, 0.0875, 0.017]
-        },
-        {
-          "text": "4",
-          "translation": "4",
-          "bbox": [0.6843, 0.2807, 0.0054, 0.008]
-        },
-        {
           "text": "アタッチメントパーツ",
           "translation": "Attachment parts",
           "bbox": [0.5749, 0.3064, 0.0466, 0.0062]
         },
         {
-          "text": "アタッチメントパーツにベルト止めを\n図のように巻きつけて止めます。\nベルト止め",
-          "translation": "Wrap the belt retainer around the attachment part as shown in the illustration and secure it.\nBelt retainer",
-          "bbox": [0.6986, 0.2763, 0.0805, 0.0348]
-        },
-        {
-          "text": "②",
-          "translation": "②",
-          "bbox": [0.7977, 0.1789, 0.0061, 0.0067]
-        },
-        {
           "text": "ベルト(右)",
           "translation": "Belt (Right)",
           "bbox": [0.9223, 0.2302, 0.0235, 0.0067]
-        },
-        {
-          "text": "セット内容",
-          "translation": "Set Contents",
-          "bbox": [0.0344, 0.5121, 0.0496, 0.0149]
-        },
-        {
-          "text": "CENTURY KING",
-          "translation": "CENTURY KING",
-          "bbox": [0.1034, 0.5111, 0.1007, 0.0077]
-        },
-        {
-          "text": "SUN DRIVER",
-          "translation": "SUN DRIVER",
-          "bbox": [0.1009, 0.5229, 0.0835, 0.007]
         },
         {
           "text": "■取扱説明書(本書)··· 1",
@@ -518,11 +493,6 @@
           "text": "①電池ぶたの穴を、 細い棒などで押しながらスライドさせて取り外します。\n②単3乾電池3本 (別売り) の + をそれぞれ間違えないように入れます。\n③電池ぶたをスライドさせて閉じます。",
           "translation": "① While pressing the hole in the battery cover with a thin rod or similar object, slide the cover to remove it.\n② Insert three AA batteries (sold separately), making sure each + and - is placed correctly.\n③ Slide the battery cover closed.",
           "bbox": [0.2654, 0.6381, 0.1875, 0.0286]
-        },
-        {
-          "text": "1",
-          "translation": "1",
-          "bbox": [0.0204, 0.9727, 0.002, 0.0049]
         },
         {
           "text": "ベルト (右)... 1",
@@ -580,21 +550,6 @@
           "bbox": [0.3723, 0.8242, 0.0022, 0.0039]
         },
         {
-          "text": "②",
-          "translation": "②",
-          "bbox": [0.3892, 0.7693, 0.005, 0.0062]
-        },
-        {
-          "text": "①",
-          "translation": "①",
-          "bbox": [0.4123, 0.8286, 0.0046, 0.0093]
-        },
-        {
-          "text": "①",
-          "translation": "①",
-          "bbox": [0.4267, 0.8286, 0.0048, 0.009]
-        },
-        {
           "text": "単3",
           "translation": "AA",
           "bbox": [0.4243, 0.9168, 0.0133, 0.0098]
@@ -623,11 +578,6 @@
           "text": "完成!! サンドライバー",
           "translation": "Complete! Sun Driver",
           "bbox": [0.8177, 0.401, 0.1393, 0.0206]
-        },
-        {
-          "text": "各部名称",
-          "translation": "Names of Parts",
-          "bbox": [0.7254, 0.4704, 0.0483, 0.0157]
         },
         {
           "text": "<変身後状態>",
@@ -708,11 +658,6 @@
           "text": "【下から見た図】",
           "translation": "[View from below]",
           "bbox": [0.8475, 0.9369, 0.0389, 0.008]
-        },
-        {
-          "text": "2",
-          "translation": "2",
-          "bbox": [0.9772, 0.9727, 0.0031, 0.0046]
         }
       ],
       "image": "pages/page-1.webp",
@@ -1133,120 +1078,143 @@
         "plan": {
           "panels": [
             {
-              "id": "p0",
+              "id": "p1",
+              "kind": "heading",
+              "source_ids": [1]
+            },
+            {
+              "id": "p2",
               "kind": "heading",
               "source_ids": [5]
             },
             {
-              "id": "p1",
+              "id": "p3",
               "kind": "heading",
               "source_ids": [6]
             },
             {
-              "id": "p2",
+              "id": "p4",
               "kind": "prose",
               "source_ids": [7]
             },
             {
-              "id": "p3",
+              "id": "p5",
               "kind": "prose",
               "source_ids": [8]
             },
             {
-              "id": "p4",
+              "id": "p6",
               "kind": "heading",
               "source_ids": [3]
             },
             {
-              "id": "p5",
-              "kind": "prose",
-              "source_ids": [9, 10]
-            },
-            {
-              "id": "p6",
-              "kind": "prose",
-              "source_ids": [13]
-            },
-            {
               "id": "p7",
-              "kind": "heading",
-              "source_ids": [16]
+              "kind": "prose",
+              "source_ids": [10]
             },
             {
               "id": "p8",
               "kind": "prose",
-              "source_ids": [19, 22]
+              "source_ids": [13]
             },
             {
-              "id": "p9-a",
-              "kind": "prose",
-              "source_ids": [17, 15]
+              "id": "p9",
+              "kind": "heading",
+              "source_ids": [16]
             },
             {
-              "id": "p9-b",
+              "id": "p11",
               "kind": "prose",
-              "source_ids": [18, 20, 21]
+              "source_ids": [15, 18, 20, 21]
             },
             {
               "id": "p12",
-              "kind": "heading",
-              "source_ids": [40]
+              "kind": "prose",
+              "source_ids": [28]
             },
             {
               "id": "p13",
               "kind": "prose",
+              "source_ids": [31]
+            },
+            {
+              "id": "p14",
+              "kind": "heading",
+              "source_ids": [34]
+            },
+            {
+              "id": "p15",
+              "kind": "heading",
+              "source_ids": [40]
+            },
+            {
+              "id": "p16",
+              "kind": "prose",
               "source_ids": [41]
+            },
+            {
+              "id": "p18",
+              "kind": "heading",
+              "source_ids": [64]
             }
           ],
           "furigana": [],
           "notes": [
-            "Set contents and parts-name overview regions were left ungrouped as illustrations/product labels.",
+            "Source 8 includes the usage-precautions heading and body in one OCR region, so it could not be split.",
+            "Source 31 includes step-4 prose and a diagram label in one OCR region, so it could not be split.",
             "Panel p10 retained original English after failed automatic checks",
-            "Panel p11 retained original English after failed automatic checks",
-            "Panel p14 retained original English after failed automatic checks"
-          ]
+            "Panel p17 retained original English after failed automatic checks"
+          ],
+          "native_artwork": [0, 9, 17, 27, 29, 32, 35, 36, 43, 55, 56, 57, 81]
         },
         "mapping": [
           {
             "display_index": 0,
-            "panel_id": "p0",
+            "panel_id": "p1",
+            "source_ids": [1],
+            "furigana_ids": [],
+            "japanese_items": ["取扱説明書"]
+          },
+          {
+            "display_index": 1,
+            "panel_id": "p2",
             "source_ids": [5],
             "furigana_ids": [],
             "japanese_items": ["△ 注意"]
           },
           {
-            "display_index": 1,
-            "panel_id": "p1",
+            "display_index": 2,
+            "panel_id": "p3",
             "source_ids": [6],
             "furigana_ids": [],
             "japanese_items": ["お買い上げのお客様へ 必ずお読みください。"]
           },
           {
-            "display_index": 2,
-            "panel_id": "p2",
+            "display_index": 3,
+            "panel_id": "p4",
             "source_ids": [7],
             "furigana_ids": [],
             "japanese_items": [
-              "本商品の対象年齢は15才以上です。対象年齢未満のお子様には絶対に与えないでください。",
-              "小さな部品、電池がありますので、小さなお子様が誤って飲み込まないように注意してください。窒息などの危険があります。",
-              "耳の近くで使用してはいけません。誤って使用すると、聴覚を損なう恐れがあります。",
-              "本商品には電子部品を使用しております。また電波を発信しますので、ペースメーカーをご使用の方はご注意ください。",
-              "可動部には指などを入れないでください。はさまれてケガをする恐れがあります。",
-              "LEDの光の点滅を見続けないでください。気分が悪くなったりする恐れがあります。",
-              "電池を誤使用すると発熱・破裂・液もれの恐れがあります。下記に注意してください。",
-              "万一、電池を飲み込んだとき、電池から漏れた液が目に入ったときは、すぐに医師に相談してください。漏れた液が皮膚や服に付いたときは水で洗ってください。",
-              "電池は飲み込むと危険です。お子様の手の届かない所に保管してください。",
-              "二次電池(充電式電池)は、絶対に使用しないでください。",
-              "古い電池と新しい電池、いろいろな種類の電池をまぜて使わないでください。",
-              "＋−（プラスマイナス）を正しくセットしてください。",
-              "遊んだ後は必ずスイッチを切り電池をはずしてください。電池を入れたままにしておくと、液漏れの恐れがあり危険です。",
-              "ショートさせたり充電、分解、加熱、火の中に入れたりしないでください。",
-              "廃棄するときは、自治体の廃棄処理の指示に従ってください。"
+              "●本商品の対象年齢は15才以上です。対象年齢未満のお子様には絶対に与えないでください。",
+              "●小さな部品、電池がありますので、小さなお子様が誤って飲み込まないように注意してください。窒息などの危険があります。",
+              "●耳の近くで使用してはいけません。誤って使用すると、聴覚を損なう恐れがあります。",
+              "●本商品には電子部品を使用しています。また電波を発信しますので、ペースメーカーをご使用の方はご注意ください。",
+              "●可動部には指などを入れないでください。はさまれてケガをする恐れがあります。",
+              "●LEDの光の点滅を見続けないでください。気分が悪くなったりする恐れがあります。",
+              "《電池を誤使用すると発熱・破裂・液もれの恐れがあります。下記に注意してください》",
+              "●万一、電池を飲み込んだとき、電池から漏れた液が目に入ったときは、すぐに医師に相談してください。漏れた液が皮膚や服に付いたときは水で洗ってください。",
+              "●電池は飲み込むと危険です。お子様の手の届かない所に保管してください。",
+              "●二次電池（充電式電池）は、絶対に使用しないでください。",
+              "●古い電池と新しい電池、いろいろな種類の電池をまぜて使わないでください。",
+              "●＋−（プラスマイナス）を正しくセットしてください。",
+              "●遊んだ後は必ずスイッチを切り電池をはずしてください。電池を入れたままにしておくと、液漏れの恐れがあり危険です。",
+              "●ショートさせたり充電、分解、加熱、火の中に入れたりしないでください。",
+              "●廃棄するときは、自治体の廃棄処理の指示に従ってください。"
             ]
           },
           {
-            "display_index": 3,
-            "panel_id": "p3",
+            "display_index": 4,
+            "panel_id": "p5",
             "source_ids": [8],
             "furigana_ids": [],
             "japanese_items": [
@@ -1262,70 +1230,78 @@
             ]
           },
           {
-            "display_index": 4,
-            "panel_id": "p4",
+            "display_index": 5,
+            "panel_id": "p6",
             "source_ids": [3],
             "furigana_ids": [],
             "japanese_items": ["サンドライバーの組み立て方"]
           },
           {
-            "display_index": 5,
-            "panel_id": "p5",
-            "source_ids": [9, 10],
+            "display_index": 6,
+            "panel_id": "p7",
+            "source_ids": [10],
             "furigana_ids": [],
             "japanese_items": [
-              "1",
               "ベルト(左)の上下のボタンを押しながら、サンドライバー本体に取り付けます。"
             ]
           },
           {
-            "display_index": 6,
-            "panel_id": "p6",
+            "display_index": 7,
+            "panel_id": "p8",
             "source_ids": [13],
             "furigana_ids": [],
             "japanese_items": ["※ベルト(右)も同様に行います。"]
           },
           {
-            "display_index": 7,
-            "panel_id": "p7",
+            "display_index": 8,
+            "panel_id": "p9",
             "source_ids": [16],
             "furigana_ids": [],
             "japanese_items": ["ベルトの取り外し方"]
           },
           {
-            "display_index": 8,
-            "panel_id": "p8",
-            "source_ids": [19, 22],
+            "display_index": 9,
+            "panel_id": "p11",
+            "source_ids": [15, 18, 20, 21],
             "furigana_ids": [],
             "japanese_items": [
-              "①ベルト(左)の上下のボタンを同時に押しながら、",
-              "②矢印の方向に引き抜いて外します。"
+              "腰まわりのサイズに合うよう、ベルト (右)のアタッチメントパーツの位置を調整します。"
             ]
           },
           {
-            "display_index": 9,
-            "panel_id": "p9-a",
-            "source_ids": [17, 15],
-            "furigana_ids": [],
-            "japanese_items": ["2　腰まわりのサイズに合うよう、ベルト（右）の"]
-          },
-          {
             "display_index": 10,
-            "panel_id": "p9-b",
-            "source_ids": [18, 20, 21],
+            "panel_id": "p12",
+            "source_ids": [28],
             "furigana_ids": [],
-            "japanese_items": ["ベルト (右)のアタッチメントパーツの位置を調整します。"]
+            "japanese_items": ["ベルト(左)とベルト(右)のアタッチメントパーツをはめ合わせます。"]
           },
           {
             "display_index": 11,
-            "panel_id": "p12",
+            "panel_id": "p13",
+            "source_ids": [31],
+            "furigana_ids": [],
+            "japanese_items": [
+              "アタッチメントパーツにベルト止めを図のように巻きつけて止めます。",
+              "ベルト止め"
+            ]
+          },
+          {
+            "display_index": 12,
+            "panel_id": "p14",
+            "source_ids": [34],
+            "furigana_ids": [],
+            "japanese_items": ["セット内容"]
+          },
+          {
+            "display_index": 13,
+            "panel_id": "p15",
             "source_ids": [40],
             "furigana_ids": [],
             "japanese_items": ["乾電池の入れ方"]
           },
           {
-            "display_index": 12,
-            "panel_id": "p13",
+            "display_index": 14,
+            "panel_id": "p16",
             "source_ids": [41],
             "furigana_ids": [],
             "japanese_items": [
@@ -1334,74 +1310,96 @@
             ]
           },
           {
-            "display_index": 13,
-            "source_ids": [0],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 14,
-            "source_ids": [1],
-            "furigana_ids": []
-          },
-          {
             "display_index": 15,
+            "panel_id": "p18",
+            "source_ids": [64],
+            "furigana_ids": [],
+            "japanese_items": ["各部名称"]
+          },
+          {
+            "display_index": -1,
+            "source_ids": [0],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
+          },
+          {
+            "display_index": 16,
             "source_ids": [2],
             "furigana_ids": []
           },
           {
-            "display_index": 16,
+            "display_index": 17,
             "source_ids": [4],
             "furigana_ids": []
           },
           {
-            "display_index": 17,
+            "display_index": -1,
+            "source_ids": [9],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
+          },
+          {
+            "display_index": 18,
             "source_ids": [11],
             "furigana_ids": []
           },
           {
-            "display_index": 18,
+            "display_index": 19,
             "source_ids": [12],
             "furigana_ids": []
           },
           {
-            "display_index": 19,
+            "display_index": 20,
             "source_ids": [14],
             "furigana_ids": []
           },
           {
-            "display_index": 20,
-            "source_ids": [23],
-            "furigana_ids": []
+            "display_index": -1,
+            "source_ids": [17],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
             "display_index": 21,
-            "source_ids": [24],
+            "source_ids": [19],
             "furigana_ids": []
           },
           {
             "display_index": 22,
-            "source_ids": [25],
+            "source_ids": [22],
             "furigana_ids": []
           },
           {
             "display_index": 23,
-            "source_ids": [26],
+            "source_ids": [23],
             "furigana_ids": []
           },
           {
             "display_index": 24,
-            "source_ids": [27],
+            "source_ids": [24],
             "furigana_ids": []
           },
           {
             "display_index": 25,
-            "source_ids": [28],
+            "source_ids": [25],
             "furigana_ids": []
           },
           {
             "display_index": 26,
-            "source_ids": [29],
+            "source_ids": [26],
             "furigana_ids": []
+          },
+          {
+            "display_index": -1,
+            "source_ids": [27],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
+          },
+          {
+            "display_index": -1,
+            "source_ids": [29],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
             "display_index": 27,
@@ -1409,254 +1407,246 @@
             "furigana_ids": []
           },
           {
-            "display_index": 28,
-            "source_ids": [31],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 29,
+            "display_index": -1,
             "source_ids": [32],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 30,
+            "display_index": 28,
             "source_ids": [33],
             "furigana_ids": []
           },
           {
-            "display_index": 31,
-            "source_ids": [34],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 32,
+            "display_index": -1,
             "source_ids": [35],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 33,
+            "display_index": -1,
             "source_ids": [36],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 34,
+            "display_index": 29,
             "source_ids": [37],
             "furigana_ids": []
           },
           {
-            "display_index": 35,
+            "display_index": 30,
             "source_ids": [38],
             "furigana_ids": []
           },
           {
-            "display_index": 36,
+            "display_index": 31,
             "source_ids": [39],
             "furigana_ids": []
           },
           {
-            "display_index": 37,
+            "display_index": 32,
             "source_ids": [42],
             "furigana_ids": []
           },
           {
-            "display_index": 38,
+            "display_index": -1,
             "source_ids": [43],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 39,
+            "display_index": 33,
             "source_ids": [44],
             "furigana_ids": []
           },
           {
-            "display_index": 40,
+            "display_index": 34,
             "source_ids": [45],
             "furigana_ids": []
           },
           {
-            "display_index": 41,
+            "display_index": 35,
             "source_ids": [46],
             "furigana_ids": []
           },
           {
-            "display_index": 42,
+            "display_index": 36,
             "source_ids": [47],
             "furigana_ids": []
           },
           {
-            "display_index": 43,
+            "display_index": 37,
             "source_ids": [48],
             "furigana_ids": []
           },
           {
-            "display_index": 44,
+            "display_index": 38,
             "source_ids": [49],
             "furigana_ids": []
           },
           {
-            "display_index": 45,
+            "display_index": 39,
             "source_ids": [50],
             "furigana_ids": []
           },
           {
-            "display_index": 46,
+            "display_index": 40,
             "source_ids": [51],
             "furigana_ids": []
           },
           {
-            "display_index": 47,
+            "display_index": 41,
             "source_ids": [52],
             "furigana_ids": []
           },
           {
-            "display_index": 48,
+            "display_index": 42,
             "source_ids": [53],
             "furigana_ids": []
           },
           {
-            "display_index": 49,
+            "display_index": 43,
             "source_ids": [54],
             "furigana_ids": []
           },
           {
-            "display_index": 50,
+            "display_index": -1,
             "source_ids": [55],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 51,
+            "display_index": -1,
             "source_ids": [56],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 52,
+            "display_index": -1,
             "source_ids": [57],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 53,
+            "display_index": 44,
             "source_ids": [58],
             "furigana_ids": []
           },
           {
-            "display_index": 54,
+            "display_index": 45,
             "source_ids": [59],
             "furigana_ids": []
           },
           {
-            "display_index": 55,
+            "display_index": 46,
             "source_ids": [60],
             "furigana_ids": []
           },
           {
-            "display_index": 56,
+            "display_index": 47,
             "source_ids": [61],
             "furigana_ids": []
           },
           {
-            "display_index": 57,
+            "display_index": 48,
             "source_ids": [62],
             "furigana_ids": []
           },
           {
-            "display_index": 58,
+            "display_index": 49,
             "source_ids": [63],
             "furigana_ids": []
           },
           {
-            "display_index": 59,
-            "source_ids": [64],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 60,
+            "display_index": 50,
             "source_ids": [65],
             "furigana_ids": []
           },
           {
-            "display_index": 61,
+            "display_index": 51,
             "source_ids": [66],
             "furigana_ids": []
           },
           {
-            "display_index": 62,
+            "display_index": 52,
             "source_ids": [67],
             "furigana_ids": []
           },
           {
-            "display_index": 63,
+            "display_index": 53,
             "source_ids": [68],
             "furigana_ids": []
           },
           {
-            "display_index": 64,
+            "display_index": 54,
             "source_ids": [69],
             "furigana_ids": []
           },
           {
-            "display_index": 65,
+            "display_index": 55,
             "source_ids": [70],
             "furigana_ids": []
           },
           {
-            "display_index": 66,
+            "display_index": 56,
             "source_ids": [71],
             "furigana_ids": []
           },
           {
-            "display_index": 67,
+            "display_index": 57,
             "source_ids": [72],
             "furigana_ids": []
           },
           {
-            "display_index": 68,
+            "display_index": 58,
             "source_ids": [73],
             "furigana_ids": []
           },
           {
-            "display_index": 69,
+            "display_index": 59,
             "source_ids": [74],
             "furigana_ids": []
           },
           {
-            "display_index": 70,
+            "display_index": 60,
             "source_ids": [75],
             "furigana_ids": []
           },
           {
-            "display_index": 71,
+            "display_index": 61,
             "source_ids": [76],
             "furigana_ids": []
           },
           {
-            "display_index": 72,
+            "display_index": 62,
             "source_ids": [77],
             "furigana_ids": []
           },
           {
-            "display_index": 73,
+            "display_index": 63,
             "source_ids": [78],
             "furigana_ids": []
           },
           {
-            "display_index": 74,
+            "display_index": 64,
             "source_ids": [79],
             "furigana_ids": []
           },
           {
-            "display_index": 75,
+            "display_index": 65,
             "source_ids": [80],
             "furigana_ids": []
           },
           {
-            "display_index": 76,
+            "display_index": -1,
             "source_ids": [81],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           }
         ],
         "uncertainties": [
-          "The source OCR shows '十一 (プラスマイナス)' which appears incorrect; reconstructed as '＋−（プラスマイナス）を正しくセットしてください' meaning set battery polarity (+/−) correctly.",
-          "The panel text is incomplete after 'ベルト（右）の' — the remainder of the sentence is missing from the image."
+          "The source OCR shows “十一 (プラスマイナス)”; this was interpreted as ＋− (plus/minus) polarity marking and translated accordingly."
         ],
         "ocr_lines": [
           {
@@ -2470,6 +2460,12 @@
     {
       "blocks": [
         {
+          "text": "電源の入れ方 : 起動時のモード選択",
+          "translation": "How to turn on the power: Mode selection at startup",
+          "bbox": [0.1511, 0.04087725958228111, 0.19628408470153808, 0.019822740417718893],
+          "layout": "panel"
+        },
+        {
           "text": "△ 注意",
           "translation": "△ Caution",
           "bbox": [0.0387, 0.0788617537021637, 0.055269543218612674, 0.018038246297836305],
@@ -2477,40 +2473,8 @@
         },
         {
           "text": "※本商品は、電源ONの状態ではずっと電池を消費した状態が続きます。 遊び終わったら必ず電源を切ってください。",
-          "translation": "• This product will continue to consume batteries while the power is ON.\n• Be sure to turn the power OFF when you are finished playing.",
+          "translation": "• This product will continue to drain the batteries while the power is ON.\n• Always turn the power off when you finish playing.",
           "bbox": [0.1083, 0.0827, 0.3491, 0.012081656503677374],
-          "layout": "panel"
-        },
-        {
-          "text": "電源の入れ方 : 起動時のモード選択",
-          "translation": "How to turn on the power: Mode selection at startup",
-          "bbox": [0.1511, 0.04087725958228111, 0.19628408470153808, 0.019822740417718893],
-          "layout": "panel"
-        },
-        {
-          "text": "通常モード",
-          "translation": "Normal mode",
-          "bbox": [0.057, 0.29255683279037475, 0.051399999999999994, 0.01574316720962521],
-          "layout": "panel"
-        },
-        {
-          "text": "裏面の電源をONにします。\n「ベルト出現音」が鳴り、可動部が自動変形し、 「通常モード」として起動します。",
-          "translation": "• Turn the power on at the back.\n• A “belt appearance” sound will play, movable parts will automatically transform, and it will start up in “Normal Mode.”",
-          "bbox": [0.13489719784259796, 0.291, 0.21140280215740204, 0.022699999999999998],
-          "layout": "panel"
-        },
-        {
-          "text": "台詞モード",
-          "translation": "Dialogue Mode",
-          "bbox": [0.057377814561128615, 0.3339, 0.05082218543887139, 0.017000000000000015],
-          "layout": "panel"
-        },
-        {
-          "text": "「台詞ボタン」を押しながら、裏面の電源をONにします。\n南光太郎の「変身!」の台詞が鳴り、可動部が自動変形し、 「台詞モード」として起動します。\n台詞モードでは、変身ポーズ音や各種攻撃音に南光太郎の台詞が付加されます。",
-          "translation": "• While holding the \"Speech\" button, turn the power on at the back.\n• Minami Kotaro's line \"Henshin!\" will play, the movable parts will auto-transform, and the unit will start up in \"Line Mode.\"\n• In Line Mode, Minami Kotaro's lines are added to the transformation-pose sounds and various attack sounds.",
-          "bbox": [
-            0.13526632940769195, 0.3279573724269867, 0.2412798045873642, 0.034266152858734134
-          ],
           "layout": "panel"
         },
         {
@@ -2528,109 +2492,59 @@
           "layout": "panel"
         },
         {
-          "text": "1",
-          "translation": "1",
-          "bbox": [0.535, 0.10495994544029236, 0.007105366230010901, 0.011340054559707644],
-          "layout": "panel"
-        },
-        {
-          "text": "<変身前状態>で 「変身・攻撃ボタン」を短押しします。\n少しの間の後、 「握り拳ポーズ音&ベルト出現音」が鳴り、\n約30秒間の 「赤外線センサー(左) 入力受付状態」になります。",
-          "translation": "• In the <pre-transformation state>, briefly press the \"Transform/Attack button.\"\n• After a short moment, the \"Fist-pose sound & belt-appearance sound\" will play,\n• and for about 30 seconds the \"infrared sensor (left) input-accepting state\" will be active.",
-          "bbox": [0.5472, 0.10056717997789383, 0.15474296979904167, 0.04543282002210616],
-          "layout": "panel"
-        },
-        {
-          "text": "※「赤外線センサー入力受付状態」は、「天面の2つのボタン\nいずれかを押す」 または 「30秒経過する」ことで、\n「キャンセル音」とともに解除されます。\nまた、この状態中はBGMボタンは機能しません。",
-          "translation": "• ※The “infrared sensor input acceptance state” is canceled with a “cancel sound” when either of the two top-surface buttons is pressed or when 30 seconds have elapsed.\n• Also, while in this state the BGM button does not function.",
-          "bbox": [0.5511, 0.1455, 0.14219999999999988, 0.044372090458869945],
-          "layout": "panel"
-        },
-        {
-          "text": "2",
-          "translation": "2",
-          "bbox": [0.5346757278442383, 0.2194, 0.008024272155761625, 0.010800000000000004],
+          "text": "<変身前状態>で 「変身・攻撃ボタン」を短押しします。\n少しの間の後、 「握り拳ポーズ音&ベルト出現音」が鳴り、\n約30秒間の 「赤外線センサー(左) 入力受付状態」になります。\n※「赤外線センサー入力受付状態」は、「天面の2つのボタン\nいずれかを押す」 または 「30秒経過する」ことで、\n「キャンセル音」とともに解除されます。\nまた、この状態中はBGMボタンは機能しません。",
+          "translation": "• In the pre-transformation state, briefly press the \"Transform/Attack\" button. After a short moment you will hear the \"fist-pose sound & belt-appearance sound,\" and the left infrared sensor will be ready to accept input for about 30 seconds.\n• The left infrared sensor input-ready state is canceled (with a \"cancel\" sound) when you press either of the two top buttons or when 30 seconds pass. While in this state the BGM button will not work.",
+          "bbox": [0.5472, 0.10056717997789383, 0.15474296979904167, 0.08930491048097611],
           "layout": "panel"
         },
         {
           "text": "赤外線センサー(左)に\n手をかざします。\n「変身ポーズ音1」が\n鳴ります。",
-          "translation": "• Hold your hand over the infrared sensor (left).\n• \"Transformation Pose Sound 1\" will play.",
+          "translation": "• Place your hand over the infrared sensor (left).\n• \"Transformation Pose Sound 1\" will play.",
           "bbox": [0.547, 0.214, 0.05693630409240713, 0.04440000000000002],
           "layout": "panel"
         },
         {
-          "text": "3",
-          "translation": "3",
-          "bbox": [
-            0.6195778951644898, 0.21917183256149292, 0.008422104835510091, 0.011028167438507097
-          ],
-          "layout": "panel"
-        },
-        {
           "text": "赤外線センサー (左)から\n手を離します。\n「変身ポーズ音2」が鳴ります。",
-          "translation": "• Remove your hand from the infrared sensor (left).\n• 'Transformation Pose Sound 2' will play.",
+          "translation": "• Remove your hand from the infrared sensor (left).\n• \"Transformation Pose Sound 2\" plays.",
           "bbox": [0.6317595348358155, 0.2143, 0.07964046516418444, 0.0335],
           "layout": "panel"
         },
         {
-          "text": "4",
-          "translation": "4",
-          "bbox": [
-            0.7253000000000001, 0.21917183256149292, 0.008758131217956433, 0.010828167438507091
-          ],
-          "layout": "panel"
-        },
-        {
           "text": "赤外線センサー(左)に\n再び手をかざします。\n音声は鳴りません。",
-          "translation": "• Hold your hand over the infrared sensor (left) again.\n• No voice will sound.",
+          "translation": "• Hold your hand over the infrared sensor (left) again.\n• No sound will play.",
           "bbox": [0.7386, 0.2145, 0.056735341930389316, 0.033],
           "layout": "panel"
         },
         {
-          "text": "5",
-          "translation": "5",
-          "bbox": [0.8526897535324097, 0.2194, 0.008010246467590187, 0.011300000000000004],
-          "layout": "panel"
-        },
-        {
           "text": "赤外線センサー (左)から\n再び手を離します。\n「変身ポーズ音3」が鳴り、続けて\n「仮面ライダーBLACK SUN変身音」\nが鳴り、ベルトが発光・変形します。",
-          "translation": "• Remove your hand again from the infrared sensor (left).\n• \"Transformation Pose Sound 3\" will play, followed by the \"Kamen Rider BLACK SUN Transformation Sound,\" and the belt will light up and transform.",
+          "translation": "Remove your hand again from the infrared sensor (left). \"Transformation Pose Sound 3\" will play, followed by the \"Kamen Rider BLACK SUN Transformation Sound,\" and the belt will light up and transform.",
           "bbox": [0.86505592918396, 0.2145, 0.09989921140670766, 0.05573385906219483],
           "layout": "panel"
         },
         {
-          "text": "※「台詞モード」の場合、3で「変･･･」、5 で「身!」の台詞が一緒に鳴ります。 ※ベルトの発光は、 変身後に1分間継続します。",
-          "translation": "• In \"Line Mode\", at 3 it plays \"Hen...\" and at 5 it plays \"Shin!\" together.\n• The belt illumination continues for 1 minute after transformation.",
-          "bbox": [0.5363, 0.4481, 0.3013018896102905, 0.010799999999999976],
+          "text": "通常モード",
+          "translation": "Normal mode",
+          "bbox": [0.057, 0.29255683279037475, 0.051399999999999994, 0.01574316720962521],
           "layout": "panel"
         },
         {
-          "text": "A",
-          "translation": "A",
+          "text": "裏面の電源をONにします。\n「ベルト出現音」が鳴り、可動部が自動変形し、 「通常モード」として起動します。",
+          "translation": "• Turn the power on at the back.\n• The “belt appearance” sound will play, the movable parts will auto-transform, and the device will start up in \"Normal Mode.\"",
+          "bbox": [0.13489719784259796, 0.291, 0.21140280215740204, 0.022699999999999998],
+          "layout": "panel"
+        },
+        {
+          "text": "台詞モード",
+          "translation": "Dialogue Mode",
+          "bbox": [0.057377814561128615, 0.3339, 0.05082218543887139, 0.017000000000000015],
+          "layout": "panel"
+        },
+        {
+          "text": "「台詞ボタン」を押しながら、裏面の電源をONにします。\n南光太郎の「変身!」の台詞が鳴り、可動部が自動変形し、 「台詞モード」として起動します。\n台詞モードでは、変身ポーズ音や各種攻撃音に南光太郎の台詞が付加されます。",
+          "translation": "• Turn on the power on the back while holding the Dialogue button.\n• Minami Kotaro's line “Henshin!” will play, the movable parts will transform automatically, and the toy will start in Dialogue Mode.\n• In Dialogue Mode, Minami Kotaro's lines are added to the transformation-pose sounds and to various attack sounds.",
           "bbox": [
-            0.5440887913703919, 0.655089150428772, 0.029811208629608066, 0.034310849571227875
+            0.13526632940769195, 0.3279573724269867, 0.2412798045873642, 0.034266152858734134
           ],
-          "layout": "panel"
-        },
-        {
-          "text": "自動変形",
-          "translation": "Automatic transformation",
-          "bbox": [
-            0.5787879333496094, 0.6525000000000001, 0.04861206665039053, 0.017999999999999905
-          ],
-          "layout": "panel"
-        },
-        {
-          "text": "の注意点",
-          "translation": "Precautions",
-          "bbox": [
-            0.5780000000000001, 0.6731770143508912, 0.048638401985168334, 0.017522985649108702
-          ],
-          "layout": "panel"
-        },
-        {
-          "text": "自動変形の途中に動きを妨げると、 安全性の確保のため、 自動変形が停止します。\nその場合、一度変身解除をするか電源を入れ直して、変身前の開いた状態に戻してください。\n●メーターの針の停止位置は多少のばらつき・ブレがございます。\n■可動部分のスピードやメーターの針の動きは、電池の消費状況によって変わりますのでご注意ください。\n●赤外線センサーは、太陽光の下や、太陽光が入り込む屋内ではうまく反応しません。\n太陽光の当たらない屋内でお遊びください。\n●赤外線センサーの反応距離は、可動部 (左上・右上)のパーツに手が乗るくらいの距離になります。\n反応が悪いときは、手をさらに赤外線センサーに近づけてください。",
-          "translation": "• If movement is obstructed during automatic transformation, the automatic transformation will stop to ensure safety. In that case, either cancel the transformation once or turn the power off and on again to return to the open state before transformation.\n• The meter needle’s stopping position may vary slightly or wobble.\n• Please note that the speed of moving parts and the meter needle’s movement will change depending on battery depletion.\n• The infrared sensor does not respond well under sunlight or in indoor areas where sunlight enters. Play indoors where sunlight does not reach.\n• The infrared sensor’s detection distance is about the distance at which a hand can rest on the movable parts (upper left / upper right). If the response is poor, bring your hand closer to the infrared sensor.",
-          "bbox": [0.6419, 0.6220000000000001, 0.31105809650421135, 0.10019999999999984],
           "layout": "panel"
         },
         {
@@ -2641,13 +2555,13 @@
         },
         {
           "text": "「台詞ボタン」を短押しします。 下記表の台詞が順番に鳴ります。",
-          "translation": "Briefly press the \"Line\" button. The lines listed in the table below will play in order.",
+          "translation": "Press the \"Dialogue\" button briefly. The lines listed in the table below will play in order.",
           "bbox": [0.1334, 0.4103863046169281, 0.1579, 0.010235139608383181],
           "layout": "panel"
         },
         {
           "text": "台詞",
-          "translation": "Dialogue",
+          "translation": "Lines",
           "bbox": [0.1323, 0.43829328870773315, 0.013533705306053162, 0.010235139608383181],
           "layout": "panel"
         },
@@ -2672,14 +2586,6 @@
           "layout": "panel"
         },
         {
-          "text": "気が済んだか。 帰るぞ。\n力じゃ勝てない。 まずは俺の指を剥がして折れ。 次に足の甲を踵で踏みつけろ。",
-          "translation": "• Are you satisfied? Let's go home.\n• You can't win by strength. First, peel off my finger and break it. Next, stomp on the top of the foot with your heel.",
-          "bbox": [
-            0.052578996181488036, 0.46849999999999997, 0.16745182263851166, 0.030000000000000027
-          ],
-          "layout": "panel"
-        },
-        {
           "text": "3",
           "translation": "3",
           "bbox": [
@@ -2689,7 +2595,7 @@
         },
         {
           "text": "反転して手を外せ。 手が残ってたら引き込んで相手を崩せ。 踏み込んで肘で突け。",
-          "translation": "• Turn around and release the hand.\n• If the hand remains, pull it in and unbalance the opponent.\n• Step in and strike with your elbow.",
+          "translation": "• Turn and remove your hand.\n• If a hand remains, pull it in and off-balance your opponent.\n• Step in and strike with your elbow.",
           "bbox": [
             0.05276356568932533, 0.497983197927475, 0.1673364343106747, 0.015016802072525037
           ],
@@ -2703,7 +2609,7 @@
         },
         {
           "text": "クジラ、お前も俺の敵か?\nお前は怪人になって幸せだったか? 俺は、そう思ったことは一度も無い。",
-          "translation": "• Whale, are you my enemy too?\n• Were you happy becoming a monster? I have never once thought so.",
+          "translation": "• Whale, are you my enemy too?\n• Were you happy after becoming a monster? I never once thought that.",
           "bbox": [
             0.052578996181488036, 0.5124535069465638, 0.1574850468635559, 0.02994649305343622
           ],
@@ -2733,7 +2639,7 @@
         },
         {
           "text": "怪人がこの世界からいなくなる。 それで十分だろ。",
-          "translation": "• The kaijin will disappear from this world.\n• That will be enough, won't it?",
+          "translation": "The monsters will disappear from this world. That should be enough.",
           "bbox": [
             0.052578996181488036, 0.5566000000000001, 0.10382100381851198, 0.008982682132720798
           ],
@@ -2749,7 +2655,7 @@
         },
         {
           "text": "お前だって何もしなかったろ。 なんでゆかりを、 ビルゲニアから守れなかった!",
-          "translation": "You didn't do anything either. Why couldn't you protect Yukari from Bilgenia!",
+          "translation": "You didn't do anything either. Why couldn't you protect Yukari from Vilgenia!",
           "bbox": [
             0.052578996181488036, 0.5708513960838318, 0.15752100381851197, 0.015448603916168202
           ],
@@ -2763,7 +2669,7 @@
         },
         {
           "text": "あの時はここで止められたよな!",
-          "translation": "We were stopped here that time, weren't we!",
+          "translation": "We stopped it here back then, didn't we!",
           "bbox": [
             0.052899999999999996, 0.5858000000000001, 0.06727848038673401, 0.008981626701354828
           ],
@@ -2777,7 +2683,7 @@
         },
         {
           "text": "あのキングストーンは、あいつの物だ。 俺らが奪っていいもんじゃない。",
-          "translation": "That Kingstone belongs to him. It's not something we have the right to steal.",
+          "translation": "• That King Stone belongs to him.\n• We have no right to take it.",
           "bbox": [
             0.052578996181488036, 0.6005671725273133, 0.14512100381851195, 0.01493282747268676
           ],
@@ -2793,7 +2699,7 @@
         },
         {
           "text": "乗れ。 葵、一緒にいる間だけは、俺が守ってやる。 ・・・帰るぞ。 乗れ。",
-          "translation": "Get on. Aoi, for as long as we're together, I'll protect you. ...We're going home. Get on.",
+          "translation": "Get on. Aoi, while we're together, I'll protect you. ...We're going home. Get on.",
           "bbox": [
             0.052578996181488036, 0.6150000000000001, 0.13462100381851197, 0.01529999999999987
           ],
@@ -2823,7 +2729,7 @@
         },
         {
           "text": "信彦、そいつは俺がやる。 いいからどけ!",
-          "translation": "• Nobuhiko, I'll take care of that.\n• Just get out of the way!",
+          "translation": "• Nobuhiko, I'll handle that one.\n• Just get out of the way!",
           "bbox": [
             0.052578996181488036, 0.6439780101776124, 0.08292100381851197, 0.01522198982238765
           ],
@@ -2839,7 +2745,7 @@
         },
         {
           "text": "よくも葵を、 怪人に･･･。 許さん!",
-          "translation": "How dare you hand Aoi over to a monster...! I won't forgive you!",
+          "translation": "How dare you hand Aoi over to a monster... I won't forgive you!",
           "bbox": [
             0.052578996181488036, 0.6587000000000001, 0.07738169419765473, 0.01419999999999999
           ],
@@ -2871,7 +2777,7 @@
         },
         {
           "text": "生きて戦え。 戦い方を教えたはずだ。",
-          "translation": "Live and fight. I should have taught you how to fight.",
+          "translation": "• Stay alive and fight.\n• I should have taught you how to fight.",
           "bbox": [
             0.052578996181488036, 0.6879000000000001, 0.07742100381851197, 0.01519999999999988
           ],
@@ -2892,165 +2798,45 @@
           "layout": "panel"
         },
         {
-          "text": "台詞",
-          "translation": "Dialogue",
-          "bbox": [0.3534, 0.43777648663520813, 0.013363938903808603, 0.010523513364791903],
+          "text": "※「台詞モード」の場合、3で「変･･･」、5 で「身!」の台詞が一緒に鳴ります。 ※ベルトの発光は、 変身後に1分間継続します。",
+          "translation": "• In \"Line Mode\", the lines \"Hen...\" (3) and \"Shin!\" (5) play together.\n• The belt illumination continues for 1 minute after transformation.",
+          "bbox": [0.5363, 0.4481, 0.3013018896102905, 0.010799999999999976],
           "layout": "panel"
         },
         {
-          "text": "18",
-          "translation": "18",
-          "bbox": [0.258, 0.4543, 0.010203575849533075, 0.007923519325256367],
-          "layout": "panel"
-        },
-        {
-          "text": "創世王の奪い合いがしたいなら、俺もそうする。",
-          "translation": "If you want to fight over the Genesis King, I'll do the same.",
+          "text": "A",
+          "translation": "A",
           "bbox": [
-            0.27387837624549866, 0.4540555582046509, 0.10303691911697388, 0.015244441795349117
+            0.5440887913703919, 0.655089150428772, 0.029811208629608066, 0.034310849571227875
           ],
           "layout": "panel"
         },
         {
-          "text": "19",
-          "translation": "19",
-          "bbox": [0.258, 0.46878422355651855, 0.009649878501892084, 0.008215776443481426],
-          "layout": "panel"
-        },
-        {
-          "text": "50年前とは違う。•••今日こそ、俺が終わらせる・・・!",
-          "translation": "It's not the same as fifty years ago. ...Today, I will finish it...!",
+          "text": "自動変形",
+          "translation": "Automatic transformation",
           "bbox": [
-            0.27406294202804565, 0.46878422355651855, 0.10293705797195435, 0.015215776443481432
+            0.5787879333496094, 0.6525000000000001, 0.04861206665039053, 0.017999999999999905
           ],
           "layout": "panel"
         },
         {
-          "text": "20",
-          "translation": "20",
+          "text": "の注意点",
+          "translation": "Precautions",
           "bbox": [
-            0.2572670683860779, 0.48377130484580994, 0.01083293161392207, 0.00742869515419009
+            0.5780000000000001, 0.6731770143508912, 0.048638401985168334, 0.017522985649108702
           ],
           "layout": "panel"
         },
         {
-          "text": "これでもう･･･お終いだ。",
-          "translation": "This is it... it's over.",
-          "bbox": [0.27406294202804565, 0.4835, 0.049537057971954346, 0.008699999999999986],
+          "text": "自動変形の途中に動きを妨げると、 安全性の確保のため、 自動変形が停止します。\nその場合、一度変身解除をするか電源を入れ直して、変身前の開いた状態に戻してください。\n●メーターの針の停止位置は多少のばらつき・ブレがございます。\n■可動部分のスピードやメーターの針の動きは、電池の消費状況によって変わりますのでご注意ください。\n●赤外線センサーは、太陽光の下や、太陽光が入り込む屋内ではうまく反応しません。\n太陽光の当たらない屋内でお遊びください。\n●赤外線センサーの反応距離は、可動部 (左上・右上)のパーツに手が乗るくらいの距離になります。\n反応が悪いときは、手をさらに赤外線センサーに近づけてください。",
+          "translation": "• If you obstruct movement during automatic transformation, the automatic transformation will stop for safety.\n• If this happens, either cancel the transformation once or turn the power off and on again to return the toy to the open state it was in before transforming.\n• The meter needle’s stop position may vary slightly or wobble.\n• The speed of moving parts and the meter needle’s movement can change depending on battery level, so take care.\n• The infrared sensor does not respond well under sunlight or in indoor areas with sunlight. Play indoors away from direct sunlight.\n• The infrared sensor’s detection distance is about the distance from the parts of the movable sections (upper left/right) to where a hand can rest on them. If response is poor, move your hand closer to the infrared sensor.",
+          "bbox": [0.6419, 0.6220000000000001, 0.31105809650421135, 0.10019999999999984],
           "layout": "panel"
         },
         {
-          "text": "俺も、受け継いでるんだよ。 50年前の俺が、 ずっと見張ってる。",
-          "translation": "I've inherited it too. The me from 50 years ago has been watching over me the whole time.",
-          "bbox": [
-            0.27387837624549866, 0.5566000000000001, 0.12832299757003784, 0.014999999999999902
-          ],
-          "layout": "panel"
-        },
-        {
-          "text": "25",
-          "translation": "25",
-          "bbox": [
-            0.2572670683860779, 0.5638746724128724, 0.010432931613922114, 0.008225327587127573
-          ],
-          "layout": "panel"
-        },
-        {
-          "text": "これが最後の戦いだ。",
-          "translation": "This is the final battle.",
-          "bbox": [0.27406294202804565, 0.5711, 0.04603705797195434, 0.008952961349487198],
-          "layout": "panel"
-        },
-        {
-          "text": "26",
-          "translation": "26",
-          "bbox": [
-            0.2572670683860779, 0.5858000000000001, 0.010632931613922092, 0.008206468296050873
-          ],
-          "layout": "panel"
-        },
-        {
-          "text": "敗北の、 意味だ。 俺がダメだったら、次を、頼む。",
-          "translation": "It means defeat. If I can't do it, please take the next one.",
-          "bbox": [
-            0.27387837624549866, 0.5855801210403443, 0.10525173830986023, 0.015219878959655708
-          ],
-          "layout": "panel"
-        },
-        {
-          "text": "27",
-          "translation": "27",
-          "bbox": [
-            0.2572670683860779, 0.6003000000000001, 0.010432931613922114, 0.00869999999999993
-          ],
-          "layout": "panel"
-        },
-        {
-          "text": "そんなところに座って、 創世王にでもなるつもりか。",
-          "translation": "Sitting there like that, do you intend to become the King of Creation or something?",
-          "bbox": [
-            0.27387837624549866, 0.6003000000000001, 0.13552121210098267, 0.014999999999999902
-          ],
-          "layout": "panel"
-        },
-        {
-          "text": "それは、違う。 親父たちは、 俺たちに、争わせようとしたんじゃない。",
-          "translation": "That's not it. Our fathers didn't try to make us fight each other.",
-          "bbox": [
-            0.27369381046295166, 0.6295000000000001, 0.13570618953704838, 0.014999999999999902
-          ],
-          "layout": "panel"
-        },
-        {
-          "text": "29",
-          "translation": "29",
-          "bbox": [
-            0.2574516341686249, 0.6372596726417542, 0.01044836583137515, 0.007740327358245813
-          ],
-          "layout": "panel"
-        },
-        {
-          "text": "争わない、俺たちだから、選んだ。 ・・・そう思ったら、ダメか?",
-          "translation": "• We chose it because we're the ones who don't fight.\n• ...Is it wrong to think that?",
-          "bbox": [
-            0.27369381046295166, 0.6439780101776124, 0.12315503644943238, 0.01522198982238765
-          ],
-          "layout": "panel"
-        },
-        {
-          "text": "怪人は、人間だ。 誰かと出会って恋をする。 子供だって作る。",
-          "translation": "• The monster is human.\n• They meet someone and fall in love.\n• They even have children.",
-          "bbox": [
-            0.27369381046295166, 0.6734000000000001, 0.12320618953704832, 0.01529999999999987
-          ],
-          "layout": "panel"
-        },
-        {
-          "text": "31",
-          "translation": "31",
-          "bbox": [
-            0.2574516341686249, 0.6811873421669007, 0.009548365831375139, 0.00741265783309919
-          ],
-          "layout": "panel"
-        },
-        {
-          "text": "それで生きて、いつか死ぬ。 何も特別なことは無い。",
-          "translation": "You live like that, and someday you die. There's nothing special about it.",
-          "bbox": [
-            0.27369381046295166, 0.6881640658378602, 0.10710618953704837, 0.014935934162139786
-          ],
-          "layout": "panel"
-        },
-        {
-          "text": "32",
-          "translation": "32",
-          "bbox": [0.2572670683860779, 0.7026, 0.010632931613922092, 0.007943920040130559],
-          "layout": "panel"
-        },
-        {
-          "text": "ゆかりが望んだ世界に、嘘は無いと、俺は思ってる。",
-          "translation": "I believe there are no lies in the world Yukari wished for.",
-          "bbox": [0.27369381046295166, 0.7026, 0.10432887959480286, 0.015499999999999958],
+          "text": "黒殿様飛蝗怪人への変身",
+          "translation": "Transformation into the Black Lord Locust Kaijin",
+          "bbox": [0.6869000000000001, 0.7437, 0.12523121557235706, 0.018799999999999928],
           "layout": "panel"
         },
         {
@@ -3061,27 +2847,21 @@
         },
         {
           "text": "「BGMボタン」を短押しします。\n→右記表の 「BGM」が順番に鳴ります。",
-          "translation": "• Press the \"BGM\" button briefly.\n• The \"BGM\" entries in the table to the right will play in sequence.",
+          "translation": "• Press the \"BGM\" button briefly.\n• The \"BGM\" tracks shown in the table at right will play in order.",
           "bbox": [0.0352, 0.8003, 0.09494525616168975, 0.022130242538452083],
           "layout": "panel"
         },
         {
-          "text": "BGM\nBLACK SUN ①\nKILLING\nCHASE\nRestrained at this point that time\nBLACK SUN ②\nMAN of SORROW",
-          "translation": "• BGM\n• BLACK SUN ①\n• KILLING\n• CHASE\n• Restrained at this point that time\n• BLACK SUN ②\n• MAN of SORROW",
+          "text": "仮面ライダーBLACK",
+          "translation": "Kamen Rider BLACK",
           "bbox": [
-            0.23308841443061828, 0.7724000000000001, 0.08351158556938171, 0.09602506074905381
+            0.38535861229896545, 0.7884000000000001, 0.04774138770103459, 0.00896565494537338
           ],
           "layout": "panel"
         },
         {
-          "text": "BGM\n仮面ライダーBLACK\nMAIN THEME (LONG ver.) ①\nENDLESS DESTINY\nMAIN THEME (LONG ver.) ②\nDeclaration of war\nDid you see the sunrise?",
-          "translation": "• BGM\n• Kamen Rider BLACK\n• MAIN THEME (LONG ver.) ①\n• ENDLESS DESTINY\n• MAIN THEME (LONG ver.) ②\n• Declaration of war\n• Did you see the sunrise?",
-          "bbox": [0.38535861229896545, 0.7729, 0.07147545504570008, 0.0963002787590026],
-          "layout": "panel"
-        },
-        {
           "text": "※BGMが鳴っている間に、もう一度\n「BGMボタン」を押すと、 BGMが鳴り止みます。",
-          "translation": "While the BGM is playing, press the \"BGM button\" once more to stop the BGM.",
+          "translation": "If you press the BGM button again while the BGM is playing, the BGM will stop.",
           "bbox": [
             0.0381825410425663, 0.8372596607208252, 0.1222321889102459, 0.022140339279174692
           ],
@@ -3095,53 +2875,25 @@
         },
         {
           "text": "※そのまま長押しし続けると、 最大12回の「スタンバイ音」が鳴ります。",
-          "translation": "Note: If you continue to hold it down, a “standby sound” will sound up to 12 times.",
+          "translation": "If you keep holding it down, up to 12 “standby” sounds will play.",
           "bbox": [0.3082, 0.8894560441970826, 0.15400000000000003, 0.01024395580291737],
           "layout": "panel"
         },
         {
-          "text": "2 その後、「仮面ライダーBLACK SUN」 または 「黒殿様飛蝗怪人」 に変身すると、それぞれのタイミングで、スタンバイ回数に応じた上記表のBGMが鳴り始めます。\n黒殿様飛蝗怪人 「変身音」のタイミングで鳴り始めます。\n仮面ライダーBLACK SUN 「握り拳ポーズ音&ベルト出現音」のタイミングで鳴り始めます。",
-          "translation": "• 2 After that, when you transform into “Kamen Rider BLACK SUN” or “Kurodono-sama Hiyokegijin,” the BGM from the table above corresponding to the number of standbys will begin playing at each respective timing.\n• Kurodono-sama Hiyokegijin: will begin playing at the timing of the “henshin sound.”\n• Kamen Rider BLACK SUN: will begin playing at the timing of the “closed-fist pose sound & belt appearance sound.”",
-          "bbox": [0.03467570921778679, 0.9212, 0.4231242907822132, 0.028899999999999926],
-          "layout": "panel"
-        },
-        {
-          "text": "黒殿様飛蝗怪人への変身",
-          "translation": "Transformation into the Black Lord Locust Kaijin",
-          "bbox": [0.6869000000000001, 0.7437, 0.12523121557235706, 0.018799999999999928],
-          "layout": "panel"
-        },
-        {
-          "text": "1",
-          "translation": "1",
-          "bbox": [
-            0.5361522541046143, 0.773952196598053, 0.006347745895385559, 0.01084780340194691
-          ],
-          "layout": "panel"
-        },
-        {
-          "text": "<変身前状態>で 「変身・攻撃ボタン」を長押しします。\n「ベルト出現音」が鳴り、約30秒間の 「赤外線センサー(左右) 入力受付状態」になります。\n赤外線\n赤外線\n変身・攻撃ボタン\nセンサー (左)\nセンサー ( 右 )",
-          "translation": "• In the <pre-transformation state>, press and hold the “Transform/Attack Button.”\n• A “belt appearance sound” will play, and for about 30 seconds the “infrared sensors (left/right) will accept input.”\n• Infrared\n• Infrared\n• Transform/Attack Button\n• Sensor (Right)\n• Sensor (Left)",
-          "bbox": [
-            0.5398000000000001, 0.7693000000000001, 0.23984692258834828, 0.04899999999999982
-          ],
-          "layout": "panel"
-        },
-        {
-          "text": "2",
-          "translation": "2",
-          "bbox": [0.7947000000000001, 0.7747, 0.007649020481109492, 0.01026252441406239],
+          "text": "<変身前状態>で 「変身・攻撃ボタン」を長押しします。",
+          "translation": "While in the pre-transformation state, press and hold the \"Transform/Attack Button.\"",
+          "bbox": [0.5481, 0.7693000000000001, 0.12929515447616569, 0.01079999999999992],
           "layout": "panel"
         },
         {
           "text": "赤外線センサー(左右)のどちらかに手をかざし、離します。\n「黒殿様飛蝗怪人 変身音」が鳴り、ベルトが発光・変形します。",
-          "translation": "• Hold your hand over either infrared sensor (left or right), then remove it.\n• \"Kurodono-sama Hikō Kaijin transformation sound\" plays, and the belt lights up and transforms.",
+          "translation": "• Hold your hand over either infrared sensor (left or right), then remove it.\n• The \"Kurodono-sama Hikō Kaijin\" transformation sound plays, and the belt lights up and transforms.",
           "bbox": [0.8071, 0.7693000000000001, 0.15179999999999993, 0.02189999999999992],
           "layout": "panel"
         },
         {
           "text": "※「台詞モード」の場合、\n変身音中に唸り声が\n鳴ります。\n※ベルトの発光は、\n変身後に1分間\n継続します。",
-          "translation": "• If \"Dialogue Mode\" is selected, a growling sound will play during the transformation sound.\n• The belt's illumination continues for 1 minute after transformation.",
+          "translation": "• In \"Dialogue Mode\", a growling sound plays during the transformation audio.\n• The belt's light stays on for 1 minute after transformation.",
           "bbox": [
             0.8006000000000001, 0.8078000000000001, 0.05822740163803086, 0.06969999999999987
           ],
@@ -3149,14 +2901,9 @@
         },
         {
           "text": "※「赤外線センサー入力受付状態」は、「天面の2つのボタンいずれかを押す」 または 「30秒経過する」\nことで、「キャンセル音」 とともに解除されます。 また、 この状態中はBGMボタンは機能しません。",
-          "translation": "The \"infrared sensor input acceptance state\" is canceled with a \"cancel sound\" when either of the two buttons on the top surface is pressed or when 30 seconds elapse. Also, the BGM button does not function while in this state.",
+          "translation": "The “infrared sensor input reception state” is canceled with a “cancel tone” when either of the two top-surface buttons is pressed or when 30 seconds pass. While in this state, the BGM button does not work.",
           "bbox": [0.5376000000000001, 0.9194000000000001, 0.2409394682884215, 0.02241006097793563],
           "layout": "panel"
-        },
-        {
-          "text": "3",
-          "translation": "3",
-          "bbox": [0.0201, 0.9726, 0.003, 0.0047]
         },
         {
           "text": "【裏面から見た図 (電源スイッチ拡大図)】",
@@ -3174,14 +2921,49 @@
           "bbox": [0.9299, 0.1005, 0.0319, 0.0165]
         },
         {
-          "text": "OFF",
-          "translation": "OFF",
-          "bbox": [0.3178, 0.2013, 0.0164, 0.0085]
+          "text": "台詞",
+          "translation": "Lines",
+          "bbox": [0.3549, 0.4393, 0.0103, 0.0075]
         },
         {
-          "text": "O ON",
-          "translation": "O ON",
-          "bbox": [0.381, 0.2016, 0.0214, 0.009]
+          "text": "18",
+          "translation": "18",
+          "bbox": [0.2595, 0.4558, 0.0072, 0.0049]
+        },
+        {
+          "text": "創世王の奪い合いがしたいなら、俺もそうする。",
+          "translation": "If you want to fight over the Creation King, I'll do the same.",
+          "bbox": [0.2754, 0.4556, 0.0941, 0.0062]
+        },
+        {
+          "text": "気が済んだか。 帰るぞ。",
+          "translation": "Satisfied? Let's go home.",
+          "bbox": [0.0541, 0.47, 0.0471, 0.0065]
+        },
+        {
+          "text": "19",
+          "translation": "19",
+          "bbox": [0.2595, 0.4703, 0.0066, 0.0052]
+        },
+        {
+          "text": "50年前とは違う。•••今日こそ、俺が終わらせる・・・!",
+          "translation": "It's different from fifty years ago... Today, I'm the one who will put an end to this...!",
+          "bbox": [0.2756, 0.4703, 0.0999, 0.0062]
+        },
+        {
+          "text": "力じゃ勝てない。 まずは俺の指を剥がして折れ。 次に足の甲を踵で踏みつけろ。",
+          "translation": "You can't win through brute force. First, pry my fingers loose and break them. Next, stomp on the instep of my foot with your heel.",
+          "bbox": [0.0543, 0.4848, 0.1589, 0.0062]
+        },
+        {
+          "text": "20",
+          "translation": "20",
+          "bbox": [0.2588, 0.4853, 0.0078, 0.0044]
+        },
+        {
+          "text": "これでもう･･･お終いだ。",
+          "translation": "This is the end.",
+          "bbox": [0.2756, 0.485, 0.0465, 0.0057]
         },
         {
           "text": "21",
@@ -3224,6 +3006,41 @@
           "bbox": [0.2754, 0.5434, 0.0657, 0.0059]
         },
         {
+          "text": "俺も、受け継いでるんだよ。 50年前の俺が、 ずっと見張ってる。",
+          "translation": "I've inherited it too. My fifty-years-ago self has been watching over me all along.",
+          "bbox": [0.2754, 0.5581, 0.1253, 0.0059]
+        },
+        {
+          "text": "25",
+          "translation": "25",
+          "bbox": [0.2588, 0.5654, 0.0074, 0.0052]
+        },
+        {
+          "text": "これが最後の戦いだ。",
+          "translation": "This is the final battle.",
+          "bbox": [0.2756, 0.5726, 0.043, 0.0059]
+        },
+        {
+          "text": "26",
+          "translation": "26",
+          "bbox": [0.2588, 0.5873, 0.0076, 0.0052]
+        },
+        {
+          "text": "敗北の、 意味だ。 俺がダメだったら、次を、頼む。",
+          "translation": "It signifies defeat. If I fail, I leave it to the next person.",
+          "bbox": [0.2754, 0.5871, 0.0938, 0.0065]
+        },
+        {
+          "text": "27",
+          "translation": "27",
+          "bbox": [0.2588, 0.6018, 0.0074, 0.0057]
+        },
+        {
+          "text": "そんなところに座って、 創世王にでもなるつもりか。",
+          "translation": "Sitting there like that—do you intend to become the Creation King or something?",
+          "bbox": [0.2756, 0.6018, 0.1021, 0.0059]
+        },
+        {
           "text": "28",
           "translation": "28",
           "bbox": [0.2588, 0.6163, 0.0076, 0.0052]
@@ -3234,6 +3051,21 @@
           "bbox": [0.2754, 0.6163, 0.0161, 0.0062]
         },
         {
+          "text": "それは、違う。 親父たちは、 俺たちに、争わせようとしたんじゃない。",
+          "translation": "That's not it. Our fathers didn't intend for us to fight each other.",
+          "bbox": [0.2756, 0.631, 0.1323, 0.0062]
+        },
+        {
+          "text": "29",
+          "translation": "29",
+          "bbox": [0.259, 0.6388, 0.0074, 0.0047]
+        },
+        {
+          "text": "争わない、俺たちだから、選んだ。 ・・・そう思ったら、ダメか?",
+          "translation": "We chose this because we don't fight. ...Is that the wrong way to think?",
+          "bbox": [0.2754, 0.6455, 0.1163, 0.0062]
+        },
+        {
           "text": "30",
           "translation": "30",
           "bbox": [0.2588, 0.6605, 0.0076, 0.0049]
@@ -3242,6 +3074,31 @@
           "text": "俺はお前から奪う物なんて何もない。 だから俺に託せ。",
           "translation": "There is nothing I want to take from you. So, entrust it to me.",
           "bbox": [0.2754, 0.6602, 0.1096, 0.0062]
+        },
+        {
+          "text": "怪人は、人間だ。 誰かと出会って恋をする。 子供だって作る。",
+          "translation": "Monsters are human. They meet people and fall in love. They even have children.",
+          "bbox": [0.2752, 0.6749, 0.1202, 0.0059]
+        },
+        {
+          "text": "31",
+          "translation": "31",
+          "bbox": [0.259, 0.6827, 0.0065, 0.0044]
+        },
+        {
+          "text": "それで生きて、いつか死ぬ。 何も特別なことは無い。",
+          "translation": "You live like that, and someday you die. There is nothing special about it.",
+          "bbox": [0.2756, 0.6897, 0.1037, 0.0059]
+        },
+        {
+          "text": "32",
+          "translation": "32",
+          "bbox": [0.2588, 0.7041, 0.0076, 0.0049]
+        },
+        {
+          "text": "ゆかりが望んだ世界に、嘘は無いと、俺は思ってる。",
+          "translation": "I believe there are no lies in the world Yukari wished for.",
+          "bbox": [0.2757, 0.7041, 0.1008, 0.0062]
         },
         {
           "text": "17",
@@ -3292,6 +3149,31 @@
           "text": "8",
           "translation": "8",
           "bbox": [0.3523, 0.8049, 0.003, 0.0044]
+        },
+        {
+          "text": "変身・攻撃ボタン",
+          "translation": "Transform/Attack Button",
+          "bbox": [0.6133, 0.8044, 0.0395, 0.0072]
+        },
+        {
+          "text": "「ベルト出現音」が鳴り、約30秒間の 「赤外線センサー(左右) 入力受付状態」になります。\n赤外線",
+          "translation": "The 'belt appearance' sound will play, and the unit will enter a state that accepts input from the infrared sensors (left/right) for about 30 seconds.",
+          "bbox": [0.5491, 0.7822, 0.2134, 0.0253]
+        },
+        {
+          "text": "赤外線",
+          "translation": "Infrared rays",
+          "bbox": [0.7543, 0.8, 0.0162, 0.0078]
+        },
+        {
+          "text": "センサー ( 右 )",
+          "translation": "Sensor (Right)",
+          "bbox": [0.5413, 0.8098, 0.0321, 0.0067]
+        },
+        {
+          "text": "センサー (左)",
+          "translation": "Sensor (Left)",
+          "bbox": [0.7462, 0.8096, 0.0319, 0.0072]
         },
         {
           "text": "3",
@@ -3354,9 +3236,19 @@
           "bbox": [0.1493, 0.8912, 0.1462, 0.0075]
         },
         {
-          "text": "4",
-          "translation": "4",
-          "bbox": [0.9769, 0.9729, 0.0042, 0.0047]
+          "text": "2 その後、「仮面ライダーBLACK SUN」 または 「黒殿様飛蝗怪人」 に変身すると、それぞれのタイミングで、スタンバイ回数に応じた上記表のBGMが鳴り始めます。",
+          "translation": "2After that, when you transform into either \"Kamen Rider BLACK SUN\" or \"Black Lord Locust Kaijin,\" the BGM from the table above corresponding to the number of standby tones will begin to play at the appropriate timing.",
+          "bbox": [0.0362, 0.9227, 0.3907, 0.0078]
+        },
+        {
+          "text": "仮面ライダーBLACK SUN 「握り拳ポーズ音&ベルト出現音」のタイミングで鳴り始めます。",
+          "translation": "For Kamen Rider BLACK SUN, it begins at the timing of the 'clenched-fist pose' sound & 'belt appearance' sound.",
+          "bbox": [0.0546, 0.9408, 0.2335, 0.0072]
+        },
+        {
+          "text": "黒殿様飛蝗怪人 「変身音」のタイミングで鳴り始めます。",
+          "translation": "For the Black Lord Locust Kaijin, it begins at the timing of the 'transformation' sound.",
+          "bbox": [0.3101, 0.9406, 0.1462, 0.008]
         }
       ],
       "image": "pages/page-2.webp",
@@ -4214,514 +4106,356 @@
             {
               "id": "p1",
               "kind": "heading",
-              "source_ids": [1]
+              "source_ids": [2]
             },
             {
               "id": "p2",
+              "kind": "heading",
+              "source_ids": [1]
+            },
+            {
+              "id": "p3",
               "kind": "prose",
               "source_ids": [3]
             },
             {
-              "id": "p3",
-              "kind": "heading",
-              "source_ids": [2]
-            },
-            {
               "id": "p4",
-              "kind": "heading",
-              "source_ids": [27]
-            },
-            {
-              "id": "p5",
-              "kind": "prose",
-              "source_ids": [28, 29]
-            },
-            {
-              "id": "p6",
-              "kind": "heading",
-              "source_ids": [31]
-            },
-            {
-              "id": "p7",
-              "kind": "prose",
-              "source_ids": [30, 32]
-            },
-            {
-              "id": "p8",
               "kind": "heading",
               "source_ids": [5]
             },
             {
-              "id": "p9",
+              "id": "p5",
               "kind": "heading",
               "source_ids": [6]
             },
             {
-              "id": "p10",
+              "id": "p6",
               "kind": "prose",
-              "source_ids": [7]
+              "source_ids": [8, 9]
             },
             {
-              "id": "p11",
-              "kind": "prose",
-              "source_ids": [8]
-            },
-            {
-              "id": "p12",
-              "kind": "prose",
-              "source_ids": [9]
-            },
-            {
-              "id": "p13",
-              "kind": "prose",
-              "source_ids": [14]
-            },
-            {
-              "id": "p14",
+              "id": "p7",
               "kind": "prose",
               "source_ids": [15, 22]
             },
             {
-              "id": "p15",
-              "kind": "prose",
-              "source_ids": [16]
-            },
-            {
-              "id": "p16",
+              "id": "p8",
               "kind": "prose",
               "source_ids": [17, 23]
             },
             {
-              "id": "p17",
-              "kind": "prose",
-              "source_ids": [18]
-            },
-            {
-              "id": "p18",
+              "id": "p9",
               "kind": "prose",
               "source_ids": [19, 24]
             },
             {
-              "id": "p19",
-              "kind": "prose",
-              "source_ids": [20]
-            },
-            {
-              "id": "p20",
+              "id": "p10",
               "kind": "prose",
               "source_ids": [25, 21, 26]
             },
             {
-              "id": "p21",
+              "id": "p11",
+              "kind": "heading",
+              "source_ids": [27]
+            },
+            {
+              "id": "p12",
               "kind": "prose",
-              "source_ids": [108]
+              "source_ids": [28, 29]
             },
             {
-              "id": "p22-a",
+              "id": "p13",
               "kind": "heading",
-              "source_ids": [109]
+              "source_ids": [31]
             },
             {
-              "id": "p22-b-a",
-              "kind": "heading",
-              "source_ids": [110]
-            },
-            {
-              "id": "p22-b-b",
-              "kind": "heading",
-              "source_ids": [111]
-            },
-            {
-              "id": "p23",
+              "id": "p14",
               "kind": "prose",
-              "source_ids": [112]
+              "source_ids": [30, 32]
             },
             {
-              "id": "p24",
+              "id": "p15",
               "kind": "heading",
               "source_ids": [33]
             },
             {
-              "id": "p25",
+              "id": "p16",
               "kind": "prose",
               "source_ids": [34]
             },
             {
-              "id": "p26-a-a-a-a-a",
+              "id": "p17-a-a-a-a-a",
               "kind": "prose",
               "source_ids": [35]
             },
             {
-              "id": "p26-a-a-a-a-b",
+              "id": "p17-a-a-a-a-b",
               "kind": "prose",
               "source_ids": [37]
             },
             {
-              "id": "p26-a-a-a-b-a",
+              "id": "p17-a-a-a-b-a",
               "kind": "prose",
               "source_ids": [38]
             },
             {
-              "id": "p26-a-a-a-b-b",
+              "id": "p17-a-a-a-b-b",
               "kind": "prose",
               "source_ids": [41]
             },
             {
-              "id": "p26-a-a-b-a",
-              "kind": "prose",
-              "source_ids": [42, 45]
-            },
-            {
-              "id": "p26-a-a-b-b-a",
+              "id": "p17-a-a-b-b-a",
               "kind": "prose",
               "source_ids": [48]
             },
             {
-              "id": "p26-a-a-b-b-b-a",
+              "id": "p17-a-a-b-b-b-a",
               "kind": "prose",
               "source_ids": [49]
             },
             {
-              "id": "p26-a-a-b-b-b-b",
+              "id": "p17-a-a-b-b-b-b",
               "kind": "prose",
               "source_ids": [52]
             },
             {
-              "id": "p26-a-b-a-a",
+              "id": "p17-a-b-a-a",
               "kind": "prose",
               "source_ids": [53, 56]
             },
             {
-              "id": "p26-a-b-a-b-a",
+              "id": "p17-a-b-a-b-a",
               "kind": "prose",
               "source_ids": [59]
             },
             {
-              "id": "p26-a-b-a-b-b",
+              "id": "p17-a-b-a-b-b",
               "kind": "prose",
               "source_ids": [60]
             },
             {
-              "id": "p26-a-b-b-a-a",
+              "id": "p17-a-b-b-a-a",
               "kind": "prose",
               "source_ids": [63]
             },
             {
-              "id": "p26-a-b-b-a-b",
+              "id": "p17-a-b-b-a-b",
               "kind": "prose",
               "source_ids": [64]
             },
             {
-              "id": "p26-a-b-b-b-a",
+              "id": "p17-a-b-b-b-a",
               "kind": "prose",
               "source_ids": [67]
             },
             {
-              "id": "p26-a-b-b-b-b-a",
+              "id": "p17-a-b-b-b-b-a",
               "kind": "prose",
               "source_ids": [68]
             },
             {
-              "id": "p26-a-b-b-b-b-b",
+              "id": "p17-a-b-b-b-b-b",
               "kind": "prose",
               "source_ids": [70]
             },
             {
-              "id": "p26-b-a-a-a-a",
+              "id": "p17-b-a-a-a-a",
               "kind": "prose",
               "source_ids": [71]
             },
             {
-              "id": "p26-b-a-a-a-b",
+              "id": "p17-b-a-a-a-b",
               "kind": "prose",
               "source_ids": [74]
             },
             {
-              "id": "p26-b-a-a-b-a",
+              "id": "p17-b-a-a-b-a",
               "kind": "prose",
               "source_ids": [75]
             },
             {
-              "id": "p26-b-a-a-b-b",
+              "id": "p17-b-a-a-b-b",
               "kind": "prose",
               "source_ids": [78]
             },
             {
-              "id": "p26-b-a-b-a-a",
+              "id": "p17-b-a-b-a-a",
               "kind": "prose",
               "source_ids": [79]
             },
             {
-              "id": "p26-b-a-b-a-b",
+              "id": "p17-b-a-b-a-b",
               "kind": "prose",
               "source_ids": [82]
             },
             {
-              "id": "p26-b-a-b-b-a",
+              "id": "p17-b-a-b-b-a",
               "kind": "prose",
               "source_ids": [83]
             },
             {
-              "id": "p26-b-a-b-b-b-a",
+              "id": "p17-b-a-b-b-b-a",
               "kind": "prose",
               "source_ids": [86]
             },
             {
-              "id": "p26-b-a-b-b-b-b",
+              "id": "p17-b-a-b-b-b-b",
               "kind": "prose",
               "source_ids": [87]
             },
             {
-              "id": "p26-b-b-a-a-a",
+              "id": "p17-b-b-a-a-a",
               "kind": "prose",
               "source_ids": [89]
             },
             {
-              "id": "p26-b-b-a-a-b",
+              "id": "p17-b-b-a-a-b",
               "kind": "prose",
               "source_ids": [90]
             },
             {
-              "id": "p26-b-b-a-b-a",
+              "id": "p17-b-b-a-b-a",
               "kind": "prose",
               "source_ids": [93]
             },
             {
-              "id": "p26-b-b-a-b-b-a",
+              "id": "p17-b-b-a-b-b-a",
               "kind": "prose",
               "source_ids": [94]
             },
             {
-              "id": "p26-b-b-a-b-b-b",
+              "id": "p17-b-b-a-b-b-b",
               "kind": "prose",
               "source_ids": [97]
             },
             {
-              "id": "p26-b-b-b-a-a",
+              "id": "p17-b-b-b-a-a",
               "kind": "prose",
               "source_ids": [98]
             },
             {
-              "id": "p26-b-b-b-a-b",
+              "id": "p17-b-b-b-a-b",
               "kind": "prose",
               "source_ids": [100]
             },
             {
-              "id": "p26-b-b-b-b-a",
+              "id": "p17-b-b-b-b-a",
               "kind": "prose",
               "source_ids": [101]
             },
             {
-              "id": "p27-a-a-a-a-a",
+              "id": "p18",
               "kind": "prose",
-              "source_ids": [36]
+              "source_ids": [108]
             },
             {
-              "id": "p27-a-a-a-a-b",
-              "kind": "prose",
-              "source_ids": [39]
-            },
-            {
-              "id": "p27-a-a-a-b-a",
-              "kind": "prose",
-              "source_ids": [40]
-            },
-            {
-              "id": "p27-a-a-a-b-b",
-              "kind": "prose",
-              "source_ids": [43]
-            },
-            {
-              "id": "p27-a-a-b-a-a",
-              "kind": "prose",
-              "source_ids": [44]
-            },
-            {
-              "id": "p27-a-a-b-a-b",
-              "kind": "prose",
-              "source_ids": [46]
-            },
-            {
-              "id": "p27-a-a-b-b-a",
-              "kind": "prose",
-              "source_ids": [47]
-            },
-            {
-              "id": "p27-a-b-b-b-a",
-              "kind": "prose",
-              "source_ids": [65]
-            },
-            {
-              "id": "p27-a-b-b-b-b-a",
-              "kind": "prose",
-              "source_ids": [66]
-            },
-            {
-              "id": "p27-a-b-b-b-b-b",
-              "kind": "prose",
-              "source_ids": [69]
-            },
-            {
-              "id": "p27-b-a-a-a-a",
-              "kind": "prose",
-              "source_ids": [72]
-            },
-            {
-              "id": "p27-b-a-a-a-b",
-              "kind": "prose",
-              "source_ids": [73]
-            },
-            {
-              "id": "p27-b-a-a-b-a",
-              "kind": "prose",
-              "source_ids": [76]
-            },
-            {
-              "id": "p27-b-a-a-b-b",
-              "kind": "prose",
-              "source_ids": [77]
-            },
-            {
-              "id": "p27-b-a-b-b-a",
-              "kind": "prose",
-              "source_ids": [84]
-            },
-            {
-              "id": "p27-b-a-b-b-b-a",
-              "kind": "prose",
-              "source_ids": [85]
-            },
-            {
-              "id": "p27-b-a-b-b-b-b",
-              "kind": "prose",
-              "source_ids": [88]
-            },
-            {
-              "id": "p27-b-b-a-b-a",
-              "kind": "prose",
-              "source_ids": [95]
-            },
-            {
-              "id": "p27-b-b-a-b-b",
-              "kind": "prose",
-              "source_ids": [96]
-            },
-            {
-              "id": "p27-b-b-b-a-a",
-              "kind": "prose",
-              "source_ids": [99]
-            },
-            {
-              "id": "p27-b-b-b-a-b",
-              "kind": "prose",
-              "source_ids": [102]
-            },
-            {
-              "id": "p27-b-b-b-b-a",
-              "kind": "prose",
-              "source_ids": [103]
-            },
-            {
-              "id": "p28",
+              "id": "p19-a",
               "kind": "heading",
-              "source_ids": [114]
+              "source_ids": [109]
             },
             {
-              "id": "p29",
-              "kind": "prose",
-              "source_ids": [126, 137]
-            },
-            {
-              "id": "p30",
-              "kind": "prose",
-              "source_ids": [116, 123, 128, 139, 143, 150, 156]
-            },
-            {
-              "id": "p31",
-              "kind": "prose",
-              "source_ids": [118, 125, 130, 141, 145, 152, 158]
-            },
-            {
-              "id": "p32",
-              "kind": "prose",
-              "source_ids": [147]
-            },
-            {
-              "id": "p33",
+              "id": "p19-b-a",
               "kind": "heading",
-              "source_ids": [159]
+              "source_ids": [110]
             },
             {
-              "id": "p34",
+              "id": "p19-b-b",
+              "kind": "heading",
+              "source_ids": [111]
+            },
+            {
+              "id": "p20",
               "kind": "prose",
-              "source_ids": [162]
+              "source_ids": [112]
             },
             {
-              "id": "p35",
-              "kind": "prose",
-              "source_ids": [163, 165, 164]
-            },
-            {
-              "id": "p37",
+              "id": "p21",
               "kind": "heading",
               "source_ids": [113]
             },
             {
-              "id": "p38",
-              "kind": "prose",
-              "source_ids": [120]
+              "id": "p22",
+              "kind": "heading",
+              "source_ids": [114]
             },
             {
-              "id": "p39",
+              "id": "p23",
               "kind": "prose",
-              "source_ids": [119, 132, 134, 131, 136, 135]
+              "source_ids": [126, 137]
             },
             {
-              "id": "p40",
+              "id": "p24",
               "kind": "prose",
-              "source_ids": [121]
+              "source_ids": [125]
             },
             {
-              "id": "p41",
+              "id": "p25",
+              "kind": "prose",
+              "source_ids": [147]
+            },
+            {
+              "id": "p26",
+              "kind": "heading",
+              "source_ids": [159]
+            },
+            {
+              "id": "p27",
+              "kind": "prose",
+              "source_ids": [162]
+            },
+            {
+              "id": "p29-native-a",
+              "kind": "prose",
+              "source_ids": [119]
+            },
+            {
+              "id": "p30-native-a-native-a",
               "kind": "prose",
               "source_ids": [133]
             },
             {
-              "id": "p42",
+              "id": "p30-native-a-native-b",
               "kind": "prose",
               "source_ids": [146, 153, 167]
             },
             {
-              "id": "p43",
+              "id": "p31",
               "kind": "prose",
               "source_ids": [166]
             }
           ],
           "furigana": [],
           "notes": [
-            "Diagram labels, switch labels, captions, product labels, and page numbers were left ungrouped.",
-            "Conservative panel fallback: Panel p35 would mask unrelated source 164",
-            "Panel p26-b-b-b-b-b retained original English after failed automatic checks",
-            "Panel p27-a-a-b-b-b retained original English after failed automatic checks",
-            "Panel p27-a-b-a-a retained original English after failed automatic checks",
-            "Panel p27-a-b-a-b retained original English after failed automatic checks",
-            "Panel p27-a-b-b-a retained original English after failed automatic checks",
-            "Panel p27-b-a-b-a retained original English after failed automatic checks",
-            "Panel p27-b-b-a-a retained original English after failed automatic checks",
-            "Panel p27-b-b-b-b-b retained original English after failed automatic checks"
+            "Source 154 appears to be a corrupted/uncertain table-number artifact and is left ungrouped.",
+            "Conservative panel fallback: Panel p29 would mask native artwork 120",
+            "Retained p29-native-b unchanged: Panel p29-native-b would mask native artwork 120",
+            "Panel p17-a-a-b-a retained original English after failed automatic checks",
+            "Panel p17-b-b-b-b-b retained original English after failed automatic checks",
+            "Panel p28 retained original English after failed automatic checks"
+          ],
+          "native_artwork": [
+            0, 7, 12, 13, 14, 16, 18, 20, 116, 118, 120, 121, 123, 128, 130, 139, 141, 143, 145,
+            150, 152, 156, 158, 168
           ]
         },
         "mapping": [
           {
             "display_index": 0,
             "panel_id": "p1",
+            "source_ids": [2],
+            "furigana_ids": [],
+            "japanese_items": ["電源の入れ方 : 起動時のモード選択"]
+          },
+          {
+            "display_index": 1,
+            "panel_id": "p2",
             "source_ids": [1],
             "furigana_ids": [],
             "japanese_items": ["△ 注意"]
           },
           {
-            "display_index": 1,
-            "panel_id": "p2",
+            "display_index": 2,
+            "panel_id": "p3",
             "source_ids": [3],
             "furigana_ids": [],
             "japanese_items": [
@@ -4730,99 +4464,32 @@
             ]
           },
           {
-            "display_index": 2,
-            "panel_id": "p3",
-            "source_ids": [2],
-            "furigana_ids": [],
-            "japanese_items": ["電源の入れ方 : 起動時のモード選択"]
-          },
-          {
             "display_index": 3,
             "panel_id": "p4",
-            "source_ids": [27],
-            "furigana_ids": [],
-            "japanese_items": ["通常モード"]
-          },
-          {
-            "display_index": 4,
-            "panel_id": "p5",
-            "source_ids": [28, 29],
-            "furigana_ids": [],
-            "japanese_items": [
-              "裏面の電源をONにします。",
-              "「ベルト出現音」が鳴り、可動部が自動変形し、「通常モード」として起動します。"
-            ]
-          },
-          {
-            "display_index": 5,
-            "panel_id": "p6",
-            "source_ids": [31],
-            "furigana_ids": [],
-            "japanese_items": ["台詞モード"]
-          },
-          {
-            "display_index": 6,
-            "panel_id": "p7",
-            "source_ids": [30, 32],
-            "furigana_ids": [],
-            "japanese_items": [
-              "「台詞ボタン」を押しながら、裏面の電源をONにします。",
-              "南光太郎の「変身!」の台詞が鳴り、可動部が自動変形し、「台詞モード」として起動します。",
-              "台詞モードでは、変身ポーズ音や各種攻撃音に南光太郎の台詞が付加されます。"
-            ]
-          },
-          {
-            "display_index": 7,
-            "panel_id": "p8",
             "source_ids": [5],
             "furigana_ids": [],
             "japanese_items": ["変身遊び"]
           },
           {
-            "display_index": 8,
-            "panel_id": "p9",
+            "display_index": 4,
+            "panel_id": "p5",
             "source_ids": [6],
             "furigana_ids": [],
             "japanese_items": ["仮面ライダーBLACK SUNへの変身"]
           },
           {
-            "display_index": 9,
-            "panel_id": "p10",
-            "source_ids": [7],
-            "furigana_ids": [],
-            "japanese_items": ["1"]
-          },
-          {
-            "display_index": 10,
-            "panel_id": "p11",
-            "source_ids": [8],
+            "display_index": 5,
+            "panel_id": "p6",
+            "source_ids": [8, 9],
             "furigana_ids": [],
             "japanese_items": [
-              "<変身前状態>で「変身・攻撃ボタン」を短押しします。",
-              "少しの間の後、「握り拳ポーズ音&ベルト出現音」が鳴り、",
-              "約30秒間の「赤外線センサー(左) 入力受付状態」になります。"
+              "<変身前状態>で 「変身・攻撃ボタン」を短押しします。少しの間の後、 「握り拳ポーズ音&ベルト出現音」が鳴り、約30秒間の 「赤外線センサー(左) 入力受付状態」になります。",
+              "※「赤外線センサー入力受付状態」は、「天面の2つのボタンいずれかを押す」 または 「30秒経過する」ことで、「キャンセル音」とともに解除されます。また、この状態中はBGMボタンは機能しません。"
             ]
           },
           {
-            "display_index": 11,
-            "panel_id": "p12",
-            "source_ids": [9],
-            "furigana_ids": [],
-            "japanese_items": [
-              "※「赤外線センサー入力受付状態」は、「天面の2つのボタンいずれかを押す」または「30秒経過する」ことで、「キャンセル音」とともに解除されます。",
-              "また、この状態中はBGMボタンは機能しません。"
-            ]
-          },
-          {
-            "display_index": 12,
-            "panel_id": "p13",
-            "source_ids": [14],
-            "furigana_ids": [],
-            "japanese_items": ["2"]
-          },
-          {
-            "display_index": 13,
-            "panel_id": "p14",
+            "display_index": 6,
+            "panel_id": "p7",
             "source_ids": [15, 22],
             "furigana_ids": [],
             "japanese_items": [
@@ -4831,159 +4498,118 @@
             ]
           },
           {
-            "display_index": 14,
-            "panel_id": "p15",
-            "source_ids": [16],
-            "furigana_ids": [],
-            "japanese_items": ["3"]
-          },
-          {
-            "display_index": 15,
-            "panel_id": "p16",
+            "display_index": 7,
+            "panel_id": "p8",
             "source_ids": [17, 23],
             "furigana_ids": [],
             "japanese_items": [
-              "赤外線センサー（左）から手を離します。",
+              "赤外線センサー (左)から手を離します。",
               "「変身ポーズ音2」が鳴ります。"
             ]
           },
           {
-            "display_index": 16,
-            "panel_id": "p17",
-            "source_ids": [18],
-            "furigana_ids": [],
-            "japanese_items": ["4"]
-          },
-          {
-            "display_index": 17,
-            "panel_id": "p18",
+            "display_index": 8,
+            "panel_id": "p9",
             "source_ids": [19, 24],
             "furigana_ids": [],
             "japanese_items": ["赤外線センサー(左)に再び手をかざします。", "音声は鳴りません。"]
           },
           {
-            "display_index": 18,
-            "panel_id": "p19",
-            "source_ids": [20],
-            "furigana_ids": [],
-            "japanese_items": ["5"]
-          },
-          {
-            "display_index": 19,
-            "panel_id": "p20",
+            "display_index": 9,
+            "panel_id": "p10",
             "source_ids": [25, 21, 26],
             "furigana_ids": [],
             "japanese_items": [
-              "赤外線センサー(左)から再び手を離します。",
-              "「変身ポーズ音3」が鳴り、続けて「仮面ライダーBLACK SUN変身音」が鳴り、ベルトが発光・変形します。"
+              "赤外線センサー（左）から再び手を離します。『変身ポーズ音3』が鳴り、続けて『仮面ライダーBLACK SUN変身音』が鳴り、ベルトが発光・変形します。"
             ]
           },
           {
-            "display_index": 20,
-            "panel_id": "p21",
-            "source_ids": [108],
+            "display_index": 10,
+            "panel_id": "p11",
+            "source_ids": [27],
+            "furigana_ids": [],
+            "japanese_items": ["通常モード"]
+          },
+          {
+            "display_index": 11,
+            "panel_id": "p12",
+            "source_ids": [28, 29],
             "furigana_ids": [],
             "japanese_items": [
-              "※「台詞モード」の場合、3で「変･･･」、5で「身!」の台詞が一緒に鳴ります。",
-              "※ベルトの発光は、変身後に1分間継続します。"
+              "裏面の電源をONにします。",
+              "「ベルト出現音」が鳴り、可動部が自動変形し、 「通常モード」として起動します。"
             ]
           },
           {
-            "display_index": 21,
-            "panel_id": "p22-a",
-            "source_ids": [109],
+            "display_index": 12,
+            "panel_id": "p13",
+            "source_ids": [31],
             "furigana_ids": [],
-            "japanese_items": ["A"]
+            "japanese_items": ["台詞モード"]
           },
           {
-            "display_index": 22,
-            "panel_id": "p22-b-a",
-            "source_ids": [110],
-            "furigana_ids": [],
-            "japanese_items": ["自動変形"]
-          },
-          {
-            "display_index": 23,
-            "panel_id": "p22-b-b",
-            "source_ids": [111],
-            "furigana_ids": [],
-            "japanese_items": ["の注意点"]
-          },
-          {
-            "display_index": 24,
-            "panel_id": "p23",
-            "source_ids": [112],
+            "display_index": 13,
+            "panel_id": "p14",
+            "source_ids": [30, 32],
             "furigana_ids": [],
             "japanese_items": [
-              "自動変形の途中に動きを妨げると、安全性の確保のため、自動変形が停止します。その場合、一度変身解除をするか電源を入れ直して、変身前の開いた状態に戻してください。",
-              "メーターの針の停止位置は多少のばらつき・ブレがございます。",
-              "可動部分のスピードやメーターの針の動きは、電池の消費状況によって変わりますのでご注意ください。",
-              "赤外線センサーは、太陽光の下や、太陽光が入り込む屋内ではうまく反応しません。太陽光の当たらない屋内でお遊びください。",
-              "赤外線センサーの反応距離は、可動部(左上・右上)のパーツに手が乗るくらいの距離になります。反応が悪いときは、手をさらに赤外線センサーに近づけてください。"
+              "「台詞ボタン」を押しながら、裏面の電源をONにします。",
+              "南光太郎の「変身!」の台詞が鳴り、可動部が自動変形し、 「台詞モード」として起動します。",
+              "台詞モードでは、変身ポーズ音や各種攻撃音に南光太郎の台詞が付加されます。"
             ]
           },
           {
-            "display_index": 25,
-            "panel_id": "p24",
+            "display_index": 14,
+            "panel_id": "p15",
             "source_ids": [33],
             "furigana_ids": [],
             "japanese_items": ["台詞再生遊び"]
           },
           {
-            "display_index": 26,
-            "panel_id": "p25",
+            "display_index": 15,
+            "panel_id": "p16",
             "source_ids": [34],
             "furigana_ids": [],
             "japanese_items": ["「台詞ボタン」を短押しします。 下記表の台詞が順番に鳴ります。"]
           },
           {
-            "display_index": 27,
-            "panel_id": "p26-a-a-a-a-a",
+            "display_index": 16,
+            "panel_id": "p17-a-a-a-a-a",
             "source_ids": [35],
             "furigana_ids": [],
             "japanese_items": ["台詞"]
           },
           {
-            "display_index": 28,
-            "panel_id": "p26-a-a-a-a-b",
+            "display_index": 17,
+            "panel_id": "p17-a-a-a-a-b",
             "source_ids": [37],
             "furigana_ids": [],
             "japanese_items": ["1"]
           },
           {
-            "display_index": 29,
-            "panel_id": "p26-a-a-a-b-a",
+            "display_index": 18,
+            "panel_id": "p17-a-a-a-b-a",
             "source_ids": [38],
             "furigana_ids": [],
             "japanese_items": ["信彦･･･。"]
           },
           {
-            "display_index": 30,
-            "panel_id": "p26-a-a-a-b-b",
+            "display_index": 19,
+            "panel_id": "p17-a-a-a-b-b",
             "source_ids": [41],
             "furigana_ids": [],
             "japanese_items": ["2"]
           },
           {
-            "display_index": 31,
-            "panel_id": "p26-a-a-b-a",
-            "source_ids": [42, 45],
-            "furigana_ids": [],
-            "japanese_items": [
-              "気が済んだか。 帰るぞ。",
-              "力じゃ勝てない。 まずは俺の指を剥がして折れ。 次に足の甲を踵で踏みつけろ。"
-            ]
-          },
-          {
-            "display_index": 32,
-            "panel_id": "p26-a-a-b-b-a",
+            "display_index": 20,
+            "panel_id": "p17-a-a-b-b-a",
             "source_ids": [48],
             "furigana_ids": [],
             "japanese_items": ["3"]
           },
           {
-            "display_index": 33,
-            "panel_id": "p26-a-a-b-b-b-a",
+            "display_index": 21,
+            "panel_id": "p17-a-a-b-b-b-a",
             "source_ids": [49],
             "furigana_ids": [],
             "japanese_items": [
@@ -4993,15 +4619,15 @@
             ]
           },
           {
-            "display_index": 34,
-            "panel_id": "p26-a-a-b-b-b-b",
+            "display_index": 22,
+            "panel_id": "p17-a-a-b-b-b-b",
             "source_ids": [52],
             "furigana_ids": [],
             "japanese_items": ["4"]
           },
           {
-            "display_index": 35,
-            "panel_id": "p26-a-b-a-a",
+            "display_index": 23,
+            "panel_id": "p17-a-b-a-a",
             "source_ids": [53, 56],
             "furigana_ids": [],
             "japanese_items": [
@@ -5010,43 +4636,43 @@
             ]
           },
           {
-            "display_index": 36,
-            "panel_id": "p26-a-b-a-b-a",
+            "display_index": 24,
+            "panel_id": "p17-a-b-a-b-a",
             "source_ids": [59],
             "furigana_ids": [],
             "japanese_items": ["5"]
           },
           {
-            "display_index": 37,
-            "panel_id": "p26-a-b-a-b-b",
+            "display_index": 25,
+            "panel_id": "p17-a-b-a-b-b",
             "source_ids": [60],
             "furigana_ids": [],
             "japanese_items": ["新しい創世王が生まれても、同じことを繰り返すだけだ。"]
           },
           {
-            "display_index": 38,
-            "panel_id": "p26-a-b-b-a-a",
+            "display_index": 26,
+            "panel_id": "p17-a-b-b-a-a",
             "source_ids": [63],
             "furigana_ids": [],
             "japanese_items": ["6"]
           },
           {
-            "display_index": 39,
-            "panel_id": "p26-a-b-b-a-b",
+            "display_index": 27,
+            "panel_id": "p17-a-b-b-a-b",
             "source_ids": [64],
             "furigana_ids": [],
-            "japanese_items": ["怪人がこの世界からいなくなる。", "それで十分だろ。"]
+            "japanese_items": ["怪人がこの世界からいなくなる。 それで十分だろ。"]
           },
           {
-            "display_index": 40,
-            "panel_id": "p26-a-b-b-b-a",
+            "display_index": 28,
+            "panel_id": "p17-a-b-b-b-a",
             "source_ids": [67],
             "furigana_ids": [],
             "japanese_items": ["7"]
           },
           {
-            "display_index": 41,
-            "panel_id": "p26-a-b-b-b-b-a",
+            "display_index": 29,
+            "panel_id": "p17-a-b-b-b-b-a",
             "source_ids": [68],
             "furigana_ids": [],
             "japanese_items": [
@@ -5054,43 +4680,46 @@
             ]
           },
           {
-            "display_index": 42,
-            "panel_id": "p26-a-b-b-b-b-b",
+            "display_index": 30,
+            "panel_id": "p17-a-b-b-b-b-b",
             "source_ids": [70],
             "furigana_ids": [],
             "japanese_items": ["8"]
           },
           {
-            "display_index": 43,
-            "panel_id": "p26-b-a-a-a-a",
+            "display_index": 31,
+            "panel_id": "p17-b-a-a-a-a",
             "source_ids": [71],
             "furigana_ids": [],
             "japanese_items": ["あの時はここで止められたよな!"]
           },
           {
-            "display_index": 44,
-            "panel_id": "p26-b-a-a-a-b",
+            "display_index": 32,
+            "panel_id": "p17-b-a-a-a-b",
             "source_ids": [74],
             "furigana_ids": [],
             "japanese_items": ["9"]
           },
           {
-            "display_index": 45,
-            "panel_id": "p26-b-a-a-b-a",
+            "display_index": 33,
+            "panel_id": "p17-b-a-a-b-a",
             "source_ids": [75],
             "furigana_ids": [],
-            "japanese_items": ["あのキングストーンは、あいつの物だ。俺らが奪っていいもんじゃない。"]
+            "japanese_items": [
+              "あのキングストーンは、あいつの物だ。",
+              "俺らが奪っていいもんじゃない。"
+            ]
           },
           {
-            "display_index": 46,
-            "panel_id": "p26-b-a-a-b-b",
+            "display_index": 34,
+            "panel_id": "p17-b-a-a-b-b",
             "source_ids": [78],
             "furigana_ids": [],
             "japanese_items": ["10"]
           },
           {
-            "display_index": 47,
-            "panel_id": "p26-b-a-b-a-a",
+            "display_index": 35,
+            "panel_id": "p17-b-a-b-a-a",
             "source_ids": [79],
             "furigana_ids": [],
             "japanese_items": [
@@ -5098,363 +4727,198 @@
             ]
           },
           {
-            "display_index": 48,
-            "panel_id": "p26-b-a-b-a-b",
+            "display_index": 36,
+            "panel_id": "p17-b-a-b-a-b",
             "source_ids": [82],
             "furigana_ids": [],
             "japanese_items": ["11"]
           },
           {
-            "display_index": 49,
-            "panel_id": "p26-b-a-b-b-a",
+            "display_index": 37,
+            "panel_id": "p17-b-a-b-b-a",
             "source_ids": [83],
             "furigana_ids": [],
             "japanese_items": ["まさか･･･ 葵なのか...。"]
           },
           {
-            "display_index": 50,
-            "panel_id": "p26-b-a-b-b-b-a",
+            "display_index": 38,
+            "panel_id": "p17-b-a-b-b-b-a",
             "source_ids": [86],
             "furigana_ids": [],
             "japanese_items": ["12"]
           },
           {
-            "display_index": 51,
-            "panel_id": "p26-b-a-b-b-b-b",
+            "display_index": 39,
+            "panel_id": "p17-b-a-b-b-b-b",
             "source_ids": [87],
             "furigana_ids": [],
             "japanese_items": ["信彦、そいつは俺がやる。", "いいからどけ!"]
           },
           {
-            "display_index": 52,
-            "panel_id": "p26-b-b-a-a-a",
+            "display_index": 40,
+            "panel_id": "p17-b-b-a-a-a",
             "source_ids": [89],
             "furigana_ids": [],
             "japanese_items": ["13"]
           },
           {
-            "display_index": 53,
-            "panel_id": "p26-b-b-a-a-b",
+            "display_index": 41,
+            "panel_id": "p17-b-b-a-a-b",
             "source_ids": [90],
             "furigana_ids": [],
             "japanese_items": ["よくも葵を、怪人に･･･。許さん!"]
           },
           {
-            "display_index": 54,
-            "panel_id": "p26-b-b-a-b-a",
+            "display_index": 42,
+            "panel_id": "p17-b-b-a-b-a",
             "source_ids": [93],
             "furigana_ids": [],
             "japanese_items": ["14"]
           },
           {
-            "display_index": 55,
-            "panel_id": "p26-b-b-a-b-b-a",
+            "display_index": 43,
+            "panel_id": "p17-b-b-a-b-b-a",
             "source_ids": [94],
             "furigana_ids": [],
-            "japanese_items": ["葵 !!"]
+            "japanese_items": ["葵!!"]
           },
           {
-            "display_index": 56,
-            "panel_id": "p26-b-b-a-b-b-b",
+            "display_index": 44,
+            "panel_id": "p17-b-b-a-b-b-b",
             "source_ids": [97],
             "furigana_ids": [],
             "japanese_items": ["15"]
           },
           {
-            "display_index": 57,
-            "panel_id": "p26-b-b-b-a-a",
+            "display_index": 45,
+            "panel_id": "p17-b-b-b-a-a",
             "source_ids": [98],
             "furigana_ids": [],
-            "japanese_items": ["生きて戦え。 戦い方を教えたはずだ。"]
+            "japanese_items": ["生きて戦え。", "戦い方を教えたはずだ。"]
           },
           {
-            "display_index": 58,
-            "panel_id": "p26-b-b-b-a-b",
+            "display_index": 46,
+            "panel_id": "p17-b-b-b-a-b",
             "source_ids": [100],
             "furigana_ids": [],
             "japanese_items": ["16"]
           },
           {
-            "display_index": 59,
-            "panel_id": "p26-b-b-b-b-a",
+            "display_index": 47,
+            "panel_id": "p17-b-b-b-b-a",
             "source_ids": [101],
             "furigana_ids": [],
             "japanese_items": ["必ず帰る。", "あの村で待ってろ。"]
           },
           {
-            "display_index": 60,
-            "panel_id": "p27-a-a-a-a-a",
-            "source_ids": [36],
-            "furigana_ids": [],
-            "japanese_items": ["台詞"]
-          },
-          {
-            "display_index": 61,
-            "panel_id": "p27-a-a-a-a-b",
-            "source_ids": [39],
-            "furigana_ids": [],
-            "japanese_items": ["18"]
-          },
-          {
-            "display_index": 62,
-            "panel_id": "p27-a-a-a-b-a",
-            "source_ids": [40],
-            "furigana_ids": [],
-            "japanese_items": ["創世王の奪い合いがしたいなら、俺もそうする。"]
-          },
-          {
-            "display_index": 63,
-            "panel_id": "p27-a-a-a-b-b",
-            "source_ids": [43],
-            "furigana_ids": [],
-            "japanese_items": ["19"]
-          },
-          {
-            "display_index": 64,
-            "panel_id": "p27-a-a-b-a-a",
-            "source_ids": [44],
-            "furigana_ids": [],
-            "japanese_items": ["50年前とは違う。•••今日こそ、俺が終わらせる・・・!"]
-          },
-          {
-            "display_index": 65,
-            "panel_id": "p27-a-a-b-a-b",
-            "source_ids": [46],
-            "furigana_ids": [],
-            "japanese_items": ["20"]
-          },
-          {
-            "display_index": 66,
-            "panel_id": "p27-a-a-b-b-a",
-            "source_ids": [47],
-            "furigana_ids": [],
-            "japanese_items": ["これでもう･･･お終いだ。"]
-          },
-          {
-            "display_index": 67,
-            "panel_id": "p27-a-b-b-b-a",
-            "source_ids": [65],
-            "furigana_ids": [],
-            "japanese_items": ["俺も、受け継いでるんだよ。 50年前の俺が、 ずっと見張ってる。"]
-          },
-          {
-            "display_index": 68,
-            "panel_id": "p27-a-b-b-b-b-a",
-            "source_ids": [66],
-            "furigana_ids": [],
-            "japanese_items": ["25"]
-          },
-          {
-            "display_index": 69,
-            "panel_id": "p27-a-b-b-b-b-b",
-            "source_ids": [69],
-            "furigana_ids": [],
-            "japanese_items": ["これが最後の戦いだ。"]
-          },
-          {
-            "display_index": 70,
-            "panel_id": "p27-b-a-a-a-a",
-            "source_ids": [72],
-            "furigana_ids": [],
-            "japanese_items": ["26"]
-          },
-          {
-            "display_index": 71,
-            "panel_id": "p27-b-a-a-a-b",
-            "source_ids": [73],
-            "furigana_ids": [],
-            "japanese_items": ["敗北の意味だ。俺がダメだったら、次を頼む。"]
-          },
-          {
-            "display_index": 72,
-            "panel_id": "p27-b-a-a-b-a",
-            "source_ids": [76],
-            "furigana_ids": [],
-            "japanese_items": ["27"]
-          },
-          {
-            "display_index": 73,
-            "panel_id": "p27-b-a-a-b-b",
-            "source_ids": [77],
-            "furigana_ids": [],
-            "japanese_items": ["そんなところに座って、創世王にでもなるつもりか。"]
-          },
-          {
-            "display_index": 74,
-            "panel_id": "p27-b-a-b-b-a",
-            "source_ids": [84],
-            "furigana_ids": [],
-            "japanese_items": ["それは、違う。親父たちは、俺たちに、争わせようとしたんじゃない。"]
-          },
-          {
-            "display_index": 75,
-            "panel_id": "p27-b-a-b-b-b-a",
-            "source_ids": [85],
-            "furigana_ids": [],
-            "japanese_items": ["29"]
-          },
-          {
-            "display_index": 76,
-            "panel_id": "p27-b-a-b-b-b-b",
-            "source_ids": [88],
-            "furigana_ids": [],
-            "japanese_items": ["争わない、俺たちだから、選んだ。", "・・・そう思ったら、ダメか?"]
-          },
-          {
-            "display_index": 77,
-            "panel_id": "p27-b-b-a-b-a",
-            "source_ids": [95],
-            "furigana_ids": [],
-            "japanese_items": ["怪人は、人間だ。", "誰かと出会って恋をする。", "子供だって作る。"]
-          },
-          {
-            "display_index": 78,
-            "panel_id": "p27-b-b-a-b-b",
-            "source_ids": [96],
-            "furigana_ids": [],
-            "japanese_items": ["31"]
-          },
-          {
-            "display_index": 79,
-            "panel_id": "p27-b-b-b-a-a",
-            "source_ids": [99],
-            "furigana_ids": [],
-            "japanese_items": ["それで生きて、いつか死ぬ。 何も特別なことは無い。"]
-          },
-          {
-            "display_index": 80,
-            "panel_id": "p27-b-b-b-a-b",
-            "source_ids": [102],
-            "furigana_ids": [],
-            "japanese_items": ["32"]
-          },
-          {
-            "display_index": 81,
-            "panel_id": "p27-b-b-b-b-a",
-            "source_ids": [103],
-            "furigana_ids": [],
-            "japanese_items": ["ゆかりが望んだ世界に、嘘は無いと、俺は思ってる。"]
-          },
-          {
-            "display_index": 82,
-            "panel_id": "p28",
-            "source_ids": [114],
-            "furigana_ids": [],
-            "japanese_items": ["BGM再生遊び"]
-          },
-          {
-            "display_index": 83,
-            "panel_id": "p29",
-            "source_ids": [126, 137],
+            "display_index": 48,
+            "panel_id": "p18",
+            "source_ids": [108],
             "furigana_ids": [],
             "japanese_items": [
-              "「BGMボタン」を短押しします。",
-              "→右記表の「BGM」が順番に鳴ります。"
+              "※「台詞モード」の場合、3で「変･･･」、5で「身!」の台詞が一緒に鳴ります。",
+              "※ベルトの発光は、変身後に1分間継続します。"
             ]
           },
           {
-            "display_index": 84,
-            "panel_id": "p30",
-            "source_ids": [116, 123, 128, 139, 143, 150, 156],
+            "display_index": 49,
+            "panel_id": "p19-a",
+            "source_ids": [109],
+            "furigana_ids": [],
+            "japanese_items": ["A"]
+          },
+          {
+            "display_index": 50,
+            "panel_id": "p19-b-a",
+            "source_ids": [110],
+            "furigana_ids": [],
+            "japanese_items": ["自動変形"]
+          },
+          {
+            "display_index": 51,
+            "panel_id": "p19-b-b",
+            "source_ids": [111],
+            "furigana_ids": [],
+            "japanese_items": ["の注意点"]
+          },
+          {
+            "display_index": 52,
+            "panel_id": "p20",
+            "source_ids": [112],
             "furigana_ids": [],
             "japanese_items": [
-              "BGM",
-              "BLACK SUN ①",
-              "KILLING",
-              "CHASE",
-              "その時点で拘束された",
-              "BLACK SUN ②",
-              "MAN of SORROW"
+              "自動変形の途中に動きを妨げると、 安全性の確保のため、 自動変形が停止します。",
+              "その場合、一度変身解除をするか電源を入れ直して、変身前の開いた状態に戻してください。",
+              "●メーターの針の停止位置は多少のばらつき・ブレがございます。",
+              "■可動部分のスピードやメーターの針の動きは、電池の消費状況によって変わりますのでご注意ください。",
+              "●赤外線センサーは、太陽光の下や、太陽光が入り込む屋内ではうまく反応しません。太陽光の当たらない屋内でお遊びください。",
+              "●赤外線センサーの反応距離は、可動部 (左上・右上)のパーツに手が乗るくらいの距離になります。反応が悪いときは、手をさらに赤外線センサーに近づけてください。"
             ]
           },
           {
-            "display_index": 85,
-            "panel_id": "p31",
-            "source_ids": [118, 125, 130, 141, 145, 152, 158],
-            "furigana_ids": [],
-            "japanese_items": [
-              "BGM",
-              "仮面ライダーBLACK",
-              "MAIN THEME (LONG ver.) ①",
-              "ENDLESS DESTINY",
-              "MAIN THEME (LONG ver.) ②",
-              "Declaration of war",
-              "Did you see the sunrise?"
-            ]
-          },
-          {
-            "display_index": 86,
-            "panel_id": "p32",
-            "source_ids": [147],
-            "furigana_ids": [],
-            "japanese_items": [
-              "※BGMが鳴っている間に、もう一度「BGMボタン」を押すと、BGMが鳴り止みます。"
-            ]
-          },
-          {
-            "display_index": 87,
-            "panel_id": "p33",
-            "source_ids": [159],
-            "furigana_ids": [],
-            "japanese_items": ["BGMスタンバイ機能"]
-          },
-          {
-            "display_index": 88,
-            "panel_id": "p34",
-            "source_ids": [162],
-            "furigana_ids": [],
-            "japanese_items": ["※そのまま長押しし続けると、最大12回の「スタンバイ音」が鳴ります。"]
-          },
-          {
-            "display_index": 89,
-            "panel_id": "p35",
-            "source_ids": [163, 165, 164],
-            "furigana_ids": [],
-            "japanese_items": [
-              "2 その後、「仮面ライダーBLACK SUN」または「黒殿様飛蝗怪人」に変身すると、それぞれのタイミングで、スタンバイ回数に応じた上記表のBGMが鳴り始めます。",
-              "黒殿様飛蝗怪人　「変身音」のタイミングで鳴り始めます。",
-              "仮面ライダーBLACK SUN　「握り拳ポーズ音＆ベルト出現音」のタイミングで鳴り始めます。"
-            ]
-          },
-          {
-            "display_index": 90,
-            "panel_id": "p37",
+            "display_index": 53,
+            "panel_id": "p21",
             "source_ids": [113],
             "furigana_ids": [],
             "japanese_items": ["黒殿様飛蝗怪人への変身"]
           },
           {
-            "display_index": 91,
-            "panel_id": "p38",
-            "source_ids": [120],
+            "display_index": 54,
+            "panel_id": "p22",
+            "source_ids": [114],
             "furigana_ids": [],
-            "japanese_items": ["1"]
+            "japanese_items": ["BGM再生遊び"]
           },
           {
-            "display_index": 92,
-            "panel_id": "p39",
-            "source_ids": [119, 132, 134, 131, 136, 135],
+            "display_index": 55,
+            "panel_id": "p23",
+            "source_ids": [126, 137],
             "furigana_ids": [],
             "japanese_items": [
-              "<変身前状態>で 「変身・攻撃ボタン」を長押しします。",
-              "「ベルト出現音」が鳴り、約30秒間の 「赤外線センサー(左右) 入力受付状態」になります。",
-              "赤外線",
-              "赤外線",
-              "変身・攻撃ボタン",
-              "センサー (右)",
-              "センサー (左)"
+              "「BGMボタン」を短押しします。",
+              "→右記表の 「BGM」が順番に鳴ります。"
             ]
           },
           {
-            "display_index": 93,
-            "panel_id": "p40",
-            "source_ids": [121],
+            "display_index": 56,
+            "panel_id": "p24",
+            "source_ids": [125],
             "furigana_ids": [],
-            "japanese_items": ["2"]
+            "japanese_items": ["仮面ライダーBLACK"]
           },
           {
-            "display_index": 94,
-            "panel_id": "p41",
+            "display_index": 57,
+            "panel_id": "p25",
+            "source_ids": [147],
+            "furigana_ids": [],
+            "japanese_items": [
+              "※BGMが鳴っている間に、もう一度「BGMボタン」を押すと、 BGMが鳴り止みます。"
+            ]
+          },
+          {
+            "display_index": 58,
+            "panel_id": "p26",
+            "source_ids": [159],
+            "furigana_ids": [],
+            "japanese_items": ["BGMスタンバイ機能"]
+          },
+          {
+            "display_index": 59,
+            "panel_id": "p27",
+            "source_ids": [162],
+            "furigana_ids": [],
+            "japanese_items": ["※そのまま長押しし続けると、最大12回の「スタンバイ音」が鳴ります。"]
+          },
+          {
+            "display_index": 60,
+            "panel_id": "p29-native-a",
+            "source_ids": [119],
+            "furigana_ids": [],
+            "japanese_items": ["<変身前状態>で 「変身・攻撃ボタン」を長押しします。"]
+          },
+          {
+            "display_index": 61,
+            "panel_id": "p30-native-a-native-a",
             "source_ids": [133],
             "furigana_ids": [],
             "japanese_items": [
@@ -5463,8 +4927,8 @@
             ]
           },
           {
-            "display_index": 95,
-            "panel_id": "p42",
+            "display_index": 62,
+            "panel_id": "p30-native-a-native-b",
             "source_ids": [146, 153, 167],
             "furigana_ids": [],
             "japanese_items": [
@@ -5473,230 +4937,506 @@
             ]
           },
           {
-            "display_index": 96,
-            "panel_id": "p43",
+            "display_index": 63,
+            "panel_id": "p31",
             "source_ids": [166],
             "furigana_ids": [],
             "japanese_items": [
-              "※「赤外線センサー入力受付状態」は、「天面の2つのボタンいずれかを押す」または「30秒経過する」ことで、「キャンセル音」とともに解除されます。また、この状態中はBGMボタンは機能しません。"
+              "※「赤外線センサー入力受付状態」は、「天面の2つのボタンいずれかを押す」 または 「30秒経過する」ことで、「キャンセル音」とともに解除されます。 また、この状態中はBGMボタンは機能しません。"
             ]
           },
           {
-            "display_index": 97,
+            "display_index": -1,
             "source_ids": [0],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 98,
+            "display_index": 64,
             "source_ids": [4],
             "furigana_ids": []
           },
           {
-            "display_index": 99,
+            "display_index": -1,
+            "source_ids": [7],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
+          },
+          {
+            "display_index": 65,
             "source_ids": [10],
             "furigana_ids": []
           },
           {
-            "display_index": 100,
+            "display_index": 66,
             "source_ids": [11],
             "furigana_ids": []
           },
           {
-            "display_index": 101,
+            "display_index": -1,
             "source_ids": [12],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 102,
+            "display_index": -1,
             "source_ids": [13],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
+          },
+          {
+            "display_index": -1,
+            "source_ids": [14],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
+          },
+          {
+            "display_index": -1,
+            "source_ids": [16],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
+          },
+          {
+            "display_index": -1,
+            "source_ids": [18],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
+          },
+          {
+            "display_index": -1,
+            "source_ids": [20],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
+          },
+          {
+            "display_index": 67,
+            "source_ids": [36],
             "furigana_ids": []
           },
           {
-            "display_index": 103,
+            "display_index": 68,
+            "source_ids": [39],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 69,
+            "source_ids": [40],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 70,
+            "source_ids": [42],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 71,
+            "source_ids": [43],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 72,
+            "source_ids": [44],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 73,
+            "source_ids": [45],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 74,
+            "source_ids": [46],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 75,
+            "source_ids": [47],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 76,
             "source_ids": [50],
             "furigana_ids": []
           },
           {
-            "display_index": 104,
+            "display_index": 77,
             "source_ids": [51],
             "furigana_ids": []
           },
           {
-            "display_index": 105,
+            "display_index": 78,
             "source_ids": [54],
             "furigana_ids": []
           },
           {
-            "display_index": 106,
+            "display_index": 79,
             "source_ids": [55],
             "furigana_ids": []
           },
           {
-            "display_index": 107,
+            "display_index": 80,
             "source_ids": [57],
             "furigana_ids": []
           },
           {
-            "display_index": 108,
+            "display_index": 81,
             "source_ids": [58],
             "furigana_ids": []
           },
           {
-            "display_index": 109,
+            "display_index": 82,
             "source_ids": [61],
             "furigana_ids": []
           },
           {
-            "display_index": 110,
+            "display_index": 83,
             "source_ids": [62],
             "furigana_ids": []
           },
           {
-            "display_index": 111,
+            "display_index": 84,
+            "source_ids": [65],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 85,
+            "source_ids": [66],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 86,
+            "source_ids": [69],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 87,
+            "source_ids": [72],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 88,
+            "source_ids": [73],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 89,
+            "source_ids": [76],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 90,
+            "source_ids": [77],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 91,
             "source_ids": [80],
             "furigana_ids": []
           },
           {
-            "display_index": 112,
+            "display_index": 92,
             "source_ids": [81],
             "furigana_ids": []
           },
           {
-            "display_index": 113,
+            "display_index": 93,
+            "source_ids": [84],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 94,
+            "source_ids": [85],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 95,
+            "source_ids": [88],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 96,
             "source_ids": [91],
             "furigana_ids": []
           },
           {
-            "display_index": 114,
+            "display_index": 97,
             "source_ids": [92],
             "furigana_ids": []
           },
           {
-            "display_index": 115,
+            "display_index": 98,
+            "source_ids": [95],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 99,
+            "source_ids": [96],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 100,
+            "source_ids": [99],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 101,
+            "source_ids": [102],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 102,
+            "source_ids": [103],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 103,
             "source_ids": [104],
             "furigana_ids": []
           },
           {
-            "display_index": 116,
+            "display_index": 104,
             "source_ids": [105],
             "furigana_ids": []
           },
           {
-            "display_index": 117,
+            "display_index": 105,
             "source_ids": [106],
             "furigana_ids": []
           },
           {
-            "display_index": 118,
+            "display_index": 106,
             "source_ids": [107],
             "furigana_ids": []
           },
           {
-            "display_index": 119,
+            "display_index": 107,
             "source_ids": [115],
             "furigana_ids": []
           },
           {
-            "display_index": 120,
+            "display_index": -1,
+            "source_ids": [116],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
+          },
+          {
+            "display_index": 108,
             "source_ids": [117],
             "furigana_ids": []
           },
           {
-            "display_index": 121,
+            "display_index": -1,
+            "source_ids": [118],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
+          },
+          {
+            "display_index": -1,
+            "source_ids": [120],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
+          },
+          {
+            "display_index": -1,
+            "source_ids": [121],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
+          },
+          {
+            "display_index": 109,
             "source_ids": [122],
             "furigana_ids": []
           },
           {
-            "display_index": 122,
+            "display_index": -1,
+            "source_ids": [123],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
+          },
+          {
+            "display_index": 110,
             "source_ids": [124],
             "furigana_ids": []
           },
           {
-            "display_index": 123,
+            "display_index": 111,
             "source_ids": [127],
             "furigana_ids": []
           },
           {
-            "display_index": 124,
+            "display_index": -1,
+            "source_ids": [128],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
+          },
+          {
+            "display_index": 112,
             "source_ids": [129],
             "furigana_ids": []
           },
           {
-            "display_index": 125,
+            "display_index": -1,
+            "source_ids": [130],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
+          },
+          {
+            "display_index": 113,
+            "source_ids": [131],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 114,
+            "source_ids": [132],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 115,
+            "source_ids": [134],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 116,
+            "source_ids": [135],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 117,
+            "source_ids": [136],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 118,
             "source_ids": [138],
             "furigana_ids": []
           },
           {
-            "display_index": 126,
+            "display_index": -1,
+            "source_ids": [139],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
+          },
+          {
+            "display_index": 119,
             "source_ids": [140],
             "furigana_ids": []
           },
           {
-            "display_index": 127,
+            "display_index": -1,
+            "source_ids": [141],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
+          },
+          {
+            "display_index": 120,
             "source_ids": [142],
             "furigana_ids": []
           },
           {
-            "display_index": 128,
+            "display_index": -1,
+            "source_ids": [143],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
+          },
+          {
+            "display_index": 121,
             "source_ids": [144],
             "furigana_ids": []
           },
           {
-            "display_index": 129,
+            "display_index": -1,
+            "source_ids": [145],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
+          },
+          {
+            "display_index": 122,
             "source_ids": [148],
             "furigana_ids": []
           },
           {
-            "display_index": 130,
+            "display_index": 123,
             "source_ids": [149],
             "furigana_ids": []
           },
           {
-            "display_index": 131,
+            "display_index": -1,
+            "source_ids": [150],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
+          },
+          {
+            "display_index": 124,
             "source_ids": [151],
             "furigana_ids": []
           },
           {
-            "display_index": 132,
+            "display_index": -1,
+            "source_ids": [152],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
+          },
+          {
+            "display_index": 125,
             "source_ids": [154],
             "furigana_ids": []
           },
           {
-            "display_index": 133,
+            "display_index": 126,
             "source_ids": [155],
             "furigana_ids": []
           },
           {
-            "display_index": 134,
+            "display_index": -1,
+            "source_ids": [156],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
+          },
+          {
+            "display_index": 127,
             "source_ids": [157],
             "furigana_ids": []
           },
           {
-            "display_index": 135,
+            "display_index": -1,
+            "source_ids": [158],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
+          },
+          {
+            "display_index": 128,
             "source_ids": [160],
             "furigana_ids": []
           },
           {
-            "display_index": 136,
+            "display_index": 129,
             "source_ids": [161],
             "furigana_ids": []
           },
           {
-            "display_index": 137,
-            "source_ids": [168],
+            "display_index": 130,
+            "source_ids": [163],
             "furigana_ids": []
+          },
+          {
+            "display_index": 131,
+            "source_ids": [164],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 132,
+            "source_ids": [165],
+            "furigana_ids": []
+          },
+          {
+            "display_index": -1,
+            "source_ids": [168],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           }
         ],
         "uncertainties": [
-          "Reading of the name 信彦 assumed to be 'Nobuhiko'; other pronunciations are possible.",
-          "Image appears to contain only a page number '6'; no additional text to translate.",
-          "The term '怪人' (kaijin) can mean 'monster', 'mysterious person', or 'strange person'; I preserved the Japanese term transliterated as 'kaijin' because the exact nuance is unclear from the panel.",
-          "Ambiguity in 止められた: could be passive ('were stopped') or potential/passive expressing ability ('were able to stop [it]'); context and subject are not visible in the panel.",
-          "Unspecified referent for あの時 ('that time') and the subject who was stopped or did the stopping.",
-          "Image contains only the numeral '12'; no surrounding text to confirm whether this is a heading, step number, or page number.",
-          "Unclear whether '15' is a page number, section number, or other label; no additional context in the image.",
-          "Line 'Restrained at this point that time' appears awkward in English; Japanese reconstruction provided as 'その時点で拘束された' but original intent may differ.",
-          "Proper nouns/titles 'BLACK SUN' and 'MAN of SORROW' left in English in the scan; Japanese renderings provided are literal. Exact intended styling or punctuation (e.g., capitalization, spacing) uncertain."
+          "Romanization of the name 南光太郎 rendered as \"Minami Kotaro\"; original pronunciation could vary."
         ],
         "ocr_lines": [
           {
@@ -7083,8 +6823,14 @@
           "layout": "panel"
         },
         {
+          "text": "<変身前状態>で 「変身・攻撃ボタン」 と 「台詞ボタン」を同時に押します。\n→押している長さに応じて、 「セレクト音」が最大2回まで鳴ります。 セレクト音を鳴らした回数に\n応じて、変身時に鳴る 「ベルト出現音・変身ポーズ音・変身音」が下記のように変化します。",
+          "translation": "• While in the pre-transformation state, press the \"Transform/Attack Button\" and the \"Line Button\" at the same time.\n• Depending on how long you hold them, a \"select sound\" will play up to two times. The number of select sounds played changes the \"belt appearance sound,\" \"transformation pose sound,\" and \"transformation sound\" that play during transformation as described below.",
+          "bbox": [0.0339, 0.0747, 0.2308, 0.0426],
+          "layout": "panel"
+        },
+        {
           "text": "セレクト無し",
-          "translation": "No select",
+          "translation": "No Select",
           "bbox": [0.1155, 0.1168, 0.031441114902496334, 0.009506202948093415],
           "layout": "panel"
         },
@@ -7108,31 +6854,31 @@
         },
         {
           "text": "2 <変身後状態>で\n「変身・攻撃ボタン」を長押しします。\n「剣を引き剥がす音」が鳴ります。",
-          "translation": "• 2 In the transformed state, press and hold the \"Transform/Attack Button.\"\n• A \"sound of the sword being pulled off\" will play.",
+          "translation": "• 2 In the transformed state, press and hold the \"Transform/Attack\" button.\n• You will hear the sound of a sword being pried off.",
           "bbox": [0.03486027872562408, 0.3339, 0.09953972127437591, 0.03430000000000005],
           "layout": "panel"
         },
         {
-          "text": "この音声は、どちらの形態に\n変身しているかを問わず、\n電源をONして以降、\n最大2回まで鳴ります。",
-          "translation": "This sound will play up to two times after the power is turned on, regardless of which form it is in.",
-          "bbox": [0.0542, 0.3848, 0.0695, 0.045899999999999996],
+          "text": "電源をONして以降、\n最大2回まで鳴ります。",
+          "translation": "After you turn the power ON, it will sound up to two times.",
+          "bbox": [0.0542, 0.4083, 0.05748826067447663, 0.022399999999999975],
           "layout": "panel"
         },
         {
           "text": "剣を引き剥がした後に、 「変身・攻撃ボタン」を短押しします。",
-          "translation": "After removing the sword, briefly press the \"Transform/Attack\" button.",
+          "translation": "After removing the sword, short-press the \"Transform/Attack\" button.",
           "bbox": [0.1681, 0.33286691761016846, 0.14219999999999997, 0.018033082389831534],
           "layout": "panel"
         },
         {
           "text": "黒殿様飛蝗怪人",
-          "translation": "Black Lord Locust Monster",
+          "translation": "Lord Kuro — the Locust Monster",
           "bbox": [0.1751, 0.3504, 0.04142399444580078, 0.010799999999999976],
           "layout": "panel"
         },
         {
           "text": "「剣戟音」が鳴ります。",
-          "translation": "A sword-clashing sound will play.",
+          "translation": "A sword-clash sound plays.",
           "bbox": [
             0.228474165558815, 0.3509547815322876, 0.053625834441185016, 0.01024521846771237
           ],
@@ -7140,13 +6886,13 @@
         },
         {
           "text": "仮面ライダーBLACK SUN →下記表の音声が鳴ります。",
-          "translation": "Kamen Rider BLACK SUN → The sounds listed in the table below will play.",
+          "translation": "Kamen Rider BLACK SUN — the sounds listed below will play.",
           "bbox": [0.174, 0.3716, 0.1483, 0.010520151758193985],
           "layout": "panel"
         },
         {
           "text": "※剣を引き剥がした後、一度「変身解除」を行い、 再度変身をした場合は、攻撃音は 1 の音声に戻ります。※「台詞モード」の場合は、 音声中に掛け声が鳴ります。",
-          "translation": "• After the sword is pried off, if you perform a \"transformation cancel\" once and then transform again, the attack sound will return to Sound 1.\n• In \"Dialogue Mode\", shouts will play during the voice audio.",
+          "translation": "• After you detach the sword, if you perform “Cancel Transformation” once and then transform again, the attack sound will revert to voice 1.\n• In “Line Mode,” shouted calls play during the voice lines.",
           "bbox": [0.036699999999999997, 0.4605, 0.38230000000000003, 0.011025837421417217],
           "layout": "panel"
         },
@@ -7158,7 +6904,7 @@
         },
         {
           "text": "※「赤外線センサー入力受付状態」 は、 「天面の2つのボタン\nいずれかを押す」 または 「30秒経過する」ことで、\n「キャンセル音」とともに解除されます。\nまた、この状態中はBGMボタンは機能しません。",
-          "translation": "• ※The “infrared sensor input acceptance state” is canceled, accompanied by a “cancel sound,” when either of the two top buttons is pressed or when 30 seconds have elapsed.\n• Also, while in this state the BGM button does not function.",
+          "translation": "• The \"infrared sensor input reception\" state is canceled, with a cancel sound, when you press either of the two top buttons or when 30 seconds pass.\n• While in this state, the BGM button does not work.",
           "bbox": [0.05276356568932533, 0.5734, 0.14273643431067468, 0.046499999999999875],
           "layout": "panel"
         },
@@ -7172,7 +6918,7 @@
         },
         {
           "text": "赤外線センサー(左右) から手を離します。\n「ライダーキック必殺技音」が鳴ります。",
-          "translation": "• Remove your hand from the infrared sensors (left and right).\n• The \"Rider Kick finishing move\" sound will play.",
+          "translation": "• Remove your hand from the left and right infrared sensors.\n• The \"Rider Kick\" special-attack sound will play.",
           "bbox": [
             0.2365952388048172, 0.5770529613494874, 0.10082208502292633, 0.021863081932067763
           ],
@@ -7180,7 +6926,7 @@
         },
         {
           "text": "※「台詞モード」の場合は、 音声中に掛け声が鳴ります。",
-          "translation": "Note: If \"Dialogue Mode\" is selected, shouts/calls will play during voice playback.",
+          "translation": "In \"Line Mode\", shouts will play during the voice lines.",
           "bbox": [
             0.24508545851707458, 0.6537971601486207, 0.13072241234779358, 0.010235109806060683
           ],
@@ -7194,7 +6940,7 @@
         },
         {
           "text": "<変身後状態>で「変身・攻撃ボタン」と「台詞ボタン」を同時に短押しします。「変身解除音」が鳴り、ベルトが自動変形して開き、 <変身前状態>に戻ります。",
-          "translation": "In the <transformed state>, briefly press the “Transform/Attack” button and the “Line” button at the same time. A “transformation cancel sound” will play, the belt will automatically change shape and open, and it will return to the <pre-transformation state>.",
+          "translation": "While in <transformed state>, briefly press the \"Transform/Attack\" button and the \"Line\" button at the same time. A \"transformation release\" sound will play, the belt will automatically change shape and open, and it will return to <pre-transformed state>.",
           "bbox": [0.0339, 0.7411000000000001, 0.3727310420036316, 0.01079999999999992],
           "layout": "panel"
         },
@@ -7206,13 +6952,13 @@
         },
         {
           "text": "<変身後状態>で 「変身・攻撃ボタン」 と 「台詞ボタン」を同時に長押しします。 約3秒後に 「BLACK SUN復活音」が鳴り、ベルトが自動変形して開き、<変身前状態>に戻ります。",
-          "translation": "While in <post-transformation state>, press and hold the \"Transform/Attack Button\" and the \"Dialogue Button\" at the same time. After about 3 seconds the \"BLACK SUN revival sound\" will play, the belt will automatically transform and open, and it will return to the <pre-transformation state>.",
+          "translation": "While in <transformed state>, press and hold the \"Transform/Attack\" button and the \"Line\" button at the same time. About 3 seconds later the \"BLACK SUN revival sound\" will play, the belt will automatically transform open, and return to <pre-transformation state>.",
           "bbox": [0.5357831225395203, 0.0747, 0.42584977436065663, 0.011037724542617797],
           "layout": "panel"
         },
         {
           "text": "※ベルトの自動変形が始まる前に、 天面の2つのボタンいずれかを押すと、 「キャンセル音」と\nともに音声がストップします。 また、 この音声中はBGMボタンは機能しません。",
-          "translation": "If you press either of the two top-surface buttons before the belt's automatic transformation begins, the voice will stop together with a \"cancel sound.\" Also, while this voice is playing, the BGM button will not function.",
+          "translation": "• Before the belt's automatic transformation begins, pressing either of the two buttons on the top will stop voice playback with a \"cancel\" sound.\n• Also, the BGM button will not function while this voice is playing.",
           "bbox": [0.7353000000000001, 0.1016, 0.22042667264938343, 0.022122222387790685],
           "layout": "panel"
         },
@@ -7224,7 +6970,7 @@
         },
         {
           "text": "<変身前状態>で「変身・攻撃ボタン」と「台詞ボタン」を同時に長押しします。\n2回の「セレクト音」が鳴り終わっても、同時押しを継続すると、 約3秒後に「創世王への変化音」が鳴り、ベルトが発光し、 <創世王状態>になります。",
-          "translation": "• In <Pre-Transformation State>, press and hold the \"Transform/Attack Button\" and the \"Line Button\" simultaneously.\n• Even after the two \"Select\" sounds finish, if you continue holding both buttons, about 3 seconds later the \"change-to-Souseioh\" sound will play, the belt will light up, and it will enter <Souseioh State>.",
+          "translation": "In the <pre-transformation> state, press and hold the \"Transform/Attack\" button and the \"Line\" button at the same time. If you keep holding them after the two \"select\" sounds finish, about 3 seconds later the \"sound of changing into Creation King\" will play, the belt will light up, and it will enter the <Creation King> state.",
           "bbox": [
             0.5355985865592957, 0.3948824212551117, 0.35442117738723744, 0.02191757874488831
           ],
@@ -7240,7 +6986,7 @@
         },
         {
           "text": "<創世王状態>で「台詞ボタン」を押します。 下記の音声が順番に鳴ります。",
-          "translation": "While in <Genesis King state>, press the \"Dialogue\" button. The following voice lines will play in order.",
+          "translation": "• In <Sousei-Oh mode>, press the \"Dialogue\" button.\n• The following voice lines will play in order.",
           "bbox": [0.5355985865592957, 0.5734, 0.1850014134407043, 0.010528932189941331],
           "layout": "panel"
         },
@@ -7248,12 +6994,6 @@
           "text": "台詞",
           "translation": "Dialogue",
           "bbox": [0.7425, 0.5938000000000001, 0.013899999999999912, 0.010284004402160485],
-          "layout": "panel"
-        },
-        {
-          "text": "1\nうめき声",
-          "translation": "1 Groan",
-          "bbox": [0.538367103099823, 0.6098694906234742, 0.03474602985382069, 0.00894317913055409],
           "layout": "panel"
         },
         {
@@ -7280,7 +7020,7 @@
         },
         {
           "text": "<創世王状態>で 「変身・攻撃ボタン」を押します。 「創世王のエキスを垂れ流す音」が鳴ります。",
-          "translation": "• In <Sousei-Oh state>, press the \"Transform/Attack Button.\"\n• The \"sound of Sousei-Oh's ichor spilling out\" will play.",
+          "translation": "• In <Genesis King state>, press the \"Transform/Attack\" button.\n• The sound \"Genesis King's essence dripping\" will play.",
           "bbox": [
             0.5355985865592957, 0.6850633130073548, 0.2315014134407043, 0.010836686992645173
           ],
@@ -7296,16 +7036,11 @@
         },
         {
           "text": "<創世王状態>で「変身・攻撃ボタン」と「台詞ボタン」を同時に押します。「創世王消滅音」 が鳴り、 <変身前状態に戻ります。",
-          "translation": "In <Sousei-Oh state>, press the “Transform/Attack” button and the “Line” button at the same time. The “Sousei-Oh Extinction Sound” will play, and it will return to <pre-transformation state>.",
+          "translation": "In <Souseioh state>, press the \"Transform/Attack Button\" and the \"Dialogue Button\" at the same time. The \"Souseioh disappearance sound\" will play, and it will return to the <pre-transformation state>.",
           "bbox": [
             0.5355985865592957, 0.7302829728126526, 0.3018187074661254, 0.010817027187347339
           ],
           "layout": "panel"
-        },
-        {
-          "text": "<変身前状態>で 「変身・攻撃ボタン」 と 「台詞ボタン」を同時に押します。\n→押している長さに応じて、 「セレクト音」が最大2回まで鳴ります。 セレクト音を鳴らした回数に\n応じて、変身時に鳴る 「ベルト出現音・変身ポーズ音・変身音」が下記のように変化します。",
-          "translation": "While in the <Pre-Transformation State>, press and hold the \"Transform/Attack Button\" and the \"Dialogue Button\" simultaneously.\n→ Depending on how long you hold them, the \"Select sound\" will play up to two times. The number of Select sounds played will change the belt-appearance sound, transformation-pose sound, and transformation sound as follows.",
-          "bbox": [0.0354, 0.0762, 0.2278, 0.0302]
         },
         {
           "text": "変身・攻撃ボタン",
@@ -7423,6 +7158,16 @@
           "bbox": [0.1571, 0.3388, 0.0046, 0.0083]
         },
         {
+          "text": "この音声は、どちらの形態に",
+          "translation": "This audio,",
+          "bbox": [0.0561, 0.3863, 0.0661, 0.0072]
+        },
+        {
+          "text": "変身しているかを問わず、",
+          "translation": "regardless of which form you are in,",
+          "bbox": [0.0557, 0.3982, 0.062, 0.0075]
+        },
+        {
           "text": "1回目",
           "translation": "1st time",
           "bbox": [0.3123, 0.3951, 0.0131, 0.007]
@@ -7461,11 +7206,6 @@
           "text": "2回目",
           "translation": "2nd time",
           "bbox": [0.4003, 0.3956, 0.014, 0.0065]
-        },
-        {
-          "text": "5",
-          "translation": "5",
-          "bbox": [0.0199, 0.9726, 0.0033, 0.0049]
         },
         {
           "text": "<変身後状態>で、 「剣を引き剥がす音」を2回鳴らした後、\n1\n3回目以降の「変身・攻撃ボタン」を長押しします。",
@@ -7538,6 +7278,16 @@
           "bbox": [0.7649, 0.4315, 0.0264, 0.0078]
         },
         {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.5399, 0.6116, 0.0026, 0.0049]
+        },
+        {
+          "text": "うめき声",
+          "translation": "Groan",
+          "bbox": [0.5541, 0.6114, 0.0175, 0.0059]
+        },
+        {
           "text": "3",
           "translation": "3",
           "bbox": [0.5395, 0.6406, 0.0039, 0.0052]
@@ -7561,11 +7311,6 @@
           "text": "00",
           "translation": "00",
           "bbox": [0.9777, 0.9718, 0.0024, 0.0054]
-        },
-        {
-          "text": "6",
-          "translation": "6",
-          "bbox": [0.9773, 0.9729, 0.0033, 0.0044]
         }
       ],
       "image": "pages/page-3.webp",
@@ -8071,6 +7816,11 @@
               "source_ids": [0]
             },
             {
+              "id": "p1-a-a-a",
+              "kind": "prose",
+              "source_ids": [1]
+            },
+            {
               "id": "p1-a-b-b",
               "kind": "prose",
               "source_ids": [4]
@@ -8091,166 +7841,165 @@
               "source_ids": [14]
             },
             {
-              "id": "p7",
+              "id": "p7-a-a",
               "kind": "prose",
               "source_ids": [31, 34]
             },
             {
-              "id": "p8",
+              "id": "p7-b",
               "kind": "prose",
-              "source_ids": [38, 39, 40, 41]
+              "source_ids": [40, 41]
             },
             {
-              "id": "p9-a-a",
+              "id": "p8-a-a",
               "kind": "prose",
               "source_ids": [32]
             },
             {
-              "id": "p9-a-b",
+              "id": "p8-a-b",
               "kind": "prose",
               "source_ids": [35]
             },
             {
-              "id": "p9-b-a",
+              "id": "p8-b-a",
               "kind": "prose",
               "source_ids": [36]
             },
             {
-              "id": "p9-b-b",
+              "id": "p8-b-b",
               "kind": "prose",
               "source_ids": [37]
             },
             {
-              "id": "p11",
+              "id": "p10",
               "kind": "prose",
               "source_ids": [51]
             },
             {
-              "id": "p12",
+              "id": "p11",
               "kind": "heading",
               "source_ids": [52]
             },
             {
-              "id": "p14",
+              "id": "p13",
               "kind": "prose",
               "source_ids": [60, 64, 65]
             },
             {
-              "id": "p16-a",
+              "id": "p15-a",
               "kind": "prose",
               "source_ids": [62]
             },
             {
-              "id": "p16-b",
+              "id": "p15-b",
               "kind": "prose",
               "source_ids": [61, 63]
             },
             {
-              "id": "p18",
+              "id": "p17",
               "kind": "prose",
               "source_ids": [68]
             },
             {
-              "id": "p19",
+              "id": "p18",
               "kind": "heading",
               "source_ids": [90]
             },
             {
-              "id": "p20",
+              "id": "p19",
               "kind": "prose",
               "source_ids": [91]
             },
             {
-              "id": "p21",
+              "id": "p20",
               "kind": "heading",
               "source_ids": [70]
             },
             {
-              "id": "p22",
+              "id": "p21",
               "kind": "prose",
               "source_ids": [71]
             },
             {
-              "id": "p23",
+              "id": "p22",
               "kind": "prose",
               "source_ids": [73]
             },
             {
-              "id": "p24",
+              "id": "p23",
               "kind": "heading",
               "source_ids": [75]
             },
             {
-              "id": "p25",
+              "id": "p24",
               "kind": "prose",
               "source_ids": [76]
             },
             {
-              "id": "p26",
+              "id": "p25",
               "kind": "heading",
               "source_ids": [77]
             },
             {
-              "id": "p27",
+              "id": "p26",
               "kind": "prose",
               "source_ids": [80]
             },
             {
-              "id": "p28-a-a",
+              "id": "p27-a-a",
               "kind": "prose",
               "source_ids": [81]
             },
             {
-              "id": "p28-a-b",
-              "kind": "prose",
-              "source_ids": [82, 83]
-            },
-            {
-              "id": "p28-b-a-a",
+              "id": "p27-b-a-a",
               "kind": "prose",
               "source_ids": [84]
             },
             {
-              "id": "p28-b-a-b",
+              "id": "p27-b-a-b",
               "kind": "prose",
               "source_ids": [85]
             },
             {
-              "id": "p29",
+              "id": "p28",
               "kind": "heading",
               "source_ids": [88]
             },
             {
-              "id": "p30",
+              "id": "p29",
               "kind": "prose",
               "source_ids": [89]
             },
             {
-              "id": "p31",
+              "id": "p30",
               "kind": "heading",
               "source_ids": [92]
             },
             {
-              "id": "p32",
+              "id": "p31",
               "kind": "prose",
               "source_ids": [93]
             }
           ],
           "furigana": [],
           "notes": [
-            "Button callouts and page numbers are left ungrouped as diagram labels or non-main text.",
+            "Source 62 appears to be a step numeral OCR artifact for circled 3, but is retained with the corresponding instruction text.",
             "Conservative panel fallback: Panel p1 would mask unrelated source 5",
-            "Panel p1-a-a-a retained original English after failed automatic checks",
+            "p7-a-a: recovered adjacent clause source 34",
+            "p7-a-b-b: recovered adjacent clause source 39",
             "Panel p1-a-a-b retained original English after failed automatic checks",
             "Panel p1-a-b-a retained original English after failed automatic checks",
             "Panel p5 retained original English after failed automatic checks",
             "Panel p6 retained original English after failed automatic checks",
-            "Panel p10 retained original English after failed automatic checks",
-            "Panel p13 retained original English after failed automatic checks",
-            "Panel p15 retained original English after failed automatic checks",
-            "Panel p17 retained original English after failed automatic checks",
-            "Panel p28-b-b retained original English after failed automatic checks"
-          ]
+            "Panel p7-a-b-b retained original English after failed automatic checks",
+            "Panel p9 retained original English after failed automatic checks",
+            "Panel p12 retained original English after failed automatic checks",
+            "Panel p14 retained original English after failed automatic checks",
+            "Panel p16 retained original English after failed automatic checks",
+            "Panel p27-a-b retained original English after failed automatic checks",
+            "Panel p27-b-b retained original English after failed automatic checks"
+          ],
+          "native_artwork": [50, 97]
         },
         "mapping": [
           {
@@ -8262,35 +8011,45 @@
           },
           {
             "display_index": 1,
+            "panel_id": "p1-a-a-a",
+            "source_ids": [1],
+            "furigana_ids": [],
+            "japanese_items": [
+              "<変身前状態>で 「変身・攻撃ボタン」 と 「台詞ボタン」を同時に押します。",
+              "→押している長さに応じて、 「セレクト音」が最大2回まで鳴ります。 セレクト音を鳴らした回数に応じて、変身時に鳴る 「ベルト出現音・変身ポーズ音・変身音」が下記のように変化します。"
+            ]
+          },
+          {
+            "display_index": 2,
             "panel_id": "p1-a-b-b",
             "source_ids": [4],
             "furigana_ids": [],
             "japanese_items": ["セレクト無し"]
           },
           {
-            "display_index": 2,
+            "display_index": 3,
             "panel_id": "p1-b",
             "source_ids": [6, 7, 8, 12],
             "furigana_ids": [],
             "japanese_items": ["仮面ライダーBLACK SUN", "5話変身音", "7話変身音", "10話変身音"]
           },
           {
-            "display_index": 3,
+            "display_index": 4,
             "panel_id": "p3",
             "source_ids": [15],
             "furigana_ids": [],
             "japanese_items": ["変身後の攻撃遊び"]
           },
           {
-            "display_index": 4,
+            "display_index": 5,
             "panel_id": "p4",
             "source_ids": [14],
             "furigana_ids": [],
             "japanese_items": ["攻撃・剣の引き剥がし"]
           },
           {
-            "display_index": 5,
-            "panel_id": "p7",
+            "display_index": 6,
+            "panel_id": "p7-a-a",
             "source_ids": [31, 34],
             "furigana_ids": [],
             "japanese_items": [
@@ -8299,45 +8058,43 @@
             ]
           },
           {
-            "display_index": 6,
-            "panel_id": "p8",
-            "source_ids": [38, 39, 40, 41],
-            "furigana_ids": [],
-            "japanese_items": [
-              "この音声は、どちらの形態に\n変身しているかを問わず、\n電源をONして以降、\n最大2回まで鳴ります。"
-            ]
-          },
-          {
             "display_index": 7,
-            "panel_id": "p9-a-a",
-            "source_ids": [32],
+            "panel_id": "p7-b",
+            "source_ids": [40, 41],
             "furigana_ids": [],
-            "japanese_items": ["剣を引き剥がした後に、「変身・攻撃ボタン」を短押しします。"]
+            "japanese_items": ["電源をONして以降、最大2回まで鳴ります。"]
           },
           {
             "display_index": 8,
-            "panel_id": "p9-a-b",
+            "panel_id": "p8-a-a",
+            "source_ids": [32],
+            "furigana_ids": [],
+            "japanese_items": ["剣を引き剥がした後に、 「変身・攻撃ボタン」を短押しします。"]
+          },
+          {
+            "display_index": 9,
+            "panel_id": "p8-a-b",
             "source_ids": [35],
             "furigana_ids": [],
             "japanese_items": ["黒殿様飛蝗怪人"]
           },
           {
-            "display_index": 9,
-            "panel_id": "p9-b-a",
+            "display_index": 10,
+            "panel_id": "p8-b-a",
             "source_ids": [36],
             "furigana_ids": [],
             "japanese_items": ["「剣戟音」が鳴ります。"]
           },
           {
-            "display_index": 10,
-            "panel_id": "p9-b-b",
+            "display_index": 11,
+            "panel_id": "p8-b-b",
             "source_ids": [37],
             "furigana_ids": [],
             "japanese_items": ["仮面ライダーBLACK SUN →下記表の音声が鳴ります。"]
           },
           {
-            "display_index": 11,
-            "panel_id": "p11",
+            "display_index": 12,
+            "panel_id": "p10",
             "source_ids": [51],
             "furigana_ids": [],
             "japanese_items": [
@@ -8346,32 +8103,32 @@
             ]
           },
           {
-            "display_index": 12,
-            "panel_id": "p12",
+            "display_index": 13,
+            "panel_id": "p11",
             "source_ids": [52],
             "furigana_ids": [],
             "japanese_items": ["ライダーキック"]
           },
           {
-            "display_index": 13,
-            "panel_id": "p14",
+            "display_index": 14,
+            "panel_id": "p13",
             "source_ids": [60, 64, 65],
             "furigana_ids": [],
             "japanese_items": [
-              "※「赤外線センサー入力受付状態」は、「天面の2つのボタンいずれかを押す」または「30秒経過する」ことで、「キャンセル音」とともに解除されます。",
+              "※「赤外線センサー入力受付状態」 は、 「天面の2つのボタン\nいずれかを押す」 または 「30秒経過する」ことで、\n「キャンセル音」とともに解除されます。",
               "また、この状態中はBGMボタンは機能しません。"
             ]
           },
           {
-            "display_index": 14,
-            "panel_id": "p16-a",
+            "display_index": 15,
+            "panel_id": "p15-a",
             "source_ids": [62],
             "furigana_ids": [],
             "japanese_items": ["3"]
           },
           {
-            "display_index": 15,
-            "panel_id": "p16-b",
+            "display_index": 16,
+            "panel_id": "p15-b",
             "source_ids": [61, 63],
             "furigana_ids": [],
             "japanese_items": [
@@ -8380,311 +8137,311 @@
             ]
           },
           {
-            "display_index": 16,
-            "panel_id": "p18",
+            "display_index": 17,
+            "panel_id": "p17",
             "source_ids": [68],
             "furigana_ids": [],
             "japanese_items": ["※「台詞モード」の場合は、 音声中に掛け声が鳴ります。"]
           },
           {
-            "display_index": 17,
-            "panel_id": "p19",
+            "display_index": 18,
+            "panel_id": "p18",
             "source_ids": [90],
             "furigana_ids": [],
             "japanese_items": ["変身解除"]
           },
           {
-            "display_index": 18,
-            "panel_id": "p20",
+            "display_index": 19,
+            "panel_id": "p19",
             "source_ids": [91],
             "furigana_ids": [],
             "japanese_items": [
-              "<変身後状態>で「変身・攻撃ボタン」と「台詞ボタン」を同時に短押しします。「変身解除音」が鳴り、ベルトが自動変形して開き、<変身前状態>に戻ります。"
+              "<変身後状態>で「変身・攻撃ボタン」と「台詞ボタン」を同時に短押しします。「変身解除音」が鳴り、ベルトが自動変形して開き、 <変身前状態>に戻ります。"
             ]
           },
           {
-            "display_index": 19,
-            "panel_id": "p21",
+            "display_index": 20,
+            "panel_id": "p20",
             "source_ids": [70],
             "furigana_ids": [],
             "japanese_items": ["BLACK SUNの復活"]
           },
           {
-            "display_index": 20,
-            "panel_id": "p22",
+            "display_index": 21,
+            "panel_id": "p21",
             "source_ids": [71],
             "furigana_ids": [],
             "japanese_items": [
-              "<変身後状態>で「変身・攻撃ボタン」と「台詞ボタン」を同時に長押しします。約3秒後に「BLACK SUN復活音」が鳴り、ベルトが自動変形して開き、<変身前状態>に戻ります。"
-            ]
-          },
-          {
-            "display_index": 21,
-            "panel_id": "p23",
-            "source_ids": [73],
-            "furigana_ids": [],
-            "japanese_items": [
-              "※ベルトの自動変形が始まる前に、天面の2つのボタンいずれかを押すと、「キャンセル音」とともに音声がストップします。また、この音声中はBGMボタンは機能しません。"
+              "<変身後状態>で 「変身・攻撃ボタン」と「台詞ボタン」を同時に長押しします。 約3秒後に「BLACK SUN復活音」が鳴り、ベルトが自動変形して開き、<変身前状態>に戻ります。"
             ]
           },
           {
             "display_index": 22,
-            "panel_id": "p24",
+            "panel_id": "p22",
+            "source_ids": [73],
+            "furigana_ids": [],
+            "japanese_items": [
+              "※ベルトの自動変形が始まる前に、天面の2つのボタンいずれかを押すと、「キャンセル音」とともに音声がストップします。",
+              "また、この音声中はBGMボタンは機能しません。"
+            ]
+          },
+          {
+            "display_index": 23,
+            "panel_id": "p23",
             "source_ids": [75],
             "furigana_ids": [],
             "japanese_items": ["創世王への変化"]
           },
           {
-            "display_index": 23,
-            "panel_id": "p25",
+            "display_index": 24,
+            "panel_id": "p24",
             "source_ids": [76],
             "furigana_ids": [],
             "japanese_items": [
-              "<変身前状態>で「変身・攻撃ボタン」と「台詞ボタン」を同時に長押しします。",
-              "2回の「セレクト音」が鳴り終わっても、同時押しを継続すると、約3秒後に「創世王への変化音」が鳴り、ベルトが発光し、<創世王状態>になります。"
+              "<変身前状態>で「変身・攻撃ボタン」と「台詞ボタン」を同時に長押しします。 2回の「セレクト音」が鳴り終わっても、同時押しを継続すると、約3秒後に「創世王への変化音」が鳴り、ベルトが発光し、<創世王状態>になります。"
             ]
           },
           {
-            "display_index": 24,
-            "panel_id": "p26",
+            "display_index": 25,
+            "panel_id": "p25",
             "source_ids": [77],
             "furigana_ids": [],
             "japanese_items": ["<創世王 状態> 台詞再生遊び"]
           },
           {
-            "display_index": 25,
-            "panel_id": "p27",
+            "display_index": 26,
+            "panel_id": "p26",
             "source_ids": [80],
             "furigana_ids": [],
             "japanese_items": [
-              "<創世王状態>で「台詞ボタン」を押します。 下記の音声が順番に鳴ります。"
+              "<創世王状態>で「台詞ボタン」を押します。",
+              "下記の音声が順番に鳴ります。"
             ]
           },
           {
-            "display_index": 26,
-            "panel_id": "p28-a-a",
+            "display_index": 27,
+            "panel_id": "p27-a-a",
             "source_ids": [81],
             "furigana_ids": [],
             "japanese_items": ["台詞"]
           },
           {
-            "display_index": 27,
-            "panel_id": "p28-a-b",
-            "source_ids": [82, 83],
-            "furigana_ids": [],
-            "japanese_items": ["1 うめき声"]
-          },
-          {
             "display_index": 28,
-            "panel_id": "p28-b-a-a",
+            "panel_id": "p27-b-a-a",
             "source_ids": [84],
             "furigana_ids": [],
             "japanese_items": ["2"]
           },
           {
             "display_index": 29,
-            "panel_id": "p28-b-a-b",
+            "panel_id": "p27-b-a-b",
             "source_ids": [85],
             "furigana_ids": [],
             "japanese_items": ["ア・・・オ・・・イ・・・。"]
           },
           {
             "display_index": 30,
-            "panel_id": "p29",
+            "panel_id": "p28",
             "source_ids": [88],
             "furigana_ids": [],
             "japanese_items": ["エキスの放出"]
           },
           {
             "display_index": 31,
-            "panel_id": "p30",
+            "panel_id": "p29",
             "source_ids": [89],
             "furigana_ids": [],
             "japanese_items": [
-              "〈創世王状態〉で「変身・攻撃ボタン」を押します。",
+              "<創世王状態>で 「変身・攻撃ボタン」を押します。",
               "「創世王のエキスを垂れ流す音」が鳴ります。"
             ]
           },
           {
             "display_index": 32,
-            "panel_id": "p31",
+            "panel_id": "p30",
             "source_ids": [92],
             "furigana_ids": [],
             "japanese_items": ["創世王の消滅"]
           },
           {
             "display_index": 33,
-            "panel_id": "p32",
+            "panel_id": "p31",
             "source_ids": [93],
             "furigana_ids": [],
             "japanese_items": [
-              "＜創世王状態＞で「変身・攻撃ボタン」と「台詞ボタン」を同時に押します。▶「創世王消滅音」が鳴り、＜変身前状態＞に戻ります。"
+              "<創世王状態>で「変身・攻撃ボタン」と「台詞ボタン」を同時に押します。「創世王消滅音」が鳴り、<変身前状態>に戻ります。"
             ]
           },
           {
             "display_index": 34,
-            "source_ids": [1],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 35,
             "source_ids": [2],
             "furigana_ids": []
           },
           {
-            "display_index": 36,
+            "display_index": 35,
             "source_ids": [3],
             "furigana_ids": []
           },
           {
-            "display_index": 37,
+            "display_index": 36,
             "source_ids": [5],
             "furigana_ids": []
           },
           {
-            "display_index": 38,
+            "display_index": 37,
             "source_ids": [9],
             "furigana_ids": []
           },
           {
-            "display_index": 39,
+            "display_index": 38,
             "source_ids": [10],
             "furigana_ids": []
           },
           {
-            "display_index": 40,
+            "display_index": 39,
             "source_ids": [11],
             "furigana_ids": []
           },
           {
-            "display_index": 41,
+            "display_index": 40,
             "source_ids": [13],
             "furigana_ids": []
           },
           {
-            "display_index": 42,
+            "display_index": 41,
             "source_ids": [16],
             "furigana_ids": []
           },
           {
-            "display_index": 43,
+            "display_index": 42,
             "source_ids": [17],
             "furigana_ids": []
           },
           {
-            "display_index": 44,
+            "display_index": 43,
             "source_ids": [18],
             "furigana_ids": []
           },
           {
-            "display_index": 45,
+            "display_index": 44,
             "source_ids": [19],
             "furigana_ids": []
           },
           {
-            "display_index": 46,
+            "display_index": 45,
             "source_ids": [20],
             "furigana_ids": []
           },
           {
-            "display_index": 47,
+            "display_index": 46,
             "source_ids": [21],
             "furigana_ids": []
           },
           {
-            "display_index": 48,
+            "display_index": 47,
             "source_ids": [22],
             "furigana_ids": []
           },
           {
-            "display_index": 49,
+            "display_index": 48,
             "source_ids": [23],
             "furigana_ids": []
           },
           {
-            "display_index": 50,
+            "display_index": 49,
             "source_ids": [24],
             "furigana_ids": []
           },
           {
-            "display_index": 51,
+            "display_index": 50,
             "source_ids": [25],
             "furigana_ids": []
           },
           {
-            "display_index": 52,
+            "display_index": 51,
             "source_ids": [26],
             "furigana_ids": []
           },
           {
-            "display_index": 53,
+            "display_index": 52,
             "source_ids": [27],
             "furigana_ids": []
           },
           {
-            "display_index": 54,
+            "display_index": 53,
             "source_ids": [28],
             "furigana_ids": []
           },
           {
-            "display_index": 55,
+            "display_index": 54,
             "source_ids": [29],
             "furigana_ids": []
           },
           {
-            "display_index": 56,
+            "display_index": 55,
             "source_ids": [30],
             "furigana_ids": []
           },
           {
-            "display_index": 57,
+            "display_index": 56,
             "source_ids": [33],
             "furigana_ids": []
           },
           {
+            "display_index": 57,
+            "source_ids": [38],
+            "furigana_ids": []
+          },
+          {
             "display_index": 58,
-            "source_ids": [42],
+            "source_ids": [39],
             "furigana_ids": []
           },
           {
             "display_index": 59,
-            "source_ids": [43],
+            "source_ids": [42],
             "furigana_ids": []
           },
           {
             "display_index": 60,
-            "source_ids": [44],
+            "source_ids": [43],
             "furigana_ids": []
           },
           {
             "display_index": 61,
-            "source_ids": [45],
+            "source_ids": [44],
             "furigana_ids": []
           },
           {
             "display_index": 62,
-            "source_ids": [46],
+            "source_ids": [45],
             "furigana_ids": []
           },
           {
             "display_index": 63,
-            "source_ids": [47],
+            "source_ids": [46],
             "furigana_ids": []
           },
           {
             "display_index": 64,
-            "source_ids": [48],
+            "source_ids": [47],
             "furigana_ids": []
           },
           {
             "display_index": 65,
-            "source_ids": [49],
+            "source_ids": [48],
             "furigana_ids": []
           },
           {
             "display_index": 66,
-            "source_ids": [50],
+            "source_ids": [49],
             "furigana_ids": []
+          },
+          {
+            "display_index": -1,
+            "source_ids": [50],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
             "display_index": 67,
@@ -8758,43 +8515,50 @@
           },
           {
             "display_index": 81,
-            "source_ids": [86],
+            "source_ids": [82],
             "furigana_ids": []
           },
           {
             "display_index": 82,
-            "source_ids": [87],
+            "source_ids": [83],
             "furigana_ids": []
           },
           {
             "display_index": 83,
-            "source_ids": [94],
+            "source_ids": [86],
             "furigana_ids": []
           },
           {
             "display_index": 84,
-            "source_ids": [95],
+            "source_ids": [87],
             "furigana_ids": []
           },
           {
             "display_index": 85,
-            "source_ids": [96],
+            "source_ids": [94],
             "furigana_ids": []
           },
           {
             "display_index": 86,
-            "source_ids": [97],
+            "source_ids": [95],
             "furigana_ids": []
+          },
+          {
+            "display_index": 87,
+            "source_ids": [96],
+            "furigana_ids": []
+          },
+          {
+            "display_index": -1,
+            "source_ids": [97],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           }
         ],
         "uncertainties": [
-          "Unclear if 黒殿様 is a proper name/title (rendered here as “Black Lord”); could be a character name rather than a descriptive phrase.",
-          "Image shows only the numeral '3' in a circle; original panel may include surrounding parentheses or additional text that is not visible.",
-          "Translation of 「台詞モード」 rendered as \"Dialogue Mode\"—could alternatively be \"Line Mode\" or \"Speech Mode\" depending on product terminology.",
-          "Translation of 「掛け声」 rendered as \"shouts/calls\"—could alternatively be \"cheers\", \"yells\", or \"voice prompts\" depending on intended nuance.",
-          "Translation of 「台詞ボタン」 rendered as \"Line Button\"; could also be \"Speech Button\" or \"Dialogue Button.\"",
-          "Romanization/translation of 創世王 rendered as \"Souseioh\"; original may be stylized differently in official English.",
-          "Translation of 「創世王状態」 rendered as \"Genesis King state\" — alternative translations (e.g., \"Creation King state\") may be possible."
+          "Source shows only the numeral '3' in a circle; no other Japanese text or context was visible to translate. This may be a step or section number.",
+          "The term \"創世王状態\" was romanized as \"Sousei-Oh mode\"; the exact official English name of this mode is not shown on the panel.",
+          "The term \"台詞ボタン\" was rendered as \"Dialogue\" button; the original could also be translated as \"Line\" or \"Phrase\" button depending on the product's naming."
         ],
         "ocr_lines": [
           {

@@ -9,7 +9,7 @@ from urllib.parse import quote
 
 import pymupdf
 import pytest
-from PIL import Image, ImageChops, ImageStat
+from PIL import Image, ImageChops, ImageFilter, ImageStat
 from playwright.async_api import async_playwright
 
 from src.quality.browser_audit import public_server
@@ -65,7 +65,9 @@ const original=HTMLImageElement.prototype.decode;
 HTMLImageElement.prototype.decode=async function(){if(this.src.startsWith('data:image/svg+xml')&&this.src.includes('foreignObject')){window.exportedSvgPages.push(this.src);window.exportedNativePages.push(window.lineMetrics(document.querySelector('iframe').contentDocument))}return original.call(this)};
 window.lineMetrics=root=>[...root.querySelectorAll('.overlay')].map(overlay=>{
  const range=document.createRange();range.selectNodeContents(overlay);
- return {text:overlay.textContent,width:overlay.getBoundingClientRect().width,whiteSpace:getComputedStyle(overlay).whiteSpace,font:getComputedStyle(overlay).fontSize,lines:[...range.getClientRects()].map(rect=>rect.width)};
+ const bounds=overlay.getBoundingClientRect();
+ const page=overlay.closest('.page').getBoundingClientRect();
+ return {text:overlay.textContent,bounds:[bounds.left-page.left,bounds.top-page.top,bounds.width,bounds.height],whiteSpace:getComputedStyle(overlay).whiteSpace,font:getComputedStyle(overlay).fontSize,lines:[...range.getClientRects()].map(rect=>rect.width)};
 });
 window.desktopLines=[...document.querySelectorAll('.page')].map(window.lineMetrics);
 }""")
@@ -109,6 +111,9 @@ return results;
                     comparison["actual"], comparison["expected"], strict=True
                 ):
                     assert actual_block["font"] == expected_block["font"]
+                    assert actual_block["bounds"] == pytest.approx(
+                        expected_block["bounds"], abs=0.05
+                    )
                     assert actual_block["lines"] == pytest.approx(
                         expected_block["lines"], abs=0.05
                     )
@@ -161,15 +166,33 @@ return results;
                         )
                         for offset in range(-2, 3)
                     )
+                    # Half a device pixel of smoothing distinguishes raster
+                    # antialiasing from layout changes; exact boxes/font sizes/
+                    # line widths are asserted separately, without smoothing.
+                    smoothed = ImageChops.difference(
+                        expected.filter(ImageFilter.GaussianBlur(0.5)).crop(
+                            (0, 3, actual.width, bottom)
+                        ),
+                        actual.filter(ImageFilter.GaussianBlur(0.5)).crop(
+                            (
+                                0,
+                                3 + vertical_offset,
+                                actual.width,
+                                bottom + vertical_offset,
+                            )
+                        ),
+                    )
+                    smoothed_error = sum(ImageStat.Stat(smoothed).mean) / 3
                     measurements.append(
                         {
                             "page": index + 1,
                             "mean_channel_error": mean_error,
                             "registered_channel_error": registered_error,
                             "vertical_offset": vertical_offset,
+                            "smoothed_channel_error": smoothed_error,
                         }
                     )
-                    assert registered_error < 5.0, measurements
+                    assert registered_error < 6.0 and smoothed_error < 5.0, measurements
             (evidence / "comparison.json").write_text(
                 json.dumps(measurements, indent=2)
             )

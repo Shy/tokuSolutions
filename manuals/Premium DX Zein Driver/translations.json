@@ -6,7 +6,7 @@
     "target_lang": "en",
     "source_url": "https://toy.bandai.co.jp/manuals/files/2687102.pdf?ver=stnsuf",
     "pages": 7,
-    "blocks": 282,
+    "blocks": 260,
     "thumbnail": "pages/page-0.webp",
     "tags": ["dx", "kamen-rider", "premium"],
     "semantic_layout": 1
@@ -15,6 +15,26 @@
     {
       "blocks": [
         {
+          "text": "セット内容",
+          "translation": "Set contents",
+          "bbox": [0.0378, 0.0944, 0.0804, 0.011900000000000008],
+          "layout": "panel"
+        },
+        {
+          "text": "ベルト右 (R)...1 ベルト左(L)... 1 ベルト留め... 1 ゼインプログライズキー... 1",
+          "translation": "• Right belt (R): 1\n• Left belt (L): 1\n• Belt fastener: 1\n• Zain Progrise Key: 1",
+          "bbox": [0.2984, 0.09517812287807464, 0.4652926665306091, 0.011247420191764834],
+          "layout": "panel"
+        },
+        {
+          "text": "各部名称",
+          "translation": "Part names",
+          "bbox": [
+            0.05895949086546898, 0.12381501054763794, 0.07074050913453103, 0.012684989452362044
+          ],
+          "layout": "panel"
+        },
+        {
           "text": "△ 注意",
           "translation": "△ Caution",
           "bbox": [0.4417, 0.7925435409545899, 0.11401203374862667, 0.01605842399597157],
@@ -22,7 +42,7 @@
         },
         {
           "text": "お買い上げのお客様へ 必ずお読みください。",
-          "translation": "To customers who have purchased this product: Please be sure to read this.",
+          "translation": "To customers who purchased this product: Read this before use.",
           "bbox": [
             0.3394915268421173, 0.8117874965667725, 0.32100847315788267, 0.012412503433227418
           ],
@@ -55,34 +75,14 @@
           "bbox": [0.4807, 0.0605, 0.0629, 0.0041]
         },
         {
-          "text": "DRIVER",
-          "translation": "DRIVER",
-          "bbox": [0.5677, 0.0608, 0.1004, 0.0041]
-        },
-        {
-          "text": "セット内容",
-          "translation": "Set contents",
-          "bbox": [0.0393, 0.0959, 0.0774, 0.0089]
-        },
-        {
           "text": "ゼインドライバー本体・・・ 1",
           "translation": "Zein Driver main unit ... 1",
           "bbox": [0.1451, 0.0973, 0.1318, 0.0069]
         },
         {
-          "text": "ベルト右 (R)...1 ベルト左(L)... 1 ベルト留め... 1 ゼインプログライズキー... 1",
-          "translation": "Belt Right (R) ... 1  Belt Left (L) ... 1  Belt clasp ... 1  Zein Progrise Key ... 1",
-          "bbox": [0.2999, 0.0969, 0.4619, 0.0072]
-        },
-        {
           "text": "ゼインカード･･･\n5",
           "translation": "Zein Card ... 5",
           "bbox": [0.7848, 0.0973, 0.0859, 0.0065]
-        },
-        {
-          "text": "各部名称",
-          "translation": "Part names",
-          "bbox": [0.0611, 0.1261, 0.0671, 0.0089]
         },
         {
           "text": "【裁断カードがでた図】",
@@ -250,11 +250,6 @@
           "bbox": [0.5762, 0.6196, 0.032, 0.0076]
         },
         {
-          "text": "KAVERRIDER ZEIN",
-          "translation": "KAVERRIDER ZEIN",
-          "bbox": [0.4401, 0.6254, 0.0792, 0.0055]
-        },
-        {
           "text": "【側面】",
           "translation": "【Side】",
           "bbox": [0.8748, 0.6192, 0.0326, 0.0079]
@@ -265,49 +260,9 @@
           "bbox": [0.0381, 0.6921, 0.0671, 0.0058]
         },
         {
-          "text": "KAMEN FEER KROSS SABER",
-          "translation": "KAMEN FEER KROSS SABER",
-          "bbox": [0.1372, 0.7488, 0.0677, 0.0031]
-        },
-        {
-          "text": "KAMEN FRER ULTIMATE REVI",
-          "translation": "KAMEN FRER ULTIMATE REVI",
-          "bbox": [0.2606, 0.7488, 0.0677, 0.0031]
-        },
-        {
-          "text": "KAMENRIDE",
-          "translation": "KAMENRIDE",
-          "bbox": [0.1378, 0.7553, 0.0314, 0.0021]
-        },
-        {
           "text": "リセットボタン",
           "translation": "Reset button",
           "bbox": [0.5459, 0.6612, 0.0635, 0.0052]
-        },
-        {
-          "text": "KAMEN ER ULTIMATE VICE",
-          "translation": "KAMEN ER ULTIMATE VICE",
-          "bbox": [0.3827, 0.7495, 0.0683, 0.0027]
-        },
-        {
-          "text": "KAMEN RIDER GEATS IX",
-          "translation": "KAMEN RIDER GEATS IX",
-          "bbox": [0.5054, 0.7491, 0.0671, 0.0027]
-        },
-        {
-          "text": "DIMENSION",
-          "translation": "DIMENSION",
-          "bbox": [0.6421, 0.7491, 0.0514, 0.0031]
-        },
-        {
-          "text": "KAMENRIDE",
-          "translation": "KAMENRIDE",
-          "bbox": [0.3839, 0.7557, 0.032, 0.0017]
-        },
-        {
-          "text": "KAMENRIDE",
-          "translation": "KAMENRIDE",
-          "bbox": [0.5067, 0.7557, 0.0314, 0.0017]
         },
         {
           "text": "検出スイッチ",
@@ -316,7 +271,7 @@
         },
         {
           "text": "●本商品の対象年齢は15才以上です。 対象年齢未満のお子様には絶対に与えないでください。 ●小さな部品がありますので、小さなお子様が誤って飲み込まない\nように注意してください。 窒息などの危険があります。 《電池を誤使用すると発熱・破裂・液漏れの恐れがあります。 下記に注意してください》 ●万一、 ボタン電池を\n飲み込んだとき、 ボタン電池から漏れた液が目に入ったときは、すぐに医師に相談してください。漏れた液が皮膚や服に付いたときは水で洗ってください。 ボタン\n電池は飲み込むと危険です。 お子様の手の届かない所に保管してください。 古い電池と新しい電池、いろいろな種類の電池をまぜて使わないでください。\n+-(プラスマイナス)を正しくセットしてください。 ●ショートさせたり充電、分解、加熱、火の中に入れたりしないでください。●廃棄するときは、 自治体の廃棄処理の\n指示に従ってください。 ●耳の近くで使用してはいけません。 誤って使用すると、 聴覚を損なう恐れがあります。●本商品には電子部品を使用しております。ペース\nメーカーをご使用の方は、本商品を身体に近づけないようご注意ください。",
-          "translation": "● This product is for ages 15 and up. Do not give to children younger than the recommended age. ● This product contains small parts; take care that small children do not accidentally swallow them. There is a risk of choking. Misuse of batteries may cause overheating, rupture, or leakage. Observe the following precautions: ● If a button battery is swallowed, or if leaking battery fluid gets in the eye, consult a physician immediately. If leaking fluid contacts skin or clothing, wash with water. Button batteries are dangerous if swallowed—keep them out of children’s reach. Do not mix old and new batteries or different types of batteries. Set +- (プラスマイナス) correctly. ● Do not short-circuit, recharge, disassemble, heat, or throw batteries into fire. ● When disposing of this product, follow your local waste-disposal regulations. ● Do not use this product near the ear. Misuse may cause hearing damage. ● This product contains electronic components. If you use a pacemaker, keep this product away from your body.",
+          "translation": "● This product is for ages 15 and up. Do not give to children younger than the recommended age.\n● This product contains small parts; take care that small children do not accidentally swallow them. There is a risk of choking.\n● Misuse of batteries may cause overheating, rupture, or leakage. Observe the following precautions:\n● If a button battery is swallowed, or if leaking battery fluid gets in the eye, consult a physician immediately. If leaking fluid contacts skin or clothing, wash with water. Button batteries are dangerous if swallowed—keep them out of children’s reach.\n● Do not mix old and new batteries or different types of batteries. Set +- (plus minus) correctly.\n● Do not short-circuit, recharge, disassemble, heat, or throw batteries into fire.\n● When disposing of this product, follow your local waste-disposal regulations.\n● Do not use this product near the ear. Misuse may cause hearing damage.\n● This product contains electronic components. If you use a pacemaker, keep this product away from your body.",
           "bbox": [0.0375, 0.8309, 0.925, 0.0759]
         },
         {
@@ -638,87 +593,122 @@
         "plan": {
           "panels": [
             {
-              "id": "p_warning_heading",
+              "id": "p2",
+              "kind": "heading",
+              "source_ids": [5]
+            },
+            {
+              "id": "p3",
+              "kind": "prose",
+              "source_ids": [7]
+            },
+            {
+              "id": "p4",
+              "kind": "heading",
+              "source_ids": [9]
+            },
+            {
+              "id": "p5",
               "kind": "heading",
               "source_ids": [56]
             },
             {
-              "id": "p_warning_body-a",
+              "id": "p6-a",
               "kind": "prose",
               "source_ids": [57]
             },
             {
-              "id": "p_usage_heading",
+              "id": "p8",
               "kind": "heading",
               "source_ids": [59]
             }
           ],
           "furigana": [],
           "notes": [
-            "Retained p_warning_body source IDs [58] unchanged: illustration-mask check",
-            "Panel p_usage_body retained original English after failed automatic checks"
-          ]
+            "Conservative panel fallback: Panel p1 would mask unrelated source 3",
+            "Retained p1 unchanged: Panel p1 would mask unrelated source 3",
+            "Retained p6 source IDs [58] unchanged: illustration-mask check",
+            "Panel p9 retained original English after failed automatic checks"
+          ],
+          "native_artwork": [4, 43, 46, 47, 48, 50, 51, 52, 53, 54]
         },
         "mapping": [
           {
             "display_index": 0,
-            "panel_id": "p_warning_heading",
+            "panel_id": "p2",
+            "source_ids": [5],
+            "furigana_ids": [],
+            "japanese_items": ["セット内容"]
+          },
+          {
+            "display_index": 1,
+            "panel_id": "p3",
+            "source_ids": [7],
+            "furigana_ids": [],
+            "japanese_items": [
+              "ベルト右（R）…1",
+              "ベルト左（L）…1",
+              "ベルト留め…1",
+              "ゼインプログライズキー…1"
+            ]
+          },
+          {
+            "display_index": 2,
+            "panel_id": "p4",
+            "source_ids": [9],
+            "furigana_ids": [],
+            "japanese_items": ["各部名称"]
+          },
+          {
+            "display_index": 3,
+            "panel_id": "p5",
             "source_ids": [56],
             "furigana_ids": [],
             "japanese_items": ["△ 注意"]
           },
           {
-            "display_index": 1,
-            "panel_id": "p_warning_body-a",
+            "display_index": 4,
+            "panel_id": "p6-a",
             "source_ids": [57],
             "furigana_ids": [],
-            "japanese_items": ["お買い上げのお客様へ 必ずお読みください。"]
+            "japanese_items": ["お買い上げのお客様へ　必ずお読みください。"]
           },
           {
-            "display_index": 2,
-            "panel_id": "p_usage_heading",
+            "display_index": 5,
+            "panel_id": "p8",
             "source_ids": [59],
             "furigana_ids": [],
             "japanese_items": ["<使用上の注意>"]
           },
           {
-            "display_index": 3,
+            "display_index": 6,
             "source_ids": [0],
             "furigana_ids": []
           },
           {
-            "display_index": 4,
+            "display_index": 7,
             "source_ids": [1],
             "furigana_ids": []
           },
           {
-            "display_index": 5,
+            "display_index": 8,
             "source_ids": [2],
             "furigana_ids": []
           },
           {
-            "display_index": 6,
+            "display_index": 9,
             "source_ids": [3],
             "furigana_ids": []
           },
           {
-            "display_index": 7,
+            "display_index": -1,
             "source_ids": [4],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 8,
-            "source_ids": [5],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 9,
-            "source_ids": [6],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
             "display_index": 10,
-            "source_ids": [7],
+            "source_ids": [6],
             "furigana_ids": []
           },
           {
@@ -728,246 +718,250 @@
           },
           {
             "display_index": 12,
-            "source_ids": [9],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 13,
             "source_ids": [10],
             "furigana_ids": []
           },
           {
-            "display_index": 14,
+            "display_index": 13,
             "source_ids": [11],
             "furigana_ids": []
           },
           {
-            "display_index": 15,
+            "display_index": 14,
             "source_ids": [12],
             "furigana_ids": []
           },
           {
-            "display_index": 16,
+            "display_index": 15,
             "source_ids": [13],
             "furigana_ids": []
           },
           {
-            "display_index": 17,
+            "display_index": 16,
             "source_ids": [14],
             "furigana_ids": []
           },
           {
-            "display_index": 18,
+            "display_index": 17,
             "source_ids": [15],
             "furigana_ids": []
           },
           {
-            "display_index": 19,
+            "display_index": 18,
             "source_ids": [16],
             "furigana_ids": []
           },
           {
-            "display_index": 20,
+            "display_index": 19,
             "source_ids": [17],
             "furigana_ids": []
           },
           {
-            "display_index": 21,
+            "display_index": 20,
             "source_ids": [18],
             "furigana_ids": []
           },
           {
-            "display_index": 22,
+            "display_index": 21,
             "source_ids": [19],
             "furigana_ids": []
           },
           {
-            "display_index": 23,
+            "display_index": 22,
             "source_ids": [20],
             "furigana_ids": []
           },
           {
-            "display_index": 24,
+            "display_index": 23,
             "source_ids": [21],
             "furigana_ids": []
           },
           {
-            "display_index": 25,
+            "display_index": 24,
             "source_ids": [22],
             "furigana_ids": []
           },
           {
-            "display_index": 26,
+            "display_index": 25,
             "source_ids": [23],
             "furigana_ids": []
           },
           {
-            "display_index": 27,
+            "display_index": 26,
             "source_ids": [24],
             "furigana_ids": []
           },
           {
-            "display_index": 28,
+            "display_index": 27,
             "source_ids": [25],
             "furigana_ids": []
           },
           {
-            "display_index": 29,
+            "display_index": 28,
             "source_ids": [26],
             "furigana_ids": []
           },
           {
-            "display_index": 30,
+            "display_index": 29,
             "source_ids": [27],
             "furigana_ids": []
           },
           {
-            "display_index": 31,
+            "display_index": 30,
             "source_ids": [28],
             "furigana_ids": []
           },
           {
-            "display_index": 32,
+            "display_index": 31,
             "source_ids": [29],
             "furigana_ids": []
           },
           {
-            "display_index": 33,
+            "display_index": 32,
             "source_ids": [30],
             "furigana_ids": []
           },
           {
-            "display_index": 34,
+            "display_index": 33,
             "source_ids": [31],
             "furigana_ids": []
           },
           {
-            "display_index": 35,
+            "display_index": 34,
             "source_ids": [32],
             "furigana_ids": []
           },
           {
-            "display_index": 36,
+            "display_index": 35,
             "source_ids": [33],
             "furigana_ids": []
           },
           {
-            "display_index": 37,
+            "display_index": 36,
             "source_ids": [34],
             "furigana_ids": []
           },
           {
-            "display_index": 38,
+            "display_index": 37,
             "source_ids": [35],
             "furigana_ids": []
           },
           {
-            "display_index": 39,
+            "display_index": 38,
             "source_ids": [36],
             "furigana_ids": []
           },
           {
-            "display_index": 40,
+            "display_index": 39,
             "source_ids": [37],
             "furigana_ids": []
           },
           {
-            "display_index": 41,
+            "display_index": 40,
             "source_ids": [38],
             "furigana_ids": []
           },
           {
-            "display_index": 42,
+            "display_index": 41,
             "source_ids": [39],
             "furigana_ids": []
           },
           {
-            "display_index": 43,
+            "display_index": 42,
             "source_ids": [40],
             "furigana_ids": []
           },
           {
-            "display_index": 44,
+            "display_index": 43,
             "source_ids": [41],
             "furigana_ids": []
           },
           {
-            "display_index": 45,
+            "display_index": 44,
             "source_ids": [42],
             "furigana_ids": []
           },
           {
-            "display_index": 46,
+            "display_index": -1,
             "source_ids": [43],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 47,
+            "display_index": 45,
             "source_ids": [44],
             "furigana_ids": []
           },
           {
-            "display_index": 48,
+            "display_index": 46,
             "source_ids": [45],
             "furigana_ids": []
           },
           {
-            "display_index": 49,
+            "display_index": -1,
             "source_ids": [46],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 50,
+            "display_index": -1,
             "source_ids": [47],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 51,
+            "display_index": -1,
             "source_ids": [48],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 52,
+            "display_index": 47,
             "source_ids": [49],
             "furigana_ids": []
           },
           {
-            "display_index": 53,
+            "display_index": -1,
             "source_ids": [50],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 54,
+            "display_index": -1,
             "source_ids": [51],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 55,
+            "display_index": -1,
             "source_ids": [52],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 56,
+            "display_index": -1,
             "source_ids": [53],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 57,
+            "display_index": -1,
             "source_ids": [54],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 58,
+            "display_index": 48,
             "source_ids": [55],
             "furigana_ids": []
           },
           {
-            "display_index": 59,
+            "display_index": 49,
             "source_ids": [58],
             "furigana_ids": []
           },
           {
-            "display_index": 60,
+            "display_index": 50,
             "source_ids": [60],
             "furigana_ids": []
           }
@@ -1552,13 +1546,13 @@
         },
         {
           "text": "※電源スイッチがX (OFF)になっていることを確認してください。\n※音が小さくなって聞きとりにくくなったり、音が繰り返し鳴るなどの誤動作をする場合は、すべて新しい電池に交換してください。",
-          "translation": "• Make sure the power switch is set to X (OFF).\n• If the sound becomes low and hard to hear, or the sound repeats or other malfunctions occur, replace all batteries with new ones.",
+          "translation": "• Make sure the power switch is set to X (OFF).\n• If the sound becomes faint or hard to hear, or the sound repeats or other malfunctions occur, replace all batteries with new ones.",
           "bbox": [0.03880632972717285, 0.0781, 0.7262936702728271, 0.0489],
           "layout": "panel"
         },
         {
           "text": "①電池ぶたを取り外します。\n①-1 本体背面の電池ぶたの穴を\n先の細い棒などで押しながら、\n①-2 電池ぶたを矢印の方向に\n取り外します。\n②乾電池を入れます。\n単4乾電池2本(別売り)の+を\n③電池ぶたを戻します。\n電池ぶたの突起と本体のミゾを",
-          "translation": "• 1. Remove the battery cover.\n• 1-1 While pressing the hole of the battery cover on the back of the unit with a thin pointed stick or similar,\n• 1-2 remove the battery cover in the direction of the arrow.\n• 2. Insert the dry batteries.\n• Insert two AAA (R03) batteries (sold separately), making sure not to reverse the + and − polarities.\n• 3. Replace the battery cover.\n• Align the protrusion of the battery cover with the groove on the unit and attach the battery cover.",
+          "translation": "• 1. Remove the battery cover.\n1-1 While pressing the hole in the battery cover on the back of the unit with a thin pointed stick or similar, \n1-2 slide the battery cover off in the direction of the arrow.\n• 2. Insert batteries.\nInsert two AAA (R03) dry batteries (sold separately), making sure the + and − polarities are not reversed.\n• 3. Replace the battery cover.\nAlign the projection on the battery cover with the groove on the unit and attach the battery cover.",
           "bbox": [
             0.03880632972717285, 0.12614613330364227, 0.2299246280193329, 0.17077251660823822
           ],
@@ -1572,13 +1566,13 @@
         },
         {
           "text": "電源スイッチをON) にします。\nC+ 起動音が鳴ります。",
-          "translation": "• Set the power switch to ○ (ON).\n• A startup sound will play.",
+          "translation": "• Set the power switch to ON.\n• A startup sound will play.",
           "bbox": [0.6551, 0.22093286669254303, 0.2609506024360656, 0.03176713330745701],
           "layout": "panel"
         },
         {
           "text": "※遊び終わった後は、必ず電源スイッチを",
-          "translation": "After you finish playing, always set the power switch to × (OFF).",
+          "translation": "After playing, always set the power switch to X (OFF).",
           "bbox": [0.7216, 0.4623230502605438, 0.18477706661224358, 0.0241690366268158],
           "layout": "panel"
         },
@@ -1590,13 +1584,13 @@
         },
         {
           "text": "初めて遊ぶ前に･･･\n絶縁シートの外し方\n①ゼインプログライズキー背面から出ている\n絶縁シートを矢印の方向に引き抜きます。\n【背面】 絶縁シート ゼインプログライズキー",
-          "translation": "• Before playing for the first time... How to remove the insulating sheet\n• 1. Pull out the insulating sheet protruding from the back of the Zein Proglize Key in the direction of the arrow.\n• [Back] Insulating sheet Zein Proglize Key",
+          "translation": "• Before first use...\n• How to remove the insulating sheet\n• 1. Pull the insulating sheet out from the back of the Zein Progrise Key in the direction of the arrow.\n• [Back] Insulating sheet   Zein Progrise Key",
           "bbox": [0.0384, 0.5729000000000001, 0.2624, 0.11359207496643053],
           "layout": "panel"
         },
         {
           "text": "②リセットボタンを先の細い棒などで\n軽く押します。",
-          "translation": "2. Lightly press the reset button with a thin pointed rod or similar object.",
+          "translation": "2. Lightly press the reset button with the tip of a thin stick or similar object.",
           "bbox": [
             0.038403264492750167, 0.8056000000000001, 0.21879673550724982, 0.029075361156463475
           ],
@@ -1604,19 +1598,19 @@
         },
         {
           "text": "※電源スイッチがX (OFF)になっていることを確認してください。\n※音が小さくなって聞きとりにくくなったり、音が繰り返し鳴るなどの誤動作をする場合、\nすべて新しい電池に交換してください。",
-          "translation": "• Confirm that the power switch is set to X (OFF).\n• If the sound becomes faint and difficult to hear, or if the sound repeats or other malfunctions occur, replace all batteries with new ones.",
+          "translation": "• Make sure the power switch is set to X (OFF).\n• If the sound becomes faint and hard to hear, or if the sound repeats or other malfunctions occur, replace all batteries with new ones.",
           "bbox": [0.3245782063007355, 0.5720000000000001, 0.5116658298969268, 0.06399999999999995],
           "layout": "panel"
         },
         {
           "text": "①電池ぶたを取り外します。\n①-1 ゼインプログライズキー背面の電池ぶたの穴を\n先の細い棒などで押しながら、\n①-2 電池ぶたを取り外します。\n②電池を入れます。\n古いボタン電池を取り外して、\n新しいボタン電池3個 (LR44・別売り)を\n+に注意してセットします。\n③電池ぶたを戻します。\n電池ぶたの突起と本体のミゾを合わせ、\n電池ぶたを閉じます。",
-          "translation": "• 1) Remove the battery cover.\n• 1-1 While pressing the hole of the battery cover on the back of the Zain Prograize Key with a thin pointed stick,\n• 1-2 remove the battery cover.\n• 2) Install the batteries.\n• Remove the old button batteries,\n• and set three new button batteries (LR44, sold separately),\n• taking care of the + and − polarities.\n• 3) Replace the battery cover.\n• Align the projection on the battery cover with the groove on the main body,\n• and close the battery cover.",
+          "translation": "• 1. Remove the battery cover.\n• 1-1/1-2 While pressing the hole in the battery cover on the back of the Zain Progrise Key with a thin pointed stick, remove the battery cover.\n• 2. Install the batteries. Remove the old button batteries and install three new button batteries (LR44, sold separately), making sure to observe the + and − polarity.\n• 3. Replace the battery cover. Align the protrusion on the battery cover with the groove on the main body and close the cover.",
           "bbox": [0.3244, 0.6355000000000001, 0.3232104154586791, 0.18859999999999988],
           "layout": "panel"
         },
         {
           "text": "●セットされている電池は、テスト用です。 +",
-          "translation": "The battery installed is for testing.",
+          "translation": "The batteries installed are for testing.",
           "bbox": [
             0.3221598074436188, 0.8689581260681153, 0.2129959552288055, 0.013110616683959853
           ],
@@ -1624,7 +1618,7 @@
         },
         {
           "text": "ボタン電池は上側が十に下側\nがになるようにセットします。",
-          "translation": "Set the button battery so the upper side is + and the lower side is −.",
+          "translation": "Insert the button cell with the + side facing up and the - side facing down.",
           "bbox": [
             0.3350578353404999, 0.8966000000000001, 0.15293953704833985, 0.024299999999999877
           ],
@@ -1661,11 +1655,6 @@
           "bbox": [0.2999, 0.3398, 0.0193, 0.0066]
         },
         {
-          "text": "1-2",
-          "translation": "1-2",
-          "bbox": [0.3446, 0.3408, 0.029, 0.0104]
-        },
-        {
           "text": "突起",
           "translation": "protrusion",
           "bbox": [0.286, 0.3687, 0.0212, 0.0076]
@@ -1679,11 +1668,6 @@
           "text": "2019 藤プロ・テレビ朝日・ADK・東映",
           "translation": "2019 Fuji Productions, TV Asahi, ADK, Toei",
           "bbox": [0.3374, 0.3948, 0.1372, 0.0062]
-        },
-        {
-          "text": "BANDA, MADE IN CHINA",
-          "translation": "BANDAI, MADE IN CHINA",
-          "bbox": [0.3295, 0.4014, 0.0949, 0.0066]
         },
         {
           "text": "·突起",
@@ -1716,16 +1700,6 @@
           "bbox": [0.3942, 0.4777, 0.0121, 0.0081]
         },
         {
-          "text": "1-1",
-          "translation": "1-1",
-          "bbox": [0.4885, 0.4768, 0.0248, 0.009]
-        },
-        {
-          "text": "1-1",
-          "translation": "1-1",
-          "bbox": [0.8368, 0.637, 0.0266, 0.0085]
-        },
-        {
           "text": "穴",
           "translation": "[Back] Insulation sheet Zein Progrise Key",
           "bbox": [0.7473, 0.6621, 0.0127, 0.0081]
@@ -1751,29 +1725,14 @@
           "bbox": [0.3881, 0.8251, 0.0635, 0.0133]
         },
         {
-          "text": "JOY KAMENRIDER ZEIN",
-          "translation": "JOY KAMENRIDER ZEIN",
-          "bbox": [0.13, 0.8559, 0.1209, 0.009]
-        },
-        {
           "text": "ボタン電池(LR44) 3個使用(付)",
           "translation": "Uses 3 button batteries (LR44) (included)",
           "bbox": [0.3386, 0.854, 0.1378, 0.0085]
         },
         {
-          "text": "+",
-          "translation": "+",
-          "bbox": [0.5744, 0.8706, 0.0151, 0.0085]
-        },
-        {
           "text": "リセットボタン",
           "translation": "Reset button",
           "bbox": [0.1753, 0.9445, 0.0641, 0.0076]
-        },
-        {
-          "text": "1-2",
-          "translation": "1-2",
-          "bbox": [0.7213, 0.7896, 0.029, 0.0104]
         },
         {
           "text": "突起",
@@ -2101,8 +2060,9 @@
           ],
           "furigana": [],
           "notes": [
-            "Source 27 contains both a subsection heading and its instruction body in one OCR region, so it could not be separated by source ID."
-          ]
+            "Source 27 mixes subheadings and instruction text in one OCR region, so it is kept as one prose panel."
+          ],
+          "native_artwork": [13, 17, 25, 31, 41, 44, 47]
         },
         "mapping": [
           {
@@ -2128,13 +2088,9 @@
             "source_ids": [2, 3, 11],
             "furigana_ids": [],
             "japanese_items": [
-              "①電池ぶたを取り外します。",
-              "①-1 本体背面の電池ぶたの穴を\n先の細い棒などで押しながら、",
-              "①-2 電池ぶたを矢印の方向に\n取り外します。",
-              "②乾電池を入れます。",
-              "単4乾電池2本(別売り)の+⊖を\nそれぞれ間違えないように入れます。",
-              "③電池ぶたを戻します。",
-              "電池ぶたの突起と本体のミゾを\n合わせ、電池ぶたを取り付けます。"
+              "①電池ぶたを取り外します。\n①-1 本体背面の電池ぶたの穴を先の細い棒などで押しながら、\n①-2 電池ぶたを矢印の方向に取り外します。",
+              "②乾電池を入れます。\n単4乾電池2本(別売り)の+と−をそれぞれ間違えないように入れます。",
+              "③電池ぶたを戻します。\n電池ぶたの突起と本体のミゾを合わせ、電池ぶたを取り付けます。"
             ]
           },
           {
@@ -2156,7 +2112,7 @@
             "panel_id": "p5",
             "source_ids": [23],
             "furigana_ids": [],
-            "japanese_items": ["遊び終わった後は、必ず電源スイッチを×(OFF)にしてください。"]
+            "japanese_items": ["※遊び終わった後は、必ず電源スイッチをX（OFF）にしてください。"]
           },
           {
             "display_index": 6,
@@ -2171,7 +2127,8 @@
             "source_ids": [27, 28],
             "furigana_ids": [],
             "japanese_items": [
-              "初めて遊ぶ前に･･･　絶縁シートの外し方",
+              "初めて遊ぶ前に･･･",
+              "絶縁シートの外し方",
               "①ゼインプログライズキー背面から出ている絶縁シートを矢印の方向に引き抜きます。",
               "【背面】 絶縁シート ゼインプログライズキー"
             ]
@@ -2181,7 +2138,7 @@
             "panel_id": "p8",
             "source_ids": [35],
             "furigana_ids": [],
-            "japanese_items": ["②リセットボタンを先の細い棒などで軽く押します。"]
+            "japanese_items": ["②リセットボタンを先の細い棒などで\n軽く押します。"]
           },
           {
             "display_index": 9,
@@ -2200,15 +2157,9 @@
             "furigana_ids": [],
             "japanese_items": [
               "①電池ぶたを取り外します。",
-              "①-1 ゼインプログライズキー背面の電池ぶたの穴を先の細い棒などで押しながら、",
-              "①-2 電池ぶたを取り外します。",
-              "②電池を入れます。",
-              "古いボタン電池を取り外して、",
-              "新しいボタン電池3個 (LR44・別売り)を",
-              "+に注意してセットします。",
-              "③電池ぶたを戻します。",
-              "電池ぶたの突起と本体のミゾを合わせ、",
-              "電池ぶたを閉じます。"
+              "①-1 ゼインプログライズキー背面の電池ぶたの穴を先の細い棒などで押しながら、①-2 電池ぶたを取り外します。",
+              "②電池を入れます。古いボタン電池を取り外して、新しいボタン電池3個（LR44・別売り）を＋−に注意してセットします。",
+              "③電池ぶたを戻します。電池ぶたの突起と本体のミゾを合わせ、電池ぶたを閉じます。"
             ]
           },
           {
@@ -2223,7 +2174,7 @@
             "panel_id": "p12",
             "source_ids": [45],
             "furigana_ids": [],
-            "japanese_items": ["ボタン電池は上側が＋に、下側が−になるようにセットします。"]
+            "japanese_items": ["ボタン電池は上側が＋に下側が−になるようにセットします。"]
           },
           {
             "display_index": 13,
@@ -2256,129 +2207,135 @@
             "furigana_ids": []
           },
           {
-            "display_index": 19,
+            "display_index": -1,
             "source_ids": [13],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 20,
+            "display_index": 19,
             "source_ids": [14],
             "furigana_ids": []
           },
           {
-            "display_index": 21,
+            "display_index": 20,
             "source_ids": [15],
             "furigana_ids": []
           },
           {
-            "display_index": 22,
+            "display_index": 21,
             "source_ids": [16],
             "furigana_ids": []
           },
           {
-            "display_index": 23,
+            "display_index": -1,
             "source_ids": [17],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 24,
+            "display_index": 22,
             "source_ids": [18],
             "furigana_ids": []
           },
           {
-            "display_index": 25,
+            "display_index": 23,
             "source_ids": [19],
             "furigana_ids": []
           },
           {
-            "display_index": 26,
+            "display_index": 24,
             "source_ids": [20],
             "furigana_ids": []
           },
           {
-            "display_index": 27,
+            "display_index": 25,
             "source_ids": [21],
             "furigana_ids": []
           },
           {
-            "display_index": 28,
+            "display_index": 26,
             "source_ids": [22],
             "furigana_ids": []
           },
           {
-            "display_index": 29,
+            "display_index": 27,
             "source_ids": [24],
             "furigana_ids": []
           },
           {
-            "display_index": 30,
+            "display_index": -1,
             "source_ids": [25],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 31,
+            "display_index": -1,
             "source_ids": [31],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 32,
+            "display_index": 28,
             "source_ids": [32],
             "furigana_ids": []
           },
           {
-            "display_index": 33,
+            "display_index": 29,
             "source_ids": [33],
             "furigana_ids": []
           },
           {
-            "display_index": 34,
+            "display_index": 30,
             "source_ids": [34],
             "furigana_ids": []
           },
           {
-            "display_index": 35,
+            "display_index": 31,
             "source_ids": [36],
             "furigana_ids": []
           },
           {
-            "display_index": 36,
+            "display_index": 32,
             "source_ids": [40],
             "furigana_ids": []
           },
           {
-            "display_index": 37,
+            "display_index": -1,
             "source_ids": [41],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 38,
+            "display_index": 33,
             "source_ids": [42],
             "furigana_ids": []
           },
           {
-            "display_index": 39,
+            "display_index": -1,
             "source_ids": [44],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 40,
+            "display_index": 34,
             "source_ids": [46],
             "furigana_ids": []
           },
           {
-            "display_index": 41,
+            "display_index": -1,
             "source_ids": [47],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 42,
+            "display_index": 35,
             "source_ids": [48],
             "furigana_ids": []
           }
         ],
         "uncertainties": [
-          "There is a leading '+' symbol and battery icon adjacent to the text in the image; unclear whether the '+' is part of the printed sentence or a separate label.",
-          "The Japanese term 電池 does not mark singular/plural; rendered as singular 'battery' in English but could refer to one or more batteries."
+          "A standalone '+' appeared nearby in the image; it may be a separate polarity symbol or graphic and not part of the printed sentence."
         ],
         "ocr_lines": [
           {
@@ -3023,8 +2980,14 @@
           "layout": "panel"
         },
         {
+          "text": "※図のように\n矢印を\n上にします。",
+          "translation": "Make the arrow point upward as shown.",
+          "bbox": [0.8866, 0.02556027030944824, 0.06492013444900502, 0.023539729690551764],
+          "layout": "panel"
+        },
+        {
           "text": "ゼインドライバー本体背面を図の向きにして\nベルト右(R) ・ベルト左 (L) 裏側の刻印(R・L)の\n矢印が上向きになるようにします。",
-          "translation": "With the back of the Zein Driver facing the direction shown, position it so the arrows on the underside markings of Belt Right (R) and Belt Left (L) point upward.",
+          "translation": "Hold the back of the Zein Driver as shown, and make sure the arrows on the R (belt right) and L (belt left) markings on the underside of the belts point upward.",
           "bbox": [
             0.056138049125671385, 0.07988581365346908, 0.2766799716949463, 0.030514186346530914
           ],
@@ -3032,7 +2995,7 @@
         },
         {
           "text": "ベルト留めに\nベルト右 (R) を通します。",
-          "translation": "Pass the right belt (R) through the belt keeper.",
+          "translation": "Thread the right belt (R) through the belt keeper.",
           "bbox": [0.7597, 0.15143152630329132, 0.14667706661224356, 0.01986847369670869],
           "layout": "panel"
         },
@@ -3046,26 +3009,14 @@
         },
         {
           "text": "※パチンと音がするまで、\nはめ込みます。\n突起",
-          "translation": "• Push in until it clicks.\n• Protrusion",
+          "translation": "• Push in until it snaps.\n• Protrusion",
           "bbox": [0.3534, 0.2789, 0.1251, 0.03051306495666506],
-          "layout": "panel"
-        },
-        {
-          "text": "①ベルト左 (L)が外側になるように腰に巻き付け、\n体に合わせた\n位置で2つの",
-          "translation": "1. Wrap the belt around your waist so the left belt (L) is on the outside, and at a position adjusted to your body, two...",
-          "bbox": [0.05371966889500618, 0.3002, 0.2869803311049938, 0.03119999999999995],
           "layout": "panel"
         },
         {
           "text": "突起を\nはめ込みます。",
           "translation": "Insert the protrusion.",
           "bbox": [0.0674, 0.33089999999999997, 0.08820000000000001, 0.02030000000000004],
-          "layout": "panel"
-        },
-        {
-          "text": "②ベルト留めを\nベルトが重なっている\n部分まで移動させます。",
-          "translation": "② Move the belt stopper to the area where the belt overlaps.",
-          "bbox": [0.04041857948899269, 0.3875, 0.15495485576987267, 0.02994916582107543],
           "layout": "panel"
         },
         {
@@ -3076,7 +3027,7 @@
         },
         {
           "text": "①着脱ボタンを上下同時に押しながら、\n②ベルト右 (R) を\n矢印の方向に引っぱって取り外します。\n※ベルト左(L)も同様に行います。",
-          "translation": "• 1. While pressing the release buttons up and down at the same time,\n• 2. pull the right belt (R) in the direction of the arrow to remove it.\n• *Perform the same procedure for the left belt (L).",
+          "translation": "• ①While pressing the release buttons up and down at the same time, ②pull the right belt (R) in the direction of the arrow to remove it.\n• The left belt (L) is removed the same way.",
           "bbox": [0.5019260153770447, 0.3909, 0.23838899421691884, 0.0468443685531616],
           "layout": "panel"
         },
@@ -3096,13 +3047,13 @@
         },
         {
           "text": "※ゼインドライバーが完成した\n状態から始めます。\n※説明の図ではベルトを省略しています。\nゼインドライバー底面のボタンを長押しします。\n下記表の1~3が順番に鳴ります。\n※起動音と同様の音声となります。",
-          "translation": "• ※Begin from the state where the Zein Driver is fully assembled.\n• ※The belt is omitted in the explanatory illustrations.\n• Press and hold the button on the bottom of the Zein Driver.\n• Items 1–3 in the table below will sound in order.\n• ※The sounds are the same as the startup sounds.",
+          "translation": "• Start with the Zein Driver fully assembled.\n• The belt is omitted from the diagrams for clarity.\n• Press and hold the button on the bottom of the Zein Driver.\n• Items 1–3 in the table below will sound in order.\n• The voice is the same as the startup sound.",
           "bbox": [0.040799999999999996, 0.530070315361023, 0.3053, 0.07742968463897704],
           "layout": "panel"
         },
         {
           "text": "音声",
-          "translation": "Audio",
+          "translation": "Voice",
           "bbox": [
             0.16415901041030884, 0.6070000000000001, 0.030240989589691153, 0.00950614881515488
           ],
@@ -3122,7 +3073,7 @@
         },
         {
           "text": "ゼインドライバーの底面ボタンを押すと\n下記リストの順で台詞が鳴ります。\n※台詞遊びはプログライズキーが\n装填された状態でも行うことができます。",
-          "translation": "• When you press the bottom button of the Zein Driver, phrases will play in the order shown in the list below.\n• Note: Phrase play can also be performed while a Progrise Key is inserted.",
+          "translation": "• Press the bottom button of the Zein Driver to play the voice lines in the order shown below.\n• Voice-line play also works when a Progrise Key is inserted.",
           "bbox": [
             0.04686759343743324, 0.7051000000000001, 0.25753240656256676, 0.04035245313644398
           ],
@@ -3136,13 +3087,13 @@
         },
         {
           "text": "セリフ",
-          "translation": "Dialogue",
+          "translation": "Voice lines",
           "bbox": [0.2748, 0.8254782662391663, 0.0393, 0.008535066127776991],
           "layout": "panel"
         },
         {
           "text": "ゼイン。この次元の、救世主です。\n悪しき心を持つ者には、天罰を下す。",
-          "translation": "• Zane. He is the savior of this dimension.\n• He will mete out divine punishment to those who harbor evil hearts.",
+          "translation": "• Zain. The savior of this dimension.\n• He delivers divine punishment to anyone who has an evil heart.",
           "bbox": [
             0.09886275535821915, 0.8554085597991944, 0.2113837315440178, 0.023910203456878554
           ],
@@ -3150,24 +3101,43 @@
         },
         {
           "text": "濫用?悪しき心を宿す人間を呼び寄せるために\n有効利用させてもらっただけだ･･･ 仮面ライダーゲンム。\n確率はゼロではない。\n予測・・・。 私の専門分野だ。\n仮面ライダーゼロツーの力で、未来を予測する。",
-          "translation": "• Abuse? I merely made effective use of it to draw in people who harbor evil hearts... Kamen Rider Genm.\n• The probability is not zero.\n• Prediction... is my specialty.\n• With the power of Kamen Rider Zero-Two, I will predict the future.",
+          "translation": "• Abuse? I only used it effectively to draw in people who harbor evil intentions... Kamen Rider Genm.\n• The probability is not zero.\n• Prediction... that's my specialty.\n• Using Kamen Rider Zero-two's power, I predict the future.",
           "bbox": [0.09886275535821915, 0.886, 0.3210169388651848, 0.06599999999999984],
           "layout": "panel"
         },
         {
-          "text": "※図のように",
-          "translation": "※As shown in the figure",
-          "bbox": [0.8881, 0.0277, 0.0562, 0.0043]
+          "text": "セリフ\n順番",
+          "translation": "• Order\n• Lines",
+          "bbox": [0.5058, 0.8251000000000001, 0.26111715860366813, 0.009799999999999809],
+          "layout": "panel"
         },
         {
-          "text": "矢印を",
-          "translation": "arrows",
-          "bbox": [0.8972, 0.0351, 0.0302, 0.0043]
+          "text": "本当の世界の救世主が誰か、いずれ裁きは下される。",
+          "translation": "Who the world's true savior is will eventually be judged.",
+          "bbox": [
+            0.5515028343200684, 0.8408000000000001, 0.30789716567993164, 0.014899999999999913
+          ],
+          "layout": "panel"
         },
         {
-          "text": "上にします。",
-          "translation": "point upward.",
-          "bbox": [0.8972, 0.0427, 0.052, 0.0049]
+          "text": "何をしている。 未来を蝕む悪を裁くのだ。\n変わるさ。善良な世界へとな。",
+          "translation": "• What are you doing? I will judge the evil that is eating away at the future.\n• It will change. Toward a benevolent world.",
+          "bbox": [
+            0.5515028343200684, 0.8549985394477845, 0.23599716567993156, 0.029901460552215542
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "ああ、そうだ。裁きは定められた天命。\nしぃー。",
+          "translation": "• Yes. Judgment is a predetermined destiny.\n• Shh.",
+          "bbox": [0.5529000000000001, 0.8844000000000001, 0.216838604068756, 0.0239999999999998],
+          "layout": "panel"
+        },
+        {
+          "text": "※15の後は1に戻ります。",
+          "translation": "After 15, it returns to 1.",
+          "bbox": [0.7945499525070191, 0.9585, 0.15898553419113148, 0.009379642486572193],
+          "layout": "panel"
         },
         {
           "text": "・凹ジョイント",
@@ -3250,6 +3220,21 @@
           "bbox": [0.3531, 0.2472, 0.049, 0.0046]
         },
         {
+          "text": "①ベルト左 (L)が外側になるように腰に巻き付け、\n体に合わせた",
+          "translation": "① Wrap the belt around your waist so that Belt Left (L) is on the outside, and at a position that fits your body,",
+          "bbox": [0.0556, 0.3017, 0.2836, 0.0166]
+        },
+        {
+          "text": "位置で2つの",
+          "translation": "Two positions",
+          "bbox": [0.0689, 0.3223, 0.0762, 0.0065]
+        },
+        {
+          "text": "②ベルト留めを",
+          "translation": "② Slide the belt fastener",
+          "bbox": [0.0423, 0.389, 0.0895, 0.0062]
+        },
+        {
           "text": "ベルト右 (R)",
           "translation": "Belt Right (R)",
           "bbox": [0.8821, 0.2411, 0.0562, 0.0052]
@@ -3268,6 +3253,16 @@
           "text": "完成!",
           "translation": "Complete!",
           "bbox": [0.8313, 0.337, 0.0719, 0.0148]
+        },
+        {
+          "text": "ベルトが重なっている",
+          "translation": "to the overlapped section",
+          "bbox": [0.0562, 0.3988, 0.127, 0.0068]
+        },
+        {
+          "text": "部分まで移動させます。",
+          "translation": "Move it to that section.",
+          "bbox": [0.0562, 0.4093, 0.1366, 0.0065]
         },
         {
           "text": "-ベルト留め",
@@ -3335,44 +3330,9 @@
           "bbox": [0.0538, 0.8269, 0.0278, 0.0062]
         },
         {
-          "text": "順番",
-          "translation": "Order",
-          "bbox": [0.5073, 0.8269, 0.0272, 0.0065]
-        },
-        {
-          "text": "セリフ",
-          "translation": "Line",
-          "bbox": [0.7291, 0.8266, 0.0363, 0.0058]
-        },
-        {
           "text": "ここまでご苦労様です。 あとは私が裁きを下しましょう。",
           "translation": "Thank you for your hard work so far. Now it's time for me to pass judgment.",
           "bbox": [0.101, 0.8423, 0.3144, 0.0065]
-        },
-        {
-          "text": "本当の世界の救世主が誰か、いずれ裁きは下される。",
-          "translation": "Judgment will eventually be made on who the true savior of the world is.",
-          "bbox": [0.5532, 0.8423, 0.3047, 0.0068]
-        },
-        {
-          "text": "何をしている。 未来を蝕む悪を裁くのだ。",
-          "translation": "What are you doing? Judge the evil that is corroding the future.",
-          "bbox": [0.5532, 0.8567, 0.2328, 0.0065]
-        },
-        {
-          "text": "変わるさ。善良な世界へとな。",
-          "translation": "It will change. To a better world.",
-          "bbox": [0.5532, 0.8712, 0.1705, 0.0065]
-        },
-        {
-          "text": "ああ、そうだ。裁きは定められた天命。",
-          "translation": "Ah, that's right. Judgment is a predetermined decree.",
-          "bbox": [0.5544, 0.8859, 0.2122, 0.0062]
-        },
-        {
-          "text": "しぃー。",
-          "translation": "Shhh.",
-          "bbox": [0.5544, 0.9007, 0.0405, 0.0062]
         },
         {
           "text": "ゼイン。すべての悪意を駆逐する仮面ライダー。",
@@ -3388,11 +3348,6 @@
           "text": "アウトサイダーにしては弱すぎる。 偽物でしたか・・・。",
           "translation": "Too weak for an Outsider. Was it a fake...?",
           "bbox": [0.5538, 0.944, 0.2926, 0.0068]
-        },
-        {
-          "text": "※15の後は1に戻ります。",
-          "translation": "※After 15 it returns to 1.",
-          "bbox": [0.7963, 0.96, 0.1554, 0.0062]
         }
       ],
       "image": "pages/page-2.webp",
@@ -3843,116 +3798,142 @@
               "source_ids": [0]
             },
             {
-              "id": "p2",
+              "id": "p1",
+              "kind": "prose",
+              "source_ids": [1, 2, 3]
+            },
+            {
+              "id": "p3",
               "kind": "prose",
               "source_ids": [6]
             },
             {
-              "id": "p5",
+              "id": "p6",
               "kind": "prose",
               "source_ids": [15, 16]
             },
             {
-              "id": "p6",
+              "id": "p7",
               "kind": "heading",
               "source_ids": [23]
             },
             {
-              "id": "p7",
+              "id": "p8",
               "kind": "prose",
               "source_ids": [24, 25, 27]
             },
             {
-              "id": "p8-a",
-              "kind": "prose",
-              "source_ids": [26, 28]
-            },
-            {
-              "id": "p8-b",
+              "id": "p9-b",
               "kind": "prose",
               "source_ids": [29, 30]
             },
             {
-              "id": "p9",
-              "kind": "prose",
-              "source_ids": [31, 40, 41]
-            },
-            {
-              "id": "p10",
+              "id": "p11",
               "kind": "heading",
               "source_ids": [34]
             },
             {
-              "id": "p11",
+              "id": "p12",
               "kind": "prose",
               "source_ids": [35, 36, 37, 43]
             },
             {
-              "id": "p12",
+              "id": "p13",
               "kind": "heading",
               "source_ids": [44]
             },
             {
-              "id": "p13",
+              "id": "p14",
               "kind": "heading",
               "source_ids": [45]
             },
             {
-              "id": "p14-a",
+              "id": "p15-a",
               "kind": "prose",
               "source_ids": [46, 47]
             },
             {
-              "id": "p14-b-a",
+              "id": "p15-b-a",
               "kind": "prose",
               "source_ids": [48]
             },
             {
-              "id": "p14-b-b-a",
+              "id": "p15-b-b-a",
               "kind": "prose",
               "source_ids": [52]
             },
             {
-              "id": "p17",
+              "id": "p18",
               "kind": "heading",
               "source_ids": [57]
             },
             {
-              "id": "p18",
+              "id": "p19",
               "kind": "prose",
               "source_ids": [61, 62, 63]
             },
             {
-              "id": "p19",
+              "id": "p20",
               "kind": "heading",
               "source_ids": [65]
             },
             {
-              "id": "p20-a-a-a",
+              "id": "p21-a-a-a",
               "kind": "prose",
               "source_ids": [67]
             },
             {
-              "id": "p20-a-b",
+              "id": "p21-a-b",
               "kind": "prose",
               "source_ids": [72, 74]
             },
             {
-              "id": "p20-b",
+              "id": "p21-b",
               "kind": "prose",
               "source_ids": [76, 78, 80, 82, 84]
+            },
+            {
+              "id": "p22-a-a",
+              "kind": "prose",
+              "source_ids": [69, 68]
+            },
+            {
+              "id": "p22-a-b-a",
+              "kind": "prose",
+              "source_ids": [71]
+            },
+            {
+              "id": "p22-a-b-b",
+              "kind": "prose",
+              "source_ids": [73, 75]
+            },
+            {
+              "id": "p22-b-a",
+              "kind": "prose",
+              "source_ids": [77, 79]
+            },
+            {
+              "id": "p23",
+              "kind": "prose",
+              "source_ids": [86]
             }
           ],
           "furigana": [],
           "notes": [
-            "Diagram labels, product labels, and view captions were left ungrouped.",
-            "Conservative panel fallback: Panel p15 would mask unrelated source 48",
-            "Retained p14 source IDs [53] unchanged: illustration-mask check",
-            "Retained p20 source IDs [70] unchanged: illustration-mask check",
-            "Panel p1 retained original English after failed automatic checks",
-            "Panel p3 retained original English after failed automatic checks",
-            "Panel p4 retained original English after failed automatic checks"
-          ]
+            "Source 38 is a logo/product label near source 39, not a pronunciation guide for it.",
+            "Conservative panel fallback: Panel p16 would mask unrelated source 48",
+            "Retained p15 source IDs [53] unchanged: illustration-mask check",
+            "Retained p21 source IDs [70] unchanged: illustration-mask check",
+            "Retained p22 source IDs [81] unchanged: illustration-mask check",
+            "Panel p2 retained original English after failed automatic checks",
+            "Panel p4 retained original English after failed automatic checks",
+            "Panel p5 retained original English after failed automatic checks",
+            "Panel p9-a retained original English after failed automatic checks",
+            "Panel p10 retained original English after failed automatic checks",
+            "Panel p22-b-b-b-a retained original English after failed automatic checks",
+            "Panel p22-b-b-b-b retained original English after failed automatic checks"
+          ],
+          "native_artwork": []
         },
         "mapping": [
           {
@@ -3964,126 +3945,116 @@
           },
           {
             "display_index": 1,
-            "panel_id": "p2",
-            "source_ids": [6],
+            "panel_id": "p1",
+            "source_ids": [1, 2, 3],
             "furigana_ids": [],
-            "japanese_items": [
-              "ゼインドライバー本体背面を図の向きにしてベルト右(R)・ベルト左(L)裏側の刻印(R・L)の矢印が上向きになるようにします。"
-            ]
+            "japanese_items": ["※図のように矢印を上にします。"]
           },
           {
             "display_index": 2,
-            "panel_id": "p5",
-            "source_ids": [15, 16],
+            "panel_id": "p3",
+            "source_ids": [6],
             "furigana_ids": [],
-            "japanese_items": ["ベルト留めに ベルト右 (R) を通します。"]
+            "japanese_items": [
+              "ゼインドライバー本体背面を図の向きにして ベルト右(R)・ベルト左(L)裏側の刻印(R・L)の矢印が上向きになるようにします。"
+            ]
           },
           {
             "display_index": 3,
             "panel_id": "p6",
+            "source_ids": [15, 16],
+            "furigana_ids": [],
+            "japanese_items": ["ベルト留めに ベルト右(R)を通します。"]
+          },
+          {
+            "display_index": 4,
+            "panel_id": "p7",
             "source_ids": [23],
             "furigana_ids": [],
             "japanese_items": ["3 ベルトの調整"]
           },
           {
-            "display_index": 4,
-            "panel_id": "p7",
+            "display_index": 5,
+            "panel_id": "p8",
             "source_ids": [24, 25, 27],
             "furigana_ids": [],
-            "japanese_items": ["※パチンと音がするまで、はめ込みます。", "突起"]
-          },
-          {
-            "display_index": 5,
-            "panel_id": "p8-a",
-            "source_ids": [26, 28],
-            "furigana_ids": [],
-            "japanese_items": [
-              "①ベルト左 (L)が外側になるように腰に巻き付け、\n体に合わせた\n位置で2つの"
-            ]
+            "japanese_items": ["※パチンと音がするまで、\nはめ込みます。", "突起"]
           },
           {
             "display_index": 6,
-            "panel_id": "p8-b",
+            "panel_id": "p9-b",
             "source_ids": [29, 30],
             "furigana_ids": [],
-            "japanese_items": ["突起をはめ込みます。"]
+            "japanese_items": ["突起を\nはめ込みます。"]
           },
           {
             "display_index": 7,
-            "panel_id": "p9",
-            "source_ids": [31, 40, 41],
-            "furigana_ids": [],
-            "japanese_items": ["②ベルト留めをベルトが重なっている部分まで移動させます。"]
-          },
-          {
-            "display_index": 8,
-            "panel_id": "p10",
+            "panel_id": "p11",
             "source_ids": [34],
             "furigana_ids": [],
             "japanese_items": ["ベルトの取り外し方"]
           },
           {
-            "display_index": 9,
-            "panel_id": "p11",
+            "display_index": 8,
+            "panel_id": "p12",
             "source_ids": [35, 36, 37, 43],
             "furigana_ids": [],
             "japanese_items": [
-              "①着脱ボタンを上下同時に押しながら、",
-              "②ベルト右 (R) を矢印の方向に引っぱって取り外します。",
+              "①着脱ボタンを上下同時に押しながら、\n②ベルト右 (R)を矢印の方向に引っぱって取り外します。",
               "※ベルト左(L)も同様に行います。"
             ]
           },
           {
-            "display_index": 10,
-            "panel_id": "p12",
+            "display_index": 9,
+            "panel_id": "p13",
             "source_ids": [44],
             "furigana_ids": [],
             "japanese_items": ["ゼインドライバー単体の遊び方"]
           },
           {
-            "display_index": 11,
-            "panel_id": "p13",
+            "display_index": 10,
+            "panel_id": "p14",
             "source_ids": [45],
             "furigana_ids": [],
             "japanese_items": ["効果音遊び"]
           },
           {
-            "display_index": 12,
-            "panel_id": "p14-a",
+            "display_index": 11,
+            "panel_id": "p15-a",
             "source_ids": [46, 47],
             "furigana_ids": [],
             "japanese_items": [
               "※ゼインドライバーが完成した状態から始めます。",
               "※説明の図ではベルトを省略しています。",
               "ゼインドライバー底面のボタンを長押しします。",
-              "下記表の1～3が順番に鳴ります。",
+              "下記表の1〜3が順番に鳴ります。",
               "※起動音と同様の音声となります。"
             ]
           },
           {
-            "display_index": 13,
-            "panel_id": "p14-b-a",
+            "display_index": 12,
+            "panel_id": "p15-b-a",
             "source_ids": [48],
             "furigana_ids": [],
             "japanese_items": ["音声"]
           },
           {
-            "display_index": 14,
-            "panel_id": "p14-b-b-a",
+            "display_index": 13,
+            "panel_id": "p15-b-b-a",
             "source_ids": [52],
             "furigana_ids": [],
             "japanese_items": ["順番"]
           },
           {
-            "display_index": 15,
-            "panel_id": "p17",
+            "display_index": 14,
+            "panel_id": "p18",
             "source_ids": [57],
             "furigana_ids": [],
             "japanese_items": ["台詞遊び"]
           },
           {
-            "display_index": 16,
-            "panel_id": "p18",
+            "display_index": 15,
+            "panel_id": "p19",
             "source_ids": [61, 62, 63],
             "furigana_ids": [],
             "japanese_items": [
@@ -4092,22 +4063,22 @@
             ]
           },
           {
-            "display_index": 17,
-            "panel_id": "p19",
+            "display_index": 16,
+            "panel_id": "p20",
             "source_ids": [65],
             "furigana_ids": [],
             "japanese_items": ["音声リスト"]
           },
           {
-            "display_index": 18,
-            "panel_id": "p20-a-a-a",
+            "display_index": 17,
+            "panel_id": "p21-a-a-a",
             "source_ids": [67],
             "furigana_ids": [],
             "japanese_items": ["セリフ"]
           },
           {
-            "display_index": 19,
-            "panel_id": "p20-a-b",
+            "display_index": 18,
+            "panel_id": "p21-a-b",
             "source_ids": [72, 74],
             "furigana_ids": [],
             "japanese_items": [
@@ -4116,261 +4087,269 @@
             ]
           },
           {
-            "display_index": 20,
-            "panel_id": "p20-b",
+            "display_index": 19,
+            "panel_id": "p21-b",
             "source_ids": [76, 78, 80, 82, 84],
             "furigana_ids": [],
             "japanese_items": [
               "濫用?悪しき心を宿す人間を呼び寄せるために有効利用させてもらっただけだ･･･ 仮面ライダーゲンム。",
               "確率はゼロではない。",
-              "予測･･･。 私の専門分野だ。",
+              "予測･･･。私の専門分野だ。",
               "仮面ライダーゼロツーの力で、未来を予測する。"
             ]
           },
           {
+            "display_index": 20,
+            "panel_id": "p22-a-a",
+            "source_ids": [69, 68],
+            "furigana_ids": [],
+            "japanese_items": ["順番", "セリフ"]
+          },
+          {
             "display_index": 21,
-            "source_ids": [1],
-            "furigana_ids": []
+            "panel_id": "p22-a-b-a",
+            "source_ids": [71],
+            "furigana_ids": [],
+            "japanese_items": ["本当の世界の救世主が誰か、いずれ裁きは下される。"]
           },
           {
             "display_index": 22,
-            "source_ids": [2],
-            "furigana_ids": []
+            "panel_id": "p22-a-b-b",
+            "source_ids": [73, 75],
+            "furigana_ids": [],
+            "japanese_items": [
+              "何をしている。未来を蝕む悪を裁くのだ。",
+              "変わるさ。善良な世界へとな。"
+            ]
           },
           {
             "display_index": 23,
-            "source_ids": [3],
-            "furigana_ids": []
+            "panel_id": "p22-b-a",
+            "source_ids": [77, 79],
+            "furigana_ids": [],
+            "japanese_items": ["ああ、そうだ。裁きは定められた天命。", "しぃー。"]
           },
           {
             "display_index": 24,
+            "panel_id": "p23",
+            "source_ids": [86],
+            "furigana_ids": [],
+            "japanese_items": ["※15の後は1に戻ります。"]
+          },
+          {
+            "display_index": 25,
             "source_ids": [4],
             "furigana_ids": []
           },
           {
-            "display_index": 25,
+            "display_index": 26,
             "source_ids": [5],
             "furigana_ids": []
           },
           {
-            "display_index": 26,
+            "display_index": 27,
             "source_ids": [7],
             "furigana_ids": []
           },
           {
-            "display_index": 27,
+            "display_index": 28,
             "source_ids": [8],
             "furigana_ids": []
           },
           {
-            "display_index": 28,
+            "display_index": 29,
             "source_ids": [9],
             "furigana_ids": []
           },
           {
-            "display_index": 29,
+            "display_index": 30,
             "source_ids": [10],
             "furigana_ids": []
           },
           {
-            "display_index": 30,
+            "display_index": 31,
             "source_ids": [11],
             "furigana_ids": []
           },
           {
-            "display_index": 31,
+            "display_index": 32,
             "source_ids": [12],
             "furigana_ids": []
           },
           {
-            "display_index": 32,
+            "display_index": 33,
             "source_ids": [13],
             "furigana_ids": []
           },
           {
-            "display_index": 33,
+            "display_index": 34,
             "source_ids": [14],
             "furigana_ids": []
           },
           {
-            "display_index": 34,
+            "display_index": 35,
             "source_ids": [17],
             "furigana_ids": []
           },
           {
-            "display_index": 35,
+            "display_index": 36,
             "source_ids": [18],
             "furigana_ids": []
           },
           {
-            "display_index": 36,
+            "display_index": 37,
             "source_ids": [19],
             "furigana_ids": []
           },
           {
-            "display_index": 37,
+            "display_index": 38,
             "source_ids": [20],
             "furigana_ids": []
           },
           {
-            "display_index": 38,
+            "display_index": 39,
             "source_ids": [21],
             "furigana_ids": []
           },
           {
-            "display_index": 39,
+            "display_index": 40,
             "source_ids": [22],
             "furigana_ids": []
           },
           {
-            "display_index": 40,
-            "source_ids": [32],
-            "furigana_ids": []
-          },
-          {
             "display_index": 41,
-            "source_ids": [33],
+            "source_ids": [26],
             "furigana_ids": []
           },
           {
             "display_index": 42,
-            "source_ids": [38],
+            "source_ids": [28],
             "furigana_ids": []
           },
           {
             "display_index": 43,
-            "source_ids": [39],
+            "source_ids": [31],
             "furigana_ids": []
           },
           {
             "display_index": 44,
-            "source_ids": [42],
+            "source_ids": [32],
             "furigana_ids": []
           },
           {
             "display_index": 45,
-            "source_ids": [49],
+            "source_ids": [33],
             "furigana_ids": []
           },
           {
             "display_index": 46,
-            "source_ids": [50],
+            "source_ids": [38],
             "furigana_ids": []
           },
           {
             "display_index": 47,
-            "source_ids": [51],
+            "source_ids": [39],
             "furigana_ids": []
           },
           {
             "display_index": 48,
-            "source_ids": [53],
+            "source_ids": [40],
             "furigana_ids": []
           },
           {
             "display_index": 49,
-            "source_ids": [54],
+            "source_ids": [41],
             "furigana_ids": []
           },
           {
             "display_index": 50,
-            "source_ids": [55],
+            "source_ids": [42],
             "furigana_ids": []
           },
           {
             "display_index": 51,
-            "source_ids": [56],
+            "source_ids": [49],
             "furigana_ids": []
           },
           {
             "display_index": 52,
-            "source_ids": [58],
+            "source_ids": [50],
             "furigana_ids": []
           },
           {
             "display_index": 53,
-            "source_ids": [59],
+            "source_ids": [51],
             "furigana_ids": []
           },
           {
             "display_index": 54,
-            "source_ids": [60],
+            "source_ids": [53],
             "furigana_ids": []
           },
           {
             "display_index": 55,
-            "source_ids": [64],
+            "source_ids": [54],
             "furigana_ids": []
           },
           {
             "display_index": 56,
-            "source_ids": [66],
+            "source_ids": [55],
             "furigana_ids": []
           },
           {
             "display_index": 57,
-            "source_ids": [68],
+            "source_ids": [56],
             "furigana_ids": []
           },
           {
             "display_index": 58,
-            "source_ids": [69],
+            "source_ids": [58],
             "furigana_ids": []
           },
           {
             "display_index": 59,
-            "source_ids": [70],
+            "source_ids": [59],
             "furigana_ids": []
           },
           {
             "display_index": 60,
-            "source_ids": [71],
+            "source_ids": [60],
             "furigana_ids": []
           },
           {
             "display_index": 61,
-            "source_ids": [73],
+            "source_ids": [64],
             "furigana_ids": []
           },
           {
             "display_index": 62,
-            "source_ids": [75],
+            "source_ids": [66],
             "furigana_ids": []
           },
           {
             "display_index": 63,
-            "source_ids": [77],
+            "source_ids": [70],
             "furigana_ids": []
           },
           {
             "display_index": 64,
-            "source_ids": [79],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 65,
             "source_ids": [81],
             "furigana_ids": []
           },
           {
-            "display_index": 66,
+            "display_index": 65,
             "source_ids": [83],
             "furigana_ids": []
           },
           {
-            "display_index": 67,
+            "display_index": 66,
             "source_ids": [85],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 68,
-            "source_ids": [86],
             "furigana_ids": []
           }
         ],
         "uncertainties": [
-          "The panel text is truncated after '2つの'; the object or action following '2つの' is missing from the image and could not be determined.",
-          "Source quantity for panel p9 was not explicitly provided; reconstruction based on the supplied crop text."
+          "Translation chosen as 'Voice'; depending on context it could also be rendered as 'Audio' or 'Sound'.",
+          "The final fragment \"とな。\" appears truncated or unfinished in the source; its full meaning is unclear."
         ],
         "ocr_lines": [
           {
@@ -5268,13 +5247,13 @@
         },
         {
           "text": "ゼインプログライズキーのボタンを長押しします。\n「変身」台詞が鳴ります。",
-          "translation": "• Press and hold the button on the Zain Progrise Key.\n• The \"henshin\" line will play.",
+          "translation": "• Press and hold the button on the Zein Progrise Key.\n• A \"Henshin\" voice line will play.",
           "bbox": [0.10087807035446167, 0.273, 0.29002192964553836, 0.0398],
           "layout": "panel"
         },
         {
           "text": "ゼインプログライズキーを\nゼインドライバーのキースロットに\n装填して奥まで押し込みます。\n「変身音」が鳴ります。",
-          "translation": "Insert the Zein Progrise Key into the key slot of the Zein Driver and push it all the way in. \"Transformation sound\" will play.",
+          "translation": "Insert the Zein Progrise Key into the Zein Driver's key slot and push it in all the way. A \"transformation\" sound will play.",
           "bbox": [
             0.1000719473361969, 0.3490197465419769, 0.20171020317077637, 0.07978025345802309
           ],
@@ -5288,7 +5267,7 @@
         },
         {
           "text": "※変身遊び後に行います。\nゼインプログライズキーを押し込みます。\n「必殺技音」が鳴ります。",
-          "translation": "• Do this after transformation play.\n• Press in the Zein Progrise Key.\n• The \"special attack sound\" will play.",
+          "translation": "• Do this after transformation play.\n• Push the Zain Progrise Key in.\n• The \"special move\" sound will play.",
           "bbox": [0.0414, 0.7486039505004883, 0.2424, 0.06829604949951151],
           "layout": "panel"
         },
@@ -5331,21 +5310,6 @@
           "text": "JUSTICE\nJUDGMENT",
           "translation": "JUSTICE\nJUDGMENT",
           "bbox": [0.5768, 0.3687, 0.0828, 0.0287]
-        },
-        {
-          "text": "Salvation of",
-          "translation": "Salvation of",
-          "bbox": [0.714, 0.393, 0.0877, 0.0125]
-        },
-        {
-          "text": "JAIL ZEIN",
-          "translation": "JAIL ZEIN",
-          "bbox": [0.5792, 0.4017, 0.0719, 0.0112]
-        },
-        {
-          "text": "humankind",
-          "translation": "humankind",
-          "bbox": [0.7164, 0.4099, 0.0744, 0.0112]
         },
         {
           "text": "キースロット",
@@ -5493,11 +5457,12 @@
           ],
           "furigana": [],
           "notes": [
-            "Source 0 contains both the main heading and two introductory notes in one OCR region; kept together because it cannot be split by source ID.",
-            "Source 8 is the first line of step 3 and is grouped with the rest of the step prose in sources 9 and 14.",
-            "Diagram labels and sound-effect balloons are left ungrouped.",
+            "Source 0 contains both heading and introductory notes in one OCR region; kept together because source IDs cannot be split.",
+            "Source 4 appears to be OCR for the diagram speech-bubble label 変身; left ungrouped as a diagram label.",
+            "Source 6 OCR does not match clearly readable scan text and was not classified as native artwork.",
             "Panel p1 retained original English after failed automatic checks"
-          ]
+          ],
+          "native_artwork": [12, 13, 15]
         },
         "mapping": [
           {
@@ -5525,7 +5490,7 @@
             "source_ids": [8, 9, 14],
             "furigana_ids": [],
             "japanese_items": [
-              "ゼインプログライズキーをゼインドライバーのキースロットに装填して奥まで押し込みます。『変身音』が鳴ります。"
+              "ゼインプログライズキーをゼインドライバーのキースロットに装填して奥まで押し込みます。「変身音」が鳴ります。"
             ]
           },
           {
@@ -5587,27 +5552,30 @@
             "furigana_ids": []
           },
           {
-            "display_index": 13,
+            "display_index": -1,
             "source_ids": [12],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 14,
+            "display_index": -1,
             "source_ids": [13],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 15,
+            "display_index": -1,
             "source_ids": [15],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 16,
+            "display_index": 13,
             "source_ids": [18],
             "furigana_ids": []
           },
           {
-            "display_index": 17,
+            "display_index": 14,
             "source_ids": [19],
             "furigana_ids": []
           }
@@ -5863,13 +5831,13 @@
         },
         {
           "text": "※変身遊び後に行います。 ※ゼインドライバーに必ずカードがセットされていない状態で行ってください。",
-          "translation": "• Do this after transformation play.\n• Be sure to perform this with the Zain Driver in a state where no card is set.",
+          "translation": "• Do this after transformation play.\n• Be sure the Zein Driver has no card inserted when you do this.",
           "bbox": [0.04122470623254776, 0.053, 0.7818752937674522, 0.0187],
           "layout": "panel"
         },
         {
           "text": "ゼインプログライズキーのボタンを短押しします。\n→下記リスト順で 「基本フォームライダー名」が鳴ります。\nボタンを長押しすると「モード切り替え音」が鳴り、\n再度ボタンを短押しするとリストの続きの順番から\n「パワーアップフォームライダー名」が鳴ります。\n※「基本フォームライダー名」に戻す場合は同様の手順を行います。\n※ゼインプログライズキーをゼインドライバーから一度取り外すと、\nライダー名音の順番は1に戻ります。",
-          "translation": "• Short-press the button on the Zain Progrise Key.\n• → The “Basic Form Rider” name will play in the order of the list below.\n• If you long-press the button, the “mode change” sound will play,\n• and if you short-press the button again, the “Power-Up Form Rider” name will play starting from the next item in the list.\n• ※ To return to the “Basic Form Rider” name, perform the same procedure.\n• ※ If you remove the Zain Progrise Key from the Zain Driver even once, the rider name sound order will reset to 1.",
+          "translation": "• Press the Zain Progrise Key button briefly.\n• The \"Base Form Rider name\" will play in the order shown in the list below.\n• Hold the button to hear the \"mode-change\" sound, then press the button briefly again to play the \"Power-Up Form Rider name\" starting from the next entry in the list.\n• To return to the \"Base Form Rider name,\" repeat the same procedure.\n• If you remove the Zain Progrise Key from the Zain Driver even once, the rider name sequence resets to entry 1.",
           "bbox": [0.1031, 0.07112448221445083, 0.392152509355545, 0.08627897638082505],
           "layout": "panel"
         },
@@ -5881,13 +5849,13 @@
         },
         {
           "text": "パワーアップフォーム\nクウガアルティメットフォーム\nアギト シャイニングフォーム\n龍騎サバイブ\nファイズブラスターフォーム\nブレイド キングフォーム\n装甲響鬼\nカブト ハイパーフォーム\n電王ライナーフォーム\nキバ エンペラーフォーム\nディケイドコンプリートフォーム\nW サイクロンジョーカーエクストリーム\nオーズ プトティラコンボ\nフォーゼコズミックステイツ",
-          "translation": "• Power-Up Forms\n• Kuuga Ultimate Form\n• Agito Shining Form\n• Ryuki Survive\n• Faiz Blaster Form\n• Blade King Form\n• Armored Hibiki\n• Kabuto Hyper Form\n• Den-O Liner Form\n• Kiva Emperor Form\n• Decade Complete Form\n• W Cyclone Joker Extreme\n• Ooo Putotyra Combo\n• Fourze Cosmic States",
+          "translation": "• Power-Up Forms\n• Kuuga Ultimate Form\n• Agito Shining Form\n• Ryuki Survive\n• Faiz Blaster Form\n• Blade King Form\n• Armored Hibiki\n• Kabuto Hyper Form\n• Den-O Liner Form\n• Kiva Emperor Form\n• Decade Complete Form\n• W CycloneJoker Extreme\n• OOO Putotyra Combo\n• Fourze Cosmic States",
           "bbox": [0.227, 0.1991, 0.23197682452201843, 0.2111],
           "layout": "panel"
         },
         {
           "text": "パワーアップフォーム\nウィザード インフィニティースタイル\n鎧武 極アームズ\nドライブタイプトライドロン\nゴースト ムゲン魂\nエグゼイド ムテキゲーマー\nビルドジーニアスフォーム\nグランドジオウ\nゼロツー\nクロスセイバー\nアルティメットリバイ\nアルティメットバイス\nギーツIX\nスーパー1",
-          "translation": "• Power-up Forms\n• Wizard Infinity Style\n• Gaim Kiwami Arms\n• Drive Type Tridoron\n• Ghost Mugen Soul\n• Ex-Aid Muteki Gamer\n• Build Genius Form\n• Grand Zi-O\n• Zero-Two\n• Cross-Saber\n• Ultimate Revi\n• Ultimate Vice\n• Geats IX\n• Super-1",
+          "translation": "• Power-Up Forms\n• Wizard Infinity Style\n• Gaim Kiwami Arms\n• Drive Type Tridoron\n• Ghost Mugen Soul\n• Ex-Aid Muteki Gamer\n• Build Genius Form\n• Grand Zi-O\n• Zero Two\n• Cross-Saber\n• Ultimate Revi\n• Ultimate Vice\n• Geats IX\n• Super-1",
           "bbox": [
             0.6799000000000001, 0.19897836005687713, 0.21760968360900868, 0.21087127315998078
           ],
@@ -5895,7 +5863,7 @@
         },
         {
           "text": "※26の後は1に戻ります。",
-          "translation": "After 26, return to 1.",
+          "translation": "After 26, it returns to 1.",
           "bbox": [
             0.7966000000000001, 0.41759999999999997, 0.15854773273468004, 0.009862179899215728
           ],
@@ -5903,32 +5871,26 @@
         },
         {
           "text": "※ゼインカードが突起の下に入るように\nセットしてください。",
-          "translation": "Make sure the Zain card is set so that it fits under the protrusion.",
+          "translation": "Make sure the Zain Card is set so that it goes under the protrusion.",
           "bbox": [0.10168420082330704, 0.4753, 0.23051579917669296, 0.021600000000000008],
           "layout": "panel"
         },
         {
           "text": "突起\n・ゼインカード\nカードスロット",
-          "translation": "• Protrusion\n• Zain card\n• Card slot",
+          "translation": "• Protrusion\n• Zein card\n• Card slot",
           "bbox": [0.3939, 0.477, 0.33754762659072873, 0.016780930280685447],
           "layout": "panel"
         },
         {
           "text": "装填したゼインカードがドライバー内部に収納され、裁断カードがドライバー下部から現れます。",
-          "translation": "The loaded Zain card is stored inside the driver, and the cut card emerges from the bottom of the driver.",
+          "translation": "The loaded Zain Card is stored inside the Driver, and the cut card emerges from the bottom of the Driver.",
           "bbox": [0.112969975233078, 0.656, 0.5602300247669219, 0.010644622325897135],
           "layout": "panel"
         },
         {
-          "text": "※レバーが自動で戻る際、 指はさみに",
-          "translation": "When the lever returns automatically, beware of pinching your fingers.",
-          "bbox": [0.6998301253318787, 0.659, 0.2500777630805968, 0.011199999999999988],
-          "layout": "panel"
-        },
-        {
-          "text": "ご注意ください。また、レバーを無理やり\n押し込まないでください。\n破損する恐れがあります。",
-          "translation": "Please take care. Also, do not forcefully push the lever. Doing so may cause damage.",
-          "bbox": [0.7125, 0.6697000000000001, 0.2374078884124755, 0.03216965608596789],
+          "text": "※レバーが自動で戻る際、 指はさみに\nご注意ください。また、レバーを無理やり\n押し込まないでください。\n破損する恐れがあります。",
+          "translation": "• When the lever returns automatically, avoid pinching your fingers.\n• Do not forcefully push the lever in.\n• Doing so may cause damage.",
+          "bbox": [0.6998301253318787, 0.659, 0.2500777630805968, 0.04286965608596793],
           "layout": "panel"
         },
         {
@@ -5947,7 +5909,7 @@
         },
         {
           "text": "収納レバーを引くと再度ドライバー内部に収納されます。\n※裁断カードは取り外しできません。\n※ゼインドライバーに装填できるカードは1枚のみです。\n必ずカードスロット及びカード取り出し口にゼインカードがない状態で\nカードを装填してくだい。",
-          "translation": "• When you pull the storage lever, it will be stored again inside the driver.\n• ※The cut card cannot be removed.\n• ※Only one card can be loaded into the Zein Driver.\n• Be sure to load the card only when there is no Zein card in the card slot and the card ejection opening.",
+          "translation": "• Pull the storage lever to retract it back into the driver.\n• Cut cards cannot be removed.\n• Only one card can be loaded into the Zain Driver.\n• Before loading a card, make sure there are no Zain cards in the card slot or the card exit.",
           "bbox": [0.1007, 0.9134000000000001, 0.4167209966659545, 0.053744717216491544],
           "layout": "panel"
         },
@@ -6100,11 +6062,6 @@
           "text": "で好きなライダー名音を鳴らした後、ゼインカードをゼインドライバーのカードスロットにセットします。\n「カード装填音」 と 「待機音」が鳴ります。\n※ゼインドライバーにカード個別認識機能はありません。装填するゼインカードの種類はどれでも問題ありません。",
           "translation": "After sounding the rider name you want, set the Zein Card into the Zein Driver's card slot.\nThe \"card loading sound\" and \"standby sound\" will play.\n※The Zein Driver does not have an individual card recognition function. The type of Zein Card you insert does not matter.",
           "bbox": [0.1022, 0.4374, 0.6536, 0.029]
-        },
-        {
-          "text": "KAMENRIDE",
-          "translation": "KAMENRIDE",
-          "bbox": [0.4559, 0.5186, 0.1294, 0.0052]
         },
         {
           "text": "ゼインドライバーのレバーを矢印の方向に引いて手を離します。 (レバーが引けなくなるぐらい最後まで引ききってください。)\n→レバーが自動で戻り 「執行音」と「シュレッダー音」が鳴り、",
@@ -6570,44 +6527,41 @@
               "source_ids": [60, 63, 61]
             },
             {
-              "id": "p8-a-b-a",
+              "id": "p9-a-b-a",
               "kind": "prose",
               "source_ids": [66]
             },
             {
-              "id": "p8-a-b-b",
+              "id": "p9-a-b-b",
               "kind": "prose",
-              "source_ids": [67]
+              "source_ids": [67, 70]
             },
             {
-              "id": "p8-b-a",
-              "kind": "prose",
-              "source_ids": [70]
-            },
-            {
-              "id": "p8-b-b",
+              "id": "p9-b-b",
               "kind": "prose",
               "source_ids": [68, 69]
             },
             {
-              "id": "p10-a-a",
+              "id": "p11-a-a",
               "kind": "prose",
               "source_ids": [72]
             },
             {
-              "id": "p10-b",
+              "id": "p11-b",
               "kind": "prose",
               "source_ids": [74, 75, 76]
             }
           ],
           "furigana": [],
           "notes": [
-            "Diagram labels and sound-effect callouts were left ungrouped.",
-            "Conservative panel fallback: Panel p8 would mask unrelated source 67",
+            "Diagram labels and speech bubbles are left ungrouped.",
+            "Conservative panel fallback: Panel p7 would mask unrelated source 59",
             "Retained p7 source IDs [58] unchanged: illustration-mask check",
-            "Retained p8 source IDs [65] unchanged: illustration-mask check",
-            "Retained p10 source IDs [73] unchanged: illustration-mask check"
-          ]
+            "Retained p9 source IDs [65] unchanged: illustration-mask check",
+            "Retained p11 source IDs [73] unchanged: illustration-mask check",
+            "p9-a-b-b: recovered adjacent clause source 70"
+          ],
+          "native_artwork": [62]
         },
         "mapping": [
           {
@@ -6634,11 +6588,10 @@
             "furigana_ids": [],
             "japanese_items": [
               "ゼインプログライズキーのボタンを短押しします。",
-              "→下記リスト順で 「基本フォームライダー名」が鳴ります。",
-              "ボタンを長押しすると「モード切り替え音」が鳴り、",
-              "再度ボタンを短押しするとリストの続きの順番から\n「パワーアップフォームライダー名」が鳴ります。",
+              "下記リスト順で「基本フォームライダー名」が鳴ります。",
+              "ボタンを長押しすると「モード切り替え音」が鳴り、再度ボタンを短押しするとリストの続きの順番から「パワーアップフォームライダー名」が鳴ります。",
               "※「基本フォームライダー名」に戻す場合は同様の手順を行います。",
-              "※ゼインプログライズキーをゼインドライバーから一度取り外すと、\nライダー名音の順番は1に戻ります。"
+              "※ゼインプログライズキーをゼインドライバーから一度取り外すと、ライダー名音の順番は1に戻ります。"
             ]
           },
           {
@@ -6704,7 +6657,7 @@
             "panel_id": "p7-a-b",
             "source_ids": [59],
             "furigana_ids": [],
-            "japanese_items": ["※ゼインカードが突起の下に入るようにセットしてください。"]
+            "japanese_items": ["※ゼインカードが突起の下に入るように\nセットしてください。"]
           },
           {
             "display_index": 8,
@@ -6715,7 +6668,7 @@
           },
           {
             "display_index": 9,
-            "panel_id": "p8-a-b-a",
+            "panel_id": "p9-a-b-a",
             "source_ids": [66],
             "furigana_ids": [],
             "japanese_items": [
@@ -6724,37 +6677,32 @@
           },
           {
             "display_index": 10,
-            "panel_id": "p8-a-b-b",
-            "source_ids": [67],
-            "furigana_ids": [],
-            "japanese_items": ["※レバーが自動で戻る際、指はさみに注意"]
-          },
-          {
-            "display_index": 11,
-            "panel_id": "p8-b-a",
-            "source_ids": [70],
+            "panel_id": "p9-a-b-b",
+            "source_ids": [67, 70],
             "furigana_ids": [],
             "japanese_items": [
-              "ご注意ください。また、レバーを無理やり押し込まないでください。破損する恐れがあります。"
+              "※レバーが自動で戻る際、指はさみにご注意ください。",
+              "また、レバーを無理やり押し込まないでください。",
+              "破損する恐れがあります。"
             ]
           },
           {
-            "display_index": 12,
-            "panel_id": "p8-b-b",
+            "display_index": 11,
+            "panel_id": "p9-b-b",
             "source_ids": [68, 69],
             "furigana_ids": [],
             "japanese_items": ["執行!", "レバー"]
           },
           {
-            "display_index": 13,
-            "panel_id": "p10-a-a",
+            "display_index": 12,
+            "panel_id": "p11-a-a",
             "source_ids": [72],
             "furigana_ids": [],
             "japanese_items": ["プログライズキーを押し込みます。"]
           },
           {
-            "display_index": 14,
-            "panel_id": "p10-b",
+            "display_index": 13,
+            "panel_id": "p11-b",
             "source_ids": [74, 75, 76],
             "furigana_ids": [],
             "japanese_items": [
@@ -6765,187 +6713,183 @@
             ]
           },
           {
-            "display_index": 15,
+            "display_index": 14,
             "source_ids": [5],
             "furigana_ids": []
           },
           {
-            "display_index": 16,
+            "display_index": 15,
             "source_ids": [7],
             "furigana_ids": []
           },
           {
-            "display_index": 17,
+            "display_index": 16,
             "source_ids": [8],
             "furigana_ids": []
           },
           {
-            "display_index": 18,
+            "display_index": 17,
             "source_ids": [10],
             "furigana_ids": []
           },
           {
-            "display_index": 19,
+            "display_index": 18,
             "source_ids": [12],
             "furigana_ids": []
           },
           {
-            "display_index": 20,
+            "display_index": 19,
             "source_ids": [13],
             "furigana_ids": []
           },
           {
-            "display_index": 21,
+            "display_index": 20,
             "source_ids": [15],
             "furigana_ids": []
           },
           {
-            "display_index": 22,
+            "display_index": 21,
             "source_ids": [17],
             "furigana_ids": []
           },
           {
-            "display_index": 23,
+            "display_index": 22,
             "source_ids": [19],
             "furigana_ids": []
           },
           {
-            "display_index": 24,
+            "display_index": 23,
             "source_ids": [21],
             "furigana_ids": []
           },
           {
-            "display_index": 25,
+            "display_index": 24,
             "source_ids": [23],
             "furigana_ids": []
           },
           {
-            "display_index": 26,
+            "display_index": 25,
             "source_ids": [25],
             "furigana_ids": []
           },
           {
-            "display_index": 27,
+            "display_index": 26,
             "source_ids": [27],
             "furigana_ids": []
           },
           {
-            "display_index": 28,
+            "display_index": 27,
             "source_ids": [29],
             "furigana_ids": []
           },
           {
-            "display_index": 29,
+            "display_index": 28,
             "source_ids": [31],
             "furigana_ids": []
           },
           {
-            "display_index": 30,
+            "display_index": 29,
             "source_ids": [32],
             "furigana_ids": []
           },
           {
-            "display_index": 31,
+            "display_index": 30,
             "source_ids": [34],
             "furigana_ids": []
           },
           {
-            "display_index": 32,
+            "display_index": 31,
             "source_ids": [36],
             "furigana_ids": []
           },
           {
-            "display_index": 33,
+            "display_index": 32,
             "source_ids": [38],
             "furigana_ids": []
           },
           {
-            "display_index": 34,
+            "display_index": 33,
             "source_ids": [40],
             "furigana_ids": []
           },
           {
-            "display_index": 35,
+            "display_index": 34,
             "source_ids": [42],
             "furigana_ids": []
           },
           {
-            "display_index": 36,
+            "display_index": 35,
             "source_ids": [44],
             "furigana_ids": []
           },
           {
-            "display_index": 37,
+            "display_index": 36,
             "source_ids": [45],
             "furigana_ids": []
           },
           {
-            "display_index": 38,
+            "display_index": 37,
             "source_ids": [47],
             "furigana_ids": []
           },
           {
-            "display_index": 39,
+            "display_index": 38,
             "source_ids": [49],
             "furigana_ids": []
           },
           {
-            "display_index": 40,
+            "display_index": 39,
             "source_ids": [50],
             "furigana_ids": []
           },
           {
-            "display_index": 41,
+            "display_index": 40,
             "source_ids": [52],
             "furigana_ids": []
           },
           {
-            "display_index": 42,
+            "display_index": 41,
             "source_ids": [54],
             "furigana_ids": []
           },
           {
-            "display_index": 43,
+            "display_index": 42,
             "source_ids": [56],
             "furigana_ids": []
           },
           {
-            "display_index": 44,
+            "display_index": 43,
             "source_ids": [58],
             "furigana_ids": []
           },
           {
-            "display_index": 45,
+            "display_index": -1,
             "source_ids": [62],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 46,
+            "display_index": 44,
             "source_ids": [65],
             "furigana_ids": []
           },
           {
-            "display_index": 47,
+            "display_index": 45,
             "source_ids": [71],
             "furigana_ids": []
           },
           {
-            "display_index": 48,
+            "display_index": 46,
             "source_ids": [73],
             "furigana_ids": []
           },
           {
-            "display_index": 49,
+            "display_index": 47,
             "source_ids": [77],
             "furigana_ids": []
           }
         ],
-        "uncertainties": [
-          "装甲響鬼 — translation of this compound name (Armored Hibiki) is uncertain",
-          "オーズ プトティラコンボ — romanization/spelling of this combo name (Putotyra/Putotira) is uncertain",
-          "Original OCR/text ended abruptly at '指はさみに'. Reconstructed ending '注意' (caution) to form a complete warning; reconstruction may be incorrect.",
-          "Corrected OCR typo \"くだい\" to \"ください\" in the final Japanese item."
-        ],
+        "uncertainties": [],
         "ocr_lines": [
           {
             "id": 0,
@@ -7864,14 +7808,8 @@
         },
         {
           "text": "①ゼインカードを引き抜きます。",
-          "translation": "1. Pull out the Zain card.",
+          "translation": "1. Pull out the Zain Card.",
           "bbox": [0.0384, 0.05562980031967163, 0.18800930557250978, 0.010670199680328368],
-          "layout": "panel"
-        },
-        {
-          "text": "②ゼインドライバー底面の\n裁断カード収納レバーを右に押して離します。\n裁断カードが元に戻ります。",
-          "translation": "• 2. Press the cutting-card storage lever on the bottom of the Zain Driver to the right, then release it.\n• The cutting card will return to its original position.",
-          "bbox": [0.03800020298361778, 0.162, 0.2790983444750309, 0.0335],
           "layout": "panel"
         },
         {
@@ -7884,13 +7822,13 @@
         },
         {
           "text": "※変身遊び後に行います。",
-          "translation": "Perform this after transformation play.",
+          "translation": "Do this after transformation play.",
           "bbox": [0.040799999999999996, 0.3249, 0.19340000000000002, 0.012299999999999978],
           "layout": "panel"
         },
         {
           "text": "装填するゼインカードの種類はどれでも問題ありません。",
-          "translation": "Any type of Zein card may be loaded.",
+          "translation": "You can load any type of Zain card.",
           "bbox": [
             0.11538835173845291, 0.48547441816329956, 0.3317116482615471, 0.010325581836700404
           ],
@@ -7898,27 +7836,36 @@
         },
         {
           "text": "※レバーが自動で戻る際、指はさみに\nご注意ください。 また、レバーを無理やり\n押し込まないでください。\n破損する恐れがあります。",
-          "translation": "When the lever returns automatically, be careful not to pinch your fingers. Also, do not forcefully push the lever in. There is a risk of damage.",
+          "translation": "When the lever returns automatically, keep your fingers clear to avoid getting them pinched. Do not force the lever inward; it may become damaged.",
           "bbox": [0.7002331719398499, 0.6060000000000001, 0.24926682806015, 0.04495155382156357],
           "layout": "panel"
         },
         {
           "text": "プログライズキーを押し込みます。",
-          "translation": "Press the Progrise Key.",
+          "translation": "Push the Progrise Key in.",
           "bbox": [0.1024903238415718, 0.7528418407440186, 0.2025096761584282, 0.01035815925598127],
           "layout": "panel"
         },
         {
-          "text": "※①~③で再度ゼインドライバーの底面ボタンを長押しすると\n「モード切り替え音」 が鳴り、 ディメンションモードが解除されます。\n※ゼインプログライズキーの「ライダー名」 音を鳴らしてから約30秒以内に",
-          "translation": "• If you press and hold the bottom button of the Zain Driver again in steps ①–③, the \"mode change sound\" will play and Dimension Mode will be canceled.\n• Within approximately 30 seconds after sounding the Zain Progrise Key's \"Rider name\" sound",
-          "bbox": [0.10329645431041717, 0.7873, 0.43570354568958275, 0.03480000000000005],
+          "text": "「ディメンション能力遊び」をした場合、\n「ディメンション能力音」と\n「ライダー能力音」の両方が鳴ります。\n※装填したゼインカードはゼインドライバーの\nカード取り出し口から引き抜きます。\n※出現した裁断カードはゼインドライバーの\n裁断カード収納レバーを引くと\n再度ドライバー内部に収納されます。\n※裁断カードは取り外しできません。\n※ゼインドライバーに装填できるカードは1枚のみです。\n必ずカードスロット及びカード取り出し口にゼインカードがない状態で\nカードを装填してください。",
+          "translation": "• When you play the \"Dimension Ability\" mode, both the \"Dimension Ability sound\" and the \"Rider ability sound\" will play.\n• Pull out the inserted Zain Card from the Zain Driver's card exit to remove it.\n• If a cut card appears, pull the Zain Driver's cut-card storage lever to return the card into the driver.\n• You cannot remove the cut card.\n• Only one card can be loaded into the Zain Driver. Load a card only when there is no Zain Card in the card slot or the card exit.",
+          "bbox": [0.1031, 0.8216000000000001, 0.4165, 0.1360243057250975],
           "layout": "panel"
         },
         {
-          "text": "「ディメンション能力遊び」をした場合、\n「ディメンション能力音」と\n「ライダー能力音」の両方が鳴ります。\n※装填したゼインカードはゼインドライバーの\nカード取り出し口から引き抜きます。\n※出現した裁断カードはゼインドライバーの\n裁断カード収納レバーを引くと\n再度ドライバー内部に収納されます。\n※裁断カードは取り外しできません。\n※ゼインドライバーに装填できるカードは1枚のみです。\n必ずカードスロット及びカード取り出し口にゼインカードがない状態で\nカードを装填してください。",
-          "translation": "• When performing “Dimension Ability Play,” both the “Dimension Ability Sound” and the “Rider Ability Sound” will play.\n• ※Remove a loaded Zein Card by pulling it out from the Zein Driver’s card outlet.\n• ※If a cutting card appears, pull the Zein Driver’s cutting card storage lever to store it back inside the driver.\n• ※Cutting cards cannot be removed.\n• ※Only one card can be loaded into the Zein Driver.\n• Always load a card only when there is no Zein Card in the card slot or the card outlet.",
-          "bbox": [0.1031, 0.8216000000000001, 0.4165, 0.1360243057250975],
-          "layout": "panel"
+          "text": "②ゼインドライバー底面の",
+          "translation": "② On the bottom of the Zein Driver,",
+          "bbox": [0.0399, 0.1635, 0.1536, 0.0075]
+        },
+        {
+          "text": "裁断カード収納レバーを右に押して離します。",
+          "translation": "push the cut-card storage lever to the right, then release it.",
+          "bbox": [0.0532, 0.1752, 0.2618, 0.0072]
+        },
+        {
+          "text": "裁断カードが元に戻ります。",
+          "translation": "The cut card will return to its original position.",
+          "bbox": [0.0532, 0.1865, 0.1614, 0.0075]
         },
         {
           "text": "ゼインドライバー底面のボタンを長押しします。\n「ディメンション音」が鳴り、\nディメンションモードに移行します。",
@@ -7946,11 +7893,6 @@
           "bbox": [0.6614, 0.1694, 0.0496, 0.0147]
         },
         {
-          "text": "MULTIVERSE",
-          "translation": "MULTIVERSE",
-          "bbox": [0.659, 0.4885, 0.0913, 0.0038]
-        },
-        {
           "text": "ディメンション",
           "translation": "Dimension",
           "bbox": [0.7854, 0.3065, 0.1064, 0.0103]
@@ -7969,6 +7911,16 @@
           "text": "「ディメンション能力音」が鳴ります。\n※「ディメンション能力音」 後に 「ディメンションモード」は解除されます。",
           "translation": "The \"Dimension Ability\" sound will play. *After the \"Dimension Ability\" sound plays, Dimension Mode will be canceled.",
           "bbox": [0.1046, 0.7662, 0.4057, 0.0189]
+        },
+        {
+          "text": "※①~③で再度ゼインドライバーの底面ボタンを長押しすると",
+          "translation": "*If you press and hold the bottom button of the Zein Driver again during steps ①–③,",
+          "bbox": [0.1052, 0.7888, 0.3597, 0.0075]
+        },
+        {
+          "text": "「モード切り替え音」 が鳴り、 ディメンションモードが解除されます。\n※ゼインプログライズキーの「ライダー名」 音を鳴らしてから約30秒以内に",
+          "translation": "a \"mode switching\" sound will play and Dimension Mode will be canceled. *Within approximately 30 seconds after the Zein Progrise Key's \"Rider name\" sound is played,",
+          "bbox": [0.1052, 0.8005, 0.4323, 0.0189]
         },
         {
           "text": "ジャスティスオーダー!",
@@ -8134,11 +8086,6 @@
               "source_ids": [1]
             },
             {
-              "id": "p2",
-              "kind": "prose",
-              "source_ids": [2, 3, 4]
-            },
-            {
               "id": "p3",
               "kind": "heading",
               "source_ids": [5]
@@ -8164,11 +8111,6 @@
               "source_ids": [19]
             },
             {
-              "id": "p9-a-b",
-              "kind": "prose",
-              "source_ids": [21, 22]
-            },
-            {
               "id": "p9-b",
               "kind": "prose",
               "source_ids": [24, 25, 26, 27]
@@ -8179,8 +8121,11 @@
             "Retained p5 source IDs [7] unchanged: illustration-mask check",
             "Retained p6 source IDs [8] unchanged: illustration-mask check",
             "Retained p7 source IDs [10] unchanged: illustration-mask check",
-            "Retained p9 source IDs [20] unchanged: illustration-mask check"
-          ]
+            "Retained p9 source IDs [20] unchanged: illustration-mask check",
+            "Panel p2 retained original English after failed automatic checks",
+            "Panel p9-a-b retained original English after failed automatic checks"
+          ],
+          "native_artwork": [13]
         },
         "mapping": [
           {
@@ -8199,63 +8144,43 @@
           },
           {
             "display_index": 2,
-            "panel_id": "p2",
-            "source_ids": [2, 3, 4],
-            "furigana_ids": [],
-            "japanese_items": [
-              "②ゼインドライバー底面の裁断カード収納レバーを右に押して離します。",
-              "裁断カードが元に戻ります。"
-            ]
-          },
-          {
-            "display_index": 3,
             "panel_id": "p3",
             "source_ids": [5],
             "furigana_ids": [],
             "japanese_items": ["ディメンション能力の遊び方"]
           },
           {
-            "display_index": 4,
+            "display_index": 3,
             "panel_id": "p4",
             "source_ids": [6],
             "furigana_ids": [],
             "japanese_items": ["※変身遊び後に行います。"]
           },
           {
-            "display_index": 5,
+            "display_index": 4,
             "panel_id": "p6-b",
             "source_ids": [9],
             "furigana_ids": [],
             "japanese_items": ["装填するゼインカードの種類はどれでも問題ありません。"]
           },
           {
-            "display_index": 6,
+            "display_index": 5,
             "panel_id": "p8",
             "source_ids": [16, 18],
             "furigana_ids": [],
             "japanese_items": [
-              "※レバーが自動で戻る際、指はさみにご注意ください。 また、レバーを無理やり押し込まないでください。 破損する恐れがあります。"
+              "※レバーが自動で戻る際、指はさみにご注意ください。 また、レバーを無理やり押し込まないでください。破損する恐れがあります。"
             ]
           },
           {
-            "display_index": 7,
+            "display_index": 6,
             "panel_id": "p9-a-a-a",
             "source_ids": [19],
             "furigana_ids": [],
             "japanese_items": ["プログライズキーを押し込みます。"]
           },
           {
-            "display_index": 8,
-            "panel_id": "p9-a-b",
-            "source_ids": [21, 22],
-            "furigana_ids": [],
-            "japanese_items": [
-              "※①~③で再度ゼインドライバーの底面ボタンを長押しすると「モード切り替え音」が鳴り、ディメンションモードが解除されます。",
-              "※ゼインプログライズキーの「ライダー名」音を鳴らしてから約30秒以内に"
-            ]
-          },
-          {
-            "display_index": 9,
+            "display_index": 7,
             "panel_id": "p9-b",
             "source_ids": [24, 25, 26, 27],
             "furigana_ids": [],
@@ -8264,39 +8189,54 @@
               "※装填したゼインカードはゼインドライバーのカード取り出し口から引き抜きます。",
               "※出現した裁断カードはゼインドライバーの裁断カード収納レバーを引くと再度ドライバー内部に収納されます。",
               "※裁断カードは取り外しできません。",
-              "※ゼインドライバーに装填できるカードは1枚のみです。",
-              "必ずカードスロット及びカード取り出し口にゼインカードがない状態でカードを装填してください。"
+              "※ゼインドライバーに装填できるカードは1枚のみです。必ずカードスロット及びカード取り出し口にゼインカードがない状態でカードを装填してください。"
             ]
           },
           {
+            "display_index": 8,
+            "source_ids": [2],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 9,
+            "source_ids": [3],
+            "furigana_ids": []
+          },
+          {
             "display_index": 10,
-            "source_ids": [7],
+            "source_ids": [4],
             "furigana_ids": []
           },
           {
             "display_index": 11,
-            "source_ids": [8],
+            "source_ids": [7],
             "furigana_ids": []
           },
           {
             "display_index": 12,
-            "source_ids": [10],
+            "source_ids": [8],
             "furigana_ids": []
           },
           {
             "display_index": 13,
-            "source_ids": [11],
+            "source_ids": [10],
             "furigana_ids": []
           },
           {
             "display_index": 14,
-            "source_ids": [12],
+            "source_ids": [11],
             "furigana_ids": []
           },
           {
             "display_index": 15,
-            "source_ids": [13],
+            "source_ids": [12],
             "furigana_ids": []
+          },
+          {
+            "display_index": -1,
+            "source_ids": [13],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
             "display_index": 16,
@@ -8320,14 +8260,21 @@
           },
           {
             "display_index": 20,
+            "source_ids": [21],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 21,
+            "source_ids": [22],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 22,
             "source_ids": [23],
             "furigana_ids": []
           }
         ],
-        "uncertainties": [
-          "Translation of the product name \"ゼインドライバー\" rendered as \"Zain Driver\"—original English name not certain.",
-          "The second line appears to be cut off in the image and is an incomplete clause; the continuation/end of the sentence is not visible."
-        ],
+        "uncertainties": [],
         "ocr_lines": [
           {
             "id": 0,
@@ -8715,19 +8662,13 @@
         },
         {
           "text": "プログライズキーを矢印の方向に手で引き抜きます。\n変身解除音が鳴ります。",
-          "translation": "• Pull the Progrise Key out by hand in the direction of the arrow.\n• The transformation-cancellation sound will play.",
+          "translation": "• Pull the Progrise Key out by hand in the direction of the arrow.\n• A transformation-cancel sound will play.",
           "bbox": [0.0402, 0.076717513859272, 0.30833749418258666, 0.03353911030292511],
           "layout": "panel"
         },
         {
-          "text": "「変身待機音」 が止まります。",
-          "translation": "The \"transformation standby\" sound will stop.",
-          "bbox": [0.1152, 0.370578537940979, 0.16440000000000002, 0.013906815528869632],
-          "layout": "panel"
-        },
-        {
           "text": "「スキャン音」の後、「変身待機音」が鳴り、\nLEDが約30秒間点滅します。",
-          "translation": "After the “scan sound,” the “transformation standby sound” will play and the LED will flash for about 30 seconds.",
+          "translation": "After the “scan” sound, the “transformation standby” sound plays and the LED blinks for about 30 seconds.",
           "bbox": [
             0.10128113931417465, 0.5146000000000001, 0.25211886068582534, 0.029125003242492564
           ],
@@ -8735,7 +8676,7 @@
         },
         {
           "text": "プログライズキー\n「オーソライズ」の音声が鳴ります。",
-          "translation": "• Progrise Key\n• The voice prompt \"Authorize\" will sound.",
+          "translation": "• Progrise Key\n• The \"Authorize\" voice will play.",
           "bbox": [
             0.10087807035446167, 0.5637000000000001, 0.27829221773147583, 0.04819999999999991
           ],
@@ -8743,19 +8684,19 @@
         },
         {
           "text": "※スキャンをしても「オーソライズ」の\n音声が鳴らない場合は、そのまま変身遊びを\n続けても正しく変身できません。\n1のボタンを押すところから操作を\nやり直してください。",
-          "translation": "If you scan but the “Authorize” voice does not play, continuing the transformation play as is will not let you transform correctly. Please redo the procedure starting from pressing the 1 button.",
+          "translation": "• If scanning does not produce the 'Authorize' voice, continuing the transformation play will not transform correctly.\n• Restart the operation from pressing the 1 button.",
           "bbox": [0.1049, 0.6114, 0.2745, 0.07589999999999986],
           "layout": "panel"
         },
         {
           "text": "カバーパーツがスライドし、\n「プログライズ!」の音声が鳴り、LEDが光ります。",
-          "translation": "The cover parts slide, the voice \"Progrise!\" sounds, and the LED lights up.",
+          "translation": "The cover part slides, the voice saying \"Progrise!\" plays, and the LED lights up.",
           "bbox": [0.10128113931417465, 0.7769, 0.3000576360821724, 0.028799999999999937],
           "layout": "panel"
         },
         {
           "text": "「変身音」が鳴ります。",
-          "translation": "\"Transformation sound\" will play.",
+          "translation": "A transformation sound will play.",
           "bbox": [0.1152, 0.8466, 0.12652571742534638, 0.013299999999999867],
           "layout": "panel"
         },
@@ -8763,6 +8704,11 @@
           "text": "別売りの飛電ゼロワンドライバーで変身!\n※詳しくは別売りのDX飛電ゼロワンドライバーの\nWEB取説もご参照ください。\nゼインプログライズキーのボタンを押します。\n→キーが展開し「ゼイン音」と「変身待機音」が鳴ります。\n※もう一度ボタンを押すと、「ゼインズアビリティ音」が鳴り",
           "translation": "Transform using the separately sold Hiden Zero-One Driver!\n*For details, please also refer to the web instruction manual for the separately sold DX Hiden Zero-One Driver.\nPress the button on the Zein Progrise Key.\n→ The key will unfold and the “Zein” sound and the “transformation standby” sound will play.\n*If you press the button again, the “Zein’s Ability” sound will play.",
           "bbox": [0.0405, 0.2468, 0.4782, 0.1201]
+        },
+        {
+          "text": "「変身待機音」 が止まります。",
+          "translation": "The “transformation standby” sound will stop.",
+          "bbox": [0.1167, 0.3726, 0.1614, 0.0103]
         },
         {
           "text": "約30秒以内に飛電ゼロワンドライバーの\n2 スキャンエリアに、プログライズキーを図の向きにしてかざします。",
@@ -8948,43 +8894,40 @@
               "source_ids": [1, 2]
             },
             {
-              "id": "p3",
-              "kind": "prose",
-              "source_ids": [4]
-            },
-            {
-              "id": "p5",
+              "id": "p4",
               "kind": "prose",
               "source_ids": [7]
             },
             {
-              "id": "p6",
+              "id": "p5",
               "kind": "prose",
               "source_ids": [8]
             },
             {
-              "id": "p7",
+              "id": "p6",
               "kind": "prose",
               "source_ids": [9]
             },
             {
-              "id": "p9",
+              "id": "p8",
               "kind": "prose",
               "source_ids": [12, 13]
             },
             {
-              "id": "p10",
+              "id": "p9",
               "kind": "prose",
               "source_ids": [15]
             }
           ],
           "furigana": [],
           "notes": [
-            "Source 3 combines the section heading, reference note, and beginning of step 1; kept together because OCR did not split it. Diagram labels and product labels were left ungrouped.",
-            "Retained p4 source IDs [5] unchanged: illustration-mask check",
-            "Retained p8 source IDs [10] unchanged: illustration-mask check",
+            "Source 3 merges the section heading with step 1 body text, so it is kept together as prose to avoid dropping main instructions.",
+            "Source 8 merges a product label with its instruction sentence, so it is kept as prose to retain the sentence.",
+            "Retained p3 source IDs [5] unchanged: illustration-mask check",
+            "Retained p7 source IDs [10] unchanged: illustration-mask check",
             "Panel p2 retained original English after failed automatic checks"
-          ]
+          ],
+          "native_artwork": []
         },
         "mapping": [
           {
@@ -9006,14 +8949,7 @@
           },
           {
             "display_index": 2,
-            "panel_id": "p3",
-            "source_ids": [4],
-            "furigana_ids": [],
-            "japanese_items": ["「変身待機音」が止まります。"]
-          },
-          {
-            "display_index": 3,
-            "panel_id": "p5",
+            "panel_id": "p4",
             "source_ids": [7],
             "furigana_ids": [],
             "japanese_items": [
@@ -9021,24 +8957,25 @@
             ]
           },
           {
-            "display_index": 4,
-            "panel_id": "p6",
+            "display_index": 3,
+            "panel_id": "p5",
             "source_ids": [8],
             "furigana_ids": [],
             "japanese_items": ["プログライズキー", "「オーソライズ」の音声が鳴ります。"]
           },
           {
-            "display_index": 5,
-            "panel_id": "p7",
+            "display_index": 4,
+            "panel_id": "p6",
             "source_ids": [9],
             "furigana_ids": [],
             "japanese_items": [
-              "※スキャンをしても「オーソライズ」の音声が鳴らない場合は、そのまま変身遊びを続けても正しく変身できません。1のボタンを押すところから操作をやり直してください。"
+              "※スキャンをしても「オーソライズ」の音声が鳴らない場合は、そのまま変身遊びを続けても正しく変身できません。",
+              "1のボタンを押すところから操作をやり直してください。"
             ]
           },
           {
-            "display_index": 6,
-            "panel_id": "p9",
+            "display_index": 5,
+            "panel_id": "p8",
             "source_ids": [12, 13],
             "furigana_ids": [],
             "japanese_items": [
@@ -9046,15 +8983,20 @@
             ]
           },
           {
-            "display_index": 7,
-            "panel_id": "p10",
+            "display_index": 6,
+            "panel_id": "p9",
             "source_ids": [15],
             "furigana_ids": [],
             "japanese_items": ["「変身音」が鳴ります。"]
           },
           {
-            "display_index": 8,
+            "display_index": 7,
             "source_ids": [3],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 8,
+            "source_ids": [4],
             "furigana_ids": []
           },
           {

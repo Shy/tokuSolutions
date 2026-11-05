@@ -6,7 +6,7 @@
     "source_url": "https://toy.bandai.co.jp/manuals/?prod_name=&p_id=1&release_date=&t_id=&jan_code=",
     "manual_name": "DX-Ridewatch",
     "pages": 4,
-    "blocks": 197,
+    "blocks": 156,
     "thumbnail": "pages/page-0.webp",
     "tags": ["dx", "kamen-rider"],
     "blog_url": "https://translate.google.com/translate?sl=ja&tl=en&u=https://toy.bandai.co.jp/series/rider/blog/",
@@ -15,6 +15,32 @@
   "pages": [
     {
       "blocks": [
+        {
+          "text": "セット内容",
+          "translation": "Set contents",
+          "bbox": [0.04567741906642914, 0.2161, 0.11670967328548432, 0.0295],
+          "layout": "panel"
+        },
+        {
+          "text": "取扱説明書･･･1",
+          "translation": "Instruction manual ...1",
+          "bbox": [0.2077, 0.2268, 0.09057417874336243, 0.01871368200778961],
+          "layout": "panel"
+        },
+        {
+          "text": "DXセイバーライドウォッチ...1",
+          "translation": "Deluxe DX Saber Ride Watch ...1",
+          "bbox": [0.2657, 0.35967446422576904, 0.18579998807907105, 0.017125535774230982],
+          "layout": "panel"
+        },
+        {
+          "text": "DXディケイドコンプリートフォーム21ライドウォッチ... 1",
+          "translation": "DX Decade Complete Form 21 Ride Watch... 1",
+          "bbox": [
+            0.5315645442008973, 0.35967446422576904, 0.34009675073623646, 0.01722553577423097
+          ],
+          "layout": "panel"
+        },
         {
           "text": "△ 警告 (けいこく)",
           "translation": "△ Warning",
@@ -29,7 +55,7 @@
         },
         {
           "text": "●小部品や小球があります。 誤飲・窒息の危険がありますので、3才未満のお子様には絶対に与えないでください。",
-          "translation": "There are small parts and small balls. They pose a risk of accidental ingestion and choking, so never give this to children under 3 years old.",
+          "translation": "Contains small parts and small balls. Choking hazard — never give to children under 3 years old.",
           "bbox": [0.0553, 0.4444, 0.6468999999999999, 0.018400000000000027],
           "layout": "panel"
         },
@@ -40,29 +66,35 @@
           "layout": "panel"
         },
         {
-          "text": "らんぽう [あそ]\n●ぶつけたり、ふりまわすなど乱暴な遊びをしないでください。●本商品には電子部品を使用しておりますので、ペースメーカーをご使用の方は、\n本商品を身体に近づけないようご注意ください。 LEDの光の点滅を見続けないでください。気分が悪くなったりする恐れがあります。《電池を誤使用\nすると発熱・破裂・液漏れの恐れがあります。 下記に注意してください》 ●万一、ボタン電池を飲み込んだとき、ボタン電池から漏れた液が目に入った\nときはすぐに医師に相談してください。 漏れた液が皮膚や服に付いた時は水で洗ってください。 ●ボタン電池の交換は保護者の方が行ってください。\n●ボタン電池は飲み込むと危険です。 お子様の手の届かない所に保管してください。 万一、飲み込んだ場合は、すぐに医師に相談してください。\n●古い電池と新しい電池、いろいろな電池をまぜて使わないでください。 +-(プラスマイナス) を正しくセットしてください。 ●ショートさせたり充電、\n分解、加熱、火の中に入れたりしないでください。 廃棄するときは、自治体の廃棄処理の指示に従ってください。 ボタン電池はなめたり、口に\n入れたりしないでください。",
-          "translation": "• Do not play roughly, such as by hitting or swinging it around.\n• This product contains electronic components; if you use a pacemaker, take care not to bring this product close to your body.\n• Do not stare continuously at the flashing light of the LED. It may cause you to feel unwell.\n• Incorrect use of batteries may cause heating, rupture, or leakage. Please observe the following precautions.\n• If a button battery is swallowed, or if liquid leaked from a button battery gets into the eyes, consult a physician immediately. If leaked liquid gets on the skin or clothing, wash with water.\n• Have a guardian perform button battery replacement.\n• Button batteries are dangerous if swallowed. Keep out of reach of children. If swallowed, consult a physician immediately.\n• Do not mix old and new batteries or different types of batteries.\n• Set the +/− (plus/minus) polarity correctly.\n• Do not short-circuit, recharge, disassemble, heat, or place batteries into fire.\n• When disposing of batteries, follow your municipality's disposal instructions.\n• Do not lick or put button batteries into your mouth.",
-          "bbox": [0.04567741906642914, 0.4876, 0.8267903267145156, 0.12592967166900632],
-          "layout": "panel"
-        },
-        {
           "text": "<使用上の注意>",
           "translation": "<Precautions for Use>",
           "bbox": [0.03277419438958168, 0.63, 0.10172580561041833, 0.017899999999999916],
           "layout": "panel"
         },
         {
-          "text": "●セットされているボタン電池はテスト用です。 音声が小さくなる、 同じ音を繰り返すなど誤動作をする場合は、 ボタン電池をすべて新しいものに交換してください。\n●本商品は精密な電子部品で構成されています。 落としたり、水にぬらしたり、汚したり、 分解したりしないでください。 また、 高温・低温になる所での使用、保管は\nさけてください。●プラスチック梱包材は開封後はすぐに捨ててください。●可動部分・取付部分を無理な方向に強く引っ張ったり、曲げたりしないでください。\n●発音の一部にイントネーションが違っていたり、 商品の特性上聞き取りにくいものがありますが、ご了承ください。●誤動作した場合はリセットボタンを押し電源を\n入れ直してください。背面のQRコードが剥がれたり、傷がついた場合や、汚れが付着している場合にQRコードを読みとれないことがありますのでご注意ください。\n※QRコードは株式会社デンソーウェーブの登録商標です。",
-          "translation": "• The button batteries installed are for testing. If the sound becomes quieter, the same sound repeats, or the product malfunctions in any way, replace all button batteries with new ones.\n• This product contains precision electronic components. Do not drop, get wet, soil, or disassemble it. Also avoid using or storing it in places that become very hot or very cold.\n• Dispose of plastic packaging immediately after opening.\n• Do not pull or bend moving parts or mounting parts forcefully in unnatural directions.\n• Some pronunciations may have different intonation or may be difficult to hear due to the characteristics of the product; please understand this in advance.\n• If the product malfunctions, press the reset button and turn the power back on. Note that if the QR code on the back peels off, is scratched, or becomes dirty, the QR code may not be readable.\n• ※QR Code is a registered trademark of DENSO WAVE INCORPORATED.",
+          "text": "●セットされているボタン電池はテスト用です。 音声が小さくなる、 同じ音を繰り返すなど誤動作をする場合は、 ボタン電池をすべて新しいものに交換してください。\n●本商品は精密な電子部品で構成されています。 落としたり、水にぬらしたり、汚したり、 分解したりしないでください。 また、 高温・低温になる所での使用、保管は\nさけてください。●プラスチック梱包材は開封後はすぐに捨ててください。●可動部分・取付部分を無理な方向に強く引っ張ったり、曲げたりしないでください。\n●発音の一部にイントネーションが違っていたり、 商品の特性上聞き取りにくいものがありますが、ご了承ください。●誤動作した場合はリセットボタンを押し電源を\n入れ直してください。背面のQRコードが剥がれたり、傷がついた場合や、汚れが付着している場合にQRコードを読みとれないことがありますのでご注意ください。",
+          "translation": "• The button batteries installed are for testing. If the sound becomes weak, the same sound repeats, or the product malfunctions, replace all button batteries with new ones.\n• This product contains precise electronic parts. Do not drop it, get it wet, soil it, or disassemble it. Also avoid using or storing it where it will become very hot or very cold.\n• Discard plastic packaging material immediately after opening.\n• Do not pull or bend moving parts or attachment parts strongly in an unnatural direction.\n• Some spoken lines may have different intonation or may be hard to hear due to the product's characteristics.\n• If the product malfunctions, press the reset button and turn the power back on.\n• The QR code on the back may not be readable if it peels off, gets scratched, or becomes dirty, so be careful.",
           "bbox": [
-            0.031099999999999996, 0.6464475498199463, 0.9373354557991027, 0.11355245018005367
+            0.031099999999999996, 0.6464475498199463, 0.9373354557991027, 0.08665245018005363
           ],
           "layout": "panel"
         },
         {
-          "text": "デラックス\n※本書は、DXセイバーライドウォッチを例に説明します。",
-          "translation": "• Deluxe\n• This manual uses the DX Saber Ride Watch as an example.",
+          "text": "※QRコードは株式会社デンソーウェーブの登録商標です。",
+          "translation": "The QR Code is a registered trademark of DENSO WAVE Co., Ltd.",
+          "bbox": [0.6865, 0.7325365052223206, 0.2795161032676696, 0.015542724609374892],
+          "layout": "panel"
+        },
+        {
+          "text": "※本書は、DXセイバーライドウォッチを例に説明します。",
+          "translation": "This manual uses the DX Saber Ride Watch as an example.",
           "bbox": [0.043199999999999995, 0.7590473399162293, 0.4159, 0.021852660083770625],
+          "layout": "panel"
+        },
+        {
+          "text": "各部名称",
+          "translation": "Part names",
+          "bbox": [0.04648386991024017, 0.7971, 0.10441613008975983, 0.02851628961563102],
           "layout": "panel"
         },
         {
@@ -86,47 +118,51 @@
           "bbox": [0.049, 0.109, 0.899, 0.0787]
         },
         {
-          "text": "セット内容",
-          "translation": "Set contents",
-          "bbox": [0.0457, 0.2161, 0.11610000000000001, 0.0295],
+          "text": "らんぽう [あそ]",
+          "translation": "Ranpo [Aso]",
+          "bbox": [0.2195, 0.4891, 0.0514, 0.0051]
+        },
+        {
+          "text": "ごしょう",
+          "translation": "Gosho",
+          "bbox": [0.8337, 0.5049, 0.0363, 0.0043]
+        },
+        {
+          "text": "●ぶつけたり、ふりまわすなど乱暴な遊びをしないでください。●本商品には電子部品を使用しておりますので、ペースメーカーをご使用の方は、\n本商品を身体に近づけないようご注意ください。 LEDの光の点滅を見続けないでください。気分が悪くなったりする恐れがあります。《電池を誤使用\nすると発熱・破裂・液漏れの恐れがあります。 下記に注意してください》 ●万一、ボタン電池を飲み込んだとき、ボタン電池から漏れた液が目に入った",
+          "translation": "●Do not strike, throw, or swing this product roughly. ●This product contains electronic components; if you use a pacemaker, do not bring this product close to your body. Do not stare at the flashing LED light for extended periods; prolonged viewing may cause discomfort. Misuse of batteries may cause overheating, rupture, or leakage. Please observe the precautions below. ●If a button battery is swallowed or battery leakage gets into the eyes, consult a doctor immediately.",
+          "bbox": [0.0463, 0.488, 0.8251999999999999, 0.04839999999999989],
           "layout": "panel"
         },
         {
-          "text": "取扱説明書･･･1",
-          "translation": "Instruction Manual ... 1",
-          "bbox": [0.2077, 0.2268, 0.09010000000000001, 0.0184],
+          "text": "ときはすぐに医師に相談してください。 漏れた液が皮膚や服に付いた時は水で洗ってください。 ●ボタン電池の交換は保護者の方が行ってください。",
+          "translation": "If this happens, consult a doctor immediately. If leaked liquid gets on the skin or clothing, wash with water. ●Button battery replacement should be performed by a parent or guardian.",
+          "bbox": [0.0469, 0.5338, 0.8239999999999998, 0.017999999999999905],
           "layout": "panel"
         },
         {
-          "text": "デラックス",
-          "translation": "Deluxe",
-          "bbox": [0.2672, 0.3617, 0.0278, 0.0043]
+          "text": "●ボタン電池は飲み込むと危険です。 お子様の手の届かない所に保管してください。 万一、飲み込んだ場合は、すぐに医師に相談してください。",
+          "translation": "●Button batteries are dangerous if swallowed. Keep them out of the reach of children. If swallowed, consult a doctor immediately.",
+          "bbox": [
+            0.054099999999999995, 0.5496000000000001, 0.8173999999999999, 0.017899999999999805
+          ],
+          "layout": "panel"
         },
         {
-          "text": "デラックス",
-          "translation": "Deluxe",
-          "bbox": [0.5333, 0.3617, 0.0284, 0.0043]
+          "text": "●古い電池と新しい電池、いろいろな電池をまぜて使わないでください。 +-(プラスマイナス) を正しくセットしてください。 ●ショートさせたり充電、\n分解、加熱、火の中に入れたりしないでください。 廃棄するときは、自治体の廃棄処理の指示に従ってください。 ボタン電池はなめたり、口に",
+          "translation": "●Do not mix old and new batteries or different types of batteries. Insert the + and - (plus and minus) terminals correctly. ●Do not short-circuit, charge, disassemble, heat, or put batteries in fire. When disposing of batteries, follow your local government's disposal instructions. Do not lick or put button batteries in your mouth.",
+          "bbox": [0.0457, 0.5650000000000001, 0.8259, 0.03289999999999993],
+          "layout": "panel"
         },
         {
-          "text": "DXセイバーライドウォッチ...1",
-          "translation": "DX Saber Ridewatch ... 1",
-          "bbox": [0.2684, 0.3638, 0.1814, 0.0115]
-        },
-        {
-          "text": "DXディケイドコンプリートフォーム21ライドウォッチ... 1",
-          "translation": "DX Decade Complete Form 21 Ridewatch ... 1",
-          "bbox": [0.5357, 0.3664, 0.3337, 0.009]
+          "text": "入れたりしないでください。",
+          "translation": "Do not put batteries in your mouth.",
+          "bbox": [0.0463, 0.5966, 0.1523, 0.01629999999999998],
+          "layout": "panel"
         },
         {
           "text": "くちにいれない",
           "translation": "Do not put in mouth.",
           "bbox": [0.893, 0.5331, 0.0599, 0.0051]
-        },
-        {
-          "text": "各部名称",
-          "translation": "Part names",
-          "bbox": [0.0475, 0.7971, 0.1034, 0.028199999999999892],
-          "layout": "panel"
         },
         {
           "text": "【正面から見た図】",
@@ -1003,12 +1039,32 @@
         "plan": {
           "panels": [
             {
+              "id": "p_set_heading",
+              "kind": "heading",
+              "source_ids": [5]
+            },
+            {
+              "id": "p_set_manual",
+              "kind": "prose",
+              "source_ids": [7]
+            },
+            {
+              "id": "p_set_item_1",
+              "kind": "prose",
+              "source_ids": [10]
+            },
+            {
+              "id": "p_set_item_2",
+              "kind": "prose",
+              "source_ids": [11]
+            },
+            {
               "id": "p_warning_heading",
               "kind": "heading",
               "source_ids": [15]
             },
             {
-              "id": "p_warning_body_intro-heading-19",
+              "id": "p_warning_guardian-heading-19",
               "kind": "heading",
               "source_ids": [19]
             },
@@ -1023,11 +1079,6 @@
               "source_ids": [25]
             },
             {
-              "id": "p_caution_body",
-              "kind": "prose",
-              "source_ids": [28, 38, 59, 72, 80, 88]
-            },
-            {
               "id": "p_usage_heading",
               "kind": "heading",
               "source_ids": [90]
@@ -1035,12 +1086,22 @@
             {
               "id": "p_usage_body",
               "kind": "prose",
-              "source_ids": [102, 110, 116, 125, 138]
+              "source_ids": [102, 110, 116, 125]
             },
             {
-              "id": "p_note_example",
+              "id": "p_qr_trademark",
               "kind": "prose",
-              "source_ids": [140, 142]
+              "source_ids": [138]
+            },
+            {
+              "id": "p_example_note",
+              "kind": "prose",
+              "source_ids": [142]
+            },
+            {
+              "id": "p_parts_heading",
+              "kind": "heading",
+              "source_ids": [144]
             }
           ],
           "furigana": [
@@ -1053,16 +1114,12 @@
               "parent_id": 7
             },
             {
-              "source_id": 12,
-              "parent_id": 24
+              "source_id": 8,
+              "parent_id": 10
             },
             {
-              "source_id": 13,
-              "parent_id": 24
-            },
-            {
-              "source_id": 14,
-              "parent_id": 24
+              "source_id": 9,
+              "parent_id": 11
             },
             {
               "source_id": 16,
@@ -1075,6 +1132,18 @@
             {
               "source_id": 18,
               "parent_id": 19
+            },
+            {
+              "source_id": 12,
+              "parent_id": 24
+            },
+            {
+              "source_id": 13,
+              "parent_id": 24
+            },
+            {
+              "source_id": 14,
+              "parent_id": 24
             },
             {
               "source_id": 20,
@@ -1097,15 +1166,23 @@
               "parent_id": 38
             },
             {
+              "source_id": 30,
+              "parent_id": 38
+            },
+            {
+              "source_id": 35,
+              "parent_id": 38
+            },
+            {
+              "source_id": 36,
+              "parent_id": 38
+            },
+            {
               "source_id": 27,
               "parent_id": 38
             },
             {
               "source_id": 29,
-              "parent_id": 38
-            },
-            {
-              "source_id": 30,
               "parent_id": 38
             },
             {
@@ -1122,18 +1199,6 @@
             },
             {
               "source_id": 34,
-              "parent_id": 38
-            },
-            {
-              "source_id": 35,
-              "parent_id": 38
-            },
-            {
-              "source_id": 36,
-              "parent_id": 38
-            },
-            {
-              "source_id": 37,
               "parent_id": 38
             },
             {
@@ -1269,10 +1334,6 @@
               "parent_id": 80
             },
             {
-              "source_id": 74,
-              "parent_id": 80
-            },
-            {
               "source_id": 75,
               "parent_id": 80
             },
@@ -1290,6 +1351,10 @@
             },
             {
               "source_id": 79,
+              "parent_id": 80
+            },
+            {
+              "source_id": 74,
               "parent_id": 80
             },
             {
@@ -1497,6 +1562,10 @@
               "parent_id": 142
             },
             {
+              "source_id": 140,
+              "parent_id": 142
+            },
+            {
               "source_id": 141,
               "parent_id": 142
             },
@@ -1526,217 +1595,238 @@
             }
           ],
           "notes": [
-            "Set contents and part-name diagram labels are left ungrouped as illustration/product labels. Source 28 appears to be OCR noise or doubtful ruby and is not linked."
-          ]
+            "Diagram labels and figure captions in the parts-name section were left ungrouped except for the section heading; their furigana links are still recorded.",
+            "Retained source 28: Unconfirmed furigana: 28 -> 38",
+            "Panel p_title retained original English after failed automatic checks",
+            "Panel p_caution_body retained original English after failed automatic checks"
+          ],
+          "native_artwork": []
         },
         "mapping": [
           {
             "display_index": 0,
+            "panel_id": "p_set_heading",
+            "source_ids": [5],
+            "furigana_ids": [4],
+            "japanese_items": ["セット内容"]
+          },
+          {
+            "display_index": 1,
+            "panel_id": "p_set_manual",
+            "source_ids": [7],
+            "furigana_ids": [6],
+            "japanese_items": ["取扱説明書･･･1"]
+          },
+          {
+            "display_index": 2,
+            "panel_id": "p_set_item_1",
+            "source_ids": [10],
+            "furigana_ids": [8],
+            "japanese_items": ["デラックス　DXセイバーライドウォッチ···1"]
+          },
+          {
+            "display_index": 3,
+            "panel_id": "p_set_item_2",
+            "source_ids": [11],
+            "furigana_ids": [9],
+            "japanese_items": ["DXディケイドコンプリートフォーム21ライドウォッチ... 1"]
+          },
+          {
+            "display_index": 4,
             "panel_id": "p_warning_heading",
             "source_ids": [15],
             "furigana_ids": [],
             "japanese_items": ["△ 警告 (けいこく)"]
           },
           {
-            "display_index": 1,
-            "panel_id": "p_warning_body_intro-heading-19",
+            "display_index": 5,
+            "panel_id": "p_warning_guardian-heading-19",
             "source_ids": [19],
             "furigana_ids": [16, 17, 18],
             "japanese_items": ["保護者の方へ 必ずお読みください。"]
           },
           {
-            "display_index": 2,
+            "display_index": 6,
             "panel_id": "p_warning_body",
             "source_ids": [24],
             "furigana_ids": [12, 13, 14, 20, 21, 22, 23],
             "japanese_items": [
-              "小部品や小球があります。誤飲・窒息の危険がありますので、3才未満のお子様には絶対に与えないでください。"
+              "●小部品や小球があります。誤飲・窒息の危険がありますので、3才未満のお子様には絶対に与えないでください。"
             ]
           },
           {
-            "display_index": 3,
+            "display_index": 7,
             "panel_id": "p_caution_heading",
             "source_ids": [25],
             "furigana_ids": [],
             "japanese_items": ["△ 注意 (ちゅうい )"]
           },
           {
-            "display_index": 4,
-            "panel_id": "p_caution_body",
-            "source_ids": [28, 38, 59, 72, 80, 88],
-            "furigana_ids": [
-              26, 27, 29, 30, 31, 32, 33, 34, 35, 36, 37, 39, 42, 44, 48, 50, 51, 54, 55, 56, 58,
-              40, 41, 43, 45, 46, 47, 49, 52, 53, 57, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70,
-              71, 73, 74, 75, 76, 77, 78, 79, 82, 83, 84, 85, 86, 87, 81
-            ],
-            "japanese_items": [
-              "ぶつけたり、ふりまわすなど乱暴な遊びをしないでください。",
-              "本商品には電子部品を使用しておりますので、ペースメーカーをご使用の方は、本商品を身体に近づけないようご注意ください。",
-              "LEDの光の点滅を見続けないでください。気分が悪くなったりする恐れがあります。",
-              "電池を誤使用すると発熱・破裂・液漏れの恐れがあります。下記に注意してください。",
-              "万一、ボタン電池を飲み込んだとき、ボタン電池から漏れた液が目に入ったときはすぐに医師に相談してください。漏れた液が皮膚や服に付いた時は水で洗ってください。",
-              "ボタン電池の交換は保護者の方が行ってください。",
-              "ボタン電池は飲み込むと危険です。お子様の手の届かない所に保管してください。万一、飲み込んだ場合は、すぐに医師に相談してください。",
-              "古い電池と新しい電池、いろいろな電池をまぜて使わないでください。",
-              "+−(プラスマイナス)を正しくセットしてください。",
-              "ショートさせたり充電、分解、加熱、火の中に入れたりしないでください。",
-              "廃棄するときは、自治体の廃棄処理の指示に従ってください。",
-              "ボタン電池はなめたり、口に入れたりしないでください。"
-            ]
-          },
-          {
-            "display_index": 5,
+            "display_index": 8,
             "panel_id": "p_usage_heading",
             "source_ids": [90],
             "furigana_ids": [89],
             "japanese_items": ["<使用上の注意>"]
           },
           {
-            "display_index": 6,
+            "display_index": 9,
             "panel_id": "p_usage_body",
-            "source_ids": [102, 110, 116, 125, 138],
+            "source_ids": [102, 110, 116, 125],
             "furigana_ids": [
               91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 103, 104, 105, 106, 107, 108, 109, 111, 112,
               113, 114, 115, 117, 118, 119, 120, 121, 122, 123, 124, 126, 127, 128, 129, 130, 131,
-              132, 133, 134, 136, 135, 137
+              132, 133, 134, 136
             ],
             "japanese_items": [
-              "セットされているボタン電池はテスト用です。音声が小さくなる、同じ音を繰り返すなど誤動作をする場合は、ボタン電池をすべて新しいものに交換してください。",
-              "本商品は精密な電子部品で構成されています。落としたり、水にぬらしたり、汚したり、分解したりしないでください。また、高温・低温になる所での使用、保管はさけてください。",
-              "プラスチック梱包材は開封後はすぐに捨ててください。",
-              "可動部分・取付部分を無理な方向に強く引っ張ったり、曲げたりしないでください。",
-              "発音の一部にイントネーションが違っていたり、商品の特性上聞き取りにくいものがありますが、ご了承ください。",
-              "誤動作した場合はリセットボタンを押し電源を入れ直してください。背面のQRコードが剥がれたり、傷がついた場合や、汚れが付着している場合にQRコードを読みとれないことがありますのでご注意ください。",
-              "※QRコードは株式会社デンソーウェーブの登録商標です。"
+              "●セットされているボタン電池はテスト用です。音声が小さくなる、同じ音を繰り返すなど誤動作をする場合は、ボタン電池をすべて新しいものに交換してください。",
+              "●本商品は精密な電子部品で構成されています。落としたり、水にぬらしたり、汚したり、分解したりしないでください。また、高温・低温になる所での使用、保管はさけてください。",
+              "●プラスチック梱包材は開封後はすぐに捨ててください。",
+              "●可動部分・取付部分を無理な方向に強く引っ張ったり、曲げたりしないでください。",
+              "●発音の一部にイントネーションが違っていたり、商品の特性上聞き取りにくいものがありますが、ご了承ください。",
+              "●誤動作した場合はリセットボタンを押し電源を入れ直してください。",
+              "●背面のQRコードが剥がれたり、傷がついた場合や、汚れが付着している場合にQRコードを読みとれないことがありますのでご注意ください。"
             ]
           },
           {
-            "display_index": 7,
-            "panel_id": "p_note_example",
-            "source_ids": [140, 142],
-            "furigana_ids": [139, 141],
-            "japanese_items": ["デラックス", "※本書は、DXセイバーライドウォッチを例に説明します。"]
+            "display_index": 10,
+            "panel_id": "p_qr_trademark",
+            "source_ids": [138],
+            "furigana_ids": [135, 137],
+            "japanese_items": ["※QRコードは株式会社デンソーウェーブの登録商標です。"]
           },
           {
-            "display_index": 8,
+            "display_index": 11,
+            "panel_id": "p_example_note",
+            "source_ids": [142],
+            "furigana_ids": [139, 140, 141],
+            "japanese_items": ["※本書は、DXセイバーライドウォッチを例に説明します。"]
+          },
+          {
+            "display_index": 12,
+            "panel_id": "p_parts_heading",
+            "source_ids": [144],
+            "furigana_ids": [143],
+            "japanese_items": ["各部名称"]
+          },
+          {
+            "display_index": 13,
             "source_ids": [0],
             "furigana_ids": []
           },
           {
-            "display_index": 9,
+            "display_index": 14,
             "source_ids": [1],
             "furigana_ids": []
           },
           {
-            "display_index": 10,
+            "display_index": 15,
             "source_ids": [2],
             "furigana_ids": []
           },
           {
-            "display_index": 11,
+            "display_index": 16,
             "source_ids": [3],
             "furigana_ids": []
           },
           {
-            "display_index": 12,
-            "source_ids": [5],
-            "furigana_ids": [4]
-          },
-          {
-            "display_index": 13,
-            "source_ids": [7],
-            "furigana_ids": [6]
-          },
-          {
-            "display_index": 14,
-            "source_ids": [8],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 15,
-            "source_ids": [9],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 16,
-            "source_ids": [10],
-            "furigana_ids": []
-          },
-          {
             "display_index": 17,
-            "source_ids": [11],
+            "source_ids": [28],
             "furigana_ids": []
           },
           {
             "display_index": 18,
-            "source_ids": [101],
+            "source_ids": [37],
             "furigana_ids": []
           },
           {
             "display_index": 19,
-            "source_ids": [144],
-            "furigana_ids": [143]
+            "source_ids": [38],
+            "furigana_ids": [
+              26, 30, 35, 36, 27, 29, 31, 32, 33, 34, 39, 42, 44, 48, 50, 51, 54, 55, 56, 58
+            ]
           },
           {
             "display_index": 20,
+            "source_ids": [59],
+            "furigana_ids": [40, 41, 43, 45, 46, 47, 49, 52, 53, 57]
+          },
+          {
+            "display_index": 21,
+            "source_ids": [72],
+            "furigana_ids": [60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71]
+          },
+          {
+            "display_index": 22,
+            "source_ids": [80],
+            "furigana_ids": [73, 75, 76, 77, 78, 79, 74, 82, 83, 84, 85, 86, 87]
+          },
+          {
+            "display_index": 23,
+            "source_ids": [88],
+            "furigana_ids": [81]
+          },
+          {
+            "display_index": 24,
+            "source_ids": [101],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 25,
             "source_ids": [147],
             "furigana_ids": [145, 146]
           },
           {
-            "display_index": 21,
+            "display_index": 26,
             "source_ids": [148],
             "furigana_ids": []
           },
           {
-            "display_index": 22,
+            "display_index": 27,
             "source_ids": [150],
             "furigana_ids": []
           },
           {
-            "display_index": 23,
+            "display_index": 28,
             "source_ids": [151],
             "furigana_ids": []
           },
           {
-            "display_index": 24,
+            "display_index": 29,
             "source_ids": [152],
             "furigana_ids": [149]
           },
           {
-            "display_index": 25,
+            "display_index": 30,
             "source_ids": [154],
             "furigana_ids": [153]
           },
           {
-            "display_index": 26,
+            "display_index": 31,
             "source_ids": [155],
             "furigana_ids": []
           },
           {
-            "display_index": 27,
+            "display_index": 32,
             "source_ids": [156],
             "furigana_ids": []
           },
           {
-            "display_index": 28,
+            "display_index": 33,
             "source_ids": [157],
             "furigana_ids": []
           },
           {
-            "display_index": 29,
+            "display_index": 34,
             "source_ids": [159],
             "furigana_ids": []
           },
           {
-            "display_index": 30,
+            "display_index": 35,
             "source_ids": [160],
             "furigana_ids": [158]
           }
         ],
-        "uncertainties": [
-          "OCR showed \"十一(プラスマイナス)\" in one place; interpreted as \"+− (プラスマイナス)\" meaning +/− battery polarity.",
-          "No other ambiguous or missing text detected; reconstructed clauses from printed bullets as separate items."
-        ],
+        "uncertainties": [],
         "ocr_lines": [
           {
             "id": 0,
@@ -3007,7 +3097,7 @@
           "text": "DXセイバーライドウォッチ&ディケイドコンプリートフォーム21ライドウォッチの",
           "translation": "DX Saber Ridewatch & Decade Complete Form 21 Ridewatch",
           "bbox": [
-            0.043199999999999995, 0.05722292071580887, 0.7764451559066772, 0.01907707928419114
+            0.043199999999999995, 0.050381413906812667, 0.7764451559066772, 0.02591858609318734
           ],
           "layout": "panel"
         },
@@ -3018,8 +3108,16 @@
           "layout": "panel"
         },
         {
+          "text": "①本体下部から出ている絶縁シートを\n矢印の方向に引き抜きます。",
+          "translation": "1. Pull out the insulating sheet that protrudes from the bottom of the unit in the direction of the arrow.",
+          "bbox": [
+            0.0448709682226181, 0.10539851641654968, 0.2003290317773819, 0.031221204876899722
+          ],
+          "layout": "panel"
+        },
+        {
           "text": "②リセットボタンを先の細い\n棒などで軽く押します。",
-          "translation": "2. Lightly press the reset button with a thin-tipped stick or similar object.",
+          "translation": "② Lightly press the reset button with a thin-tipped stick or similar object.",
           "bbox": [
             0.5218870744705201, 0.10539851641654968, 0.14591292552947976, 0.030936145663261416
           ],
@@ -3033,31 +3131,39 @@
         },
         {
           "text": "かなら ほごしゃ かた おこな\n※必ず保護者の方が行ってください。",
-          "translation": "※This must be carried out by a guardian.",
+          "translation": "A parent or guardian must perform this.",
           "bbox": [0.2434, 0.2949652180671692, 0.2182, 0.0181347819328308],
           "layout": "panel"
         },
         {
-          "text": "※音が小さくなって聞きとりにくくなったり、 音が止まるなどの誤動作をする場合や、\nLEDの発光が弱くなった場合は、すべて新しい電池に交換してください。\n①カバーを取り外します。",
-          "translation": "• If the sound becomes low and hard to hear, or malfunctions such as the sound stopping occur, or if the LED’s illumination becomes weak, replace all batteries with new ones.\n• 1. Remove the cover.",
-          "bbox": [0.040799999999999996, 0.3187, 0.47089999999999993, 0.06290000000000001],
+          "text": "②電池ぶたを取り外します。\n②-1 DXセイバーライドウォッチ正面の\n電池ぶたの右側の穴を先の細い棒などで押し、\n②-2 電池ぶたを矢印の方向にスライドさせて取り外します。\n③ボタン電池を入れます。\n古いボタン電池を取り外して、 新しいボタン電池\n3個(LR44・別売り)を十に注意してセットします。",
+          "translation": "• ② Remove the battery cover.\n• ②-1 On the front of the DX Saber Ride Watch, press the hole on the right side of the battery cover with a thin pointed tool or similar object, ②-2 then slide the battery cover in the direction of the arrow to remove it.\n• ③ Insert the button batteries. Remove the old button batteries and install three new button batteries (LR44, sold separately), making sure to observe the +/− polarity.",
+          "bbox": [0.040799999999999996, 0.423, 0.3187645024776459, 0.10190000000000005],
           "layout": "panel"
         },
         {
-          "text": "①-1 カバーを矢印の方向に回して、",
-          "translation": "①-1 Turn the cover in the direction of the arrow,",
-          "bbox": [0.05253225868940353, 0.3794, 0.2554193599820137, 0.015499999999999958],
+          "text": "④電池ぶたを戻します。\n電池ぶたの突起とDXセイバーライドウォッチ正面の\nミゾを合わせ、 電池ぶたを閉じます。\n⑤カバーを戻します。\nカバーの△と本体の△の位置を合わせてはめこみ、\nカバーの正位置まで回します。",
+          "translation": "• ④ Replace the battery cover.\n• Align the tab on the battery cover with the groove on the front of the DX Saber Ride Watch, then close the battery cover.\n• ⑤ Replace the cover.\n• Align the △ mark on the cover with the △ mark on the main body and snap the cover in, then rotate the cover until it reaches its correct position.",
+          "bbox": [0.040799999999999996, 0.5241556272506714, 0.2787, 0.08680848169326771],
           "layout": "panel"
         },
         {
-          "text": "カバーの△と本体の△の位置を合わせます。\n1-1",
-          "translation": "①-1 Align the △ on the cover with the △ on the main unit.",
-          "bbox": [0.0807, 0.394, 0.38270000000000004, 0.01749999999999996],
+          "text": "ボタン電池(LR44) 各3個使用(付)\n●セットされている電池は、テスト用です。\nボタン電池は上側が十に下側が\nマイナス\nになるようにセットします。",
+          "translation": "• Uses three button batteries (LR44) (included).\n• The batteries installed are for testing.\n• Insert the button batteries so the top side is + and the bottom side is −.",
+          "bbox": [0.43277419662475586, 0.6321944103240967, 0.16962580337524408, 0.064573565006256],
+          "layout": "panel"
+        },
+        {
+          "text": "DXセイバーライドウォッチ&ディケイドコンプリートフォーム21ライドウォッチの単品遊び",
+          "translation": "Single-item play for DX Saber Ridewatch & DX Decade Complete Form 21 Ridewatch.",
+          "bbox": [
+            0.04366129195690155, 0.731966386795044, 0.8646387080430984, 0.025433613204955963
+          ],
           "layout": "panel"
         },
         {
           "text": "※セット内容の状態から始めます。",
-          "translation": "Start from the condition of the set contents.",
+          "translation": "Begin with the set contents as they are.",
           "bbox": [0.041241935700178145, 0.7578, 0.20501613381505013, 0.025699999999999945],
           "layout": "panel"
         },
@@ -3069,7 +3175,7 @@
         },
         {
           "text": "カバーが回転して、絵柄が変わります。",
-          "translation": "The cover rotates and the illustration/pattern changes.",
+          "translation": "The cover rotates and the design changes.",
           "bbox": [0.040799999999999996, 0.798, 0.19618386991024017, 0.01678392028808584],
           "layout": "panel"
         },
@@ -3083,22 +3189,34 @@
         },
         {
           "text": "天面のボタンを押します。\nボタンを押すたびに2種類の音声が鳴り、LEDが光ります。",
-          "translation": "• Press the top button.\n• Each time you press the button, two types of voice prompts will sound and the LED will light.",
+          "translation": "• Press the button on the top surface.\n• Each time you press the button, two different voice lines play and the LED lights up.",
           "bbox": [0.4048, 0.8000963435173035, 0.3162, 0.031221189975738417],
           "layout": "panel"
         },
         {
-          "text": "ボタン操作\nDXセイバー\nライドウォッチ",
-          "translation": "Button operations — Deluxe DX Saber Ride Watch",
-          "bbox": [0.5856, 0.8707, 0.12329999999999997, 0.01839999999999986],
+          "text": "ボタン操作",
+          "translation": "Button operation",
+          "bbox": [0.5855967507362366, 0.8707, 0.05260324926376325, 0.013924291896819985],
           "layout": "panel"
         },
         {
-          "text": "音声 ①",
-          "translation": "Audio 1",
+          "text": "DXセイバー",
+          "translation": "DX Saber",
           "bbox": [
-            0.5952000000000001, 0.8901761875152588, 0.03259999999999985, 0.013423812484741116
+            0.6428548202514649, 0.8676562414169312, 0.05934517974853504, 0.012443758583068787
           ],
+          "layout": "panel"
+        },
+        {
+          "text": "ライドウォッチ",
+          "translation": "Ridewatch",
+          "bbox": [0.6436000000000001, 0.8788, 0.0663677219390868, 0.010299999999999865],
+          "layout": "panel"
+        },
+        {
+          "text": "DXディケイドコンプリートフォーム21\nライドウォッチ",
+          "translation": "DX Decade Complete Form 21 Ridewatch",
+          "bbox": [0.7748, 0.8668010339736939, 0.1754903118133544, 0.02238426494598378],
           "layout": "panel"
         },
         {
@@ -3110,114 +3228,74 @@
           "layout": "panel"
         },
         {
-          "text": "DXディケイドコンプリートフォーム21\nライドウォッチ\nコンプリートフォーム21",
-          "translation": "• DX Decade Complete Form 21 Ride Watch\n• Complete Form 21",
-          "bbox": [0.776, 0.8711000000000001, 0.17429031181335441, 0.03262346782684311],
-          "layout": "panel"
-        },
-        {
-          "text": "文豪にして剣豪!炎の聖剣に 令和をも取り込んだ",
-          "translation": "A literary master and a swordmaster! The Flaming Holy Sword has even incorporated Reiwa.",
-          "bbox": [0.643, 0.9053000000000001, 0.29599999999999993, 0.012899999999999912],
-          "layout": "panel"
-        },
-        {
-          "text": "音声 ②",
-          "translation": "Audio 2",
+          "text": "|選ばれしライダーは･･･\nセイバーだ!",
+          "translation": "• The chosen Rider is...\n• It's Saber!",
           "bbox": [
-            0.5952000000000001, 0.918967495918274, 0.03331612710952747, 0.012432504081725915
+            0.6394000000000001, 0.9175421700477601, 0.10519999999999985, 0.02625782995223991
           ],
           "layout": "panel"
         },
         {
-          "text": "|選ばれしライダーは･･･",
-          "translation": "The chosen Rider is...",
+          "text": "大図鑑ライダー\nディケイドコンプリートフォーム21!",
+          "translation": "• Rider Encyclopedia\n• Decade Complete Form 21!",
           "bbox": [
-            0.6394000000000001, 0.9175421700477601, 0.10519999999999985, 0.01645782995223999
-          ],
-          "layout": "panel"
-        },
-        {
-          "text": "セイバーだ!",
-          "translation": "It's Saber!",
-          "bbox": [
-            0.6432580456733704, 0.9335000000000001, 0.05654195432662956, 0.010299999999999865
-          ],
-          "layout": "panel"
-        },
-        {
-          "text": "大図鑑ライダー",
-          "translation": "Comprehensive Rider Encyclopedia",
-          "bbox": [
-            0.7754000000000001, 0.9172571406364441, 0.07287422046661363, 0.014117458343505751
-          ],
-          "layout": "panel"
-        },
-        {
-          "text": "ディケイドコンプリートフォーム21!",
-          "translation": "Decade Complete Form 21!",
-          "bbox": [
-            0.7763225541114808, 0.9335057244300843, 0.16267744588851918, 0.010411599159240614
+            0.7754000000000001, 0.9172571406364441, 0.16359999999999986, 0.02666018295288075
           ],
           "layout": "panel"
         },
         {
           "text": "※音声 ② の後にボタンを押すと再び音声 ①に戻ります。",
-          "translation": "※If you press the button after audio ②, it will return to audio ①.",
+          "translation": "If you press the button after voice ② plays, it will return to voice ①.",
           "bbox": [0.5807000000000001, 0.9515, 0.28491291360855087, 0.01619999999999988],
           "layout": "panel"
         },
         {
-          "text": "デラックス",
-          "translation": "Deluxe",
-          "bbox": [0.0459, 0.0526, 0.0308, 0.0051]
-        },
-        {
-          "text": "①本体下部から出ている絶縁シートを",
-          "translation": "① Pull out the insulation sheet protruding from the bottom of the main unit in the direction of the arrow.",
-          "bbox": [0.0451, 0.1054, 0.2001, 0.01630000000000001],
-          "layout": "panel"
-        },
-        {
-          "text": "矢印の方向に引き抜きます。",
-          "translation": "Pull it out in the direction of the arrow.",
-          "bbox": [0.0565, 0.1203, 0.1463, 0.016300000000000023],
-          "layout": "panel"
-        },
-        {
-          "text": "はいめん",
-          "translation": "Haimen",
-          "bbox": [0.1898, 0.2441, 0.0218, 0.0034]
-        },
-        {
-          "text": "み",
-          "translation": "fruit",
-          "bbox": [0.2382, 0.2441, 0.006, 0.003]
-        },
-        {
           "text": "【背面から見た図】",
           "translation": "[View from the back]",
-          "bbox": [0.1856, 0.2484, 0.0907, 0.009]
-        },
-        {
-          "text": "ぜつえん",
-          "translation": "insulation",
-          "bbox": [0.4407, 0.2514, 0.0193, 0.003]
+          "bbox": [0.18409999999999999, 0.2426, 0.0937, 0.01630000000000001],
+          "layout": "panel"
         },
         {
           "text": "・絶縁シート",
           "translation": "・Insulation sheet",
-          "bbox": [0.4365, 0.2548, 0.0526, 0.0064]
-        },
-        {
-          "text": "べつかくど",
-          "translation": "Betsukudo",
-          "bbox": [0.6977, 0.1154, 0.0308, 0.0043]
+          "bbox": [0.435, 0.2499, 0.05559999999999998, 0.012800000000000034],
+          "layout": "panel"
         },
         {
           "text": "【別角度】",
           "translation": "[Another angle]",
-          "bbox": [0.6941, 0.1201, 0.0435, 0.0081]
+          "bbox": [0.6926000000000001, 0.1139, 0.046499999999999875, 0.01580000000000001],
+          "layout": "panel"
+        },
+        {
+          "text": "※音が小さくなって聞きとりにくくなったり、 音が止まるなどの誤動作をする場合や、",
+          "translation": "※If the sound becomes quieter and hard to hear, if the sound stops, or if other malfunctions occur,",
+          "bbox": [0.0426, 0.3187, 0.46909999999999996, 0.018500000000000016],
+          "layout": "panel"
+        },
+        {
+          "text": "LEDの発光が弱くなった場合は、すべて新しい電池に交換してください。",
+          "translation": "If the LED light becomes weak, replace all batteries with new ones.",
+          "bbox": [0.0584, 0.3384, 0.419, 0.019699999999999995],
+          "layout": "panel"
+        },
+        {
+          "text": "①カバーを取り外します。",
+          "translation": "① Remove the cover.",
+          "bbox": [0.040799999999999996, 0.3662, 0.1336, 0.01539999999999997],
+          "layout": "panel"
+        },
+        {
+          "text": "①-1 カバーを矢印の方向に回して、",
+          "translation": "①-1 Turn the cover in the direction of the arrow,",
+          "bbox": [0.052899999999999996, 0.3794, 0.185, 0.01629999999999998],
+          "layout": "panel"
+        },
+        {
+          "text": "カバーの△と本体の△の位置を合わせます。",
+          "translation": "Align the △ on the cover with the △ on the main unit.",
+          "bbox": [0.0807, 0.394, 0.2273, 0.01579999999999998],
+          "layout": "panel"
         },
         {
           "text": "①-2カバーを矢印の方向にスライドさせて外します。",
@@ -3226,121 +3304,21 @@
           "layout": "panel"
         },
         {
-          "text": "②電池ぶたを取り外します。",
-          "translation": "② Remove the battery cover.",
-          "bbox": [0.040799999999999996, 0.423, 0.1463, 0.015800000000000036],
-          "layout": "panel"
-        },
-        {
-          "text": "デラックス",
-          "translation": "Deluxe",
-          "bbox": [0.0804, 0.4378, 0.0212, 0.0043]
-        },
-        {
-          "text": "②-1 DXセイバーライドウォッチ正面の",
-          "translation": "②-1 On the front of the DX Saber Ridewatch,",
-          "bbox": [0.052899999999999996, 0.4371, 0.2025, 0.015400000000000025],
-          "layout": "panel"
-        },
-        {
-          "text": "電池ぶたの右側の穴を先の細い棒などで押し、",
-          "translation": "Press the hole on the right side of the battery cover with a thin-tipped rod or similar tool,",
-          "bbox": [0.0807, 0.4513, 0.23820000000000002, 0.015800000000000036],
-          "layout": "panel"
-        },
-        {
-          "text": "②-2 電池ぶたを矢印の方向にスライドさせて取り外します。",
-          "translation": "②-2 Slide the battery cover in the direction of the arrow to remove it.",
-          "bbox": [0.052899999999999996, 0.4649, 0.3059, 0.016800000000000037],
-          "layout": "panel"
-        },
-        {
-          "text": "③ボタン電池を入れます。",
-          "translation": "③ Insert the button batteries.",
-          "bbox": [0.040799999999999996, 0.4799, 0.1366, 0.01539999999999997],
-          "layout": "panel"
-        },
-        {
-          "text": "古いボタン電池を取り外して、 新しいボタン電池",
-          "translation": "Remove the old button batteries and insert new button batteries.",
-          "bbox": [0.0535, 0.494, 0.2454, 0.015799999999999925],
-          "layout": "panel"
-        },
-        {
-          "text": "プラスマイナス ちゅうい",
-          "translation": "Observe +/− polarity",
-          "bbox": [0.1675, 0.5113, 0.0605, 0.0038]
-        },
-        {
-          "text": "3個(LR44・別売り)を十に注意してセットします。",
-          "translation": "Set 3 × LR44 (sold separately), observing the +/− polarity.",
-          "bbox": [0.0535, 0.5103000000000001, 0.2666, 0.015399999999999858],
-          "layout": "panel"
-        },
-        {
-          "text": "④電池ぶたを戻します。",
-          "translation": "④ Replace the battery cover.",
-          "bbox": [0.040799999999999996, 0.5244000000000001, 0.1245, 0.014999999999999902],
-          "layout": "panel"
-        },
-        {
-          "text": "とっき デラックス",
-          "translation": "Tokki Deluxe",
-          "bbox": [0.1137, 0.54, 0.052, 0.0038]
-        },
-        {
-          "text": "電池ぶたの突起とDXセイバーライドウォッチ正面の",
-          "translation": "Align the protrusion on the battery cover with the groove on the front of the DX Saber Ridewatch,",
-          "bbox": [0.052899999999999996, 0.538, 0.2666, 0.015399999999999858],
-          "layout": "panel"
-        },
-        {
-          "text": "ミゾを合わせ、 電池ぶたを閉じます。",
-          "translation": "then close the battery cover.",
-          "bbox": [0.0535, 0.5526000000000001, 0.1826, 0.01619999999999988],
-          "layout": "panel"
-        },
-        {
-          "text": "⑤カバーを戻します。",
-          "translation": "⑤ Replace the cover.",
-          "bbox": [0.040799999999999996, 0.5667000000000001, 0.1112, 0.015399999999999858],
-          "layout": "panel"
-        },
-        {
-          "text": "カバーの△と本体の△の位置を合わせてはめこみ、",
-          "translation": "Align the △ on the cover with the △ on the main unit and snap it into place,",
-          "bbox": [0.052899999999999996, 0.5812, 0.2612, 0.014999999999999902],
-          "layout": "panel"
-        },
-        {
           "text": "カバー",
           "translation": "cover",
           "bbox": [0.4335, 0.4895, 0.0302, 0.0056]
         },
         {
-          "text": "いち",
-          "translation": "one",
-          "bbox": [0.6028, 0.46, 0.0163, 0.003]
-        },
-        {
           "text": "△位置",
           "translation": "△Position",
-          "bbox": [0.5877, 0.4643, 0.0351, 0.0077]
-        },
-        {
-          "text": "ほんたい",
-          "translation": "main unit",
-          "bbox": [0.6155, 0.4874, 0.0181, 0.003]
-        },
-        {
-          "text": "1-2",
-          "translation": "1-2",
-          "bbox": [0.494, 0.5109, 0.0308, 0.0098]
+          "bbox": [0.5862, 0.4585, 0.03809999999999991, 0.014999999999999958],
+          "layout": "panel"
         },
         {
           "text": "・本体",
           "translation": "・Main unit",
-          "bbox": [0.6106, 0.4908, 0.0248, 0.0073]
+          "bbox": [0.6091000000000001, 0.4859, 0.027799999999999936, 0.01369999999999999],
+          "layout": "panel"
         },
         {
           "text": "(5",
@@ -3348,95 +3326,14 @@
           "bbox": [0.5091, 0.5665, 0.0103, 0.0064]
         },
         {
-          "text": "カバーの正位置まで回します。",
-          "translation": "Rotate the cover to the correct position.",
-          "bbox": [0.0535, 0.5953, 0.156, 0.015399999999999858],
-          "layout": "panel"
-        },
-        {
-          "text": "でんち",
-          "translation": "Battery",
-          "bbox": [0.4698, 0.6345, 0.0169, 0.0026]
-        },
-        {
           "text": "LR44 x 3",
           "translation": "LR44 × 3",
           "bbox": [0.4909, 0.6084, 0.0647, 0.0115]
         },
         {
-          "text": "かく",
-          "translation": "each",
-          "bbox": [0.5266, 0.6344, 0.0073, 0.0026]
-        },
-        {
-          "text": "こしよう つき",
-          "translation": "Koshotsuki",
-          "bbox": [0.5484, 0.6345, 0.0423, 0.003]
-        },
-        {
-          "text": "ボタン電池(LR44) 各3個使用(付)",
-          "translation": "Uses 3 button batteries (LR44) (included)",
-          "bbox": [0.442, 0.6379, 0.1524, 0.0073]
-        },
-        {
-          "text": "でんち",
-          "translation": "Battery",
-          "bbox": [0.5133, 0.6499, 0.0145, 0.0034]
-        },
-        {
-          "text": "よう",
-          "translation": "for",
-          "bbox": [0.5701, 0.6507, 0.0091, 0.0026]
-        },
-        {
-          "text": "●セットされている電池は、テスト用です。",
-          "translation": "●The battery provided is for testing purposes.",
-          "bbox": [0.4401, 0.6533, 0.1608, 0.0081]
-        },
-        {
-          "text": "でんち",
-          "translation": "Battery",
-          "bbox": [0.4692, 0.6712, 0.0163, 0.0026]
-        },
-        {
-          "text": "うえがわ プラス したがわ",
-          "translation": "upper side: +",
-          "bbox": [0.5, 0.6704, 0.0701, 0.0034]
-        },
-        {
-          "text": "ボタン電池は上側が十に下側が",
-          "translation": "The top of the button battery should be + and the bottom should be -.",
-          "bbox": [0.4395, 0.6751, 0.1409, 0.0068]
-        },
-        {
-          "text": "マイナス",
-          "translation": "minus",
-          "bbox": [0.4377, 0.6841, 0.0157, 0.003]
-        },
-        {
-          "text": "になるようにセットします。",
-          "translation": "Set so that this is the case.",
-          "bbox": [0.4516, 0.6888, 0.1167, 0.0064]
-        },
-        {
           "text": "リセットボタン",
           "translation": "Reset button",
           "bbox": [0.6469, 0.2069, 0.0647, 0.0068]
-        },
-        {
-          "text": "2-1",
-          "translation": "2-1",
-          "bbox": [0.8996, 0.3848, 0.0284, 0.0103]
-        },
-        {
-          "text": "+",
-          "translation": "+",
-          "bbox": [0.7346, 0.41, 0.0224, 0.0111]
-        },
-        {
-          "text": "+",
-          "translation": "+",
-          "bbox": [0.7836, 0.41, 0.0206, 0.0111]
         },
         {
           "text": "土",
@@ -3449,24 +3346,16 @@
           "bbox": [0.8845, 0.4292, 0.02, 0.006]
         },
         {
-          "text": "ほんたい",
-          "translation": "main unit",
-          "bbox": [0.737, 0.5507, 0.0181, 0.0026]
-        },
-        {
           "text": "本体",
           "translation": "Main unit",
-          "bbox": [0.7364, 0.5541, 0.0212, 0.0064]
-        },
-        {
-          "text": "でんち",
-          "translation": "Battery",
-          "bbox": [0.7346, 0.687, 0.0169, 0.0026]
+          "bbox": [0.7349000000000001, 0.5492, 0.02419999999999989, 0.012799999999999923],
+          "layout": "panel"
         },
         {
           "text": "電池ぶた",
           "translation": "Battery cover",
-          "bbox": [0.734, 0.6909, 0.0399, 0.006]
+          "bbox": [0.7325, 0.6855000000000001, 0.04289999999999994, 0.0128999999999998],
+          "layout": "panel"
         },
         {
           "text": "とっき\n突起",
@@ -3474,30 +3363,32 @@
           "bbox": [0.7769, 0.5981, 0.02, 0.0107]
         },
         {
-          "text": "デラックス",
-          "translation": "Deluxe",
-          "bbox": [0.0472, 0.7336, 0.0302, 0.0051]
-        },
-        {
-          "text": "DXセイバーライドウォッチ&ディケイドコンプリートフォーム21ライドウォッチの単品遊び",
-          "translation": "Single-item play for DX Saber Ridewatch & DX Decade Complete Form 21 Ridewatch.",
-          "bbox": [0.0438, 0.7321000000000001, 0.8645, 0.025299999999999878],
-          "layout": "panel"
-        },
-        {
           "text": "ボタン",
           "translation": "Button",
           "bbox": [0.4123, 0.8589, 0.0284, 0.006]
         },
         {
-          "text": "デラックス",
-          "translation": "Deluxe",
-          "bbox": [0.6445, 0.8692, 0.0181, 0.003]
+          "text": "音声 ①",
+          "translation": "Audio ①",
+          "bbox": [0.5952000000000001, 0.8908, 0.03259999999999985, 0.012799999999999923],
+          "layout": "panel"
         },
         {
-          "text": "デラックス",
-          "translation": "Deluxe",
-          "bbox": [0.7763, 0.8687, 0.0187, 0.0026]
+          "text": "コンプリートフォーム21",
+          "translation": "Complete Form 21",
+          "bbox": [0.7775, 0.8957, 0.0973, 0.0064]
+        },
+        {
+          "text": "文豪にして剣豪!炎の聖剣に 令和をも取り込んだ",
+          "translation": "A literary genius and a master swordsman! He even incorporated the Reiwa era into his flaming holy sword.",
+          "bbox": [0.643, 0.9053000000000001, 0.22549999999999992, 0.013699999999999823],
+          "layout": "panel"
+        },
+        {
+          "text": "音声 ②",
+          "translation": "Audio ②",
+          "bbox": [0.5952000000000001, 0.919, 0.03199999999999992, 0.012399999999999856],
+          "layout": "panel"
         }
       ],
       "image": "pages/page-1.webp",
@@ -4413,127 +4304,122 @@
         "plan": {
           "panels": [
             {
-              "id": "p0",
+              "id": "p1",
               "kind": "heading",
               "source_ids": [3]
             },
             {
-              "id": "p1-a",
+              "id": "p2",
               "kind": "heading",
               "source_ids": [5]
             },
             {
-              "id": "p1-b",
+              "id": "p3",
               "kind": "heading",
               "source_ids": [10]
             },
             {
-              "id": "p3",
-              "kind": "prose",
-              "source_ids": [23, 28]
-            },
-            {
               "id": "p4",
-              "kind": "heading",
-              "source_ids": [31]
+              "kind": "prose",
+              "source_ids": [14, 16]
             },
             {
               "id": "p5",
               "kind": "prose",
+              "source_ids": [23, 28]
+            },
+            {
+              "id": "p6",
+              "kind": "heading",
+              "source_ids": [31]
+            },
+            {
+              "id": "p7",
+              "kind": "prose",
               "source_ids": [34]
             },
             {
-              "id": "p6-a",
+              "id": "p10",
               "kind": "prose",
-              "source_ids": [38, 44, 47]
+              "source_ids": [58, 61, 65, 69, 72, 77, 80]
             },
             {
-              "id": "p6-b-a",
+              "id": "p12",
               "kind": "prose",
-              "source_ids": [49]
+              "source_ids": [82, 86, 89, 91, 94, 105]
             },
             {
-              "id": "p6-b-b",
+              "id": "p14",
               "kind": "prose",
-              "source_ids": [52, 95]
+              "source_ids": [110, 113, 116, 117, 118]
             },
             {
-              "id": "p9",
+              "id": "p15",
+              "kind": "heading",
+              "source_ids": [132]
+            },
+            {
+              "id": "p16",
               "kind": "prose",
               "source_ids": [135]
             },
             {
-              "id": "p10",
+              "id": "p17",
               "kind": "heading",
               "source_ids": [137]
             },
             {
-              "id": "p11",
+              "id": "p18",
               "kind": "prose",
               "source_ids": [140]
             },
             {
-              "id": "p12",
+              "id": "p19",
               "kind": "heading",
               "source_ids": [143]
             },
             {
-              "id": "p13",
+              "id": "p20",
               "kind": "prose",
               "source_ids": [145, 149]
             },
             {
-              "id": "p14-a-a",
-              "kind": "prose",
-              "source_ids": [153, 154, 155]
+              "id": "p21",
+              "kind": "heading",
+              "source_ids": [153]
             },
             {
-              "id": "p14-a-b-a-a",
-              "kind": "prose",
-              "source_ids": [157]
+              "id": "p22-a",
+              "kind": "heading",
+              "source_ids": [154]
             },
             {
-              "id": "p14-a-b-a-b",
+              "id": "p22-b",
+              "kind": "heading",
+              "source_ids": [155]
+            },
+            {
+              "id": "p23",
+              "kind": "heading",
+              "source_ids": [162]
+            },
+            {
+              "id": "p24",
               "kind": "prose",
               "source_ids": [158]
             },
             {
-              "id": "p14-a-b-b",
+              "id": "p26",
               "kind": "prose",
-              "source_ids": [162, 163]
+              "source_ids": [170, 171]
             },
             {
-              "id": "p14-b-a-a",
+              "id": "p27",
               "kind": "prose",
-              "source_ids": [166]
+              "source_ids": [176, 177]
             },
             {
-              "id": "p14-b-a-b-a",
-              "kind": "prose",
-              "source_ids": [169]
-            },
-            {
-              "id": "p14-b-a-b-b",
-              "kind": "prose",
-              "source_ids": [170]
-            },
-            {
-              "id": "p14-b-b-a-a",
-              "kind": "prose",
-              "source_ids": [171]
-            },
-            {
-              "id": "p14-b-b-a-b",
-              "kind": "prose",
-              "source_ids": [176]
-            },
-            {
-              "id": "p14-b-b-b-a",
-              "kind": "prose",
-              "source_ids": [177]
-            },
-            {
-              "id": "p14-b-b-b-b",
+              "id": "p28",
               "kind": "prose",
               "source_ids": [180]
             }
@@ -4550,6 +4436,10 @@
             {
               "source_id": 2,
               "parent_id": 3
+            },
+            {
+              "source_id": 4,
+              "parent_id": 5
             },
             {
               "source_id": 6,
@@ -4584,8 +4474,24 @@
               "parent_id": 16
             },
             {
+              "source_id": 17,
+              "parent_id": 19
+            },
+            {
+              "source_id": 18,
+              "parent_id": 19
+            },
+            {
+              "source_id": 20,
+              "parent_id": 21
+            },
+            {
               "source_id": 22,
               "parent_id": 23
+            },
+            {
+              "source_id": 24,
+              "parent_id": 27
             },
             {
               "source_id": 25,
@@ -4680,6 +4586,10 @@
               "parent_id": 58
             },
             {
+              "source_id": 59,
+              "parent_id": 61
+            },
+            {
               "source_id": 60,
               "parent_id": 61
             },
@@ -4736,11 +4646,19 @@
               "parent_id": 80
             },
             {
+              "source_id": 79,
+              "parent_id": 80
+            },
+            {
               "source_id": 81,
               "parent_id": 82
             },
             {
               "source_id": 83,
+              "parent_id": 86
+            },
+            {
+              "source_id": 84,
               "parent_id": 86
             },
             {
@@ -4768,12 +4686,60 @@
               "parent_id": 94
             },
             {
+              "source_id": 97,
+              "parent_id": 98
+            },
+            {
+              "source_id": 99,
+              "parent_id": 101
+            },
+            {
               "source_id": 103,
               "parent_id": 105
             },
             {
               "source_id": 104,
               "parent_id": 105
+            },
+            {
+              "source_id": 106,
+              "parent_id": 110
+            },
+            {
+              "source_id": 108,
+              "parent_id": 110
+            },
+            {
+              "source_id": 109,
+              "parent_id": 110
+            },
+            {
+              "source_id": 111,
+              "parent_id": 113
+            },
+            {
+              "source_id": 112,
+              "parent_id": 113
+            },
+            {
+              "source_id": 114,
+              "parent_id": 116
+            },
+            {
+              "source_id": 115,
+              "parent_id": 116
+            },
+            {
+              "source_id": 125,
+              "parent_id": 126
+            },
+            {
+              "source_id": 127,
+              "parent_id": 128
+            },
+            {
+              "source_id": 130,
+              "parent_id": 132
             },
             {
               "source_id": 131,
@@ -4824,6 +4790,10 @@
               "parent_id": 149
             },
             {
+              "source_id": 151,
+              "parent_id": 154
+            },
+            {
               "source_id": 152,
               "parent_id": 153
             },
@@ -4838,6 +4808,10 @@
             {
               "source_id": 160,
               "parent_id": 166
+            },
+            {
+              "source_id": 161,
+              "parent_id": 162
             },
             {
               "source_id": 164,
@@ -4881,112 +4855,141 @@
             }
           ],
           "notes": [
-            "Diagram labels and callouts are left ungrouped. Some OCR plus/minus signs appear as 十 or 土 but are retained with their source text.",
-            "Conservative panel fallback: Panel p8 would mask unrelated source 130",
-            "Retained p8 unchanged: Panel p8 would mask unrelated source 130",
-            "Panel p2 retained original English after failed automatic checks"
-          ]
+            "Source 34 and 129 appear to contain both ruby and base text within one OCR region, so they were not classified as furigana.",
+            "Conservative panel fallback: Panel p25 would mask unrelated source 158",
+            "Retained p8-native-b unchanged: Panel p8-native-b would mask native artwork 95",
+            "Panel p8-native-a retained original English after failed automatic checks"
+          ],
+          "native_artwork": [95, 100, 120, 121, 122]
         },
         "mapping": [
           {
             "display_index": 0,
-            "panel_id": "p0",
+            "panel_id": "p1",
             "source_ids": [3],
             "furigana_ids": [0, 1, 2],
             "japanese_items": ["初めて遊ぶ前に･･"]
           },
           {
             "display_index": 1,
-            "panel_id": "p1-a",
+            "panel_id": "p2",
             "source_ids": [5],
-            "furigana_ids": [],
+            "furigana_ids": [4],
             "japanese_items": [
               "DXセイバーライドウォッチ&ディケイドコンプリートフォーム21ライドウォッチの"
             ]
           },
           {
             "display_index": 2,
-            "panel_id": "p1-b",
+            "panel_id": "p3",
             "source_ids": [10],
             "furigana_ids": [6, 7, 8, 9],
             "japanese_items": ["絶縁シートの取り外し方"]
           },
           {
             "display_index": 3,
-            "panel_id": "p3",
+            "panel_id": "p4",
+            "source_ids": [14, 16],
+            "furigana_ids": [11, 12, 13, 15],
+            "japanese_items": ["①本体下部から出ている絶縁シートを矢印の方向に引き抜きます。"]
+          },
+          {
+            "display_index": 4,
+            "panel_id": "p5",
             "source_ids": [23, 28],
             "furigana_ids": [22, 25, 26],
             "japanese_items": ["②リセットボタンを先の細い棒などで軽く押します。"]
           },
           {
-            "display_index": 4,
-            "panel_id": "p4",
+            "display_index": 5,
+            "panel_id": "p6",
             "source_ids": [31],
             "furigana_ids": [29, 30],
             "japanese_items": ["ボタン電池の交換"]
           },
           {
-            "display_index": 5,
-            "panel_id": "p5",
+            "display_index": 6,
+            "panel_id": "p7",
             "source_ids": [34],
             "furigana_ids": [],
             "japanese_items": ["※必ず保護者の方が行ってください。"]
           },
           {
-            "display_index": 6,
-            "panel_id": "p6-a",
-            "source_ids": [38, 44, 47],
-            "furigana_ids": [32, 33, 35, 36, 37, 39, 40, 41, 42, 43, 45, 46],
+            "display_index": 7,
+            "panel_id": "p10",
+            "source_ids": [58, 61, 65, 69, 72, 77, 80],
+            "furigana_ids": [
+              56, 57, 59, 60, 62, 63, 64, 66, 67, 68, 70, 71, 73, 74, 75, 76, 78, 79
+            ],
             "japanese_items": [
-              "※音が小さくなって聞きとりにくくなったり、音が止まるなどの誤動作をする場合や、LEDの発光が弱くなった場合は、すべて新しい電池に交換してください。",
-              "①カバーを取り外します。"
+              "② 電池ぶたを取り外します。",
+              "②-1 DXセイバーライドウォッチ正面の電池ぶたの右側の穴を先の細い棒などで押し、\n②-2 電池ぶたを矢印の方向にスライドさせて取り外します。",
+              "③ ボタン電池を入れます。古いボタン電池を取り外して、新しいボタン電池3個（LR44・別売り）を＋−に注意してセットします。"
             ]
           },
           {
-            "display_index": 7,
-            "panel_id": "p6-b-a",
-            "source_ids": [49],
-            "furigana_ids": [48],
-            "japanese_items": ["①-1 カバーを矢印の方向に回して、"]
-          },
-          {
             "display_index": 8,
-            "panel_id": "p6-b-b",
-            "source_ids": [52, 95],
-            "furigana_ids": [50, 51],
-            "japanese_items": ["①-1 カバーの△と本体の△の位置を合わせます。"]
+            "panel_id": "p12",
+            "source_ids": [82, 86, 89, 91, 94, 105],
+            "furigana_ids": [81, 83, 84, 85, 87, 88, 90, 92, 93, 103, 104],
+            "japanese_items": [
+              "④電池ぶたを戻します。",
+              "電池ぶたの突起とDXセイバーライドウォッチ正面のミゾを合わせ、電池ぶたを閉じます。",
+              "⑤カバーを戻します。",
+              "カバーの△と本体の△の位置を合わせてはめこみ、カバーの正位置まで回します。"
+            ]
           },
           {
             "display_index": 9,
-            "panel_id": "p9",
+            "panel_id": "p14",
+            "source_ids": [110, 113, 116, 117, 118],
+            "furigana_ids": [106, 108, 109, 111, 112, 114, 115],
+            "japanese_items": [
+              "ボタン電池(LR44) 各3個使用(付)",
+              "●セットされている電池は、テスト用です。",
+              "ボタン電池は上側が十に下側がマイナスになるようにセットします。"
+            ]
+          },
+          {
+            "display_index": 10,
+            "panel_id": "p15",
+            "source_ids": [132],
+            "furigana_ids": [130, 131],
+            "japanese_items": [
+              "DXセイバーライドウォッチ&ディケイドコンプリートフォーム21ライドウォッチの単品遊び"
+            ]
+          },
+          {
+            "display_index": 11,
+            "panel_id": "p16",
             "source_ids": [135],
             "furigana_ids": [133, 134],
             "japanese_items": ["セット内容の状態から始めます。"]
           },
           {
-            "display_index": 10,
-            "panel_id": "p10",
+            "display_index": 12,
+            "panel_id": "p17",
             "source_ids": [137],
             "furigana_ids": [136],
             "japanese_items": ["【回る】"]
           },
           {
-            "display_index": 11,
-            "panel_id": "p11",
+            "display_index": 13,
+            "panel_id": "p18",
             "source_ids": [140],
             "furigana_ids": [138, 139],
             "japanese_items": ["カバーが回転して、絵柄が変わります。"]
           },
           {
-            "display_index": 12,
-            "panel_id": "p12",
+            "display_index": 14,
+            "panel_id": "p19",
             "source_ids": [143],
             "furigana_ids": [141, 142],
             "japanese_items": ["【光る/鳴る】"]
           },
           {
-            "display_index": 13,
-            "panel_id": "p13",
+            "display_index": 15,
+            "panel_id": "p20",
             "source_ids": [145, 149],
             "furigana_ids": [144, 146, 147, 148],
             "japanese_items": [
@@ -4995,404 +4998,219 @@
             ]
           },
           {
-            "display_index": 14,
-            "panel_id": "p14-a-a",
-            "source_ids": [153, 154, 155],
-            "furigana_ids": [152],
-            "japanese_items": ["ボタン操作　デラックス DXセイバー ライドウォッチ"]
-          },
-          {
-            "display_index": 15,
-            "panel_id": "p14-a-b-a-a",
-            "source_ids": [157],
-            "furigana_ids": [156],
-            "japanese_items": ["音声①"]
-          },
-          {
             "display_index": 16,
-            "panel_id": "p14-a-b-a-b",
+            "panel_id": "p21",
+            "source_ids": [153],
+            "furigana_ids": [152],
+            "japanese_items": ["ボタン操作"]
+          },
+          {
+            "display_index": 17,
+            "panel_id": "p22-a",
+            "source_ids": [154],
+            "furigana_ids": [151],
+            "japanese_items": ["DXセイバー"]
+          },
+          {
+            "display_index": 18,
+            "panel_id": "p22-b",
+            "source_ids": [155],
+            "furigana_ids": [],
+            "japanese_items": ["ライドウォッチ"]
+          },
+          {
+            "display_index": 19,
+            "panel_id": "p23",
+            "source_ids": [162],
+            "furigana_ids": [161],
+            "japanese_items": ["DXディケイドコンプリートフォーム21\nライドウォッチ"]
+          },
+          {
+            "display_index": 20,
+            "panel_id": "p24",
             "source_ids": [158],
             "furigana_ids": [],
             "japanese_items": ["セイバー"]
           },
           {
-            "display_index": 17,
-            "panel_id": "p14-a-b-b",
-            "source_ids": [162, 163],
-            "furigana_ids": [],
-            "japanese_items": [
-              "DXディケイドコンプリートフォーム21 ライドウォッチ",
-              "コンプリートフォーム21"
-            ]
-          },
-          {
-            "display_index": 18,
-            "panel_id": "p14-b-a-a",
-            "source_ids": [166],
-            "furigana_ids": [159, 160, 164, 165],
-            "japanese_items": ["文豪にして剣豪！炎の聖剣に令和をも取り込んだ"]
-          },
-          {
-            "display_index": 19,
-            "panel_id": "p14-b-a-b-a",
-            "source_ids": [169],
-            "furigana_ids": [167],
-            "japanese_items": ["音声②"]
-          },
-          {
-            "display_index": 20,
-            "panel_id": "p14-b-a-b-b",
-            "source_ids": [170],
-            "furigana_ids": [168],
-            "japanese_items": ["選ばれしライダーは･･･"]
-          },
-          {
             "display_index": 21,
-            "panel_id": "p14-b-b-a-a",
-            "source_ids": [171],
-            "furigana_ids": [],
-            "japanese_items": ["セイバーだ!"]
+            "panel_id": "p26",
+            "source_ids": [170, 171],
+            "furigana_ids": [168],
+            "japanese_items": ["選ばれしライダーは･･･", "セイバーだ!"]
           },
           {
             "display_index": 22,
-            "panel_id": "p14-b-b-a-b",
-            "source_ids": [176],
+            "panel_id": "p27",
+            "source_ids": [176, 177],
             "furigana_ids": [175],
-            "japanese_items": ["大図鑑ライダー"]
+            "japanese_items": ["大図鑑ライダー", "ディケイドコンプリートフォーム21!"]
           },
           {
             "display_index": 23,
-            "panel_id": "p14-b-b-b-a",
-            "source_ids": [177],
-            "furigana_ids": [],
-            "japanese_items": ["ディケイドコンプリートフォーム21!"]
-          },
-          {
-            "display_index": 24,
-            "panel_id": "p14-b-b-b-b",
+            "panel_id": "p28",
             "source_ids": [180],
             "furigana_ids": [172, 173, 174, 178, 179],
             "japanese_items": ["※音声②の後にボタンを押すと再び音声①に戻ります。"]
           },
           {
+            "display_index": 24,
+            "source_ids": [19],
+            "furigana_ids": [17, 18]
+          },
+          {
             "display_index": 25,
-            "source_ids": [4],
-            "furigana_ids": []
+            "source_ids": [21],
+            "furigana_ids": [20]
           },
           {
             "display_index": 26,
-            "source_ids": [14],
-            "furigana_ids": [11, 12, 13]
+            "source_ids": [27],
+            "furigana_ids": [24]
           },
           {
             "display_index": 27,
-            "source_ids": [16],
-            "furigana_ids": [15]
+            "source_ids": [38],
+            "furigana_ids": [32, 33, 35, 36, 37]
           },
           {
             "display_index": 28,
-            "source_ids": [17],
-            "furigana_ids": []
+            "source_ids": [44],
+            "furigana_ids": [39, 40, 41, 42, 43]
           },
           {
             "display_index": 29,
-            "source_ids": [18],
-            "furigana_ids": []
+            "source_ids": [47],
+            "furigana_ids": [45, 46]
           },
           {
             "display_index": 30,
-            "source_ids": [19],
-            "furigana_ids": []
+            "source_ids": [49],
+            "furigana_ids": [48]
           },
           {
             "display_index": 31,
-            "source_ids": [20],
-            "furigana_ids": []
+            "source_ids": [52],
+            "furigana_ids": [50, 51]
           },
           {
             "display_index": 32,
-            "source_ids": [21],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 33,
-            "source_ids": [24],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 34,
-            "source_ids": [27],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 35,
             "source_ids": [55],
             "furigana_ids": [53, 54]
           },
           {
-            "display_index": 36,
-            "source_ids": [58],
-            "furigana_ids": [56, 57]
+            "display_index": -1,
+            "source_ids": [95],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 37,
-            "source_ids": [59],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 38,
-            "source_ids": [61],
-            "furigana_ids": [60]
-          },
-          {
-            "display_index": 39,
-            "source_ids": [65],
-            "furigana_ids": [62, 63, 64]
-          },
-          {
-            "display_index": 40,
-            "source_ids": [69],
-            "furigana_ids": [66, 67, 68]
-          },
-          {
-            "display_index": 41,
-            "source_ids": [72],
-            "furigana_ids": [70, 71]
-          },
-          {
-            "display_index": 42,
-            "source_ids": [77],
-            "furigana_ids": [73, 74, 75, 76]
-          },
-          {
-            "display_index": 43,
-            "source_ids": [79],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 44,
-            "source_ids": [80],
-            "furigana_ids": [78]
-          },
-          {
-            "display_index": 45,
-            "source_ids": [82],
-            "furigana_ids": [81]
-          },
-          {
-            "display_index": 46,
-            "source_ids": [84],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 47,
-            "source_ids": [86],
-            "furigana_ids": [83, 85]
-          },
-          {
-            "display_index": 48,
-            "source_ids": [89],
-            "furigana_ids": [87, 88]
-          },
-          {
-            "display_index": 49,
-            "source_ids": [91],
-            "furigana_ids": [90]
-          },
-          {
-            "display_index": 50,
-            "source_ids": [94],
-            "furigana_ids": [92, 93]
-          },
-          {
-            "display_index": 51,
+            "display_index": 33,
             "source_ids": [96],
             "furigana_ids": []
           },
           {
-            "display_index": 52,
-            "source_ids": [97],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 53,
+            "display_index": 34,
             "source_ids": [98],
-            "furigana_ids": []
+            "furigana_ids": [97]
           },
           {
-            "display_index": 54,
-            "source_ids": [99],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 55,
+            "display_index": -1,
             "source_ids": [100],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 56,
+            "display_index": 35,
             "source_ids": [101],
-            "furigana_ids": []
+            "furigana_ids": [99]
           },
           {
-            "display_index": 57,
+            "display_index": 36,
             "source_ids": [102],
             "furigana_ids": []
           },
           {
-            "display_index": 58,
-            "source_ids": [105],
-            "furigana_ids": [103, 104]
-          },
-          {
-            "display_index": 59,
-            "source_ids": [106],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 60,
+            "display_index": 37,
             "source_ids": [107],
             "furigana_ids": []
           },
           {
-            "display_index": 61,
-            "source_ids": [108],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 62,
-            "source_ids": [109],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 63,
-            "source_ids": [110],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 64,
-            "source_ids": [111],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 65,
-            "source_ids": [112],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 66,
-            "source_ids": [113],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 67,
-            "source_ids": [114],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 68,
-            "source_ids": [115],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 69,
-            "source_ids": [116],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 70,
-            "source_ids": [117],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 71,
-            "source_ids": [118],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 72,
+            "display_index": 38,
             "source_ids": [119],
             "furigana_ids": []
           },
           {
-            "display_index": 73,
+            "display_index": -1,
             "source_ids": [120],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 74,
+            "display_index": -1,
             "source_ids": [121],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 75,
+            "display_index": -1,
             "source_ids": [122],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 76,
+            "display_index": 39,
             "source_ids": [123],
             "furigana_ids": []
           },
           {
-            "display_index": 77,
+            "display_index": 40,
             "source_ids": [124],
             "furigana_ids": []
           },
           {
-            "display_index": 78,
-            "source_ids": [125],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 79,
+            "display_index": 41,
             "source_ids": [126],
-            "furigana_ids": []
+            "furigana_ids": [125]
           },
           {
-            "display_index": 80,
-            "source_ids": [127],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 81,
+            "display_index": 42,
             "source_ids": [128],
-            "furigana_ids": []
+            "furigana_ids": [127]
           },
           {
-            "display_index": 82,
+            "display_index": 43,
             "source_ids": [129],
             "furigana_ids": []
           },
           {
-            "display_index": 83,
-            "source_ids": [130],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 84,
-            "source_ids": [132],
-            "furigana_ids": [131]
-          },
-          {
-            "display_index": 85,
+            "display_index": 44,
             "source_ids": [150],
             "furigana_ids": []
           },
           {
-            "display_index": 86,
-            "source_ids": [151],
+            "display_index": 45,
+            "source_ids": [157],
+            "furigana_ids": [156]
+          },
+          {
+            "display_index": 46,
+            "source_ids": [163],
             "furigana_ids": []
           },
           {
-            "display_index": 87,
-            "source_ids": [161],
-            "furigana_ids": []
+            "display_index": 47,
+            "source_ids": [166],
+            "furigana_ids": [159, 160, 164, 165]
+          },
+          {
+            "display_index": 48,
+            "source_ids": [169],
+            "furigana_ids": [167]
           }
         ],
         "uncertainties": [
-          "Source line ends with a trailing comma and appears incomplete; following clause or action is missing from the provided crop.",
-          "The presence and placement of the word デラックス (Deluxe) in the cropped image is faint and partially obscured; included here based on surrounding text but with some uncertainty."
+          "The image shows spaced hiragana above the main line (かなら ほごしゃ かた おこな), likely furigana or a pronunciation aid; it was omitted from the Japanese line used for translation."
         ],
         "ocr_lines": [
           {
@@ -6771,9 +6589,21 @@
     {
       "blocks": [
         {
-          "text": "デラックス\nデラックス\n※詳しくはDXジクウドライバーの取扱説明書をご参照ください。 図はRスロットにDXジオウライドウォッチをセットした場合のものです。\n※説明はセイバーアーマーに変身する場合のものです。",
-          "translation": "• For details, refer to the DX Ziku Driver instruction manual.\n• The illustration shows the case when a DX Zi-O Ride Watch is set in the R slot.\n• The explanation shows the case of transforming into Saber Armor.",
-          "bbox": [0.0426, 0.0494, 0.8265, 0.035500000000000004],
+          "text": "別売りのDXジクウドライバーでセイバーアーマーにアーマータイム!",
+          "translation": "Armor Time! Use the separately sold DX Zi-O Driver to become Saber Armor!",
+          "bbox": [0.04164516112208366, 0.0242, 0.6623548388779164, 0.0252],
+          "layout": "panel"
+        },
+        {
+          "text": "※詳しくはDXジクウドライバーの取扱説明書をご参照ください。 図はRスロットにDXジオウライドウォッチをセットした場合のものです。",
+          "translation": "• For details, refer to the DX Ziku Driver instruction manual.\n• The illustration shows the DX Zi-O Ride Watch set in the R slot.",
+          "bbox": [0.0426, 0.0494, 0.8265, 0.0189],
+          "layout": "panel"
+        },
+        {
+          "text": "※説明はセイバーアーマーに変身する場合のものです。",
+          "translation": "These instructions apply when transforming into the Saber Armor.",
+          "bbox": [0.0426, 0.0669, 0.3295, 0.018000000000000002],
           "layout": "panel"
         },
         {
@@ -6785,41 +6615,71 @@
           "layout": "panel"
         },
         {
-          "text": "①カバーを右に90度回転させ、\n天面のボタンを一度押します。\n音声が鳴り、LEDが光ります。",
-          "translation": "• ①Rotate the cover 90 degrees to the right and press the top button once.\n• A voice will sound and the LED will light.",
+          "text": "図の向きにして、DXセイバーライドウォッチを\nDXジクウドライバーのLスロットに、\nカチッと音がするまで差し込みます。",
+          "translation": "Orient it as shown and insert the DX Saber Ridewatch into the DX Ziku Driver’s L slot until it clicks.",
+          "bbox": [0.048903226166963576, 0.2546, 0.24649677383303642, 0.04920000000000002],
+          "layout": "panel"
+        },
+        {
+          "text": "DXジクウドライバー",
+          "translation": "DX Zi-O Driver",
           "bbox": [
-            0.043199999999999995, 0.13076909935474396, 0.17967096524238588, 0.04689965534210205
+            0.048903226166963576, 0.3026619062423706, 0.11219677383303642, 0.015257695198059085
           ],
           "layout": "panel"
         },
         {
-          "text": "②DXジクウドライバーのRスロットに\nデラックス\nDXジオウライドウォッチをセットした状態で、\nデラックスス\nLスロットにDXセイバーライドウォッチをセットします。\nデラックス\n図の向きにして、DXセイバーライドウォッチを",
-          "translation": "• 2. With the DX Zi-O Driver's R slot set with the Deluxe DX Zi-O Ride Watch, set the DX Saber Ride Watch in the L slot.\n• Place the DX Saber Ride Watch in the orientation shown.",
-          "bbox": [0.0481, 0.21286716616153717, 0.29896451439857485, 0.05763283383846285],
+          "text": "装填音、待機音が鳴り、\n液晶画面の表示が起動します。",
+          "translation": "A loading sound and a standby sound will play, and the LCD display will start up.",
+          "bbox": [0.06059677457809448, 0.3191, 0.15985483813285828, 0.030799999999999994],
           "layout": "panel"
         },
         {
-          "text": "デラックス\nDXジクウドライバーのLスロットに、\nカチッと音がするまで差し込みます。\nデラックス\nDXジクウドライバー\n装填音、待機音が鳴り、\n液晶画面の表示が起動します。",
-          "translation": "• Deluxe — Insert into the L slot of the DX Ziku Driver until it clicks.\n• Deluxe — DX Ziku Driver\n• A loading sound and a standby sound will play, and the LCD screen display will initialize.",
-          "bbox": [0.048903226166963576, 0.27, 0.19775806877017021, 0.07989999999999997],
+          "text": "③DXジクウドライバー上部のアンロックボタンを押して\nベルト本体のロックを解除し、本体を傾けさせてから、\n1回転させます。",
+          "translation": "3. Press the unlock button on the top of the DX Ziku Driver to release the belt's lock, tilt the main unit, then rotate it one full turn.",
+          "bbox": [0.04850000074505806, 0.3958774313926697, 0.287399999254942, 0.04862256860733033],
           "layout": "panel"
         },
         {
           "text": "※ロックを解除すると、 図のように本体が傾きます。",
-          "translation": "When you unlock the lock, the main unit will tilt as shown in the illustration.",
+          "translation": "When you unlock the lock, the main unit tilts as shown in the illustration.",
           "bbox": [0.6496000000000001, 0.4051, 0.28859354915618884, 0.018007762575149522],
+          "layout": "panel"
+        },
+        {
+          "text": "DXジクウドライバー",
+          "translation": "DX Zi-O Driver",
+          "bbox": [0.0487, 0.4437679455280304, 0.11126773982048035, 0.014687576770782473],
+          "layout": "panel"
+        },
+        {
+          "text": "回転完了音が鳴り、液晶画面に\nアニメーションが表示されます。",
+          "translation": "A rotation-complete sound plays, and an animation appears on the LCD screen.",
+          "bbox": [0.049306451588869094, 0.4577, 0.1788064590394497, 0.033399999999999985],
           "layout": "panel"
         },
         {
           "text": "DXジオウライドウォッチ",
           "translation": "DX Zi-O Ridewatch",
-          "bbox": [0.0493, 0.49393899297714233, 0.1304258003950119, 0.010411658763885445],
+          "bbox": [0.0493, 0.4905182526111603, 0.1304258003950119, 0.0138323991298675],
           "layout": "panel"
         },
         {
-          "text": "→変身音が鳴り、LEDが光ります。\nデラックス\nDXセイバーライドウォッチ\n変身音が鳴り、LEDが光ります。",
-          "translation": "• Transformation sound plays and the LED lights.\n• Deluxe DX Saber Ride Watch\n• Transformation sound plays and the LED lights.",
-          "bbox": [0.0487, 0.5047, 0.17900967030525208, 0.04697101764678946],
+          "text": "→変身音が鳴り、LEDが光ります。",
+          "translation": "A transformation sound plays and the LED lights up.",
+          "bbox": [0.0487, 0.5047, 0.17900967030525208, 0.016699999999999937],
+          "layout": "panel"
+        },
+        {
+          "text": "DXセイバーライドウォッチ",
+          "translation": "DX Saber Ridewatch",
+          "bbox": [0.0493, 0.5204498276710511, 0.14252257795333861, 0.015050172328948896],
+          "layout": "panel"
+        },
+        {
+          "text": "変身音が鳴り、LEDが光ります。",
+          "translation": "A transformation sound plays and the LED lights up.",
+          "bbox": [0.048903226166963576, 0.5351, 0.1788064441382885, 0.016571017646789477],
           "layout": "panel"
         },
         {
@@ -6835,38 +6695,101 @@
           "layout": "panel"
         },
         {
-          "text": "デラックス\n①DXジオウライドウォッチ天面のボタンを押します。\n音声が鳴り、LEDが光ります。\nデラックス\n②DXセイバーライドウォッチ天面のボタンを押します。\n音声が鳴り、LEDが光ります。\nデラックス\n③DXジクウドライバー上部のアンロックボタンを押して",
-          "translation": "• Deluxe\n① Press the button on the top surface of the DX Zi-O Ride Watch. A sound will play and the LED will light.\n• Deluxe\n② Press the button on the top surface of the DX Saber Ride Watch. A sound will play and the LED will light.\n• Deluxe\n③ Press the unlock button on the upper part of the DX Ziku Driver and",
-          "bbox": [0.04769354990124702, 0.67837459897995, 0.33687095853686333, 0.07822540102005004],
+          "text": "①DXジオウライドウォッチ天面のボタンを押します。\n音声が鳴り、LEDが光ります。",
+          "translation": "1. Press the button on the top of the DX Zi-O Ride Watch. A sound will play and the LED will light.",
+          "bbox": [0.04769354990124702, 0.67837459897995, 0.2880806526839733, 0.032025401020050026],
+          "layout": "panel"
+        },
+        {
+          "text": "②DXセイバーライドウォッチ天面のボタンを押します。\n音声が鳴り、LEDが光ります。",
+          "translation": "• ② Press the button on the top of the DX Saber Ride Watch.\n• A sound will play and the LED will light.",
+          "bbox": [0.04809677532315254, 0.7091613516807557, 0.2997741899192333, 0.0320386483192443],
+          "layout": "panel"
+        },
+        {
+          "text": "③DXジクウドライバー上部のアンロックボタンを押して\nロックを解除し、本体を傾けさせてから、1回転させます。",
+          "translation": "③Press the unlock button on the top of the DX Ziku Driver to release the lock, tilt the device, then rotate it one full turn.",
+          "bbox": [0.04809677532315254, 0.7407, 0.3364677331149578, 0.03300000000000003],
           "layout": "panel"
         },
         {
           "text": "DXジクウドライバー",
           "translation": "DX Zi-O Driver",
-          "bbox": [0.0487, 0.7772913084030152, 0.11180000000000001, 0.010981777191162001],
+          "bbox": [0.0487, 0.7732000000000001, 0.11180000000000001, 0.015073085594177082],
           "layout": "panel"
         },
         {
-          "text": "かいてんかんりょうおん な\n回転完了音が鳴り、液晶画面にアニメーションが表示されます。\nデラックス\nDXジオウライドウォッチ\n必殺技音が鳴り、LEDが光ります。\nデラックス\nDXセイバーライドウォッチ",
-          "translation": "• Deluxe DX Zi-O Ride Watch: A rotation-complete sound plays and an animation is displayed on the LCD screen.\n• Deluxe DX Saber Ride Watch: A finisher sound plays and the LED lights up.",
-          "bbox": [0.04850000074505806, 0.7873, 0.33727418395876885, 0.06510000000000005],
+          "text": "かいてんかんりょうおん な\n回転完了音が鳴り、液晶画面にアニメーションが表示されます。",
+          "translation": "A rotation-complete sound plays, and an animation appears on the LCD screen.",
+          "bbox": [0.04850000074505806, 0.7873, 0.3360645076930523, 0.01849999999999996],
           "layout": "panel"
         },
         {
-          "text": "デラックス\nDXジクウドライバーのスロット上のライドウォッチロックボタンを\n押しながら、矢印の方向に引っ張って、取り外します。\nデラックス\nDXセイバーライドウォッチ\n【上から見た図】\n着脱音が鳴ります。",
-          "translation": "• Deluxe: While pressing the Ride Watch lock button on the slot of the DX Zi-O Driver, pull in the direction of the arrow to remove it.\n• Deluxe DX Saber Ride Watch [viewed from above] An attach/detach sound will play.",
-          "bbox": [0.4247, 0.895, 0.35789999999999983, 0.06640000000000001],
+          "text": "DXジオウライドウォッチ",
+          "translation": "DX Zi-O Ridewatch",
+          "bbox": [0.04850000074505806, 0.8053, 0.13082257422804833, 0.015185164165496756],
           "layout": "panel"
         },
         {
-          "text": "デラックス",
-          "translation": "Deluxe",
-          "bbox": [0.1294, 0.0257, 0.0351, 0.0051]
+          "text": "必殺技音が鳴り、LEDが光ります。",
+          "translation": "A special-move sound plays and the LED lights up.",
+          "bbox": [0.048903226166963576, 0.8194, 0.19090322169661522, 0.018799999999999928],
+          "layout": "panel"
         },
         {
-          "text": "別売りのDXジクウドライバーでセイバーアーマーにアーマータイム!",
-          "translation": "Armor Time! Use the separately sold DX Zi-O Driver to become Saber Armor!",
-          "bbox": [0.041999999999999996, 0.024999999999999998, 0.6619999999999999, 0.0244],
+          "text": "DXセイバーライドウォッチ",
+          "translation": "DX Saber Ridewatch",
+          "bbox": [0.0487, 0.8377, 0.14312257795333863, 0.01442712430953974],
+          "layout": "panel"
+        },
+        {
+          "text": "必殺技音が鳴り、LEDが光ります。",
+          "translation": "A special-attack sound plays and the LED lights up.",
+          "bbox": [
+            0.05898386916518211, 0.8519000000000001, 0.18041935327649117, 0.01629999999999987
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "※DXジオウ/DXセイバーライドウォッチのボタンを押さずに\n再度回転させると、 DXジオウ/DXセイバーライドウォッチからは\n変身音が鳴りますが、 DXジクウドライバーの\n液晶画面は必殺技の表示がされます。",
+          "translation": "If you rotate the DX Zi‑O/DX Saber Ride Watch again without pressing its button, the DX Zi‑O/DX Saber Ride Watch will play the henshin (transformation) sound, but the DX Ziku Driver's LCD will display the special/finishing-move graphics.",
+          "bbox": [
+            0.048903226166963576, 0.8673711524009705, 0.3371967738330364, 0.06322884759902947
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "※DXディケイドコンプリートフォーム21ライドウォッチからは\n異なる変身音、 必殺技音が鳴ります。",
+          "translation": "Different transformation and finisher sounds play from the DX Decade Complete Form 21 Ride Watch.",
+          "bbox": [
+            0.048903226166963576, 0.9297998652458191, 0.3135967738330364, 0.0309361605644225
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "DXセイバーライドウォッチの取り外し方",
+          "translation": "How to remove the DX Saber Ridewatch",
+          "bbox": [0.4278, 0.8690815076828003, 0.2898290049552917, 0.020818492317199566],
+          "layout": "panel"
+        },
+        {
+          "text": "DXジクウドライバーのスロット上のライドウォッチロックボタンを\n押しながら、矢印の方向に引っ張って、取り外します。",
+          "translation": "Press the Ridewatch lock button on the slot of the DX Ziku Driver, then pull in the direction of the arrow to remove it.",
+          "bbox": [0.4247, 0.895, 0.35744513206481926, 0.035599999999999965],
+          "layout": "panel"
+        },
+        {
+          "text": "DXセイバーライドウォッチ",
+          "translation": "DX Saber Ridewatch",
+          "bbox": [
+            0.43019999999999997, 0.9300849542617798, 0.14329999999999993, 0.014402487754821669
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "着脱音が鳴ります。",
+          "translation": "A sound plays when attaching or detaching.",
+          "bbox": [0.44164515590667724, 0.9455, 0.10035484409332268, 0.015900000000000025],
           "layout": "panel"
         },
         {
@@ -6880,9 +6803,44 @@
           "bbox": [0.1765, 0.1218, 0.1028, 0.0064]
         },
         {
+          "text": "①カバーを右に90度回転させ、",
+          "translation": "① Rotate the cover 90° to the right,",
+          "bbox": [0.043199999999999995, 0.131, 0.1638, 0.015499999999999986],
+          "layout": "panel"
+        },
+        {
+          "text": "天面のボタンを一度押します。",
+          "translation": "Press the top button once.",
+          "bbox": [0.0553, 0.1456, 0.15539999999999998, 0.01620000000000002],
+          "layout": "panel"
+        },
+        {
+          "text": "音声が鳴り、LEDが光ります。",
+          "translation": "A sound will play and the LED will light up.",
+          "bbox": [0.0674, 0.1618, 0.15410000000000001, 0.01580000000000001],
+          "layout": "panel"
+        },
+        {
           "text": "デラックス",
           "translation": "Deluxe",
           "bbox": [0.0617, 0.2108, 0.0212, 0.0038]
+        },
+        {
+          "text": "②DXジクウドライバーのRスロットに",
+          "translation": "② With the DX Zi-O Ridewatch set in the R slot of the DX Zi-O Driver,",
+          "bbox": [0.0496, 0.215, 0.1965, 0.0073]
+        },
+        {
+          "text": "DXジオウライドウォッチをセットした状態で、",
+          "translation": "with the DX Zi-O Ridewatch placed in the R slot,",
+          "bbox": [0.0602, 0.2234, 0.23640000000000003, 0.01580000000000001],
+          "layout": "panel"
+        },
+        {
+          "text": "LスロットにDXセイバーライドウォッチをセットします。",
+          "translation": "place the DX Saber Ridewatch into the L slot.",
+          "bbox": [0.0608, 0.2401, 0.286, 0.014899999999999997],
+          "layout": "panel"
         },
         {
           "text": "ジオウライドウォッチ",
@@ -6900,14 +6858,9 @@
           "bbox": [0.8857, 0.1047, 0.029, 0.0056]
         },
         {
-          "text": "デラックス",
-          "translation": "Deluxe",
-          "bbox": [0.6977, 0.2168, 0.0345, 0.0051]
-        },
-        {
           "text": "DXジクウドライバーの各部名称",
           "translation": "DX Zi-O Driver — Names of parts",
-          "bbox": [0.6992, 0.2157, 0.24419999999999997, 0.020900000000000002],
+          "bbox": [0.6962, 0.2153, 0.24719999999999998, 0.021300000000000013],
           "layout": "panel"
         },
         {
@@ -6937,56 +6890,6 @@
           "layout": "panel"
         },
         {
-          "text": "デラックス",
-          "translation": "Deluxe",
-          "bbox": [0.0611, 0.3976, 0.0212, 0.0034]
-        },
-        {
-          "text": "③DXジクウドライバー上部のアンロックボタンを押して",
-          "translation": "③ Press the unlock button on the top of the DX Zi-O Driver,",
-          "bbox": [0.0487, 0.3961, 0.2872, 0.01579999999999998],
-          "layout": "panel"
-        },
-        {
-          "text": "ベルト本体のロックを解除し、本体を傾けさせてから、",
-          "translation": "Release the belt body's lock, tilt the main unit, then",
-          "bbox": [0.0608, 0.4124, 0.27140000000000003, 0.015300000000000036],
-          "layout": "panel"
-        },
-        {
-          "text": "1回転させます。",
-          "translation": "rotate it one full turn.",
-          "bbox": [0.0626, 0.4273, 0.08340000000000002, 0.01629999999999998],
-          "layout": "panel"
-        },
-        {
-          "text": "デラックス",
-          "translation": "Deluxe",
-          "bbox": [0.0514, 0.4455, 0.0181, 0.003]
-        },
-        {
-          "text": "DXジクウドライバー",
-          "translation": "DX Zi-O Driver",
-          "bbox": [0.0502, 0.4489, 0.1082, 0.0073]
-        },
-        {
-          "text": "回転完了音が鳴り、液晶画面に",
-          "translation": "A rotation-complete sound will play, and on the LCD screen",
-          "bbox": [0.061399999999999996, 0.4577, 0.15899999999999997, 0.016199999999999992],
-          "layout": "panel"
-        },
-        {
-          "text": "アニメーションが表示されます。",
-          "translation": "an animation will be displayed.",
-          "bbox": [0.0602, 0.4743, 0.1674, 0.015100000000000002],
-          "layout": "panel"
-        },
-        {
-          "text": "デラックス",
-          "translation": "Deluxe",
-          "bbox": [0.0508, 0.4921, 0.0187, 0.0026]
-        },
-        {
           "text": "ライダータイム!",
           "translation": "Rider Time!",
           "bbox": [0.2594, 0.5383, 0.0816, 0.0299]
@@ -7012,95 +6915,9 @@
           "bbox": [0.5689, 0.649, 0.0079, 0.0056]
         },
         {
-          "text": "ロックを解除し、本体を傾けさせてから、1回転させます。",
-          "translation": "Release the lock, tilt the main unit, then rotate it one full turn.",
-          "bbox": [0.061399999999999996, 0.7561000000000001, 0.2866, 0.01629999999999987],
-          "layout": "panel"
-        },
-        {
-          "text": "デラックス",
-          "translation": "Deluxe",
-          "bbox": [0.0502, 0.7747, 0.0175, 0.0034]
-        },
-        {
           "text": "フィニッシュタイム!",
           "translation": "Finish Time!",
           "bbox": [0.3628, 0.667, 0.1094, 0.0316]
-        },
-        {
-          "text": "必殺技音が鳴り、LEDが光ります。",
-          "translation": "The special move sound will play and the LED will light.",
-          "bbox": [0.0602, 0.8519000000000001, 0.17830000000000001, 0.016699999999999826],
-          "layout": "panel"
-        },
-        {
-          "text": "デラックス",
-          "translation": "Deluxe",
-          "bbox": [0.0605, 0.8692, 0.0212, 0.0038]
-        },
-        {
-          "text": "デラックス",
-          "translation": "Deluxe",
-          "bbox": [0.1179, 0.8696, 0.0218, 0.0034]
-        },
-        {
-          "text": "※DXジオウ/DXセイバーライドウォッチのボタンを押さずに",
-          "translation": "If you do not press the button on the DX Zi-O/DX Saber Ridewatch,",
-          "bbox": [0.0508, 0.8739, 0.3065, 0.0081]
-        },
-        {
-          "text": "デラックス",
-          "translation": "Deluxe",
-          "bbox": [0.1578, 0.8846, 0.0212, 0.0038]
-        },
-        {
-          "text": "デラックス",
-          "translation": "Deluxe",
-          "bbox": [0.214, 0.8841, 0.0212, 0.0043]
-        },
-        {
-          "text": "再度回転させると、 DXジオウ/DXセイバーライドウォッチからは",
-          "translation": "If you rotate again, the DX Zi-O/DX Saber Ridewatch will...",
-          "bbox": [0.0602, 0.8835000000000001, 0.3259, 0.014999999999999902],
-          "layout": "panel"
-        },
-        {
-          "text": "デラックス",
-          "translation": "Deluxe",
-          "bbox": [0.1687, 0.9004, 0.0212, 0.0034]
-        },
-        {
-          "text": "変身音が鳴りますが、 DXジクウドライバーの",
-          "translation": "The transformation sound will play, but the DX Zi-O Driver's",
-          "bbox": [0.0602, 0.8985000000000001, 0.22789999999999996, 0.015799999999999814],
-          "layout": "panel"
-        },
-        {
-          "text": "液晶画面は必殺技の表示がされます。",
-          "translation": "The LCD screen will display the special move.",
-          "bbox": [0.0602, 0.9138000000000001, 0.1947, 0.015899999999999914],
-          "layout": "panel"
-        },
-        {
-          "text": "デラックス",
-          "translation": "Deluxe",
-          "bbox": [0.0605, 0.9316, 0.0218, 0.0034]
-        },
-        {
-          "text": "※DXディケイドコンプリートフォーム21ライドウォッチからは",
-          "translation": "From the DX Decade Complete Form 21 Ridewatch,",
-          "bbox": [0.0508, 0.9354, 0.3102, 0.0077]
-        },
-        {
-          "text": "異なる変身音、 必殺技音が鳴ります。",
-          "translation": "Different transformation sounds and special move sounds will play.",
-          "bbox": [0.0602, 0.9446000000000001, 0.1862, 0.015899999999999914],
-          "layout": "panel"
-        },
-        {
-          "text": "デラックス",
-          "translation": "Deluxe",
-          "bbox": [0.4305, 0.8709, 0.0272, 0.0038]
         },
         {
           "text": "タイムフレーク!ト",
@@ -7108,15 +6925,15 @@
           "bbox": [0.549, 0.7935, 0.0877, 0.0235]
         },
         {
-          "text": "DXセイバーライドウォッチの取り外し方",
-          "translation": "How to remove the DX Saber Ridewatch",
-          "bbox": [0.4278, 0.8698, 0.2895999999999999, 0.020099999999999896],
-          "layout": "panel"
-        },
-        {
           "text": "セイバー!",
           "translation": "Saber!",
           "bbox": [0.7213, 0.6828, 0.078, 0.0051]
+        },
+        {
+          "text": "【上から見た図】",
+          "translation": "[Top view]",
+          "bbox": [0.7016, 0.9446000000000001, 0.08099999999999985, 0.016699999999999826],
+          "layout": "panel"
         },
         {
           "text": "ひっさつく",
@@ -8068,73 +7885,163 @@
           "panels": [
             {
               "id": "p1",
-              "kind": "prose",
-              "source_ids": [4, 7, 9, 13]
+              "kind": "heading",
+              "source_ids": [2]
             },
             {
               "id": "p2",
-              "kind": "heading",
-              "source_ids": [15]
+              "kind": "prose",
+              "source_ids": [9]
             },
             {
               "id": "p3",
               "kind": "prose",
-              "source_ids": [20, 23, 27]
+              "source_ids": [13]
             },
             {
-              "id": "p4-a",
-              "kind": "prose",
-              "source_ids": [29, 30, 32, 33, 34, 37, 38]
+              "id": "p4",
+              "kind": "heading",
+              "source_ids": [15]
             },
             {
-              "id": "p4-b",
+              "id": "p6-b",
               "kind": "prose",
-              "source_ids": [39, 40, 43, 44, 45, 48, 51]
+              "source_ids": [38, 40, 43]
+            },
+            {
+              "id": "p7",
+              "kind": "heading",
+              "source_ids": [45]
             },
             {
               "id": "p8",
+              "kind": "prose",
+              "source_ids": [48, 51]
+            },
+            {
+              "id": "p9",
+              "kind": "prose",
+              "source_ids": [66, 73, 75]
+            },
+            {
+              "id": "p10",
               "kind": "prose",
               "source_ids": [72]
             },
             {
               "id": "p11",
               "kind": "heading",
-              "source_ids": [84]
+              "source_ids": [77]
             },
             {
               "id": "p12",
               "kind": "prose",
-              "source_ids": [88, 89, 90, 94]
+              "source_ids": [80, 82]
+            },
+            {
+              "id": "p13",
+              "kind": "heading",
+              "source_ids": [84]
+            },
+            {
+              "id": "p14",
+              "kind": "prose",
+              "source_ids": [88]
             },
             {
               "id": "p15",
               "kind": "heading",
-              "source_ids": [98]
+              "source_ids": [90]
             },
             {
               "id": "p16",
               "kind": "prose",
-              "source_ids": [101]
+              "source_ids": [94]
             },
             {
               "id": "p17",
+              "kind": "heading",
+              "source_ids": [98]
+            },
+            {
+              "id": "p18",
               "kind": "prose",
-              "source_ids": [105, 108, 112, 113, 115, 118, 119, 122]
+              "source_ids": [101]
+            },
+            {
+              "id": "p19",
+              "kind": "prose",
+              "source_ids": [108, 112]
             },
             {
               "id": "p20",
-              "kind": "heading",
-              "source_ids": [128]
+              "kind": "prose",
+              "source_ids": [115, 118]
             },
             {
               "id": "p21",
               "kind": "prose",
-              "source_ids": [129, 133, 134, 135, 139, 140, 141]
+              "source_ids": [122, 126]
+            },
+            {
+              "id": "p22",
+              "kind": "heading",
+              "source_ids": [128]
+            },
+            {
+              "id": "p23",
+              "kind": "prose",
+              "source_ids": [129, 133]
+            },
+            {
+              "id": "p24",
+              "kind": "heading",
+              "source_ids": [135]
+            },
+            {
+              "id": "p25",
+              "kind": "prose",
+              "source_ids": [139]
+            },
+            {
+              "id": "p26",
+              "kind": "heading",
+              "source_ids": [141]
+            },
+            {
+              "id": "p27",
+              "kind": "prose",
+              "source_ids": [144]
+            },
+            {
+              "id": "p28",
+              "kind": "prose",
+              "source_ids": [147, 151, 155, 157]
             },
             {
               "id": "p29",
               "kind": "prose",
-              "source_ids": [170, 173, 177, 178, 179, 185, 182]
+              "source_ids": [159, 163]
+            },
+            {
+              "id": "p30",
+              "kind": "heading",
+              "source_ids": [169]
+            },
+            {
+              "id": "p31",
+              "kind": "prose",
+              "source_ids": [173, 177]
+            },
+            {
+              "id": "p32",
+              "kind": "heading",
+              "source_ids": [179]
+            },
+            {
+              "id": "p33",
+              "kind": "prose",
+              "source_ids": [182]
             }
           ],
           "furigana": [
@@ -8143,7 +8050,15 @@
               "parent_id": 2
             },
             {
+              "source_id": 1,
+              "parent_id": 2
+            },
+            {
               "source_id": 3,
+              "parent_id": 9
+            },
+            {
+              "source_id": 4,
               "parent_id": 9
             },
             {
@@ -8152,6 +8067,10 @@
             },
             {
               "source_id": 6,
+              "parent_id": 9
+            },
+            {
+              "source_id": 7,
               "parent_id": 9
             },
             {
@@ -8203,8 +8122,16 @@
               "parent_id": 27
             },
             {
+              "source_id": 30,
+              "parent_id": 32
+            },
+            {
               "source_id": 31,
               "parent_id": 32
+            },
+            {
+              "source_id": 33,
+              "parent_id": 34
             },
             {
               "source_id": 35,
@@ -8215,12 +8142,24 @@
               "parent_id": 38
             },
             {
+              "source_id": 37,
+              "parent_id": 38
+            },
+            {
+              "source_id": 39,
+              "parent_id": 40
+            },
+            {
               "source_id": 41,
               "parent_id": 43
             },
             {
               "source_id": 42,
               "parent_id": 43
+            },
+            {
+              "source_id": 44,
+              "parent_id": 45
             },
             {
               "source_id": 46,
@@ -8239,12 +8178,20 @@
               "parent_id": 51
             },
             {
+              "source_id": 55,
+              "parent_id": 57
+            },
+            {
               "source_id": 56,
               "parent_id": 57
             },
             {
               "source_id": 61,
               "parent_id": 63
+            },
+            {
+              "source_id": 64,
+              "parent_id": 66
             },
             {
               "source_id": 65,
@@ -8275,6 +8222,10 @@
               "parent_id": 75
             },
             {
+              "source_id": 76,
+              "parent_id": 77
+            },
+            {
               "source_id": 78,
               "parent_id": 80
             },
@@ -8287,6 +8238,10 @@
               "parent_id": 82
             },
             {
+              "source_id": 83,
+              "parent_id": 84
+            },
+            {
               "source_id": 85,
               "parent_id": 88
             },
@@ -8297,6 +8252,10 @@
             {
               "source_id": 87,
               "parent_id": 88
+            },
+            {
+              "source_id": 89,
+              "parent_id": 90
             },
             {
               "source_id": 91,
@@ -8323,6 +8282,10 @@
               "parent_id": 101
             },
             {
+              "source_id": 105,
+              "parent_id": 108
+            },
+            {
               "source_id": 106,
               "parent_id": 108
             },
@@ -8343,6 +8306,10 @@
               "parent_id": 112
             },
             {
+              "source_id": 113,
+              "parent_id": 115
+            },
+            {
               "source_id": 114,
               "parent_id": 115
             },
@@ -8353,6 +8320,10 @@
             {
               "source_id": 117,
               "parent_id": 118
+            },
+            {
+              "source_id": 119,
+              "parent_id": 122
             },
             {
               "source_id": 120,
@@ -8375,12 +8346,20 @@
               "parent_id": 126
             },
             {
+              "source_id": 127,
+              "parent_id": 128
+            },
+            {
               "source_id": 130,
               "parent_id": 133
             },
             {
               "source_id": 131,
               "parent_id": 133
+            },
+            {
+              "source_id": 134,
+              "parent_id": 135
             },
             {
               "source_id": 136,
@@ -8395,6 +8374,10 @@
               "parent_id": 139
             },
             {
+              "source_id": 140,
+              "parent_id": 141
+            },
+            {
               "source_id": 142,
               "parent_id": 144
             },
@@ -8403,7 +8386,23 @@
               "parent_id": 144
             },
             {
+              "source_id": 145,
+              "parent_id": 147
+            },
+            {
+              "source_id": 146,
+              "parent_id": 147
+            },
+            {
               "source_id": 148,
+              "parent_id": 151
+            },
+            {
+              "source_id": 149,
+              "parent_id": 151
+            },
+            {
+              "source_id": 150,
               "parent_id": 151
             },
             {
@@ -8415,8 +8414,16 @@
               "parent_id": 155
             },
             {
+              "source_id": 154,
+              "parent_id": 155
+            },
+            {
               "source_id": 156,
               "parent_id": 157
+            },
+            {
+              "source_id": 158,
+              "parent_id": 159
             },
             {
               "source_id": 160,
@@ -8431,6 +8438,10 @@
               "parent_id": 163
             },
             {
+              "source_id": 164,
+              "parent_id": 169
+            },
+            {
               "source_id": 166,
               "parent_id": 169
             },
@@ -8441,6 +8452,10 @@
             {
               "source_id": 168,
               "parent_id": 169
+            },
+            {
+              "source_id": 170,
+              "parent_id": 173
             },
             {
               "source_id": 171,
@@ -8457,6 +8472,10 @@
             {
               "source_id": 176,
               "parent_id": 177
+            },
+            {
+              "source_id": 178,
+              "parent_id": 179
             },
             {
               "source_id": 180,
@@ -8476,399 +8495,401 @@
             }
           ],
           "notes": [
-            "Katakana reading guides such as デラックス are left unlisted because they are not eligible hiragana furigana in the provided data.",
-            "Part-name overview, diagram labels, sound-effect callouts, and illustrated captions are not grouped into prose panels.",
-            "Conservative panel fallback: Panel p0 would mask unrelated source 1",
-            "Retained p0 unchanged: Panel p0 would mask unrelated source 1",
-            "Retained p25 unchanged: Panel p25 would mask unrelated source 152",
-            "Retained p28 unchanged: Panel p28 would mask unrelated source 164",
-            "Panel p7 retained original English after failed automatic checks",
-            "Panel p26 retained original English after failed automatic checks"
-          ]
+            "Source 186 appears to be a furigana fragment for artwork text whose base text is not reliably represented by a supplied source region, so it is left ungrouped.",
+            "Retained source 28: Unconfirmed furigana: 28 -> 29",
+            "Retained source 129: Unconfirmed furigana: 129 -> 133",
+            "Panel p5 retained original English after failed automatic checks",
+            "Panel p6-a retained original English after failed automatic checks"
+          ],
+          "native_artwork": []
         },
         "mapping": [
           {
             "display_index": 0,
             "panel_id": "p1",
-            "source_ids": [4, 7, 9, 13],
-            "furigana_ids": [3, 5, 6, 8, 10, 11, 12],
-            "japanese_items": [
-              "※詳しくはDXジクウドライバーの取扱説明書をご参照ください。",
-              "※図はRスロットにDXジオウライドウォッチをセットした場合のものです。",
-              "※説明はセイバーアーマーに変身する場合のものです。"
-            ]
+            "source_ids": [2],
+            "furigana_ids": [0, 1],
+            "japanese_items": ["別売りのDXジクウドライバーでセイバーアーマーにアーマータイム!"]
           },
           {
             "display_index": 1,
             "panel_id": "p2",
+            "source_ids": [9],
+            "furigana_ids": [3, 4, 5, 6, 7, 8],
+            "japanese_items": [
+              "※詳しくはDXジクウドライバーの取扱説明書をご参照ください。",
+              "図はRスロットにDXジオウライドウォッチをセットした場合のものです。"
+            ]
+          },
+          {
+            "display_index": 2,
+            "panel_id": "p3",
+            "source_ids": [13],
+            "furigana_ids": [10, 11, 12],
+            "japanese_items": ["※説明はセイバーアーマーに変身する場合のものです。"]
+          },
+          {
+            "display_index": 3,
+            "panel_id": "p4",
             "source_ids": [15],
             "furigana_ids": [14],
             "japanese_items": ["変身遊び"]
           },
           {
-            "display_index": 2,
-            "panel_id": "p3",
-            "source_ids": [20, 23, 27],
-            "furigana_ids": [16, 19, 21, 22, 24, 25, 26],
-            "japanese_items": [
-              "①カバーを右に90度回転させ、天面のボタンを一度押します。",
-              "音声が鳴り、LEDが光ります。"
-            ]
-          },
-          {
-            "display_index": 3,
-            "panel_id": "p4-a",
-            "source_ids": [29, 30, 32, 33, 34, 37, 38],
-            "furigana_ids": [31, 35, 36],
-            "japanese_items": [
-              "② DXジクウドライバーのRスロットにデラックスDXジオウライドウォッチをセットした状態で、LスロットにDXセイバーライドウォッチをセットします。",
-              "図の向きにして、DXセイバーライドウォッチをセットします。"
-            ]
-          },
-          {
             "display_index": 4,
-            "panel_id": "p4-b",
-            "source_ids": [39, 40, 43, 44, 45, 48, 51],
-            "furigana_ids": [41, 42, 46, 47, 49, 50],
+            "panel_id": "p6-b",
+            "source_ids": [38, 40, 43],
+            "furigana_ids": [35, 36, 37, 39, 41, 42],
             "japanese_items": [
-              "デラックス　DXジクウドライバーのLスロットに、カチッと音がするまで差し込みます。",
-              "デラックス　DXジクウドライバー",
-              "装填音、待機音が鳴り、液晶画面の表示が起動します。"
+              "図の向きにして、DXセイバーライドウォッチをDXジクウドライバーのLスロットに、カチッと音がするまで差し込みます。"
             ]
           },
           {
             "display_index": 5,
+            "panel_id": "p7",
+            "source_ids": [45],
+            "furigana_ids": [44],
+            "japanese_items": ["DXジクウドライバー"]
+          },
+          {
+            "display_index": 6,
             "panel_id": "p8",
+            "source_ids": [48, 51],
+            "furigana_ids": [46, 47, 49, 50],
+            "japanese_items": ["装填音、待機音が鳴り、液晶画面の表示が起動します。"]
+          },
+          {
+            "display_index": 7,
+            "panel_id": "p9",
+            "source_ids": [66, 73, 75],
+            "furigana_ids": [64, 65, 69, 70, 71, 74],
+            "japanese_items": [
+              "③DXジクウドライバー上部のアンロックボタンを押してベルト本体のロックを解除し、本体を傾けさせてから、1回転させます。"
+            ]
+          },
+          {
+            "display_index": 8,
+            "panel_id": "p10",
             "source_ids": [72],
             "furigana_ids": [67, 68],
             "japanese_items": ["※ロックを解除すると、図のように本体が傾きます。"]
           },
           {
-            "display_index": 6,
+            "display_index": 9,
             "panel_id": "p11",
+            "source_ids": [77],
+            "furigana_ids": [76],
+            "japanese_items": ["DXジクウドライバー"]
+          },
+          {
+            "display_index": 10,
+            "panel_id": "p12",
+            "source_ids": [80, 82],
+            "furigana_ids": [78, 79, 81],
+            "japanese_items": ["回転完了音が鳴り、液晶画面にアニメーションが表示されます。"]
+          },
+          {
+            "display_index": 11,
+            "panel_id": "p13",
             "source_ids": [84],
-            "furigana_ids": [],
+            "furigana_ids": [83],
             "japanese_items": ["DXジオウライドウォッチ"]
           },
           {
-            "display_index": 7,
-            "panel_id": "p12",
-            "source_ids": [88, 89, 90, 94],
-            "furigana_ids": [85, 86, 87, 91, 92, 93],
-            "japanese_items": [
-              "→変身音が鳴り、LEDが光ります。",
-              "デラックス　DXセイバーライドウォッチ",
-              "→変身音が鳴り、LEDが光ります。"
-            ]
+            "display_index": 12,
+            "panel_id": "p14",
+            "source_ids": [88],
+            "furigana_ids": [85, 86, 87],
+            "japanese_items": ["変身音が鳴り、LEDが光ります。"]
           },
           {
-            "display_index": 8,
+            "display_index": 13,
             "panel_id": "p15",
+            "source_ids": [90],
+            "furigana_ids": [89],
+            "japanese_items": ["DXセイバーライドウォッチ"]
+          },
+          {
+            "display_index": 14,
+            "panel_id": "p16",
+            "source_ids": [94],
+            "furigana_ids": [91, 92, 93],
+            "japanese_items": ["変身音が鳴り、LEDが光ります。"]
+          },
+          {
+            "display_index": 15,
+            "panel_id": "p17",
             "source_ids": [98],
             "furigana_ids": [97],
             "japanese_items": ["必殺技遊び"]
           },
           {
-            "display_index": 9,
-            "panel_id": "p16",
+            "display_index": 16,
+            "panel_id": "p18",
             "source_ids": [101],
             "furigana_ids": [99, 100],
             "japanese_items": ["※変身遊びの後に行います。"]
           },
           {
-            "display_index": 10,
-            "panel_id": "p17",
-            "source_ids": [105, 108, 112, 113, 115, 118, 119, 122],
-            "furigana_ids": [106, 107, 109, 110, 111, 114, 116, 117, 120, 121],
+            "display_index": 17,
+            "panel_id": "p19",
+            "source_ids": [108, 112],
+            "furigana_ids": [105, 106, 107, 109, 110, 111],
             "japanese_items": [
-              "デラックス\n①DXジオウライドウォッチ天面のボタンを押します。\n音声が鳴り、LEDが光ります。",
-              "デラックス\n②DXセイバーライドウォッチ天面のボタンを押します。\n音声が鳴り、LEDが光ります。",
-              "デラックス\n③DXジクウドライバー上部のアンロックボタンを押して"
+              "①DXジオウライドウォッチ天面のボタンを押します。\n音声が鳴り、LEDが光ります。"
             ]
           },
           {
-            "display_index": 11,
+            "display_index": 18,
             "panel_id": "p20",
+            "source_ids": [115, 118],
+            "furigana_ids": [113, 114, 116, 117],
+            "japanese_items": [
+              "②DXセイバーライドウォッチ天面のボタンを押します。",
+              "音声が鳴り、LEDが光ります。"
+            ]
+          },
+          {
+            "display_index": 19,
+            "panel_id": "p21",
+            "source_ids": [122, 126],
+            "furigana_ids": [119, 120, 121, 123, 124, 125],
+            "japanese_items": [
+              "③DXジクウドライバー上部のアンロックボタンを押してロックを解除し、本体を傾けさせてから、1回転させます。"
+            ]
+          },
+          {
+            "display_index": 20,
+            "panel_id": "p22",
             "source_ids": [128],
-            "furigana_ids": [],
+            "furigana_ids": [127],
             "japanese_items": ["DXジクウドライバー"]
           },
           {
-            "display_index": 12,
-            "panel_id": "p21",
-            "source_ids": [129, 133, 134, 135, 139, 140, 141],
-            "furigana_ids": [130, 131, 136, 137, 138],
+            "display_index": 21,
+            "panel_id": "p23",
+            "source_ids": [129, 133],
+            "furigana_ids": [130, 131],
+            "japanese_items": ["回転完了音が鳴り、液晶画面にアニメーションが表示されます。"]
+          },
+          {
+            "display_index": 22,
+            "panel_id": "p24",
+            "source_ids": [135],
+            "furigana_ids": [134],
+            "japanese_items": ["DXジオウライドウォッチ"]
+          },
+          {
+            "display_index": 23,
+            "panel_id": "p25",
+            "source_ids": [139],
+            "furigana_ids": [136, 137, 138],
+            "japanese_items": ["必殺技音が鳴り、LEDが光ります。"]
+          },
+          {
+            "display_index": 24,
+            "panel_id": "p26",
+            "source_ids": [141],
+            "furigana_ids": [140],
+            "japanese_items": ["DXセイバーライドウォッチ"]
+          },
+          {
+            "display_index": 25,
+            "panel_id": "p27",
+            "source_ids": [144],
+            "furigana_ids": [142, 143],
+            "japanese_items": ["必殺技音が鳴り、LEDが光ります。"]
+          },
+          {
+            "display_index": 26,
+            "panel_id": "p28",
+            "source_ids": [147, 151, 155, 157],
+            "furigana_ids": [145, 146, 148, 149, 150, 152, 153, 154, 156],
             "japanese_items": [
-              "デラックス　DXジオウライドウォッチ：回転完了音が鳴り、液晶画面にアニメーションが表示されます。",
-              "デラックス　DXセイバーライドウォッチ：必殺技音が鳴り、LEDが光ります。"
+              "※DXジオウ/DXセイバーライドウォッチのボタンを押さずに再度回転させると、DXジオウ/DXセイバーライドウォッチからは変身音が鳴りますが、DXジクウドライバーの液晶画面は必殺技の表示がされます。"
             ]
           },
           {
-            "display_index": 13,
+            "display_index": 27,
             "panel_id": "p29",
-            "source_ids": [170, 173, 177, 178, 179, 185, 182],
-            "furigana_ids": [171, 174, 175, 176, 180, 181, 183, 184],
+            "source_ids": [159, 163],
+            "furigana_ids": [158, 160, 161, 162],
             "japanese_items": [
-              "デラックス　DXジクウドライバーのスロット上のライドウォッチロックボタンを押しながら、矢印の方向に引っ張って、取り外します。",
-              "デラックス　DXセイバーライドウォッチ　【上から見た図】　着脱音が鳴ります。"
+              "※DXディケイドコンプリートフォーム21ライドウォッチからは異なる変身音、必殺技音が鳴ります。"
             ]
           },
           {
-            "display_index": 14,
-            "source_ids": [1],
-            "furigana_ids": []
+            "display_index": 28,
+            "panel_id": "p30",
+            "source_ids": [169],
+            "furigana_ids": [164, 166, 167, 168],
+            "japanese_items": ["DXセイバーライドウォッチの取り外し方"]
           },
           {
-            "display_index": 15,
-            "source_ids": [2],
-            "furigana_ids": [0]
+            "display_index": 29,
+            "panel_id": "p31",
+            "source_ids": [173, 177],
+            "furigana_ids": [170, 171, 174, 175, 176],
+            "japanese_items": [
+              "DXジクウドライバーのスロット上のライドウォッチロックボタンを押しながら、矢印の方向に引っ張って、取り外します。"
+            ]
           },
           {
-            "display_index": 16,
+            "display_index": 30,
+            "panel_id": "p32",
+            "source_ids": [179],
+            "furigana_ids": [178],
+            "japanese_items": ["DXセイバーライドウォッチ"]
+          },
+          {
+            "display_index": 31,
+            "panel_id": "p33",
+            "source_ids": [182],
+            "furigana_ids": [180, 181],
+            "japanese_items": ["着脱音が鳴ります。"]
+          },
+          {
+            "display_index": 32,
             "source_ids": [17],
             "furigana_ids": []
           },
           {
-            "display_index": 17,
+            "display_index": 33,
             "source_ids": [18],
             "furigana_ids": []
           },
           {
-            "display_index": 18,
+            "display_index": 34,
+            "source_ids": [20],
+            "furigana_ids": [16, 19]
+          },
+          {
+            "display_index": 35,
+            "source_ids": [23],
+            "furigana_ids": [21, 22]
+          },
+          {
+            "display_index": 36,
+            "source_ids": [27],
+            "furigana_ids": [24, 25, 26]
+          },
+          {
+            "display_index": 37,
             "source_ids": [28],
             "furigana_ids": []
           },
           {
-            "display_index": 19,
-            "source_ids": [52],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 20,
-            "source_ids": [53],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 21,
-            "source_ids": [54],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 22,
-            "source_ids": [55],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 23,
-            "source_ids": [57],
-            "furigana_ids": [56]
-          },
-          {
-            "display_index": 24,
-            "source_ids": [58],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 25,
-            "source_ids": [59],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 26,
-            "source_ids": [60],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 27,
-            "source_ids": [62],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 28,
-            "source_ids": [63],
-            "furigana_ids": [61]
-          },
-          {
-            "display_index": 29,
-            "source_ids": [64],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 30,
-            "source_ids": [66],
-            "furigana_ids": [65]
-          },
-          {
-            "display_index": 31,
-            "source_ids": [73],
-            "furigana_ids": [69, 70, 71]
-          },
-          {
-            "display_index": 32,
-            "source_ids": [75],
-            "furigana_ids": [74]
-          },
-          {
-            "display_index": 33,
-            "source_ids": [76],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 34,
-            "source_ids": [77],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 35,
-            "source_ids": [80],
-            "furigana_ids": [78, 79]
-          },
-          {
-            "display_index": 36,
-            "source_ids": [82],
-            "furigana_ids": [81]
-          },
-          {
-            "display_index": 37,
-            "source_ids": [83],
-            "furigana_ids": []
-          },
-          {
             "display_index": 38,
-            "source_ids": [95],
+            "source_ids": [29],
             "furigana_ids": []
           },
           {
             "display_index": 39,
-            "source_ids": [96],
-            "furigana_ids": []
+            "source_ids": [32],
+            "furigana_ids": [30, 31]
           },
           {
             "display_index": 40,
-            "source_ids": [102],
-            "furigana_ids": []
+            "source_ids": [34],
+            "furigana_ids": [33]
           },
           {
             "display_index": 41,
-            "source_ids": [103],
+            "source_ids": [52],
             "furigana_ids": []
           },
           {
             "display_index": 42,
-            "source_ids": [104],
+            "source_ids": [53],
             "furigana_ids": []
           },
           {
             "display_index": 43,
-            "source_ids": [126],
-            "furigana_ids": [123, 124, 125]
-          },
-          {
-            "display_index": 44,
-            "source_ids": [127],
+            "source_ids": [54],
             "furigana_ids": []
           },
           {
+            "display_index": 44,
+            "source_ids": [57],
+            "furigana_ids": [55, 56]
+          },
+          {
             "display_index": 45,
-            "source_ids": [132],
+            "source_ids": [58],
             "furigana_ids": []
           },
           {
             "display_index": 46,
-            "source_ids": [144],
-            "furigana_ids": [142, 143]
+            "source_ids": [59],
+            "furigana_ids": []
           },
           {
             "display_index": 47,
-            "source_ids": [145],
+            "source_ids": [60],
             "furigana_ids": []
           },
           {
             "display_index": 48,
-            "source_ids": [146],
+            "source_ids": [62],
             "furigana_ids": []
           },
           {
             "display_index": 49,
-            "source_ids": [147],
-            "furigana_ids": []
+            "source_ids": [63],
+            "furigana_ids": [61]
           },
           {
             "display_index": 50,
-            "source_ids": [149],
+            "source_ids": [95],
             "furigana_ids": []
           },
           {
             "display_index": 51,
-            "source_ids": [150],
+            "source_ids": [96],
             "furigana_ids": []
           },
           {
             "display_index": 52,
-            "source_ids": [151],
-            "furigana_ids": [148]
+            "source_ids": [102],
+            "furigana_ids": []
           },
           {
             "display_index": 53,
-            "source_ids": [154],
+            "source_ids": [103],
             "furigana_ids": []
           },
           {
             "display_index": 54,
-            "source_ids": [155],
-            "furigana_ids": [152, 153]
+            "source_ids": [104],
+            "furigana_ids": []
           },
           {
             "display_index": 55,
-            "source_ids": [157],
-            "furigana_ids": [156]
+            "source_ids": [132],
+            "furigana_ids": []
           },
           {
             "display_index": 56,
-            "source_ids": [158],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 57,
-            "source_ids": [159],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 58,
-            "source_ids": [163],
-            "furigana_ids": [160, 161, 162]
-          },
-          {
-            "display_index": 59,
-            "source_ids": [164],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 60,
             "source_ids": [165],
             "furigana_ids": []
           },
           {
-            "display_index": 61,
-            "source_ids": [169],
-            "furigana_ids": [166, 167, 168]
-          },
-          {
-            "display_index": 62,
+            "display_index": 57,
             "source_ids": [172],
             "furigana_ids": []
           },
           {
-            "display_index": 63,
+            "display_index": 58,
+            "source_ids": [185],
+            "furigana_ids": [183, 184]
+          },
+          {
+            "display_index": 59,
             "source_ids": [186],
             "furigana_ids": []
           }
         ],
-        "uncertainties": [
-          "The provided OCR/truncated image cut off mid-line; the final clause was reconstructed as '…セットします。' based on context but the original may contain additional wording or specifics.",
-          "Product name spacing and romanization (e.g., 'Zi-O', 'Ziou') were normalized to 'Zi-O' and 'Zi-O Driver' for clarity; original styling may differ.",
-          "The third item (③) appears to be an incomplete clause ending with 押して; the continuation is missing from the source."
-        ],
+        "uncertainties": [],
         "ocr_lines": [
           {
             "id": 0,
@@ -10198,60 +10219,47 @@
     {
       "blocks": [
         {
-          "text": "デラックス\n※詳しくはDXジカンギレードの取扱説明書をご参照ください。",
-          "translation": "• Deluxe\n• For details, please refer to the DX Jikangireedo instruction manual.",
-          "bbox": [0.562, 0.03840878164768219, 0.32256450843811024, 0.015827821075916293],
-          "layout": "panel"
-        },
-        {
-          "text": "①DXジカンギレードにDXセイバーライドウォッチをセットします。\nデラックス\nDXセイバーライドウォッチを図の向きにして、\nデラックス\nDXジカンギレードのスロットにカチッと音がするまで差し込みます。\nデラックス\nDX ジカンギレード\n着脱音とセリフ、 待機音が鳴ります。",
-          "translation": "• 1. Set the DX Seiber Ride Watch into the DX Jikangirēdo.\n• Orient the DX Seiber Ride Watch as shown, and insert it into the DX Jikangirēdo’s slot until it clicks.\n• Deluxe DX Jikangirēdo\n• A attach/detach sound, voice lines, and standby sound will play.",
+          "text": "別売りのDXジカンギレードで必殺技遊び!",
+          "translation": "Play special-move attacks using the separately sold DX Jikan Girade!",
           "bbox": [
-            0.046080644488334654, 0.06777023828029632, 0.35511935551166535, 0.07455074179172516
+            0.0424516119658947, 0.026299999999999997, 0.46924838803410523, 0.029932039570808415
           ],
           "layout": "panel"
         },
         {
-          "text": "②トリガーを引きます。\nデラックス\nDXセイバーライドウォッチ\n→音声が鳴り、LEDが光ります。\nデラックス\nDX ジカンギレード",
-          "translation": "• 2. Pull the trigger.\n• Deluxe DX Saber Ride Watch → A sound plays and the LED lights up.\n• Deluxe DX Jikangireed",
+          "text": "※詳しくはDXジカンギレードの取扱説明書をご参照ください。",
+          "translation": "For details, refer to the DX Jikan Gread instruction manual.",
+          "bbox": [0.562, 0.03840878164768219, 0.32256450843811024, 0.025191218352317815],
+          "layout": "panel"
+        },
+        {
+          "text": "①DXジカンギレードにDXセイバーライドウォッチをセットします。\nDXセイバーライドウォッチを図の向きにして、\nDXジカンギレードのスロットにカチッと音がするまで差し込みます。\nDX ジカンギレード",
+          "translation": "• 1. Set the DX Saber Ride Watch into the DX Jikan Gread.\n• Hold the DX Saber Ride Watch in the orientation shown and insert it into the slot on the DX Jikan Gread until it clicks.",
           "bbox": [
-            0.5069677338600159, 0.06263911283016205, 0.17880646276473988, 0.06376088716983797
+            0.046080644488334654, 0.06349429792165756, 0.35511935551166535, 0.06380570207834244
           ],
           "layout": "panel"
         },
         {
-          "text": "デラックス\n※図はDXジカンギレードのケンモードですが、\nデラックス\nDX ジカンギレードのジュウモードでも同様に必殺技遊びができます。",
-          "translation": "• Deluxe\n• The illustration shows the DX Jikan Glaive in Ken mode,\n• You can similarly play special-move games in the DX Jikan Glaive's Jū (Gun) mode.",
+          "text": "着脱音とセリフ、 待機音が鳴ります。",
+          "translation": "Attachment/removal sounds, voice lines, and standby sounds will play.",
+          "bbox": [0.05293548411130905, 0.1263, 0.19106451588869097, 0.01602098007202149],
+          "layout": "panel"
+        },
+        {
+          "text": "②トリガーを引きます。\nDXセイバーライドウォッチ\n→音声が鳴り、LEDが光ります。\nDX ジカンギレード\n必殺技音が鳴ります。",
+          "translation": "• 2. Pull the trigger.\n• Deluxe DX Saber Ride Watch → A voice plays and the LED lights up.\n• Deluxe DX Jikangireed → A finisher/special-attack sound plays.",
+          "bbox": [
+            0.5069677338600159, 0.06263911283016205, 0.17880646276473988, 0.07939680802822113
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "※図はDXジカンギレードのケンモードですが、\nDX ジカンギレードのジュウモードでも同様に必殺技遊びができます。",
+          "translation": "• The illustration shows the DX Jikangireedo in Ken (sword) mode,\n• You can play the special-move game the same way in the DX Jikangireedo's Juu (gun) mode.",
           "bbox": [
             0.5073709592819214, 0.2758660123348236, 0.37961290168762196, 0.030080953121185305
           ],
-          "layout": "panel"
-        },
-        {
-          "text": "デラックス",
-          "translation": "Deluxe",
-          "bbox": [0.1415, 0.0278, 0.0411, 0.0077]
-        },
-        {
-          "text": "別売りのDXジカンギレードで必殺技遊び!",
-          "translation": "Play special-move attacks using the separately sold DX Jikan Girade!",
-          "bbox": [0.0426, 0.026699999999999998, 0.46909999999999996, 0.028700000000000007],
-          "layout": "panel"
-        },
-        {
-          "text": "デラックス",
-          "translation": "Deluxe",
-          "bbox": [0.058, 0.0658, 0.0224, 0.0034]
-        },
-        {
-          "text": "デラックス",
-          "translation": "Deluxe",
-          "bbox": [0.1681, 0.0658, 0.0218, 0.0038]
-        },
-        {
-          "text": "必殺技音が鳴ります。",
-          "translation": "A special-move sound will play.",
-          "bbox": [0.5299, 0.1259, 0.11119999999999985, 0.015399999999999997],
           "layout": "panel"
         },
         {
@@ -10529,23 +10537,33 @@
           "panels": [
             {
               "id": "p1",
-              "kind": "prose",
-              "source_ids": [20, 23]
+              "kind": "heading",
+              "source_ids": [3]
             },
             {
               "id": "p2",
               "kind": "prose",
-              "source_ids": [6, 7, 9, 10, 12, 13, 14, 18]
+              "source_ids": [23]
+            },
+            {
+              "id": "p3",
+              "kind": "prose",
+              "source_ids": [6, 9, 12, 14]
             },
             {
               "id": "p4",
               "kind": "prose",
-              "source_ids": [25, 26, 27, 31, 32, 33]
+              "source_ids": [18]
             },
             {
-              "id": "p7",
+              "id": "p5",
               "kind": "prose",
-              "source_ids": [42, 43, 44, 46]
+              "source_ids": [25, 27, 31, 33, 36]
+            },
+            {
+              "id": "p6",
+              "kind": "prose",
+              "source_ids": [43, 46]
             }
           ],
           "furigana": [
@@ -10554,16 +10572,40 @@
               "parent_id": 3
             },
             {
+              "source_id": 1,
+              "parent_id": 3
+            },
+            {
               "source_id": 2,
               "parent_id": 3
+            },
+            {
+              "source_id": 4,
+              "parent_id": 6
+            },
+            {
+              "source_id": 5,
+              "parent_id": 6
+            },
+            {
+              "source_id": 7,
+              "parent_id": 9
             },
             {
               "source_id": 8,
               "parent_id": 9
             },
             {
+              "source_id": 10,
+              "parent_id": 12
+            },
+            {
               "source_id": 11,
               "parent_id": 12
+            },
+            {
+              "source_id": 13,
+              "parent_id": 14
             },
             {
               "source_id": 15,
@@ -10582,6 +10624,10 @@
               "parent_id": 23
             },
             {
+              "source_id": 20,
+              "parent_id": 23
+            },
+            {
               "source_id": 21,
               "parent_id": 23
             },
@@ -10592,6 +10638,10 @@
             {
               "source_id": 24,
               "parent_id": 25
+            },
+            {
+              "source_id": 26,
+              "parent_id": 27
             },
             {
               "source_id": 28,
@@ -10606,6 +10656,10 @@
               "parent_id": 31
             },
             {
+              "source_id": 32,
+              "parent_id": 33
+            },
+            {
               "source_id": 34,
               "parent_id": 36
             },
@@ -10618,118 +10672,101 @@
               "parent_id": 43
             },
             {
+              "source_id": 42,
+              "parent_id": 43
+            },
+            {
+              "source_id": 44,
+              "parent_id": 46
+            },
+            {
               "source_id": 45,
               "parent_id": 46
             }
           ],
-          "notes": [
-            "Katakana readings above DX are left ungrouped rather than marked as hiragana furigana. Diagram labels and sound-effect/product callouts are left ungrouped.",
-            "Conservative panel fallback: Panel p0 would mask unrelated source 1",
-            "Retained p0 unchanged: Panel p0 would mask unrelated source 1"
-          ]
+          "notes": [],
+          "native_artwork": []
         },
         "mapping": [
           {
             "display_index": 0,
             "panel_id": "p1",
-            "source_ids": [20, 23],
-            "furigana_ids": [19, 21, 22],
-            "japanese_items": [
-              "デラックス",
-              "※詳しくはDXジカンギレードの取扱説明書をご参照ください。"
-            ]
+            "source_ids": [3],
+            "furigana_ids": [0, 1, 2],
+            "japanese_items": ["別売りのDXジカンギレードで必殺技遊び!"]
           },
           {
             "display_index": 1,
             "panel_id": "p2",
-            "source_ids": [6, 7, 9, 10, 12, 13, 14, 18],
-            "furigana_ids": [8, 11, 15, 16, 17],
-            "japanese_items": [
-              "①DXジカンギレードにDXセイバーライドウォッチをセットします。",
-              "DXセイバーライドウォッチを図の向きにして、DXジカンギレードのスロットにカチッと音がするまで差し込みます。",
-              "デラックス DXジカンギレード",
-              "着脱音とセリフ、待機音が鳴ります。"
-            ]
+            "source_ids": [23],
+            "furigana_ids": [19, 20, 21, 22],
+            "japanese_items": ["※詳しくはDXジカンギレードの取扱説明書をご参照ください。"]
           },
           {
             "display_index": 2,
-            "panel_id": "p4",
-            "source_ids": [25, 26, 27, 31, 32, 33],
-            "furigana_ids": [24, 28, 29, 30],
+            "panel_id": "p3",
+            "source_ids": [6, 9, 12, 14],
+            "furigana_ids": [4, 5, 7, 8, 10, 11, 13],
             "japanese_items": [
-              "②トリガーを引きます。",
-              "デラックス　DXセイバーライドウォッチ　→音声が鳴り、LEDが光ります。",
-              "デラックス　DXジカンギレード"
+              "①DXジカンギレードにDXセイバーライドウォッチをセットします。",
+              "DXセイバーライドウォッチを図の向きにして、DXジカンギレードのスロットにカチッと音がするまで差し込みます。"
             ]
           },
           {
             "display_index": 3,
-            "panel_id": "p7",
-            "source_ids": [42, 43, 44, 46],
-            "furigana_ids": [41, 45],
+            "panel_id": "p4",
+            "source_ids": [18],
+            "furigana_ids": [15, 16, 17],
+            "japanese_items": ["着脱音とセリフ、待機音が鳴ります。"]
+          },
+          {
+            "display_index": 4,
+            "panel_id": "p5",
+            "source_ids": [25, 27, 31, 33, 36],
+            "furigana_ids": [24, 26, 28, 29, 30, 32, 34, 35],
             "japanese_items": [
-              "デラックス",
+              "②トリガーを引きます。",
+              "デラックス DXセイバーライドウォッチ →音声が鳴り、LEDが光ります。",
+              "デラックス DXジカンギレード →必殺技音が鳴ります。"
+            ]
+          },
+          {
+            "display_index": 5,
+            "panel_id": "p6",
+            "source_ids": [43, 46],
+            "furigana_ids": [41, 42, 44, 45],
+            "japanese_items": [
               "※図はDXジカンギレードのケンモードですが、",
               "DXジカンギレードのジュウモードでも同様に必殺技遊びができます。"
             ]
           },
           {
-            "display_index": 4,
-            "source_ids": [1],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 5,
-            "source_ids": [3],
-            "furigana_ids": [0, 2]
-          },
-          {
             "display_index": 6,
-            "source_ids": [4],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 7,
-            "source_ids": [5],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 8,
-            "source_ids": [36],
-            "furigana_ids": [34, 35]
-          },
-          {
-            "display_index": 9,
             "source_ids": [37],
             "furigana_ids": []
           },
           {
-            "display_index": 10,
+            "display_index": 7,
             "source_ids": [38],
             "furigana_ids": []
           },
           {
-            "display_index": 11,
+            "display_index": 8,
             "source_ids": [39],
             "furigana_ids": []
           },
           {
-            "display_index": 12,
+            "display_index": 9,
             "source_ids": [40],
             "furigana_ids": []
           },
           {
-            "display_index": 13,
+            "display_index": 10,
             "source_ids": [47],
             "furigana_ids": []
           }
         ],
-        "uncertainties": [
-          "Product name ジカンギレード has no supplied glossary; English rendering 'Jikangirēdo' is a romanization and may be spelled differently in official materials.",
-          "Product name セイバーライドウォッチ preserved as 'Seiber Ride Watch' romanization; official English product name may differ.",
-          "The layout implies the arrow and effect (sound/LED) apply to the DX Saber Ride Watch; the panel does not state any effect for DX Jikangireed—unclear if no effect is intended or omitted.",
-          "The exact romanization/spelling of ジカンギレード is rendered as \"Jikangireed\"—alternative romanizations (e.g., Jikan Gired) are possible but not shown in the panel."
-        ],
+        "uncertainties": [],
         "ocr_lines": [
           {
             "id": 0,

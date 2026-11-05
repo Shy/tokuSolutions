@@ -229,6 +229,17 @@ explicit regrouping preserve the source records and repeat the classification.
 These bounded rules do not certify OCR or model judgments.
 Source-ledger completeness is checked again before publication.
 
+English overlays are checked for non-Latin letters across scripts, allowing
+electrical units µ, μ and Ω. Unclaimed untranslated labels enter the existing
+cropped translation stage; a failed bounded repair retains source-grounded text
+and reports an advisory warning. This detects script leakage, not English fluency
+or name accuracy. Source-backed Japanese battery codes become AA/AAA without
+changing counts. Duplicate source quotations can use their already-present
+English equivalent only when the source confirms the quoted fragment.
+Short other-script OCR fragments and lone Japanese glyphs are scan-confirmation
+candidates for diagram marks; they are never automatically deleted. Meaningful
+labels remain translated, and original source text and boxes stay in the ledger.
+
 Repair the existing corpus through the same stage:
 
 ```bash

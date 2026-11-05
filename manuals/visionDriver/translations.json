@@ -7,7 +7,7 @@
     "source_url": "https://tokullectibles.com/products/premium-dx-memorial-vision-driver-high-spec-belt-set",
     "blog_url": "",
     "pages": 14,
-    "blocks": 285,
+    "blocks": 278,
     "thumbnail": "pages/page-0.webp",
     "tags": [],
     "semantic_layout": 1
@@ -23,8 +23,14 @@
         },
         {
           "text": "メモリアルヴィジョンドライバー本体··· 1 カード･･･1 カードホルダー・・・1\nハイスペックベルト帯(右)・・・1 ハイスペックベルト帯(左)･･･1 ベルト留め・・・1\nヴィジョンドライバー本体\nバックルスロット\nタッチセンサー\n解除ボタン",
-          "translation": "• Memorial Vision Driver main unit ...1 Card ...1 Card holder ...1 High-spec belt strap (right) ...1 High-spec belt strap (left) ...1 Belt fastener ...1\n• Vision Driver main unit\n• Buckle slot\n• Touch sensor\n• Release button",
+          "translation": "• Memorial Vision Driver main unit — 1, Card — 1, Card holder — 1\n• High-Spec belt strap (right) — 1, High-Spec belt strap (left) — 1, Belt fastener — 1\n• Vision Driver main unit\n• Buckle slot\n• Touch sensor\n• Release button",
           "bbox": [0.198, 0.046, 0.7615982923507689, 0.05038107264041901],
+          "layout": "panel"
+        },
+        {
+          "text": "各部名称",
+          "translation": "Part names",
+          "bbox": [0.058935131192207335, 0.0739, 0.08466486880779267, 0.009400000000000006],
           "layout": "panel"
         },
         {
@@ -35,7 +41,7 @@
         },
         {
           "text": "黄色で囲った箇所は構造上、\n黒成形色部分との擦れが発生する\n場合がございます。\n予めご了承ください。",
-          "translation": "• The areas outlined in yellow may, due to the structure, rub against the black molded-color parts.\n• Please be aware of this in advance.",
+          "translation": "The areas circled in yellow may rub against the black molded parts because of the product’s structure. Please note this in advance.",
           "bbox": [0.06779895281791687, 0.2324, 0.3043698756694794, 0.03539999999999999],
           "layout": "panel"
         },
@@ -47,7 +53,7 @@
         },
         {
           "text": "箱に入れて保管する際は、\n必ず梱包時の緩衝材を挟んでください。",
-          "translation": "When storing in a box, be sure to insert the cushioning material used at the time of packing.",
+          "translation": "When storing in the box, always include the cushioning material used during packing.",
           "bbox": [
             0.06699315017461777, 0.3092549250125885, 0.35290684982538223, 0.01773629474639893
           ],
@@ -62,17 +68,12 @@
           "layout": "panel"
         },
         {
-          "text": "お買い上げのお客様へ 必ずお読みください。\n●小さな部品がありますので、小さなお子様が誤って飲み込まないように注意してください。 窒息などの危険があります。耳の近くで使用してはいけません。 誤って\n使用すると、聴覚を損なう恐れがあります。 可動部分には指などを入れないでください。 はさまれてケガをする恐れがあります。LEDの光の点滅を見続けないで\nください。気分が悪くなったりするおそれがあります。 《電池を誤使用すると発熱・破裂・液漏れの恐れがあります。 下記に注意してください》 ●二次電池(充電式\n電池)は、絶対に使用しないでください。 ●古い電池と新しい電池、いろいろな種類の電池をまぜて使わないでください。 +-(±)を正しくセットして\nください。 ●遊んだ後は必ずスイッチを切り電池をはずしてください。 電池を入れたままにしておくと、液漏れの恐れがあり危険です。ショートさせたり充電、分解、\n加熱、火の中に入れたりしないでください。 ●万一、電池から漏れた液が目に入ったときはすぐに大量の水で洗い、医師に相談してください。 皮膚や服に付いた時は\n水で洗ってください。 廃棄するときは、自治体の廃棄物処理の指示に従ってください。",
-          "translation": "• For customers who purchased this product — Please read carefully.\n• There are small parts; take care that small children do not accidentally swallow them. There is a risk of choking.\n• Do not use near the ear. If used accidentally, there is a risk of hearing damage.\n• Do not put fingers or other body parts into moving parts. There is a risk of being pinched and injured.\n• Do not stare continuously at the flashing LED light. You may feel unwell or become ill.\n• Improper use of batteries may cause heating, bursting, or leakage. Pay attention to the following.\n• Do not use secondary (rechargeable) batteries under any circumstances.\n• Do not mix old and new batteries or different types of batteries.\n• Set the + and − (plus and minus) polarities correctly.\n• After playing, always turn the switch off and remove the batteries. Leaving batteries installed may cause leakage and is dangerous. Do not short circuit, charge, disassemble, heat, or throw batteries into fire.\n• If battery leakage gets into the eyes, immediately rinse with a large amount of water and consult a doctor. If leakage contacts skin or clothing, wash with water.\n• When disposing of batteries, follow your local municipality's waste disposal instructions.",
+          "text": "お買い上げのお客様へ 必ずお読みください。",
+          "translation": "To customers: Please be sure to read.",
           "bbox": [
-            0.027508863493800162, 0.8874000000000001, 0.9358911365061997, 0.06099999999999994
+            0.33935413813591003, 0.8874000000000001, 0.3223458618640899, 0.008199999999999874
           ],
           "layout": "panel"
-        },
-        {
-          "text": "PREMIUMDX",
-          "translation": "PREMIUMDX",
-          "bbox": [0.2461, 0.005, 0.1264, 0.007]
         },
         {
           "text": "GAS FEITURATU ZAN",
@@ -90,19 +91,9 @@
           "bbox": [0.0284, 0.0328, 0.1578, 0.0023]
         },
         {
-          "text": "MEMORIAL VISION DRIVER",
-          "translation": "MEMORIAL VISION DRIVER",
-          "bbox": [0.3041, 0.0378, 0.2418, 0.0019]
-        },
-        {
           "text": "ハイスペックベルトセットの遊び方",
           "translation": "How to Use the High-Spec Belt Set",
           "bbox": [0.318, 0.0231, 0.6028, 0.0175]
-        },
-        {
-          "text": "各部名称",
-          "translation": "Part names",
-          "bbox": [0.0605, 0.0754, 0.0816, 0.0064]
         },
         {
           "text": "【正面】",
@@ -258,6 +249,11 @@
           "text": "【背面】",
           "translation": "【Back】",
           "bbox": [0.7291, 0.7743, 0.0556, 0.0066]
+        },
+        {
+          "text": "●小さな部品がありますので、小さなお子様が誤って飲み込まないように注意してください。 窒息などの危険があります。耳の近くで使用してはいけません。 誤って\n使用すると、聴覚を損なう恐れがあります。 可動部分には指などを入れないでください。 はさまれてケガをする恐れがあります。LEDの光の点滅を見続けないで\nください。気分が悪くなったりするおそれがあります。 《電池を誤使用すると発熱・破裂・液漏れの恐れがあります。 下記に注意してください》 ●二次電池(充電式\n電池)は、絶対に使用しないでください。 ●古い電池と新しい電池、いろいろな種類の電池をまぜて使わないでください。 +-(±)を正しくセットして\nください。 ●遊んだ後は必ずスイッチを切り電池をはずしてください。 電池を入れたままにしておくと、液漏れの恐れがあり危険です。ショートさせたり充電、分解、\n加熱、火の中に入れたりしないでください。 ●万一、電池から漏れた液が目に入ったときはすぐに大量の水で洗い、医師に相談してください。 皮膚や服に付いた時は\n水で洗ってください。 廃棄するときは、自治体の廃棄物処理の指示に従ってください。",
+          "translation": "●This product contains small parts. Keep away from small children to prevent accidental swallowing; there is a risk of choking. Do not use near the ears. Improper use may damage hearing. Do not put fingers or other body parts into moving parts—there is a risk of being pinched and injured. Do not continuously stare at flashing LED lights; this may cause discomfort. 《Improper use of batteries can cause overheating, rupture, or leakage. Observe the following》 ●Never use secondary (rechargeable) batteries. ●Do not mix old and new batteries or different types of batteries. Insert batteries with the + and - terminals oriented correctly. ●After use, always turn the power switch off and remove the batteries. Leaving batteries in the product may cause leakage and create a hazard. Do not short-circuit, charge, disassemble, heat, or throw batteries into fire. ●If battery fluid gets into the eyes, rinse immediately with plenty of water and consult a physician. If it contacts skin or clothing, wash with water. Dispose of batteries according to your local municipal regulations.",
+          "bbox": [0.0375, 0.899, 0.9244, 0.0429]
         },
         {
           "text": "<使用上の注意>",
@@ -543,68 +539,77 @@
         "plan": {
           "panels": [
             {
-              "id": "p2",
+              "id": "p_set_heading",
               "kind": "heading",
               "source_ids": [6]
             },
             {
-              "id": "p3",
+              "id": "p_set_body",
               "kind": "prose",
               "source_ids": [7, 9, 10, 11, 12]
             },
             {
-              "id": "p4",
+              "id": "p_parts_heading",
+              "kind": "heading",
+              "source_ids": [8]
+            },
+            {
+              "id": "p_caution1_heading",
               "kind": "heading",
               "source_ids": [17]
             },
             {
-              "id": "p5",
+              "id": "p_caution1_body",
               "kind": "prose",
               "source_ids": [18]
             },
             {
-              "id": "p6",
+              "id": "p_caution2_heading",
               "kind": "heading",
               "source_ids": [19]
             },
             {
-              "id": "p7",
+              "id": "p_caution2_body",
               "kind": "prose",
               "source_ids": [20]
             },
             {
-              "id": "p8",
+              "id": "p_safety_heading",
               "kind": "heading",
               "source_ids": [48]
             },
             {
-              "id": "p9-a",
-              "kind": "prose",
-              "source_ids": [49, 50]
+              "id": "p_safety_subheading",
+              "kind": "heading",
+              "source_ids": [49]
             }
           ],
           "furigana": [],
           "notes": [
-            "Conservative panel fallback: Panel p1 would mask unrelated source 4",
-            "Retained p1 unchanged: Panel p1 would mask unrelated source 4",
-            "Panel p9-b retained original English after failed automatic checks"
-          ]
+            "Diagram labels, product part labels, and in-diagram callout sentences were left ungrouped to avoid masking illustrations.",
+            "Conservative panel fallback: Panel p_title would mask native artwork 4",
+            "Retained p_title unchanged: Panel p_title would mask native artwork 4",
+            "Retained p_safety_body source IDs [50] unchanged: illustration-mask check",
+            "Panel p_safety_body-b retained original English after failed automatic checks"
+          ],
+          "native_artwork": [0, 4]
         },
         "mapping": [
           {
             "display_index": 0,
-            "panel_id": "p2",
+            "panel_id": "p_set_heading",
             "source_ids": [6],
             "furigana_ids": [],
             "japanese_items": ["セット内容"]
           },
           {
             "display_index": 1,
-            "panel_id": "p3",
+            "panel_id": "p_set_body",
             "source_ids": [7, 9, 10, 11, 12],
             "furigana_ids": [],
             "japanese_items": [
-              "メモリアルヴィジョンドライバー本体・・・1 カード・・・1 カードホルダー・・・1 ハイスペックベルト帯（右）・・・1 ハイスペックベルト帯（左）・・・1 ベルト留め・・・1",
+              "メモリアルヴィジョンドライバー本体··· 1 カード･･･1 カードホルダー・・・1",
+              "ハイスペックベルト帯(右)・・・1 ハイスペックベルト帯(左)･･･1 ベルト留め・・・1",
               "ヴィジョンドライバー本体",
               "バックルスロット",
               "タッチセンサー",
@@ -613,66 +618,60 @@
           },
           {
             "display_index": 2,
-            "panel_id": "p4",
+            "panel_id": "p_parts_heading",
+            "source_ids": [8],
+            "furigana_ids": [],
+            "japanese_items": ["各部名称"]
+          },
+          {
+            "display_index": 3,
+            "panel_id": "p_caution1_heading",
             "source_ids": [17],
             "furigana_ids": [],
             "japanese_items": ["※注意※"]
           },
           {
-            "display_index": 3,
-            "panel_id": "p5",
+            "display_index": 4,
+            "panel_id": "p_caution1_body",
             "source_ids": [18],
             "furigana_ids": [],
             "japanese_items": [
-              "黄色で囲った箇所は構造上、黒成形色部分との擦れが発生する場合がございます。",
-              "予めご了承ください。"
+              "黄色で囲った箇所は構造上、\n黒成形色部分との擦れが発生する\n場合がございます。\n予めご了承ください。"
             ]
           },
           {
-            "display_index": 4,
-            "panel_id": "p6",
+            "display_index": 5,
+            "panel_id": "p_caution2_heading",
             "source_ids": [19],
             "furigana_ids": [],
             "japanese_items": ["※注意※"]
           },
           {
-            "display_index": 5,
-            "panel_id": "p7",
+            "display_index": 6,
+            "panel_id": "p_caution2_body",
             "source_ids": [20],
             "furigana_ids": [],
             "japanese_items": ["箱に入れて保管する際は、必ず梱包時の緩衝材を挟んでください。"]
           },
           {
-            "display_index": 6,
-            "panel_id": "p8",
+            "display_index": 7,
+            "panel_id": "p_safety_heading",
             "source_ids": [48],
             "furigana_ids": [],
             "japanese_items": ["△ 注意"]
           },
           {
-            "display_index": 7,
-            "panel_id": "p9-a",
-            "source_ids": [49, 50],
+            "display_index": 8,
+            "panel_id": "p_safety_subheading",
+            "source_ids": [49],
             "furigana_ids": [],
-            "japanese_items": [
-              "お買い上げのお客様へ 必ずお読みください。",
-              "小さな部品がありますので、小さなお子様が誤って飲み込まないように注意してください。窒息などの危険があります。",
-              "耳の近くで使用してはいけません。誤って使用すると、聴覚を損なう恐れがあります。",
-              "可動部分には指などを入れないでください。はさまれてケガをする恐れがあります。",
-              "LEDの光の点滅を見続けないでください。気分が悪くなったりするおそれがあります。",
-              "電池を誤使用すると発熱・破裂・液漏れの恐れがあります。下記に注意してください。",
-              "二次電池（充電式電池）は、絶対に使用しないでください。",
-              "古い電池と新しい電池、いろいろな種類の電池をまぜて使わないでください。",
-              "+−（プラスマイナス）を正しくセットしてください。",
-              "遊んだ後は必ずスイッチを切り電池をはずしてください。電池を入れたままにしておくと、液漏れの恐れがあり危険です。ショートさせたり充電、分解、加熱、火の中に入れたりしないでください。",
-              "万一、電池から漏れた液が目に入ったときはすぐに大量の水で洗い、医師に相談してください。皮膚や服に付いた時は水で洗ってください。",
-              "廃棄するときは、自治体の廃棄物処理の指示に従ってください。"
-            ]
+            "japanese_items": ["お買い上げのお客様へ 必ずお読みください。"]
           },
           {
-            "display_index": 8,
+            "display_index": -1,
             "source_ids": [0],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
             "display_index": 9,
@@ -690,182 +689,183 @@
             "furigana_ids": []
           },
           {
-            "display_index": 12,
+            "display_index": -1,
             "source_ids": [4],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 13,
+            "display_index": 12,
             "source_ids": [5],
             "furigana_ids": []
           },
           {
-            "display_index": 14,
-            "source_ids": [8],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 15,
+            "display_index": 13,
             "source_ids": [13],
             "furigana_ids": []
           },
           {
-            "display_index": 16,
+            "display_index": 14,
             "source_ids": [14],
             "furigana_ids": []
           },
           {
-            "display_index": 17,
+            "display_index": 15,
             "source_ids": [15],
             "furigana_ids": []
           },
           {
-            "display_index": 18,
+            "display_index": 16,
             "source_ids": [16],
             "furigana_ids": []
           },
           {
-            "display_index": 19,
+            "display_index": 17,
             "source_ids": [21],
             "furigana_ids": []
           },
           {
-            "display_index": 20,
+            "display_index": 18,
             "source_ids": [22],
             "furigana_ids": []
           },
           {
-            "display_index": 21,
+            "display_index": 19,
             "source_ids": [23],
             "furigana_ids": []
           },
           {
-            "display_index": 22,
+            "display_index": 20,
             "source_ids": [24],
             "furigana_ids": []
           },
           {
-            "display_index": 23,
+            "display_index": 21,
             "source_ids": [25],
             "furigana_ids": []
           },
           {
-            "display_index": 24,
+            "display_index": 22,
             "source_ids": [26],
             "furigana_ids": []
           },
           {
-            "display_index": 25,
+            "display_index": 23,
             "source_ids": [27],
             "furigana_ids": []
           },
           {
-            "display_index": 26,
+            "display_index": 24,
             "source_ids": [28],
             "furigana_ids": []
           },
           {
-            "display_index": 27,
+            "display_index": 25,
             "source_ids": [29],
             "furigana_ids": []
           },
           {
-            "display_index": 28,
+            "display_index": 26,
             "source_ids": [30],
             "furigana_ids": []
           },
           {
-            "display_index": 29,
+            "display_index": 27,
             "source_ids": [31],
             "furigana_ids": []
           },
           {
-            "display_index": 30,
+            "display_index": 28,
             "source_ids": [32],
             "furigana_ids": []
           },
           {
-            "display_index": 31,
+            "display_index": 29,
             "source_ids": [33],
             "furigana_ids": []
           },
           {
-            "display_index": 32,
+            "display_index": 30,
             "source_ids": [34],
             "furigana_ids": []
           },
           {
-            "display_index": 33,
+            "display_index": 31,
             "source_ids": [35],
             "furigana_ids": []
           },
           {
-            "display_index": 34,
+            "display_index": 32,
             "source_ids": [36],
             "furigana_ids": []
           },
           {
-            "display_index": 35,
+            "display_index": 33,
             "source_ids": [37],
             "furigana_ids": []
           },
           {
-            "display_index": 36,
+            "display_index": 34,
             "source_ids": [38],
             "furigana_ids": []
           },
           {
-            "display_index": 37,
+            "display_index": 35,
             "source_ids": [39],
             "furigana_ids": []
           },
           {
-            "display_index": 38,
+            "display_index": 36,
             "source_ids": [40],
             "furigana_ids": []
           },
           {
-            "display_index": 39,
+            "display_index": 37,
             "source_ids": [41],
             "furigana_ids": []
           },
           {
-            "display_index": 40,
+            "display_index": 38,
             "source_ids": [42],
             "furigana_ids": []
           },
           {
-            "display_index": 41,
+            "display_index": 39,
             "source_ids": [43],
             "furigana_ids": []
           },
           {
-            "display_index": 42,
+            "display_index": 40,
             "source_ids": [44],
             "furigana_ids": []
           },
           {
-            "display_index": 43,
+            "display_index": 41,
             "source_ids": [45],
             "furigana_ids": []
           },
           {
-            "display_index": 44,
+            "display_index": 42,
             "source_ids": [46],
             "furigana_ids": []
           },
           {
-            "display_index": 45,
+            "display_index": 43,
             "source_ids": [47],
             "furigana_ids": []
           },
           {
-            "display_index": 46,
+            "display_index": 44,
+            "source_ids": [50],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 45,
             "source_ids": [51],
             "furigana_ids": []
           },
           {
-            "display_index": 47,
+            "display_index": 46,
             "source_ids": [52],
             "furigana_ids": []
           }
@@ -1427,20 +1427,20 @@
         },
         {
           "text": "※電源スイッチが× (OFF)になっていることを確認してください。\n※音が小さくなって聞きとりにくくなったり、\n音が繰り返し鳴るなどの誤動作をする場合や\nLEDの発光が弱くなった場合は、すべて新しい電池に交換してください。",
-          "translation": "• Confirm that the power switch is × (OFF).\n• If the sound becomes low and difficult to hear, if the sound repeatedly sounds or other malfunction occurs, or if the LED’s illumination becomes weak, replace all batteries with new ones.",
+          "translation": "• Make sure the power switch is × (OFF).\n• If the sound becomes quiet and hard to hear, if the sound repeats or other malfunctions occur, or if the LED light becomes weak, replace all batteries with new ones.",
           "bbox": [0.043199999999999995, 0.06832421875, 0.8744966443061828, 0.10577578125],
           "layout": "panel"
         },
         {
           "text": "①電池ぶたを取り外します。\n①-1 本体背面の電池ぶたの穴を\n先の細い棒などで押しながら、\n①-2 電池ぶたを取り外します。\n②乾電池を入れます。\n単3乾電池3本(別売り)の\n+○をそれぞれ間違えないように\n入れます。\n③電池ぶたを戻します。\n電池ぶたの突起と本体のミゾを合わせ、\n電池ぶたを閉じます。",
-          "translation": "• ① Remove the battery cover.\n• ①-1 While pressing the hole on the back of the main unit with a thin pointed rod or similar,\n• ①-2 remove the battery cover.\n• ② Insert the dry batteries.\n• Insert three AA dry batteries (sold separately), making sure not to reverse the + and − polarities for each battery.\n• ③ Replace the battery cover.\n• Align the projections on the battery cover with the grooves on the main unit and close the battery cover.",
+          "translation": "• 1. Remove the battery cover.\n• 1-1 While pressing the hole in the battery cover on the back of the unit with a thin stick or similar, 1-2 remove the battery cover.\n• 2. Insert the batteries.\n• Insert three AA (LR6) batteries (sold separately), making sure the + and − polarities are correct for each battery.\n• 3. Replace the battery cover.\n• Align the projection on the battery cover with the groove on the unit and close the battery cover.",
           "bbox": [0.04281909695267677, 0.1736, 0.4865809030473232, 0.24299999999999997],
           "layout": "panel"
         },
         {
-          "text": "●アルカリ電池専用",
-          "translation": "For alkaline batteries only",
-          "bbox": [0.06538154488801956, 0.50094140625, 0.22137227791547776, 0.01764843749999989],
+          "text": "単3乾電池3本使用(別売り)\n●アルカリ電池専用",
+          "translation": "• Uses 3 AA batteries (sold separately).\n• Use only alkaline batteries.",
+          "bbox": [0.06538154488801956, 0.46578515625, 0.22151845511198043, 0.05280468749999995],
           "layout": "panel"
         },
         {
@@ -1451,7 +1451,7 @@
         },
         {
           "text": "本体背面の電源スイッチをO(ON)にします。\n→LEDが光り、 「起動音」が鳴ります。",
-          "translation": "• Set the power switch on the rear of the unit to O (ON).\n• The LED lights, and the \"startup sound\" plays.",
+          "translation": "• Set the power switch on the back of the unit to O (ON).\n• The LED lights and the startup sound plays.",
           "bbox": [
             0.043624899595975875, 0.6234000000000001, 0.5251595652401446, 0.04149999999999987
           ],
@@ -1459,7 +1459,7 @@
         },
         {
           "text": "※遊び終わった後は、必ず電源スイッチをX (OFF)にしてください。",
-          "translation": "After you finish playing, be sure to set the power switch to X (OFF).",
+          "translation": "After you finish playing, always set the power switch to X (OFF).",
           "bbox": [0.06538154488801956, 0.9351, 0.5936526967883109, 0.015499999999999847],
           "layout": "panel"
         },
@@ -1482,11 +1482,6 @@
           "text": "ミゾ",
           "translation": "Groove",
           "bbox": [0.5629, 0.3729, 0.0417, 0.0103]
-        },
-        {
-          "text": "1-2",
-          "translation": "1-2",
-          "bbox": [0.6276, 0.3766, 0.0417, 0.0114]
         },
         {
           "text": "(3",
@@ -1514,12 +1509,6 @@
           "bbox": [0.7963, 0.4612, 0.0411, 0.011]
         },
         {
-          "text": "単3乾電池3本使用(別売り)",
-          "translation": "Uses 3AA batteries (sold separately)",
-          "bbox": [0.07289999999999999, 0.4674, 0.214, 0.019100000000000006],
-          "layout": "panel"
-        },
-        {
           "text": "電池ぶた",
           "translation": "Battery cover",
           "bbox": [0.4873, 0.5011, 0.0804, 0.0103]
@@ -1535,11 +1524,6 @@
           "bbox": [0.757, 0.5377, 0.1197, 0.0106]
         },
         {
-          "text": "1-1",
-          "translation": "1-1",
-          "bbox": [0.6614, 0.5601, 0.0363, 0.0103]
-        },
-        {
           "text": "電源スイッチ",
           "translation": "Power switch",
           "bbox": [0.7455, 0.8143, 0.1149, 0.0114]
@@ -1548,11 +1532,6 @@
           "text": "突起",
           "translation": "protrusion",
           "bbox": [0.6566, 0.8718, 0.0411, 0.011]
-        },
-        {
-          "text": "+",
-          "translation": "+",
-          "bbox": [0.9359, 0.407, 0.0169, 0.0125]
         }
       ],
       "image": "pages/page-1.webp",
@@ -1740,7 +1719,7 @@
             {
               "id": "p3",
               "kind": "prose",
-              "source_ids": [20]
+              "source_ids": [19, 20]
             },
             {
               "id": "p4",
@@ -1764,7 +1743,10 @@
               "parent_id": 19
             }
           ],
-          "notes": []
+          "notes": [
+            "Source 6 spans the end of step 1 and start of step 2, so adjacent battery-installation prose was kept together rather than split across steps."
+          ],
+          "native_artwork": [12, 27, 31]
         },
         "mapping": [
           {
@@ -1780,8 +1762,8 @@
             "source_ids": [1],
             "furigana_ids": [],
             "japanese_items": [
-              "※電源スイッチが× (OFF)になっていることを確認してください。",
-              "※音が小さくなって聞きとりにくくなったり、\n音が繰り返し鳴るなどの誤動作をする場合や\nLEDの発光が弱くなった場合は、すべて新しい電池に交換してください。"
+              "※電源スイッチが×（OFF）になっていることを確認してください。",
+              "※音が小さくなって聞きとりにくくなったり、音が繰り返し鳴るなどの誤動作をする場合やLEDの発光が弱くなった場合は、すべて新しい電池に交換してください。"
             ]
           },
           {
@@ -1791,10 +1773,9 @@
             "furigana_ids": [],
             "japanese_items": [
               "①電池ぶたを取り外します。",
-              "①-1 本体背面の電池ぶたの穴を先の細い棒などで押しながら、",
-              "①-2 電池ぶたを取り外します。",
+              "①-1 本体背面の電池ぶたの穴を先の細い棒などで押しながら、\n①-2 電池ぶたを取り外します。",
               "②乾電池を入れます。",
-              "単3乾電池3本(別売り)の+○をそれぞれ間違えないように入れます。",
+              "単3乾電池3本(別売り)の+−をそれぞれ間違えないように入れます。",
               "③電池ぶたを戻します。",
               "電池ぶたの突起と本体のミゾを合わせ、電池ぶたを閉じます。"
             ]
@@ -1802,9 +1783,9 @@
           {
             "display_index": 3,
             "panel_id": "p3",
-            "source_ids": [20],
-            "furigana_ids": [],
-            "japanese_items": ["アルカリ電池専用"]
+            "source_ids": [19, 20],
+            "furigana_ids": [16],
+            "japanese_items": ["単3乾電池3本使用（別売り）", "●アルカリ電池専用"]
           },
           {
             "display_index": 4,
@@ -1820,7 +1801,7 @@
             "furigana_ids": [],
             "japanese_items": [
               "本体背面の電源スイッチをO(ON)にします。",
-              "→LEDが光り、「起動音」が鳴ります。"
+              "LEDが光り、「起動音」が鳴ります。"
             ]
           },
           {
@@ -1828,7 +1809,7 @@
             "panel_id": "p6",
             "source_ids": [29],
             "furigana_ids": [],
-            "japanese_items": ["※遊び終わった後は、必ず電源スイッチをX (OFF)にしてください。"]
+            "japanese_items": ["※遊び終わった後は、必ず電源スイッチをX（OFF）にしてください。"]
           },
           {
             "display_index": 7,
@@ -1851,78 +1832,76 @@
             "furigana_ids": []
           },
           {
-            "display_index": 11,
+            "display_index": -1,
             "source_ids": [12],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 12,
+            "display_index": 11,
             "source_ids": [13],
             "furigana_ids": []
           },
           {
-            "display_index": 13,
+            "display_index": 12,
             "source_ids": [14],
             "furigana_ids": []
           },
           {
-            "display_index": 14,
+            "display_index": 13,
             "source_ids": [15],
             "furigana_ids": []
           },
           {
-            "display_index": 15,
+            "display_index": 14,
             "source_ids": [17],
             "furigana_ids": []
           },
           {
-            "display_index": 16,
+            "display_index": 15,
             "source_ids": [18],
             "furigana_ids": []
           },
           {
-            "display_index": 17,
-            "source_ids": [19],
-            "furigana_ids": [16]
-          },
-          {
-            "display_index": 18,
+            "display_index": 16,
             "source_ids": [21],
             "furigana_ids": []
           },
           {
-            "display_index": 19,
+            "display_index": 17,
             "source_ids": [25],
             "furigana_ids": []
           },
           {
-            "display_index": 20,
+            "display_index": 18,
             "source_ids": [26],
             "furigana_ids": []
           },
           {
-            "display_index": 21,
+            "display_index": -1,
             "source_ids": [27],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 22,
+            "display_index": 19,
             "source_ids": [28],
             "furigana_ids": []
           },
           {
-            "display_index": 23,
+            "display_index": 20,
             "source_ids": [30],
             "furigana_ids": []
           },
           {
-            "display_index": 24,
+            "display_index": -1,
             "source_ids": [31],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           }
         ],
         "uncertainties": [
-          "The printed polarity symbol was read as '+○' in the source; interpreted here as '+' and '−' (plus and minus) polarities."
+          "The original image's polarity symbol was unclear in OCR; translation uses standard + and − polarity marks for the battery instruction."
         ],
         "ocr_lines": [
           {
@@ -2174,27 +2153,38 @@
           "layout": "panel"
         },
         {
+          "text": "①腰回りのサイズに合うように、\nベルト帯(右)のアジャスターの\n位置を調整します。",
+          "translation": "1. Adjust the position of the adjuster on the right belt strap so the belt fits your waist.",
+          "bbox": [
+            0.04040169274806976, 0.04485258391499519, 0.39029830725193027, 0.050447416085004804
+          ],
+          "layout": "panel"
+        },
+        {
           "text": "②ベルト帯 (右)と\nベルト帯(左)の\nアジャスターを\nはめ合わせます。",
-          "translation": "② Fit the adjuster of the right belt into the adjuster of the left belt.",
+          "translation": "② Fit the adjusters of the right and left belt straps together.",
           "bbox": [0.04040169274806976, 0.155, 0.22620710122585297, 0.06770000000000001],
           "layout": "panel"
         },
         {
           "text": "③アジャスターに\nベルト留めを\n図のように\n巻き付けます。",
-          "translation": "③ Wrap the belt retainer around the adjuster as shown in the illustration.",
+          "translation": "3. Wrap the belt fastener around the adjuster as shown.",
           "bbox": [0.04040169274806976, 0.2815, 0.2068678526878357, 0.06769999999999998],
           "layout": "panel"
         },
         {
           "text": "④ベルト帯 (右)にカードホルダーを\n巻きつけます。\nカードホルダー\n【別角度】",
-          "translation": "• ④ Wrap the card holder around the belt strap (right).\n• Card holder [alternate angle]",
+          "translation": "• 4. Wrap the card holder around the right belt strap.\n• Card holder\n• [Alternate view]",
           "bbox": [0.03959589010477066, 0.43, 0.40990410989522935, 0.05880000000000002],
           "layout": "panel"
         },
         {
-          "text": "①腰回りのサイズに合うように、\nベルト帯(右)のアジャスターの\n位置を調整します。",
-          "translation": "① Adjust the position of the adjuster on the belt strap (right) to fit your waist size.",
-          "bbox": [0.0423, 0.0465, 0.3869, 0.0473]
+          "text": "完成!",
+          "translation": "Complete!",
+          "bbox": [
+            0.7978553876876832, 0.9320106611251832, 0.13474461231231682, 0.025889338874816703
+          ],
+          "layout": "panel"
         },
         {
           "text": "ベルト帯 (右)",
@@ -2300,16 +2290,6 @@
           "text": "⑧ベルト帯 (左)にバックルホルダーを\n巻きつけます。",
           "translation": "⑧ Wrap the buckle holder around the belt strap (left).",
           "bbox": [0.5115, 0.6161, 0.4311, 0.0291]
-        },
-        {
-          "text": "BANCA MADE A COM",
-          "translation": "BANCA MADE A COM",
-          "bbox": [0.0593, 0.7669, 0.0641, 0.0023]
-        },
-        {
-          "text": "完成!",
-          "translation": "Complete!",
-          "bbox": [0.8023, 0.9339, 0.1288, 0.0225]
         }
       ],
       "image": "pages/page-2.webp",
@@ -2490,6 +2470,11 @@
               "source_ids": [0]
             },
             {
+              "id": "p1",
+              "kind": "prose",
+              "source_ids": [1]
+            },
+            {
               "id": "p2",
               "kind": "prose",
               "source_ids": [3]
@@ -2503,15 +2488,21 @@
               "id": "p4",
               "kind": "prose",
               "source_ids": [15, 17, 18]
+            },
+            {
+              "id": "p8",
+              "kind": "prose",
+              "source_ids": [32]
             }
           ],
           "furigana": [],
           "notes": [
-            "Panel p1 retained original English after failed automatic checks",
+            "Diagram labels and inset captions left ungrouped. Source 20 and 29 appear to combine diagram step numerals with labels, so left ungrouped rather than prose/native artwork.",
             "Panel p5 retained original English after failed automatic checks",
             "Panel p6 retained original English after failed automatic checks",
             "Panel p7 retained original English after failed automatic checks"
-          ]
+          ],
+          "native_artwork": [31]
         },
         "mapping": [
           {
@@ -2523,147 +2514,155 @@
           },
           {
             "display_index": 1,
-            "panel_id": "p2",
-            "source_ids": [3],
+            "panel_id": "p1",
+            "source_ids": [1],
             "furigana_ids": [],
-            "japanese_items": ["② ベルト帯（右）とベルト帯（左）のアジャスターをはめ合わせます。"]
+            "japanese_items": [
+              "①腰回りのサイズに合うように、ベルト帯(右)のアジャスターの位置を調整します。"
+            ]
           },
           {
             "display_index": 2,
-            "panel_id": "p3",
-            "source_ids": [8, 11, 12, 13],
+            "panel_id": "p2",
+            "source_ids": [3],
             "furigana_ids": [],
-            "japanese_items": ["③アジャスターにベルト留めを図のように巻き付けます。"]
+            "japanese_items": ["②ベルト帯(右)とベルト帯(左)のアジャスターをはめ合わせます。"]
           },
           {
             "display_index": 3,
+            "panel_id": "p3",
+            "source_ids": [8, 11, 12, 13],
+            "furigana_ids": [],
+            "japanese_items": ["③アジャスターに ベルト留めを 図のように 巻き付けます。"]
+          },
+          {
+            "display_index": 4,
             "panel_id": "p4",
             "source_ids": [15, 17, 18],
             "furigana_ids": [],
             "japanese_items": [
-              "④ ベルト帯（右）にカードホルダーを巻きつけます。",
-              "カードホルダー【別角度】"
+              "④ベルト帯 (右)にカードホルダーを巻きつけます。",
+              "カードホルダー",
+              "【別角度】"
             ]
           },
           {
-            "display_index": 4,
-            "source_ids": [1],
-            "furigana_ids": []
+            "display_index": 5,
+            "panel_id": "p8",
+            "source_ids": [32],
+            "furigana_ids": [],
+            "japanese_items": ["完成!"]
           },
           {
-            "display_index": 5,
+            "display_index": 6,
             "source_ids": [2],
             "furigana_ids": []
           },
           {
-            "display_index": 6,
+            "display_index": 7,
             "source_ids": [4],
             "furigana_ids": []
           },
           {
-            "display_index": 7,
+            "display_index": 8,
             "source_ids": [5],
             "furigana_ids": []
           },
           {
-            "display_index": 8,
+            "display_index": 9,
             "source_ids": [6],
             "furigana_ids": []
           },
           {
-            "display_index": 9,
+            "display_index": 10,
             "source_ids": [7],
             "furigana_ids": []
           },
           {
-            "display_index": 10,
+            "display_index": 11,
             "source_ids": [9],
             "furigana_ids": []
           },
           {
-            "display_index": 11,
+            "display_index": 12,
             "source_ids": [10],
             "furigana_ids": []
           },
           {
-            "display_index": 12,
+            "display_index": 13,
             "source_ids": [14],
             "furigana_ids": []
           },
           {
-            "display_index": 13,
+            "display_index": 14,
             "source_ids": [16],
             "furigana_ids": []
           },
           {
-            "display_index": 14,
+            "display_index": 15,
             "source_ids": [19],
             "furigana_ids": []
           },
           {
-            "display_index": 15,
+            "display_index": 16,
             "source_ids": [20],
             "furigana_ids": []
           },
           {
-            "display_index": 16,
+            "display_index": 17,
             "source_ids": [21],
             "furigana_ids": []
           },
           {
-            "display_index": 17,
+            "display_index": 18,
             "source_ids": [22],
             "furigana_ids": []
           },
           {
-            "display_index": 18,
+            "display_index": 19,
             "source_ids": [23],
             "furigana_ids": []
           },
           {
-            "display_index": 19,
+            "display_index": 20,
             "source_ids": [24],
             "furigana_ids": []
           },
           {
-            "display_index": 20,
+            "display_index": 21,
             "source_ids": [25],
             "furigana_ids": []
           },
           {
-            "display_index": 21,
+            "display_index": 22,
             "source_ids": [26],
             "furigana_ids": []
           },
           {
-            "display_index": 22,
+            "display_index": 23,
             "source_ids": [27],
             "furigana_ids": []
           },
           {
-            "display_index": 23,
+            "display_index": 24,
             "source_ids": [28],
             "furigana_ids": []
           },
           {
-            "display_index": 24,
+            "display_index": 25,
             "source_ids": [29],
             "furigana_ids": []
           },
           {
-            "display_index": 25,
+            "display_index": 26,
             "source_ids": [30],
             "furigana_ids": []
           },
           {
-            "display_index": 26,
+            "display_index": -1,
             "source_ids": [31],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 27,
-            "source_ids": [32],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           }
         ],
         "uncertainties": [],
@@ -3008,7 +3007,7 @@
         },
         {
           "text": "底面左ボタンを長押しする度に\n各モードに切り替わります。\n※起動時はグレアモードです。",
-          "translation": "• Each time you long-press the left bottom button, it switches to the next mode.\n• At startup it is in Glare mode.",
+          "translation": "Each time you press and hold the bottom-left button, the unit switches to the next mode. When powered on, it starts in Glare Mode.",
           "bbox": [
             0.041207495391368865, 0.10214842414855957, 0.3656107946038246, 0.10595157585144044
           ],
@@ -3021,6 +3020,20 @@
           "layout": "panel"
         },
         {
+          "text": "グレアモード",
+          "translation": "Glare Mode",
+          "bbox": [0.06296414440870285, 0.627, 0.18511119621992111, 0.052100000000000035],
+          "layout": "panel"
+        },
+        {
+          "text": "ゲイザーモード\nグレア2モード\nグレア2 (ベロバ) モード\nゲイザー (スエル)モード\nジャマトゲイザーモード",
+          "translation": "• Geyser Mode\n• Glare 2 Mode\n• Glare 2 (Beroba) Mode\n• Geyser (Suel) Mode\n• Jamatto Geyser Mode",
+          "bbox": [
+            0.06296414440870285, 0.6784336671829224, 0.2890596254467964, 0.23786633281707747
+          ],
+          "layout": "panel"
+        },
+        {
           "text": "起動音",
           "translation": "Startup sound",
           "bbox": [0.6552284464836121, 0.5785, 0.08387155351638786, 0.029099999999999904],
@@ -3028,7 +3041,7 @@
         },
         {
           "text": "ギロリ 「変身…｡」\nニラム 「変身･･･。」\nチラミ「変･･･身!」\nベロバ「変身。」\nスエル 「変身･･･。」\nクローバージャマト 「ジュラピラ･･･。」",
-          "translation": "• Girori \"Transform...\"\n• Niram \"Transform...\"\n• Chirami \"Tran...sform!\"\n• Beroba \"Transform.\"\n• Suel \"Transform...\"\n• Cloverjamato \"Jurapira...\"",
+          "translation": "• Girori: \"Transform...\"\n• Niram: \"Transform...\"\n• Chirami: \"Trans...form!\"\n• Beroba: \"Transform.\"\n• Sueru: \"Transform...\"\n• Clover Jamato: \"Jurapira...\"",
           "bbox": [0.465865026473999, 0.6258, 0.4147349735260009, 0.2902936965942382],
           "layout": "panel"
         },
@@ -3036,21 +3049,6 @@
           "text": "底面左ボタン",
           "translation": "Bottom-left button",
           "bbox": [0.8222, 0.2209, 0.1203, 0.0199]
-        },
-        {
-          "text": "グレアモード",
-          "translation": "Glare Mode",
-          "bbox": [0.0647, 0.6285, 0.1542, 0.0261]
-        },
-        {
-          "text": "ゲイザーモード\nグレア2モード",
-          "translation": "Gazer Mode\nGlare 2 Mode",
-          "bbox": [0.0647, 0.6801, 0.1814, 0.0784]
-        },
-        {
-          "text": "グレア2 (ベロバ) モード\nゲイザー (スエル)モード\nジャマトゲイザーモード",
-          "translation": "Glare 2 (Beroba) Mode\nGazer (Suel) Mode\nJamatogazer Mode",
-          "bbox": [0.0647, 0.7847, 0.2848, 0.1301]
         }
       ],
       "image": "pages/page-3.webp",
@@ -3126,20 +3124,29 @@
               "source_ids": [3]
             },
             {
-              "id": "p3",
+              "id": "p3-a",
+              "kind": "prose",
+              "source_ids": [4]
+            },
+            {
+              "id": "p3-b",
+              "kind": "prose",
+              "source_ids": [5, 6]
+            },
+            {
+              "id": "p4",
               "kind": "heading",
               "source_ids": [7]
             },
             {
-              "id": "p4",
+              "id": "p5",
               "kind": "prose",
               "source_ids": [8, 9]
             }
           ],
           "furigana": [],
-          "notes": [
-            "Source 2 is a diagram callout label; sources 4–6 are table/product mode labels and left ungrouped."
-          ]
+          "notes": [],
+          "native_artwork": []
         },
         "mapping": [
           {
@@ -3155,8 +3162,7 @@
             "source_ids": [1],
             "furigana_ids": [],
             "japanese_items": [
-              "底面左ボタンを長押しする度に各モードに切り替わります。",
-              "※起動時はグレアモードです。"
+              "底面左ボタンを長押しする度に各モードに切り替わります。※起動時はグレアモードです。"
             ]
           },
           {
@@ -3168,47 +3174,56 @@
           },
           {
             "display_index": 3,
-            "panel_id": "p3",
+            "panel_id": "p3-a",
+            "source_ids": [4],
+            "furigana_ids": [],
+            "japanese_items": ["グレアモード"]
+          },
+          {
+            "display_index": 4,
+            "panel_id": "p3-b",
+            "source_ids": [5, 6],
+            "furigana_ids": [],
+            "japanese_items": [
+              "ゲイザーモード",
+              "グレア2モード",
+              "グレア2 (ベロバ) モード",
+              "ゲイザー (スエル) モード",
+              "ジャマトゲイザーモード"
+            ]
+          },
+          {
+            "display_index": 5,
+            "panel_id": "p4",
             "source_ids": [7],
             "furigana_ids": [],
             "japanese_items": ["起動音"]
           },
           {
-            "display_index": 4,
-            "panel_id": "p4",
+            "display_index": 6,
+            "panel_id": "p5",
             "source_ids": [8, 9],
             "furigana_ids": [],
             "japanese_items": [
               "ギロリ「変身･･･。」",
               "ニラム「変身･･･。」",
-              "チラミ「変･･･身!」",
+              "チラミ「変・・・身!」",
               "ベロバ「変身。」",
               "スエル「変身･･･。」",
               "クローバージャマト「ジュラピラ･･･。」"
             ]
           },
           {
-            "display_index": 5,
-            "source_ids": [2],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 6,
-            "source_ids": [4],
-            "furigana_ids": []
-          },
-          {
             "display_index": 7,
-            "source_ids": [5],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 8,
-            "source_ids": [6],
+            "source_ids": [2],
             "furigana_ids": []
           }
         ],
-        "uncertainties": [],
+        "uncertainties": [
+          "ベロバ is romanized here as \"Beroba\" but may be a character/name with a different preferred English spelling.",
+          "スエル is romanized here as \"Suel\" but may have an alternate English spelling.",
+          "ジャマト is romanized here as \"Jamatto\"; other spellings (e.g., Jamato) may be used in official English materials."
+        ],
         "ocr_lines": [
           {
             "id": 0,
@@ -3357,14 +3372,8 @@
       "blocks": [
         {
           "text": "キャストボイス一覧表\n底面左ボタンを押す度に\n台詞が鳴ります。",
-          "translation": "• Cast Voice List\n• Each time you press the left button on the bottom, a line of dialogue will play.",
+          "translation": "Cast Voice List\nEach time you press the bottom-left button, a line will play.",
           "bbox": [0.039, 0.011600000000000001, 0.2938, 0.035800000000000005],
-          "layout": "panel"
-        },
-        {
-          "text": "グレアモード",
-          "translation": "Glare Mode",
-          "bbox": [0.42154593324661255, 0.1568, 0.1585540667533874, 0.010469398212432868],
           "layout": "panel"
         },
         {
@@ -3382,21 +3391,15 @@
           "layout": "panel"
         },
         {
+          "text": "グレアモード",
+          "translation": "Glare Mode",
+          "bbox": [0.42154593324661255, 0.1568, 0.1585540667533874, 0.010469398212432868],
+          "layout": "panel"
+        },
+        {
           "text": "君は既に脱落した身だ。仮面ライダーの資格は無い。",
-          "translation": "• You have already been eliminated.\n• You are not qualified to be a Kamen Rider.",
+          "translation": "You have already been eliminated. You are not qualified to be a Kamen Rider.",
           "bbox": [0.06054673647880554, 0.2225, 0.4204532635211945, 0.007500000000000007],
-          "layout": "panel"
-        },
-        {
-          "text": "やってくれたな。\n10 必要になったら言ってくれ。 私は君の味方だ。\n11 消えて貰おう。\n12 愚かな。 理想の世界を叶えるチャンスを棒に振るとは・・・。 お前たちは… 強制退場だ!\n13 ジャマトは今も成長し続けている。私が仕切らないで・・・あいつらとどう対抗するって言うんだ!\n14 このドライバーの権限は返してもらう。",
-          "translation": "• 9 You did it.\n• 10 Tell me if you need anything. I am on your side.\n• 11 Be gone.\n• 12 Foolish. To throw away the chance to realize the ideal world... You are... forcibly removed!\n• 13 Jamato is still continuing to grow. If I don't take charge... how do you expect to stand up to those guys!\n• 14 Have the authority of this Driver returned to me.",
-          "bbox": [0.06054673647880554, 0.2295, 0.7112997858524321, 0.03983311367034911],
-          "layout": "panel"
-        },
-        {
-          "text": "ゲイザーモード",
-          "translation": "Gazer Mode",
-          "bbox": [0.4078, 0.2736, 0.18515849943161006, 0.01076227583885192],
           "layout": "panel"
         },
         {
@@ -3412,6 +3415,12 @@
           "layout": "panel"
         },
         {
+          "text": "ゲイザーモード",
+          "translation": "Gazer Mode",
+          "bbox": [0.4078, 0.2736, 0.18515849943161006, 0.01076227583885192],
+          "layout": "panel"
+        },
+        {
           "text": "もはや偶然のフィクションにあらず。 あぁ・・・。 君の存在こそがリアリティ。",
           "translation": "No longer a mere fiction of coincidence. Ah... Your very existence is reality.",
           "bbox": [0.100031021296978, 0.3133, 0.511568978703022, 0.007099999999999995],
@@ -3419,7 +3428,7 @@
         },
         {
           "text": "ならば…実力行使に出るしかない。",
-          "translation": "In that case... there's no choice but to resort to force.",
+          "translation": "Then there's no choice but to use force.",
           "bbox": [
             0.100031021296978, 0.3197202787399292, 0.25396897870302204, 0.007379721260070804
           ],
@@ -3429,12 +3438,6 @@
           "text": "君たちが知る必要はない。\nノーコメントだ。",
           "translation": "• You don't need to know.\n• No comment.",
           "bbox": [0.100031021296978, 0.3266, 0.19406897870302203, 0.013841216468811035],
-          "layout": "panel"
-        },
-        {
-          "text": "グレア2モード",
-          "translation": "Glare 2 Mode",
-          "bbox": [0.4108, 0.410343866109848, 0.17974111385345454, 0.010626742124557498],
           "layout": "panel"
         },
         {
@@ -3452,20 +3455,26 @@
           "layout": "panel"
         },
         {
+          "text": "グレア2モード",
+          "translation": "Glare 2 Mode",
+          "bbox": [0.4108, 0.410343866109848, 0.17974111385345454, 0.010626742124557498],
+          "layout": "panel"
+        },
+        {
           "text": "オーディエンスを退屈させたらゲームマスターとしての私の評価に関わるのよ!\n手加減は…無しで行くわよ。",
-          "translation": "• If I bore the audience, it will affect my evaluation as a game master!\n• I won't go easy on you.",
+          "translation": "• If I bore the audience, it will affect my rating as the Game Master!\n• I won't go easy—no holding back.",
           "bbox": [0.1008368239402771, 0.45, 0.6927663474082946, 0.01369999999999999],
           "layout": "panel"
         },
         {
           "text": "･･･勝負!ヘーヘッヘッヘッ♪",
-          "translation": "…Game on! Heh heh heh heh♪",
+          "translation": "Game on! Heh heh heh heh ♪",
           "bbox": [0.1001, 0.46305809473991394, 0.19632345452308655, 0.007841905260086046],
           "layout": "panel"
         },
         {
           "text": "グイングイン♪グイングイン♪グイングイン♪ お~とっとっとっとっ・・・ ヤァッ! 危ないじゃないの!",
-          "translation": "• Gwin-gwin ♪ Gwin-gwin ♪ Gwin-gwin ♪\n• Whoa — whoa whoa whoa…\n• Yah! That's dangerous, you know!",
+          "translation": "Gwing-gwing♪ Gwing-gwing♪ Gwing-gwing♪ Whoa—whoa—whoa... Hey! That's dangerous!",
           "bbox": [0.06054673647880554, 0.4695, 0.7335532635211943, 0.007400000000000018],
           "layout": "panel"
         },
@@ -3491,7 +3500,7 @@
         },
         {
           "text": "あんたはどうでもいいのよ。 あたしが欲しかったのは、 これ。 そう。 創世の女神。\nそしてこのヴィジョンドライバーは、創世の女神にアクセスするための鍵・・・でしょ?",
-          "translation": "I don't care about you. What I wanted was this. Yes. The Goddess of Creation. And this Vision Driver is the key to accessing the Goddess of Creation... right?",
+          "translation": "• I don't care about you.\n• What I wanted was this.\n• Yes. The Goddess of Creation.\n• And this Vision Driver is the key to access the Goddess of Creation... right?",
           "bbox": [
             0.1008368239402771, 0.5477000000000001, 0.5874631760597229, 0.013299999999999979
           ],
@@ -3505,7 +3514,7 @@
         },
         {
           "text": "フフフッ・・・。 さあそこの寝ぼすけさんもやっちゃいなさい。そこで見てなさい。 推しの死に様を。",
-          "translation": "• Fufufu...\n• Now, you sleepyhead over there, go ahead and do it too.\n• Stand there and watch.\n• Watch the way your favorite dies.",
+          "translation": "• Fufufu...\n• Now then, you sleepyhead over there—do it too.\n• Stand there and watch.\n• Watch how your favorite dies.",
           "bbox": [
             0.06054673647880554, 0.5999000000000001, 0.7142532635211944, 0.006999999999999895
           ],
@@ -3513,16 +3522,10 @@
         },
         {
           "text": "アハハハッ!こんな不幸なことはないわ。ゾグソクする~! アハハハハッ!",
-          "translation": "Ahahaha! There is no misfortune like this. It makes me shiver! Ahahahaha!",
+          "translation": "Ahahaha! There's no misfortune like this. Zogusoku~! Ahahahaha!",
           "bbox": [
             0.06054673647880554, 0.6063959107398987, 0.5839830725193023, 0.0071040892601013095
           ],
-          "layout": "panel"
-        },
-        {
-          "text": "ゲイザー (スエル) モード",
-          "translation": "Gazer (Suel) Mode",
-          "bbox": [0.3562759861946106, 0.7035, 0.28912401380538927, 0.011100016117095879],
           "layout": "panel"
         },
         {
@@ -3535,6 +3538,12 @@
           "text": "台詞",
           "translation": "Lines",
           "bbox": [0.5045434937477112, 0.7165, 0.031456506252288685, 0.007199999999999873],
+          "layout": "panel"
+        },
+        {
+          "text": "ゲイザー (スエル) モード",
+          "translation": "Gazer (Suel) Mode",
+          "bbox": [0.3562759861946106, 0.7035, 0.28912401380538927, 0.011100016117095879],
           "layout": "panel"
         },
         {
@@ -3569,16 +3578,10 @@
         },
         {
           "text": "せいぜい人生最期のひと時を過ごすがいい。 フフハハハハハッ!",
-          "translation": "You might as well spend the final moments of your life. Fufuhahahahaha!",
+          "translation": "Make the most of the last moments of your life. Fuhahahahahaha!",
           "bbox": [
             0.1008368239402771, 0.9063000000000001, 0.4816462783813476, 0.007099999999999884
           ],
-          "layout": "panel"
-        },
-        {
-          "text": "8 浮世英寿･･･。 まだ創世の力が残っていたとは・・・。 だが、今更現れてももう遅い。 仮面ライダーは…全員処刑する。\n9 人類ジャマト化計画は既に進行している。既に各地にジャマトがばら撒かれている。 お前らに救うことはできない。\n10 己の無力さに打ちひしがれるがいい。\n11 おのれ仮面ライダー。ブーストの力がこれ程のものとは。 ならば力づくで仕留めるまで。\n12 復讐の邪魔をするな!\n13 ジャマトが人類に取って代わるんだ!\n14 そんな馬鹿な・・・。人類ごときが･･･! ぐわああッ!",
-          "translation": "• 8 Ukyo Hidetoshi... So some of the power of creation still remained... But it's too late now that you've appeared. Kamen Rider... will all be executed.\n• 9 The plan to turn humanity into Jamato is already underway. Jamato have already been scattered across various locations. We cannot save you.\n• 10 Be crushed by your own helplessness.\n• 11 Curse you, Kamen Rider. So Boost's power is of this magnitude. Then I will finish you by force.\n• 12 Do not interfere with my revenge!\n• 13 The Jamato will take the place of humanity!\n• 14 That can't be... Mere humans...! Gwaaah!",
-          "bbox": [0.06054673647880554, 0.9322, 0.8472532635211945, 0.04699999999999982],
           "layout": "panel"
         },
         {
@@ -3595,6 +3598,31 @@
           "text": "浮世英寿･･･。 お前はゲームオーバーだ。(コアIDが消える音) (英寿が消える音) (RETIRED)",
           "translation": "Ukiyo Hidetoshi... You are game over. (Sound: Core ID disappearing) (Sound: Hidetoshi disappearing) (RETIRED)",
           "bbox": [0.1022, 0.2174, 0.6578, 0.0045]
+        },
+        {
+          "text": "やってくれたな。",
+          "translation": "You did it.",
+          "bbox": [0.1028, 0.231, 0.1161, 0.0037]
+        },
+        {
+          "text": "10 必要になったら言ってくれ。 私は君の味方だ。",
+          "translation": "10. Tell me if you need anything. I am on your side.",
+          "bbox": [0.0623, 0.2373, 0.3597, 0.0044]
+        },
+        {
+          "text": "11 消えて貰おう。",
+          "translation": "11. I'll make you disappear.",
+          "bbox": [0.0629, 0.2436, 0.1439, 0.0045]
+        },
+        {
+          "text": "12 愚かな。 理想の世界を叶えるチャンスを棒に振るとは・・・。 お前たちは… 強制退場だ!\n13 ジャマトは今も成長し続けている。私が仕切らないで・・・あいつらとどう対抗するって言うんだ!",
+          "translation": "12. How foolish. To throw away a chance to realize your ideal world... You are to be forcibly removed!\n13. Jamat continues to grow even now. If I don't take the lead... how are we supposed to oppose them?!",
+          "bbox": [0.0629, 0.2504, 0.7068, 0.0109]
+        },
+        {
+          "text": "14 このドライバーの権限は返してもらう。",
+          "translation": "14. I will have the authority of this Driver returned to me.",
+          "bbox": [0.0623, 0.2635, 0.3156, 0.0042]
         },
         {
           "text": "1 デザイアグランプリ･･･ 新シリーズの幕開けだ!\n2 興味があるんだよ。 この世界のリアルに。",
@@ -3745,6 +3773,26 @@
           "text": "5 四葉のクローバーの花言葉には••• \"復讐\"という意味もあるんだよ。\n6 お前らに世界は救えない。 この俺に創世の力がある限りな。\n7 無駄だ。奴は帰ってこない。",
           "translation": "5. The four‑leaf clover's flower language even includes 'revenge.'\n6. You cannot save the world, not as long as I hold the power of creation.\n7. Futile. He will not return.",
           "bbox": [0.0653, 0.9144, 0.5157, 0.0177]
+        },
+        {
+          "text": "8 浮世英寿･･･。 まだ創世の力が残っていたとは・・・。 だが、今更現れてももう遅い。 仮面ライダーは…全員処刑する。\n9 人類ジャマト化計画は既に進行している。既に各地にジャマトがばら撒かれている。 お前らに救うことはできない。\n10 己の無力さに打ちひしがれるがいい。\n11 おのれ仮面ライダー。ブーストの力がこれ程のものとは。 ならば力づくで仕留めるまで。",
+          "translation": "8. Ukiyo Hidetoshi... So you still had the power of creation... But it's too late for you to show up now. All Kamen Riders will be executed.\n9. The plan to Jamato‑ize humanity is already in progress. Jamato has already been scattered across the land. You cannot save them.\n10. Be crushed by your own helplessness.\n11. Damn you, Kamen Rider. I did not expect Boost's power to be this much. Then I will take you down by force until you are finished.",
+          "bbox": [0.0623, 0.9337, 0.844, 0.0244]
+        },
+        {
+          "text": "12 復讐の邪魔をするな!",
+          "translation": "12. Do not interfere with my revenge!",
+          "bbox": [0.0629, 0.9603, 0.1935, 0.0042]
+        },
+        {
+          "text": "13 ジャマトが人類に取って代わるんだ!",
+          "translation": "13. Jamato will supplant humanity!",
+          "bbox": [0.0623, 0.9663, 0.2981, 0.0047]
+        },
+        {
+          "text": "14 そんな馬鹿な・・・。人類ごときが･･･! ぐわああッ!",
+          "translation": "14. That's impossible... Mere humans...! Gwahhh!",
+          "bbox": [0.0623, 0.9732, 0.3597, 0.0045]
         }
       ],
       "image": "pages/page-4.webp",
@@ -4141,23 +4189,23 @@
           "panels": [
             {
               "id": "p0",
-              "kind": "prose",
+              "kind": "heading",
               "source_ids": [0]
             },
             {
-              "id": "p1",
-              "kind": "heading",
-              "source_ids": [2]
-            },
-            {
-              "id": "p2-a",
+              "id": "p1-a",
               "kind": "heading",
               "source_ids": [1]
             },
             {
-              "id": "p2-b",
+              "id": "p1-b",
               "kind": "heading",
               "source_ids": [3]
+            },
+            {
+              "id": "p2",
+              "kind": "heading",
+              "source_ids": [2]
             },
             {
               "id": "p3-a-b-b",
@@ -4165,24 +4213,19 @@
               "source_ids": [7]
             },
             {
-              "id": "p3-b",
-              "kind": "prose",
-              "source_ids": [8, 9, 10, 11, 12]
-            },
-            {
-              "id": "p4",
-              "kind": "heading",
-              "source_ids": [14]
-            },
-            {
-              "id": "p5-a",
+              "id": "p4-a",
               "kind": "heading",
               "source_ids": [13]
             },
             {
-              "id": "p5-b",
+              "id": "p4-b",
               "kind": "heading",
               "source_ids": [15]
+            },
+            {
+              "id": "p5",
+              "kind": "heading",
+              "source_ids": [14]
             },
             {
               "id": "p6-a-b-a",
@@ -4200,19 +4243,19 @@
               "source_ids": [20, 21]
             },
             {
-              "id": "p7",
-              "kind": "heading",
-              "source_ids": [26]
-            },
-            {
-              "id": "p8-a",
+              "id": "p7-a",
               "kind": "heading",
               "source_ids": [25]
             },
             {
-              "id": "p8-b",
+              "id": "p7-b",
               "kind": "heading",
               "source_ids": [27]
+            },
+            {
+              "id": "p8",
+              "kind": "heading",
+              "source_ids": [26]
             },
             {
               "id": "p9-a-b-b",
@@ -4265,19 +4308,19 @@
               "source_ids": [49]
             },
             {
-              "id": "p13",
-              "kind": "heading",
-              "source_ids": [54]
-            },
-            {
-              "id": "p14-a",
+              "id": "p13-a",
               "kind": "heading",
               "source_ids": [53]
             },
             {
-              "id": "p14-b",
+              "id": "p13-b",
               "kind": "heading",
               "source_ids": [55]
+            },
+            {
+              "id": "p14",
+              "kind": "heading",
+              "source_ids": [54]
             },
             {
               "id": "p15-a-b-a",
@@ -4303,21 +4346,16 @@
               "id": "p18-a-b-a",
               "kind": "prose",
               "source_ids": [71]
-            },
-            {
-              "id": "p18-b",
-              "kind": "prose",
-              "source_ids": [73, 74, 75, 76]
             }
           ],
           "furigana": [],
           "notes": [
-            "Source 0 combines the page title and introductory instruction in one OCR region, so it cannot be separated into heading/body panels by source ID.",
-            "Source 45 is a diagram label and is left ungrouped.",
+            "Source 0 contains both the page heading and introductory instruction in one OCR region, so it is kept together.",
             "Retained p12 source IDs [50, 51, 52] unchanged: illustration-mask check",
             "Retained p18 source IDs [70] unchanged: illustration-mask check",
             "Panel p3-a-a retained original English after failed automatic checks",
             "Panel p3-a-b-a retained original English after failed automatic checks",
+            "Panel p3-b retained original English after failed automatic checks",
             "Panel p6-a-a retained original English after failed automatic checks",
             "Panel p6-b-b-a retained original English after failed automatic checks",
             "Panel p6-b-b-b retained original English after failed automatic checks",
@@ -4329,8 +4367,10 @@
             "Panel p15-a-b-b-a retained original English after failed automatic checks",
             "Panel p15-a-b-b-b retained original English after failed automatic checks",
             "Panel p15-b retained original English after failed automatic checks",
-            "Panel p18-a-b-b retained original English after failed automatic checks"
-          ]
+            "Panel p18-a-b-b retained original English after failed automatic checks",
+            "Panel p18-b retained original English after failed automatic checks"
+          ],
+          "native_artwork": []
         },
         "mapping": [
           {
@@ -4338,117 +4378,103 @@
             "panel_id": "p0",
             "source_ids": [0],
             "furigana_ids": [],
-            "japanese_items": ["キャストボイス一覧表", "底面左ボタンを押す度に台詞が鳴ります。"]
+            "japanese_items": ["キャストボイス一覧表\n底面左ボタンを押す度に\n台詞が鳴ります。"]
           },
           {
             "display_index": 1,
-            "panel_id": "p1",
-            "source_ids": [2],
-            "furigana_ids": [],
-            "japanese_items": ["グレアモード"]
-          },
-          {
-            "display_index": 2,
-            "panel_id": "p2-a",
+            "panel_id": "p1-a",
             "source_ids": [1],
             "furigana_ids": [],
             "japanese_items": ["番号"]
           },
           {
-            "display_index": 3,
-            "panel_id": "p2-b",
+            "display_index": 2,
+            "panel_id": "p1-b",
             "source_ids": [3],
             "furigana_ids": [],
             "japanese_items": ["台詞"]
+          },
+          {
+            "display_index": 3,
+            "panel_id": "p2",
+            "source_ids": [2],
+            "furigana_ids": [],
+            "japanese_items": ["グレアモード"]
           },
           {
             "display_index": 4,
             "panel_id": "p3-a-b-b",
             "source_ids": [7],
             "furigana_ids": [],
-            "japanese_items": ["君は既に脱落した身だ。", "仮面ライダーの資格は無い。"]
+            "japanese_items": ["君は既に脱落した身だ。仮面ライダーの資格は無い。"]
           },
           {
             "display_index": 5,
-            "panel_id": "p3-b",
-            "source_ids": [8, 9, 10, 11, 12],
-            "furigana_ids": [],
-            "japanese_items": [
-              "9 やってくれたな。",
-              "10 必要になったら言ってくれ。私は君の味方だ。",
-              "11 消えて貰おう。",
-              "12 愚かな。理想の世界を叶えるチャンスを棒に振るとは・・・。お前たちは…強制退場だ!",
-              "13 ジャマトは今も成長し続けている。私が仕切らないで・・・あいつらとどう対抗するって言うんだ!",
-              "14 このドライバーの権限は返してもらう。"
-            ]
-          },
-          {
-            "display_index": 6,
-            "panel_id": "p4",
-            "source_ids": [14],
-            "furigana_ids": [],
-            "japanese_items": ["ゲイザーモード"]
-          },
-          {
-            "display_index": 7,
-            "panel_id": "p5-a",
+            "panel_id": "p4-a",
             "source_ids": [13],
             "furigana_ids": [],
             "japanese_items": ["番号"]
           },
           {
-            "display_index": 8,
-            "panel_id": "p5-b",
+            "display_index": 6,
+            "panel_id": "p4-b",
             "source_ids": [15],
             "furigana_ids": [],
             "japanese_items": ["台詞"]
           },
           {
-            "display_index": 9,
+            "display_index": 7,
+            "panel_id": "p5",
+            "source_ids": [14],
+            "furigana_ids": [],
+            "japanese_items": ["ゲイザーモード"]
+          },
+          {
+            "display_index": 8,
             "panel_id": "p6-a-b-a",
             "source_ids": [18],
             "furigana_ids": [],
             "japanese_items": [
-              "もはや偶然のフィクションにあらず。 あぁ・・・。 君の存在こそがリアリティ。"
+              "もはや偶然のフィクションにあらず。あぁ・・・。君の存在こそがリアリティ。"
             ]
           },
           {
-            "display_index": 10,
+            "display_index": 9,
             "panel_id": "p6-a-b-b",
             "source_ids": [19],
             "furigana_ids": [],
             "japanese_items": ["ならば…実力行使に出るしかない。"]
           },
           {
-            "display_index": 11,
+            "display_index": 10,
             "panel_id": "p6-b-a",
             "source_ids": [20, 21],
             "furigana_ids": [],
             "japanese_items": ["君たちが知る必要はない。", "ノーコメントだ。"]
           },
           {
-            "display_index": 12,
-            "panel_id": "p7",
-            "source_ids": [26],
-            "furigana_ids": [],
-            "japanese_items": ["グレア2モード"]
-          },
-          {
-            "display_index": 13,
-            "panel_id": "p8-a",
+            "display_index": 11,
+            "panel_id": "p7-a",
             "source_ids": [25],
             "furigana_ids": [],
             "japanese_items": ["番号"]
           },
           {
-            "display_index": 14,
-            "panel_id": "p8-b",
+            "display_index": 12,
+            "panel_id": "p7-b",
             "source_ids": [27],
             "furigana_ids": [],
             "japanese_items": ["台詞"]
           },
           {
-            "display_index": 15,
+            "display_index": 13,
+            "panel_id": "p8",
+            "source_ids": [26],
+            "furigana_ids": [],
+            "japanese_items": ["グレア2モード"]
+          },
+          {
+            "display_index": 14,
             "panel_id": "p9-a-b-b",
             "source_ids": [31, 32],
             "furigana_ids": [],
@@ -4458,62 +4484,63 @@
             ]
           },
           {
-            "display_index": 16,
+            "display_index": 15,
             "panel_id": "p9-b-a-a",
             "source_ids": [33],
             "furigana_ids": [],
             "japanese_items": ["･･･勝負!ヘーヘッヘッヘッ♪"]
           },
           {
-            "display_index": 17,
+            "display_index": 16,
             "panel_id": "p9-b-a-b",
             "source_ids": [35],
             "furigana_ids": [],
             "japanese_items": [
-              "グイングイン♪グイングイン♪グイングイン♪",
-              "お〜とっとっとっとっ・・・",
-              "ヤァッ! 危ないじゃないの!"
+              "グイングイン♪グイングイン♪グイングイン♪ お〜とっとっとっとっ・・・ ヤァッ! 危ないじゃないの!"
             ]
           },
           {
-            "display_index": 18,
+            "display_index": 17,
             "panel_id": "p10",
             "source_ids": [38],
             "furigana_ids": [],
             "japanese_items": ["グレア2 (ベロバ) モード"]
           },
           {
-            "display_index": 19,
+            "display_index": 18,
             "panel_id": "p11-a",
             "source_ids": [39],
             "furigana_ids": [],
             "japanese_items": ["番号"]
           },
           {
-            "display_index": 20,
+            "display_index": 19,
             "panel_id": "p11-b",
             "source_ids": [40],
             "furigana_ids": [],
             "japanese_items": ["台詞"]
           },
           {
-            "display_index": 21,
+            "display_index": 20,
             "panel_id": "p12-a-a",
             "source_ids": [41, 42],
             "furigana_ids": [],
             "japanese_items": [
-              "あんたはどうでもいいのよ。あたしが欲しかったのは、これ。そう。創世の女神。そしてこのヴィジョンドライバーは、創世の女神にアクセスするための鍵･･･でしょ?"
+              "あんたはどうでもいいのよ。",
+              "あたしが欲しかったのは、これ。",
+              "そう。創世の女神。",
+              "そしてこのヴィジョンドライバーは、創世の女神にアクセスするための鍵･･･でしょ?"
             ]
           },
           {
-            "display_index": 22,
+            "display_index": 21,
             "panel_id": "p12-b-a-a",
             "source_ids": [47],
             "furigana_ids": [],
             "japanese_items": ["レッドカード。あなたは退場よジーン。"]
           },
           {
-            "display_index": 23,
+            "display_index": 22,
             "panel_id": "p12-b-a-b-a",
             "source_ids": [48],
             "furigana_ids": [],
@@ -4525,259 +4552,284 @@
             ]
           },
           {
-            "display_index": 24,
+            "display_index": 23,
             "panel_id": "p12-b-a-b-b",
             "source_ids": [49],
             "furigana_ids": [],
-            "japanese_items": ["アハハハッ!こんな不幸なことはないわ。ゾグソクする~!アハハハハッ!"]
+            "japanese_items": ["アハハハッ!こんな不幸なことはないわ。ゾグソクする~! アハハハハッ!"]
           },
           {
-            "display_index": 25,
-            "panel_id": "p13",
-            "source_ids": [54],
-            "furigana_ids": [],
-            "japanese_items": ["ゲイザー (スエル) モード"]
-          },
-          {
-            "display_index": 26,
-            "panel_id": "p14-a",
+            "display_index": 24,
+            "panel_id": "p13-a",
             "source_ids": [53],
             "furigana_ids": [],
             "japanese_items": ["番号"]
           },
           {
-            "display_index": 27,
-            "panel_id": "p14-b",
+            "display_index": 25,
+            "panel_id": "p13-b",
             "source_ids": [55],
             "furigana_ids": [],
             "japanese_items": ["台詞"]
           },
           {
-            "display_index": 28,
+            "display_index": 26,
+            "panel_id": "p14",
+            "source_ids": [54],
+            "furigana_ids": [],
+            "japanese_items": ["ゲイザー (スエル) モード"]
+          },
+          {
+            "display_index": 27,
             "panel_id": "p15-a-b-a",
             "source_ids": [58],
             "furigana_ids": [],
             "japanese_items": [
-              "デザイアグランプリが存在する世界か･･･。",
-              "あるいは･･･存在しない世界か。"
+              "デザイアグランプリが存在する世界か・・・。",
+              "あるいは・・・存在しない世界か。"
             ]
           },
           {
-            "display_index": 29,
+            "display_index": 28,
             "panel_id": "p16",
             "source_ids": [67],
             "furigana_ids": [],
             "japanese_items": ["ジャマトゲイザーモード"]
           },
           {
-            "display_index": 30,
+            "display_index": 29,
             "panel_id": "p17-a",
             "source_ids": [68],
             "furigana_ids": [],
             "japanese_items": ["番号"]
           },
           {
-            "display_index": 31,
+            "display_index": 30,
             "panel_id": "p17-b",
             "source_ids": [69],
             "furigana_ids": [],
             "japanese_items": ["台詞"]
           },
           {
-            "display_index": 32,
+            "display_index": 31,
             "panel_id": "p18-a-b-a",
             "source_ids": [71],
             "furigana_ids": [],
             "japanese_items": ["せいぜい人生最期のひと時を過ごすがいい。フフハハハハハッ!"]
           },
           {
-            "display_index": 33,
-            "panel_id": "p18-b",
-            "source_ids": [73, 74, 75, 76],
-            "furigana_ids": [],
-            "japanese_items": [
-              "8 浮世英寿･･･。まだ創世の力が残っていたとは・・・。だが、今更現れてももう遅い。仮面ライダーは･･･全員処刑する。",
-              "9 人類ジャマト化計画は既に進行している。既に各地にジャマトがばら撒かれている。お前らに救うことはできない。",
-              "10 己の無力さに打ちひしがれるがいい。",
-              "11 おのれ仮面ライダー。ブーストの力がこれ程のものとは。ならば力づくで仕留めるまで。",
-              "12 復讐の邪魔をするな!",
-              "13 ジャマトが人類に取って代わるんだ!",
-              "14 そんな馬鹿な･･･。人類ごときが･･･!ぐわぁあッ!"
-            ]
-          },
-          {
-            "display_index": 34,
+            "display_index": 32,
             "source_ids": [4],
             "furigana_ids": []
           },
           {
-            "display_index": 35,
+            "display_index": 33,
             "source_ids": [5],
             "furigana_ids": []
           },
           {
-            "display_index": 36,
+            "display_index": 34,
             "source_ids": [6],
             "furigana_ids": []
           },
           {
+            "display_index": 35,
+            "source_ids": [8],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 36,
+            "source_ids": [9],
+            "furigana_ids": []
+          },
+          {
             "display_index": 37,
-            "source_ids": [16],
+            "source_ids": [10],
             "furigana_ids": []
           },
           {
             "display_index": 38,
-            "source_ids": [17],
+            "source_ids": [11],
             "furigana_ids": []
           },
           {
             "display_index": 39,
-            "source_ids": [22],
+            "source_ids": [12],
             "furigana_ids": []
           },
           {
             "display_index": 40,
-            "source_ids": [23],
+            "source_ids": [16],
             "furigana_ids": []
           },
           {
             "display_index": 41,
-            "source_ids": [24],
+            "source_ids": [17],
             "furigana_ids": []
           },
           {
             "display_index": 42,
-            "source_ids": [28],
+            "source_ids": [22],
             "furigana_ids": []
           },
           {
             "display_index": 43,
-            "source_ids": [29],
+            "source_ids": [23],
             "furigana_ids": []
           },
           {
             "display_index": 44,
-            "source_ids": [30],
+            "source_ids": [24],
             "furigana_ids": []
           },
           {
             "display_index": 45,
-            "source_ids": [34],
+            "source_ids": [28],
             "furigana_ids": []
           },
           {
             "display_index": 46,
-            "source_ids": [36],
+            "source_ids": [29],
             "furigana_ids": []
           },
           {
             "display_index": 47,
-            "source_ids": [37],
+            "source_ids": [30],
             "furigana_ids": []
           },
           {
             "display_index": 48,
-            "source_ids": [43],
+            "source_ids": [34],
             "furigana_ids": []
           },
           {
             "display_index": 49,
-            "source_ids": [44],
+            "source_ids": [36],
             "furigana_ids": []
           },
           {
             "display_index": 50,
-            "source_ids": [45],
+            "source_ids": [37],
             "furigana_ids": []
           },
           {
             "display_index": 51,
-            "source_ids": [46],
+            "source_ids": [43],
             "furigana_ids": []
           },
           {
             "display_index": 52,
-            "source_ids": [50],
+            "source_ids": [44],
             "furigana_ids": []
           },
           {
             "display_index": 53,
-            "source_ids": [51],
+            "source_ids": [45],
             "furigana_ids": []
           },
           {
             "display_index": 54,
-            "source_ids": [52],
+            "source_ids": [46],
             "furigana_ids": []
           },
           {
             "display_index": 55,
-            "source_ids": [56],
+            "source_ids": [50],
             "furigana_ids": []
           },
           {
             "display_index": 56,
-            "source_ids": [57],
+            "source_ids": [51],
             "furigana_ids": []
           },
           {
             "display_index": 57,
-            "source_ids": [59],
+            "source_ids": [52],
             "furigana_ids": []
           },
           {
             "display_index": 58,
-            "source_ids": [60],
+            "source_ids": [56],
             "furigana_ids": []
           },
           {
             "display_index": 59,
-            "source_ids": [61],
+            "source_ids": [57],
             "furigana_ids": []
           },
           {
             "display_index": 60,
-            "source_ids": [62],
+            "source_ids": [59],
             "furigana_ids": []
           },
           {
             "display_index": 61,
-            "source_ids": [63],
+            "source_ids": [60],
             "furigana_ids": []
           },
           {
             "display_index": 62,
-            "source_ids": [64],
+            "source_ids": [61],
             "furigana_ids": []
           },
           {
             "display_index": 63,
-            "source_ids": [65],
+            "source_ids": [62],
             "furigana_ids": []
           },
           {
             "display_index": 64,
-            "source_ids": [66],
+            "source_ids": [63],
             "furigana_ids": []
           },
           {
             "display_index": 65,
-            "source_ids": [70],
+            "source_ids": [64],
             "furigana_ids": []
           },
           {
             "display_index": 66,
+            "source_ids": [65],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 67,
+            "source_ids": [66],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 68,
+            "source_ids": [70],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 69,
             "source_ids": [72],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 70,
+            "source_ids": [73],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 71,
+            "source_ids": [74],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 72,
+            "source_ids": [75],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 73,
+            "source_ids": [76],
             "furigana_ids": []
           }
         ],
         "uncertainties": [
-          "Exact length and number of repeated onomatopoeic syllables (グイングイン) inferred from image; timing marks and elongation (〜) approximated.",
-          "Punctuation and number of small tsu (っ) in お〜とっとっとっとっ inferred from scan; rendered as repeated 'whoa' with ellipsis.",
-          "The middle phrase is printed as 「ゾグソクする~」 in the crop; this appears to be a nonstandard/erroneous rendering and may be intended as 「ゾクゾクする」 (to shiver/get a thrill). Translation assumes the intended meaning is 'to shiver'/'to get a thrill'.",
-          "Line 8: reading of 浮世英寿 is given as displayed; pronunciation inferred as 'Ukyo Hidetoshi' but reading could differ.",
-          "Line 11: sentence ends 'ならば力づくで仕留めるまで。' — final phrasing is slightly ambiguous (could be 'までだ' or 'まで' as trailing), translated as 'Then I will finish you by force.'",
-          "Line 14: onomatopoeic scream 'ぐわぁあッ' has uncertain exact vocalization; rendered as 'Gwaaah!'"
+          "Exact length and pitch of the onomatopoeic sounds (グイングイン and お〜とっとっとっとっ) are approximate as printed elongation and rhythm are hard to determine precisely from the image."
         ],
         "ocr_lines": [
           {
@@ -5899,7 +5951,7 @@
         },
         {
           "text": "②タッチセンサーに触れます。\nモード毎の効果音が鳴ります。\nこの状態では変身待機音は流れません。",
-          "translation": "• 2. Touch the touch sensor.\n• A sound effect for each mode will play.\n• In this state, the transformation standby sound will not play.",
+          "translation": "• 2. Touch the touch sensor.\n• A sound effect for the selected mode will play.\n• The transformation standby sound will not play while in this state.",
           "bbox": [0.041207495391368865, 0.269, 0.49453906852006907, 0.0484],
           "layout": "panel"
         },
@@ -5917,8 +5969,16 @@
         },
         {
           "text": "洗脳音\n四次元ゲートを開く音\n洗脳音\n四次元ゲートを開く音\nミツメを創世の女神に変える音\n洗脳音",
-          "translation": "• Brainwashing sound\n• Sound of opening a four-dimensional gate\n• Brainwashing sound\n• Sound of opening a four-dimensional gate\n• Sound that turns Mitsume into the goddess of creation\n• Brainwashing sound",
+          "translation": "• Brainwashing sound\n• Sound of opening a fourth-dimensional gate\n• Brainwashing sound\n• Sound of opening a fourth-dimensional gate\n• Sound that turns Mitsume into the goddess of creation\n• Brainwashing sound",
           "bbox": [0.46747661685943603, 0.6074, 0.3666233831405639, 0.1259999999999999],
+          "layout": "panel"
+        },
+        {
+          "text": "③再度、サイドボタンを押します。\n「SHUT DOWN」 が鳴り、通常状態に戻ります。",
+          "translation": "• 3. Press the side button again.\n• You will hear \"SHUT DOWN\" and the unit will return to its normal state.",
+          "bbox": [
+            0.04201329430937767, 0.7536020383834839, 0.5893867056906223, 0.03139796161651598
+          ],
           "layout": "panel"
         },
         {
@@ -5950,11 +6010,6 @@
           "text": "グレア2 (ベロバ)モード\nゲイザー (スエル)モード\nジャマトゲイザーモード",
           "translation": "Glare 2 (Beroba) Mode\nGazer (Suel) Mode\nJamatogazer Mode",
           "bbox": [0.0671, 0.6755, 0.286, 0.0564]
-        },
-        {
-          "text": "③再度、サイドボタンを押します。\n「SHUT DOWN」 が鳴り、通常状態に戻ります。",
-          "translation": "③ Press the side button again.\n→ “SHUT DOWN” will sound, and the unit will return to its normal state.",
-          "bbox": [0.0447, 0.7553, 0.5852, 0.0282]
         },
         {
           "text": "サイドボタン",
@@ -6083,15 +6138,20 @@
               "id": "p3",
               "kind": "prose",
               "source_ids": [7, 10, 12, 13]
+            },
+            {
+              "id": "p4",
+              "kind": "prose",
+              "source_ids": [14]
             }
           ],
           "furigana": [],
           "notes": [
-            "Source 0 contains both the section heading and step ① text in one OCR region; it is kept as one heading panel because it cannot be split by source ID.",
-            "Table entries are grouped as prose because they are main text; diagram labels 2, 3, and 15 are left ungrouped.",
-            "p3: excluded other-column members; retained separately",
-            "Panel p4 retained original English after failed automatic checks"
-          ]
+            "Source 0 contains both the page heading and step 1 prose in one OCR region; it is kept together as a heading panel due to inseparable source ID granularity.",
+            "Diagram labels 2, 3, and 15 are left ungrouped.",
+            "p3: excluded other-column members; retained separately"
+          ],
+          "native_artwork": []
         },
         "mapping": [
           {
@@ -6144,37 +6204,42 @@
           },
           {
             "display_index": 5,
+            "panel_id": "p4",
+            "source_ids": [14],
+            "furigana_ids": [],
+            "japanese_items": [
+              "③再度、サイドボタンを押します。",
+              "「SHUT DOWN」が鳴り、通常状態に戻ります。"
+            ]
+          },
+          {
+            "display_index": 6,
             "source_ids": [2],
             "furigana_ids": []
           },
           {
-            "display_index": 6,
+            "display_index": 7,
             "source_ids": [3],
             "furigana_ids": []
           },
           {
-            "display_index": 7,
+            "display_index": 8,
             "source_ids": [6],
             "furigana_ids": []
           },
           {
-            "display_index": 8,
+            "display_index": 9,
             "source_ids": [8],
             "furigana_ids": []
           },
           {
-            "display_index": 9,
+            "display_index": 10,
             "source_ids": [9],
             "furigana_ids": []
           },
           {
-            "display_index": 10,
-            "source_ids": [11],
-            "furigana_ids": []
-          },
-          {
             "display_index": 11,
-            "source_ids": [14],
+            "source_ids": [11],
             "furigana_ids": []
           },
           {
@@ -6379,7 +6444,7 @@
       "blocks": [
         {
           "text": "底面効果音遊び\n変身前後ともに、\n底面右ボタンを押す度に\n効果音が鳴ります。",
-          "translation": "• Bottom Sound-Effect Play\n• Before and after transformation, each time you press the right button on the bottom, a sound effect will play.",
+          "translation": "• Bottom sound effects\n• Before and after transformation, each time you press the right button on the bottom, a sound effect plays.",
           "bbox": [
             0.03798428854346275, 0.020999999999999998, 0.29470024767518044, 0.07670000000000002
           ],
@@ -6393,33 +6458,25 @@
         },
         {
           "text": "1 ベルト装着音",
-          "translation": "1 Belt attachment sound",
+          "translation": "1 Belt fastening sound",
           "bbox": [0.056517726987600325, 0.3006, 0.14328227301239965, 0.012900000000000023],
           "layout": "panel"
         },
         {
           "text": "番号\n1 足音\n2 パンチ音",
-          "translation": "• 1 Footstep sound\n• 2 Punch sound\n• 3 Hyupuru (reading uncertain)",
+          "translation": "• 1 Footsteps\n• 2 Punch sound\n• 3 Unclear sound name (text unreadable)",
           "bbox": [0.0565, 0.313, 0.11250000000000002, 0.043338699102401734],
           "layout": "panel"
         },
         {
           "text": "ヒュプノレイ効果音",
-          "translation": "Hypno-Ray sound effect",
+          "translation": "Hyupunorei sound effect",
           "bbox": [0.06376994705200195, 0.3467, 0.17963005294799805, 0.01200000000000001],
           "layout": "panel"
         },
         {
-          "text": "ヒュプノレイ効果音",
-          "translation": "4 Hypno‑ray sound effect",
-          "bbox": [
-            0.06376994705200195, 0.35794700241088867, 0.18023005294799804, 0.010752997589111357
-          ],
-          "layout": "panel"
-        },
-        {
           "text": "ゲームルールを書き換える音",
-          "translation": "The sound that rewrites the game rules",
+          "translation": "Sound that changes the game rules",
           "bbox": [
             0.100031021296978, 0.3683156774044037, 0.21586897870302202, 0.011448541164398196
           ],
@@ -6439,7 +6496,7 @@
         },
         {
           "text": "ベルト装着音",
-          "translation": "Belt fastening sound",
+          "translation": "Belt attachment sound",
           "bbox": [
             0.100031021296978, 0.5476551756858826, 0.09889041024446488, 0.010344824314117318
           ],
@@ -6447,13 +6504,13 @@
         },
         {
           "text": "1 ヒュプノレイ効果音",
-          "translation": "1 Hypno-ray sound effect",
+          "translation": "1 Hypno‑Ray sound effect",
           "bbox": [0.0668, 0.5717000000000001, 0.1777, 0.011099999999999888],
           "layout": "panel"
         },
         {
           "text": "ヒュプノレイ効果音\nヒュプノレイ効果音",
-          "translation": "• Hypno-ray sound effect\n• Hypno-ray sound effect",
+          "translation": "• Hypno‑Ray sound effect\n• Hypno‑Ray sound effect",
           "bbox": [0.1007, 0.5823, 0.14329999999999998, 0.022299999999999986],
           "layout": "panel"
         },
@@ -6465,13 +6522,13 @@
         },
         {
           "text": "番号\n1 ベルト装着音&ワープ音\n2鐘の音&創世の女神の拒絶音\n3 ゲームエリア創出音",
-          "translation": "• 1 Belt wear sound & warp sound\n• 2 Bell sound & the Creator Goddess's rejection sound\n• 3 Game area generation sound",
+          "translation": "• 1 Belt attachment sound and warp sound\n• 2 Bell sound and the Goddess of Creation's rejection sound\n• 3 Game area creation sound",
           "bbox": [0.05571192434430122, 0.637132893562317, 0.2616623840034008, 0.0458671064376831],
           "layout": "panel"
         },
         {
           "text": "ベルト装着音\n鐘の音",
-          "translation": "• Belt fastening sound\n• Bell sound",
+          "translation": "• Belt attachment sound\n• Bell sound",
           "bbox": [
             0.100031021296978, 0.6825000000000001, 0.09916897870302199, 0.020996922492980796
           ],
@@ -6479,13 +6536,13 @@
         },
         {
           "text": "番号\nヒュプノレイ効果音",
-          "translation": "• Number\n• 1 Hypno-ray sound effect",
+          "translation": "No. 1 Hypno-ray sound effect",
           "bbox": [0.05571192434430122, 0.7062, 0.18914020571112633, 0.0232],
           "layout": "panel"
         },
         {
           "text": "2 ヒュプノレイ効果音\nヒュプノレイ効果音",
-          "translation": "• 2 Hypno Ray sound effect\n• 3 Hypno Ray sound effect",
+          "translation": "• 2 Hypno‑ray sound effect\n• 3 Hypno‑ray sound effect",
           "bbox": [0.0644, 0.7289000000000001, 0.18045213005542754, 0.02199999999999991],
           "layout": "panel"
         },
@@ -6508,26 +6565,10 @@
           "layout": "panel"
         },
         {
-          "text": "1 グランドエンド決行音\n2 ドミニオンレイ効果音",
-          "translation": "• 1 Grand End Execution sound\n• 2 Dominion Ray effect sound",
-          "bbox": [
-            0.06376994705200195, 0.8412000000000001, 0.19719822096824646, 0.022699999999999942
-          ],
-          "layout": "panel"
-        },
-        {
           "text": "ドミニオンレイ効果音",
-          "translation": "Dominion Ray sound effects",
+          "translation": "Dominion Ray sound effect",
           "bbox": [
             0.06376994705200195, 0.8634000000000001, 0.19653005294799808, 0.011799999999999922
-          ],
-          "layout": "panel"
-        },
-        {
-          "text": "ドミニオンレイ効果音",
-          "translation": "4 Dominion Ray sound effect",
-          "bbox": [
-            0.06376994705200195, 0.8740760192871094, 0.19653005294799808, 0.011832573890685927
           ],
           "layout": "panel"
         },
@@ -6539,13 +6580,13 @@
         },
         {
           "text": "番号",
-          "translation": "Number 1",
+          "translation": "No. 1",
           "bbox": [0.0565, 0.9174708232879639, 0.03202658861875534, 0.02532917671203605],
           "layout": "panel"
         },
         {
           "text": "1 ベルト装着音\n番号",
-          "translation": "• Belt fastening sound\n• Number 1",
+          "translation": "• 1 Belt attachment sound\n• Number",
           "bbox": [0.0565, 0.9297000000000001, 0.1427, 0.02189999999999981],
           "layout": "panel"
         },
@@ -6553,6 +6594,11 @@
           "text": "番号",
           "translation": "No.",
           "bbox": [0.058, 0.2903, 0.029, 0.0066]
+        },
+        {
+          "text": "ヒュプノレイ効果音",
+          "translation": "Hypno Ray sound effect",
+          "bbox": [0.1022, 0.3597, 0.1403, 0.0075]
         },
         {
           "text": "番号",
@@ -6628,6 +6674,16 @@
           "text": "1 鐘の音&創世の女神の拒絶音\n創世の女神出現音&鐘の音\n3 ベルト装着音",
           "translation": "1. Bell sound & sound of the Goddess of Creation's rejection\nSound of the Goddess of Creation's appearance & bell sound\n3. Belt fastening sound",
           "bbox": [0.0665, 0.7964, 0.2503, 0.0297]
+        },
+        {
+          "text": "1 グランドエンド決行音\n2 ドミニオンレイ効果音",
+          "translation": "1 Grand End execution sound\n2 Dominion Ray sound effect",
+          "bbox": [0.0653, 0.8427, 0.1935, 0.0193]
+        },
+        {
+          "text": "ドミニオンレイ効果音",
+          "translation": "Dominion Ray sound effect",
+          "bbox": [0.1028, 0.8762, 0.156, 0.0075]
         },
         {
           "text": "変身前",
@@ -6978,11 +7034,6 @@
               "source_ids": [5]
             },
             {
-              "id": "p2-b-b-a",
-              "kind": "prose",
-              "source_ids": [6]
-            },
-            {
               "id": "p2-b-b-b",
               "kind": "prose",
               "source_ids": [7]
@@ -7053,19 +7104,9 @@
               "source_ids": [39]
             },
             {
-              "id": "p10-b-a",
-              "kind": "prose",
-              "source_ids": [40]
-            },
-            {
               "id": "p10-b-b-a",
               "kind": "prose",
               "source_ids": [41]
-            },
-            {
-              "id": "p10-b-b-b",
-              "kind": "prose",
-              "source_ids": [42]
             },
             {
               "id": "p11",
@@ -7085,13 +7126,18 @@
           ],
           "furigana": [],
           "notes": [
-            "Source 0 combines the section heading and explanatory body in one OCR region, so it could not be split.",
-            "Source 51 combines the mode heading and the 変身前 label in one OCR region, so it was kept as a heading panel.",
+            "Source 0 combines the section heading and explanatory body in one OCR region, so it cannot be separated by source ID.",
+            "Source 51 combines the mode heading and the following subheading in one OCR region.",
+            "Source 19 appears to be OCR of row-number text in the table, not foreign script or artwork.",
             "Conservative panel fallback: Panel p4 would mask unrelated source 19",
             "Retained p4 unchanged: Panel p4 would mask unrelated source 19",
             "Retained p6 source IDs [23, 25] unchanged: illustration-mask check",
-            "Retained p10 source IDs [38] unchanged: illustration-mask check"
-          ]
+            "Retained p10 source IDs [38] unchanged: illustration-mask check",
+            "Panel p2-b-b-a retained original English after failed automatic checks",
+            "Panel p10-b-a retained original English after failed automatic checks",
+            "Panel p10-b-b-b retained original English after failed automatic checks"
+          ],
+          "native_artwork": []
         },
         "mapping": [
           {
@@ -7134,233 +7180,227 @@
           },
           {
             "display_index": 5,
-            "panel_id": "p2-b-b-a",
-            "source_ids": [6],
-            "furigana_ids": [],
-            "japanese_items": ["4 ヒュプノレイ効果音"]
-          },
-          {
-            "display_index": 6,
             "panel_id": "p2-b-b-b",
             "source_ids": [7],
             "furigana_ids": [],
             "japanese_items": ["ゲームルールを書き換える音"]
           },
           {
-            "display_index": 7,
+            "display_index": 6,
             "panel_id": "p3",
             "source_ids": [15],
             "furigana_ids": [],
             "japanese_items": ["ゲイザーモード"]
           },
           {
-            "display_index": 8,
+            "display_index": 7,
             "panel_id": "p5",
             "source_ids": [22],
             "furigana_ids": [],
             "japanese_items": ["グレア2モード"]
           },
           {
-            "display_index": 9,
+            "display_index": 8,
             "panel_id": "p6-a-b-a",
             "source_ids": [24],
             "furigana_ids": [],
             "japanese_items": ["ベルト装着音"]
           },
           {
-            "display_index": 10,
+            "display_index": 9,
             "panel_id": "p6-b-a",
             "source_ids": [26],
             "furigana_ids": [],
             "japanese_items": ["1 ヒュプノレイ効果音"]
           },
           {
-            "display_index": 11,
+            "display_index": 10,
             "panel_id": "p6-b-b",
             "source_ids": [27, 28],
             "furigana_ids": [],
             "japanese_items": ["ヒュプノレイ効果音", "ヒュプノレイ効果音"]
           },
           {
-            "display_index": 12,
+            "display_index": 11,
             "panel_id": "p7",
             "source_ids": [48],
             "furigana_ids": [],
             "japanese_items": ["グレア2 (ベロバ) モード"]
           },
           {
-            "display_index": 13,
+            "display_index": 12,
             "panel_id": "p8-a-a",
             "source_ids": [29, 30],
             "furigana_ids": [],
             "japanese_items": [
-              "1 ベルト装着音&ワープ音",
-              "2 鐘の音&創世の女神の拒絶音",
+              "1 ベルト装着音＆ワープ音",
+              "2 鐘の音＆創世の女神の拒絶音",
               "3 ゲームエリア創出音"
             ]
           },
           {
-            "display_index": 14,
+            "display_index": 13,
             "panel_id": "p8-a-b",
             "source_ids": [31, 32],
             "furigana_ids": [],
             "japanese_items": ["ベルト装着音", "鐘の音"]
           },
           {
-            "display_index": 15,
+            "display_index": 14,
             "panel_id": "p8-b-a",
             "source_ids": [33, 34],
             "furigana_ids": [],
-            "japanese_items": ["番号", "1 ヒュプノレイ効果音"]
+            "japanese_items": ["1 ヒュプノレイ効果音"]
           },
           {
-            "display_index": 16,
+            "display_index": 15,
             "panel_id": "p8-b-b",
             "source_ids": [35, 36],
             "furigana_ids": [],
             "japanese_items": ["2 ヒュプノレイ効果音", "3 ヒュプノレイ効果音"]
           },
           {
-            "display_index": 17,
+            "display_index": 16,
             "panel_id": "p9",
             "source_ids": [51],
             "furigana_ids": [],
             "japanese_items": ["ゲイザー(スエル)モード\n変身前"]
           },
           {
-            "display_index": 18,
+            "display_index": 17,
             "panel_id": "p10-a-a",
             "source_ids": [37],
             "furigana_ids": [],
             "japanese_items": ["番号"]
           },
           {
-            "display_index": 19,
+            "display_index": 18,
             "panel_id": "p10-a-b-b",
             "source_ids": [39],
             "furigana_ids": [],
             "japanese_items": ["番号"]
           },
           {
-            "display_index": 20,
-            "panel_id": "p10-b-a",
-            "source_ids": [40],
-            "furigana_ids": [],
-            "japanese_items": ["1 グランドエンド決行音", "2 ドミニオンレイ効果音"]
-          },
-          {
-            "display_index": 21,
+            "display_index": 19,
             "panel_id": "p10-b-b-a",
             "source_ids": [41],
             "furigana_ids": [],
             "japanese_items": ["ドミニオンレイ効果音"]
           },
           {
-            "display_index": 22,
-            "panel_id": "p10-b-b-b",
-            "source_ids": [42],
-            "furigana_ids": [],
-            "japanese_items": ["4　ドミニオンレイ効果音"]
-          },
-          {
-            "display_index": 23,
+            "display_index": 20,
             "panel_id": "p11",
             "source_ids": [53],
             "furigana_ids": [],
             "japanese_items": ["ジャマトゲイザーモード"]
           },
           {
-            "display_index": 24,
+            "display_index": 21,
             "panel_id": "p12-a",
             "source_ids": [43],
             "furigana_ids": [],
-            "japanese_items": ["番号 1"]
+            "japanese_items": ["番号　1"]
           },
           {
-            "display_index": 25,
+            "display_index": 22,
             "panel_id": "p12-b",
             "source_ids": [44, 45],
             "furigana_ids": [],
-            "japanese_items": ["ベルト装着音", "番号 1"]
+            "japanese_items": ["1 ベルト装着音", "番号"]
           },
           {
-            "display_index": 26,
+            "display_index": 23,
             "source_ids": [1],
             "furigana_ids": []
           },
           {
-            "display_index": 27,
+            "display_index": 24,
+            "source_ids": [6],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 25,
             "source_ids": [8],
             "furigana_ids": []
           },
           {
-            "display_index": 28,
+            "display_index": 26,
             "source_ids": [9],
             "furigana_ids": []
           },
           {
-            "display_index": 29,
+            "display_index": 27,
             "source_ids": [10],
             "furigana_ids": []
           },
           {
-            "display_index": 30,
+            "display_index": 28,
             "source_ids": [11],
             "furigana_ids": []
           },
           {
-            "display_index": 31,
+            "display_index": 29,
             "source_ids": [13],
             "furigana_ids": []
           },
           {
-            "display_index": 32,
+            "display_index": 30,
             "source_ids": [14],
             "furigana_ids": []
           },
           {
-            "display_index": 33,
+            "display_index": 31,
             "source_ids": [16],
             "furigana_ids": []
           },
           {
-            "display_index": 34,
+            "display_index": 32,
             "source_ids": [17],
             "furigana_ids": []
           },
           {
-            "display_index": 35,
+            "display_index": 33,
             "source_ids": [18],
             "furigana_ids": []
           },
           {
-            "display_index": 36,
+            "display_index": 34,
             "source_ids": [19],
             "furigana_ids": []
           },
           {
-            "display_index": 37,
+            "display_index": 35,
             "source_ids": [20],
             "furigana_ids": []
           },
           {
-            "display_index": 38,
+            "display_index": 36,
             "source_ids": [21],
             "furigana_ids": []
           },
           {
-            "display_index": 39,
+            "display_index": 37,
             "source_ids": [23],
             "furigana_ids": []
           },
           {
-            "display_index": 40,
+            "display_index": 38,
             "source_ids": [25],
             "furigana_ids": []
           },
           {
-            "display_index": 41,
+            "display_index": 39,
             "source_ids": [38],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 40,
+            "source_ids": [40],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 41,
+            "source_ids": [42],
             "furigana_ids": []
           },
           {
@@ -7400,14 +7440,9 @@
           }
         ],
         "uncertainties": [
-          "The third entry (3) is unclear in the scan; reading rendered as ヒュプル and translated as 'Hyupuru' with uncertainty.",
-          "The crop shows a leading numeral '4' before the text; it is unclear whether '4' is part of the printed panel text or a page/panel number. The translation includes the '4' as shown in the image.",
-          "Uncertainty in reading/translation of katakana ヒュプノレイ — interpreted as \"Hypno-ray\".",
-          "OCR input had line ordering/number placement issues for item 2; assumed numbering '2' precedes '鐘の音&創世の女神の拒絶音'.",
-          "Translation of 創世の女神 rendered as 'Creator Goddess'—original could be 'Goddess of Creation' depending on localization preference.",
-          "Uncertain reading/romanization of 'ヒュプノレイ' — translated as 'Hypno-ray' (could be a product/name reading).",
-          "Translation of ベルト装着音 could be 'belt fastening sound' or 'seat belt reminder sound' depending on context.",
-          "Placement/meaning of '1' relative to '番号' inferred as 'Number 1' from the crop."
+          "Unclear whether the leading '1' is a list number or part of the printed panel heading.",
+          "The third item’s Japanese text is partly unclear in the image; it is transcribed here as “ヒュプル” but that reading may be incorrect.",
+          "The katakana ヒュプノレイ is rendered as “Hypno-ray”; alternate romanizations possible."
         ],
         "ocr_lines": [
           {
@@ -8014,22 +8049,14 @@
           "layout": "panel"
         },
         {
-          "text": "③カードをスラッシュします。\n→「変身音」が鳴ります。",
-          "translation": "• 3. Slash the card.\n• A \"Transformation Sound\" will play.",
-          "bbox": [
-            0.041207495391368865, 0.6636705503463746, 0.3317671282887459, 0.040253141403198134
-          ],
-          "layout": "panel"
-        },
-        {
           "text": "※1番切り欠きが多い角を\n手前にしてスラッシュ\nしてください。",
-          "translation": "Position the corner with the most notches (No. 1) toward you and slash.",
+          "translation": "Position the corner with the most notches (No. 1) toward you, then slash.",
           "bbox": [0.6955185041427613, 0.6992, 0.23588149585723872, 0.04339999999999988],
           "layout": "panel"
         },
         {
           "text": "※変身後60秒放置すると発光が終了しますが、 変身解除はされません。",
-          "translation": "If left for 60 seconds after transformation, the light will turn off, but the transformation will not be canceled.",
+          "translation": "If left for 60 seconds after transforming, the light will turn off, but the transformation will not be canceled.",
           "bbox": [0.0438, 0.9446000000000001, 0.8279659010887146, 0.01749999999999985],
           "layout": "panel"
         },
@@ -8049,24 +8076,14 @@
           "bbox": [0.8204, 0.471, 0.1197, 0.0101]
         },
         {
+          "text": "③カードをスラッシュします。\n→「変身音」が鳴ります。",
+          "translation": "③ Slash the card. → The \"transformation\" sound will play.",
+          "bbox": [0.0441, 0.6667, 0.3271, 0.035]
+        },
+        {
           "text": "カード",
           "translation": "Card",
           "bbox": [0.295, 0.7296, 0.0568, 0.0094]
-        },
-        {
-          "text": "INSTALL",
-          "translation": "INSTALL",
-          "bbox": [0.1965, 0.7923, 0.0937, 0.003]
-        },
-        {
-          "text": "DOMINATE A SYSTEM",
-          "translation": "DOMINATE A SYSTEM",
-          "bbox": [0.0973, 0.8555, 0.2334, 0.0081]
-        },
-        {
-          "text": "GLARE",
-          "translation": "GLARE",
-          "bbox": [0.1711, 0.8721, 0.0732, 0.0034]
         },
         {
           "text": "スラッシュ部",
@@ -8157,11 +8174,6 @@
               "source_ids": [1]
             },
             {
-              "id": "p3",
-              "kind": "prose",
-              "source_ids": [5]
-            },
-            {
               "id": "p4",
               "kind": "prose",
               "source_ids": [7]
@@ -8173,7 +8185,11 @@
             }
           ],
           "furigana": [],
-          "notes": ["Panel p2 retained original English after failed automatic checks"]
+          "notes": [
+            "Panel p2 retained original English after failed automatic checks",
+            "Panel p3 retained original English after failed automatic checks"
+          ],
+          "native_artwork": [8, 9, 10]
         },
         "mapping": [
           {
@@ -8191,43 +8207,41 @@
             "japanese_items": [
               "①タッチセンサーに触れます。",
               "「変身待機音」が鳴ります。",
-              "再度タッチセンサーに触れると止まります。"
+              "再度タッチセンサーに\n触れると止まります。"
             ]
           },
           {
             "display_index": 2,
-            "panel_id": "p3",
-            "source_ids": [5],
-            "furigana_ids": [],
-            "japanese_items": ["③カードをスラッシュします。", "→「変身音」が鳴ります。"]
-          },
-          {
-            "display_index": 3,
             "panel_id": "p4",
             "source_ids": [7],
             "furigana_ids": [],
-            "japanese_items": ["※1番切り欠きが多い角を手前にしてスラッシュしてください。"]
+            "japanese_items": ["※1番切り欠きが多い角を\n手前にしてスラッシュ\nしてください。"]
           },
           {
-            "display_index": 4,
+            "display_index": 3,
             "panel_id": "p5",
             "source_ids": [12],
             "furigana_ids": [],
             "japanese_items": ["※変身後60秒放置すると発光が終了しますが、変身解除はされません。"]
           },
           {
-            "display_index": 5,
+            "display_index": 4,
             "source_ids": [2],
             "furigana_ids": []
           },
           {
-            "display_index": 6,
+            "display_index": 5,
             "source_ids": [3],
             "furigana_ids": []
           },
           {
-            "display_index": 7,
+            "display_index": 6,
             "source_ids": [4],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 7,
+            "source_ids": [5],
             "furigana_ids": []
           },
           {
@@ -8236,22 +8250,25 @@
             "furigana_ids": []
           },
           {
-            "display_index": 9,
+            "display_index": -1,
             "source_ids": [8],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 10,
+            "display_index": -1,
             "source_ids": [9],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 11,
+            "display_index": -1,
             "source_ids": [10],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 12,
+            "display_index": 9,
             "source_ids": [11],
             "furigana_ids": []
           }
@@ -8432,13 +8449,13 @@
         },
         {
           "text": "カードをスラッシュします。\n→ 「DELETE必殺技音」が鳴ります。",
-          "translation": "• Slash the card.\n• 'DELETE' special attack sound will play.",
+          "translation": "• Slash the card.\n• The \"DELETE\" special-move sound plays.",
           "bbox": [0.0414, 0.138, 0.42827082166671754, 0.08850000000000002],
           "layout": "panel"
         },
         {
           "text": "※1番切り欠きが多い角を\n手前にしてスラッシュ\nしてください。",
-          "translation": "Position the corner with the most notches (No. 1) toward you and slash.",
+          "translation": "Place the corner with the most notches (No. 1) toward you, then slash.",
           "bbox": [0.534358154296875, 0.3141, 0.2362418457031249, 0.10378982295989991],
           "layout": "panel"
         },
@@ -8502,7 +8519,8 @@
             }
           ],
           "furigana": [],
-          "notes": []
+          "notes": [],
+          "native_artwork": []
         },
         "mapping": [
           {
@@ -8614,12 +8632,6 @@
           "layout": "panel"
         },
         {
-          "text": "※1番切り欠きが多い角を\n手前にしてスラッシュ\nしてください。",
-          "translation": "Place the corner with the most notches (No. 1) toward the front and slash.",
-          "bbox": [0.534358154296875, 0.3647, 0.23564184570312485, 0.09628716998100278],
-          "layout": "panel"
-        },
-        {
           "text": "カードを2回連続でスラッシュします。\n(「DELETE必殺技音」 が鳴り始めて3秒以内にスラッシュして下さい)\n→ 「SHUT DOWN必殺技音」が鳴ります。",
           "translation": "Slash the card twice in succession.\n(Slash within 3 seconds after the \"DELETE\" special-move sound begins to play)\n→ The \"SHUT DOWN\" special-move sound will play.",
           "bbox": [0.0435, 0.1285, 0.7944, 0.1269]
@@ -8633,6 +8645,11 @@
           "text": "スラッシュ部",
           "translation": "Slash section",
           "bbox": [0.214, 0.8477, 0.1125, 0.0238]
+        },
+        {
+          "text": "※1番切り欠きが多い角を\n手前にしてスラッシュ\nしてください。",
+          "translation": "※Place the corner with the largest number of notches toward you, then slash.",
+          "bbox": [0.5363, 0.3662, 0.2322, 0.0923]
         }
       ],
       "image": "pages/page-9.webp",
@@ -8671,15 +8688,14 @@
               "id": "p0",
               "kind": "heading",
               "source_ids": [0]
-            },
-            {
-              "id": "p2",
-              "kind": "prose",
-              "source_ids": [4]
             }
           ],
           "furigana": [],
-          "notes": ["Panel p1 retained original English after failed automatic checks"]
+          "notes": [
+            "Panel p1 retained original English after failed automatic checks",
+            "Panel p2 retained original English after failed automatic checks"
+          ],
+          "native_artwork": []
         },
         "mapping": [
           {
@@ -8691,24 +8707,22 @@
           },
           {
             "display_index": 1,
-            "panel_id": "p2",
-            "source_ids": [4],
-            "furigana_ids": [],
-            "japanese_items": ["※1番切り欠きが多い角を手前にしてスラッシュしてください。"]
-          },
-          {
-            "display_index": 2,
             "source_ids": [1],
             "furigana_ids": []
           },
           {
-            "display_index": 3,
+            "display_index": 2,
             "source_ids": [2],
             "furigana_ids": []
           },
           {
-            "display_index": 4,
+            "display_index": 3,
             "source_ids": [3],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 4,
+            "source_ids": [4],
             "furigana_ids": []
           }
         ],
@@ -8789,26 +8803,21 @@
       "blocks": [
         {
           "text": "バックル必殺技遊び 図はブーストレイズバックル (別売り)の例です。\n①バックルスロットにブーストレイズバックル(以下バックル)を装填します。\n→ 「バックル必殺技待機音」 の音声が流れます。",
-          "translation": "• Buckle Special Move Play — Illustration shows the Boost Raise Buckle (sold separately).\n• 1. Insert the Boost Raise Buckle (hereafter \"buckle\") into the buckle slot.\n• → The \"Buckle Special Move Standby Sound\" audio will play.",
+          "translation": "• Buckle Special-Move Play — The illustration shows a Boost Raiser Buckle (sold separately).\n• 1. Insert a Boost Raiser Buckle (hereafter “buckle”) into the buckle slot. → The “buckle special-move standby sound” will play.",
           "bbox": [0.0384, 0.021200587287545203, 0.8623747664451599, 0.0612994127124548],
           "layout": "panel"
         },
         {
           "text": "②バックルを操作します。\n→ 「バックル必殺技音」が流れます。",
-          "translation": "• 2. Operate the buckle.\n• → The \"Buckle Finishing Move Sound\" will play.",
+          "translation": "• 2. Operate the buckle.\n• → The “Buckle Special Move” sound plays.",
           "bbox": [0.041207495391368865, 0.4518, 0.4107356830239296, 0.034999999999999976],
           "layout": "panel"
         },
         {
           "text": "※取り外す際は、解除ボタンを押しながらバックルを引き抜いて下さい。",
-          "translation": "When removing, please press the release button and pull the buckle out.",
+          "translation": "When removing, press and hold the release button while pulling the buckle out.",
           "bbox": [0.0692, 0.7055, 0.8385999999999999, 0.016547974109649588],
           "layout": "panel"
-        },
-        {
-          "text": "UPGRADE",
-          "translation": "UPGRADE",
-          "bbox": [0.1112, 0.5338, 0.1451, 0.0018]
         },
         {
           "text": "-ブーストレイズバックル\n(別売り)",
@@ -8886,8 +8895,9 @@
           ],
           "furigana": [],
           "notes": [
-            "Source 0 combines the section heading with step 1 body text, so they cannot be separated by source ID. Diagram/product labels are left ungrouped."
-          ]
+            "Source 0 combines the section heading with step ① body text in one OCR region, so it cannot be separated by source ID."
+          ],
+          "native_artwork": [2]
         },
         "mapping": [
           {
@@ -8897,8 +8907,7 @@
             "furigana_ids": [],
             "japanese_items": [
               "バックル必殺技遊び　※図はブーストレイズバックル(別売り)の例です。",
-              "①バックルスロットにブーストレイズバックル(以下バックル)を装填します。",
-              "→「バックル必殺技待機音」の音声が流れます。"
+              "①バックルスロットにブーストレイズバックル(以下バックル)を装填します。→「バックル必殺技待機音」の音声が流れます。"
             ]
           },
           {
@@ -8916,22 +8925,23 @@
             "japanese_items": ["※取り外す際は、解除ボタンを押しながらバックルを引き抜いて下さい。"]
           },
           {
-            "display_index": 3,
+            "display_index": -1,
             "source_ids": [2],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 4,
+            "display_index": 3,
             "source_ids": [3],
             "furigana_ids": []
           },
           {
-            "display_index": 5,
+            "display_index": 4,
             "source_ids": [4],
             "furigana_ids": []
           },
           {
-            "display_index": 6,
+            "display_index": 5,
             "source_ids": [6],
             "furigana_ids": []
           }
@@ -9056,14 +9066,9 @@
         },
         {
           "text": "タッチセンサーに触れます。\n→「HACKING ON」 が鳴ります。",
-          "translation": "• Touch the touch sensor.\n• → \"HACKING ON\" will sound.",
+          "translation": "• Touch the touch sensor.\n• “HACKING ON” will sound.",
           "bbox": [0.041207495391368865, 0.1262, 0.39945446091890335, 0.0855564126253128],
           "layout": "panel"
-        },
-        {
-          "text": "HACKING ON",
-          "translation": "HACKING ON",
-          "bbox": [0.6802, 0.2969, 0.1935, 0.0123]
         }
       ],
       "image": "pages/page-11.webp",
@@ -9101,8 +9106,9 @@
           ],
           "furigana": [],
           "notes": [
-            "Source 0 contains both the section heading and note in one OCR region, so it is kept together as a heading panel. Source 2 is a diagram speech-bubble label and left ungrouped."
-          ]
+            "Source 0 combines the section heading with an explanatory note in one region, so it is kept as a single heading panel."
+          ],
+          "native_artwork": [2]
         },
         "mapping": [
           {
@@ -9120,9 +9126,10 @@
             "japanese_items": ["タッチセンサーに触れます。", "→「HACKING ON」が鳴ります。"]
           },
           {
-            "display_index": 2,
+            "display_index": -1,
             "source_ids": [2],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           }
         ],
         "uncertainties": [],
@@ -9176,37 +9183,27 @@
       "blocks": [
         {
           "text": "強制武装遊び 洗脳遊びの後に行います。 ※図はブーストレイズバックル (別売り)の例です。\n①バックルスロットにブーストレイズバックル (以下バックル)を装填します。\n→ 「SET UPGRADE」の後、「強制武装待機音」 が鳴ります。",
-          "translation": "• Forced Armament Play. Perform after Brainwashing Play. The illustration shows an example Boost Raise Buckle (sold separately).\n• 1. Insert the Boost Raise Buckle (hereafter “Buckle”) into the buckle slot. After “SET UPGRADE” the “Forced Armament Standby Sound” will play.",
+          "translation": "• Forced Armament Play: Perform this after the Brainwashing Play. The illustration shows a Boost Raise Buckle (sold separately) as an example.\n• 1) Insert the Boost Raise Buckle (hereafter “buckle”) into the buckle slot. After “SET UPGRADE,” the “forced armament standby sound” will play.",
           "bbox": [0.03798428854346275, 0.0215, 0.8958157114565373, 0.05730000000000001],
           "layout": "panel"
         },
         {
           "text": "②バックルを操作します。\n→「バックル必殺技音」が流れます。",
-          "translation": "• 2) Operate the buckle.\n• The \"Buckle Special Attack Sound\" will play.",
+          "translation": "• 2. Operate the buckle.\n• \"Buckle special attack sound\" will play.",
           "bbox": [0.041207495391368865, 0.4377, 0.4100925046086311, 0.032799999999999996],
           "layout": "panel"
         },
         {
           "text": "※取り外す際は、解除ボタンを押しながらバックルを引き抜いて下さい。",
-          "translation": "When removing, press the release button while pulling the buckle out.",
+          "translation": "When removing, press the release button and pull out the buckle.",
           "bbox": [0.0692, 0.6825909123420716, 0.8388269827842711, 0.01625756311416615],
           "layout": "panel"
         },
         {
           "text": "※強制武装遊びの後はバックル必殺技遊びができません。\n一度、変身解除してから再度お試しください。",
-          "translation": "• ※After playing Forced Armament, you cannot play Buckle Finisher moves.\n• Cancel the transformation once, then try again.",
+          "translation": "• You can't use Buckle Finisher play after Forced Armament play.\n• Cancel the transformation once, then try again.",
           "bbox": [0.0692, 0.9317000000000001, 0.6752999999999999, 0.03305755119323717],
           "layout": "panel"
-        },
-        {
-          "text": "UPGRADE",
-          "translation": "UPGRADE",
-          "bbox": [0.2606, 0.2497, 0.1445, 0.0017]
-        },
-        {
-          "text": "REMOTE CONTROL BOOST",
-          "translation": "REMOTE CONTROL BOOST",
-          "bbox": [0.1173, 0.5029, 0.4008, 0.0136]
         },
         {
           "text": "mi",
@@ -9309,8 +9306,9 @@
           ],
           "furigana": [],
           "notes": [
-            "Source 0 combines the heading, introductory notes, and step 1 body, so it could not be separated without reusing the same source ID."
-          ]
+            "Source 0 combines the section heading with explanatory text and step 1, so it could not be separated without splitting the source ID."
+          ],
+          "native_artwork": [1, 3]
         },
         "mapping": [
           {
@@ -9348,32 +9346,34 @@
             ]
           },
           {
-            "display_index": 4,
+            "display_index": -1,
             "source_ids": [1],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 5,
+            "display_index": -1,
             "source_ids": [3],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 6,
+            "display_index": 4,
             "source_ids": [4],
             "furigana_ids": []
           },
           {
-            "display_index": 7,
+            "display_index": 5,
             "source_ids": [5],
             "furigana_ids": []
           },
           {
-            "display_index": 8,
+            "display_index": 6,
             "source_ids": [6],
             "furigana_ids": []
           },
           {
-            "display_index": 9,
+            "display_index": 7,
             "source_ids": [8],
             "furigana_ids": []
           }
@@ -9520,7 +9520,7 @@
       "blocks": [
         {
           "text": "変身解除遊び\n変身状態で底面右ボタンを\n長押しします。\n「変身解除音」が鳴り、\n変身前状態に戻ります。",
-          "translation": "Cancel Transformation Play\nWhile in the transformed state, press and hold the bottom-right button.\nThe \"transformation cancel\" sound will play, and it will return to its pre-transformation state.",
+          "translation": "• Cancel Transformation\n• While transformed, press and hold the right button on the bottom. A \"transformation cancel\" sound will play, and the toy will return to its pre-transformation state.",
           "bbox": [
             0.03798428854346275, 0.07822972840070724, 0.32370911303162575, 0.32387027159929277
           ],
@@ -9551,15 +9551,15 @@
           "panels": [
             {
               "id": "p0",
-              "kind": "heading",
+              "kind": "prose",
               "source_ids": [0]
             }
           ],
           "furigana": [],
           "notes": [
-            "Source 0 contains both the heading and instruction body; split conceptually by kind but source ID is shared due OCR granularity conflict.",
-            "Conservative panel fallback: Duplicate source assignment"
-          ]
+            "Source 0 contains both the heading and instruction body in one OCR region, so it could not be separated by source ID."
+          ],
+          "native_artwork": []
         },
         "mapping": [
           {
@@ -9568,7 +9568,8 @@
             "source_ids": [0],
             "furigana_ids": [],
             "japanese_items": [
-              "変身解除遊び\n変身状態で底面右ボタンを\n長押しします。\n「変身解除音」が鳴り、\n変身前状態に戻ります。"
+              "変身解除遊び",
+              "変身状態で底面右ボタンを長押しします。「変身解除音」が鳴り、変身前状態に戻ります。"
             ]
           },
           {

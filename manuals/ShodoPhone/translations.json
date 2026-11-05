@@ -7,7 +7,7 @@
     "source_url": "",
     "blog_url": "",
     "pages": 9,
-    "blocks": 303,
+    "blocks": 212,
     "thumbnail": "pages/page-0.webp",
     "tags": ["kamen-rider", "memorial", "sentai"],
     "semantic_layout": 1
@@ -16,11 +16,29 @@
     {
       "blocks": [
         {
-          "text": "△注意 お買い上げのお客様へ 必ずお読みください。\n●本商品の対象年齢は15才以上です。 対象年齢未満のお子様には絶対に与えないでください。 ●小さな部品がありますので、\n小さなお子様が誤って飲み込まないように注意してください。 窒息などの危険があります。尖った部分や鋭い部分があります\nので、取扱や保管場所に注意してください。思わぬケガをする恐れがあります。 ●耳の近くで使用してはいけません。 誤って\n使用すると、聴覚を損なう恐れがあります。●本商品には電子部品を使用しておりますので、ペースメーカーをご使用の方は\nご注意ください。 ●ぶつけたり、ふりまわすなど乱暴な遊びをしないでください。 ●可動部分には指などを入れないでください。\nはさまれてケガをする恐れがあります。LEDの光の点滅を見続けないでください。気分が悪くなったりする恐れがあります。\n《内蔵された充電式電池を誤使用すると発熱・破裂・発火・液漏れの危険があります。 下記に注意してください》ショートさせると\n大電流が流れ、 危険です。絶対にさけてください。 ●充電済のショドウフォン-MEMORIAL EDITION-への再充電は絶対に\nしないでください。 過充電になり、 危険です。水にぬれたらすぐに使用をやめてください。 ショートの原因になります。 ●水や火の\n中に入れたり、分解、ハンダ付けは絶対にしないでください。火の近く、高温・多湿の場所での使用、充電、保管はしないでくだ\nさい。 廃棄するときは、 自治体の廃棄物処理の指示に従ってください。",
-          "translation": "△ Caution — Please read before use.\n● This product is intended for Ages 15+. Never give it to children below the target age. ● This product contains small parts; ensure that small children do not accidentally swallow them, as there is a risk of choking. ● There are pointed or sharp parts; handle and store with care to avoid accidental injury. ● Do not use near the ear. Improper use may cause hearing damage. ● This product contains electronic components; users with pacemakers should exercise caution. ● Do not play roughly, such as by hitting or swinging the product. ● Do not insert fingers or other objects into moving parts; doing so may result in injury from pinching. Do not stare at flashing LED lights for extended periods, as this may cause discomfort or nausea.\n《Improper use of the built-in rechargeable battery may cause overheating, rupture, fire, or leakage. Observe the following:》 Short-circuiting can cause a large current to flow and is dangerous; avoid it at all times. ● Do not recharge a ShodoPhone -MEMORIAL EDITION- that is already charged; overcharging is dangerous. ● Stop using the product immediately if it gets wet; this can cause a short circuit. ● Never immerse the product in water or fire, disassemble it, or attempt to solder it. Do not use, charge, or store the product near fire or in locations of high temperature or humidity. ● When disposing of the product, follow your local municipality's waste disposal guidelines.",
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
           "bbox": [
-            0.11639601296186447, 0.6667000000000001, 0.7672079666256904, 0.17886781196594226
+            0.03538029199838638, 0.03197457572817802, 0.16811970800161363, 0.01783050733804703
           ],
+          "layout": "panel"
+        },
+        {
+          "text": "ショドウフォン\nMEMORIAL EDITION の遊び方",
+          "translation": "How to Play the ShodoPhone MEMORIAL EDITION",
+          "bbox": [0.2234, 0.1455, 0.6028, 0.07337287938594819],
+          "layout": "panel"
+        },
+        {
+          "text": "セット内容",
+          "translation": "Set Contents",
+          "bbox": [0.1061, 0.279, 0.11729999999999999, 0.019533905982971167],
+          "layout": "panel"
+        },
+        {
+          "text": "※WEB取扱説明書内の画像はイメージです。",
+          "translation": "Images in the online instruction manual are for illustrative purposes.",
+          "bbox": [0.07105139201879501, 0.6057, 0.33494860798120496, 0.014899999999999913],
           "layout": "panel"
         },
         {
@@ -31,19 +49,9 @@
         },
         {
           "text": "●本商品は精密に作られています。無理な力を加えたり、落としたりすると破損する恐れがあります。●本商品は精密な電子部品で構成\nされています。落としたり、水にぬらしたり、汚したり、分解したりしないでください。 また、 高温・低温になる所での使用、保管はさけてください。\n●プラスチック梱包材は開封後にはすぐに捨ててください。●本商品を樹脂製のソファーやシート、タイルなどの上に置かないでください。\n長時間接触していると色が移る場合があります。 ●可動部分・取付部分を無理な方向に強く引っ張ったり、曲げたりしないでください。",
-          "translation": "• This product is made with precision. Applying excessive force or dropping it may cause damage.\n• This product consists of precision electronic components. Do not drop it, get it wet, soil it, or disassemble it. Also avoid using or storing it in places that become very hot or very cold.\n• Dispose of plastic packing materials immediately after opening.\n• Do not place this product on resin (plastic) sofas, seats, tiles, or similar surfaces. Prolonged contact may cause color transfer.\n• Do not strongly pull or bend movable parts or mounting parts in unnatural directions.",
+          "translation": "• This product is made with precision. Applying excessive force or dropping it may cause damage.\n• This product contains delicate electronic parts. Do not drop it, get it wet, soil it, or disassemble it. Also avoid using or storing it in very hot or very cold places.\n• Dispose of plastic packing materials immediately after opening.\n• Do not place this product on resin (plastic) sofas, seats, tiles, or similar surfaces. Prolonged contact may transfer color.\n• Do not forcefully pull or bend moving parts or attachment parts in the wrong direction.",
           "bbox": [0.1079, 0.876, 0.7829591165542602, 0.05516103553771967],
           "layout": "panel"
-        },
-        {
-          "text": "WEB取扱説明書",
-          "translation": "WEB Instruction Manual",
-          "bbox": [0.0369, 0.0335, 0.1651, 0.0148]
-        },
-        {
-          "text": "セット内容",
-          "translation": "Set Contents",
-          "bbox": [0.1076, 0.2805, 0.1143, 0.0165]
         },
         {
           "text": "特戦隊",
@@ -56,11 +64,6 @@
           "bbox": [0.3247, 0.0631, 0.0314, 0.0068]
         },
         {
-          "text": "ショドウフォン\nMEMORIAL EDITION の遊び方",
-          "translation": "How to Play the ShodoPhone MEMORIAL EDITION",
-          "bbox": [0.2249, 0.147, 0.5998, 0.0703]
-        },
-        {
           "text": "ショドウフォン\n-MEMORIAL EDITION-",
           "translation": "ShodoPhone\n-MEMORIAL EDITION-",
           "bbox": [0.101, 0.3462, 0.2461, 0.0335]
@@ -71,39 +74,9 @@
           "bbox": [0.1004, 0.3903, 0.0713, 0.0136]
         },
         {
-          "text": "Till 20:09",
-          "translation": "Until 20:09",
-          "bbox": [0.3881, 0.3042, 0.0901, 0.0119]
-        },
-        {
           "text": "機能",
           "translation": "Functions",
           "bbox": [0.393, 0.3195, 0.0163, 0.0042]
-        },
-        {
-          "text": "henshin.jpg",
-          "translation": "henshin.jpg",
-          "bbox": [0.4359, 0.3229, 0.0345, 0.0038]
-        },
-        {
-          "text": "※WEB取扱説明書内の画像はイメージです。",
-          "translation": "※The images in the WEB Instruction Manual are for illustrative purposes only.",
-          "bbox": [0.0726, 0.6072, 0.3319, 0.0119]
-        },
-        {
-          "text": "PWR",
-          "translation": "PWR",
-          "bbox": [0.4281, 0.4784, 0.0127, 0.0034]
-        },
-        {
-          "text": "6",
-          "translation": "6",
-          "bbox": [0.4571, 0.503, 0.0036, 0.0042]
-        },
-        {
-          "text": "9",
-          "translation": "9",
-          "bbox": [0.4571, 0.5157, 0.006, 0.0034]
         },
         {
           "text": "充電ケーブル・・1",
@@ -111,9 +84,9 @@
           "bbox": [0.581, 0.3436, 0.1499, 0.0148]
         },
         {
-          "text": "1",
-          "translation": "1",
-          "bbox": [0.4921, 0.9691, 0.0121, 0.0119]
+          "text": "△注意 お買い上げのお客様へ 必ずお読みください。\n●本商品の対象年齢は15才以上です。 対象年齢未満のお子様には絶対に与えないでください。 ●小さな部品がありますので、\n小さなお子様が誤って飲み込まないように注意してください。 窒息などの危険があります。尖った部分や鋭い部分があります\nので、取扱や保管場所に注意してください。思わぬケガをする恐れがあります。 ●耳の近くで使用してはいけません。 誤って\n使用すると、聴覚を損なう恐れがあります。●本商品には電子部品を使用しておりますので、ペースメーカーをご使用の方は\nご注意ください。 ●ぶつけたり、ふりまわすなど乱暴な遊びをしないでください。 ●可動部分には指などを入れないでください。\nはさまれてケガをする恐れがあります。LEDの光の点滅を見続けないでください。気分が悪くなったりする恐れがあります。\n《内蔵された充電式電池を誤使用すると発熱・破裂・発火・液漏れの危険があります。 下記に注意してください》ショートさせると\n大電流が流れ、 危険です。絶対にさけてください。 ●充電済のショドウフォン-MEMORIAL EDITION-への再充電は絶対に\nしないでください。 過充電になり、 危険です。水にぬれたらすぐに使用をやめてください。 ショートの原因になります。 ●水や火の\n中に入れたり、分解、ハンダ付けは絶対にしないでください。火の近く、高温・多湿の場所での使用、充電、保管はしないでくだ\nさい。 廃棄するときは、 自治体の廃棄物処理の指示に従ってください。",
+          "translation": "△ Caution — Please read before use.\n● This product is intended for Ages 15+. Never give it to children below the target age. ● This product contains small parts; ensure that small children do not accidentally swallow them, as there is a risk of choking. ● There are pointed or sharp parts; handle and store with care to avoid accidental injury. ● Do not use near the ear. Improper use may cause hearing damage. ● This product contains electronic components; users with pacemakers should exercise caution. ● Do not play roughly, such as by hitting or swinging the product. ● Do not insert fingers or other objects into moving parts; doing so may result in injury from pinching. Do not stare at flashing LED lights for extended periods, as this may cause discomfort or nausea.\n《Improper use of the built-in rechargeable battery may cause overheating, rupture, fire, or leakage. Observe the following:》 Short-circuiting can cause a large current to flow and is dangerous; avoid it at all times. ● Do not recharge a ShodoPhone -MEMORIAL EDITION- that is already charged; overcharging is dangerous. ● Stop using the product immediately if it gets wet; this can cause a short circuit. ● Never immerse the product in water or fire, disassemble it, or attempt to solder it. Do not use, charge, or store the product near fire or in locations of high temperature or humidity. ● When disposing of the product, follow your local municipality's waste disposal guidelines.",
+          "bbox": [0.1179, 0.6682, 0.7642, 0.1758]
         }
       ],
       "image": "pages/page-0.webp",
@@ -221,44 +194,77 @@
             {
               "id": "p0",
               "kind": "heading",
-              "source_ids": [15]
+              "source_ids": [0]
             },
             {
               "id": "p1",
               "kind": "heading",
-              "source_ids": [16]
+              "source_ids": [4]
             },
             {
               "id": "p2",
+              "kind": "heading",
+              "source_ids": [1]
+            },
+            {
+              "id": "p3",
+              "kind": "prose",
+              "source_ids": [10]
+            },
+            {
+              "id": "p5",
+              "kind": "heading",
+              "source_ids": [16]
+            },
+            {
+              "id": "p6",
               "kind": "prose",
               "source_ids": [17]
             }
           ],
           "furigana": [],
-          "notes": [
-            "Source 15 contains both the caution heading and the full caution body in one OCR region, so it cannot be split by source ID. Set contents and product/diagram labels are left ungrouped."
-          ]
+          "notes": ["Retained p4 source IDs [15] unchanged: illustration-mask check"],
+          "native_artwork": [7, 9, 11, 12, 13, 18]
         },
         "mapping": [
           {
             "display_index": 0,
             "panel_id": "p0",
-            "source_ids": [15],
+            "source_ids": [0],
             "furigana_ids": [],
-            "japanese_items": [
-              "△注意 お買い上げのお客様へ 必ずお読みください。\n●本商品の対象年齢は15才以上です。 対象年齢未満のお子様には絶対に与えないでください。 ●小さな部品がありますので、\n小さなお子様が誤って飲み込まないように注意してください。 窒息などの危険があります。尖った部分や鋭い部分があります\nので、取扱や保管場所に注意してください。思わぬケガをする恐れがあります。 ●耳の近くで使用してはいけません。 誤って\n使用すると、聴覚を損なう恐れがあります。●本商品には電子部品を使用しておりますので、ペースメーカーをご使用の方は\nご注意ください。 ●ぶつけたり、ふりまわすなど乱暴な遊びをしないでください。 ●可動部分には指などを入れないでください。\nはさまれてケガをする恐れがあります。LEDの光の点滅を見続けないでください。気分が悪くなったりする恐れがあります。\n《内蔵された充電式電池を誤使用すると発熱・破裂・発火・液漏れの危険があります。 下記に注意してください》ショートさせると\n大電流が流れ、 危険です。絶対にさけてください。 ●充電済のショドウフォン-MEMORIAL EDITION-への再充電は絶対に\nしないでください。 過充電になり、 危険です。水にぬれたらすぐに使用をやめてください。 ショートの原因になります。 ●水や火の\n中に入れたり、分解、ハンダ付けは絶対にしないでください。火の近く、高温・多湿の場所での使用、充電、保管はしないでくだ\nさい。 廃棄するときは、 自治体の廃棄物処理の指示に従ってください。"
-            ]
+            "japanese_items": ["WEB取扱説明書"]
           },
           {
             "display_index": 1,
             "panel_id": "p1",
+            "source_ids": [4],
+            "furigana_ids": [],
+            "japanese_items": ["ショドウフォン\nMEMORIAL EDITION の遊び方"]
+          },
+          {
+            "display_index": 2,
+            "panel_id": "p2",
+            "source_ids": [1],
+            "furigana_ids": [],
+            "japanese_items": ["セット内容"]
+          },
+          {
+            "display_index": 3,
+            "panel_id": "p3",
+            "source_ids": [10],
+            "furigana_ids": [],
+            "japanese_items": ["※WEB取扱説明書内の画像はイメージです。"]
+          },
+          {
+            "display_index": 4,
+            "panel_id": "p5",
             "source_ids": [16],
             "furigana_ids": [],
             "japanese_items": ["《使用上の注意》"]
           },
           {
-            "display_index": 2,
-            "panel_id": "p2",
+            "display_index": 5,
+            "panel_id": "p6",
             "source_ids": [17],
             "furigana_ids": [],
             "japanese_items": [
@@ -270,28 +276,13 @@
             ]
           },
           {
-            "display_index": 3,
-            "source_ids": [0],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 4,
-            "source_ids": [1],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 5,
+            "display_index": 6,
             "source_ids": [2],
             "furigana_ids": []
           },
           {
-            "display_index": 6,
-            "source_ids": [3],
-            "furigana_ids": []
-          },
-          {
             "display_index": 7,
-            "source_ids": [4],
+            "source_ids": [3],
             "furigana_ids": []
           },
           {
@@ -305,49 +296,55 @@
             "furigana_ids": []
           },
           {
-            "display_index": 10,
+            "display_index": -1,
             "source_ids": [7],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 11,
+            "display_index": 10,
             "source_ids": [8],
             "furigana_ids": []
           },
           {
-            "display_index": 12,
+            "display_index": -1,
             "source_ids": [9],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 13,
-            "source_ids": [10],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 14,
+            "display_index": -1,
             "source_ids": [11],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 15,
+            "display_index": -1,
             "source_ids": [12],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 16,
+            "display_index": -1,
             "source_ids": [13],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 17,
+            "display_index": 11,
             "source_ids": [14],
             "furigana_ids": []
           },
           {
-            "display_index": 18,
-            "source_ids": [18],
+            "display_index": 12,
+            "source_ids": [15],
             "furigana_ids": []
+          },
+          {
+            "display_index": -1,
+            "source_ids": [18],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           }
         ],
         "uncertainties": [],
@@ -608,7 +605,7 @@
         },
         {
           "text": "取り外します。動かします。",
-          "translation": "• Remove it.\n• Move it.",
+          "translation": "• Remove.\n• Move.",
           "bbox": [0.6309, 0.0321, 0.31014050540924065, 0.018357001417875295],
           "layout": "panel"
         },
@@ -625,24 +622,20 @@
           "layout": "panel"
         },
         {
+          "text": "変身モード・・・・・・・・\n6\n召喚モード --\n7\n合体モード・\n7\nモヂカラモード\n8\nモヂカラ大弾円モード・・・・ 8\n封印モード•••\n9",
+          "translation": "• Transformation Mode ................................ 6\n• Summon Mode ...................................... 7\n• Combine Mode ..................................... 7\n• Modikara Mode .................................... 8\n• Modikara Large Projectile Mode ................... 8\n• Sealing Mode ..................................... 9",
+          "bbox": [0.5801000000000001, 0.6941, 0.3041999999999999, 0.18609999999999993],
+          "layout": "panel"
+        },
+        {
           "text": "取り付けます。 |",
           "translation": "Attach. |",
           "bbox": [0.4172, 0.0332, 0.1596, 0.0158]
         },
         {
-          "text": "LED",
-          "translation": "LED",
-          "bbox": [0.1451, 0.3976, 0.0369, 0.0081]
-        },
-        {
           "text": "【正面】",
           "translation": "[Front View]",
           "bbox": [0.2346, 0.2022, 0.0466, 0.0115]
-        },
-        {
-          "text": "Yil 20:09",
-          "translation": "Yil 20:09",
-          "bbox": [0.211, 0.2559, 0.0901, 0.0128]
         },
         {
           "text": "機能",
@@ -653,16 +646,6 @@
           "text": "テンキー",
           "translation": "Numeric keypad",
           "bbox": [0.1076, 0.453, 0.0665, 0.0098]
-        },
-        {
-          "text": "7",
-          "translation": "7",
-          "bbox": [0.2183, 0.4696, 0.006, 0.0038]
-        },
-        {
-          "text": "henshin.jpg",
-          "translation": "henshin.jpg",
-          "bbox": [0.2582, 0.275, 0.0345, 0.0038]
         },
         {
           "text": "ショドウフォン -MEMORIAL EDITION-",
@@ -678,11 +661,6 @@
           "text": "【背面】",
           "translation": "[Back]",
           "bbox": [0.4335, 0.2018, 0.0466, 0.0119]
-        },
-        {
-          "text": "MI 20:09 SHODO PHONE",
-          "translation": "MI 20:09 SHODO PHONE",
-          "bbox": [0.4522, 0.261, 0.0097, 0.0732]
         },
         {
           "text": "カバーパーツ",
@@ -720,29 +698,9 @@
           "bbox": [0.5169, 0.699, 0.0187, 0.0119]
         },
         {
-          "text": "変身モード・・・・・・・・",
-          "translation": "Transformation mode...",
-          "bbox": [0.5816, 0.6956, 0.2358, 0.0179]
-        },
-        {
-          "text": "6",
-          "translation": "6",
-          "bbox": [0.864, 0.6994, 0.0169, 0.0115]
-        },
-        {
           "text": "動作確認済み USB充電アダプター.... 3",
           "translation": "USB charging adapter (operation verified) ... 3",
           "bbox": [0.1173, 0.7301, 0.4166, 0.0162]
-        },
-        {
-          "text": "召喚モード --",
-          "translation": "Summoning Mode --",
-          "bbox": [0.5822, 0.7297, 0.1378, 0.017]
-        },
-        {
-          "text": "7",
-          "translation": "7",
-          "bbox": [0.8628, 0.7318, 0.02, 0.0123]
         },
         {
           "text": "電源の入れ方 / 切り方",
@@ -755,29 +713,9 @@
           "bbox": [0.5163, 0.7659, 0.0206, 0.0115]
         },
         {
-          "text": "合体モード・",
-          "translation": "Combination Mode",
-          "bbox": [0.5816, 0.7633, 0.1276, 0.0162]
-        },
-        {
-          "text": "7",
-          "translation": "7",
-          "bbox": [0.8634, 0.7654, 0.0193, 0.0115]
-        },
-        {
           "text": "本体の開き方・",
           "translation": "How to open the unit・",
           "bbox": [0.1179, 0.7965, 0.1578, 0.0166]
-        },
-        {
-          "text": "モヂカラモード",
-          "translation": "Mojikara Mode",
-          "bbox": [0.5834, 0.7952, 0.1566, 0.017]
-        },
-        {
-          "text": "8",
-          "translation": "8",
-          "bbox": [0.8622, 0.7948, 0.0163, 0.0162]
         },
         {
           "text": "筆モードへの変形",
@@ -795,29 +733,9 @@
           "bbox": [0.1191, 0.8957, 0.1112, 0.0153]
         },
         {
-          "text": "2",
-          "translation": "2",
-          "bbox": [0.4891, 0.9702, 0.0187, 0.0119]
-        },
-        {
           "text": "4455",
           "translation": "4455",
           "bbox": [0.5169, 0.7974, 0.0175, 0.1145]
-        },
-        {
-          "text": "モヂカラ大弾円モード・・・・ 8",
-          "translation": "Mojikara Grand Circular Blast Mode... 8",
-          "bbox": [0.5834, 0.8293, 0.2956, 0.0158]
-        },
-        {
-          "text": "封印モード•••",
-          "translation": "Sealing mode...",
-          "bbox": [0.5822, 0.8629, 0.153, 0.0158]
-        },
-        {
-          "text": "9",
-          "translation": "9",
-          "bbox": [0.8615, 0.8642, 0.0212, 0.0128]
         }
       ],
       "image": "pages/page-1.webp",
@@ -1061,15 +979,20 @@
               "id": "p3",
               "kind": "heading",
               "source_ids": [11]
+            },
+            {
+              "id": "p5",
+              "kind": "prose",
+              "source_ids": [23, 24, 26, 27, 30, 31, 33, 34, 40, 41, 42]
             }
           ],
           "furigana": [],
           "notes": [
-            "各部名称内の製品名・図中ラベル・正面/背面/側面見出しは、図解/ラベルとしてパネル化していません。",
-            "OCRの目次ページ番号ID 39は複数行の数字をまとめた領域として目次本文に含めました。",
+            "Diagram/product labels in the part-name overview are left ungrouped to avoid masking the illustration area.",
             "Conservative panel fallback: Panel p4-part-4 would mask unrelated source 39",
             "Retained p4 unchanged: Panel p4-part-0 would mask unrelated source 39"
-          ]
+          ],
+          "native_artwork": [3, 6, 9, 10, 15, 38]
         },
         "mapping": [
           {
@@ -1102,13 +1025,28 @@
           },
           {
             "display_index": 4,
+            "panel_id": "p5",
+            "source_ids": [23, 24, 26, 27, 30, 31, 33, 34, 40, 41, 42],
+            "furigana_ids": [],
+            "japanese_items": [
+              "変身モード・・・・・・・・6",
+              "召喚モード・・・・・・・・7",
+              "合体モード・・・・・・・・7",
+              "モヂカラモード・・・・・・8",
+              "モヂカラ大弾円モード・・・8",
+              "封印モード・・・・・・・・9"
+            ]
+          },
+          {
+            "display_index": 5,
             "source_ids": [1],
             "furigana_ids": []
           },
           {
-            "display_index": 5,
+            "display_index": -1,
             "source_ids": [3],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
             "display_index": 6,
@@ -1116,187 +1054,140 @@
             "furigana_ids": []
           },
           {
-            "display_index": 7,
+            "display_index": -1,
             "source_ids": [6],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 8,
+            "display_index": 7,
             "source_ids": [7],
             "furigana_ids": []
           },
           {
-            "display_index": 9,
+            "display_index": 8,
             "source_ids": [8],
             "furigana_ids": []
           },
           {
-            "display_index": 10,
+            "display_index": -1,
             "source_ids": [9],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 11,
+            "display_index": -1,
             "source_ids": [10],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 12,
+            "display_index": 9,
             "source_ids": [12],
             "furigana_ids": []
           },
           {
-            "display_index": 13,
+            "display_index": 10,
             "source_ids": [13],
             "furigana_ids": []
           },
           {
-            "display_index": 14,
+            "display_index": 11,
             "source_ids": [14],
             "furigana_ids": []
           },
           {
-            "display_index": 15,
+            "display_index": -1,
             "source_ids": [15],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 16,
+            "display_index": 12,
             "source_ids": [16],
             "furigana_ids": []
           },
           {
-            "display_index": 17,
+            "display_index": 13,
             "source_ids": [17],
             "furigana_ids": []
           },
           {
-            "display_index": 18,
+            "display_index": 14,
             "source_ids": [18],
             "furigana_ids": []
           },
           {
-            "display_index": 19,
+            "display_index": 15,
             "source_ids": [19],
             "furigana_ids": []
           },
           {
-            "display_index": 20,
+            "display_index": 16,
             "source_ids": [20],
             "furigana_ids": []
           },
           {
-            "display_index": 21,
+            "display_index": 17,
             "source_ids": [21],
             "furigana_ids": []
           },
           {
-            "display_index": 22,
+            "display_index": 18,
             "source_ids": [22],
             "furigana_ids": []
           },
           {
-            "display_index": 23,
-            "source_ids": [23],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 24,
-            "source_ids": [24],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 25,
+            "display_index": 19,
             "source_ids": [25],
             "furigana_ids": []
           },
           {
-            "display_index": 26,
-            "source_ids": [26],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 27,
-            "source_ids": [27],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 28,
+            "display_index": 20,
             "source_ids": [28],
             "furigana_ids": []
           },
           {
-            "display_index": 29,
+            "display_index": 21,
             "source_ids": [29],
             "furigana_ids": []
           },
           {
-            "display_index": 30,
-            "source_ids": [30],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 31,
-            "source_ids": [31],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 32,
+            "display_index": 22,
             "source_ids": [32],
             "furigana_ids": []
           },
           {
-            "display_index": 33,
-            "source_ids": [33],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 34,
-            "source_ids": [34],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 35,
+            "display_index": 23,
             "source_ids": [35],
             "furigana_ids": []
           },
           {
-            "display_index": 36,
+            "display_index": 24,
             "source_ids": [36],
             "furigana_ids": []
           },
           {
-            "display_index": 37,
+            "display_index": 25,
             "source_ids": [37],
             "furigana_ids": []
           },
           {
-            "display_index": 38,
+            "display_index": -1,
             "source_ids": [38],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 39,
+            "display_index": 26,
             "source_ids": [39],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 40,
-            "source_ids": [40],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 41,
-            "source_ids": [41],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 42,
-            "source_ids": [42],
             "furigana_ids": []
           }
         ],
-        "uncertainties": [],
+        "uncertainties": [
+          "Reading and intended romanization of 「モヂカラ」 — rendered here as \"Modikara\"; original uses katakana ヂ (di), which is uncommon.",
+          "Meaning and reading of 「大弾円」 — translated literally as \"Large Projectile\" but the exact nuance or official English term is unclear."
+        ],
         "ocr_lines": [
           {
             "id": 0,
@@ -1634,26 +1525,20 @@
         },
         {
           "text": "※本商品は充電完了から約2時間連続使用できます。\n※音が小さくなって聞き取りにくくなったり、\n音が繰り返し鳴るなどの誤動作を\nする場合は、充電してください。",
-          "translation": "• This product can be used continuously for approximately 2 hours after charging is complete.\n• If the sound becomes quieter and difficult to hear, or if a malfunction such as the sound repeating occurs, please charge it.",
+          "translation": "• After a full charge, this product can be used continuously for about 2 hours.\n• If the sound becomes quiet and hard to hear, or if the sound repeats or other malfunctions occur, charge the product.",
           "bbox": [0.07770193672180176, 0.129, 0.5132781057357787, 0.0713],
           "layout": "panel"
         },
         {
           "text": "①カバーパーツを取り外します。\n②充電ケーブルを取り付けます。\n本体の取り付け部分に充電ケーブルのType-C端子側を\n取り付け、 Type-A端子側をパソコンのUSB端子、\nまたはUSB充電アダプターに接続します。\n充電ケーブル\n(Typec端子側)",
-          "translation": "• 1) Remove the cover parts.\n• 2) Attach the charging cable.\n• Attach the Type-C end of the charging cable to the device's attachment port, and connect the Type-A end to a computer USB port or a USB charging adapter.\n• Do not use/play while charging.\n• If the power is ON, the LED will light.\n• Charging cable (Type-C end)",
+          "translation": "• 1. Remove the cover part.\n• 2. Attach the charging cable. Plug the cable's Type‑C end into the device's connector, and plug the Type‑A end into a computer USB port or a USB charging adapter.\n• You cannot play while the device is charging.\n• If the power is ON, the LED will light.\n• Charging cable (Type‑C end)",
           "bbox": [0.0777, 0.1998, 0.5133, 0.09470000000000003],
           "layout": "panel"
         },
         {
-          "text": "※充電中は遊べません。\n※電源がONだとLEDが発光します。\n※電源がOFFだとLEDは発光しません。\n③充電が完了したら、\n充電ケーブルを取り外します。\n※充電は約4時間で完了します。\n※充電完了時に電源がOFFになります。\n④カバーパーツを戻します。",
-          "translation": "• Cannot be played while charging.\n• If the power is ON, the LED will light.\n• If the power is OFF, the LED will not light.\n• 3. When charging is complete, disconnect the charging cable.\n• Charging completes in about 4 hours.\n• When charging is complete, the power will turn OFF.\n• 4. Reattach the cover parts.",
-          "bbox": [0.0783, 0.269, 0.3095361477851868, 0.1059],
-          "layout": "panel"
-        },
-        {
-          "text": "カバーパーツの突起と\n本体のミゾを合わせ、\nカバーパーツを閉じます。",
-          "translation": "Align the protrusions on the cover parts with the grooves on the main body, then close the cover parts.",
-          "bbox": [0.09886275535821915, 0.3744, 0.2249372446417809, 0.0383],
+          "text": "※充電中は遊べません。\n※電源がONだとLEDが発光します。\n※電源がOFFだとLEDは発光しません。\n③充電が完了したら、\n充電ケーブルを取り外します。\n※充電は約4時間で完了します。\n※充電完了時に電源がOFFになります。\n④カバーパーツを戻します。\nカバーパーツの突起と\n本体のミゾを合わせ、\nカバーパーツを閉じます。",
+          "translation": "• Do not use the toy while it is charging.\n• When the power is ON, the LED lights.\n• When the power is OFF, the LED does not light.\n• ③ When charging is complete, unplug the charging cable.\n• Charging takes about 4 hours.\n• The power will turn OFF when charging is finished.\n• ④ Replace the cover parts. Align the cover part's projection with the groove on the main body, then close the cover.",
+          "bbox": [0.0783, 0.269, 0.3095361477851868, 0.1437],
           "layout": "panel"
         },
         {
@@ -1671,55 +1556,15 @@
           "layout": "panel"
         },
         {
-          "text": "Anker PowerPort mini",
-          "translation": "Anker PowerPort mini",
-          "bbox": [
-            0.10969999999999999, 0.6070000000000001, 0.23340000000000002, 0.011101943969726413
-          ],
-          "layout": "panel"
-        },
-        {
-          "text": "Anker PowerPort 2 Elite",
-          "translation": "Anker PowerPort 2 Elite",
-          "bbox": [0.0958, 0.7046809301376343, 0.26180640048980713, 0.011419069862365627],
-          "layout": "panel"
-        },
-        {
           "text": "サンワサプライ株式会社",
           "translation": "Sanwa Supply Inc.",
           "bbox": [0.4247, 0.5822563276290894, 0.21948440008163445, 0.012643672370910575],
           "layout": "panel"
         },
         {
-          "text": "ACA-IP49BKN",
-          "translation": "ACA-IP49BKN",
-          "bbox": [0.4501, 0.6082000000000001, 0.1565999999999999, 0.01079999999999992],
-          "layout": "panel"
-        },
-        {
-          "text": "ACA-IP70BK\nACA-IP70W",
-          "translation": "• ACA-IP70BK\n• ACA-IP70W",
-          "bbox": [0.45799214696884155, 0.7166, 0.14210785303115842, 0.025419583225250175],
-          "layout": "panel"
-        },
-        {
           "text": "エレコム株式会社",
           "translation": "Elecom Co., Ltd.",
           "bbox": [0.7282000000000001, 0.5822563276290894, 0.160845347213745, 0.012943672370910542],
-          "layout": "panel"
-        },
-        {
-          "text": "AVA-ACUAN007",
-          "translation": "AVA-ACUAN007",
-          "bbox": [0.7155, 0.6073000000000001, 0.18866019105911247, 0.011699999999999933],
-          "layout": "panel"
-        },
-        {
-          "text": "MPA-ACU07",
-          "translation": "MPA-ACU07",
-          "bbox": [
-            0.7403000000000001, 0.7228953347206116, 0.14028101081848132, 0.01110466527938836
-          ],
           "layout": "panel"
         },
         {
@@ -1763,6 +1608,11 @@
           "bbox": [0.0943, 0.5342, 0.8017, 0.0364]
         },
         {
+          "text": "Anker PowerPort mini",
+          "translation": "Anker PowerPort mini",
+          "bbox": [0.1112, 0.6085, 0.2304, 0.0081]
+        },
+        {
           "text": "ANKER",
           "translation": "ANKER",
           "bbox": [0.1729, 0.6575, 0.0472, 0.0099]
@@ -1773,6 +1623,11 @@
           "bbox": [0.266, 0.6566, 0.0085, 0.0042]
         },
         {
+          "text": "Anker PowerPort 2 Elite",
+          "translation": "Anker PowerPort 2 Elite",
+          "bbox": [0.0973, 0.7062, 0.2588, 0.0084]
+        },
+        {
           "text": "ANKER",
           "translation": "ANKER",
           "bbox": [0.1675, 0.7755, 0.0502, 0.0116]
@@ -1781,6 +1636,26 @@
           "text": "1Q",
           "translation": "1Q",
           "bbox": [0.2908, 0.7725, 0.0151, 0.0075]
+        },
+        {
+          "text": "ACA-IP49BKN",
+          "translation": "ACA-IP49BKN",
+          "bbox": [0.4516, 0.6097, 0.1536, 0.0078]
+        },
+        {
+          "text": "AVA-ACUAN007",
+          "translation": "AVA-ACUAN007",
+          "bbox": [0.717, 0.6088, 0.1856, 0.0087]
+        },
+        {
+          "text": "ACA-IP70BK\nACA-IP70W",
+          "translation": "ACA-IP70BK\nACA-IP70W",
+          "bbox": [0.4595, 0.7181, 0.1391, 0.0224]
+        },
+        {
+          "text": "MPA-ACU07",
+          "translation": "MPA-ACU07",
+          "bbox": [0.7418, 0.7244, 0.1372, 0.0081]
         },
         {
           "text": "※充電の際には必ず、本体付属の「充電ケーブル」をご使用ください。\n※各社 USB充電アダプターの販売状況などに関しましては、各メーカーや、店頭にてご確認ください。\n※弊社にて上記機器との動作を確認しておりますが、動作保証をするものではありませんので、あらかじめご了承ください。\n※上記機器の取扱説明書も必ずご確認の上、正しくご使用ください。\n※弊社が独自に動作確認したものですので、ショドウフォン-MEMORIAL EDITION-について",
@@ -2023,70 +1898,35 @@
             {
               "id": "p6",
               "kind": "prose",
-              "source_ids": [6]
+              "source_ids": [6, 15, 16, 17]
             },
             {
               "id": "p7",
-              "kind": "prose",
-              "source_ids": [15, 16, 17]
-            },
-            {
-              "id": "p8",
               "kind": "heading",
               "source_ids": [19]
             },
             {
-              "id": "p10",
+              "id": "p9",
               "kind": "heading",
               "source_ids": [21]
             },
             {
-              "id": "p11",
-              "kind": "prose",
-              "source_ids": [22]
-            },
-            {
-              "id": "p12",
-              "kind": "prose",
-              "source_ids": [25]
-            },
-            {
-              "id": "p13",
+              "id": "p10",
               "kind": "heading",
               "source_ids": [28]
             },
             {
-              "id": "p14",
-              "kind": "prose",
-              "source_ids": [29]
-            },
-            {
-              "id": "p15",
-              "kind": "prose",
-              "source_ids": [32]
-            },
-            {
-              "id": "p16",
+              "id": "p11",
               "kind": "heading",
               "source_ids": [30]
-            },
-            {
-              "id": "p17",
-              "kind": "prose",
-              "source_ids": [31]
-            },
-            {
-              "id": "p18",
-              "kind": "prose",
-              "source_ids": [33]
             }
           ],
           "furigana": [],
           "notes": [
-            "Diagram/device labels, product-image logos, small display text, page number, and illustration labels are left ungrouped.",
-            "Panel p9 retained original English after failed automatic checks",
-            "Panel p19 retained original English after failed automatic checks"
-          ]
+            "Panel p8 retained original English after failed automatic checks",
+            "Panel p12 retained original English after failed automatic checks"
+          ],
+          "native_artwork": []
         },
         "mapping": [
           {
@@ -2134,17 +1974,16 @@
             "furigana_ids": [],
             "japanese_items": [
               "①カバーパーツを取り外します。",
-              "②充電ケーブルを取り付けます。",
-              "本体の取り付け部分に充電ケーブルのType-C端子側を取り付け、Type-A端子側をパソコンのUSB端子、またはUSB充電アダプターに接続します。",
+              "②充電ケーブルを取り付けます。本体の取り付け部分に充電ケーブルのType‑C端子側を取り付け、Type‑A端子側をパソコンのUSB端子、またはUSB充電アダプターに接続します。",
               "※充電中は遊べません。",
               "※電源がONだとLEDが発光します。",
-              "充電ケーブル (Typec端子側)"
+              "充電ケーブル（Typec端子側）"
             ]
           },
           {
             "display_index": 6,
             "panel_id": "p6",
-            "source_ids": [6],
+            "source_ids": [6, 15, 16, 17],
             "furigana_ids": [],
             "japanese_items": [
               "※充電中は遊べません。",
@@ -2153,163 +1992,144 @@
               "③充電が完了したら、充電ケーブルを取り外します。",
               "※充電は約4時間で完了します。",
               "※充電完了時に電源がOFFになります。",
-              "④カバーパーツを戻します。"
+              "④カバーパーツを戻します。カバーパーツの突起と本体のミゾを合わせ、カバーパーツを閉じます。"
             ]
           },
           {
             "display_index": 7,
             "panel_id": "p7",
-            "source_ids": [15, 16, 17],
-            "furigana_ids": [],
-            "japanese_items": ["カバーパーツの突起と本体のミゾを合わせ、カバーパーツを閉じます。"]
-          },
-          {
-            "display_index": 8,
-            "panel_id": "p8",
             "source_ids": [19],
             "furigana_ids": [],
             "japanese_items": ["動作確認済み USB充電アダプター"]
           },
           {
-            "display_index": 9,
-            "panel_id": "p10",
+            "display_index": 8,
+            "panel_id": "p9",
             "source_ids": [21],
             "furigana_ids": [],
             "japanese_items": ["アンカー・ジャパン株式会社"]
           },
           {
-            "display_index": 10,
-            "panel_id": "p11",
-            "source_ids": [22],
-            "furigana_ids": [],
-            "japanese_items": ["Anker PowerPort mini"]
-          },
-          {
-            "display_index": 11,
-            "panel_id": "p12",
-            "source_ids": [25],
-            "furigana_ids": [],
-            "japanese_items": ["Anker PowerPort 2 Elite"]
-          },
-          {
-            "display_index": 12,
-            "panel_id": "p13",
+            "display_index": 9,
+            "panel_id": "p10",
             "source_ids": [28],
             "furigana_ids": [],
             "japanese_items": ["サンワサプライ株式会社"]
           },
           {
-            "display_index": 13,
-            "panel_id": "p14",
-            "source_ids": [29],
-            "furigana_ids": [],
-            "japanese_items": ["ACA-IP49BKN"]
-          },
-          {
-            "display_index": 14,
-            "panel_id": "p15",
-            "source_ids": [32],
-            "furigana_ids": [],
-            "japanese_items": ["ACA-IP70BK", "ACA-IP70W"]
-          },
-          {
-            "display_index": 15,
-            "panel_id": "p16",
+            "display_index": 10,
+            "panel_id": "p11",
             "source_ids": [30],
             "furigana_ids": [],
             "japanese_items": ["エレコム株式会社"]
           },
           {
-            "display_index": 16,
-            "panel_id": "p17",
-            "source_ids": [31],
-            "furigana_ids": [],
-            "japanese_items": ["AVA-ACUAN007"]
-          },
-          {
-            "display_index": 17,
-            "panel_id": "p18",
-            "source_ids": [33],
-            "furigana_ids": [],
-            "japanese_items": ["MPA-ACU07"]
-          },
-          {
-            "display_index": 18,
+            "display_index": 11,
             "source_ids": [7],
             "furigana_ids": []
           },
           {
-            "display_index": 19,
+            "display_index": 12,
             "source_ids": [8],
             "furigana_ids": []
           },
           {
-            "display_index": 20,
+            "display_index": 13,
             "source_ids": [10],
             "furigana_ids": []
           },
           {
-            "display_index": 21,
+            "display_index": 14,
             "source_ids": [12],
             "furigana_ids": []
           },
           {
-            "display_index": 22,
+            "display_index": 15,
             "source_ids": [13],
             "furigana_ids": []
           },
           {
-            "display_index": 23,
+            "display_index": 16,
             "source_ids": [14],
             "furigana_ids": []
           },
           {
-            "display_index": 24,
+            "display_index": 17,
             "source_ids": [18],
             "furigana_ids": []
           },
           {
-            "display_index": 25,
+            "display_index": 18,
             "source_ids": [20],
             "furigana_ids": []
           },
           {
-            "display_index": 26,
+            "display_index": 19,
+            "source_ids": [22],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 20,
             "source_ids": [23],
             "furigana_ids": []
           },
           {
-            "display_index": 27,
+            "display_index": 21,
             "source_ids": [24],
             "furigana_ids": []
           },
           {
-            "display_index": 28,
+            "display_index": 22,
+            "source_ids": [25],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 23,
             "source_ids": [26],
             "furigana_ids": []
           },
           {
-            "display_index": 29,
+            "display_index": 24,
             "source_ids": [27],
             "furigana_ids": []
           },
           {
-            "display_index": 30,
+            "display_index": 25,
+            "source_ids": [29],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 26,
+            "source_ids": [31],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 27,
+            "source_ids": [32],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 28,
+            "source_ids": [33],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 29,
             "source_ids": [34],
             "furigana_ids": []
           },
           {
-            "display_index": 31,
+            "display_index": 30,
             "source_ids": [35],
             "furigana_ids": []
           },
           {
-            "display_index": 32,
+            "display_index": 31,
             "source_ids": [36],
             "furigana_ids": []
           }
         ],
-        "uncertainties": ["No Japanese text detected; panel contains an alphanumeric code only."],
+        "uncertainties": [],
         "ocr_lines": [
           {
             "id": 0,
@@ -2737,6 +2557,14 @@
     {
       "blocks": [
         {
+          "text": "WEB取扱説明書 矢印一覧 ◆ ■ 取り付けます。|",
+          "translation": "• Web instruction manual\n• Arrow guide\n• Attach.",
+          "bbox": [
+            0.03538029199838638, 0.022099999999999998, 0.5411197080016137, 0.01456216948628426
+          ],
+          "layout": "panel"
+        },
+        {
           "text": "電源の入れ方 / 切り方",
           "translation": "How to turn the power on/off",
           "bbox": [0.1883, 0.07458366012573242, 0.3222689063072204, 0.01881633987426759],
@@ -2762,7 +2590,7 @@
         },
         {
           "text": "図のようにしっかり本体を開きます。\n展開音が鳴ります。\n※元に戻す場合は矢印と逆方向に閉じます。",
-          "translation": "• Firmly open the main unit as shown in the illustration.\n• An opening/deployment sound will play.\n• To return it to its original position, close it in the direction opposite the arrow.",
+          "translation": "• Open the unit firmly as shown in the illustration.\n• An opening sound will play.\n• To close it back, close it in the direction opposite the arrow.",
           "bbox": [0.09946735507249832, 0.440452109336853, 0.3186326449275017, 0.03604789066314695],
           "layout": "panel"
         },
@@ -2774,7 +2602,7 @@
         },
         {
           "text": "※本体を開いた状態で行います。",
-          "translation": "Perform this with the main unit open.",
+          "translation": "Do this with the main unit open.",
           "bbox": [
             0.09519999999999999, 0.7299000000000001, 0.2908223784446716, 0.012733689880370935
           ],
@@ -2782,16 +2610,11 @@
         },
         {
           "text": "本体の右側を図のように変形させます。\n→LEDが光り、変形音が鳴り、\n筆先が飛び出します。\n※元に戻す場合は、矢印と逆方向に変形させた後、\n筆先を手で押し込んで戻します。\n※元に戻す際も変形音が鳴ります。",
-          "translation": "• Bend the right side of the main body as shown in the illustration.\n• → The LED will light, a transformation sound will play, and the pen tip will pop out.\n• ※ To return it to its original state, bend it in the direction opposite the arrow, then press the pen tip back in by hand.\n• ※ A transformation sound will also play when returning it to its original state.",
+          "translation": "• Bend the right side of the main body as shown in the illustration.\n• The LED lights, a transformation sound plays, and the brush tip pops out.\n• To return it to its original state, bend it in the direction opposite the arrow, then press the brush tip back in by hand.\n• A transformation sound also plays when returning it to its original state.",
           "bbox": [
             0.09825816309452057, 0.7605000000000001, 0.35734183690547944, 0.07064533567428577
           ],
           "layout": "panel"
-        },
-        {
-          "text": "WEB取扱説明書 矢印一覧 ◆ ■ 取り付けます。|",
-          "translation": "WEB Instruction Manual — Arrow legend: ◆ Attach. ■ Remove. | Move.",
-          "bbox": [0.0369, 0.0236, 0.5381, 0.0115]
         },
         {
           "text": "取り外します。◆ 動かします。",
@@ -2802,11 +2625,6 @@
           "text": "本体正面のテンキー (PWR) を約3秒間長押しします。\n→LEDが2回点滅し、振動して起動音が鳴ります。",
           "translation": "Press and hold the ten‑key (PWR) on the front of the unit for about 3 seconds.\n→ LED flashes twice, the unit vibrates, and a startup sound plays.",
           "bbox": [0.0998, 0.1582, 0.4674, 0.0233]
-        },
-        {
-          "text": "LED",
-          "translation": "LED",
-          "bbox": [0.653, 0.1843, 0.0369, 0.0061]
         },
         {
           "text": "テンキー(PWR)",
@@ -2824,11 +2642,6 @@
           "bbox": [0.0998, 0.247, 0.4897, 0.047]
         },
         {
-          "text": "Til 20:09 SHODO PHONE",
-          "translation": "Until 20:09 SHODO PHONE",
-          "bbox": [0.4861, 0.5441, 0.0157, 0.0591]
-        },
-        {
           "text": "Yil 20:09",
           "translation": "Yil 20:09",
           "bbox": [0.5248, 0.7454, 0.0804, 0.0076]
@@ -2844,11 +2657,6 @@
           "bbox": [0.5284, 0.7545, 0.0145, 0.0036]
         },
         {
-          "text": "henshin.jpg",
-          "translation": "henshin.jpg",
-          "bbox": [0.5659, 0.7587, 0.032, 0.0048]
-        },
-        {
           "text": "4",
           "translation": "4",
           "bbox": [0.4885, 0.9791, 0.02, 0.0082]
@@ -2857,26 +2665,6 @@
           "text": "変",
           "translation": "Strange",
           "bbox": [0.5671, 0.7642, 0.0175, 0.0127]
-        },
-        {
-          "text": "PWR",
-          "translation": "PWR",
-          "bbox": [0.5593, 0.87, 0.0127, 0.0036]
-        },
-        {
-          "text": "PWR",
-          "translation": "PWR",
-          "bbox": [0.7823, 0.2189, 0.0169, 0.0039]
-        },
-        {
-          "text": "13",
-          "translation": "13",
-          "bbox": [0.8222, 0.2322, 0.0091, 0.0045]
-        },
-        {
-          "text": "4",
-          "translation": "4",
-          "bbox": [0.7328, 0.2455, 0.0085, 0.0045]
         },
         {
           "text": "た",
@@ -2889,39 +2677,9 @@
           "bbox": [0.7944, 0.2455, 0.006, 0.0024]
         },
         {
-          "text": "GHI",
-          "translation": "GHI",
-          "bbox": [0.7467, 0.2483, 0.0109, 0.0021]
-        },
-        {
-          "text": "6",
-          "translation": "6",
-          "bbox": [0.8253, 0.2452, 0.0054, 0.0048]
-        },
-        {
-          "text": "MNC",
-          "translation": "MNC",
-          "bbox": [0.8362, 0.2486, 0.0121, 0.0015]
-        },
-        {
           "text": "ま",
           "translation": "Ma",
           "bbox": [0.7491, 0.2586, 0.0048, 0.0027]
-        },
-        {
-          "text": "8",
-          "translation": "8",
-          "bbox": [0.7793, 0.2589, 0.0067, 0.0039]
-        },
-        {
-          "text": "PORE",
-          "translation": "PORE",
-          "bbox": [0.7449, 0.2622, 0.0109, 0.0015]
-        },
-        {
-          "text": "9",
-          "translation": "9",
-          "bbox": [0.8247, 0.2592, 0.0097, 0.0039]
         },
         {
           "text": "小",
@@ -2954,44 +2712,14 @@
           "bbox": [0.8374, 0.4113, 0.0254, 0.0061]
         },
         {
-          "text": "henshin.jpg",
-          "translation": "henshin.jpg",
-          "bbox": [0.8192, 0.4256, 0.0375, 0.0042]
-        },
-        {
           "text": "変身",
           "translation": "Transformation",
           "bbox": [0.818, 0.431, 0.0242, 0.0306]
         },
         {
-          "text": "PWR",
-          "translation": "PWR",
-          "bbox": [0.812, 0.552, 0.0151, 0.0045]
-        },
-        {
-          "text": "3",
-          "translation": "3",
-          "bbox": [0.8398, 0.565, 0.0054, 0.0036]
-        },
-        {
-          "text": "6",
-          "translation": "6",
-          "bbox": [0.8404, 0.575, 0.0054, 0.0036]
-        },
-        {
           "text": "8.",
           "translation": "8.",
           "bbox": [0.8102, 0.5808, 0.0145, 0.0045]
-        },
-        {
-          "text": "9",
-          "translation": "9",
-          "bbox": [0.8404, 0.5847, 0.0067, 0.0036]
-        },
-        {
-          "text": "20",
-          "translation": "20",
-          "bbox": [0.8096, 0.5908, 0.0073, 0.0033]
         },
         {
           "text": "#",
@@ -3267,6 +2995,11 @@
         "plan": {
           "panels": [
             {
+              "id": "p0",
+              "kind": "prose",
+              "source_ids": [0]
+            },
+            {
               "id": "p1",
               "kind": "heading",
               "source_ids": [1]
@@ -3309,41 +3042,53 @@
           ],
           "furigana": [],
           "notes": [
+            "Keypad/screen/product labels are left ungrouped as diagram labels.",
+            "p0: excluded other-column members; retained separately",
             "Panel p3 retained original English after failed automatic checks",
             "Panel p5 retained original English after failed automatic checks"
+          ],
+          "native_artwork": [
+            5, 12, 19, 22, 23, 24, 25, 28, 29, 30, 32, 33, 34, 41, 43, 44, 45, 47, 48
           ]
         },
         "mapping": [
           {
             "display_index": 0,
+            "panel_id": "p0",
+            "source_ids": [0],
+            "furigana_ids": [],
+            "japanese_items": ["WEB取扱説明書", "矢印一覧", "取り付けます。"]
+          },
+          {
+            "display_index": 1,
             "panel_id": "p1",
             "source_ids": [1],
             "furigana_ids": [],
             "japanese_items": ["電源の入れ方 / 切り方"]
           },
           {
-            "display_index": 1,
+            "display_index": 2,
             "panel_id": "p2",
             "source_ids": [2],
             "furigana_ids": [],
             "japanese_items": ["電源の入れ方"]
           },
           {
-            "display_index": 2,
+            "display_index": 3,
             "panel_id": "p4",
             "source_ids": [6],
             "furigana_ids": [],
             "japanese_items": ["電源の切り方"]
           },
           {
-            "display_index": 3,
+            "display_index": 4,
             "panel_id": "p6",
             "source_ids": [10],
             "furigana_ids": [],
             "japanese_items": ["本体の開き方"]
           },
           {
-            "display_index": 4,
+            "display_index": 5,
             "panel_id": "p7",
             "source_ids": [11],
             "furigana_ids": [],
@@ -3354,21 +3099,21 @@
             ]
           },
           {
-            "display_index": 5,
+            "display_index": 6,
             "panel_id": "p8",
             "source_ids": [13],
             "furigana_ids": [],
             "japanese_items": ["筆モードへの変形"]
           },
           {
-            "display_index": 6,
+            "display_index": 7,
             "panel_id": "p9",
             "source_ids": [14],
             "furigana_ids": [],
             "japanese_items": ["※本体を開いた状態で行います。"]
           },
           {
-            "display_index": 7,
+            "display_index": 8,
             "panel_id": "p10",
             "source_ids": [15],
             "furigana_ids": [],
@@ -3378,11 +3123,6 @@
               "※元に戻す場合は、矢印と逆方向に変形させた後、筆先を手で押し込んで戻します。",
               "※元に戻す際も変形音が鳴ります。"
             ]
-          },
-          {
-            "display_index": 8,
-            "source_ids": [0],
-            "furigana_ids": []
           },
           {
             "display_index": 9,
@@ -3395,202 +3135,221 @@
             "furigana_ids": []
           },
           {
-            "display_index": 11,
+            "display_index": -1,
             "source_ids": [5],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 12,
+            "display_index": 11,
             "source_ids": [7],
             "furigana_ids": []
           },
           {
-            "display_index": 13,
+            "display_index": 12,
             "source_ids": [8],
             "furigana_ids": []
           },
           {
-            "display_index": 14,
+            "display_index": 13,
             "source_ids": [9],
             "furigana_ids": []
           },
           {
-            "display_index": 15,
+            "display_index": -1,
             "source_ids": [12],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 16,
+            "display_index": 14,
             "source_ids": [16],
             "furigana_ids": []
           },
           {
-            "display_index": 17,
+            "display_index": 15,
             "source_ids": [17],
             "furigana_ids": []
           },
           {
-            "display_index": 18,
+            "display_index": 16,
             "source_ids": [18],
             "furigana_ids": []
           },
           {
-            "display_index": 19,
+            "display_index": -1,
             "source_ids": [19],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 20,
+            "display_index": 17,
             "source_ids": [20],
             "furigana_ids": []
           },
           {
-            "display_index": 21,
+            "display_index": 18,
             "source_ids": [21],
             "furigana_ids": []
           },
           {
-            "display_index": 22,
+            "display_index": -1,
             "source_ids": [22],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 23,
+            "display_index": -1,
             "source_ids": [23],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 24,
+            "display_index": -1,
             "source_ids": [24],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 25,
+            "display_index": -1,
             "source_ids": [25],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 26,
+            "display_index": 19,
             "source_ids": [26],
             "furigana_ids": []
           },
           {
-            "display_index": 27,
+            "display_index": 20,
             "source_ids": [27],
             "furigana_ids": []
           },
           {
-            "display_index": 28,
+            "display_index": -1,
             "source_ids": [28],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 29,
+            "display_index": -1,
             "source_ids": [29],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 30,
+            "display_index": -1,
             "source_ids": [30],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 31,
+            "display_index": 21,
             "source_ids": [31],
             "furigana_ids": []
           },
           {
-            "display_index": 32,
+            "display_index": -1,
             "source_ids": [32],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 33,
+            "display_index": -1,
             "source_ids": [33],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 34,
+            "display_index": -1,
             "source_ids": [34],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 35,
+            "display_index": 22,
             "source_ids": [35],
             "furigana_ids": []
           },
           {
-            "display_index": 36,
+            "display_index": 23,
             "source_ids": [36],
             "furigana_ids": []
           },
           {
-            "display_index": 37,
+            "display_index": 24,
             "source_ids": [37],
             "furigana_ids": []
           },
           {
-            "display_index": 38,
+            "display_index": 25,
             "source_ids": [38],
             "furigana_ids": []
           },
           {
-            "display_index": 39,
+            "display_index": 26,
             "source_ids": [39],
             "furigana_ids": []
           },
           {
-            "display_index": 40,
+            "display_index": 27,
             "source_ids": [40],
             "furigana_ids": []
           },
           {
-            "display_index": 41,
+            "display_index": -1,
             "source_ids": [41],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 42,
+            "display_index": 28,
             "source_ids": [42],
             "furigana_ids": []
           },
           {
-            "display_index": 43,
+            "display_index": -1,
             "source_ids": [43],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 44,
+            "display_index": -1,
             "source_ids": [44],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 45,
+            "display_index": -1,
             "source_ids": [45],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 46,
+            "display_index": 29,
             "source_ids": [46],
             "furigana_ids": []
           },
           {
-            "display_index": 47,
+            "display_index": -1,
             "source_ids": [47],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 48,
+            "display_index": -1,
             "source_ids": [48],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 49,
+            "display_index": 30,
             "source_ids": [49],
             "furigana_ids": []
           },
           {
-            "display_index": 50,
+            "display_index": 31,
             "source_ids": [50],
             "furigana_ids": []
           }
@@ -4052,19 +3811,13 @@
         },
         {
           "text": "※本体を開いた状態で行います。",
-          "translation": "Note: Perform this with the unit open.",
+          "translation": "Do this while the main unit is open.",
           "bbox": [0.0958, 0.16847617483139038, 0.29022237844467164, 0.016123825168609635],
           "layout": "panel"
         },
         {
-          "text": "A本体正面のテンキーの\nコールボタンを押します。\nLEDが光り、コール音が鳴ります。\n※コール音再生中に再度コールボタンを\n押すと、コール音が始めから鳴ります。",
-          "translation": "• Press the call button on the keypad on the front of main unit A.\n• The LED lights and a call tone sounds.\n• If you press the call button again while the call tone is playing, the call tone will play from the beginning.",
-          "bbox": [0.09825816309452057, 0.2058, 0.32344183690547945, 0.08120000000000002],
-          "layout": "panel"
-        },
-        {
           "text": "©本体正面のテンキー\n(PWR・2・5・8・0) を押します。\nLEDが光り、押した\nテンキーに対応した\n折神音が鳴ります。",
-          "translation": "• Press the front-panel keypad (PWR, 2, 5, 8, 0).\n• The LED will light, and a sound corresponding to the pressed key will play.",
+          "translation": "• Press the front keypad on the main unit (PWR, 2, 5, 8, 0).\n• The LED lights and the Orishin sound corresponding to the pressed key plays.",
           "bbox": [0.09765357083082199, 0.4564, 0.28776420789957047, 0.08679999999999993],
           "layout": "panel"
         },
@@ -4081,33 +3834,9 @@
           "layout": "panel"
         },
         {
-          "text": "獅子折神音",
-          "translation": "Shishi-Ori Divine Sound",
-          "bbox": [0.5311, 0.4774515435695648, 0.07801791467666619, 0.022348456430435204],
-          "layout": "panel"
-        },
-        {
-          "text": "龍折神音",
-          "translation": "Dragon-Breaking Divine Sound",
-          "bbox": [0.5311, 0.49929429149627685, 0.06350764074325554, 0.022705708503723165],
-          "layout": "panel"
-        },
-        {
-          "text": "熊折神音",
-          "translation": "Bear‑Fold Divine Sound",
-          "bbox": [0.5311, 0.5215000000000001, 0.06350764074325554, 0.02199999999999991],
-          "layout": "panel"
-        },
-        {
-          "text": "猿折神音",
-          "translation": "Monkey-Fold Divine Sound",
-          "bbox": [0.5311, 0.5429797277450562, 0.06350764074325554, 0.022320272254943818],
-          "layout": "panel"
-        },
-        {
-          "text": "亀折神音",
-          "translation": "Turtle‑Fold Divine Sound",
-          "bbox": [0.5311, 0.5648000000000001, 0.06290301122665398, 0.01453955335617052],
+          "text": "獅子折神音\n龍折神音\n熊折神音\n猿折神音\n亀折神音",
+          "translation": "• Lion Oreshin Sound\n• Dragon Oreshin Sound\n• Bear Oreshin Sound\n• Monkey Oreshin Sound\n• Turtle Oreshin Sound",
+          "bbox": [0.5311, 0.4774515435695648, 0.07801791467666619, 0.10188800978660578],
           "layout": "panel"
         },
         {
@@ -4120,7 +3849,7 @@
         },
         {
           "text": "本体背面のBGMボタンを\n短押しします。\nBGMボタンを\n短押しするたびに、\n表の順に音声が再生、\n停止を繰り返します。",
-          "translation": "• Briefly press the BGM button on the back of the unit.\n• Each time you briefly press the BGM button, the audio will play and stop in the order shown on the table, repeating.",
+          "translation": "Briefly press the BGM button on the back of the unit. Each time you briefly press the BGM button, the audio tracks will play and stop in the order shown, repeating.",
           "bbox": [
             0.09825816309452057, 0.7069988355636597, 0.23094183690547943, 0.09831372785568226
           ],
@@ -4139,26 +3868,10 @@
           "layout": "panel"
         },
         {
-          "text": "侍戦隊シンケンジャー",
-          "translation": "Samurai Sentai Shinkenger",
+          "text": "侍戦隊シンケンジャー\n一筆奏上!\nシンケンジャー参る!!",
+          "translation": "• Samurai Sentai Shinkenger\n• One-stroke salute!\n• Shinkenger, we're coming!!",
           "bbox": [
-            0.4978954002857208, 0.7292000000000001, 0.14870739865303034, 0.021599999999999953
-          ],
-          "layout": "panel"
-        },
-        {
-          "text": "一筆奏上!",
-          "translation": "A Brief Presentation!",
-          "bbox": [
-            0.4978954002857208, 0.7502871260643006, 0.06890459971427915, 0.01372281599044789
-          ],
-          "layout": "panel"
-        },
-        {
-          "text": "シンケンジャー参る!!",
-          "translation": "Shinkenger, charge!!",
-          "bbox": [
-            0.49910000000000004, 0.7733000000000001, 0.1414999999999999, 0.012552660179138031
+            0.4978954002857208, 0.7292000000000001, 0.14870739865303034, 0.05665266017913806
           ],
           "layout": "panel"
         },
@@ -4172,11 +3885,16 @@
         },
         {
           "text": "BGMボタンを長押しします。\n変身前の太鼓音が再生されます。\n※BGMボタンを短押しすると、音声が停止します。",
-          "translation": "• Press and hold the BGM button.\n• The pre-transformation taiko (drum) sound will play.\n• If you press the BGM button briefly, the sound will stop.",
+          "translation": "• Press and hold the BGM button.\n• The pre-transformation taiko drum sound will play.\n• A short press of the BGM button stops the sound.",
           "bbox": [
             0.09946735507249832, 0.8281000000000001, 0.37483264492750173, 0.04671217527389515
           ],
           "layout": "panel"
+        },
+        {
+          "text": "A本体正面のテンキーの\nコールボタンを押します。\nLEDが光り、コール音が鳴ります。\n※コール音再生中に再度コールボタンを\n押すと、コール音が始めから鳴ります。",
+          "translation": "A. Press the Call button on the numeric keypad on the front of the unit. The LED will light and the call tone will play. *If you press the Call button again while the call tone is playing, the call tone will restart from the beginning.",
+          "bbox": [0.0998, 0.2073, 0.3204, 0.0782]
         },
         {
           "text": "⑥本体正面のテンキー(1・4・7) のどれかを押します。\nテンキーを押すたびにLEDが光り、\n入力音A~Cが順に鳴ります。\n※どのテンキーを押しても、入力音A〜Cが順に鳴ります。",
@@ -4184,24 +3902,9 @@
           "bbox": [0.0998, 0.3118, 0.4976, 0.0655]
         },
         {
-          "text": "Till 20:09",
-          "translation": "Until 20:09",
-          "bbox": [0.7231, 0.1906, 0.1348, 0.0163]
-        },
-        {
           "text": "機能",
           "translation": "Function",
           "bbox": [0.7291, 0.2117, 0.0254, 0.0064]
-        },
-        {
-          "text": "henshin.jpg",
-          "translation": "henshin.jpg",
-          "bbox": [0.7944, 0.2164, 0.052, 0.0044]
-        },
-        {
-          "text": "LED",
-          "translation": "LED",
-          "bbox": [0.6421, 0.3868, 0.0363, 0.0079]
         },
         {
           "text": "変身",
@@ -4212,11 +3915,6 @@
           "text": "コールボタン",
           "translation": "Call button",
           "bbox": [0.5949, 0.4297, 0.0979, 0.0099]
-        },
-        {
-          "text": "PWR",
-          "translation": "PWR",
-          "bbox": [0.783, 0.4349, 0.0193, 0.0052]
         },
         {
           "text": "B",
@@ -4234,59 +3932,14 @@
           "bbox": [0.8265, 0.4694, 0.0206, 0.0052]
         },
         {
-          "text": "PWR",
-          "translation": "PWR",
-          "bbox": [0.4643, 0.4809, 0.0212, 0.006]
-        },
-        {
           "text": "8 や",
           "translation": "8 Ya",
           "bbox": [0.7799, 0.4861, 0.023, 0.0068]
         },
         {
-          "text": "19",
-          "translation": "19",
-          "bbox": [0.8229, 0.4881, 0.0091, 0.0048]
-        },
-        {
-          "text": "2",
-          "translation": "2",
-          "bbox": [0.4595, 0.5028, 0.0103, 0.0064]
-        },
-        {
           "text": "#",
           "translation": "#",
           "bbox": [0.8247, 0.5052, 0.0085, 0.0044]
-        },
-        {
-          "text": "5",
-          "translation": "5",
-          "bbox": [0.4607, 0.5254, 0.0091, 0.0056]
-        },
-        {
-          "text": "18",
-          "translation": "18",
-          "bbox": [0.4565, 0.5453, 0.0115, 0.0079]
-        },
-        {
-          "text": "1",
-          "translation": "1",
-          "bbox": [0.4377, 0.7315, 0.0079, 0.0068]
-        },
-        {
-          "text": "2",
-          "translation": "2",
-          "bbox": [0.4347, 0.7538, 0.0145, 0.0064]
-        },
-        {
-          "text": "3",
-          "translation": "3",
-          "bbox": [0.4365, 0.776, 0.0109, 0.0064]
-        },
-        {
-          "text": "50",
-          "translation": "50",
-          "bbox": [0.4915, 0.9718, 0.0163, 0.0131]
         },
         {
           "text": "BGMボタン",
@@ -4582,11 +4235,6 @@
               "source_ids": [2]
             },
             {
-              "id": "p3",
-              "kind": "prose",
-              "source_ids": [3]
-            },
-            {
               "id": "p5",
               "kind": "prose",
               "source_ids": [12, 18, 23, 27]
@@ -4604,86 +4252,51 @@
             {
               "id": "p7",
               "kind": "prose",
-              "source_ids": [20]
+              "source_ids": [20, 25, 29, 31, 32]
             },
             {
               "id": "p8",
-              "kind": "prose",
-              "source_ids": [25]
-            },
-            {
-              "id": "p9",
-              "kind": "prose",
-              "source_ids": [29]
-            },
-            {
-              "id": "p10",
-              "kind": "prose",
-              "source_ids": [31]
-            },
-            {
-              "id": "p11",
-              "kind": "prose",
-              "source_ids": [32]
-            },
-            {
-              "id": "p12",
               "kind": "heading",
               "source_ids": [33]
             },
             {
-              "id": "p13",
+              "id": "p9",
               "kind": "prose",
               "source_ids": [34, 37, 40, 43, 44]
             },
             {
-              "id": "p14-a",
+              "id": "p10-a",
               "kind": "heading",
               "source_ids": [35]
             },
             {
-              "id": "p14-b",
+              "id": "p10-b",
               "kind": "heading",
               "source_ids": [36]
             },
             {
-              "id": "p15",
+              "id": "p11-native-a",
               "kind": "prose",
-              "source_ids": [39]
+              "source_ids": [39, 42, 46]
             },
             {
-              "id": "p16",
-              "kind": "prose",
-              "source_ids": [42]
-            },
-            {
-              "id": "p17",
-              "kind": "prose",
-              "source_ids": [46]
-            },
-            {
-              "id": "p18",
+              "id": "p11-native-b",
               "kind": "prose",
               "source_ids": [47]
             },
             {
-              "id": "p19",
+              "id": "p12",
               "kind": "prose",
               "source_ids": [48, 49, 50]
             }
           ],
           "furigana": [],
           "notes": [
-            "Small text and labels inside the product illustrations/key images are left ungrouped as diagram or product labels.",
-            "p7: excluded other-column members; retained separately",
-            "p8: excluded other-column members; retained separately",
-            "p9: excluded other-column members; retained separately",
-            "p10: excluded other-column members; retained separately",
-            "p15: excluded other-column members; retained separately",
-            "p16: excluded other-column members; retained separately",
-            "p17: excluded other-column members; retained separately",
+            "Conservative panel fallback: Panel p11 would mask native artwork 41",
+            "Panel p3 retained original English after failed automatic checks",
             "Panel p4 retained original English after failed automatic checks"
-          ]
+          ],
+          "native_artwork": [5, 7, 8, 11, 19, 22, 24, 28, 30, 38, 41, 45, 51]
         },
         "mapping": [
           {
@@ -4709,136 +4322,82 @@
           },
           {
             "display_index": 3,
-            "panel_id": "p3",
-            "source_ids": [3],
-            "furigana_ids": [],
-            "japanese_items": [
-              "A本体正面のテンキーのコールボタンを押します。",
-              "LEDが光り、コール音が鳴ります。",
-              "※コール音再生中に再度コールボタンを押すと、コール音が始めから鳴ります。"
-            ]
-          },
-          {
-            "display_index": 4,
             "panel_id": "p5",
             "source_ids": [12, 18, 23, 27],
             "furigana_ids": [],
             "japanese_items": [
               "本体正面のテンキー（PWR・2・5・8・0）を押します。",
-              "LEDが光り、押したテンキーに対応した音が鳴ります。"
+              "LEDが光り、押したテンキーに対応した折神音が鳴ります。"
             ]
           },
           {
-            "display_index": 5,
+            "display_index": 4,
             "panel_id": "p6-a",
             "source_ids": [13],
             "furigana_ids": [],
             "japanese_items": ["テンキー"]
           },
           {
-            "display_index": 6,
+            "display_index": 5,
             "panel_id": "p6-b",
             "source_ids": [14],
             "furigana_ids": [],
             "japanese_items": ["音声"]
           },
           {
-            "display_index": 7,
+            "display_index": 6,
             "panel_id": "p7",
-            "source_ids": [20],
+            "source_ids": [20, 25, 29, 31, 32],
             "furigana_ids": [],
-            "japanese_items": ["獅子折神音"]
+            "japanese_items": ["獅子折神音", "龍折神音", "熊折神音", "猿折神音", "亀折神音"]
           },
           {
-            "display_index": 8,
+            "display_index": 7,
             "panel_id": "p8",
-            "source_ids": [25],
-            "furigana_ids": [],
-            "japanese_items": ["龍折神音"]
-          },
-          {
-            "display_index": 9,
-            "panel_id": "p9",
-            "source_ids": [29],
-            "furigana_ids": [],
-            "japanese_items": ["熊折神音"]
-          },
-          {
-            "display_index": 10,
-            "panel_id": "p10",
-            "source_ids": [31],
-            "furigana_ids": [],
-            "japanese_items": ["猿折神音"]
-          },
-          {
-            "display_index": 11,
-            "panel_id": "p11",
-            "source_ids": [32],
-            "furigana_ids": [],
-            "japanese_items": ["亀折神音"]
-          },
-          {
-            "display_index": 12,
-            "panel_id": "p12",
             "source_ids": [33],
             "furigana_ids": [],
             "japanese_items": ["BGM 遊び"]
           },
           {
-            "display_index": 13,
-            "panel_id": "p13",
+            "display_index": 8,
+            "panel_id": "p9",
             "source_ids": [34, 37, 40, 43, 44],
             "furigana_ids": [],
             "japanese_items": [
-              "本体背面のBGMボタンを短押しします。",
-              "BGMボタンを短押しするたびに、表の順に音声が再生、停止を繰り返します。"
+              "本体背面のBGMボタンを短押しします。BGMボタンを短押しするたびに、表の順に音声が再生、停止を繰り返します。"
             ]
           },
           {
-            "display_index": 14,
-            "panel_id": "p14-a",
+            "display_index": 9,
+            "panel_id": "p10-a",
             "source_ids": [35],
             "furigana_ids": [],
             "japanese_items": ["順番"]
           },
           {
-            "display_index": 15,
-            "panel_id": "p14-b",
+            "display_index": 10,
+            "panel_id": "p10-b",
             "source_ids": [36],
             "furigana_ids": [],
             "japanese_items": ["音声"]
           },
           {
-            "display_index": 16,
-            "panel_id": "p15",
-            "source_ids": [39],
+            "display_index": 11,
+            "panel_id": "p11-native-a",
+            "source_ids": [39, 42, 46],
             "furigana_ids": [],
-            "japanese_items": ["侍戦隊シンケンジャー"]
+            "japanese_items": ["侍戦隊シンケンジャー", "一筆奏上!", "シンケンジャー参る!!"]
           },
           {
-            "display_index": 17,
-            "panel_id": "p16",
-            "source_ids": [42],
-            "furigana_ids": [],
-            "japanese_items": ["一筆奏上!"]
-          },
-          {
-            "display_index": 18,
-            "panel_id": "p17",
-            "source_ids": [46],
-            "furigana_ids": [],
-            "japanese_items": ["シンケンジャー参る!!"]
-          },
-          {
-            "display_index": 19,
-            "panel_id": "p18",
+            "display_index": 12,
+            "panel_id": "p11-native-b",
             "source_ids": [47],
             "furigana_ids": [],
             "japanese_items": ["※3の後は1に戻ります。"]
           },
           {
-            "display_index": 20,
-            "panel_id": "p19",
+            "display_index": 13,
+            "panel_id": "p12",
             "source_ids": [48, 49, 50],
             "furigana_ids": [],
             "japanese_items": [
@@ -4848,128 +4407,140 @@
             ]
           },
           {
-            "display_index": 21,
+            "display_index": 14,
+            "source_ids": [3],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 15,
             "source_ids": [4],
             "furigana_ids": []
           },
           {
-            "display_index": 22,
+            "display_index": -1,
             "source_ids": [5],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 23,
+            "display_index": 16,
             "source_ids": [6],
             "furigana_ids": []
           },
           {
-            "display_index": 24,
+            "display_index": -1,
             "source_ids": [7],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 25,
+            "display_index": -1,
             "source_ids": [8],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 26,
+            "display_index": 17,
             "source_ids": [9],
             "furigana_ids": []
           },
           {
-            "display_index": 27,
+            "display_index": 18,
             "source_ids": [10],
             "furigana_ids": []
           },
           {
-            "display_index": 28,
+            "display_index": -1,
             "source_ids": [11],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 29,
+            "display_index": 19,
             "source_ids": [15],
             "furigana_ids": []
           },
           {
-            "display_index": 30,
+            "display_index": 20,
             "source_ids": [16],
             "furigana_ids": []
           },
           {
-            "display_index": 31,
+            "display_index": 21,
             "source_ids": [17],
             "furigana_ids": []
           },
           {
-            "display_index": 32,
+            "display_index": -1,
             "source_ids": [19],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 33,
+            "display_index": 22,
             "source_ids": [21],
             "furigana_ids": []
           },
           {
-            "display_index": 34,
+            "display_index": -1,
             "source_ids": [22],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 35,
+            "display_index": -1,
             "source_ids": [24],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 36,
+            "display_index": 23,
             "source_ids": [26],
             "furigana_ids": []
           },
           {
-            "display_index": 37,
+            "display_index": -1,
             "source_ids": [28],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 38,
+            "display_index": -1,
             "source_ids": [30],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 39,
+            "display_index": -1,
             "source_ids": [38],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 40,
+            "display_index": -1,
             "source_ids": [41],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 41,
+            "display_index": -1,
             "source_ids": [45],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 42,
+            "display_index": -1,
             "source_ids": [51],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 43,
+            "display_index": 24,
             "source_ids": [52],
             "furigana_ids": []
           }
         ],
-        "uncertainties": [
-          "Translation of the proper noun '獅子折神音' is uncertain; reading and intended meaning may be a name or stylized term.",
-          "The exact nuance of 折 (fold/break) in this compound title is uncertain; translated as \"Breaking\" but could plausibly be \"Fold\" or another nuance depending on context.",
-          "Ambiguous meaning and reading: could be a proper name/title rather than a literal phrase; exact intended reading is unknown.",
-          "Phrase appears to be a title or proper name; literal word-by-word translation used. The exact intended reading/pronunciation and nuance (e.g., name vs. descriptive phrase) are uncertain.",
-          "The phrase may be a proper name or title; literal translation chosen. Reading (pronunciation) and intended meaning are ambiguous."
-        ],
+        "uncertainties": [],
         "ocr_lines": [
           {
             "id": 0,
@@ -5427,7 +4998,7 @@
         },
         {
           "text": "矢印一覧 ■ 取り付けます。| 取り外します。◆ 動かします。",
-          "translation": "• Arrow legend\n• Attach.\n• Remove.\n• Move.",
+          "translation": "• Arrow guide\n• Attach.\n• Remove.\n• Move.",
           "bbox": [
             0.2614987895488739, 0.02955095587670803, 0.6795417158603667, 0.018949044123291972
           ],
@@ -5443,14 +5014,16 @@
         },
         {
           "text": "※本体を閉じた状態から始めます。",
-          "translation": "Start with the main unit closed.",
+          "translation": "Start with the unit closed.",
           "bbox": [0.0958, 0.1692802563905716, 0.30594185180664063, 0.016136938214302066],
           "layout": "panel"
         },
         {
-          "text": "③文字書き演出\n文字書きボタンを押します。\n→本体が振動し、文字書き音Aが鳴ります。\n※さらに1秒以内に文字書きボタンを連続で押すことにより、\n文字書き音B、C、Dと順番に鳴ります。\n※文字書き音Dのあとは、文字書き音Aが鳴ります。\n※文字書きボタンを押し続けると、振動が一定時間継続します。",
-          "translation": "• 3 Character-writing effect\n• Press the character-writing button.\n• The unit vibrates and character-writing sound A plays.\n• If you press the character-writing button repeatedly within 1 second, character-writing sounds B, C, and D play in sequence.\n• After character-writing sound D, character-writing sound A plays.\n• If you keep holding the character-writing button, the vibration continues for a fixed period of time.",
-          "bbox": [0.09765357083082199, 0.512, 0.4751886590123176, 0.11239999999999994],
+          "text": "①本体を開きます。\n展開音が鳴ります。\n②本体を筆モードに変形させます。\n→LEDが光り、変形音が鳴り、\n筆先が飛び出します。",
+          "translation": "• 1. Open the main unit. A deployment sound will play.\n• 2. Transform the main unit into brush mode. The LED will light, a transformation sound will play, and the brush tip will pop out.",
+          "bbox": [
+            0.09765357083082199, 0.20829298651218414, 0.303546429169178, 0.08580701348781583
+          ],
           "layout": "panel"
         },
         {
@@ -5463,20 +5036,15 @@
         },
         {
           "text": "③から1秒後、文字書きボタンを押します。\n→LEDが光り、文字反転音が鳴り、振動します。",
-          "translation": "• One second after ③, press the character-writing button.\n• The LED lights, a character-reversal sound plays, and it vibrates.",
+          "translation": "• One second after step ③, press the character-writing button.\n• The LED lights up, a character-reverse sound plays, and the device vibrates.",
           "bbox": [0.09825816309452057, 0.641, 0.433471584200859, 0.037899999999999934],
           "layout": "panel"
         },
         {
           "text": "⑤変身演出\nコールボタンを押します。\n長押し LEDが光り、変身音が鳴ります。\n短押し LEDが光り、短縮変身音が鳴ります。",
-          "translation": "• 5. Transformation Effect\n• Press the call button.\n• Long press → the LED lights and a transformation sound plays.\n• Short press → the LED lights and a shortened transformation sound plays.",
+          "translation": "• 5 Transformation effect\n• Press the call button.\n• Press and hold: the LED lights and the transformation sound plays.\n• Press briefly: the LED lights and the shortened transformation sound plays.",
           "bbox": [0.09825816309452057, 0.6784, 0.4504418369054794, 0.07739999999999991],
           "layout": "panel"
-        },
-        {
-          "text": "①本体を開きます。\n展開音が鳴ります。\n②本体を筆モードに変形させます。\n→LEDが光り、変形音が鳴り、\n筆先が飛び出します。",
-          "translation": "① Open the main unit.\n➜ A deployment sound plays.\n② Transform the main unit into brush mode.\n➜ The LED lights, a transformation sound plays, and the brush tip pops out.",
-          "bbox": [0.0992, 0.2098, 0.3005, 0.0828]
         },
         {
           "text": "ÖDKSER 1",
@@ -5489,24 +5057,24 @@
           "bbox": [0.6088, 0.2273, 0.023, 0.0064]
         },
         {
-          "text": "Yill",
-          "translation": "Yill",
-          "bbox": [0.7207, 0.2333, 0.0163, 0.0104]
-        },
-        {
-          "text": "henshin.jpg",
-          "translation": "henshin.jpg",
-          "bbox": [0.5925, 0.2436, 0.0326, 0.0056]
-        },
-        {
           "text": "変",
-          "translation": "変",
+          "translation": "Transform",
           "bbox": [0.5937, 0.2496, 0.02, 0.0179]
+        },
+        {
+          "text": "③文字書き演出\n文字書きボタンを押します。\n→本体が振動し、文字書き音Aが鳴ります。\n※さらに1秒以内に文字書きボタンを連続で押すことにより、\n文字書き音B、C、Dと順番に鳴ります。\n※文字書き音Dのあとは、文字書き音Aが鳴ります。",
+          "translation": "③ Character-writing effect\nPress the character-writing button.\n➜ The main unit vibrates and plays character-writing sound A.\n※If you press the character-writing button repeatedly within 1 second, character-writing sounds B, C, and D will play in sequence.\n※After character-writing sound D, character-writing sound A will play again.",
+          "bbox": [0.0992, 0.5135, 0.4534, 0.0892]
         },
         {
           "text": "20:09 SHODO PHONE",
           "translation": "20:09 SHODO PHONE",
           "bbox": [0.7545, 0.2448, 0.0109, 0.0637]
+        },
+        {
+          "text": "※文字書きボタンを押し続けると、振動が一定時間継続します。",
+          "translation": "※If you keep holding the character-writing button, the vibration continues for a fixed period of time.",
+          "bbox": [0.1179, 0.6063, 0.4534, 0.0107]
         },
         {
           "text": "3X4",
@@ -5524,43 +5092,18 @@
           "bbox": [0.7479, 0.6517, 0.0538, 0.0092]
         },
         {
-          "text": "PWR",
-          "translation": "PWR",
-          "bbox": [0.7612, 0.7265, 0.0067, 0.0155]
-        },
-        {
-          "text": "5",
-          "translation": "5",
-          "bbox": [0.8047, 0.748, 0.0218, 0.0068]
-        },
-        {
           "text": "100/000",
           "translation": "100/000",
           "bbox": [0.3156, 0.8436, 0.0816, 0.0287]
         },
         {
-          "text": "6",
-          "translation": "6",
-          "bbox": [0.4897, 0.9717, 0.02, 0.0115]
-        },
-        {
-          "text": "5",
-          "translation": "5",
-          "bbox": [0.7364, 0.7826, 0.0121, 0.0084]
-        },
-        {
-          "text": "2",
-          "translation": "2",
-          "bbox": [0.7358, 0.8232, 0.0115, 0.0048]
-        },
-        {
           "text": "コール",
-          "translation": "コール",
+          "translation": "Call button",
           "bbox": [0.8283, 0.8217, 0.0502, 0.0084]
         },
         {
           "text": "あ",
-          "translation": "あ",
+          "translation": "a",
           "bbox": [0.7455, 0.84, 0.006, 0.0048]
         },
         {
@@ -5569,28 +5112,13 @@
           "bbox": [0.8277, 0.8364, 0.049, 0.0096]
         },
         {
-          "text": "4",
-          "translation": "4",
-          "bbox": [0.7291, 0.8579, 0.0085, 0.0056]
-        },
-        {
-          "text": "GHI",
-          "translation": "GHI",
-          "bbox": [0.7424, 0.8611, 0.0115, 0.0024]
-        },
-        {
           "text": "7 ま",
-          "translation": "7 ま",
+          "translation": "7 ma",
           "bbox": [0.7297, 0.8746, 0.0218, 0.0056]
         },
         {
-          "text": "8",
-          "translation": "8",
-          "bbox": [0.7757, 0.8754, 0.0067, 0.0064]
-        },
-        {
           "text": "わ",
-          "translation": "わ",
+          "translation": "wa",
           "bbox": [0.7908, 0.8925, 0.006, 0.0032]
         }
       ],
@@ -5787,9 +5315,9 @@
               "source_ids": [3]
             },
             {
-              "id": "p5",
+              "id": "p4",
               "kind": "prose",
-              "source_ids": [10, 12]
+              "source_ids": [4]
             },
             {
               "id": "p6",
@@ -5809,9 +5337,10 @@
           ],
           "furigana": [],
           "notes": [
-            "Source 12 is a continuation note for step ③, grouped with source 10 despite separate OCR region. Diagram/device screen and button labels are left ungrouped.",
-            "Panel p4 retained original English after failed automatic checks"
-          ]
+            "Source 18 contains both the step heading and body in one OCR region, so it cannot be separated further by source ID.",
+            "Panel p5 retained original English after failed automatic checks"
+          ],
+          "native_artwork": [7, 8, 19, 20, 22, 23, 24, 28, 29, 31]
         },
         "mapping": [
           {
@@ -5844,16 +5373,12 @@
           },
           {
             "display_index": 4,
-            "panel_id": "p5",
-            "source_ids": [10, 12],
+            "panel_id": "p4",
+            "source_ids": [4],
             "furigana_ids": [],
             "japanese_items": [
-              "③文字書き演出",
-              "文字書きボタンを押します。",
-              "→本体が振動し、文字書き音Aが鳴ります。",
-              "※さらに1秒以内に文字書きボタンを連続で押すことにより、文字書き音B、C、Dと順番に鳴ります。",
-              "※文字書き音Dのあとは、文字書き音Aが鳴ります。",
-              "※文字書きボタンを押し続けると、振動が一定時間継続します。"
+              "①本体を開きます。展開音が鳴ります。",
+              "②本体を筆モードに変形させます。→LEDが光り、変形音が鳴り、筆先が飛び出します。"
             ]
           },
           {
@@ -5887,121 +5412,136 @@
           },
           {
             "display_index": 8,
-            "source_ids": [4],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 9,
             "source_ids": [5],
             "furigana_ids": []
           },
           {
-            "display_index": 10,
+            "display_index": 9,
             "source_ids": [6],
             "furigana_ids": []
           },
           {
-            "display_index": 11,
+            "display_index": -1,
             "source_ids": [7],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 12,
+            "display_index": -1,
             "source_ids": [8],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 13,
+            "display_index": 10,
             "source_ids": [9],
             "furigana_ids": []
           },
           {
-            "display_index": 14,
+            "display_index": 11,
+            "source_ids": [10],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 12,
             "source_ids": [11],
             "furigana_ids": []
           },
           {
-            "display_index": 15,
+            "display_index": 13,
+            "source_ids": [12],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 14,
             "source_ids": [13],
             "furigana_ids": []
           },
           {
-            "display_index": 16,
+            "display_index": 15,
             "source_ids": [14],
             "furigana_ids": []
           },
           {
-            "display_index": 17,
+            "display_index": 16,
             "source_ids": [15],
             "furigana_ids": []
           },
           {
-            "display_index": 18,
+            "display_index": -1,
             "source_ids": [19],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 19,
+            "display_index": -1,
             "source_ids": [20],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 20,
+            "display_index": 17,
             "source_ids": [21],
             "furigana_ids": []
           },
           {
-            "display_index": 21,
+            "display_index": -1,
             "source_ids": [22],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 22,
+            "display_index": -1,
             "source_ids": [23],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 23,
+            "display_index": -1,
             "source_ids": [24],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 24,
+            "display_index": 18,
             "source_ids": [25],
             "furigana_ids": []
           },
           {
-            "display_index": 25,
+            "display_index": 19,
             "source_ids": [26],
             "furigana_ids": []
           },
           {
-            "display_index": 26,
+            "display_index": 20,
             "source_ids": [27],
             "furigana_ids": []
           },
           {
-            "display_index": 27,
+            "display_index": -1,
             "source_ids": [28],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 28,
+            "display_index": -1,
             "source_ids": [29],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 29,
+            "display_index": 21,
             "source_ids": [30],
             "furigana_ids": []
           },
           {
-            "display_index": 30,
+            "display_index": -1,
             "source_ids": [31],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 31,
+            "display_index": 22,
             "source_ids": [32],
             "furigana_ids": []
           }
@@ -6351,7 +5891,7 @@
         },
         {
           "text": "※本体は筆モード状態で始めます。",
-          "translation": "The unit starts in Brush Mode.",
+          "translation": "The unit starts in Brush mode.",
           "bbox": [0.0958, 0.13656451857089996, 0.30533725209236146, 0.013335481429100043],
           "layout": "panel"
         },
@@ -6363,7 +5903,7 @@
         },
         {
           "text": "※本体は筆モード状態で始めます。",
-          "translation": "※The unit starts in brush mode.",
+          "translation": "The unit starts in Brush Mode.",
           "bbox": [0.0958, 0.6010806665420533, 0.30533725209236146, 0.014019333457946703],
           "layout": "panel"
         },
@@ -6388,11 +5928,6 @@
           "bbox": [0.0998, 0.2413, 0.6294, 0.1106]
         },
         {
-          "text": "①",
-          "translation": "①",
-          "bbox": [0.1886, 0.3929, 0.0218, 0.0084]
-        },
-        {
           "text": "23 3",
           "translation": "23 3",
           "bbox": [0.2678, 0.3987, 0.0689, 0.0087]
@@ -6408,13 +5943,8 @@
           "bbox": [0.1457, 0.4261, 0.0133, 0.0058]
         },
         {
-          "text": "PWR",
-          "translation": "PWR",
-          "bbox": [0.1886, 0.4265, 0.02, 0.0042]
-        },
-        {
           "text": "1 あ 2",
-          "translation": "1 あ 2",
+          "translation": "1 a 2",
           "bbox": [0.1415, 0.44, 0.0526, 0.0055]
         },
         {
@@ -6424,17 +5954,17 @@
         },
         {
           "text": "た",
-          "translation": "た",
+          "translation": "ta",
           "bbox": [0.156, 0.4545, 0.0067, 0.0026]
         },
         {
           "text": "7 ま\nPOR",
-          "translation": "7 ま\nPOR",
+          "translation": "7 ma\nPOR",
           "bbox": [0.1403, 0.4687, 0.0212, 0.0058]
         },
         {
           "text": "8や",
-          "translation": "8や",
+          "translation": "8 ya",
           "bbox": [0.1862, 0.4694, 0.0212, 0.0042]
         },
         {
@@ -6443,19 +5973,9 @@
           "bbox": [0.1397, 0.4829, 0.0526, 0.0058]
         },
         {
-          "text": "5",
-          "translation": "5",
-          "bbox": [0.3736, 0.4839, 0.0109, 0.0042]
-        },
-        {
           "text": "①モード選択\nテンキー(2)を押します。\n→本体が2回振動します。\n②文字書き演出\n文字書きボタンを押します。\n→本体が振動し、文字書き音が鳴ります。",
           "translation": "① Mode selection\nPress the keypad (2).\n→ The unit vibrates twice.\n\n② Character-writing effect\nPress the character-writing button.\n→ The unit vibrates and the character-writing sound plays.",
           "bbox": [0.0985, 0.6313, 0.3833, 0.0839]
-        },
-        {
-          "text": "SHODO PH",
-          "translation": "SHODO PH",
-          "bbox": [0.558, 0.4245, 0.0308, 0.0084]
         },
         {
           "text": "100/000",
@@ -6483,41 +6003,6 @@
           "bbox": [0.1185, 0.759, 0.4317, 0.0358]
         },
         {
-          "text": "1",
-          "translation": "1",
-          "bbox": [0.1415, 0.8703, 0.0054, 0.0048]
-        },
-        {
-          "text": "4",
-          "translation": "4",
-          "bbox": [0.1397, 0.8848, 0.0097, 0.0052]
-        },
-        {
-          "text": "GHI",
-          "translation": "GHI",
-          "bbox": [0.153, 0.8881, 0.0127, 0.0016]
-        },
-        {
-          "text": "①",
-          "translation": "①",
-          "bbox": [0.1868, 0.8387, 0.0218, 0.0087]
-        },
-        {
-          "text": "②③",
-          "translation": "②③",
-          "bbox": [0.2672, 0.8287, 0.0357, 0.0074]
-        },
-        {
-          "text": "PORT",
-          "translation": "PORT",
-          "bbox": [0.1511, 0.9016, 0.0133, 0.0026]
-        },
-        {
-          "text": "8",
-          "translation": "8",
-          "bbox": [0.1862, 0.8994, 0.0067, 0.0042]
-        },
-        {
           "text": "※※",
           "translation": "**",
           "bbox": [0.1391, 0.9142, 0.0097, 0.0039]
@@ -6528,19 +6013,9 @@
           "bbox": [0.1518, 0.9126, 0.0133, 0.0029]
         },
         {
-          "text": "7",
-          "translation": "7",
-          "bbox": [0.4903, 0.9777, 0.0206, 0.0097]
-        },
-        {
           "text": "20-02",
           "translation": "20-02",
           "bbox": [0.5218, 0.8516, 0.0157, 0.0055]
-        },
-        {
-          "text": "SHODO PHONE",
-          "translation": "SHODO PHONE",
-          "bbox": [0.549, 0.8555, 0.0417, 0.01]
         }
       ],
       "image": "pages/page-6.webp",
@@ -6778,9 +6253,11 @@
           ],
           "furigana": [],
           "notes": [
+            "Some OCR regions combine step headings with their body text, so they are kept together rather than split.",
             "Panel p3 retained original English after failed automatic checks",
             "Panel p6 retained original English after failed automatic checks"
-          ]
+          ],
+          "native_artwork": [7, 11, 18, 22, 28, 29, 30, 31, 32, 33, 34, 37, 39]
         },
         "mapping": [
           {
@@ -6839,159 +6316,172 @@
             "furigana_ids": []
           },
           {
-            "display_index": 9,
+            "display_index": -1,
             "source_ids": [7],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 10,
+            "display_index": 9,
             "source_ids": [8],
             "furigana_ids": []
           },
           {
-            "display_index": 11,
+            "display_index": 10,
             "source_ids": [9],
             "furigana_ids": []
           },
           {
-            "display_index": 12,
+            "display_index": 11,
             "source_ids": [10],
             "furigana_ids": []
           },
           {
-            "display_index": 13,
+            "display_index": -1,
             "source_ids": [11],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 14,
+            "display_index": 12,
             "source_ids": [12],
             "furigana_ids": []
           },
           {
-            "display_index": 15,
+            "display_index": 13,
             "source_ids": [13],
             "furigana_ids": []
           },
           {
-            "display_index": 16,
+            "display_index": 14,
             "source_ids": [14],
             "furigana_ids": []
           },
           {
-            "display_index": 17,
+            "display_index": 15,
             "source_ids": [15],
             "furigana_ids": []
           },
           {
-            "display_index": 18,
+            "display_index": 16,
             "source_ids": [16],
             "furigana_ids": []
           },
           {
-            "display_index": 19,
+            "display_index": 17,
             "source_ids": [17],
             "furigana_ids": []
           },
           {
-            "display_index": 20,
+            "display_index": -1,
             "source_ids": [18],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 21,
+            "display_index": 18,
             "source_ids": [21],
             "furigana_ids": []
           },
           {
-            "display_index": 22,
+            "display_index": -1,
             "source_ids": [22],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 23,
+            "display_index": 19,
             "source_ids": [23],
             "furigana_ids": []
           },
           {
-            "display_index": 24,
+            "display_index": 20,
             "source_ids": [24],
             "furigana_ids": []
           },
           {
-            "display_index": 25,
+            "display_index": 21,
             "source_ids": [25],
             "furigana_ids": []
           },
           {
-            "display_index": 26,
+            "display_index": 22,
             "source_ids": [26],
             "furigana_ids": []
           },
           {
-            "display_index": 27,
+            "display_index": 23,
             "source_ids": [27],
             "furigana_ids": []
           },
           {
-            "display_index": 28,
+            "display_index": -1,
             "source_ids": [28],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 29,
+            "display_index": -1,
             "source_ids": [29],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 30,
+            "display_index": -1,
             "source_ids": [30],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 31,
+            "display_index": -1,
             "source_ids": [31],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 32,
+            "display_index": -1,
             "source_ids": [32],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 33,
+            "display_index": -1,
             "source_ids": [33],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 34,
+            "display_index": -1,
             "source_ids": [34],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 35,
+            "display_index": 24,
             "source_ids": [35],
             "furigana_ids": []
           },
           {
-            "display_index": 36,
+            "display_index": 25,
             "source_ids": [36],
             "furigana_ids": []
           },
           {
-            "display_index": 37,
+            "display_index": -1,
             "source_ids": [37],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 38,
+            "display_index": 26,
             "source_ids": [38],
             "furigana_ids": []
           },
           {
-            "display_index": 39,
+            "display_index": -1,
             "source_ids": [39],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           }
         ],
         "uncertainties": [],
@@ -7416,15 +6906,23 @@
         },
         {
           "text": "※本体は筆モード状態で始めます。",
-          "translation": "※The unit starts in Brush Mode.",
+          "translation": "The unit starts in Brush Mode.",
           "bbox": [0.0958, 0.131, 0.30533725209236146, 0.013578356981277462],
           "layout": "panel"
         },
         {
-          "text": "③モヂカラ演出\n②から約1秒後、文字書きボタンを押します。\n→LEDが光り、本体が振動し、モヂカラ発動音が鳴ります。\n※モヂカラ発動音はA~Cの3種類あります。\n※モヂカラモードを繰り返すたびに、 モヂカラ発動音A~Cが順に鳴ります。\n※再度遊びたい場合は ①から操作します。",
-          "translation": "• 3 Moji-chikara effect\n• About 1 second after ②, press the character-writing button.\n• The LED lights, the unit vibrates, and Moji-chikara activation sound A plays.\n• There are three Moji-chikara activation sounds: A–C.\n• Each time Moji-chikara mode is repeated, activation sounds A–C play in order.\n• If you want to play again, start from ①.",
+          "text": "③モヂカラ演出",
+          "translation": "③ Mojikara Effect",
           "bbox": [
-            0.09886275535821915, 0.2914699718952179, 0.5598372446417808, 0.07273002810478213
+            0.09886275535821915, 0.2914699718952179, 0.15233724464178083, 0.014148959398269656
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "②から約1秒後、文字書きボタンを押します。\n→LEDが光り、本体が振動し、モヂカラ発動音が鳴ります。\n※モヂカラ発動音はA~Cの3種類あります。\n※モヂカラモードを繰り返すたびに、 モヂカラ発動音A~Cが順に鳴ります。\n※再度遊びたい場合は ①から操作します。",
+          "translation": "• About 1 second after step ②, press the character-writing button.\n• → The LED lights, the unit vibrates, and a Modikara activation sound plays.\n• ※ There are three Modikara activation sounds: A through C.\n• ※ Each time you repeat Modikara mode, the activation sounds A–C play in order.\n• ※ To play again, start from step ①.",
+          "bbox": [
+            0.11639601296186447, 0.3047867820262909, 0.5423039870381356, 0.05941321797370913
           ],
           "layout": "panel"
         },
@@ -7438,19 +6936,13 @@
         },
         {
           "text": "※本体は筆モード状態で始めます。",
-          "translation": "The unit starts in Brush mode.",
+          "translation": "This unit starts in brush mode.",
           "bbox": [0.0958, 0.6008536920547486, 0.3065464217185974, 0.012946307945251423],
           "layout": "panel"
         },
         {
-          "text": "①モード選択\nテンキー (8) を押します。\n本体が4回振動します。\n②文字書き演出\n文字書きボタンを押します。\n→本体が振動し、文字書き音Aが鳴ります。\n※1秒以内に文字書きボタンを連続で押すことにより、\n文字書き音B、C、Dと順番に鳴ります。\n※文字書き音Dのあとは、文字書き音Aが鳴ります。\n※文字書きボタンを押し続けると、振動が一定時間継続します。",
-          "translation": "• 1 Mode selection\n• Press the ten-key (8).\n• The main unit vibrates four times.\n• 2 Character-writing effect\n• Press the character-writing button.\n• The main unit vibrates and character-writing sound A plays.\n• If you press the character-writing button repeatedly within 1 second, character-writing sounds B, C, and D play in sequence.\n• After character-writing sound D, character-writing sound A plays.\n• If you continue to hold down the character-writing button, the vibration continues for a fixed period of time.",
-          "bbox": [0.097, 0.6299648389816285, 0.5532303376197815, 0.1395351610183715],
-          "layout": "panel"
-        },
-        {
           "text": "③モヂカラ大弾円演出\n②から約1秒後、文字書きボタンを押します。\n→LEDが光り、本体が振動し、モヂカラ大弾円音が鳴ります。\n※再度遊びたい場合は ①から操作します。",
-          "translation": "• 3. Modikara Big Projectile Effect\n• About 1 second after ②, press the character-writing button.\n• The LED will light, the unit will vibrate, and the Modikara Big Projectile sound will play.\n• If you want to play again, start from ①.",
+          "translation": "• 3. Modikara Large Ring Effect\n• About 1 second after step 2, press the Write button.\n• The LED will light, the unit will vibrate, and the Modikara Large Ring sound will play.\n• To play again, start from step 1.",
           "bbox": [0.09825816309452057, 0.769, 0.5520418369054796, 0.05009999999999992],
           "layout": "panel"
         },
@@ -7460,29 +6952,9 @@
           "bbox": [0.0985, 0.1617, 0.4722, 0.1251]
         },
         {
-          "text": "1",
-          "translation": "1",
-          "bbox": [0.1409, 0.4398, 0.0067, 0.005]
-        },
-        {
-          "text": "4",
-          "translation": "4",
-          "bbox": [0.1397, 0.454, 0.0085, 0.004]
-        },
-        {
-          "text": "①",
-          "translation": "①",
-          "bbox": [0.1886, 0.424, 0.0224, 0.0081]
-        },
-        {
           "text": "7 ま 8や",
           "translation": "7 ma 8 ya",
           "bbox": [0.1403, 0.467, 0.0689, 0.0043]
-        },
-        {
-          "text": "②③",
-          "translation": "②③",
-          "bbox": [0.2666, 0.3995, 0.0375, 0.0077]
         },
         {
           "text": "※",
@@ -7490,14 +6962,9 @@
           "bbox": [0.1391, 0.481, 0.0097, 0.0037]
         },
         {
-          "text": "SDDDPHONE",
-          "translation": "SDDDPHONE",
-          "bbox": [0.5568, 0.4258, 0.0459, 0.0087]
-        },
-        {
-          "text": "②③",
-          "translation": "②③",
-          "bbox": [0.2666, 0.8383, 0.0387, 0.0084]
+          "text": "①モード選択\nテンキー (8) を押します。\n本体が4回振動します。\n②文字書き演出\n文字書きボタンを押します。\n→本体が振動し、文字書き音Aが鳴ります。\n※1秒以内に文字書きボタンを連続で押すことにより、\n文字書き音B、C、Dと順番に鳴ります。\n※文字書き音Dのあとは、文字書き音Aが鳴ります。\n※文字書きボタンを押し続けると、振動が一定時間継続します。",
+          "translation": "① Mode selection\nPress the numeric key (8).\n→ The unit vibrates four times.\n\n② Character-writing effect\nPress the character-writing button.\n→ The unit vibrates and character-writing sound A plays.\n※ If you press the character-writing button repeatedly within 1 second, character-writing sounds B, C, and D will play in sequence.\n※ After character-writing sound D, character-writing sound A will play.\n※ Pressing and holding the character-writing button will keep the vibration on for a fixed time.",
+          "bbox": [0.0985, 0.6315, 0.4734, 0.1298]
         },
         {
           "text": "あ",
@@ -7533,11 +7000,6 @@
           "text": "R 2009",
           "translation": "R 2009",
           "bbox": [0.5254, 0.8588, 0.023, 0.0074]
-        },
-        {
-          "text": "MUNE",
-          "translation": "MUNE",
-          "bbox": [0.5792, 0.8687, 0.0218, 0.0053]
         },
         {
           "text": "000000",
@@ -7714,35 +7176,38 @@
             },
             {
               "id": "p4",
-              "kind": "prose",
-              "source_ids": [4, 5]
+              "kind": "heading",
+              "source_ids": [4]
             },
             {
               "id": "p5",
+              "kind": "prose",
+              "source_ids": [5]
+            },
+            {
+              "id": "p6",
               "kind": "heading",
               "source_ids": [12]
             },
             {
-              "id": "p6",
+              "id": "p7",
               "kind": "prose",
               "source_ids": [14]
             },
             {
-              "id": "p7",
-              "kind": "prose",
-              "source_ids": [15]
-            },
-            {
-              "id": "p8",
+              "id": "p9",
               "kind": "prose",
               "source_ids": [16]
             }
           ],
           "furigana": [],
           "notes": [
-            "Diagram labels and product markings are left ungrouped.",
-            "Panel p3 retained original English after failed automatic checks"
-          ]
+            "Source 1 is a main heading, not furigana for source 3.",
+            "Some step headings are embedded within OCR body regions and cannot be separated by source ID.",
+            "Panel p3 retained original English after failed automatic checks",
+            "Panel p8 retained original English after failed automatic checks"
+          ],
+          "native_artwork": [6, 7, 8, 10, 13, 17, 25]
         },
         "mapping": [
           {
@@ -7769,51 +7234,40 @@
           {
             "display_index": 3,
             "panel_id": "p4",
-            "source_ids": [4, 5],
+            "source_ids": [4],
             "furigana_ids": [],
-            "japanese_items": [
-              "③モヂカラ演出",
-              "②から約1秒後、文字書きボタンを押します。",
-              "→LEDが光り、本体が振動し、モヂカラ発動音Aが鳴ります。",
-              "※モヂカラ発動音はA～Cの3種類あります。",
-              "※モヂカラモードを繰り返すたびに、モヂカラ発動音A～Cが順に鳴ります。",
-              "※再度遊びたい場合は①から操作します。"
-            ]
+            "japanese_items": ["③モヂカラ演出"]
           },
           {
             "display_index": 4,
             "panel_id": "p5",
+            "source_ids": [5],
+            "furigana_ids": [],
+            "japanese_items": [
+              "②から約1秒後、文字書きボタンを押します。",
+              "→LEDが光り、本体が振動し、モヂカラ発動音が鳴ります。",
+              "※モヂカラ発動音はA~Cの3種類あります。",
+              "※モヂカラモードを繰り返すたびに、モヂカラ発動音A~Cが順に鳴ります。",
+              "※再度遊びたい場合は①から操作します。"
+            ]
+          },
+          {
+            "display_index": 5,
+            "panel_id": "p6",
             "source_ids": [12],
             "furigana_ids": [],
             "japanese_items": ["モヂカラ大弾円モード"]
           },
           {
-            "display_index": 5,
-            "panel_id": "p6",
+            "display_index": 6,
+            "panel_id": "p7",
             "source_ids": [14],
             "furigana_ids": [],
             "japanese_items": ["※本体は筆モード状態で始めます。"]
           },
           {
-            "display_index": 6,
-            "panel_id": "p7",
-            "source_ids": [15],
-            "furigana_ids": [],
-            "japanese_items": [
-              "①モード選択",
-              "テンキー (8) を押します。",
-              "本体が4回振動します。",
-              "②文字書き演出",
-              "文字書きボタンを押します。",
-              "→本体が振動し、文字書き音Aが鳴ります。",
-              "※1秒以内に文字書きボタンを連続で押すことにより、文字書き音B、C、Dと順番に鳴ります。",
-              "※文字書き音Dのあとは、文字書き音Aが鳴ります。",
-              "※文字書きボタンを押し続けると、振動が一定時間継続します。"
-            ]
-          },
-          {
             "display_index": 7,
-            "panel_id": "p8",
+            "panel_id": "p9",
             "source_ids": [16],
             "furigana_ids": [],
             "japanese_items": [
@@ -7829,92 +7283,104 @@
             "furigana_ids": []
           },
           {
-            "display_index": 9,
+            "display_index": -1,
             "source_ids": [6],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 10,
+            "display_index": -1,
             "source_ids": [7],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 11,
+            "display_index": -1,
             "source_ids": [8],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 12,
+            "display_index": 9,
             "source_ids": [9],
             "furigana_ids": []
           },
           {
-            "display_index": 13,
+            "display_index": -1,
             "source_ids": [10],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 14,
+            "display_index": 10,
             "source_ids": [11],
             "furigana_ids": []
           },
           {
-            "display_index": 15,
+            "display_index": -1,
             "source_ids": [13],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
+          },
+          {
+            "display_index": 11,
+            "source_ids": [15],
             "furigana_ids": []
           },
           {
-            "display_index": 16,
+            "display_index": -1,
             "source_ids": [17],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 17,
+            "display_index": 12,
             "source_ids": [18],
             "furigana_ids": []
           },
           {
-            "display_index": 18,
+            "display_index": 13,
             "source_ids": [19],
             "furigana_ids": []
           },
           {
-            "display_index": 19,
+            "display_index": 14,
             "source_ids": [20],
             "furigana_ids": []
           },
           {
-            "display_index": 20,
+            "display_index": 15,
             "source_ids": [21],
             "furigana_ids": []
           },
           {
-            "display_index": 21,
+            "display_index": 16,
             "source_ids": [22],
             "furigana_ids": []
           },
           {
-            "display_index": 22,
+            "display_index": 17,
             "source_ids": [23],
             "furigana_ids": []
           },
           {
-            "display_index": 23,
+            "display_index": 18,
             "source_ids": [24],
             "furigana_ids": []
           },
           {
-            "display_index": 24,
+            "display_index": -1,
             "source_ids": [25],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 25,
+            "display_index": 19,
             "source_ids": [26],
             "furigana_ids": []
           },
           {
-            "display_index": 26,
+            "display_index": 20,
             "source_ids": [27],
             "furigana_ids": []
           }
@@ -8305,6 +7771,14 @@
     {
       "blocks": [
         {
+          "text": "WEB取扱説明書",
+          "translation": "Online Instruction Manual",
+          "bbox": [
+            0.03538029199838638, 0.045975960105657576, 0.16811970800161363, 0.024033655852079394
+          ],
+          "layout": "panel"
+        },
+        {
           "text": "封印モード",
           "translation": "Sealing Mode",
           "bbox": [0.26996312594413757, 0.1487, 0.15783687405586244, 0.033689427661895754],
@@ -8312,8 +7786,14 @@
         },
         {
           "text": "※本体は筆モード状態で始めます。",
-          "translation": "The unit begins in brush mode.",
+          "translation": "The unit starts in Brush Mode.",
           "bbox": [0.0958, 0.2563, 0.30594185180664063, 0.022243282985687285],
+          "layout": "panel"
+        },
+        {
+          "text": "①モード選択\nテンキー (O) を押します。\n→本体が5回振動します。\n②文字書き演出\n文字書きボタンを押します。\n本体が振動し、文字書き音Gが鳴ります。\n※2秒以内に文字書きボタンを連続で押すことにより、\n文字書き音H、Iと順番に鳴ります。\n※文字書きボタンを押し続けると、振動が一定時間継続します。",
+          "translation": "• 1 Mode selection\nPress the numeric keypad (O). The unit will vibrate five times.\n• 2 Character-writing effect\nPress the character-writing button. The unit will vibrate and the character-writing sound G will play. If you press the character-writing button repeatedly within 2 seconds, the character-writing sounds H and I will play in order. If you hold down the character-writing button, the vibration will continue for a certain period.",
+          "bbox": [0.097, 0.3128, 0.4758422298431396, 0.2343],
           "layout": "panel"
         },
         {
@@ -8326,19 +7806,9 @@
         },
         {
           "text": "②から2秒後、文字書きボタンを押します。\n→LEDが光り、本体が振動し、封印音が鳴ります。\n※再度遊びたい場合は ①から操作します。",
-          "translation": "• Two seconds after step ②, press the character-writing button.\n• The LED will light, the unit will vibrate, and the sealing sound will play.\n• If you want to play again, start from step ①.",
+          "translation": "• Two seconds after ②, press the character-writing button.\n• The LED lights, the unit vibrates, and a sealing sound plays.\n• To play again, start over from ①.",
           "bbox": [0.11699999999999999, 0.5712, 0.4365, 0.06972307233810415],
           "layout": "panel"
-        },
-        {
-          "text": "WEB取扱説明書",
-          "translation": "Online Instruction Manual",
-          "bbox": [0.0369, 0.0475, 0.1651, 0.021]
-        },
-        {
-          "text": "①モード選択\nテンキー (O) を押します。\n→本体が5回振動します。\n②文字書き演出\n文字書きボタンを押します。\n本体が振動し、文字書き音Gが鳴ります。\n※2秒以内に文字書きボタンを連続で押すことにより、\n文字書き音H、Iと順番に鳴ります。\n※文字書きボタンを押し続けると、振動が一定時間継続します。",
-          "translation": "① Mode selection\nPress the ten-key (O).\n→ The main unit vibrates 5 times.\n② Character-writing effect\nPress the character-writing button.\n→ The main unit vibrates and character-writing sound G plays.\n※ By pressing the character-writing button repeatedly within 2 seconds, character-writing sounds H and I will play in order.\n※ If you continue to press the character-writing button, the vibration continues for a certain period.",
-          "bbox": [0.0985, 0.3143, 0.4728, 0.2194]
         },
         {
           "text": "② ③",
@@ -8364,16 +7834,6 @@
           "text": "※小学",
           "translation": "*Elementary school",
           "bbox": [0.1397, 0.8317, 0.0272, 0.012]
-        },
-        {
-          "text": "PWR",
-          "translation": "PWR",
-          "bbox": [0.1892, 0.729, 0.02, 0.0078]
-        },
-        {
-          "text": "9",
-          "translation": "9",
-          "bbox": [0.4897, 0.9579, 0.0212, 0.0168]
         },
         {
           "text": "2009 SHODO PHONE",
@@ -8459,6 +7919,11 @@
         "plan": {
           "panels": [
             {
+              "id": "p0",
+              "kind": "heading",
+              "source_ids": [0]
+            },
+            {
               "id": "p1",
               "kind": "heading",
               "source_ids": [1]
@@ -8467,6 +7932,11 @@
               "id": "p2",
               "kind": "prose",
               "source_ids": [2]
+            },
+            {
+              "id": "p3",
+              "kind": "prose",
+              "source_ids": [3]
             },
             {
               "id": "p4",
@@ -8481,53 +7951,59 @@
           ],
           "furigana": [],
           "notes": [
-            "Source 3 combines step headings ①/② with their instruction text in one OCR region, so they cannot be separated by source ID.",
-            "Source 9 appears to be a keypad label, not furigana for source 10.",
-            "Panel p3 retained original English after failed automatic checks"
-          ]
+            "Source 3 contains both step headings and body text in one OCR region, so it is kept as a single prose panel."
+          ],
+          "native_artwork": [11, 12]
         },
         "mapping": [
           {
             "display_index": 0,
+            "panel_id": "p0",
+            "source_ids": [0],
+            "furigana_ids": [],
+            "japanese_items": ["WEB取扱説明書"]
+          },
+          {
+            "display_index": 1,
             "panel_id": "p1",
             "source_ids": [1],
             "furigana_ids": [],
             "japanese_items": ["封印モード"]
           },
           {
-            "display_index": 1,
+            "display_index": 2,
             "panel_id": "p2",
             "source_ids": [2],
             "furigana_ids": [],
             "japanese_items": ["※本体は筆モード状態で始めます。"]
           },
           {
-            "display_index": 2,
+            "display_index": 3,
+            "panel_id": "p3",
+            "source_ids": [3],
+            "furigana_ids": [],
+            "japanese_items": [
+              "①モード選択\nテンキー（O）を押します。\n→本体が5回振動します。",
+              "②文字書き演出\n文字書きボタンを押します。\n本体が振動し、文字書き音Gが鳴ります。\n※2秒以内に文字書きボタンを連続で押すことにより、文字書き音H、Iと順番に鳴ります。\n※文字書きボタンを押し続けると、振動が一定時間継続します。"
+            ]
+          },
+          {
+            "display_index": 4,
             "panel_id": "p4",
             "source_ids": [4],
             "furigana_ids": [],
             "japanese_items": ["③封印演出"]
           },
           {
-            "display_index": 3,
+            "display_index": 5,
             "panel_id": "p5",
             "source_ids": [5],
             "furigana_ids": [],
             "japanese_items": [
               "②から2秒後、文字書きボタンを押します。",
-              "LEDが光り、本体が振動し、封印音が鳴ります。",
-              "※再度遊びたい場合は①から操作します。"
+              "→LEDが光り、本体が振動し、封印音が鳴ります。",
+              "※再度遊びたい場合は ①から操作します。"
             ]
-          },
-          {
-            "display_index": 4,
-            "source_ids": [0],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 5,
-            "source_ids": [3],
-            "furigana_ids": []
           },
           {
             "display_index": 6,
@@ -8555,17 +8031,19 @@
             "furigana_ids": []
           },
           {
-            "display_index": 11,
+            "display_index": -1,
             "source_ids": [11],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 12,
+            "display_index": -1,
             "source_ids": [12],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 13,
+            "display_index": 11,
             "source_ids": [13],
             "furigana_ids": []
           }

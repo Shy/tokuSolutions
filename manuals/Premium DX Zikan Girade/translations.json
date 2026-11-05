@@ -7,7 +7,7 @@
     "source_url": "",
     "blog_url": "",
     "pages": 8,
-    "blocks": 120,
+    "blocks": 106,
     "thumbnail": "pages/page-0.webp",
     "tags": ["dx", "kamen-rider", "premium"],
     "semantic_layout": 1
@@ -16,6 +16,26 @@
     {
       "blocks": [
         {
+          "text": "の遊び方",
+          "translation": "How to Play",
+          "bbox": [0.6998000000000001, 0.03508536449074745, 0.126367453765869, 0.01301742482185364],
+          "layout": "panel"
+        },
+        {
+          "text": "セット内容",
+          "translation": "Set Contents",
+          "bbox": [
+            0.03779866850376129, 0.05947561120986938, 0.12694195795059204, 0.01282438879013062
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "ケンモード用刀身パーツ... 1",
+          "translation": "Blade part for Ken Mode... 1",
+          "bbox": [0.4755, 0.055555748999118804, 0.2908125886917114, 0.011144251000881192],
+          "layout": "panel"
+        },
+        {
           "text": "△ 注意",
           "translation": "△ Caution",
           "bbox": [0.4416680738925934, 0.8567, 0.1136408536434173, 0.011306993770599294],
@@ -23,7 +43,7 @@
         },
         {
           "text": "お買い上げのお客様へ 必ずお読みください。\n●本商品の対象年齢は15才以上です。 対象年齢未満のお子様には絶対に与えないでください。 ●小さな部品がありますので、小さなお子様が誤って飲み込まない\nように注意してください。 窒息などの危険があります。 ●耳の近くで使用してはいけません。 誤って使用すると、聴覚を損なう恐れがあります。●可動部分には指などを\n入れないでください。はさまれてケガをする恐れがあります。 本商品には電子部品を使用しておりますので、ペースメーカーをご使用の方はご注意ください。 《電池を\n誤使用すると発熱・ 破裂 液漏れの恐れがあります。 下記に注意してください》 二次電池(充電式電池) は、絶対に使用しないでください。 ●古い電池と新しい\n電池、いろいろな種類の電池をまぜて使わないでください。 ●十一(プラスマイナス) を正しくセットしてください。 ●遊んだ後は必ずスイッチを切り電池をはずしてくだ\nさい。 電池を入れたままにしておくと、液漏れの恐れがあり危険です。ショートさせたり充電、分解、 加熱、 火の中に入れたりしないでください。 ●万一、電池から\n漏れた液が目に入ったときはすぐに大量の水で洗い、医師に相談してください。 皮膚や服に付いた時は水で洗ってください。 ●廃棄するときは、自治体の廃棄物\n処理の指示に従ってください。",
-          "translation": "• To customers who purchased this product: Please read this carefully.\n• The target age for this product is 15 years and older. Do not give it to children younger than the target age under any circumstances.\n• This product contains small parts, so take care that small children do not accidentally swallow them. There is a risk of choking and the like.\n• Do not use near the ear. If used incorrectly, there is a risk of damaging hearing.\n• Do not put fingers or the like into moving parts. There is a risk of being caught and injured.\n• This product uses electronic components; if you use a pacemaker, please exercise caution.\n• If batteries are used incorrectly there is a risk of heating, bursting, or leakage. Please observe the following cautions.\n• Never use secondary batteries (rechargeable batteries).\n• Do not mix old and new batteries or mix different types of batteries.\n• Set the +/− (plus-minus) correctly.\n• After playing, always turn off the switch and remove the batteries. Leaving batteries inserted can cause leakage and is dangerous.\n• Do not short-circuit, charge, disassemble, heat, or put batteries into fire.\n• If battery leakage fluid gets into the eyes, rinse immediately with plenty of water and consult a physician. If it gets on skin or clothing, wash with water.\n• When disposing, follow your municipality's waste disposal instructions.",
+          "translation": "• To the purchaser: Read before use.\n• This product is for ages 15 and up. Do not give it to children younger than the specified age under any circumstances.\n• This product contains small parts. Take care that young children do not swallow them, as they pose a choking hazard.\n• Do not use this product near the ear. Incorrect use may damage hearing.\n• Do not put fingers or other objects into moving parts. You may get pinched and injured.\n• This product contains electronic parts; people with pacemakers should take care.\n• Improper use of batteries can cause heating, bursting, or leakage. Observe the following precautions.\n• Do not use secondary (rechargeable) batteries under any circumstances.\n• Do not mix old and new batteries or different types of batteries.\n• Insert batteries with the correct +− (plus/minus) polarity.\n• After playing, always turn the switch off and remove the batteries. Leaving batteries installed may cause leakage and is dangerous.\n• Do not short-circuit, charge, disassemble, heat, or throw batteries into a fire.\n• If battery fluid gets into the eyes, rinse immediately with plenty of water and consult a physician. If it contacts skin or clothing, wash with water.\n• When disposing of this product or batteries, follow your local municipal waste disposal regulations.",
           "bbox": [0.036589480251073836, 0.869362364768982, 0.9274256354868411, 0.069237635231018],
           "layout": "panel"
         },
@@ -35,14 +55,9 @@
         },
         {
           "text": "●本商品は精密な電子部品で構成されています。 落としたり、水にぬらしたり、 汚したり、 分解したりしないでください。 また、 高温・低温になる所での使用、保管はさけて\nください。プラスチック梱包材は開封後にはすぐに捨ててください。●本商品を樹脂製のソファーやシート、タイルなどの上に置かないでください。 長時間接触して\nいると色が移る場合があります。 ●可動部分・取付部分を無理な方向に強く引っ張ったり、曲げたりしないでください。 ●発音の一部にイントネーションが違っていたり、\n商品の特性上聞き取りにくいものがありますが、ご了承ください。",
-          "translation": "• This product is made of precision electronic components. Do not drop it, get it wet, soil it, or disassemble it. Also avoid using or storing it where it will become very hot or very cold. Dispose of plastic packaging immediately after opening.\n• Do not place this product on resin sofas, seats, tiles, or the like. Prolonged contact may cause color transfer.\n• Do not forcibly pull or bend movable parts or attachment parts in unnatural directions.\n• Some pronunciations may have different intonation or be difficult to hear due to the product's characteristics; please understand.",
+          "translation": "• This product contains delicate electronic components. Do not drop it, get it wet, soil it, or disassemble it. Also avoid using or storing it in places that become very hot or very cold. Throw away plastic packaging immediately after opening.\n• Do not place this product on resin sofas, seats, tiles, or similar surfaces. Prolonged contact may cause color transfer.\n• Do not strongly pull or bend movable or attached parts in directions they are not meant to go.\n• Some voice lines may have different intonation or may be hard to hear because of the product’s characteristics.",
           "bbox": [0.0269, 0.9532, 0.9401380845069884, 0.02959999999999985],
           "layout": "panel"
-        },
-        {
-          "text": "PREMIUMOX",
-          "translation": "PREMIUMOX",
-          "bbox": [0.3089, 0.0068, 0.1554, 0.01]
         },
         {
           "text": "シンギレード\nzik AN @ 0 R A D G",
@@ -50,24 +65,9 @@
           "bbox": [0.2576, 0.0181, 0.5012, 0.029]
         },
         {
-          "text": "の遊び方",
-          "translation": "How to Play",
-          "bbox": [0.7013, 0.0366, 0.1233, 0.01]
-        },
-        {
-          "text": "セット内容",
-          "translation": "Set Contents",
-          "bbox": [0.0393, 0.061, 0.1239, 0.0098]
-        },
-        {
           "text": "ジカンギレード本体··· 1\nライドウォッチスロット... 1",
           "translation": "Zikan Girade main unit... 1\nRidewatch slot... 1",
           "bbox": [0.1995, 0.0566, 0.2678, 0.0213]
-        },
-        {
-          "text": "ケンモード用刀身パーツ... 1",
-          "translation": "Ken Mode blade part... 1",
-          "bbox": [0.477, 0.0571, 0.2878, 0.0081]
         },
         {
           "text": "各部名称",
@@ -133,11 +133,6 @@
           "text": "※構造上、振るとカタカタという物理音がします。\n(本体に装填されている刀身パーツも同様です。)",
           "translation": "*Because of the structure, shaking it may produce a rattling noise. (The blade part installed in the main unit behaves the same.)",
           "bbox": [0.0617, 0.8225, 0.4504, 0.0163]
-        },
-        {
-          "text": "1",
-          "translation": "1",
-          "bbox": [0.494, 0.9919, 0.0085, 0.0048]
         }
       ],
       "image": "pages/page-0.webp",
@@ -273,53 +268,93 @@
         "plan": {
           "panels": [
             {
-              "id": "p0",
+              "id": "p1-native-b",
               "kind": "heading",
-              "source_ids": [19]
-            },
-            {
-              "id": "p1",
-              "kind": "prose",
-              "source_ids": [20, 21]
+              "source_ids": [2]
             },
             {
               "id": "p2",
               "kind": "heading",
-              "source_ids": [22]
+              "source_ids": [3]
             },
             {
               "id": "p3",
+              "kind": "prose",
+              "source_ids": [5]
+            },
+            {
+              "id": "p4",
+              "kind": "heading",
+              "source_ids": [19]
+            },
+            {
+              "id": "p5",
+              "kind": "prose",
+              "source_ids": [20, 21]
+            },
+            {
+              "id": "p6",
+              "kind": "heading",
+              "source_ids": [22]
+            },
+            {
+              "id": "p7",
               "kind": "prose",
               "source_ids": [23]
             }
           ],
           "furigana": [],
-          "notes": []
+          "notes": [
+            "Conservative panel fallback: Panel p1 would mask native artwork 0",
+            "Retained p1-native-a unchanged: Panel p1-native-a would mask native artwork 0"
+          ],
+          "native_artwork": [0, 24]
         },
         "mapping": [
           {
             "display_index": 0,
-            "panel_id": "p0",
+            "panel_id": "p1-native-b",
+            "source_ids": [2],
+            "furigana_ids": [],
+            "japanese_items": ["の遊び方"]
+          },
+          {
+            "display_index": 1,
+            "panel_id": "p2",
+            "source_ids": [3],
+            "furigana_ids": [],
+            "japanese_items": ["セット内容"]
+          },
+          {
+            "display_index": 2,
+            "panel_id": "p3",
+            "source_ids": [5],
+            "furigana_ids": [],
+            "japanese_items": ["ケンモード用刀身パーツ... 1"]
+          },
+          {
+            "display_index": 3,
+            "panel_id": "p4",
             "source_ids": [19],
             "furigana_ids": [],
             "japanese_items": ["△ 注意"]
           },
           {
-            "display_index": 1,
-            "panel_id": "p1",
+            "display_index": 4,
+            "panel_id": "p5",
             "source_ids": [20, 21],
             "furigana_ids": [],
             "japanese_items": [
-              "お買い上げのお客様へ 必ずお読みください。",
+              "お買い上げのお客様へ　必ずお読みください。",
               "本商品の対象年齢は15才以上です。対象年齢未満のお子様には絶対に与えないでください。",
               "小さな部品がありますので、小さなお子様が誤って飲み込まないように注意してください。窒息などの危険があります。",
               "耳の近くで使用してはいけません。誤って使用すると、聴覚を損なう恐れがあります。",
               "可動部分には指などを入れないでください。はさまれてケガをする恐れがあります。",
               "本商品には電子部品を使用しておりますので、ペースメーカーをご使用の方はご注意ください。",
               "《電池を誤使用すると発熱・破裂・液漏れの恐れがあります。下記に注意してください》",
-              "二次電池(充電式電池)は、絶対に使用しないでください。",
+              "二次電池（充電式電池）は、絶対に使用しないでください。",
               "古い電池と新しい電池、いろいろな種類の電池をまぜて使わないでください。",
-              "十一(プラスマイナス)を正しくセットしてください。",
+              "＋−（プラスマイナス）を正しくセットしてください。",
               "遊んだ後は必ずスイッチを切り電池をはずしてください。電池を入れたままにしておくと、液漏れの恐れがあり危険です。",
               "ショートさせたり充電、分解、加熱、火の中に入れたりしないでください。",
               "万一、電池から漏れた液が目に入ったときはすぐに大量の水で洗い、医師に相談してください。皮膚や服に付いた時は水で洗ってください。",
@@ -327,15 +362,15 @@
             ]
           },
           {
-            "display_index": 2,
-            "panel_id": "p2",
+            "display_index": 5,
+            "panel_id": "p6",
             "source_ids": [22],
             "furigana_ids": [],
             "japanese_items": ["<使用上の注意>"]
           },
           {
-            "display_index": 3,
-            "panel_id": "p3",
+            "display_index": 6,
+            "panel_id": "p7",
             "source_ids": [23],
             "furigana_ids": [],
             "japanese_items": [
@@ -346,23 +381,14 @@
             ]
           },
           {
-            "display_index": 4,
+            "display_index": -1,
             "source_ids": [0],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 5,
-            "source_ids": [1],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 6,
-            "source_ids": [2],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
             "display_index": 7,
-            "source_ids": [3],
+            "source_ids": [1],
             "furigana_ids": []
           },
           {
@@ -372,83 +398,77 @@
           },
           {
             "display_index": 9,
-            "source_ids": [5],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 10,
             "source_ids": [6],
             "furigana_ids": []
           },
           {
-            "display_index": 11,
+            "display_index": 10,
             "source_ids": [7],
             "furigana_ids": []
           },
           {
-            "display_index": 12,
+            "display_index": 11,
             "source_ids": [8],
             "furigana_ids": []
           },
           {
-            "display_index": 13,
+            "display_index": 12,
             "source_ids": [9],
             "furigana_ids": []
           },
           {
-            "display_index": 14,
+            "display_index": 13,
             "source_ids": [10],
             "furigana_ids": []
           },
           {
-            "display_index": 15,
+            "display_index": 14,
             "source_ids": [11],
             "furigana_ids": []
           },
           {
-            "display_index": 16,
+            "display_index": 15,
             "source_ids": [12],
             "furigana_ids": []
           },
           {
-            "display_index": 17,
+            "display_index": 16,
             "source_ids": [13],
             "furigana_ids": []
           },
           {
-            "display_index": 18,
+            "display_index": 17,
             "source_ids": [14],
             "furigana_ids": []
           },
           {
-            "display_index": 19,
+            "display_index": 18,
             "source_ids": [15],
             "furigana_ids": []
           },
           {
-            "display_index": 20,
+            "display_index": 19,
             "source_ids": [16],
             "furigana_ids": []
           },
           {
-            "display_index": 21,
+            "display_index": 20,
             "source_ids": [17],
             "furigana_ids": []
           },
           {
-            "display_index": 22,
+            "display_index": 21,
             "source_ids": [18],
             "furigana_ids": []
           },
           {
-            "display_index": 23,
+            "display_index": -1,
             "source_ids": [24],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           }
         ],
-        "uncertainties": [
-          "The printed character '十一(プラスマイナス)' appears in the scan; it is interpreted as the polarity instruction '+/− (plus-minus)'. Uncertain whether the original used a plus-minus symbol or different characters."
-        ],
+        "uncertainties": [],
         "ocr_lines": [
           {
             "id": 0,
@@ -731,28 +751,10 @@
         },
         {
           "text": "※電源スイッチが× (OFF)になっていることを確認してください。\n※音が小さくなって聞きとりにくくなったり、\n音が繰り返し鳴るなどの誤動作をする場合、\nすべて新しい電池に交換してください。",
-          "translation": "• Make sure the power switch is set to × (OFF).\n• If the sound becomes faint and difficult to hear, or if malfunction occurs such as the sound repeating, replace all batteries with new ones.",
+          "translation": "• Make sure the power switch is set to × (OFF).\n• If the sound becomes low and hard to hear, or the sound repeats or other malfunctions occur, replace all batteries with new ones.",
           "bbox": [
             0.043199999999999995, 0.06366547501087189, 0.7684571798324584, 0.0987345249891281
           ],
-          "layout": "panel"
-        },
-        {
-          "text": "①電池ぶたを取り外します。\n①-1 背面の電池ぶたのネジを⊕または、\n○ドライバーで矢印の方向に回し、\n①-2 電池ぶたを取り外します。",
-          "translation": "• ① Remove the battery cover.\n• ①-1 Turn the screw of the battery cover on the back in the direction of the arrow with a ⊕ or ○ screwdriver,\n• ①-2 Remove the battery cover.",
-          "bbox": [0.04324002495408058, 0.1619, 0.4993724575936794, 0.08410000000000001],
-          "layout": "panel"
-        },
-        {
-          "text": "②乾電池を入れます。\n単4乾電池2本(別売り)の土日を\nそれぞれ間違えないように入れます。\n③電池ぶたを戻します。",
-          "translation": "• ② Insert the dry batteries.\n• Insert two AAA dry batteries (sold separately), making sure not to mix up the + and − polarity for each.\n• ③ Replace the battery cover.",
-          "bbox": [0.043199999999999995, 0.2455, 0.45648620085716246, 0.08340000000000003],
-          "layout": "panel"
-        },
-        {
-          "text": "電池ぶたの突起とミゾを合わせ、\n電池ぶたを閉じます。\n電池ぶたのネジを\n②-1と逆方向に回して閉じます。",
-          "translation": "• Align the projection on the battery cover with the groove, and close the battery cover.\n• Turn the battery cover screw in the direction opposite to ②-1 to close it.",
-          "bbox": [0.0704, 0.3284, 0.3785002420902252, 0.08046949443817136],
           "layout": "panel"
         },
         {
@@ -763,15 +765,20 @@
         },
         {
           "text": "本体背面の電源スイッチをO(ON)にします。\n→「起動音」が鳴ります。",
-          "translation": "• Set the power switch on the back of the unit to O (ON).\n• → A \"startup sound\" will play.",
+          "translation": "• Set the power switch on the back of the unit to O (ON).\n• A startup sound will play.",
           "bbox": [0.0438, 0.6426000000000001, 0.5236008622169495, 0.03887270822525013],
           "layout": "panel"
         },
         {
           "text": "※遊び終わった後は、必ず電源スイッチをX (OFF)にしてください。",
-          "translation": "After you finish playing, be sure to set the power switch to X (OFF).",
+          "translation": "After playing, always set the power switch to X (OFF).",
           "bbox": [0.0656, 0.9333, 0.5931, 0.014299999999999868],
           "layout": "panel"
+        },
+        {
+          "text": "①電池ぶたを取り外します。\n①-1 背面の電池ぶたのネジを⊕または、\n○ドライバーで矢印の方向に回し、",
+          "translation": "① Remove the battery cover.\n①-1 Turn the screw on the rear battery cover with a Phillips (⊕) or flat (−) screwdriver in the direction of the arrow,",
+          "bbox": [0.0453, 0.1634, 0.4958, 0.0563]
         },
         {
           "text": "単4",
@@ -788,6 +795,16 @@
           "translation": "Requires 2AAA batteries (sold separately)",
           "bbox": [0.7337, 0.1875, 0.2115999999999999, 0.018699999999999994],
           "layout": "panel"
+        },
+        {
+          "text": "①-2 電池ぶたを取り外します。",
+          "translation": "①-2 Remove the battery cover.",
+          "bbox": [0.0719, 0.2259, 0.3579, 0.0147]
+        },
+        {
+          "text": "②乾電池を入れます。\n単4乾電池2本(別売り)の土日を",
+          "translation": "② Insert the batteries.\nInsert two AAA batteries (sold separately), making sure the + and − polarities are placed correctly.",
+          "bbox": [0.0447, 0.247, 0.4105, 0.0355]
         },
         {
           "text": "●アルカリ電池専用",
@@ -809,6 +826,16 @@
           "text": "突起",
           "translation": "Protrusion",
           "bbox": [0.5393, 0.2767, 0.0399, 0.0113]
+        },
+        {
+          "text": "それぞれ間違えないように入れます。\n③電池ぶたを戻します。",
+          "translation": "Insert them so they are not placed incorrectly.\n③ Replace the battery cover.",
+          "bbox": [0.0459, 0.2886, 0.4522, 0.0348]
+        },
+        {
+          "text": "電池ぶたの突起とミゾを合わせ、\n電池ぶたを閉じます。\n電池ぶたのネジを\n②-1と逆方向に回して閉じます。",
+          "translation": "Align the protrusion on the battery cover with the groove, and close the battery cover.\nTurn the battery cover screw in the direction opposite to ②-1 to close it.",
+          "bbox": [0.0719, 0.3299, 0.3755, 0.0774]
         },
         {
           "text": "電池ぶた",
@@ -846,11 +873,6 @@
           "bbox": [0.7696, 0.3589, 0.0387, 0.0109]
         },
         {
-          "text": "①-2",
-          "translation": "①-2",
-          "bbox": [0.6264, 0.4115, 0.0399, 0.0099]
-        },
-        {
           "text": "(3",
           "translation": "(3",
           "bbox": [0.7322, 0.4132, 0.0121, 0.0072]
@@ -871,19 +893,9 @@
           "bbox": [0.6578, 0.5595, 0.1203, 0.0099]
         },
         {
-          "text": "①-1",
-          "translation": "①-1",
-          "bbox": [0.5224, 0.5732, 0.0393, 0.0102]
-        },
-        {
           "text": "ジカンギレード!",
           "translation": "Jikan Girade!",
           "bbox": [0.5599, 0.6871, 0.2672, 0.03]
-        },
-        {
-          "text": "2",
-          "translation": "2",
-          "bbox": [0.494, 0.987, 0.0109, 0.0072]
         },
         {
           "text": "ON\n突起",
@@ -894,21 +906,6 @@
           "text": "・電源スイッチ",
           "translation": "・Power switch",
           "bbox": [0.7503, 0.8212, 0.1179, 0.0102]
-        },
-        {
-          "text": "OFF",
-          "translation": "OFF",
-          "bbox": [0.7551, 0.8441, 0.0453, 0.0082]
-        },
-        {
-          "text": "+",
-          "translation": "+",
-          "bbox": [0.9232, 0.3784, 0.0127, 0.0089]
-        },
-        {
-          "text": "①",
-          "translation": "①",
-          "bbox": [0.9002, 0.3951, 0.0121, 0.0109]
         }
       ],
       "image": "pages/page-1.webp",
@@ -1139,32 +1136,17 @@
               "source_ids": [1]
             },
             {
-              "id": "p2",
-              "kind": "prose",
-              "source_ids": [2, 10]
-            },
-            {
               "id": "p3",
-              "kind": "prose",
-              "source_ids": [11, 16]
-            },
-            {
-              "id": "p4",
-              "kind": "prose",
-              "source_ids": [17]
-            },
-            {
-              "id": "p5",
               "kind": "heading",
               "source_ids": [22]
             },
             {
-              "id": "p6",
+              "id": "p4",
               "kind": "prose",
               "source_ids": [32, 33]
             },
             {
-              "id": "p7",
+              "id": "p5",
               "kind": "prose",
               "source_ids": [35]
             }
@@ -1187,7 +1169,8 @@
               "parent_id": 12
             }
           ],
-          "notes": []
+          "notes": ["Panel p2 retained original English after failed automatic checks"],
+          "native_artwork": [26, 31, 36, 39, 40, 41]
         },
         "mapping": [
           {
@@ -1209,71 +1192,54 @@
           },
           {
             "display_index": 2,
-            "panel_id": "p2",
-            "source_ids": [2, 10],
-            "furigana_ids": [],
-            "japanese_items": [
-              "①電池ぶたを取り外します。",
-              "①-1 背面の電池ぶたのネジを⊕または、○ドライバーで矢印の方向に回し、",
-              "①-2 電池ぶたを取り外します。"
-            ]
-          },
-          {
-            "display_index": 3,
             "panel_id": "p3",
-            "source_ids": [11, 16],
-            "furigana_ids": [],
-            "japanese_items": [
-              "②乾電池を入れます。",
-              "単4乾電池2本(別売り)の＋−をそれぞれ間違えないように入れます。",
-              "③電池ぶたを戻します。"
-            ]
-          },
-          {
-            "display_index": 4,
-            "panel_id": "p4",
-            "source_ids": [17],
-            "furigana_ids": [],
-            "japanese_items": [
-              "電池ぶたの突起とミゾを合わせ、電池ぶたを閉じます。",
-              "電池ぶたのネジを②-1と逆方向に回して閉じます。"
-            ]
-          },
-          {
-            "display_index": 5,
-            "panel_id": "p5",
             "source_ids": [22],
             "furigana_ids": [],
             "japanese_items": ["電源の入れ方"]
           },
           {
-            "display_index": 6,
-            "panel_id": "p6",
+            "display_index": 3,
+            "panel_id": "p4",
             "source_ids": [32, 33],
             "furigana_ids": [],
             "japanese_items": ["本体背面の電源スイッチをO(ON)にします。", "→「起動音」が鳴ります。"]
           },
           {
-            "display_index": 7,
-            "panel_id": "p7",
+            "display_index": 4,
+            "panel_id": "p5",
             "source_ids": [35],
             "furigana_ids": [],
             "japanese_items": ["※遊び終わった後は、必ず電源スイッチをX (OFF)にしてください。"]
           },
           {
-            "display_index": 8,
+            "display_index": 5,
+            "source_ids": [2],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 6,
             "source_ids": [4],
             "furigana_ids": []
           },
           {
-            "display_index": 9,
+            "display_index": 7,
             "source_ids": [5],
             "furigana_ids": []
           },
           {
-            "display_index": 10,
+            "display_index": 8,
             "source_ids": [8],
             "furigana_ids": [3, 6, 7]
+          },
+          {
+            "display_index": 9,
+            "source_ids": [10],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 10,
+            "source_ids": [11],
+            "furigana_ids": []
           },
           {
             "display_index": 11,
@@ -1297,68 +1263,80 @@
           },
           {
             "display_index": 15,
-            "source_ids": [18],
+            "source_ids": [16],
             "furigana_ids": []
           },
           {
             "display_index": 16,
-            "source_ids": [19],
+            "source_ids": [17],
             "furigana_ids": []
           },
           {
             "display_index": 17,
-            "source_ids": [20],
+            "source_ids": [18],
             "furigana_ids": []
           },
           {
             "display_index": 18,
-            "source_ids": [21],
+            "source_ids": [19],
             "furigana_ids": []
           },
           {
             "display_index": 19,
-            "source_ids": [23],
+            "source_ids": [20],
             "furigana_ids": []
           },
           {
             "display_index": 20,
-            "source_ids": [24],
+            "source_ids": [21],
             "furigana_ids": []
           },
           {
             "display_index": 21,
-            "source_ids": [25],
+            "source_ids": [23],
             "furigana_ids": []
           },
           {
             "display_index": 22,
-            "source_ids": [26],
+            "source_ids": [24],
             "furigana_ids": []
           },
           {
             "display_index": 23,
+            "source_ids": [25],
+            "furigana_ids": []
+          },
+          {
+            "display_index": -1,
+            "source_ids": [26],
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
+          },
+          {
+            "display_index": 24,
             "source_ids": [27],
             "furigana_ids": []
           },
           {
-            "display_index": 24,
+            "display_index": 25,
             "source_ids": [28],
             "furigana_ids": []
           },
           {
-            "display_index": 25,
+            "display_index": 26,
             "source_ids": [29],
             "furigana_ids": []
           },
           {
-            "display_index": 26,
+            "display_index": 27,
             "source_ids": [30],
             "furigana_ids": []
           },
           {
-            "display_index": 27,
+            "display_index": -1,
             "source_ids": [31],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
             "display_index": 28,
@@ -1366,40 +1344,41 @@
             "furigana_ids": []
           },
           {
-            "display_index": 29,
+            "display_index": -1,
             "source_ids": [36],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 30,
+            "display_index": 29,
             "source_ids": [37],
             "furigana_ids": []
           },
           {
-            "display_index": 31,
+            "display_index": 30,
             "source_ids": [38],
             "furigana_ids": []
           },
           {
-            "display_index": 32,
+            "display_index": -1,
             "source_ids": [39],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 33,
+            "display_index": -1,
             "source_ids": [40],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 34,
+            "display_index": -1,
             "source_ids": [41],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           }
         ],
-        "uncertainties": [
-          "The middle line shows a symbol '○' for the screwdriver type; the image likely intends a minus/flat (−) screwdriver, but the symbol is unclear in the crop.",
-          "The arrow direction is referenced but not shown in the provided crop."
-        ],
+        "uncertainties": [],
         "ocr_lines": [
           {
             "id": 0,
@@ -1790,7 +1769,7 @@
         },
         {
           "text": "①背面ボタンを押しながら、 刀身を回転させます。\n「ケン!」と鳴ります。\n背面ボタン",
-          "translation": "• 1. While pressing the rear button, rotate the blade.\n• It will sound \"Ken!\".",
+          "translation": "• ①Press and hold the rear button, and rotate the blade.\n• It will make a \"Ken!\" sound.\n• Rear button",
           "bbox": [
             0.040799999999999996, 0.036575216114521025, 0.5719454533576965, 0.04154239732027054
           ],
@@ -1798,25 +1777,19 @@
         },
         {
           "text": "② 「ケ」を外します。",
-          "translation": "2. Remove the part labeled \"Ke\".",
+          "translation": "2. Remove the part labeled \"ke\".",
           "bbox": [0.0414, 0.34117693758010864, 0.2207, 0.013044395923614505],
           "layout": "panel"
         },
         {
           "text": "破損の恐れがあるため、\nゆっくり慎重に外してください。",
-          "translation": "Because there is a risk of damage, please remove slowly and carefully.",
+          "translation": "To avoid damage, remove slowly and carefully.",
           "bbox": [0.06379625505208969, 0.3671, 0.27930374494791027, 0.021225501918792744],
           "layout": "panel"
         },
         {
-          "text": "③背面のロックをつまみながら、刀身を引き抜きます。",
-          "translation": "3. While pinching the rear lock, pull out the blade.",
-          "bbox": [0.0414, 0.5025878057479859, 0.6203176427841186, 0.013044395923614394],
-          "layout": "panel"
-        },
-        {
           "text": "④ ケンモード用刀身パーツを挿し、\n⑤ 「ケ」を付けます。",
-          "translation": "• ④ Insert the blade part for Ken mode,\n• ⑤ Attach the \"Ke\" piece.",
+          "translation": "④ Insert the blade part for Ken Mode. ⑤ Attach the \"Ke\".",
           "bbox": [
             0.040799999999999996, 0.7111839756965638, 0.39963590569496155, 0.027816024303436215
           ],
@@ -1824,7 +1797,7 @@
         },
         {
           "text": "※ジュウモードへの変形は逆の手順で行ってください。",
-          "translation": "To transform into Juu Mode, perform the steps in reverse.",
+          "translation": "To transform into Juu Mode, perform the steps in reverse order.",
           "bbox": [0.06258706307411194, 0.9534, 0.6366154639720916, 0.013299999999999867],
           "layout": "panel"
         },
@@ -1844,6 +1817,11 @@
           "bbox": [0.6421, 0.4707, 0.0333, 0.0037]
         },
         {
+          "text": "③背面のロックをつまみながら、刀身を引き抜きます。",
+          "translation": "③ While pinching the rear lock, pull the blade out.",
+          "bbox": [0.0429, 0.5041, 0.6173, 0.01]
+        },
+        {
           "text": "ロック",
           "translation": "Lock",
           "bbox": [0.5109, 0.5345, 0.0544, 0.0068]
@@ -1852,16 +1830,6 @@
           "text": "GO",
           "translation": "GO",
           "bbox": [0.5236, 0.9236, 0.0345, 0.0037]
-        },
-        {
-          "text": "3",
-          "translation": "3",
-          "bbox": [0.494, 0.9914, 0.0115, 0.0049]
-        },
-        {
-          "text": "④",
-          "translation": "④",
-          "bbox": [0.7461, 0.7694, 0.0218, 0.0068]
         }
       ],
       "image": "pages/page-2.webp",
@@ -1952,112 +1920,105 @@
         "plan": {
           "panels": [
             {
-              "id": "p0",
+              "id": "p1",
               "kind": "heading",
               "source_ids": [0]
             },
             {
-              "id": "p1",
+              "id": "p2",
               "kind": "prose",
               "source_ids": [1, 5]
             },
             {
-              "id": "p2",
+              "id": "p3",
               "kind": "prose",
               "source_ids": [2]
             },
             {
-              "id": "p3",
+              "id": "p4",
               "kind": "prose",
               "source_ids": [3, 4]
             },
             {
-              "id": "p4",
-              "kind": "prose",
-              "source_ids": [9]
-            },
-            {
-              "id": "p5",
+              "id": "p6",
               "kind": "prose",
               "source_ids": [11]
             },
             {
-              "id": "p6",
+              "id": "p7",
               "kind": "prose",
               "source_ids": [13]
             }
           ],
           "furigana": [],
-          "notes": [
-            "Diagram labels and page/diagram markers left ungrouped: 5, 6, 7, 8, 10, 12, 14, 15."
-          ]
+          "notes": ["Panel p5 retained original English after failed automatic checks"],
+          "native_artwork": [14, 15]
         },
         "mapping": [
           {
             "display_index": 0,
-            "panel_id": "p0",
+            "panel_id": "p1",
             "source_ids": [0],
             "furigana_ids": [],
             "japanese_items": ["ケンモードへの変形"]
           },
           {
             "display_index": 1,
-            "panel_id": "p1",
+            "panel_id": "p2",
             "source_ids": [1, 5],
             "furigana_ids": [],
             "japanese_items": [
               "①背面ボタンを押しながら、刀身を回転させます。",
-              "「ケン!」と鳴ります。"
+              "「ケン!」と鳴ります。",
+              "背面ボタン"
             ]
           },
           {
             "display_index": 2,
-            "panel_id": "p2",
+            "panel_id": "p3",
             "source_ids": [2],
             "furigana_ids": [],
             "japanese_items": ["② 「ケ」を外します。"]
           },
           {
             "display_index": 3,
-            "panel_id": "p3",
+            "panel_id": "p4",
             "source_ids": [3, 4],
             "furigana_ids": [],
-            "japanese_items": ["破損の恐れがあるため、ゆっくり慎重に外してください。"]
+            "japanese_items": ["破損の恐れがあるため、\nゆっくり慎重に外してください。"]
           },
           {
             "display_index": 4,
-            "panel_id": "p4",
-            "source_ids": [9],
+            "panel_id": "p6",
+            "source_ids": [11],
             "furigana_ids": [],
-            "japanese_items": ["③背面のロックをつまみながら、刀身を引き抜きます。"]
+            "japanese_items": ["④ ケンモード用刀身パーツを挿し、\n⑤ 「ケ」を付けます。"]
           },
           {
             "display_index": 5,
-            "panel_id": "p5",
-            "source_ids": [11],
-            "furigana_ids": [],
-            "japanese_items": ["④ ケンモード用刀身パーツを挿し、", "⑤ 「ケ」を付けます。"]
-          },
-          {
-            "display_index": 6,
-            "panel_id": "p6",
+            "panel_id": "p7",
             "source_ids": [13],
             "furigana_ids": [],
             "japanese_items": ["※ジュウモードへの変形は逆の手順で行ってください。"]
           },
           {
-            "display_index": 7,
+            "display_index": 6,
             "source_ids": [6],
             "furigana_ids": []
           },
           {
-            "display_index": 8,
+            "display_index": 7,
             "source_ids": [7],
             "furigana_ids": []
           },
           {
-            "display_index": 9,
+            "display_index": 8,
             "source_ids": [8],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 9,
+            "source_ids": [9],
             "furigana_ids": []
           },
           {
@@ -2071,14 +2032,16 @@
             "furigana_ids": []
           },
           {
-            "display_index": 12,
+            "display_index": -1,
             "source_ids": [14],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 13,
+            "display_index": -1,
             "source_ids": [15],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           }
         ],
         "uncertainties": [],
@@ -2222,7 +2185,7 @@
         },
         {
           "text": "トリガーを引きます。\n→ケンモード: 剣戟音\n→ジュウモード: 銃撃音",
-          "translation": "• Pull the trigger.\n• Ken mode: sword-clash sound\n• Juu mode: gunfire sound",
+          "translation": "• Pull the trigger.\n• Ken Mode: sword-clashing sound\n• Juu Mode: gunfire sound",
           "bbox": [0.041999999999999996, 0.0985, 0.2720755786895752, 0.10481818306446075],
           "layout": "panel"
         },
@@ -2235,11 +2198,6 @@
           "text": "トリガー",
           "translation": "Trigger",
           "bbox": [0.445, 0.8145, 0.0689, 0.0194]
-        },
-        {
-          "text": "4",
-          "translation": "4",
-          "bbox": [0.4933, 0.9788, 0.0127, 0.0121]
         }
       ],
       "image": "pages/page-3.webp",
@@ -2296,10 +2254,8 @@
             }
           ],
           "furigana": [],
-          "notes": [
-            "Source 5 is a diagram label and left ungrouped. Source 6 is the page number and left ungrouped.",
-            "p1: excluded other-column members; retained separately"
-          ]
+          "notes": ["p1: excluded other-column members; retained separately"],
+          "native_artwork": [6]
         },
         "mapping": [
           {
@@ -2331,9 +2287,10 @@
             "furigana_ids": []
           },
           {
-            "display_index": 4,
+            "display_index": -1,
             "source_ids": [6],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           }
         ],
         "uncertainties": [],
@@ -2402,7 +2359,7 @@
         },
         {
           "text": "②トリガーを引きます。\n→ケンモード: 「ギリギリ斬り!」\n→ジュウモード: 「スレスレ撃ち!」",
-          "translation": "• 2. Pull the trigger.\n• → Ken Mode: \"Giri-giri Slash!\"\n• → Juu Mode: \"Suresure Shot!\"",
+          "translation": "• 2. Pull the trigger.\n• Ken Mode: \"Barely Slash!\"\n• Juu Mode: \"Near‑Miss Shot!\"",
           "bbox": [
             0.043199999999999995, 0.18989999999999999, 0.38699999999999996, 0.08272171053886415
           ],
@@ -2410,7 +2367,7 @@
         },
         {
           "text": "カウントダウン音の途中でトリガーを引くと、小必殺技音が鳴ります。",
-          "translation": "If you pull the trigger during the countdown sound, a minor special-attack sound will play.",
+          "translation": "If you pull the trigger while the countdown sound is playing, a minor special-attack sound will play.",
           "bbox": [0.0438, 0.32069570875167847, 0.7847858526229858, 0.02400429124832154],
           "layout": "panel"
         },
@@ -2438,11 +2395,6 @@
           "text": "トリガー",
           "translation": "Trigger",
           "bbox": [0.445, 0.8439, 0.0695, 0.0143]
-        },
-        {
-          "text": "5",
-          "translation": "5",
-          "bbox": [0.4933, 0.9828, 0.0109, 0.01]
         },
         {
           "text": "ボタン",
@@ -2537,7 +2489,8 @@
           "notes": [
             "p2: excluded other-column members; retained separately",
             "Panel p1 retained original English after failed automatic checks"
-          ]
+          ],
+          "native_artwork": [10]
         },
         "mapping": [
           {
@@ -2591,12 +2544,13 @@
             "furigana_ids": []
           },
           {
-            "display_index": 8,
+            "display_index": -1,
             "source_ids": [10],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 9,
+            "display_index": 8,
             "source_ids": [11],
             "furigana_ids": []
           }
@@ -2699,36 +2653,86 @@
           "layout": "panel"
         },
         {
-          "text": "①ライドウォッチスロットをセットします。",
-          "translation": "1. Set the Ridewatch into the slot.",
-          "bbox": [0.041999999999999996, 0.033, 0.46191839885711666, 0.011700000000000002],
+          "text": "②ボタンとピンを同時押しし、鳴らしたい必殺技をセレクトします。\n→セレクトに応じたライダー名が鳴ります。\nボタン",
+          "translation": "• ②Press the button and the pin at the same time to select the special move you want to play.\n• The rider name that matches your selection will play.\n• Button",
+          "bbox": [0.0414, 0.2902, 0.7581653047561645, 0.02889999999999998],
           "layout": "panel"
         },
         {
-          "text": "②ボタンとピンを同時押しし、鳴らしたい必殺技をセレクトします。\n→セレクトに応じたライダー名が鳴ります。\nボタン",
-          "translation": "• 2) Press the button and the pin at the same time to select the finisher (special move) you want to play.\n• → The rider name corresponding to the selection will play.\n• Button",
-          "bbox": [0.0414, 0.2902, 0.7581653047561645, 0.02889999999999998],
+          "text": "モード\nケンモード",
+          "translation": "• Mode\n• Ken Mode",
+          "bbox": [
+            0.08737545019388199, 0.5976735458374024, 0.15475332874059677, 0.03332645416259761
+          ],
           "layout": "panel"
+        },
+        {
+          "text": "セレクト無し",
+          "translation": "No Select",
+          "bbox": [
+            0.3110755786895752, 0.5974669561386109, 0.1541487364768982, 0.017433043861389108
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "汎用必殺技",
+          "translation": "Generic Special Attack",
+          "bbox": [0.3177, 0.6144000000000001, 0.13905997877120974, 0.017199999999999993],
+          "layout": "panel"
+        },
+        {
+          "text": "オーズ",
+          "translation": "O's",
+          "bbox": [
+            0.7826596007347107, 0.6135826215744019, 0.10638574647903432, 0.017617378425598074
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "ジュウモード",
+          "translation": "Gun Mode",
+          "bbox": [0.08737545019388199, 0.6305000000000001, 0.154824549806118, 0.01232231473922718],
+          "layout": "panel"
+        },
+        {
+          "text": "汎用必殺技",
+          "translation": "Universal special attack",
+          "bbox": [0.3177, 0.6311000000000001, 0.13603701000213625, 0.01192890443801864],
+          "layout": "panel"
+        },
+        {
+          "text": "W",
+          "translation": "W",
+          "bbox": [0.5946, 0.6321776614189148, 0.029028188610076833, 0.009022338581085143],
+          "layout": "panel"
+        },
+        {
+          "text": "フォーゼ",
+          "translation": "Foze",
+          "bbox": [0.7826596007347107, 0.6307, 0.10644039926528925, 0.012122314739227202],
+          "layout": "panel"
+        },
+        {
+          "text": "③ライドウォッチをセットします。\n「必殺技待機音」が鳴ります。",
+          "translation": "• 3. Set the Ride Watch.\n• The “Special Move Standby” sound will play.",
+          "bbox": [0.041999999999999996, 0.659, 0.37001995754241945, 0.024731426239013587],
+          "layout": "panel"
+        },
+        {
+          "text": "④トリガーを引きます。\n→ライドウォッチ:「ライダー名音声」\n→ジカンギレード:セレクトした「必殺技音」",
+          "translation": "• ④ Pull the trigger.\n• → Ride Watch: plays the rider's name voice.\n• → Jikangireedo: plays the selected finisher (special move) sound.",
+          "bbox": [0.0414, 0.6956000000000001, 0.5036308218002319, 0.036699999999999844],
+          "layout": "panel"
+        },
+        {
+          "text": "①ライドウォッチスロットをセットします。",
+          "translation": "① Insert the Ridewatch into the Ridewatch slot.",
+          "bbox": [0.0435, 0.0345, 0.4589, 0.0087]
         },
         {
           "text": "ピン",
           "translation": "Pin",
           "bbox": [0.7944, 0.5167, 0.0417, 0.0068]
-        },
-        {
-          "text": "モード\nケンモード",
-          "translation": "Mode\nKen Mode",
-          "bbox": [0.0998, 0.5992, 0.1294, 0.0252]
-        },
-        {
-          "text": "セレクト無し",
-          "translation": "No selection",
-          "bbox": [0.3126, 0.599, 0.1511, 0.0091]
-        },
-        {
-          "text": "汎用必殺技",
-          "translation": "Universal finisher",
-          "bbox": [0.3192, 0.6159, 0.136, 0.0089]
         },
         {
           "text": "同時押し1回目\nジオウ",
@@ -2741,54 +2745,9 @@
           "bbox": [0.7455, 0.599, 0.1753, 0.0091]
         },
         {
-          "text": "オーズ",
-          "translation": "OOO",
-          "bbox": [0.795, 0.6151, 0.0804, 0.0091]
-        },
-        {
-          "text": "ジュウモード",
-          "translation": "Juu Mode",
-          "bbox": [0.0889, 0.632, 0.1518, 0.0093]
-        },
-        {
-          "text": "汎用必殺技",
-          "translation": "Universal finisher",
-          "bbox": [0.3192, 0.6326, 0.133, 0.0089]
-        },
-        {
-          "text": "W",
-          "translation": "W",
-          "bbox": [0.5961, 0.6337, 0.026, 0.006]
-        },
-        {
-          "text": "フォーゼ",
-          "translation": "Fourze",
-          "bbox": [0.7842, 0.6322, 0.1034, 0.0091]
-        },
-        {
-          "text": "③ライドウォッチをセットします。",
-          "translation": "③ Insert the Ridewatch.",
-          "bbox": [0.0435, 0.6605, 0.367, 0.0087]
-        },
-        {
-          "text": "「必殺技待機音」が鳴ります。",
-          "translation": "The \"finisher standby sound\" will play.",
-          "bbox": [0.0713, 0.6733, 0.3283, 0.0089]
-        },
-        {
-          "text": "④トリガーを引きます。\n→ライドウォッチ:「ライダー名音声」\n→ジカンギレード:セレクトした「必殺技音」",
-          "translation": "④ Pull the trigger.\n→ Ridewatch: \"Rider name audio\"\n→ Zikan Girade: the selected \"finisher sound\" will play.",
-          "bbox": [0.0429, 0.6971, 0.5006, 0.0337]
-        },
-        {
           "text": "CO",
           "translation": "CO",
           "bbox": [0.4952, 0.9917, 0.0085, 0.0048]
-        },
-        {
-          "text": "6",
-          "translation": "6",
-          "bbox": [0.494, 0.9924, 0.0115, 0.0043]
         },
         {
           "text": "が鳴ります。",
@@ -2914,22 +2873,70 @@
               "source_ids": [0]
             },
             {
-              "id": "p1",
-              "kind": "prose",
-              "source_ids": [1]
-            },
-            {
               "id": "p2",
               "kind": "prose",
               "source_ids": [2, 3]
+            },
+            {
+              "id": "p3",
+              "kind": "prose",
+              "source_ids": [5]
+            },
+            {
+              "id": "p4",
+              "kind": "prose",
+              "source_ids": [6]
+            },
+            {
+              "id": "p5",
+              "kind": "prose",
+              "source_ids": [7]
+            },
+            {
+              "id": "p8",
+              "kind": "prose",
+              "source_ids": [10]
+            },
+            {
+              "id": "p9",
+              "kind": "prose",
+              "source_ids": [11]
+            },
+            {
+              "id": "p10",
+              "kind": "prose",
+              "source_ids": [12]
+            },
+            {
+              "id": "p11",
+              "kind": "prose",
+              "source_ids": [13]
+            },
+            {
+              "id": "p12",
+              "kind": "prose",
+              "source_ids": [14]
+            },
+            {
+              "id": "p13",
+              "kind": "prose",
+              "source_ids": [15, 16]
+            },
+            {
+              "id": "p14",
+              "kind": "prose",
+              "source_ids": [17]
             }
           ],
           "furigana": [],
           "notes": [
-            "p4: excluded other-column members; retained separately",
-            "Panel p3 retained original English after failed automatic checks",
-            "Panel p4 retained original English after failed automatic checks"
-          ]
+            "Source 18 appears to be a footer/OCR artifact near the page number, not main instructional text.",
+            "p14: excluded other-column members; retained separately",
+            "Panel p1 retained original English after failed automatic checks",
+            "Panel p6 retained original English after failed automatic checks",
+            "Panel p7 retained original English after failed automatic checks"
+          ],
+          "native_artwork": [19]
         },
         "mapping": [
           {
@@ -2941,13 +2948,6 @@
           },
           {
             "display_index": 1,
-            "panel_id": "p1",
-            "source_ids": [1],
-            "furigana_ids": [],
-            "japanese_items": ["①ライドウォッチスロットをセットします。"]
-          },
-          {
-            "display_index": 2,
             "panel_id": "p2",
             "source_ids": [2, 3],
             "furigana_ids": [],
@@ -2958,92 +2958,119 @@
             ]
           },
           {
+            "display_index": 2,
+            "panel_id": "p3",
+            "source_ids": [5],
+            "furigana_ids": [],
+            "japanese_items": ["モード", "ケンモード"]
+          },
+          {
             "display_index": 3,
-            "source_ids": [4],
-            "furigana_ids": []
+            "panel_id": "p4",
+            "source_ids": [6],
+            "furigana_ids": [],
+            "japanese_items": ["セレクト無し"]
           },
           {
             "display_index": 4,
-            "source_ids": [5],
-            "furigana_ids": []
+            "panel_id": "p5",
+            "source_ids": [7],
+            "furigana_ids": [],
+            "japanese_items": ["汎用必殺技"]
           },
           {
             "display_index": 5,
-            "source_ids": [6],
-            "furigana_ids": []
+            "panel_id": "p8",
+            "source_ids": [10],
+            "furigana_ids": [],
+            "japanese_items": ["オーズ"]
           },
           {
             "display_index": 6,
-            "source_ids": [7],
-            "furigana_ids": []
+            "panel_id": "p9",
+            "source_ids": [11],
+            "furigana_ids": [],
+            "japanese_items": ["ジュウモード"]
           },
           {
             "display_index": 7,
-            "source_ids": [8],
-            "furigana_ids": []
+            "panel_id": "p10",
+            "source_ids": [12],
+            "furigana_ids": [],
+            "japanese_items": ["汎用必殺技"]
           },
           {
             "display_index": 8,
-            "source_ids": [9],
-            "furigana_ids": []
+            "panel_id": "p11",
+            "source_ids": [13],
+            "furigana_ids": [],
+            "japanese_items": ["W"]
           },
           {
             "display_index": 9,
-            "source_ids": [10],
-            "furigana_ids": []
+            "panel_id": "p12",
+            "source_ids": [14],
+            "furigana_ids": [],
+            "japanese_items": ["フォーゼ"]
           },
           {
             "display_index": 10,
-            "source_ids": [11],
-            "furigana_ids": []
+            "panel_id": "p13",
+            "source_ids": [15, 16],
+            "furigana_ids": [],
+            "japanese_items": ["③ライドウォッチをセットします。", "「必殺技待機音」が鳴ります。"]
           },
           {
             "display_index": 11,
-            "source_ids": [12],
-            "furigana_ids": []
+            "panel_id": "p14",
+            "source_ids": [17],
+            "furigana_ids": [],
+            "japanese_items": [
+              "④トリガーを引きます。",
+              "→ライドウォッチ:「ライダー名音声」",
+              "→ジカンギレード:セレクトした「必殺技音」"
+            ]
           },
           {
             "display_index": 12,
-            "source_ids": [13],
+            "source_ids": [1],
             "furigana_ids": []
           },
           {
             "display_index": 13,
-            "source_ids": [14],
+            "source_ids": [4],
             "furigana_ids": []
           },
           {
             "display_index": 14,
-            "source_ids": [15],
+            "source_ids": [8],
             "furigana_ids": []
           },
           {
             "display_index": 15,
-            "source_ids": [16],
+            "source_ids": [9],
             "furigana_ids": []
           },
           {
             "display_index": 16,
-            "source_ids": [17],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 17,
             "source_ids": [18],
             "furigana_ids": []
           },
           {
-            "display_index": 18,
+            "display_index": -1,
             "source_ids": [19],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 19,
+            "display_index": 17,
             "source_ids": [20],
             "furigana_ids": []
           }
         ],
-        "uncertainties": [],
+        "uncertainties": [
+          "Unclear intended English rendering of オーズ (could be \"O's\", \"OOO\", or another stylized romanization)."
+        ],
         "ocr_lines": [
           {
             "id": 0,
@@ -3240,14 +3267,9 @@
         },
         {
           "text": "解除ボタンを上に上げ、ツメを下に下げながら、スロットを引き抜きます。",
-          "translation": "Lift the release button upward, and while lowering the tab, pull the slot out.",
+          "translation": "Lift the release button up, push the tab down, and pull the slot out.",
           "bbox": [0.0414, 0.10109579867124557, 0.8301121045112609, 0.030812115848064425],
           "layout": "panel"
-        },
-        {
-          "text": "7",
-          "translation": "7",
-          "bbox": [0.4933, 0.9778, 0.0121, 0.013]
         },
         {
           "text": "解除ボタン",
@@ -3304,7 +3326,8 @@
             }
           ],
           "furigana": [],
-          "notes": []
+          "notes": [],
+          "native_artwork": [2]
         },
         "mapping": [
           {
@@ -3324,17 +3347,18 @@
             ]
           },
           {
-            "display_index": 2,
+            "display_index": -1,
             "source_ids": [2],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 3,
+            "display_index": 2,
             "source_ids": [3],
             "furigana_ids": []
           },
           {
-            "display_index": 4,
+            "display_index": 3,
             "source_ids": [4],
             "furigana_ids": []
           }
@@ -3391,17 +3415,14 @@
         },
         {
           "text": "ボタンを長押しする度に、下記5曲が再生・停止できます。",
-          "translation": "Each time you long-press the button, the following five tracks can be played or stopped.",
+          "translation": "Each time you long-press the button, you can play or stop the five songs listed below.",
           "bbox": [0.0426, 0.0832, 0.661439324760437, 0.04619999999999999],
           "layout": "panel"
         },
         {
           "text": "1 『Over \"Quartzer\"』 (TV size)",
-          "translation": "1 \"Over \"Quartzer\"\" (TV size)",
-          "bbox": [
-            0.06258706307411194, 0.12889065897464752, 0.4232129369258881, 0.04460934102535247
-          ],
-          "layout": "panel"
+          "translation": "1 \"Over 'Quartzer'\" (TV size)",
+          "bbox": [0.0689, 0.1304, 0.4154, 0.0249]
         },
         {
           "text": "2 『ジオウ誕生』\n3 『ジオウ変身』\n4 『アーマータイム』",
@@ -3412,11 +3433,6 @@
           "text": "5 『P.A.R.T.Y.~ユニバース・フェスティバル』 (ショートver.)",
           "translation": "5 \"P.A.R.T.Y. ~Universe Festival~\" (Short ver.)",
           "bbox": [0.0659, 0.2998, 0.7062, 0.0213]
-        },
-        {
-          "text": "8",
-          "translation": "8",
-          "bbox": [0.494, 0.9817, 0.0097, 0.0101]
         },
         {
           "text": "ボタン",
@@ -3472,18 +3488,14 @@
               "source_ids": [0]
             },
             {
-              "id": "p1-a-a",
+              "id": "p1",
               "kind": "prose",
               "source_ids": [1]
-            },
-            {
-              "id": "p1-a-b",
-              "kind": "prose",
-              "source_ids": [2]
             }
           ],
           "furigana": [],
-          "notes": ["Panel p1-b retained original English after failed automatic checks"]
+          "notes": ["Panel p2 retained original English after failed automatic checks"],
+          "native_artwork": [5]
         },
         "mapping": [
           {
@@ -3495,17 +3507,15 @@
           },
           {
             "display_index": 1,
-            "panel_id": "p1-a-a",
+            "panel_id": "p1",
             "source_ids": [1],
             "furigana_ids": [],
             "japanese_items": ["ボタンを長押しする度に、下記5曲が再生・停止できます。"]
           },
           {
             "display_index": 2,
-            "panel_id": "p1-a-b",
             "source_ids": [2],
-            "furigana_ids": [],
-            "japanese_items": ["1 『Over \"Quartzer\"』 (TV size)"]
+            "furigana_ids": []
           },
           {
             "display_index": 3,
@@ -3518,12 +3528,13 @@
             "furigana_ids": []
           },
           {
-            "display_index": 5,
+            "display_index": -1,
             "source_ids": [5],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 6,
+            "display_index": 5,
             "source_ids": [6],
             "furigana_ids": []
           }
