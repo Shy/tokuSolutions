@@ -83,6 +83,13 @@ def native_artwork_candidate(text: str) -> Literal["automatic", "scan", ""]:
         return "automatic"
     if re.fullmatch(r"[1-9][0-9]?(?:-[1-9][0-9]?)?", normalized):
         return "scan"
+    # Document AI can mistake repeated diagram-arrow ticks for Hebrew letters.
+    # This only permits image classification, never automatic removal of a script.
+    if 1 <= len(normalized) <= 24 and all(
+        unicodedata.name(character, "").startswith("HEBREW LETTER ")
+        for character in normalized
+    ):
+        return "scan"
     if (
         len(normalized) <= 120
         and re.fullmatch(r"[A-Za-z][A-Za-z0-9 .,:;!?'/()&+−–—-]*", normalized)

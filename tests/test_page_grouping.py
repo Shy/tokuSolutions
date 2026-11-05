@@ -287,3 +287,22 @@ def test_katakana_instruction_at_normal_text_size_is_not_a_reading_guide() -> No
                 panels=[], furigana=[RubyLink(source_id=0, parent_id=1)], notes=[]
             ),
         )
+
+
+def test_foreign_script_ocr_needs_scan_confirmation_before_suppression() -> None:
+    """Arrow ticks misread as Hebrew remain visible until scan classification."""
+    from src.quality.page_grouping import native_artwork_candidate, normalize_plan
+
+    page = ContextPage(
+        image="page.webp",
+        blocks=[
+            ContextBlock(
+                text="יווווי", translation="יווווי", bbox=(0.4, 0.7, 0.01, 0.02)
+            )
+        ],
+    )
+    assert native_artwork_candidate("יווווי") == "scan"
+    assert (
+        normalize_plan(page, PagePlan(panels=[], furigana=[], notes=[])).native_artwork
+        == []
+    )

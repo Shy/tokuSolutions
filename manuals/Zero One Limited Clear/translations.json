@@ -7,7 +7,7 @@
     "source_url": "https://toy.bandai.co.jp/manuals/files/2782856.pdf?ver=t0mbvd",
     "blog_url": "",
     "pages": 4,
-    "blocks": 231,
+    "blocks": 229,
     "thumbnail": "pages/page-0.webp",
     "tags": ["dx", "kamen-rider"],
     "semantic_layout": 1
@@ -12982,11 +12982,6 @@
           "bbox": [0.1953, 0.1531, 0.084, 0.0137]
         },
         {
-          "text": "יווווי",
-          "translation": "(graphic)",
-          "bbox": [0.8029, 0.1753, 0.0085, 0.0124]
-        },
-        {
           "text": "オーソライズ",
           "translation": "Authorize",
           "bbox": [0.8235, 0.0923, 0.0979, 0.0115]
@@ -13047,11 +13042,6 @@
           "text": "テラライズ!",
           "translation": "Tera Rise!",
           "bbox": [0.4903, 0.664, 0.1046, 0.0141]
-        },
-        {
-          "text": "יווווי",
-          "translation": "יווווי",
-          "bbox": [0.4154, 0.7431, 0.0085, 0.0133]
         },
         {
           "text": "2 スロットに挿入されている",
@@ -14823,9 +14813,10 @@
             "p_step2_main-a-b-a-b: recovered adjacent clause source 52",
             "p_step4-a-b-b-b: recovered adjacent clause source 78",
             "Panel p_step4-a-a retained original English after failed automatic checks",
-            "Panel p_powerup_step2-a retained original English after failed automatic checks"
+            "Panel p_powerup_step2-a retained original English after failed automatic checks",
+            "2026-11-05 scan correction: source IDs 32 and 154 are diagram-arrow ticks misread as Hebrew. Preserve original artwork without text overlays."
           ],
-          "native_artwork": [28, 35, 67, 72, 73, 135, 155]
+          "native_artwork": [28, 35, 67, 72, 73, 135, 155, 32, 154]
         },
         "mapping": [
           {
@@ -15158,17 +15149,18 @@
             "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 41,
+            "display_index": -1,
             "source_ids": [32],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 42,
+            "display_index": 41,
             "source_ids": [33],
             "furigana_ids": []
           },
           {
-            "display_index": 43,
+            "display_index": 42,
             "source_ids": [34],
             "furigana_ids": []
           },
@@ -15179,17 +15171,17 @@
             "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 44,
+            "display_index": 43,
             "source_ids": [61],
             "furigana_ids": []
           },
           {
-            "display_index": 45,
+            "display_index": 44,
             "source_ids": [63],
             "furigana_ids": [62]
           },
           {
-            "display_index": 46,
+            "display_index": 45,
             "source_ids": [64],
             "furigana_ids": []
           },
@@ -15200,17 +15192,17 @@
             "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 47,
+            "display_index": 46,
             "source_ids": [69],
             "furigana_ids": []
           },
           {
-            "display_index": 48,
+            "display_index": 47,
             "source_ids": [70],
             "furigana_ids": [68]
           },
           {
-            "display_index": 49,
+            "display_index": 48,
             "source_ids": [71],
             "furigana_ids": []
           },
@@ -15227,17 +15219,17 @@
             "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 50,
+            "display_index": 49,
             "source_ids": [74],
             "furigana_ids": []
           },
           {
-            "display_index": 51,
+            "display_index": 50,
             "source_ids": [94],
             "furigana_ids": []
           },
           {
-            "display_index": 52,
+            "display_index": 51,
             "source_ids": [100],
             "furigana_ids": []
           },
@@ -15248,14 +15240,15 @@
             "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 53,
+            "display_index": 52,
             "source_ids": [142],
             "furigana_ids": []
           },
           {
-            "display_index": 54,
+            "display_index": -1,
             "source_ids": [154],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "disposition": "native graphic retained without overlay"
           },
           {
             "display_index": -1,
@@ -15264,42 +15257,42 @@
             "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 55,
+            "display_index": 53,
             "source_ids": [176],
             "furigana_ids": [175]
           },
           {
-            "display_index": 56,
+            "display_index": 54,
             "source_ids": [181],
             "furigana_ids": [179, 180]
           },
           {
-            "display_index": 57,
+            "display_index": 55,
             "source_ids": [184],
             "furigana_ids": []
           },
           {
-            "display_index": 58,
+            "display_index": 56,
             "source_ids": [185],
             "furigana_ids": []
           },
           {
-            "display_index": 59,
+            "display_index": 57,
             "source_ids": [187],
             "furigana_ids": []
           },
           {
-            "display_index": 60,
+            "display_index": 58,
             "source_ids": [189],
             "furigana_ids": [188]
           },
           {
-            "display_index": 61,
+            "display_index": 59,
             "source_ids": [202],
             "furigana_ids": []
           },
           {
-            "display_index": 62,
+            "display_index": 60,
             "source_ids": [203],
             "furigana_ids": []
           }
