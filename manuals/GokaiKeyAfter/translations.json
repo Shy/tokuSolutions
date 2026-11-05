@@ -7,14 +7,393 @@
     "source_url": "",
     "blog_url": "",
     "pages": 1,
-    "blocks": 97,
+    "blocks": 68,
     "thumbnail": "pages/page-0.webp",
-    "tags": ["memorial", "sentai"]
+    "tags": ["memorial", "sentai"],
+    "semantic_layout": 1
   },
   "pages": [
     {
-      "image": "pages/page-0.webp",
       "blocks": [
+        {
+          "text": "レンジャーキー After Gokai HERO セット\nMEMORIAL EDITION\nUSER MANUAL",
+          "translation": "Ranger Key After Gokai HERO Set\nMEMORIAL EDITION\nUSER MANUAL",
+          "bbox": [
+            0.024151987642049788, 0.04565840518474579, 0.33904801235795023, 0.1094415948152542
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "セット内容",
+          "translation": "Set Contents",
+          "bbox": [
+            0.039099999999999996, 0.21675876832008362, 0.09322513213157654, 0.029041231679916374
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "取扱説明書 (本書)･･････1\nレンジャーキー.....各1\n(レッドバスター\nキョウリュウレッド\nトッキュウ1号\nアカニンジャー\nジュウオウイーグル\nシシレッド\nルパンレッド\nパトレン1号\nリュウソウレッド\nキラメイレッド\n・ゼンカイザー)",
+          "translation": "• Instruction manual (this book) — 1\n• Ranger Key — 1 each\n• (Red Buster\n• Kyoryu Red\n• Tokkyu 1\n• Aka Ninger\n• Juuou Eagle\n• Shishi Red\n• Lupin Red\n• Patren 1\n• Ryusoul Red\n• Kiramei Red\n• Zenkai-zer)",
+          "bbox": [0.03526784783601761, 0.2621, 0.0992321521639824, 0.32709999999999995],
+          "layout": "panel"
+        },
+        {
+          "text": "レンジャーキーの変形方法",
+          "translation": "How to transform the Ranger Key",
+          "bbox": [0.16395532643795013, 0.2119, 0.16334467356204985, 0.022999999999999993],
+          "layout": "panel"
+        },
+        {
+          "text": "キーモードの状態です。\n両腕と脚を展開してから\n遊んでください。",
+          "translation": "This is the key mode. Please spread both arms and legs before playing.",
+          "bbox": [
+            0.17036832427978515, 0.3364685580730438, 0.09023167572021484, 0.04353144192695618
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "豪快に変身",
+          "translation": "Dramatic transformation",
+          "bbox": [0.5461699471473694, 0.039, 0.07873005285263046, 0.026000000000000002],
+          "layout": "panel"
+        },
+        {
+          "text": "※ゼンカイザーキーを例に説明します。\n※別売りのモバイレーツ-MEMORIAL EDITION- を使用し、 「通常身モード」の状態で行います。",
+          "translation": "• Note: The ZenkaiZer Key is used as an example for explanation.\n• Note: Use the separately sold Mobiretsu - MEMORIAL EDITION - and perform this while in \"tsuujou-shin mode\".",
+          "bbox": [
+            0.6692994937896729, 0.039599999999999996, 0.288200506210327, 0.025999999999999995
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "セリフボタンを\n押します。\n→変身アクション音が\n鳴ります。",
+          "translation": "• Press the speech button.\n• →A transformation action sound will play.",
+          "bbox": [0.5461699471473694, 0.0874, 0.08213005285263053, 0.0754],
+          "layout": "panel"
+        },
+        {
+          "text": "レンジャーキー\n挿入口に\nレンジャーキーを\n挿入します。\n→挿入音が鳴ります。",
+          "translation": "• Insert the Ranger Key into the Ranger Key insertion slot.\n• An insertion sound will play.",
+          "bbox": [0.656, 0.08677085793018341, 0.08000189828872672, 0.0761559842824936],
+          "layout": "panel"
+        },
+        {
+          "text": "レンジャーキーを\n90° ひねります。\n→クロスボーンが開き、\nひねり音と\nレンジャーキーに\n応じた音声が鳴ります。",
+          "translation": "• Turn the Ranger Key 90°.\n• The crossbone opens, and a twisting sound and a voice corresponding to the Ranger Key will play.",
+          "bbox": [0.7719, 0.08798004990816116, 0.09065173826217643, 0.09006166595220566],
+          "layout": "panel"
+        },
+        {
+          "text": "レンジャーキーを\n挿入した状態で\nエンターキーを押します。\nレンジャーキーに\n応じた音声が鳴ります。",
+          "translation": "• With the Ranger Key inserted, press the Enter key.\n• A voice corresponding to the Ranger Key will play.",
+          "bbox": [0.8899, 0.08737545019388199, 0.09279999999999988, 0.07615599173307419],
+          "layout": "panel"
+        },
+        {
+          "text": "特殊BGM遊び",
+          "translation": "Special BGM Play",
+          "bbox": [0.5461699471473694, 0.3842, 0.10433005285263053, 0.02479999999999999],
+          "layout": "panel"
+        },
+        {
+          "text": "※ゼンカイザーキーを例に説明します。\n※別売りのモバイレーツ-MEMORIAL EDITION- を使用し、 「通常身モード」の状態で行います。",
+          "translation": "• Note: The ZenkaiZer Key is used as an example.\n• Note: Use the separately sold Mobirates - MEMORIAL EDITION - and perform this while in \"Normal Transformation Mode.\"",
+          "bbox": [0.6692994937896729, 0.3836, 0.288200506210327, 0.025400000000000034],
+          "layout": "panel"
+        },
+        {
+          "text": "レンジャーキー挿入口に\nレンジャーキーを挿入します。\n→挿入音が鳴ります。",
+          "translation": "• Insert the ranger key into the ranger key slot.\n• →An insertion sound will play.",
+          "bbox": [0.5465974912643433, 0.435, 0.10820250873565662, 0.04473458909988404],
+          "layout": "panel"
+        },
+        {
+          "text": "レンジャーキーを90° ひねります。\n→クロスボーンが開き、ひねり音と\nレンジャーキーに応じた\n音声が鳴ります。",
+          "translation": "• Turn the Ranger Key 90°.\n• → The Crossbone opens, and a twisting sound and a voice corresponding to the Ranger Key play.",
+          "bbox": [0.6876834139823914, 0.4344, 0.12484691429138173, 0.05984486303329467],
+          "layout": "panel"
+        },
+        {
+          "text": "△注意",
+          "translation": "△Caution",
+          "bbox": [0.0395, 0.6581, 0.051781954884529115, 0.017523346805572437],
+          "layout": "panel"
+        },
+        {
+          "text": "お買い上げのお客様へ 必ずお読みください。",
+          "translation": "To our customers: Please read this carefully.",
+          "bbox": [0.1041, 0.6581, 0.18683994641304016, 0.016918717288970875],
+          "layout": "panel"
+        },
+        {
+          "text": "《使用上の注意>",
+          "translation": "Precautions for Use",
+          "bbox": [0.024999999999999998, 0.7355, 0.0667094915509224, 0.015699999999999936],
+          "layout": "panel"
+        },
+        {
+          "text": "●本商品は精密に作られています。 無理な力を加えたり、落としたりすると破損する恐れがあります。\n●プラスチック梱包材は開封後はすぐに捨ててください。\n●本商品には塗装部分がありますので、 保管の際には他のもの (樹脂製品や家具、 ソファー)と接触しないようにしてください。\n色が移る場合があります。\n●可動部分・取付部分を無理な方向に強く引っ張ったり、曲げたりしないでください。",
+          "translation": "• This product is precisely manufactured. Applying excessive force or dropping it may cause damage.\n• Dispose of plastic packing materials immediately after opening.\n• This product has painted surfaces; when storing, avoid contact with other items (plastic products, furniture, sofas). Color transfer may occur.\n• Do not forcefully pull or bend movable parts or attachment parts in unnatural directions.",
+          "bbox": [0.02799978597462177, 0.7548, 0.4408002140253782, 0.08104098958969108],
+          "layout": "panel"
+        },
+        {
+          "text": "※ゼンカイザーキーを例に説明します。",
+          "translation": "The Zenkai-zer Key is used as an example.",
+          "bbox": [0.6692994937896729, 0.7246, 0.1137310652732848, 0.011499999999999844],
+          "layout": "panel"
+        },
+        {
+          "text": "レンジャーキー\n挿入口に\nレンジャーキーを\n挿入します。\n→挿入音が\n鳴ります。",
+          "translation": "• Ranger Key\n• Insert the Ranger Key into the insertion slot.\n• → An insertion sound will play.",
+          "bbox": [
+            0.5465974912643433, 0.7741952643394471, 0.06541983175277699, 0.09130473566055286
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "レンジャーキーを\n90° ひねります。\nクロスボーンが開き、ひねり音と\n「DANGER! DANGER!\nでんじゃらす~!」が鳴ります。\n※音声は全て共通です。",
+          "translation": "• Turn the Ranger Key 90°.\n• The crossbone opens, and a twisting sound and “DANGER! DANGER! Denjarasu~!” play.\n• All voice lines are the same.",
+          "bbox": [0.7475, 0.7741952643394471, 0.1248999999999999, 0.09127090263366688],
+          "layout": "panel"
+        },
+        {
+          "text": "併せてご覧ください。\nモバイレーツ-MEMORIAL EDITION- のWEB取説は、コチラから!!",
+          "translation": "• Please also see the following.\n• The web manual for MOBAIRETSU - MEMORIAL EDITION - is available here!!",
+          "bbox": [0.04125331273674965, 0.8685, 0.3326466872632503, 0.03626482057571401],
+          "layout": "panel"
+        },
+        {
+          "text": "URL\n●画像はイメージです。",
+          "translation": "• URL\n• Image is for illustrative purposes.",
+          "bbox": [
+            0.02457952058315277, 0.9338000000000001, 0.06292047941684724, 0.030299999999999883
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "側面のボタンを押すことで、\n変形することができます。\n① 両腕を上げます。\n②側面のボタンを押します。\n※梱包時は",
+          "translation": "You can transform it by pressing the button on the side.\n① Raise both arms.\n② Press the button on the side.\n※When packaged,",
+          "bbox": [0.1633, 0.2503, 0.1039, 0.0822]
+        },
+        {
+          "text": "両腕",
+          "translation": "both arms",
+          "bbox": [0.2976, 0.2848, 0.0167, 0.0115]
+        },
+        {
+          "text": "ボタン",
+          "translation": "Button",
+          "bbox": [0.3446, 0.4891, 0.0222, 0.0109]
+        },
+        {
+          "text": "海賊戦隊",
+          "translation": "Pirate Sentai",
+          "bbox": [0.4074, 0.0647, 0.0291, 0.0109]
+        },
+        {
+          "text": "ゴーカイジン",
+          "translation": "Gokai-Oh",
+          "bbox": [0.3788, 0.0719, 0.0808, 0.0351]
+        },
+        {
+          "text": "©石森プロ・東映",
+          "translation": "© Ishimori Productions & Toei",
+          "bbox": [0.3925, 0.1342, 0.0586, 0.0121]
+        },
+        {
+          "text": "【側面】",
+          "translation": "[Side]",
+          "bbox": [0.534, 0.1602, 0.0235, 0.0121]
+        },
+        {
+          "text": "・モバイレーツ",
+          "translation": "・Mobirates",
+          "bbox": [0.5891, 0.1638, 0.0355, 0.0085]
+        },
+        {
+          "text": "クロス\nボーン",
+          "translation": "Crossbone",
+          "bbox": [0.7546, 0.1626, 0.0162, 0.0157]
+        },
+        {
+          "text": "レンジャーモード」",
+          "translation": "Ranger Mode",
+          "bbox": [0.2826, 0.5683, 0.068, 0.0133]
+        },
+        {
+          "text": "キーモード",
+          "translation": "Key Mode",
+          "bbox": [0.4053, 0.5689, 0.0436, 0.0109]
+        },
+        {
+          "text": "セリフ\nボタン",
+          "translation": "Dialogue\nButton",
+          "bbox": [0.5417, 0.3277, 0.0167, 0.0169]
+        },
+        {
+          "text": "ワイン!",
+          "translation": "Wine!",
+          "bbox": [0.5631, 0.2195, 0.0556, 0.0423]
+        },
+        {
+          "text": "レンジャーキー\n挿入口",
+          "translation": "Ranger Key\nInsertion Slot",
+          "bbox": [0.6982, 0.2364, 0.0385, 0.0187]
+        },
+        {
+          "text": "5人揃って、",
+          "translation": "All five together,",
+          "bbox": [0.888, 0.1995, 0.0641, 0.0308]
+        },
+        {
+          "text": "ゼンカイジャー!",
+          "translation": "Zenkaiger!",
+          "bbox": [0.7559, 0.2449, 0.1039, 0.0339]
+        },
+        {
+          "text": "レンジャーキー",
+          "translation": "Ranger Key",
+          "bbox": [0.7033, 0.2956, 0.0381, 0.0073]
+        },
+        {
+          "text": "機界戦隊\nセンカイジャー",
+          "translation": "Kikai Sentai\nZenkaiger",
+          "bbox": [0.8752, 0.2213, 0.0906, 0.0605]
+        },
+        {
+          "text": "600",
+          "translation": "600",
+          "bbox": [0.6635, 0.3229, 0.0222, 0.0157]
+        },
+        {
+          "text": "108",
+          "translation": "108",
+          "bbox": [0.664, 0.3313, 0.0218, 0.0163]
+        },
+        {
+          "text": "400",
+          "translation": "400",
+          "bbox": [0.6657, 0.3434, 0.0201, 0.0145]
+        },
+        {
+          "text": "700",
+          "translation": "700",
+          "bbox": [0.6657, 0.3519, 0.0197, 0.0157]
+        },
+        {
+          "text": "ーエンターキー",
+          "translation": "—Enter key",
+          "bbox": [0.9453, 0.3561, 0.0321, 0.0091]
+        },
+        {
+          "text": "DOO",
+          "translation": "DOO",
+          "bbox": [0.9064, 0.367, 0.0261, 0.006]
+        },
+        {
+          "text": "BGMボタンを2回長押しします。",
+          "translation": "Press and hold the BGM button two times.",
+          "bbox": [0.8482, 0.4371, 0.1176, 0.0103]
+        },
+        {
+          "text": "「スーパー戦隊ヒーローゲッター",
+          "translation": "Super Sentai Hero Getter",
+          "bbox": [0.8568, 0.4516, 0.1137, 0.0115]
+        },
+        {
+          "text": "~テン・ゴーカイジャーver.~」 の",
+          "translation": "...~Ten Gokaiger ver.~\"",
+          "bbox": [0.8568, 0.4655, 0.1171, 0.0127]
+        },
+        {
+          "text": "ワンコーラスが鳴ります。\n※音声は全て共通です。",
+          "translation": "One chorus will play.\n*All audio is the same for every Ranger Key.",
+          "bbox": [0.8491, 0.4813, 0.0966, 0.0278]
+        },
+        {
+          "text": "【側面】",
+          "translation": "[Side]",
+          "bbox": [0.8474, 0.5326, 0.0244, 0.0127]
+        },
+        {
+          "text": "ゼンカイジャー!",
+          "translation": "Zenkaijger!",
+          "bbox": [0.69, 0.5623, 0.1039, 0.0363]
+        },
+        {
+          "text": "BGM",
+          "translation": "BGM",
+          "bbox": [0.8568, 0.5961, 0.0145, 0.0054]
+        },
+        {
+          "text": "ボタン",
+          "translation": "Button",
+          "bbox": [0.8559, 0.6046, 0.0162, 0.0085]
+        },
+        {
+          "text": "E",
+          "translation": "E",
+          "bbox": [0.7452, 0.6215, 0.0068, 0.0067]
+        },
+        {
+          "text": "U",
+          "translation": "U",
+          "bbox": [0.885, 0.6052, 0.0068, 0.0067]
+        },
+        {
+          "text": "10",
+          "translation": "10",
+          "bbox": [0.5708, 0.6511, 0.015, 0.0121]
+        },
+        {
+          "text": "●本商品の対象年齢は15才以上です。 対象年齢未満のお子様には絶対に与えないでください。\n●小さな部品がありますので、小さなお子様が誤って飲み込まないように注意してください。 窒息などの危険があります。\n●尖った部分や鋭い部分がありますので、取扱や保管場所に注意してください。思わぬケガをする恐れがあります。",
+          "translation": "● This product is for ages 15 and up. Do not give to children under the recommended age.\n● This product contains small parts. Be careful that small children do not accidentally swallow them. There is a risk of choking.\n● This product has pointed and/or sharp parts. Handle and store with care to avoid unexpected injury.",
+          "bbox": [0.0333, 0.6844, 0.3882, 0.0375]
+        },
+        {
+          "text": "お宝ナビゲート ※別売りのモバイレーツ・MEMORIAL EDITIONを使用し、「お宝ナビゲート」の状態で行います。",
+          "translation": "Treasure Navigation *Perform this in \"Treasure Navigation\" mode using the Mobirates -MEMORIAL EDITION- (sold separately).",
+          "bbox": [0.5485, 0.7261, 0.4066, 0.0284]
+        },
+        {
+          "text": "https://toy.bandai.co.jp/manuals/pdf.php?id=2588450",
+          "translation": "https://toy.bandai.co.jp/manuals/pdf.php?id=2588450",
+          "bbox": [0.0731, 0.9341, 0.1907, 0.0121]
+        },
+        {
+          "text": "200",
+          "translation": "200",
+          "bbox": [0.6345, 0.8845, 0.0214, 0.0163]
+        },
+        {
+          "text": "100",
+          "translation": "100",
+          "bbox": [0.6349, 0.8942, 0.0214, 0.0163]
+        },
+        {
+          "text": "400",
+          "translation": "400",
+          "bbox": [0.6349, 0.9057, 0.0209, 0.0145]
+        },
+        {
+          "text": "780",
+          "translation": "780",
+          "bbox": [0.6349, 0.9148, 0.0218, 0.0163]
+        },
+        {
+          "text": "000",
+          "translation": "000",
+          "bbox": [0.634, 0.9238, 0.0227, 0.0169]
+        },
+        {
+          "text": "DANGER !\nDANGER!\nでんじゃらす〜!",
+          "translation": "DANGER!\nDANGER!\nDaaangerous!",
+          "bbox": [0.7738, 0.8857, 0.1112, 0.0816]
+        }
+      ],
+      "image": "pages/page-0.webp",
+      "source_blocks": [
         {
           "text": "レンジャーキー After Gokai HERO セット\nMEMORIAL EDITION\nUSER MANUAL",
           "translation": "Ranger Key After Gokai HERO Set\nMEMORIAL EDITION\nUSER MANUAL",
@@ -500,7 +879,1545 @@
           "translation": "DANGER!\nDANGER!\nDaaangerous!",
           "bbox": [0.7738, 0.8857, 0.1112, 0.0816]
         }
-      ]
+      ],
+      "layout_provenance": {
+        "version": 2,
+        "plan": {
+          "panels": [
+            {
+              "id": "p0",
+              "kind": "heading",
+              "source_ids": [0]
+            },
+            {
+              "id": "p1",
+              "kind": "heading",
+              "source_ids": [1]
+            },
+            {
+              "id": "p2",
+              "kind": "prose",
+              "source_ids": [3, 7, 8, 9, 10, 11, 12, 13, 14]
+            },
+            {
+              "id": "p3",
+              "kind": "heading",
+              "source_ids": [2]
+            },
+            {
+              "id": "p4-b",
+              "kind": "prose",
+              "source_ids": [6]
+            },
+            {
+              "id": "p5",
+              "kind": "heading",
+              "source_ids": [16]
+            },
+            {
+              "id": "p6",
+              "kind": "prose",
+              "source_ids": [21, 22]
+            },
+            {
+              "id": "p7",
+              "kind": "prose",
+              "source_ids": [19, 28]
+            },
+            {
+              "id": "p8",
+              "kind": "prose",
+              "source_ids": [23, 25, 29, 32]
+            },
+            {
+              "id": "p9",
+              "kind": "prose",
+              "source_ids": [20, 26, 30, 36]
+            },
+            {
+              "id": "p10",
+              "kind": "prose",
+              "source_ids": [24, 31, 37]
+            },
+            {
+              "id": "p11",
+              "kind": "heading",
+              "source_ids": [53]
+            },
+            {
+              "id": "p12",
+              "kind": "prose",
+              "source_ids": [54, 57]
+            },
+            {
+              "id": "p13",
+              "kind": "prose",
+              "source_ids": [58, 59]
+            },
+            {
+              "id": "p14",
+              "kind": "prose",
+              "source_ids": [60]
+            },
+            {
+              "id": "p16-a",
+              "kind": "heading",
+              "source_ids": [40]
+            },
+            {
+              "id": "p16-b",
+              "kind": "heading",
+              "source_ids": [41]
+            },
+            {
+              "id": "p17-a-b",
+              "kind": "prose",
+              "source_ids": [73]
+            },
+            {
+              "id": "p17-b",
+              "kind": "prose",
+              "source_ids": [74, 75]
+            },
+            {
+              "id": "p22",
+              "kind": "prose",
+              "source_ids": [76]
+            },
+            {
+              "id": "p23",
+              "kind": "prose",
+              "source_ids": [78, 79, 80, 88, 89]
+            },
+            {
+              "id": "p24",
+              "kind": "prose",
+              "source_ids": [81, 82, 95]
+            },
+            {
+              "id": "p25-a",
+              "kind": "prose",
+              "source_ids": [83, 84]
+            },
+            {
+              "id": "p25-b-b",
+              "kind": "prose",
+              "source_ids": [86, 87]
+            }
+          ],
+          "furigana": [],
+          "notes": [
+            "Source 77 contains both the お宝ナビゲート heading and explanatory text in one OCR region, so it is kept as a heading panel.",
+            "Conservative panel fallback: Panel p21 would mask unrelated source 76",
+            "Retained p21 unchanged: Panel p21 would mask unrelated source 76",
+            "Retained p4 source IDs [4] unchanged: illustration-mask check",
+            "Retained p17 source IDs [72] unchanged: illustration-mask check",
+            "Panel p15 retained original English after failed automatic checks",
+            "Panel p25-b-a retained original English after failed automatic checks"
+          ]
+        },
+        "mapping": [
+          {
+            "display_index": 0,
+            "panel_id": "p0",
+            "source_ids": [0],
+            "furigana_ids": [],
+            "japanese_items": [
+              "レンジャーキー After Gokai HERO セット\nMEMORIAL EDITION\nUSER MANUAL"
+            ]
+          },
+          {
+            "display_index": 1,
+            "panel_id": "p1",
+            "source_ids": [1],
+            "furigana_ids": [],
+            "japanese_items": ["セット内容"]
+          },
+          {
+            "display_index": 2,
+            "panel_id": "p2",
+            "source_ids": [3, 7, 8, 9, 10, 11, 12, 13, 14],
+            "furigana_ids": [],
+            "japanese_items": [
+              "取扱説明書（本書）･･････1",
+              "レンジャーキー･･････各1",
+              "（レッドバスター",
+              "キョウリュウレッド",
+              "トッキュウ1号",
+              "アカニンジャー",
+              "ジュウオウイーグル",
+              "シシレッド",
+              "ルパンレッド",
+              "パトレン1号",
+              "リュウソウレッド",
+              "キラメイレッド",
+              "ゼンカイザー）"
+            ]
+          },
+          {
+            "display_index": 3,
+            "panel_id": "p3",
+            "source_ids": [2],
+            "furigana_ids": [],
+            "japanese_items": ["レンジャーキーの変形方法"]
+          },
+          {
+            "display_index": 4,
+            "panel_id": "p4-b",
+            "source_ids": [6],
+            "furigana_ids": [],
+            "japanese_items": ["キーモードの状態です。両腕と脚を展開してから遊んでください。"]
+          },
+          {
+            "display_index": 5,
+            "panel_id": "p5",
+            "source_ids": [16],
+            "furigana_ids": [],
+            "japanese_items": ["豪快に変身"]
+          },
+          {
+            "display_index": 6,
+            "panel_id": "p6",
+            "source_ids": [21, 22],
+            "furigana_ids": [],
+            "japanese_items": [
+              "※ゼンカイザーキーを例に説明します。",
+              "※別売りのモバイレーツ-MEMORIAL EDITION- を使用し、 「通常身モード」の状態で行います。"
+            ]
+          },
+          {
+            "display_index": 7,
+            "panel_id": "p7",
+            "source_ids": [19, 28],
+            "furigana_ids": [],
+            "japanese_items": ["セリフボタンを押します。", "→変身アクション音が鳴ります。"]
+          },
+          {
+            "display_index": 8,
+            "panel_id": "p8",
+            "source_ids": [23, 25, 29, 32],
+            "furigana_ids": [],
+            "japanese_items": [
+              "レンジャーキー挿入口にレンジャーキーを挿入します。",
+              "→挿入音が鳴ります。"
+            ]
+          },
+          {
+            "display_index": 9,
+            "panel_id": "p9",
+            "source_ids": [20, 26, 30, 36],
+            "furigana_ids": [],
+            "japanese_items": [
+              "レンジャーキーを90°ひねります。",
+              "→クロスボーンが開き、ひねり音とレンジャーキーに応じた音声が鳴ります。"
+            ]
+          },
+          {
+            "display_index": 10,
+            "panel_id": "p10",
+            "source_ids": [24, 31, 37],
+            "furigana_ids": [],
+            "japanese_items": [
+              "レンジャーキーを挿入した状態でエンターキーを押します。",
+              "レンジャーキーに応じた音声が鳴ります。"
+            ]
+          },
+          {
+            "display_index": 11,
+            "panel_id": "p11",
+            "source_ids": [53],
+            "furigana_ids": [],
+            "japanese_items": ["特殊BGM遊び"]
+          },
+          {
+            "display_index": 12,
+            "panel_id": "p12",
+            "source_ids": [54, 57],
+            "furigana_ids": [],
+            "japanese_items": [
+              "※ゼンカイザーキーを例に説明します。",
+              "※別売りのモバイレーツ-MEMORIAL EDITION- を使用し、「通常変身モード」の状態で行います。"
+            ]
+          },
+          {
+            "display_index": 13,
+            "panel_id": "p13",
+            "source_ids": [58, 59],
+            "furigana_ids": [],
+            "japanese_items": [
+              "レンジャーキー挿入口にレンジャーキーを挿入します。",
+              "→挿入音が鳴ります。"
+            ]
+          },
+          {
+            "display_index": 14,
+            "panel_id": "p14",
+            "source_ids": [60],
+            "furigana_ids": [],
+            "japanese_items": [
+              "レンジャーキーを90°ひねります。",
+              "→クロスボーンが開き、ひねり音とレンジャーキーに応じた音声が鳴ります。"
+            ]
+          },
+          {
+            "display_index": 15,
+            "panel_id": "p16-a",
+            "source_ids": [40],
+            "furigana_ids": [],
+            "japanese_items": ["△注意"]
+          },
+          {
+            "display_index": 16,
+            "panel_id": "p16-b",
+            "source_ids": [41],
+            "furigana_ids": [],
+            "japanese_items": ["お買い上げのお客様へ 必ずお読みください。"]
+          },
+          {
+            "display_index": 17,
+            "panel_id": "p17-a-b",
+            "source_ids": [73],
+            "furigana_ids": [],
+            "japanese_items": ["《使用上の注意》"]
+          },
+          {
+            "display_index": 18,
+            "panel_id": "p17-b",
+            "source_ids": [74, 75],
+            "furigana_ids": [],
+            "japanese_items": [
+              "本商品は精密に作られています。無理な力を加えたり、落としたりすると破損する恐れがあります。",
+              "プラスチック梱包材は開封後はすぐに捨ててください。",
+              "本商品には塗装部分がありますので、保管の際には他のもの（樹脂製品や家具、ソファー）と接触しないようにしてください。色が移る場合があります。",
+              "可動部分・取付部分を無理な方向に強く引っ張ったり、曲げたりしないでください。"
+            ]
+          },
+          {
+            "display_index": 19,
+            "panel_id": "p22",
+            "source_ids": [76],
+            "furigana_ids": [],
+            "japanese_items": ["※ゼンカイザーキーを例に説明します。"]
+          },
+          {
+            "display_index": 20,
+            "panel_id": "p23",
+            "source_ids": [78, 79, 80, 88, 89],
+            "furigana_ids": [],
+            "japanese_items": [
+              "レンジャーキー",
+              "挿入口にレンジャーキーを挿入します。",
+              "→挿入音が鳴ります。"
+            ]
+          },
+          {
+            "display_index": 21,
+            "panel_id": "p24",
+            "source_ids": [81, 82, 95],
+            "furigana_ids": [],
+            "japanese_items": [
+              "レンジャーキーを90°ひねります。",
+              "クロスボーンが開き、ひねり音と「DANGER! DANGER! でんじゃらす~!」が鳴ります。",
+              "※音声は全て共通です。"
+            ]
+          },
+          {
+            "display_index": 22,
+            "panel_id": "p25-a",
+            "source_ids": [83, 84],
+            "furigana_ids": [],
+            "japanese_items": [
+              "併せてご覧ください。",
+              "モバイレーツ-MEMORIAL EDITION- のWEB取説は、コチラから!!"
+            ]
+          },
+          {
+            "display_index": 23,
+            "panel_id": "p25-b-b",
+            "source_ids": [86, 87],
+            "furigana_ids": [],
+            "japanese_items": ["URL", "画像はイメージです。"]
+          },
+          {
+            "display_index": 24,
+            "source_ids": [4],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 25,
+            "source_ids": [5],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 26,
+            "source_ids": [15],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 27,
+            "source_ids": [17],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 28,
+            "source_ids": [18],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 29,
+            "source_ids": [27],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 30,
+            "source_ids": [33],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 31,
+            "source_ids": [34],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 32,
+            "source_ids": [35],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 33,
+            "source_ids": [38],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 34,
+            "source_ids": [39],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 35,
+            "source_ids": [42],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 36,
+            "source_ids": [43],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 37,
+            "source_ids": [44],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 38,
+            "source_ids": [45],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 39,
+            "source_ids": [46],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 40,
+            "source_ids": [47],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 41,
+            "source_ids": [48],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 42,
+            "source_ids": [49],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 43,
+            "source_ids": [50],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 44,
+            "source_ids": [51],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 45,
+            "source_ids": [52],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 46,
+            "source_ids": [55],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 47,
+            "source_ids": [56],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 48,
+            "source_ids": [61],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 49,
+            "source_ids": [62],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 50,
+            "source_ids": [63],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 51,
+            "source_ids": [64],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 52,
+            "source_ids": [65],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 53,
+            "source_ids": [66],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 54,
+            "source_ids": [67],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 55,
+            "source_ids": [68],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 56,
+            "source_ids": [69],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 57,
+            "source_ids": [70],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 58,
+            "source_ids": [71],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 59,
+            "source_ids": [72],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 60,
+            "source_ids": [77],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 61,
+            "source_ids": [85],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 62,
+            "source_ids": [90],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 63,
+            "source_ids": [91],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 64,
+            "source_ids": [92],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 65,
+            "source_ids": [93],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 66,
+            "source_ids": [94],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 67,
+            "source_ids": [96],
+            "furigana_ids": []
+          }
+        ],
+        "uncertainties": [
+          "Romanizations/translations of character/ranger names (Kyoryu/Kyōryū, Tokkyu/Tokkyū, Aka Ninger/Akaninja, Juuou/Jūō, Shishi, Patren, Ryusoul, Kiramei, Zenkai-zer) are approximate due to lack of an accepted glossary.",
+          "The term 「通常身モード」 in the panel may be an OCR or print error; it could possibly be 「通常変身モード\" (normal transformation mode).",
+          "Product name spacing and punctuation for \"モバイレーツ-MEMORIAL EDITION-\" reproduced exactly from the image; formatting may vary in official English.",
+          "Romanization of the product name モバイレーツ rendered as \"MOBAIRETSU\" — exact official English rendering of the product name is not available from the image."
+        ],
+        "ocr_lines": [
+          {
+            "id": 0,
+            "text": "レンジャーキー After Gokai HERO セット",
+            "bbox": [
+              0.02565198764204979, 0.04715840518474579, 0.33604103699326515, 0.03748488426208496
+            ]
+          },
+          {
+            "id": 1,
+            "text": "MEMORIAL EDITION",
+            "bbox": [
+              0.09448482096195221, 0.09189842641353607, 0.19923044741153717, 0.017533257603645325
+            ]
+          },
+          {
+            "id": 2,
+            "text": "USER MANUAL",
+            "bbox": [
+              0.09961522370576859, 0.1197097972035408, 0.18982472270727158, 0.03325272351503372
+            ]
+          },
+          {
+            "id": 3,
+            "text": "セット内容",
+            "bbox": [
+              0.04061564803123474, 0.21825876832008362, 0.0902094841003418, 0.025997579097747803
+            ]
+          },
+          {
+            "id": 4,
+            "text": "レンジャーキーの変形方法",
+            "bbox": [
+              0.16545532643795013, 0.2134220004081726, 0.16032491624355316, 0.01995164155960083
+            ]
+          },
+          {
+            "id": 5,
+            "text": "取扱説明書 (本書)･･････1",
+            "bbox": [
+              0.03676784783601761, 0.2636033892631531, 0.09619496017694473, 0.012091904878616333
+            ]
+          },
+          {
+            "id": 6,
+            "text": "レンジャーキー.....各1",
+            "bbox": [
+              0.038905516266822815, 0.28839176893234253, 0.09277468919754028, 0.013301104307174683
+            ]
+          },
+          {
+            "id": 7,
+            "text": "(レッドバスター",
+            "bbox": [
+              0.0508764423429966, 0.3149939477443695, 0.0671227015554905, 0.013301104307174683
+            ]
+          },
+          {
+            "id": 8,
+            "text": "キョウリュウレッド",
+            "bbox": [
+              0.0508764423429966, 0.3415961265563965, 0.0739632360637188, 0.011487305164337158
+            ]
+          },
+          {
+            "id": 9,
+            "text": "トッキュウ1号",
+            "bbox": [
+              0.06113723665475845, 0.36819830536842346, 0.056434378027915955, 0.011487305164337158
+            ]
+          },
+          {
+            "id": 10,
+            "text": "側面のボタンを押すことで、",
+            "bbox": [
+              0.1684480607509613, 0.2503022849559784, 0.09876015782356262, 0.010882735252380371
+            ]
+          },
+          {
+            "id": 11,
+            "text": "変形することができます。",
+            "bbox": [
+              0.1684480607509613, 0.2660217583179474, 0.09191963076591492, 0.010278135538101196
+            ]
+          },
+          {
+            "id": 12,
+            "text": "① 両腕を上げます。",
+            "bbox": [
+              0.16331765055656433, 0.291414737701416, 0.06840531527996063, 0.012091904878616333
+            ]
+          },
+          {
+            "id": 13,
+            "text": "②側面のボタンを押します。",
+            "bbox": [
+              0.16331765055656433, 0.3077388107776642, 0.0991877019405365, 0.010882705450057983
+            ]
+          },
+          {
+            "id": 14,
+            "text": "※梱包時は",
+            "bbox": [
+              0.16460025310516357, 0.3234582841396332, 0.039760589599609375, 0.009068936109542847
+            ]
+          },
+          {
+            "id": 15,
+            "text": "両腕",
+            "bbox": [
+              0.2975630760192871, 0.28476420044898987, 0.016673773527145386, 0.011487305164337158
+            ]
+          },
+          {
+            "id": 16,
+            "text": "キーモードの状態です。",
+            "bbox": [
+              0.17229585349559784, 0.3379685580730438, 0.08507908880710602, 0.010882705450057983
+            ]
+          },
+          {
+            "id": 17,
+            "text": "両腕と脚を展開してから",
+            "bbox": [
+              0.17229585349559784, 0.35308343172073364, 0.08678923547267914, 0.010278105735778809
+            ]
+          },
+          {
+            "id": 18,
+            "text": "遊んでください。",
+            "bbox": [
+              0.17186832427978516, 0.36819830536842346, 0.05942709743976593, 0.010278105735778809
+            ]
+          },
+          {
+            "id": 19,
+            "text": "アカニンジャー",
+            "bbox": [
+              0.05728944018483162, 0.3935912847518921, 0.05985463783144951, 0.011487305164337158
+            ]
+          },
+          {
+            "id": 20,
+            "text": "ジュウオウイーグル",
+            "bbox": [
+              0.04959384351968765, 0.4195888638496399, 0.07652843743562698, 0.012696504592895508
+            ]
+          },
+          {
+            "id": 21,
+            "text": "シシレッド",
+            "bbox": [
+              0.06755023449659348, 0.44619104266166687, 0.04061564803123474, 0.011487305164337158
+            ]
+          },
+          {
+            "id": 22,
+            "text": "ルパンレッド",
+            "bbox": [
+              0.06284736841917038, 0.47279322147369385, 0.05002138018608093, 0.010278135538101196
+            ]
+          },
+          {
+            "id": 23,
+            "text": "パトレン1号",
+            "bbox": [
+              0.0624198392033577, 0.4975816309452057, 0.050448909401893616, 0.01269647479057312
+            ]
+          },
+          {
+            "id": 24,
+            "text": "リュウソウレッド",
+            "bbox": [
+              0.05472424253821373, 0.5235791802406311, 0.06584009900689125, 0.012696504592895508
+            ]
+          },
+          {
+            "id": 25,
+            "text": "キラメイレッド",
+            "bbox": [
+              0.058572039008140564, 0.5501813888549805, 0.0577169731259346, 0.011487305164337158
+            ]
+          },
+          {
+            "id": 26,
+            "text": "・ゼンカイザー)",
+            "bbox": [
+              0.05472424253821373, 0.5761789679527283, 0.0624198354780674, 0.011487305164337158
+            ]
+          },
+          {
+            "id": 27,
+            "text": "ボタン",
+            "bbox": [
+              0.3445917069911957, 0.489117294549942, 0.022231727838516235, 0.010882705450057983
+            ]
+          },
+          {
+            "id": 28,
+            "text": "豪快に変身",
+            "bbox": [
+              0.5476699471473694, 0.040507860481739044, 0.07567334175109863, 0.02297460287809372
+            ]
+          },
+          {
+            "id": 29,
+            "text": "海賊戦隊",
+            "bbox": [
+              0.40743908286094666, 0.06469165533781052, 0.02907225489616394, 0.01088271290063858
+            ]
+          },
+          {
+            "id": 30,
+            "text": "ゴーカイジン",
+            "bbox": [
+              0.3787943422794342, 0.07194679230451584, 0.080803781747818, 0.03506650775671005
+            ]
+          },
+          {
+            "id": 31,
+            "text": "セリフボタンを",
+            "bbox": [
+              0.5485250353813171, 0.08948004990816116, 0.05258655548095703, 0.010278113186359406
+            ]
+          },
+          {
+            "id": 32,
+            "text": "押します。",
+            "bbox": [
+              0.5480974912643433, 0.10459492355585098, 0.0346301794052124, 0.010882705450057983
+            ]
+          },
+          {
+            "id": 33,
+            "text": "レンジャーキーを",
+            "bbox": [
+              0.7751175761222839, 0.08948004990816116, 0.06028217077255249, 0.010278113186359406
+            ]
+          },
+          {
+            "id": 34,
+            "text": "※ゼンカイザーキーを例に説明します。",
+            "bbox": [
+              0.6707994937896729, 0.04111245647072792, 0.11030352115631104, 0.008464328944683075
+            ]
+          },
+          {
+            "id": 35,
+            "text": "※別売りのモバイレーツ-MEMORIAL EDITION- を使用し、 「通常身モード」の状態で行います。",
+            "bbox": [
+              0.6707994937896729, 0.05441354215145111, 0.28516459465026855, 0.009673520922660828
+            ]
+          },
+          {
+            "id": 36,
+            "text": "レンジャーキー",
+            "bbox": [
+              0.659256100654602, 0.08827085793018341, 0.05258655548095703, 0.012091897428035736
+            ]
+          },
+          {
+            "id": 37,
+            "text": "レンジャーキーを",
+            "bbox": [
+              0.8931167125701904, 0.08887545019388199, 0.06028217077255249, 0.012091904878616333
+            ]
+          },
+          {
+            "id": 38,
+            "text": "挿入口に",
+            "bbox": [
+              0.6575459837913513, 0.10459492355585098, 0.032064974308013916, 0.010278113186359406
+            ]
+          },
+          {
+            "id": 39,
+            "text": "90° ひねります。",
+            "bbox": [
+              0.7738349437713623, 0.10519951581954956, 0.05515182018280029, 0.010278113186359406
+            ]
+          },
+          {
+            "id": 40,
+            "text": "©石森プロ・東映",
+            "bbox": [
+              0.392475426197052, 0.13422007858753204, 0.05857202410697937, 0.01209188997745514
+            ]
+          },
+          {
+            "id": 41,
+            "text": "→変身アクション音が",
+            "bbox": [
+              0.5476699471473694, 0.12031438946723938, 0.07909363508224487, 0.010278120636940002
+            ]
+          },
+          {
+            "id": 42,
+            "text": "鳴ります。",
+            "bbox": [
+              0.5566481351852417, 0.13482466340065002, 0.0346301794052124, 0.011487305164337158
+            ]
+          },
+          {
+            "id": 43,
+            "text": "レンジャーキーを",
+            "bbox": [
+              0.659256100654602, 0.1197097972035408, 0.06070971488952637, 0.010278113186359406
+            ]
+          },
+          {
+            "id": 44,
+            "text": "挿入します。",
+            "bbox": [
+              0.6579734683036804, 0.13422007858753204, 0.04232579469680786, 0.011487290263175964
+            ]
+          },
+          {
+            "id": 45,
+            "text": "→クロスボーンが開き、",
+            "bbox": [
+              0.7734074592590332, 0.11850060522556305, 0.08294141292572021, 0.012091904878616333
+            ]
+          },
+          {
+            "id": 46,
+            "text": "ひねり音と",
+            "bbox": [
+              0.7823856472969055, 0.1354292631149292, 0.03805041313171387, 0.009068921208381653
+            ]
+          },
+          {
+            "id": 47,
+            "text": "挿入した状態で",
+            "bbox": [
+              0.8914065957069397, 0.10338573157787323, 0.05643433332443237, 0.012696489691734314
+            ]
+          },
+          {
+            "id": 48,
+            "text": "エンターキーを押します。",
+            "bbox": [
+              0.8918341398239136, 0.11910519748926163, 0.08935439586639404, 0.012091897428035736
+            ]
+          },
+          {
+            "id": 49,
+            "text": "レンジャーキーに",
+            "bbox": [
+              0.900384783744812, 0.1354292631149292, 0.06199228763580322, 0.009673520922660828
+            ]
+          },
+          {
+            "id": 50,
+            "text": "→挿入音が鳴ります。",
+            "bbox": [
+              0.6579734683036804, 0.1487303525209427, 0.07652842998504639, 0.012696489691734314
+            ]
+          },
+          {
+            "id": 51,
+            "text": "【側面】",
+            "bbox": [
+              0.533988893032074, 0.16021765768527985, 0.02351433038711548, 0.01209188997745514
+            ]
+          },
+          {
+            "id": 52,
+            "text": "・モバイレーツ",
+            "bbox": [
+              0.5891406536102295, 0.1638452261686325, 0.035485267639160156, 0.008464321494102478
+            ]
+          },
+          {
+            "id": 53,
+            "text": "クロス",
+            "bbox": [
+              0.7550235390663147, 0.16263602674007416, 0.015391170978546143, 0.0060459524393081665
+            ]
+          },
+          {
+            "id": 54,
+            "text": "ボーン",
+            "bbox": [
+              0.7545959949493408, 0.17110036313533783, 0.016246259212493896, 0.007255136966705322
+            ]
+          },
+          {
+            "id": 55,
+            "text": "レンジャーキーに",
+            "bbox": [
+              0.7832406759262085, 0.14993953704833984, 0.061137259006500244, 0.009673520922660828
+            ]
+          },
+          {
+            "id": 56,
+            "text": "応じた音声が鳴ります。",
+            "bbox": [
+              0.7815305590629578, 0.16505441069602966, 0.07952117919921875, 0.011487305164337158
+            ]
+          },
+          {
+            "id": 57,
+            "text": "応じた音声が鳴ります。",
+            "bbox": [
+              0.8995296955108643, 0.15054413676261902, 0.07952117919921875, 0.011487305164337158
+            ]
+          },
+          {
+            "id": 58,
+            "text": "レンジャーモード」",
+            "bbox": [
+              0.28259938955307007, 0.5683192014694214, 0.06797778606414795, 0.01330113410949707
+            ]
+          },
+          {
+            "id": 59,
+            "text": "キーモード",
+            "bbox": [
+              0.40530142188072205, 0.568923830986023, 0.04360836744308472, 0.010882675647735596
+            ]
+          },
+          {
+            "id": 60,
+            "text": "△注意",
+            "bbox": [
+              0.04104318097233772, 0.6596130728721619, 0.04873877391219139, 0.014510273933410645
+            ]
+          },
+          {
+            "id": 61,
+            "text": "お買い上げのお客様へ 必ずお読みください。",
+            "bbox": [
+              0.10560068488121033, 0.6596130728721619, 0.18383926153182983, 0.013905644416809082
+            ]
+          },
+          {
+            "id": 62,
+            "text": "セリフ",
+            "bbox": [
+              0.5416845083236694, 0.327690452337265, 0.016246259212493896, 0.006045937538146973
+            ]
+          },
+          {
+            "id": 63,
+            "text": "ボタン",
+            "bbox": [
+              0.5416845083236694, 0.33736395835876465, 0.016673743724822998, 0.007255136966705322
+            ]
+          },
+          {
+            "id": 64,
+            "text": "ワイン!",
+            "bbox": [
+              0.5630611181259155, 0.21946795284748077, 0.055579304695129395, 0.04232163727283478
+            ]
+          },
+          {
+            "id": 65,
+            "text": "レンジャーキー",
+            "bbox": [
+              0.6981616020202637, 0.23639661073684692, 0.03847801685333252, 0.007255136966705322
+            ]
+          },
+          {
+            "id": 66,
+            "text": "挿入口",
+            "bbox": [
+              0.7079948782920837, 0.24667473137378693, 0.01795637607574463, 0.008464321494102478
+            ]
+          },
+          {
+            "id": 67,
+            "text": "5人揃って、",
+            "bbox": [
+              0.8879863023757935, 0.19951632618904114, 0.06413000822067261, 0.03083433210849762
+            ]
+          },
+          {
+            "id": 68,
+            "text": "ゼンカイジャー!",
+            "bbox": [
+              0.7558785676956177, 0.2448609471321106, 0.10389053821563721, 0.0338573157787323
+            ]
+          },
+          {
+            "id": 69,
+            "text": "レンジャーキー",
+            "bbox": [
+              0.7032920122146606, 0.29564690589904785, 0.03805041313171387, 0.007255136966705322
+            ]
+          },
+          {
+            "id": 70,
+            "text": "機界戦隊",
+            "bbox": [
+              0.8939718008041382, 0.22309552133083344, 0.05643433332443237, 0.03204353153705597
+            ]
+          },
+          {
+            "id": 71,
+            "text": "センカイジャー",
+            "bbox": [
+              0.8768704533576965, 0.2472793161869049, 0.08807182312011719, 0.03264814615249634
+            ]
+          },
+          {
+            "id": 72,
+            "text": "600",
+            "bbox": [
+              0.6635314226150513, 0.322853684425354, 0.022231698036193848, 0.015719473361968994
+            ]
+          },
+          {
+            "id": 73,
+            "text": "108",
+            "bbox": [
+              0.6639589667320251, 0.3313180208206177, 0.02180415391921997, 0.01632407307624817
+            ]
+          },
+          {
+            "id": 74,
+            "text": "400",
+            "bbox": [
+              0.6656690835952759, 0.343409925699234, 0.02009403705596924, 0.014510273933410645
+            ]
+          },
+          {
+            "id": 75,
+            "text": "700",
+            "bbox": [
+              0.6656690835952759, 0.3518742322921753, 0.019666552543640137, 0.015719473361968994
+            ]
+          },
+          {
+            "id": 76,
+            "text": "特殊BGM遊び",
+            "bbox": [
+              0.5476699471473694, 0.3857315480709076, 0.10132533311843872, 0.021765440702438354
+            ]
+          },
+          {
+            "id": 77,
+            "text": "※ゼンカイザーキーを例に説明します。",
+            "bbox": [
+              0.6707994937896729, 0.3851269781589508, 0.10987603664398193, 0.008464306592941284
+            ]
+          },
+          {
+            "id": 78,
+            "text": "ーエンターキー",
+            "bbox": [
+              0.9452757835388184, 0.35610640048980713, 0.032064974308013916, 0.009068936109542847
+            ]
+          },
+          {
+            "id": 79,
+            "text": "DOO",
+            "bbox": [
+              0.906370222568512, 0.3669891059398651, 0.026079535484313965, 0.00604596734046936
+            ]
+          },
+          {
+            "id": 80,
+            "text": "※別売りのモバイレーツ-MEMORIAL EDITION- を使用し、 「通常身モード」の状態で行います。",
+            "bbox": [
+              0.6707994937896729, 0.3990326523780823, 0.28516459465026855, 0.008464336395263672
+            ]
+          },
+          {
+            "id": 81,
+            "text": "レンジャーキー挿入口に",
+            "bbox": [
+              0.549807608127594, 0.43651753664016724, 0.08422404527664185, 0.010278105735778809
+            ]
+          },
+          {
+            "id": 82,
+            "text": "レンジャーキーを挿入します。",
+            "bbox": [
+              0.5493800640106201, 0.45163241028785706, 0.10389053821563721, 0.010882705450057983
+            ]
+          },
+          {
+            "id": 83,
+            "text": "→挿入音が鳴ります。",
+            "bbox": [
+              0.5480974912643433, 0.4661426842212677, 0.07652842998504639, 0.012091904878616333
+            ]
+          },
+          {
+            "id": 84,
+            "text": "レンジャーキーを90° ひねります。",
+            "bbox": [
+              0.6904659867286682, 0.43591293692588806, 0.11671656370162964, 0.011487305164337158
+            ]
+          },
+          {
+            "id": 85,
+            "text": "→クロスボーンが開き、ひねり音と",
+            "bbox": [
+              0.6891834139823914, 0.45163241028785706, 0.12184691429138184, 0.010278105735778809
+            ]
+          },
+          {
+            "id": 86,
+            "text": "レンジャーキーに応じた",
+            "bbox": [
+              0.6990166902542114, 0.4667472839355469, 0.08507907390594482, 0.011487305164337158
+            ]
+          },
+          {
+            "id": 87,
+            "text": "音声が鳴ります。",
+            "bbox": [
+              0.6977340579032898, 0.4812575578689575, 0.06070971488952637, 0.011487305164337158
+            ]
+          },
+          {
+            "id": 88,
+            "text": "BGMボタンを2回長押しします。",
+            "bbox": [
+              0.8482257127761841, 0.4371221363544464, 0.11757165193557739, 0.010278105735778809
+            ]
+          },
+          {
+            "id": 89,
+            "text": "「スーパー戦隊ヒーローゲッター",
+            "bbox": [
+              0.8567764163017273, 0.45163241028785706, 0.11372381448745728, 0.011487305164337158
+            ]
+          },
+          {
+            "id": 90,
+            "text": "~テン・ゴーカイジャーver.~」 の",
+            "bbox": [
+              0.8567764163017273, 0.4655380845069885, 0.11714404821395874, 0.012696504592895508
+            ]
+          },
+          {
+            "id": 91,
+            "text": "ワンコーラスが鳴ります。",
+            "bbox": [
+              0.8572039604187012, 0.4818621575832367, 0.08849930763244629, 0.011487305164337158
+            ]
+          },
+          {
+            "id": 92,
+            "text": "※音声は全て共通です。",
+            "bbox": [
+              0.8490808010101318, 0.49576783180236816, 0.08593416213989258, 0.012696504592895508
+            ]
+          },
+          {
+            "id": 93,
+            "text": "【側面】",
+            "bbox": [
+              0.8473706841468811, 0.5326481461524963, 0.024369359016418457, 0.012696444988250732
+            ]
+          },
+          {
+            "id": 94,
+            "text": "ゼンカイジャー!",
+            "bbox": [
+              0.6900385022163391, 0.5622732639312744, 0.10389053821563721, 0.03627568483352661
+            ]
+          },
+          {
+            "id": 95,
+            "text": "BGM",
+            "bbox": [
+              0.8567764163017273, 0.5961306095123291, 0.014536082744598389, 0.00544130802154541
+            ]
+          },
+          {
+            "id": 96,
+            "text": "ボタン",
+            "bbox": [
+              0.8559213280677795, 0.6045949459075928, 0.016246259212493896, 0.008464276790618896
+            ]
+          },
+          {
+            "id": 97,
+            "text": "E",
+            "bbox": [
+              0.7451902627944946, 0.6215235590934753, 0.006840527057647705, 0.006650567054748535
+            ]
+          },
+          {
+            "id": 98,
+            "text": "U",
+            "bbox": [
+              0.8849936127662659, 0.6051995158195496, 0.006840527057647705, 0.006650567054748535
+            ]
+          },
+          {
+            "id": 99,
+            "text": "10",
+            "bbox": [
+              0.570756733417511, 0.6511487364768982, 0.014963686466217041, 0.012091875076293945
+            ]
+          },
+          {
+            "id": 100,
+            "text": "●本商品の対象年齢は15才以上です。 対象年齢未満のお子様には絶対に与えないでください。",
+            "bbox": [
+              0.03377511724829674, 0.6844014525413513, 0.30397606268525124, 0.010278105735778809
+            ]
+          },
+          {
+            "id": 101,
+            "text": "●小さな部品がありますので、小さなお子様が誤って飲み込まないように注意してください。 窒息などの危険があります。",
+            "bbox": [
+              0.03719538450241089, 0.6983071565628052, 0.38435229659080505, 0.009673476219177246
+            ]
+          },
+          {
+            "id": 102,
+            "text": "●尖った部分や鋭い部分がありますので、取扱や保管場所に注意してください。思わぬケガをする恐れがあります。",
+            "bbox": [
+              0.033347584307193756, 0.7128174304962158, 0.3672509714961052, 0.009068906307220459
+            ]
+          },
+          {
+            "id": 103,
+            "text": "《使用上の注意>",
+            "bbox": [
+              0.026507053524255753, 0.7370011806488037, 0.06370243802666664, 0.012696504592895508
+            ]
+          },
+          {
+            "id": 104,
+            "text": "●本商品は精密に作られています。 無理な力を加えたり、落としたりすると破損する恐れがあります。",
+            "bbox": [
+              0.03249251842498779, 0.7563482522964478, 0.32492518424987793, 0.010278105735778809
+            ]
+          },
+          {
+            "id": 105,
+            "text": "●プラスチック梱包材は開封後はすぐに捨ててください。",
+            "bbox": [
+              0.029499785974621773, 0.7726722955703735, 0.19666524045169353, 0.010882735252380371
+            ]
+          },
+          {
+            "id": 106,
+            "text": "●本商品には塗装部分がありますので、 保管の際には他のもの (樹脂製品や家具、 ソファー)と接触しないようにしてください。",
+            "bbox": [
+              0.03206498548388481, 0.7896009683609009, 0.43522872403264046, 0.011487305164337158
+            ]
+          },
+          {
+            "id": 107,
+            "text": "色が移る場合があります。",
+            "bbox": [
+              0.03505771607160568, 0.8065296411514282, 0.09191962331533432, 0.010278105735778809
+            ]
+          },
+          {
+            "id": 108,
+            "text": "●可動部分・取付部分を無理な方向に強く引っ張ったり、曲げたりしないでください。",
+            "bbox": [
+              0.029927318915724754, 0.8234582543373108, 0.29371526278555393, 0.010882735252380371
+            ]
+          },
+          {
+            "id": 109,
+            "text": "※ゼンカイザーキーを例に説明します。",
+            "bbox": [
+              0.6707994937896729, 0.7261185050010681, 0.11073106527328491, 0.008464336395263672
+            ]
+          },
+          {
+            "id": 110,
+            "text": "お宝ナビゲート ※別売りのモバイレーツ・MEMORIAL EDITIONを使用し、「お宝ナビゲート」の状態で行います。",
+            "bbox": [
+              0.5485250353813171, 0.7261185050010681, 0.4065839648246765, 0.028415977954864502
+            ]
+          },
+          {
+            "id": 111,
+            "text": "レンジャーキー",
+            "bbox": [0.549807608127594, 0.775695264339447, 0.05215907096862793, 0.01209193468093872]
+          },
+          {
+            "id": 112,
+            "text": "挿入口に",
+            "bbox": [
+              0.5480974912643433, 0.7920193672180176, 0.03163743019104004, 0.010278105735778809
+            ]
+          },
+          {
+            "id": 113,
+            "text": "レンジャーキーを",
+            "bbox": [
+              0.549807608127594, 0.807134211063385, 0.06070971488952637, 0.010278105735778809
+            ]
+          },
+          {
+            "id": 114,
+            "text": "挿入します。",
+            "bbox": [
+              0.5480974912643433, 0.822853684425354, 0.04318082332611084, 0.009673535823822021
+            ]
+          },
+          {
+            "id": 115,
+            "text": "レンジャーキーを",
+            "bbox": [
+              0.7507481575012207, 0.775695264339447, 0.06028217077255249, 0.01209193468093872
+            ]
+          },
+          {
+            "id": 116,
+            "text": "90° ひねります。",
+            "bbox": [
+              0.74903804063797, 0.7932285666465759, 0.05515176057815552, 0.009673476219177246
+            ]
+          },
+          {
+            "id": 117,
+            "text": "併せてご覧ください。",
+            "bbox": [
+              0.04275331273674965, 0.870012104511261, 0.08678923174738884, 0.012696504592895508
+            ]
+          },
+          {
+            "id": 118,
+            "text": "モバイレーツ-MEMORIAL EDITION- のWEB取説は、コチラから!!",
+            "bbox": [
+              0.04360837861895561, 0.8881499171257019, 0.32877298071980476, 0.015114903450012207
+            ]
+          },
+          {
+            "id": 119,
+            "text": "https://toy.bandai.co.jp/manuals/pdf.php?id=2588450",
+            "bbox": [
+              0.07310816645622253, 0.9340991377830505, 0.19067978858947754, 0.01209193468093872
+            ]
+          },
+          {
+            "id": 120,
+            "text": "URL",
+            "bbox": [
+              0.03634031489491463, 0.9353083372116089, 0.015391193330287933, 0.008464336395263672
+            ]
+          },
+          {
+            "id": 121,
+            "text": "●画像はイメージです。",
+            "bbox": [
+              0.02607952058315277, 0.9546554088592529, 0.05985464155673981, 0.00785970687866211
+            ]
+          },
+          {
+            "id": 122,
+            "text": "→挿入音が",
+            "bbox": [
+              0.5480974912643433, 0.8379685878753662, 0.04147070646286011, 0.009068906307220459
+            ]
+          },
+          {
+            "id": 123,
+            "text": "鳴ります。",
+            "bbox": [
+              0.5570756793022156, 0.8524788618087769, 0.034202635288238525, 0.011487305164337158
+            ]
+          },
+          {
+            "id": 124,
+            "text": "200",
+            "bbox": [
+              0.6344591975212097, 0.8845223784446716, 0.021376609802246094, 0.01632404327392578
+            ]
+          },
+          {
+            "id": 125,
+            "text": "100",
+            "bbox": [
+              0.6348866820335388, 0.8941959142684937, 0.02137666940689087, 0.01632404327392578
+            ]
+          },
+          {
+            "id": 126,
+            "text": "400",
+            "bbox": [
+              0.6348866820335388, 0.9056832194328308, 0.020949125289916992, 0.014510273933410645
+            ]
+          },
+          {
+            "id": 127,
+            "text": "780",
+            "bbox": [
+              0.6348866820335388, 0.9147521257400513, 0.021804213523864746, 0.01632404327392578
+            ]
+          },
+          {
+            "id": 128,
+            "text": "000",
+            "bbox": [
+              0.6340316534042358, 0.9238210320472717, 0.022659242153167725, 0.016928672790527344
+            ]
+          },
+          {
+            "id": 129,
+            "text": "クロスボーンが開き、ひねり音と",
+            "bbox": [
+              0.7580162286758423, 0.8077388405799866, 0.1128687858581543, 0.010278105735778809
+            ]
+          },
+          {
+            "id": 130,
+            "text": "「DANGER! DANGER!",
+            "bbox": [
+              0.7571612000465393, 0.8216444849967957, 0.08849936723709106, 0.011487305164337158
+            ]
+          },
+          {
+            "id": 131,
+            "text": "でんじゃらす~!」が鳴ります。",
+            "bbox": [
+              0.7575886845588684, 0.8379685878753662, 0.10902094841003418, 0.011487305164337158
+            ]
+          },
+          {
+            "id": 132,
+            "text": "※音声は全て共通です。",
+            "bbox": [
+              0.7498931288719177, 0.8524788618087769, 0.08593416213989258, 0.011487305164337158
+            ]
+          },
+          {
+            "id": 133,
+            "text": "DANGER !",
+            "bbox": [
+              0.7960667014122009, 0.8887545466423035, 0.06797778606414795, 0.025997579097747803
+            ]
+          },
+          {
+            "id": 134,
+            "text": "DANGER!",
+            "bbox": [
+              0.7977768182754517, 0.9105199575424194, 0.06797778606414795, 0.027206778526306152
+            ]
+          },
+          {
+            "id": 135,
+            "text": "でんじゃらす〜!",
+            "bbox": [
+              0.7776827812194824, 0.9298669695854187, 0.10731083154678345, 0.03748488426208496
+            ]
+          }
+        ]
+      }
     }
   ]
 }

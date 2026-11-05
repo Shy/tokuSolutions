@@ -7,14 +7,141 @@
     "source_url": "",
     "blog_url": "",
     "pages": 8,
-    "blocks": 135,
+    "blocks": 120,
     "thumbnail": "pages/page-0.webp",
-    "tags": ["dx", "kamen-rider", "premium"]
+    "tags": ["dx", "kamen-rider", "premium"],
+    "semantic_layout": 1
   },
   "pages": [
     {
-      "image": "pages/page-0.webp",
       "blocks": [
+        {
+          "text": "△ 注意",
+          "translation": "△ Caution",
+          "bbox": [0.4416680738925934, 0.8567, 0.1136408536434173, 0.011306993770599294],
+          "layout": "panel"
+        },
+        {
+          "text": "お買い上げのお客様へ 必ずお読みください。\n●本商品の対象年齢は15才以上です。 対象年齢未満のお子様には絶対に与えないでください。 ●小さな部品がありますので、小さなお子様が誤って飲み込まない\nように注意してください。 窒息などの危険があります。 ●耳の近くで使用してはいけません。 誤って使用すると、聴覚を損なう恐れがあります。●可動部分には指などを\n入れないでください。はさまれてケガをする恐れがあります。 本商品には電子部品を使用しておりますので、ペースメーカーをご使用の方はご注意ください。 《電池を\n誤使用すると発熱・ 破裂 液漏れの恐れがあります。 下記に注意してください》 二次電池(充電式電池) は、絶対に使用しないでください。 ●古い電池と新しい\n電池、いろいろな種類の電池をまぜて使わないでください。 ●十一(プラスマイナス) を正しくセットしてください。 ●遊んだ後は必ずスイッチを切り電池をはずしてくだ\nさい。 電池を入れたままにしておくと、液漏れの恐れがあり危険です。ショートさせたり充電、分解、 加熱、 火の中に入れたりしないでください。 ●万一、電池から\n漏れた液が目に入ったときはすぐに大量の水で洗い、医師に相談してください。 皮膚や服に付いた時は水で洗ってください。 ●廃棄するときは、自治体の廃棄物\n処理の指示に従ってください。",
+          "translation": "• To customers who purchased this product: Please read this carefully.\n• The target age for this product is 15 years and older. Do not give it to children younger than the target age under any circumstances.\n• This product contains small parts, so take care that small children do not accidentally swallow them. There is a risk of choking and the like.\n• Do not use near the ear. If used incorrectly, there is a risk of damaging hearing.\n• Do not put fingers or the like into moving parts. There is a risk of being caught and injured.\n• This product uses electronic components; if you use a pacemaker, please exercise caution.\n• If batteries are used incorrectly there is a risk of heating, bursting, or leakage. Please observe the following cautions.\n• Never use secondary batteries (rechargeable batteries).\n• Do not mix old and new batteries or mix different types of batteries.\n• Set the +/− (plus-minus) correctly.\n• After playing, always turn off the switch and remove the batteries. Leaving batteries inserted can cause leakage and is dangerous.\n• Do not short-circuit, charge, disassemble, heat, or put batteries into fire.\n• If battery leakage fluid gets into the eyes, rinse immediately with plenty of water and consult a physician. If it gets on skin or clothing, wash with water.\n• When disposing, follow your municipality's waste disposal instructions.",
+          "bbox": [0.036589480251073836, 0.869362364768982, 0.9274256354868411, 0.069237635231018],
+          "layout": "panel"
+        },
+        {
+          "text": "<使用上の注意>",
+          "translation": "<Precautions for Use>",
+          "bbox": [0.0281, 0.9457996592521668, 0.1009695264339447, 0.008008697509765517],
+          "layout": "panel"
+        },
+        {
+          "text": "●本商品は精密な電子部品で構成されています。 落としたり、水にぬらしたり、 汚したり、 分解したりしないでください。 また、 高温・低温になる所での使用、保管はさけて\nください。プラスチック梱包材は開封後にはすぐに捨ててください。●本商品を樹脂製のソファーやシート、タイルなどの上に置かないでください。 長時間接触して\nいると色が移る場合があります。 ●可動部分・取付部分を無理な方向に強く引っ張ったり、曲げたりしないでください。 ●発音の一部にイントネーションが違っていたり、\n商品の特性上聞き取りにくいものがありますが、ご了承ください。",
+          "translation": "• This product is made of precision electronic components. Do not drop it, get it wet, soil it, or disassemble it. Also avoid using or storing it where it will become very hot or very cold. Dispose of plastic packaging immediately after opening.\n• Do not place this product on resin sofas, seats, tiles, or the like. Prolonged contact may cause color transfer.\n• Do not forcibly pull or bend movable parts or attachment parts in unnatural directions.\n• Some pronunciations may have different intonation or be difficult to hear due to the product's characteristics; please understand.",
+          "bbox": [0.0269, 0.9532, 0.9401380845069884, 0.02959999999999985],
+          "layout": "panel"
+        },
+        {
+          "text": "PREMIUMOX",
+          "translation": "PREMIUMOX",
+          "bbox": [0.3089, 0.0068, 0.1554, 0.01]
+        },
+        {
+          "text": "シンギレード\nzik AN @ 0 R A D G",
+          "translation": "Zikan Girade",
+          "bbox": [0.2576, 0.0181, 0.5012, 0.029]
+        },
+        {
+          "text": "の遊び方",
+          "translation": "How to Play",
+          "bbox": [0.7013, 0.0366, 0.1233, 0.01]
+        },
+        {
+          "text": "セット内容",
+          "translation": "Set Contents",
+          "bbox": [0.0393, 0.061, 0.1239, 0.0098]
+        },
+        {
+          "text": "ジカンギレード本体··· 1\nライドウォッチスロット... 1",
+          "translation": "Zikan Girade main unit... 1\nRidewatch slot... 1",
+          "bbox": [0.1995, 0.0566, 0.2678, 0.0213]
+        },
+        {
+          "text": "ケンモード用刀身パーツ... 1",
+          "translation": "Ken Mode blade part... 1",
+          "bbox": [0.477, 0.0571, 0.2878, 0.0081]
+        },
+        {
+          "text": "各部名称",
+          "translation": "Names of Parts",
+          "bbox": [0.0605, 0.0889, 0.0816, 0.0059]
+        },
+        {
+          "text": "ジカンギレード本体",
+          "translation": "Zikan Girade main unit",
+          "bbox": [0.3422, 0.0939, 0.2884, 0.0118]
+        },
+        {
+          "text": "【正面】",
+          "translation": "[Front]",
+          "bbox": [0.0635, 0.108, 0.0647, 0.0081]
+        },
+        {
+          "text": "ボタン",
+          "translation": "Button",
+          "bbox": [0.7696, 0.1074, 0.058, 0.0061]
+        },
+        {
+          "text": "【背面】",
+          "translation": "[Back]",
+          "bbox": [0.0641, 0.414, 0.0635, 0.0076]
+        },
+        {
+          "text": "電池ぶた",
+          "translation": "Battery cover",
+          "bbox": [0.1669, 0.5155, 0.0804, 0.0061]
+        },
+        {
+          "text": "解除スイッチ",
+          "translation": "Release switch",
+          "bbox": [0.3065, 0.2746, 0.1143, 0.0068]
+        },
+        {
+          "text": "トリガー",
+          "translation": "Trigger",
+          "bbox": [0.4462, 0.3151, 0.0701, 0.0068]
+        },
+        {
+          "text": "電源スイッチ",
+          "translation": "Power switch",
+          "bbox": [0.5248, 0.5538, 0.1137, 0.0063]
+        },
+        {
+          "text": "ライドウォッチスロット",
+          "translation": "Ridewatch slot",
+          "bbox": [0.3368, 0.6372, 0.3295, 0.0115]
+        },
+        {
+          "text": "ケンモード用刀身パーツ",
+          "translation": "Ken Mode blade part",
+          "bbox": [0.3216, 0.7398, 0.3603, 0.012]
+        },
+        {
+          "text": "背面ボタン",
+          "translation": "Back button",
+          "bbox": [0.7044, 0.4939, 0.0979, 0.0065]
+        },
+        {
+          "text": "※構造上、振るとカタカタという物理音がします。\n(本体に装填されている刀身パーツも同様です。)",
+          "translation": "*Because of the structure, shaking it may produce a rattling noise. (The blade part installed in the main unit behaves the same.)",
+          "bbox": [0.0617, 0.8225, 0.4504, 0.0163]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.494, 0.9919, 0.0085, 0.0048]
+        }
+      ],
+      "image": "pages/page-0.webp",
+      "source_blocks": [
         {
           "text": "PREMIUMOX",
           "translation": "PREMIUMOX",
@@ -140,11 +267,652 @@
           "translation": "1",
           "bbox": [0.494, 0.9919, 0.0085, 0.0048]
         }
-      ]
+      ],
+      "layout_provenance": {
+        "version": 2,
+        "plan": {
+          "panels": [
+            {
+              "id": "p0",
+              "kind": "heading",
+              "source_ids": [19]
+            },
+            {
+              "id": "p1",
+              "kind": "prose",
+              "source_ids": [20, 21]
+            },
+            {
+              "id": "p2",
+              "kind": "heading",
+              "source_ids": [22]
+            },
+            {
+              "id": "p3",
+              "kind": "prose",
+              "source_ids": [23]
+            }
+          ],
+          "furigana": [],
+          "notes": []
+        },
+        "mapping": [
+          {
+            "display_index": 0,
+            "panel_id": "p0",
+            "source_ids": [19],
+            "furigana_ids": [],
+            "japanese_items": ["△ 注意"]
+          },
+          {
+            "display_index": 1,
+            "panel_id": "p1",
+            "source_ids": [20, 21],
+            "furigana_ids": [],
+            "japanese_items": [
+              "お買い上げのお客様へ 必ずお読みください。",
+              "本商品の対象年齢は15才以上です。対象年齢未満のお子様には絶対に与えないでください。",
+              "小さな部品がありますので、小さなお子様が誤って飲み込まないように注意してください。窒息などの危険があります。",
+              "耳の近くで使用してはいけません。誤って使用すると、聴覚を損なう恐れがあります。",
+              "可動部分には指などを入れないでください。はさまれてケガをする恐れがあります。",
+              "本商品には電子部品を使用しておりますので、ペースメーカーをご使用の方はご注意ください。",
+              "《電池を誤使用すると発熱・破裂・液漏れの恐れがあります。下記に注意してください》",
+              "二次電池(充電式電池)は、絶対に使用しないでください。",
+              "古い電池と新しい電池、いろいろな種類の電池をまぜて使わないでください。",
+              "十一(プラスマイナス)を正しくセットしてください。",
+              "遊んだ後は必ずスイッチを切り電池をはずしてください。電池を入れたままにしておくと、液漏れの恐れがあり危険です。",
+              "ショートさせたり充電、分解、加熱、火の中に入れたりしないでください。",
+              "万一、電池から漏れた液が目に入ったときはすぐに大量の水で洗い、医師に相談してください。皮膚や服に付いた時は水で洗ってください。",
+              "廃棄するときは、自治体の廃棄物処理の指示に従ってください。"
+            ]
+          },
+          {
+            "display_index": 2,
+            "panel_id": "p2",
+            "source_ids": [22],
+            "furigana_ids": [],
+            "japanese_items": ["<使用上の注意>"]
+          },
+          {
+            "display_index": 3,
+            "panel_id": "p3",
+            "source_ids": [23],
+            "furigana_ids": [],
+            "japanese_items": [
+              "本商品は精密な電子部品で構成されています。落としたり、水にぬらしたり、汚したり、分解したりしないでください。また、高温・低温になる所での使用、保管はさけてください。プラスチック梱包材は開封後にはすぐに捨ててください。",
+              "本商品を樹脂製のソファーやシート、タイルなどの上に置かないでください。長時間接触していると色が移る場合があります。",
+              "可動部分・取付部分を無理な方向に強く引っ張ったり、曲げたりしないでください。",
+              "発音の一部にイントネーションが違っていたり、商品の特性上聞き取りにくいものがありますが、ご了承ください。"
+            ]
+          },
+          {
+            "display_index": 4,
+            "source_ids": [0],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 5,
+            "source_ids": [1],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 6,
+            "source_ids": [2],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 7,
+            "source_ids": [3],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 8,
+            "source_ids": [4],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 9,
+            "source_ids": [5],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 10,
+            "source_ids": [6],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 11,
+            "source_ids": [7],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 12,
+            "source_ids": [8],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 13,
+            "source_ids": [9],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 14,
+            "source_ids": [10],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 15,
+            "source_ids": [11],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 16,
+            "source_ids": [12],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 17,
+            "source_ids": [13],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 18,
+            "source_ids": [14],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 19,
+            "source_ids": [15],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 20,
+            "source_ids": [16],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 21,
+            "source_ids": [17],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 22,
+            "source_ids": [18],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 23,
+            "source_ids": [24],
+            "furigana_ids": []
+          }
+        ],
+        "uncertainties": [
+          "The printed character '十一(プラスマイナス)' appears in the scan; it is interpreted as the polarity instruction '+/− (plus-minus)'. Uncertain whether the original used a plus-minus symbol or different characters."
+        ],
+        "ocr_lines": [
+          {
+            "id": 0,
+            "text": "PREMIUMOX",
+            "bbox": [
+              0.30894801020622253, 0.0067508709616959095, 0.15538087487220764, 0.010017422493547201
+            ]
+          },
+          {
+            "id": 1,
+            "text": "シンギレード",
+            "bbox": [
+              0.2581620216369629, 0.018074912950396538, 0.5006046295166016, 0.025261325761675835
+            ]
+          },
+          {
+            "id": 2,
+            "text": "zik AN @ 0 R A D G",
+            "bbox": [
+              0.3313180208206177, 0.04377177730202675, 0.2787182331085205, 0.0026132389903068542
+            ]
+          },
+          {
+            "id": 3,
+            "text": "の遊び方",
+            "bbox": [
+              0.7013301253318787, 0.03658536449074745, 0.12333732843399048, 0.010017424821853638
+            ]
+          },
+          {
+            "id": 4,
+            "text": "セット内容",
+            "bbox": [
+              0.03929866850376129, 0.060975611209869385, 0.12394195795059204, 0.009799651801586151
+            ]
+          },
+          {
+            "id": 5,
+            "text": "ジカンギレード本体··· 1",
+            "bbox": [
+              0.2001209259033203, 0.05662021040916443, 0.2394195795059204, 0.008710801601409912
+            ]
+          },
+          {
+            "id": 6,
+            "text": "ライドウォッチスロット... 1",
+            "bbox": [
+              0.19951632618904114, 0.06990417838096619, 0.2678355574607849, 0.00783972442150116
+            ]
+          },
+          {
+            "id": 7,
+            "text": "ケンモード用刀身パーツ... 1",
+            "bbox": [
+              0.4770253896713257, 0.057055748999118805, 0.28778719902038574, 0.00805748999118805
+            ]
+          },
+          {
+            "id": 8,
+            "text": "各部名称",
+            "bbox": [
+              0.06045949086546898, 0.08885017782449722, 0.08162030950188637, 0.005879789590835571
+            ]
+          },
+          {
+            "id": 9,
+            "text": "ジカンギレード本体",
+            "bbox": [
+              0.34220072627067566, 0.09385888278484344, 0.2883917987346649, 0.01175958663225174
+            ]
+          },
+          {
+            "id": 10,
+            "text": "【正面】",
+            "bbox": [
+              0.06348246335983276, 0.10801393538713455, 0.06469166278839111, 0.00805748999118805
+            ]
+          },
+          {
+            "id": 11,
+            "text": "ボタン",
+            "bbox": [
+              0.7696493268013, 0.10736062377691269, 0.05804109573364258, 0.006097562611103058
+            ]
+          },
+          {
+            "id": 12,
+            "text": "【背面】",
+            "bbox": [
+              0.06408706307411194, 0.4139808416366577, 0.06348246335983276, 0.007621943950653076
+            ]
+          },
+          {
+            "id": 13,
+            "text": "電池ぶた",
+            "bbox": [
+              0.166868194937706, 0.5154616832733154, 0.08041112124919891, 0.006097555160522461
+            ]
+          },
+          {
+            "id": 14,
+            "text": "解除スイッチ",
+            "bbox": [
+              0.30652961134910583, 0.2746080160140991, 0.11426845192909241, 0.006750881671905518
+            ]
+          },
+          {
+            "id": 15,
+            "text": "トリガー",
+            "bbox": [
+              0.44619104266166687, 0.31511324644088745, 0.07013300061225891, 0.00675085186958313
+            ]
+          },
+          {
+            "id": 16,
+            "text": "電源スイッチ",
+            "bbox": [
+              0.5247883796691895, 0.5537891983985901, 0.11366385221481323, 0.006315350532531738
+            ]
+          },
+          {
+            "id": 17,
+            "text": "ライドウォッチスロット",
+            "bbox": [
+              0.3367593586444855, 0.6371951103210449, 0.32950422167778015, 0.01154184341430664
+            ]
+          },
+          {
+            "id": 18,
+            "text": "ケンモード用刀身パーツ",
+            "bbox": [
+              0.32164448499679565, 0.7397648096084595, 0.36033856868743896, 0.01197737455368042
+            ]
+          },
+          {
+            "id": 19,
+            "text": "背面ボタン",
+            "bbox": [
+              0.7043530941009521, 0.49390244483947754, 0.09794437885284424, 0.00653308629989624
+            ]
+          },
+          {
+            "id": 20,
+            "text": "※構造上、振るとカタカタという物理音がします。",
+            "bbox": [
+              0.06166868284344673, 0.8225173950195312, 0.42563481256365776, 0.006750881671905518
+            ]
+          },
+          {
+            "id": 21,
+            "text": "(本体に装填されている刀身パーツも同様です。)",
+            "bbox": [
+              0.08222491294145584, 0.8318815231323242, 0.4298669621348381, 0.006968677043914795
+            ]
+          },
+          {
+            "id": 22,
+            "text": "△ 注意",
+            "bbox": [
+              0.4431680738925934, 0.8582317233085632, 0.11064085364341736, 0.008275270462036133
+            ]
+          },
+          {
+            "id": 23,
+            "text": "お買い上げのお客様へ 必ずお読みください。",
+            "bbox": [
+              0.3409915268421173, 0.8708623647689819, 0.31862154603004456, 0.005662024021148682
+            ]
+          },
+          {
+            "id": 24,
+            "text": "●本商品の対象年齢は15才以上です。 対象年齢未満のお子様には絶対に与えないでください。 ●小さな部品がありますので、小さなお子様が誤って飲み込まない",
+            "bbox": [
+              0.045949213206768036, 0.88196861743927, 0.916565902531147, 0.004790961742401123
+            ]
+          },
+          {
+            "id": 25,
+            "text": "ように注意してください。 窒息などの危険があります。 ●耳の近くで使用してはいけません。 誤って使用すると、聴覚を損なう恐れがあります。●可動部分には指などを",
+            "bbox": [
+              0.03808948025107384, 0.8891550302505493, 0.9232164360582829, 0.004790961742401123
+            ]
+          },
+          {
+            "id": 26,
+            "text": "入れないでください。はさまれてケガをする恐れがあります。 本商品には電子部品を使用しておりますので、ペースメーカーをご使用の方はご注意ください。 《電池を",
+            "bbox": [
+              0.03808948025107384, 0.8963414430618286, 0.9238210655748844, 0.004790961742401123
+            ]
+          },
+          {
+            "id": 27,
+            "text": "誤使用すると発熱・ 破裂 液漏れの恐れがあります。 下記に注意してください》 二次電池(充電式電池) は、絶対に使用しないでください。 ●古い電池と新しい",
+            "bbox": [
+              0.03808948025107384, 0.9035278558731079, 0.9238210655748844, 0.004790961742401123
+            ]
+          },
+          {
+            "id": 28,
+            "text": "電池、いろいろな種類の電池をまぜて使わないでください。 ●十一(プラスマイナス) を正しくセットしてください。 ●遊んだ後は必ずスイッチを切り電池をはずしてくだ",
+            "bbox": [
+              0.038694076240062714, 0.9107142686843872, 0.9238210394978523, 0.004790961742401123
+            ]
+          },
+          {
+            "id": 29,
+            "text": "さい。 電池を入れたままにしておくと、液漏れの恐れがあり危険です。ショートさせたり充電、分解、 加熱、 火の中に入れたりしないでください。 ●万一、電池から",
+            "bbox": [
+              0.038694076240062714, 0.9181184768676758, 0.9220072701573372, 0.004573166370391846
+            ]
+          },
+          {
+            "id": 30,
+            "text": "漏れた液が目に入ったときはすぐに大量の水で洗い、医師に相談してください。 皮膚や服に付いた時は水で洗ってください。 ●廃棄するときは、自治体の廃棄物",
+            "bbox": [
+              0.03808948025107384, 0.9255226254463196, 0.9220072366297245, 0.004573166370391846
+            ]
+          },
+          {
+            "id": 31,
+            "text": "処理の指示に従ってください。",
+            "bbox": [
+              0.03808948025107384, 0.9329268336296082, 0.1717049516737461, 0.004137635231018066
+            ]
+          },
+          {
+            "id": 32,
+            "text": "<使用上の注意>",
+            "bbox": [
+              0.029625151306390762, 0.9472996592521667, 0.09794437512755394, 0.005008697509765625
+            ]
+          },
+          {
+            "id": 33,
+            "text": "●本商品は精密な電子部品で構成されています。 落としたり、水にぬらしたり、 汚したり、 分解したりしないでください。 また、 高温・低温になる所での使用、保管はさけて",
+            "bbox": [
+              0.03929866850376129, 0.9547038078308105, 0.9250302165746689, 0.0050087571144104
+            ]
+          },
+          {
+            "id": 34,
+            "text": "ください。プラスチック梱包材は開封後にはすぐに捨ててください。●本商品を樹脂製のソファーやシート、タイルなどの上に置かないでください。 長時間接触して",
+            "bbox": [
+              0.02841596119105816, 0.9621080160140991, 0.9328899551182985, 0.004790961742401123
+            ]
+          },
+          {
+            "id": 35,
+            "text": "いると色が移る場合があります。 ●可動部分・取付部分を無理な方向に強く引っ張ったり、曲げたりしないでください。 ●発音の一部にイントネーションが違っていたり、",
+            "bbox": [
+              0.029020555317401886, 0.9692944288253784, 0.9365175291895866, 0.005008697509765625
+            ]
+          },
+          {
+            "id": 36,
+            "text": "商品の特性上聞き取りにくいものがありますが、ご了承ください。",
+            "bbox": [
+              0.029020555317401886, 0.9762630462646484, 0.36033856123685837, 0.0050087571144104
+            ]
+          },
+          {
+            "id": 37,
+            "text": "1",
+            "bbox": [
+              0.493954062461853, 0.9919425249099731, 0.008464336395263672, 0.004790902137756348
+            ]
+          }
+        ]
+      }
     },
     {
-      "image": "pages/page-1.webp",
       "blocks": [
+        {
+          "text": "乾電池の入れ方",
+          "translation": "How to insert the batteries",
+          "bbox": [
+            0.039599999999999996, 0.025453257620334624, 0.18560012104511261, 0.01774674237966538
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "※電源スイッチが× (OFF)になっていることを確認してください。\n※音が小さくなって聞きとりにくくなったり、\n音が繰り返し鳴るなどの誤動作をする場合、\nすべて新しい電池に交換してください。",
+          "translation": "• Make sure the power switch is set to × (OFF).\n• If the sound becomes faint and difficult to hear, or if malfunction occurs such as the sound repeating, replace all batteries with new ones.",
+          "bbox": [
+            0.043199999999999995, 0.06366547501087189, 0.7684571798324584, 0.0987345249891281
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "①電池ぶたを取り外します。\n①-1 背面の電池ぶたのネジを⊕または、\n○ドライバーで矢印の方向に回し、\n①-2 電池ぶたを取り外します。",
+          "translation": "• ① Remove the battery cover.\n• ①-1 Turn the screw of the battery cover on the back in the direction of the arrow with a ⊕ or ○ screwdriver,\n• ①-2 Remove the battery cover.",
+          "bbox": [0.04324002495408058, 0.1619, 0.4993724575936794, 0.08410000000000001],
+          "layout": "panel"
+        },
+        {
+          "text": "②乾電池を入れます。\n単4乾電池2本(別売り)の土日を\nそれぞれ間違えないように入れます。\n③電池ぶたを戻します。",
+          "translation": "• ② Insert the dry batteries.\n• Insert two AAA dry batteries (sold separately), making sure not to mix up the + and − polarity for each.\n• ③ Replace the battery cover.",
+          "bbox": [0.043199999999999995, 0.2455, 0.45648620085716246, 0.08340000000000003],
+          "layout": "panel"
+        },
+        {
+          "text": "電池ぶたの突起とミゾを合わせ、\n電池ぶたを閉じます。\n電池ぶたのネジを\n②-1と逆方向に回して閉じます。",
+          "translation": "• Align the projection on the battery cover with the groove, and close the battery cover.\n• Turn the battery cover screw in the direction opposite to ②-1 to close it.",
+          "bbox": [0.0704, 0.3284, 0.3785002420902252, 0.08046949443817136],
+          "layout": "panel"
+        },
+        {
+          "text": "電源の入れ方",
+          "translation": "How to turn on the power",
+          "bbox": [0.039599999999999996, 0.6136, 0.1596025419473648, 0.017036800765991122],
+          "layout": "panel"
+        },
+        {
+          "text": "本体背面の電源スイッチをO(ON)にします。\n→「起動音」が鳴ります。",
+          "translation": "• Set the power switch on the back of the unit to O (ON).\n• → A \"startup sound\" will play.",
+          "bbox": [0.0438, 0.6426000000000001, 0.5236008622169495, 0.03887270822525013],
+          "layout": "panel"
+        },
+        {
+          "text": "※遊び終わった後は、必ず電源スイッチをX (OFF)にしてください。",
+          "translation": "After you finish playing, be sure to set the power switch to X (OFF).",
+          "bbox": [0.0656, 0.9333, 0.5931, 0.014299999999999868],
+          "layout": "panel"
+        },
+        {
+          "text": "単4",
+          "translation": "AAA",
+          "bbox": [0.8198, 0.1709, 0.0272, 0.0085]
+        },
+        {
+          "text": "x2",
+          "translation": "x2",
+          "bbox": [0.8845, 0.1692, 0.0308, 0.0092]
+        },
+        {
+          "text": "単4乾電池2本使用(別売り)",
+          "translation": "Requires 2AAA batteries (sold separately)",
+          "bbox": [0.7337, 0.1875, 0.2115999999999999, 0.018699999999999994],
+          "layout": "panel"
+        },
+        {
+          "text": "●アルカリ電池専用",
+          "translation": "●For alkaline batteries only",
+          "bbox": [0.7295, 0.2131, 0.21579999999999988, 0.022800000000000015],
+          "layout": "panel"
+        },
+        {
+          "text": "【背面】",
+          "translation": "[Back]",
+          "bbox": [0.526, 0.2303, 0.0617, 0.0123]
+        },
+        {
+          "text": "ミゾ",
+          "translation": "Groove",
+          "bbox": [0.6874, 0.2334, 0.0387, 0.0102]
+        },
+        {
+          "text": "突起",
+          "translation": "Protrusion",
+          "bbox": [0.5393, 0.2767, 0.0399, 0.0113]
+        },
+        {
+          "text": "電池ぶた",
+          "translation": "Battery cover",
+          "bbox": [0.477, 0.4507, 0.0804, 0.0092]
+        },
+        {
+          "text": "【内側】",
+          "translation": "[Inside]",
+          "bbox": [0.0726, 0.4527, 0.0635, 0.0136]
+        },
+        {
+          "text": "ミゾ",
+          "translation": "Groove",
+          "bbox": [0.3253, 0.4568, 0.0411, 0.0099]
+        },
+        {
+          "text": "ミゾ",
+          "translation": "Groove",
+          "bbox": [0.0973, 0.4845, 0.0405, 0.0109]
+        },
+        {
+          "text": "©I・T278250%",
+          "translation": "©I・T278250%",
+          "bbox": [0.6282, 0.2747, 0.0816, 0.0324]
+        },
+        {
+          "text": "O",
+          "translation": "O",
+          "bbox": [0.6433, 0.3166, 0.0133, 0.0072]
+        },
+        {
+          "text": "突起",
+          "translation": "Protrusion",
+          "bbox": [0.7696, 0.3589, 0.0387, 0.0109]
+        },
+        {
+          "text": "①-2",
+          "translation": "①-2",
+          "bbox": [0.6264, 0.4115, 0.0399, 0.0099]
+        },
+        {
+          "text": "(3",
+          "translation": "(3",
+          "bbox": [0.7322, 0.4132, 0.0121, 0.0072]
+        },
+        {
+          "text": "突起",
+          "translation": "Protrusion",
+          "bbox": [0.7932, 0.4347, 0.0399, 0.0109]
+        },
+        {
+          "text": "CI&T\nB. CHINA",
+          "translation": "CI&T\nB. CHINA",
+          "bbox": [0.6366, 0.4613, 0.0478, 0.0232]
+        },
+        {
+          "text": "電池ぶたの穴",
+          "translation": "Hole in the battery cover",
+          "bbox": [0.6578, 0.5595, 0.1203, 0.0099]
+        },
+        {
+          "text": "①-1",
+          "translation": "①-1",
+          "bbox": [0.5224, 0.5732, 0.0393, 0.0102]
+        },
+        {
+          "text": "ジカンギレード!",
+          "translation": "Jikan Girade!",
+          "bbox": [0.5599, 0.6871, 0.2672, 0.03]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.494, 0.987, 0.0109, 0.0072]
+        },
+        {
+          "text": "ON\n突起",
+          "translation": "ON\nProtrusion",
+          "bbox": [0.7545, 0.7857, 0.0393, 0.029]
+        },
+        {
+          "text": "・電源スイッチ",
+          "translation": "・Power switch",
+          "bbox": [0.7503, 0.8212, 0.1179, 0.0102]
+        },
+        {
+          "text": "OFF",
+          "translation": "OFF",
+          "bbox": [0.7551, 0.8441, 0.0453, 0.0082]
+        },
+        {
+          "text": "+",
+          "translation": "+",
+          "bbox": [0.9232, 0.3784, 0.0127, 0.0089]
+        },
+        {
+          "text": "①",
+          "translation": "①",
+          "bbox": [0.9002, 0.3951, 0.0121, 0.0109]
+        }
+      ],
+      "image": "pages/page-1.webp",
+      "source_blocks": [
         {
           "text": "乾電池の入れ方",
           "translation": "How to insert the batteries",
@@ -355,11 +1123,749 @@
           "translation": "①",
           "bbox": [0.9002, 0.3951, 0.0121, 0.0109]
         }
-      ]
+      ],
+      "layout_provenance": {
+        "version": 2,
+        "plan": {
+          "panels": [
+            {
+              "id": "p0",
+              "kind": "heading",
+              "source_ids": [0]
+            },
+            {
+              "id": "p1",
+              "kind": "prose",
+              "source_ids": [1]
+            },
+            {
+              "id": "p2",
+              "kind": "prose",
+              "source_ids": [2, 10]
+            },
+            {
+              "id": "p3",
+              "kind": "prose",
+              "source_ids": [11, 16]
+            },
+            {
+              "id": "p4",
+              "kind": "prose",
+              "source_ids": [17]
+            },
+            {
+              "id": "p5",
+              "kind": "heading",
+              "source_ids": [22]
+            },
+            {
+              "id": "p6",
+              "kind": "prose",
+              "source_ids": [32, 33]
+            },
+            {
+              "id": "p7",
+              "kind": "prose",
+              "source_ids": [35]
+            }
+          ],
+          "furigana": [
+            {
+              "source_id": 3,
+              "parent_id": 8
+            },
+            {
+              "source_id": 6,
+              "parent_id": 8
+            },
+            {
+              "source_id": 7,
+              "parent_id": 8
+            },
+            {
+              "source_id": 9,
+              "parent_id": 12
+            }
+          ],
+          "notes": []
+        },
+        "mapping": [
+          {
+            "display_index": 0,
+            "panel_id": "p0",
+            "source_ids": [0],
+            "furigana_ids": [],
+            "japanese_items": ["乾電池の入れ方"]
+          },
+          {
+            "display_index": 1,
+            "panel_id": "p1",
+            "source_ids": [1],
+            "furigana_ids": [],
+            "japanese_items": [
+              "※電源スイッチが× (OFF)になっていることを確認してください。",
+              "※音が小さくなって聞きとりにくくなったり、音が繰り返し鳴るなどの誤動作をする場合、すべて新しい電池に交換してください。"
+            ]
+          },
+          {
+            "display_index": 2,
+            "panel_id": "p2",
+            "source_ids": [2, 10],
+            "furigana_ids": [],
+            "japanese_items": [
+              "①電池ぶたを取り外します。",
+              "①-1 背面の電池ぶたのネジを⊕または、○ドライバーで矢印の方向に回し、",
+              "①-2 電池ぶたを取り外します。"
+            ]
+          },
+          {
+            "display_index": 3,
+            "panel_id": "p3",
+            "source_ids": [11, 16],
+            "furigana_ids": [],
+            "japanese_items": [
+              "②乾電池を入れます。",
+              "単4乾電池2本(別売り)の＋−をそれぞれ間違えないように入れます。",
+              "③電池ぶたを戻します。"
+            ]
+          },
+          {
+            "display_index": 4,
+            "panel_id": "p4",
+            "source_ids": [17],
+            "furigana_ids": [],
+            "japanese_items": [
+              "電池ぶたの突起とミゾを合わせ、電池ぶたを閉じます。",
+              "電池ぶたのネジを②-1と逆方向に回して閉じます。"
+            ]
+          },
+          {
+            "display_index": 5,
+            "panel_id": "p5",
+            "source_ids": [22],
+            "furigana_ids": [],
+            "japanese_items": ["電源の入れ方"]
+          },
+          {
+            "display_index": 6,
+            "panel_id": "p6",
+            "source_ids": [32, 33],
+            "furigana_ids": [],
+            "japanese_items": ["本体背面の電源スイッチをO(ON)にします。", "→「起動音」が鳴ります。"]
+          },
+          {
+            "display_index": 7,
+            "panel_id": "p7",
+            "source_ids": [35],
+            "furigana_ids": [],
+            "japanese_items": ["※遊び終わった後は、必ず電源スイッチをX (OFF)にしてください。"]
+          },
+          {
+            "display_index": 8,
+            "source_ids": [4],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 9,
+            "source_ids": [5],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 10,
+            "source_ids": [8],
+            "furigana_ids": [3, 6, 7]
+          },
+          {
+            "display_index": 11,
+            "source_ids": [12],
+            "furigana_ids": [9]
+          },
+          {
+            "display_index": 12,
+            "source_ids": [13],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 13,
+            "source_ids": [14],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 14,
+            "source_ids": [15],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 15,
+            "source_ids": [18],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 16,
+            "source_ids": [19],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 17,
+            "source_ids": [20],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 18,
+            "source_ids": [21],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 19,
+            "source_ids": [23],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 20,
+            "source_ids": [24],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 21,
+            "source_ids": [25],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 22,
+            "source_ids": [26],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 23,
+            "source_ids": [27],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 24,
+            "source_ids": [28],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 25,
+            "source_ids": [29],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 26,
+            "source_ids": [30],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 27,
+            "source_ids": [31],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 28,
+            "source_ids": [34],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 29,
+            "source_ids": [36],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 30,
+            "source_ids": [37],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 31,
+            "source_ids": [38],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 32,
+            "source_ids": [39],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 33,
+            "source_ids": [40],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 34,
+            "source_ids": [41],
+            "furigana_ids": []
+          }
+        ],
+        "uncertainties": [
+          "The middle line shows a symbol '○' for the screwdriver type; the image likely intends a minus/flat (−) screwdriver, but the symbol is unclear in the crop.",
+          "The arrow direction is referenced but not shown in the provided crop."
+        ],
+        "ocr_lines": [
+          {
+            "id": 0,
+            "text": "乾電池の入れ方",
+            "bbox": [
+              0.04111245647072792, 0.026953257620334625, 0.1825876645743847, 0.014670763164758682
+            ]
+          },
+          {
+            "id": 1,
+            "text": "※電源スイッチが× (OFF)になっていることを確認してください。",
+            "bbox": [
+              0.04474002495408058, 0.06516547501087189, 0.7636033855378628, 0.014329575002193451
+            ]
+          },
+          {
+            "id": 2,
+            "text": "※音が小さくなって聞きとりにくくなったり、",
+            "bbox": [
+              0.04474002495408058, 0.0859774798154831, 0.5120918713510036, 0.014329582452774048
+            ]
+          },
+          {
+            "id": 3,
+            "text": "音が繰り返し鳴るなどの誤動作をする場合、",
+            "bbox": [
+              0.07013300806283951, 0.10644830763339996, 0.5126964673399925, 0.01535312831401825
+            ]
+          },
+          {
+            "id": 4,
+            "text": "すべて新しい電池に交換してください。",
+            "bbox": [
+              0.06892382353544235, 0.1276015043258667, 0.4582829549908638, 0.014329582452774048
+            ]
+          },
+          {
+            "id": 5,
+            "text": "①電池ぶたを取り外します。",
+            "bbox": [
+              0.04534462094306946, 0.16342544555664062, 0.3252720534801483, 0.014670774340629578
+            ]
+          },
+          {
+            "id": 6,
+            "text": "①-1 背面の電池ぶたのネジを⊕または、",
+            "bbox": [
+              0.07194679230451584, 0.18423746526241302, 0.46916569024324417, 0.014329582452774048
+            ]
+          },
+          {
+            "id": 7,
+            "text": "○ドライバーで矢印の方向に回し、",
+            "bbox": [
+              0.13966143131256104, 0.20504947006702423, 0.39480048418045044, 0.014670759439468384
+            ]
+          },
+          {
+            "id": 8,
+            "text": "たん",
+            "bbox": [
+              0.7357920408248901, 0.19037871062755585, 0.01632404327392578, 0.003411799669265747
+            ]
+          },
+          {
+            "id": 9,
+            "text": "単4",
+            "bbox": [
+              0.8198307156562805, 0.17093142867088318, 0.027206778526306152, 0.008529499173164368
+            ]
+          },
+          {
+            "id": 10,
+            "text": "x2",
+            "bbox": [
+              0.8845223784446716, 0.1692255139350891, 0.030834317207336426, 0.009211882948875427
+            ]
+          },
+          {
+            "id": 11,
+            "text": "かんでん ち",
+            "bbox": [
+              0.7672309279441833, 0.18969635665416718, 0.042926251888275146, 0.004435345530509949
+            ]
+          },
+          {
+            "id": 12,
+            "text": "ほん しよう べつう",
+            "bbox": [
+              0.832527220249176, 0.1890139877796173, 0.08585244417190552, 0.0051177144050598145
+            ]
+          },
+          {
+            "id": 13,
+            "text": "単4乾電池2本使用(別売り)",
+            "bbox": [
+              0.7351874113082886, 0.1948140561580658, 0.20858526229858398, 0.009894236922264099
+            ]
+          },
+          {
+            "id": 14,
+            "text": "でん ちせんよう",
+            "bbox": [
+              0.8494558930397034, 0.214602530002594, 0.09310758113861084, 0.005800068378448486
+            ]
+          },
+          {
+            "id": 15,
+            "text": "①-2 電池ぶたを取り外します。",
+            "bbox": [
+              0.07194679230451584, 0.22586147487163544, 0.35792020708322525, 0.014670759439468384
+            ]
+          },
+          {
+            "id": 16,
+            "text": "②乾電池を入れます。",
+            "bbox": [
+              0.04474002495408058, 0.24701467156410217, 0.2496977113187313, 0.013647228479385376
+            ]
+          },
+          {
+            "id": 17,
+            "text": "単4乾電池2本(別売り)の土日を",
+            "bbox": [
+              0.07255139201879501, 0.26748549938201904, 0.3827085867524147, 0.01501193642616272
+            ]
+          },
+          {
+            "id": 18,
+            "text": "●アルカリ電池専用",
+            "bbox": [
+              0.7309552431106567, 0.2214261293411255, 0.21281743049621582, 0.01296485960483551
+            ]
+          },
+          {
+            "id": 19,
+            "text": "【背面】",
+            "bbox": [
+              0.5259975790977478, 0.23029682040214539, 0.06166869401931763, 0.012282505631446838
+            ]
+          },
+          {
+            "id": 20,
+            "text": "ミゾ",
+            "bbox": [
+              0.6874244213104248, 0.233367457985878, 0.03869408369064331, 0.010235413908958435
+            ]
+          },
+          {
+            "id": 21,
+            "text": "突起",
+            "bbox": [
+              0.5392986536026001, 0.2766973674297333, 0.03990328311920166, 0.011258959770202637
+            ]
+          },
+          {
+            "id": 22,
+            "text": "それぞれ間違えないように入れます。",
+            "bbox": [
+              0.07315598428249359, 0.2886386811733246, 0.4250302165746689, 0.013988405466079712
+            ]
+          },
+          {
+            "id": 23,
+            "text": "③電池ぶたを戻します。",
+            "bbox": [
+              0.045949213206768036, 0.3094506859779358, 0.2738815024495125, 0.013988405466079712
+            ]
+          },
+          {
+            "id": 24,
+            "text": "電池ぶたの突起とミゾを合わせ、",
+            "bbox": [
+              0.07315598428249359, 0.32992151379585266, 0.37424425780773163, 0.014329582452774048
+            ]
+          },
+          {
+            "id": 25,
+            "text": "電池ぶたを閉じます。",
+            "bbox": [
+              0.07315598428249359, 0.3514159023761749, 0.24183796346187592, 0.013988405466079712
+            ]
+          },
+          {
+            "id": 26,
+            "text": "電池ぶたのネジを",
+            "bbox": [
+              0.07315598428249359, 0.3718867301940918, 0.20798064768314362, 0.013647228479385376
+            ]
+          },
+          {
+            "id": 27,
+            "text": "②-1と逆方向に回して閉じます。",
+            "bbox": [
+              0.07194679230451584, 0.392698734998703, 0.37424425035715103, 0.014670759439468384
+            ]
+          },
+          {
+            "id": 28,
+            "text": "電池ぶた",
+            "bbox": [
+              0.4770253896713257, 0.45069941878318787, 0.08041113615036011, 0.009211868047714233
+            ]
+          },
+          {
+            "id": 29,
+            "text": "【内側】",
+            "bbox": [
+              0.07255139201879501, 0.45274651050567627, 0.06348247081041336, 0.013647198677062988
+            ]
+          },
+          {
+            "id": 30,
+            "text": "ミゾ",
+            "bbox": [
+              0.3252720534801483, 0.4568406641483307, 0.04111248254776001, 0.009894251823425293
+            ]
+          },
+          {
+            "id": 31,
+            "text": "ミゾ",
+            "bbox": [
+              0.09733977913856506, 0.4844762980937958, 0.04050786793231964, 0.010917752981185913
+            ]
+          },
+          {
+            "id": 32,
+            "text": "電源の入れ方",
+            "bbox": [
+              0.04111245647072792, 0.6151484251022339, 0.1565900854766369, 0.013988375663757324
+            ]
+          },
+          {
+            "id": 33,
+            "text": "©I・T278250%",
+            "bbox": [
+              0.6281741261482239, 0.2746502757072449, 0.08162033557891846, 0.032412171363830566
+            ]
+          },
+          {
+            "id": 34,
+            "text": "O",
+            "bbox": [
+              0.6432889699935913, 0.316615492105484, 0.01330113410949707, 0.00716477632522583
+            ]
+          },
+          {
+            "id": 35,
+            "text": "突起",
+            "bbox": [0.7696493268013, 0.3589218556880951, 0.03869408369064331, 0.0109177827835083]
+          },
+          {
+            "id": 36,
+            "text": "①-2",
+            "bbox": [
+              0.6263603568077087, 0.4114636778831482, 0.039903223514556885, 0.009894222021102905
+            ]
+          },
+          {
+            "id": 37,
+            "text": "(3",
+            "bbox": [
+              0.7321644425392151, 0.4131695628166199, 0.01209193468093872, 0.007164806127548218
+            ]
+          },
+          {
+            "id": 38,
+            "text": "突起",
+            "bbox": [
+              0.7932285666465759, 0.43466395139694214, 0.039903223514556885, 0.010917752981185913
+            ]
+          },
+          {
+            "id": 39,
+            "text": "CI&T",
+            "bbox": [
+              0.6366384625434875, 0.4660525321960449, 0.027206778526306152, 0.012623697519302368
+            ]
+          },
+          {
+            "id": 40,
+            "text": "B. CHINA",
+            "bbox": [
+              0.6444981694221497, 0.4670760929584503, 0.03929871320724487, 0.0167178213596344
+            ]
+          },
+          {
+            "id": 41,
+            "text": "電池ぶたの穴",
+            "bbox": [
+              0.6577993035316467, 0.5595359802246094, 0.12031435966491699, 0.009894251823425293
+            ]
+          },
+          {
+            "id": 42,
+            "text": "①-1",
+            "bbox": [
+              0.5223700404167175, 0.5731832385063171, 0.0392986536026001, 0.010235369205474854
+            ]
+          },
+          {
+            "id": 43,
+            "text": "本体背面の電源スイッチをO(ON)にします。",
+            "bbox": [
+              0.04534462094306946, 0.6441487669944763, 0.52055624127388, 0.015011906623840332
+            ]
+          },
+          {
+            "id": 44,
+            "text": "→「起動音」が鳴ります。",
+            "bbox": [
+              0.04534462094306946, 0.6656430959701538, 0.27448609471321106, 0.014329612255096436
+            ]
+          },
+          {
+            "id": 45,
+            "text": "ジカンギレード!",
+            "bbox": [
+              0.5598549246788025, 0.6871374845504761, 0.26723092794418335, 0.03002387285232544
+            ]
+          },
+          {
+            "id": 46,
+            "text": "※遊び終わった後は、必ず電源スイッチをX (OFF)にしてください。",
+            "bbox": [
+              0.06711003929376602, 0.9348345398902893, 0.5900846347212791, 0.011258959770202637
+            ]
+          },
+          {
+            "id": 47,
+            "text": "2",
+            "bbox": [
+              0.493954062461853, 0.9870351552963257, 0.010882675647735596, 0.00716477632522583
+            ]
+          },
+          {
+            "id": 48,
+            "text": "ON",
+            "bbox": [
+              0.7545344829559326, 0.7857386469841003, 0.032043516635894775, 0.008188366889953613
+            ]
+          },
+          {
+            "id": 49,
+            "text": "突起",
+            "bbox": [
+              0.7545344829559326, 0.8041623830795288, 0.0392986536026001, 0.010576605796813965
+            ]
+          },
+          {
+            "id": 50,
+            "text": "・電源スイッチ",
+            "bbox": [
+              0.7503023147583008, 0.8212214112281799, 0.11789602041244507, 0.010235428810119629
+            ]
+          },
+          {
+            "id": 51,
+            "text": "OFF",
+            "bbox": [
+              0.7551390528678894, 0.8440805077552795, 0.045344650745391846, 0.008188366889953613
+            ]
+          },
+          {
+            "id": 52,
+            "text": "+",
+            "bbox": [
+              0.9232164621353149, 0.37836915254592896, 0.012696504592895508, 0.008870691061019897
+            ]
+          },
+          {
+            "id": 53,
+            "text": "①",
+            "bbox": [
+              0.9002418518066406, 0.39508700370788574, 0.012091875076293945, 0.0109177827835083
+            ]
+          }
+        ]
+      }
     },
     {
-      "image": "pages/page-2.webp",
       "blocks": [
+        {
+          "text": "ケンモードへの変形",
+          "translation": "Transforming to Ken Mode",
+          "bbox": [0.039, 0.0132, 0.234, 0.013527749720215799],
+          "layout": "panel"
+        },
+        {
+          "text": "①背面ボタンを押しながら、 刀身を回転させます。\n「ケン!」と鳴ります。\n背面ボタン",
+          "translation": "• 1. While pressing the rear button, rotate the blade.\n• It will sound \"Ken!\".",
+          "bbox": [
+            0.040799999999999996, 0.036575216114521025, 0.5719454533576965, 0.04154239732027054
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "② 「ケ」を外します。",
+          "translation": "2. Remove the part labeled \"Ke\".",
+          "bbox": [0.0414, 0.34117693758010864, 0.2207, 0.013044395923614505],
+          "layout": "panel"
+        },
+        {
+          "text": "破損の恐れがあるため、\nゆっくり慎重に外してください。",
+          "translation": "Because there is a risk of damage, please remove slowly and carefully.",
+          "bbox": [0.06379625505208969, 0.3671, 0.27930374494791027, 0.021225501918792744],
+          "layout": "panel"
+        },
+        {
+          "text": "③背面のロックをつまみながら、刀身を引き抜きます。",
+          "translation": "3. While pinching the rear lock, pull out the blade.",
+          "bbox": [0.0414, 0.5025878057479859, 0.6203176427841186, 0.013044395923614394],
+          "layout": "panel"
+        },
+        {
+          "text": "④ ケンモード用刀身パーツを挿し、\n⑤ 「ケ」を付けます。",
+          "translation": "• ④ Insert the blade part for Ken mode,\n• ⑤ Attach the \"Ke\" piece.",
+          "bbox": [
+            0.040799999999999996, 0.7111839756965638, 0.39963590569496155, 0.027816024303436215
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "※ジュウモードへの変形は逆の手順で行ってください。",
+          "translation": "To transform into Juu Mode, perform the steps in reverse.",
+          "bbox": [0.06258706307411194, 0.9534, 0.6366154639720916, 0.013299999999999867],
+          "layout": "panel"
+        },
+        {
+          "text": "<m",
+          "translation": "<m",
+          "bbox": [0.4347, 0.3892, 0.0133, 0.0385]
+        },
+        {
+          "text": "C",
+          "translation": "C",
+          "bbox": [0.523, 0.3109, 0.0097, 0.003]
+        },
+        {
+          "text": "GO",
+          "translation": "GO",
+          "bbox": [0.6421, 0.4707, 0.0333, 0.0037]
+        },
+        {
+          "text": "ロック",
+          "translation": "Lock",
+          "bbox": [0.5109, 0.5345, 0.0544, 0.0068]
+        },
+        {
+          "text": "GO",
+          "translation": "GO",
+          "bbox": [0.5236, 0.9236, 0.0345, 0.0037]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.494, 0.9914, 0.0115, 0.0049]
+        },
+        {
+          "text": "④",
+          "translation": "④",
+          "bbox": [0.7461, 0.7694, 0.0218, 0.0068]
+        }
+      ],
+      "image": "pages/page-2.webp",
+      "source_blocks": [
         {
           "text": "ケンモードへの変形",
           "translation": "Transforming to Ken Mode",
@@ -440,11 +1946,304 @@
           "translation": "④",
           "bbox": [0.7461, 0.7694, 0.0218, 0.0068]
         }
-      ]
+      ],
+      "layout_provenance": {
+        "version": 2,
+        "plan": {
+          "panels": [
+            {
+              "id": "p0",
+              "kind": "heading",
+              "source_ids": [0]
+            },
+            {
+              "id": "p1",
+              "kind": "prose",
+              "source_ids": [1, 5]
+            },
+            {
+              "id": "p2",
+              "kind": "prose",
+              "source_ids": [2]
+            },
+            {
+              "id": "p3",
+              "kind": "prose",
+              "source_ids": [3, 4]
+            },
+            {
+              "id": "p4",
+              "kind": "prose",
+              "source_ids": [9]
+            },
+            {
+              "id": "p5",
+              "kind": "prose",
+              "source_ids": [11]
+            },
+            {
+              "id": "p6",
+              "kind": "prose",
+              "source_ids": [13]
+            }
+          ],
+          "furigana": [],
+          "notes": [
+            "Diagram labels and page/diagram markers left ungrouped: 5, 6, 7, 8, 10, 12, 14, 15."
+          ]
+        },
+        "mapping": [
+          {
+            "display_index": 0,
+            "panel_id": "p0",
+            "source_ids": [0],
+            "furigana_ids": [],
+            "japanese_items": ["ケンモードへの変形"]
+          },
+          {
+            "display_index": 1,
+            "panel_id": "p1",
+            "source_ids": [1, 5],
+            "furigana_ids": [],
+            "japanese_items": [
+              "①背面ボタンを押しながら、刀身を回転させます。",
+              "「ケン!」と鳴ります。"
+            ]
+          },
+          {
+            "display_index": 2,
+            "panel_id": "p2",
+            "source_ids": [2],
+            "furigana_ids": [],
+            "japanese_items": ["② 「ケ」を外します。"]
+          },
+          {
+            "display_index": 3,
+            "panel_id": "p3",
+            "source_ids": [3, 4],
+            "furigana_ids": [],
+            "japanese_items": ["破損の恐れがあるため、ゆっくり慎重に外してください。"]
+          },
+          {
+            "display_index": 4,
+            "panel_id": "p4",
+            "source_ids": [9],
+            "furigana_ids": [],
+            "japanese_items": ["③背面のロックをつまみながら、刀身を引き抜きます。"]
+          },
+          {
+            "display_index": 5,
+            "panel_id": "p5",
+            "source_ids": [11],
+            "furigana_ids": [],
+            "japanese_items": ["④ ケンモード用刀身パーツを挿し、", "⑤ 「ケ」を付けます。"]
+          },
+          {
+            "display_index": 6,
+            "panel_id": "p6",
+            "source_ids": [13],
+            "furigana_ids": [],
+            "japanese_items": ["※ジュウモードへの変形は逆の手順で行ってください。"]
+          },
+          {
+            "display_index": 7,
+            "source_ids": [6],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 8,
+            "source_ids": [7],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 9,
+            "source_ids": [8],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 10,
+            "source_ids": [10],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 11,
+            "source_ids": [12],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 12,
+            "source_ids": [14],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 13,
+            "source_ids": [15],
+            "furigana_ids": []
+          }
+        ],
+        "uncertainties": [],
+        "ocr_lines": [
+          {
+            "id": 0,
+            "text": "ケンモードへの変形",
+            "bbox": [
+              0.040507860481739044, 0.014716187492012978, 0.23095526546239853, 0.01051156222820282
+            ]
+          },
+          {
+            "id": 1,
+            "text": "①背面ボタンを押しながら、 刀身を回転させます。",
+            "bbox": [
+              0.042321644723415375, 0.03807521611452103, 0.5689238086342812, 0.010044381022453308
+            ]
+          },
+          {
+            "id": 2,
+            "text": "「ケン!」と鳴ります。",
+            "bbox": [
+              0.07194679230451584, 0.0525578148663044, 0.22490931302309036, 0.010511558502912521
+            ]
+          },
+          {
+            "id": 3,
+            "text": "② 「ケ」を外します。",
+            "bbox": [
+              0.04292624071240425, 0.34267693758010864, 0.21765417978167534, 0.010044395923614502
+            ]
+          },
+          {
+            "id": 4,
+            "text": "破損の恐れがあるため、",
+            "bbox": [
+              0.06529625505208969, 0.36860546469688416, 0.20918983966112137, 0.0074748992919921875
+            ]
+          },
+          {
+            "id": 5,
+            "text": "ゆっくり慎重に外してください。",
+            "bbox": [
+              0.06650543957948685, 0.37911704182624817, 0.27509068697690964, 0.007708460092544556
+            ]
+          },
+          {
+            "id": 6,
+            "text": "背面ボタン",
+            "bbox": [
+              0.41777509450912476, 0.06960990279912949, 0.09794437885284424, 0.007007710635662079
+            ]
+          },
+          {
+            "id": 7,
+            "text": "<m",
+            "bbox": [
+              0.4347037374973297, 0.3891614079475403, 0.013301104307174683, 0.03854238986968994
+            ]
+          },
+          {
+            "id": 8,
+            "text": "C",
+            "bbox": [
+              0.5229746103286743, 0.3109086751937866, 0.009673535823822021, 0.003036677837371826
+            ]
+          },
+          {
+            "id": 9,
+            "text": "GO",
+            "bbox": [
+              0.6420798301696777, 0.4706844091415405, 0.033252716064453125, 0.0037374496459960938
+            ]
+          },
+          {
+            "id": 10,
+            "text": "③背面のロックをつまみながら、刀身を引き抜きます。",
+            "bbox": [
+              0.04292624071240425, 0.5040878057479858, 0.6172914020717144, 0.010044395923614502
+            ]
+          },
+          {
+            "id": 11,
+            "text": "ロック",
+            "bbox": [
+              0.5108827352523804, 0.5344545841217041, 0.05441349744796753, 0.00677412748336792
+            ]
+          },
+          {
+            "id": 12,
+            "text": "④ ケンモード用刀身パーツを挿し、",
+            "bbox": [
+              0.042321644723415375, 0.7126839756965637, 0.3966142609715462, 0.00981074571609497
+            ]
+          },
+          {
+            "id": 13,
+            "text": "⑤ 「ケ」を付けます。",
+            "bbox": [
+              0.04292624071240425, 0.726932942867279, 0.221281748265028, 0.010511577129364014
+            ]
+          },
+          {
+            "id": 14,
+            "text": "GO",
+            "bbox": [
+              0.5235791802406311, 0.9236159920692444, 0.034461915493011475, 0.0037374496459960938
+            ]
+          },
+          {
+            "id": 15,
+            "text": "※ジュウモードへの変形は逆の手順で行ってください。",
+            "bbox": [
+              0.06408706307411194, 0.9549170732498169, 0.6336154639720917, 0.010277986526489258
+            ]
+          },
+          {
+            "id": 16,
+            "text": "3",
+            "bbox": [
+              0.493954062461853, 0.991357147693634, 0.011487305164337158, 0.004905402660369873
+            ]
+          },
+          {
+            "id": 17,
+            "text": "④",
+            "bbox": [
+              0.746070146560669, 0.7694463729858398, 0.021765410900115967, 0.00677412748336792
+            ]
+          }
+        ]
+      }
     },
     {
-      "image": "pages/page-3.webp",
       "blocks": [
+        {
+          "text": "通常遊び 図示はジュウモードです。",
+          "translation": "Standard play  ※The illustration shows Ju Mode.",
+          "bbox": [0.0384, 0.045772726893424986, 0.37301535782814027, 0.03152727310657502],
+          "layout": "panel"
+        },
+        {
+          "text": "トリガーを引きます。\n→ケンモード: 剣戟音\n→ジュウモード: 銃撃音",
+          "translation": "• Pull the trigger.\n• Ken mode: sword-clash sound\n• Juu mode: gunfire sound",
+          "bbox": [0.041999999999999996, 0.0985, 0.2720755786895752, 0.10481818306446075],
+          "layout": "panel"
+        },
+        {
+          "text": "が鳴ります。",
+          "translation": "will sound.",
+          "bbox": [0.3229, 0.1552, 0.1415, 0.0261]
+        },
+        {
+          "text": "トリガー",
+          "translation": "Trigger",
+          "bbox": [0.445, 0.8145, 0.0689, 0.0194]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.4933, 0.9788, 0.0127, 0.0121]
+        }
+      ],
+      "image": "pages/page-3.webp",
+      "source_blocks": [
         {
           "text": "通常遊び 図示はジュウモードです。",
           "translation": "Standard play  ※The illustration shows Ju Mode.",
@@ -480,11 +2279,179 @@
           "translation": "4",
           "bbox": [0.4933, 0.9788, 0.0127, 0.0121]
         }
-      ]
+      ],
+      "layout_provenance": {
+        "version": 2,
+        "plan": {
+          "panels": [
+            {
+              "id": "p0",
+              "kind": "heading",
+              "source_ids": [0]
+            },
+            {
+              "id": "p1",
+              "kind": "prose",
+              "source_ids": [1, 2, 4]
+            }
+          ],
+          "furigana": [],
+          "notes": [
+            "Source 5 is a diagram label and left ungrouped. Source 6 is the page number and left ungrouped.",
+            "p1: excluded other-column members; retained separately"
+          ]
+        },
+        "mapping": [
+          {
+            "display_index": 0,
+            "panel_id": "p0",
+            "source_ids": [0],
+            "furigana_ids": [],
+            "japanese_items": ["通常遊び 図示はジュウモードです。"]
+          },
+          {
+            "display_index": 1,
+            "panel_id": "p1",
+            "source_ids": [1, 2, 4],
+            "furigana_ids": [],
+            "japanese_items": [
+              "トリガーを引きます。",
+              "→ケンモード: 剣戟音",
+              "→ジュウモード: 銃撃音"
+            ]
+          },
+          {
+            "display_index": 2,
+            "source_ids": [3],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 3,
+            "source_ids": [5],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 4,
+            "source_ids": [6],
+            "furigana_ids": []
+          }
+        ],
+        "uncertainties": [],
+        "ocr_lines": [
+          {
+            "id": 0,
+            "text": "通常遊び 図示はジュウモードです。",
+            "bbox": [
+              0.03990326449275017, 0.04727272689342499, 0.3700120933353901, 0.028484851121902466
+            ]
+          },
+          {
+            "id": 1,
+            "text": "トリガーを引きます。",
+            "bbox": [
+              0.045949213206768036, 0.10000000149011612, 0.23276904970407486, 0.027272723615169525
+            ]
+          },
+          {
+            "id": 2,
+            "text": "→ケンモード: 剣戟音",
+            "bbox": [
+              0.04353083297610283, 0.13575758039951324, 0.26904474571347237, 0.0278787761926651
+            ]
+          },
+          {
+            "id": 3,
+            "text": "が鳴ります。",
+            "bbox": [
+              0.322853684425354, 0.15515151619911194, 0.14147520065307617, 0.02606061100959778
+            ]
+          },
+          {
+            "id": 4,
+            "text": "→ジュウモード: 銃撃音",
+            "bbox": [
+              0.04353083297610283, 0.17454545199871063, 0.26904474571347237, 0.027272731065750122
+            ]
+          },
+          {
+            "id": 5,
+            "text": "トリガー",
+            "bbox": [
+              0.4449818730354309, 0.8145454525947571, 0.06892383098602295, 0.0193939208984375
+            ]
+          },
+          {
+            "id": 6,
+            "text": "4",
+            "bbox": [
+              0.49334946274757385, 0.978787899017334, 0.01269647479057312, 0.012121200561523438
+            ]
+          }
+        ]
+      }
     },
     {
-      "image": "pages/page-4.webp",
       "blocks": [
+        {
+          "text": "必殺技遊び",
+          "translation": "Special Move Play",
+          "bbox": [
+            0.03779866850376129, 0.035699999999999996, 0.13782466340065003, 0.024511215853691107
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "②トリガーを引きます。\n→ケンモード: 「ギリギリ斬り!」\n→ジュウモード: 「スレスレ撃ち!」",
+          "translation": "• 2. Pull the trigger.\n• → Ken Mode: \"Giri-giri Slash!\"\n• → Juu Mode: \"Suresure Shot!\"",
+          "bbox": [
+            0.043199999999999995, 0.18989999999999999, 0.38699999999999996, 0.08272171053886415
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "カウントダウン音の途中でトリガーを引くと、小必殺技音が鳴ります。",
+          "translation": "If you pull the trigger during the countdown sound, a minor special-attack sound will play.",
+          "bbox": [0.0438, 0.32069570875167847, 0.7847858526229858, 0.02400429124832154],
+          "layout": "panel"
+        },
+        {
+          "text": "①ボタンを押します。",
+          "translation": "① Press the button.",
+          "bbox": [0.0435, 0.0802, 0.2418, 0.0196]
+        },
+        {
+          "text": "→ 「タイムチャージ!」 の後に「5・4･3･2･1!ゼロタイム!」の",
+          "translation": "→ After \"Time Charge!\", \"5... 4... 3... 2... 1! Zero Time!\"",
+          "bbox": [0.0429, 0.1098, 0.6898, 0.0196]
+        },
+        {
+          "text": "カウントダウン音が鳴ります。",
+          "translation": "A countdown sound will play.",
+          "bbox": [0.0707, 0.1379, 0.344, 0.021]
+        },
+        {
+          "text": "が鳴ります。",
+          "translation": "A sound will play.",
+          "bbox": [0.4383, 0.2348, 0.1415, 0.0196]
+        },
+        {
+          "text": "トリガー",
+          "translation": "Trigger",
+          "bbox": [0.445, 0.8439, 0.0695, 0.0143]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.4933, 0.9828, 0.0109, 0.01]
+        },
+        {
+          "text": "ボタン",
+          "translation": "Button",
+          "bbox": [0.6421, 0.4115, 0.058, 0.0138]
+        }
+      ],
+      "image": "pages/page-4.webp",
+      "source_blocks": [
         {
           "text": "必殺技遊び",
           "translation": "Special Move Play",
@@ -545,11 +2512,292 @@
           "translation": "Button",
           "bbox": [0.6421, 0.4115, 0.058, 0.0138]
         }
-      ]
+      ],
+      "layout_provenance": {
+        "version": 2,
+        "plan": {
+          "panels": [
+            {
+              "id": "p0",
+              "kind": "heading",
+              "source_ids": [0]
+            },
+            {
+              "id": "p2",
+              "kind": "prose",
+              "source_ids": [4, 5, 7]
+            },
+            {
+              "id": "p3",
+              "kind": "prose",
+              "source_ids": [8]
+            }
+          ],
+          "furigana": [],
+          "notes": [
+            "p2: excluded other-column members; retained separately",
+            "Panel p1 retained original English after failed automatic checks"
+          ]
+        },
+        "mapping": [
+          {
+            "display_index": 0,
+            "panel_id": "p0",
+            "source_ids": [0],
+            "furigana_ids": [],
+            "japanese_items": ["必殺技遊び"]
+          },
+          {
+            "display_index": 1,
+            "panel_id": "p2",
+            "source_ids": [4, 5, 7],
+            "furigana_ids": [],
+            "japanese_items": [
+              "②トリガーを引きます。",
+              "→ケンモード:「ギリギリ斬り!」",
+              "→ジュウモード:「スレスレ撃ち!」"
+            ]
+          },
+          {
+            "display_index": 2,
+            "panel_id": "p3",
+            "source_ids": [8],
+            "furigana_ids": [],
+            "japanese_items": ["カウントダウン音の途中でトリガーを引くと、小必殺技音が鳴ります。"]
+          },
+          {
+            "display_index": 3,
+            "source_ids": [1],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 4,
+            "source_ids": [2],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 5,
+            "source_ids": [3],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 6,
+            "source_ids": [6],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 7,
+            "source_ids": [9],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 8,
+            "source_ids": [10],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 9,
+            "source_ids": [11],
+            "furigana_ids": []
+          }
+        ],
+        "uncertainties": [],
+        "ocr_lines": [
+          {
+            "id": 0,
+            "text": "必殺技遊び",
+            "bbox": [
+              0.03929866850376129, 0.037231504917144775, 0.13482466340065002, 0.021479710936546326
+            ]
+          },
+          {
+            "id": 1,
+            "text": "①ボタンを押します。",
+            "bbox": [
+              0.04353083297610283, 0.08019093424081802, 0.24183796718716621, 0.019570402801036835
+            ]
+          },
+          {
+            "id": 2,
+            "text": "→ 「タイムチャージ!」 の後に「5・4･3･2･1!ゼロタイム!」の",
+            "bbox": [
+              0.04292624071240425, 0.10978519916534424, 0.6898428313434124, 0.01957041025161743
+            ]
+          },
+          {
+            "id": 3,
+            "text": "カウントダウン音が鳴ります。",
+            "bbox": [
+              0.07073760777711868, 0.13794749975204468, 0.3440145179629326, 0.021002382040023804
+            ]
+          },
+          {
+            "id": 4,
+            "text": "②トリガーを引きます。",
+            "bbox": [
+              0.04474002495408058, 0.19140811264514923, 0.2629987858235836, 0.021479710936546326
+            ]
+          },
+          {
+            "id": 5,
+            "text": "→ケンモード: 「ギリギリ斬り!」",
+            "bbox": [
+              0.045949213206768036, 0.22100238502025604, 0.37424425035715103, 0.02291169762611389
+            ]
+          },
+          {
+            "id": 6,
+            "text": "が鳴ります。",
+            "bbox": [
+              0.4383313059806824, 0.2348448634147644, 0.14147520065307617, 0.01957041025161743
+            ]
+          },
+          {
+            "id": 7,
+            "text": "→ジュウモード: 「スレスレ撃ち!」",
+            "bbox": [
+              0.04655380919575691, 0.25059667229652405, 0.3821039907634258, 0.020525038242340088
+            ]
+          },
+          {
+            "id": 8,
+            "text": "カウントダウン音の途中でトリガーを引くと、小必殺技音が鳴ります。",
+            "bbox": [
+              0.04534462094306946, 0.32219570875167847, 0.7817412316799164, 0.021002382040023804
+            ]
+          },
+          {
+            "id": 9,
+            "text": "トリガー",
+            "bbox": [
+              0.4449818730354309, 0.8439140915870667, 0.06952840089797974, 0.014319777488708496
+            ]
+          },
+          {
+            "id": 10,
+            "text": "5",
+            "bbox": [
+              0.49334946274757385, 0.982816219329834, 0.010882705450057983, 0.010023891925811768
+            ]
+          },
+          {
+            "id": 11,
+            "text": "ボタン",
+            "bbox": [
+              0.6420798301696777, 0.41145583987236023, 0.05804109573364258, 0.013842493295669556
+            ]
+          }
+        ]
+      }
     },
     {
-      "image": "pages/page-5.webp",
       "blocks": [
+        {
+          "text": "ライドウォッチ必殺技遊び",
+          "translation": "Ridewatch Finisher Play",
+          "bbox": [0.039, 0.015000000000000001, 0.30711909532547, 0.011706612423062325],
+          "layout": "panel"
+        },
+        {
+          "text": "①ライドウォッチスロットをセットします。",
+          "translation": "1. Set the Ridewatch into the slot.",
+          "bbox": [0.041999999999999996, 0.033, 0.46191839885711666, 0.011700000000000002],
+          "layout": "panel"
+        },
+        {
+          "text": "②ボタンとピンを同時押しし、鳴らしたい必殺技をセレクトします。\n→セレクトに応じたライダー名が鳴ります。\nボタン",
+          "translation": "• 2) Press the button and the pin at the same time to select the finisher (special move) you want to play.\n• → The rider name corresponding to the selection will play.\n• Button",
+          "bbox": [0.0414, 0.2902, 0.7581653047561645, 0.02889999999999998],
+          "layout": "panel"
+        },
+        {
+          "text": "ピン",
+          "translation": "Pin",
+          "bbox": [0.7944, 0.5167, 0.0417, 0.0068]
+        },
+        {
+          "text": "モード\nケンモード",
+          "translation": "Mode\nKen Mode",
+          "bbox": [0.0998, 0.5992, 0.1294, 0.0252]
+        },
+        {
+          "text": "セレクト無し",
+          "translation": "No selection",
+          "bbox": [0.3126, 0.599, 0.1511, 0.0091]
+        },
+        {
+          "text": "汎用必殺技",
+          "translation": "Universal finisher",
+          "bbox": [0.3192, 0.6159, 0.136, 0.0089]
+        },
+        {
+          "text": "同時押し1回目\nジオウ",
+          "translation": "Simultaneous press 1st time\nZi-O",
+          "bbox": [0.5218, 0.599, 0.1753, 0.0252]
+        },
+        {
+          "text": "同時押し2回目",
+          "translation": "Simultaneous press 2nd time",
+          "bbox": [0.7455, 0.599, 0.1753, 0.0091]
+        },
+        {
+          "text": "オーズ",
+          "translation": "OOO",
+          "bbox": [0.795, 0.6151, 0.0804, 0.0091]
+        },
+        {
+          "text": "ジュウモード",
+          "translation": "Juu Mode",
+          "bbox": [0.0889, 0.632, 0.1518, 0.0093]
+        },
+        {
+          "text": "汎用必殺技",
+          "translation": "Universal finisher",
+          "bbox": [0.3192, 0.6326, 0.133, 0.0089]
+        },
+        {
+          "text": "W",
+          "translation": "W",
+          "bbox": [0.5961, 0.6337, 0.026, 0.006]
+        },
+        {
+          "text": "フォーゼ",
+          "translation": "Fourze",
+          "bbox": [0.7842, 0.6322, 0.1034, 0.0091]
+        },
+        {
+          "text": "③ライドウォッチをセットします。",
+          "translation": "③ Insert the Ridewatch.",
+          "bbox": [0.0435, 0.6605, 0.367, 0.0087]
+        },
+        {
+          "text": "「必殺技待機音」が鳴ります。",
+          "translation": "The \"finisher standby sound\" will play.",
+          "bbox": [0.0713, 0.6733, 0.3283, 0.0089]
+        },
+        {
+          "text": "④トリガーを引きます。\n→ライドウォッチ:「ライダー名音声」\n→ジカンギレード:セレクトした「必殺技音」",
+          "translation": "④ Pull the trigger.\n→ Ridewatch: \"Rider name audio\"\n→ Zikan Girade: the selected \"finisher sound\" will play.",
+          "bbox": [0.0429, 0.6971, 0.5006, 0.0337]
+        },
+        {
+          "text": "CO",
+          "translation": "CO",
+          "bbox": [0.4952, 0.9917, 0.0085, 0.0048]
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.494, 0.9924, 0.0115, 0.0043]
+        },
+        {
+          "text": "が鳴ります。",
+          "translation": "will sound.",
+          "bbox": [0.5556, 0.7147, 0.1415, 0.0085]
+        }
+      ],
+      "image": "pages/page-5.webp",
+      "source_blocks": [
         {
           "text": "ライドウォッチ必殺技遊び",
           "translation": "Ridewatch Finisher Play",
@@ -655,11 +2903,365 @@
           "translation": "will sound.",
           "bbox": [0.5556, 0.7147, 0.1415, 0.0085]
         }
-      ]
+      ],
+      "layout_provenance": {
+        "version": 2,
+        "plan": {
+          "panels": [
+            {
+              "id": "p0",
+              "kind": "heading",
+              "source_ids": [0]
+            },
+            {
+              "id": "p1",
+              "kind": "prose",
+              "source_ids": [1]
+            },
+            {
+              "id": "p2",
+              "kind": "prose",
+              "source_ids": [2, 3]
+            }
+          ],
+          "furigana": [],
+          "notes": [
+            "p4: excluded other-column members; retained separately",
+            "Panel p3 retained original English after failed automatic checks",
+            "Panel p4 retained original English after failed automatic checks"
+          ]
+        },
+        "mapping": [
+          {
+            "display_index": 0,
+            "panel_id": "p0",
+            "source_ids": [0],
+            "furigana_ids": [],
+            "japanese_items": ["ライドウォッチ必殺技遊び"]
+          },
+          {
+            "display_index": 1,
+            "panel_id": "p1",
+            "source_ids": [1],
+            "furigana_ids": [],
+            "japanese_items": ["①ライドウォッチスロットをセットします。"]
+          },
+          {
+            "display_index": 2,
+            "panel_id": "p2",
+            "source_ids": [2, 3],
+            "furigana_ids": [],
+            "japanese_items": [
+              "②ボタンとピンを同時押しし、鳴らしたい必殺技をセレクトします。",
+              "→セレクトに応じたライダー名が鳴ります。",
+              "ボタン"
+            ]
+          },
+          {
+            "display_index": 3,
+            "source_ids": [4],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 4,
+            "source_ids": [5],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 5,
+            "source_ids": [6],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 6,
+            "source_ids": [7],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 7,
+            "source_ids": [8],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 8,
+            "source_ids": [9],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 9,
+            "source_ids": [10],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 10,
+            "source_ids": [11],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 11,
+            "source_ids": [12],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 12,
+            "source_ids": [13],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 13,
+            "source_ids": [14],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 14,
+            "source_ids": [15],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 15,
+            "source_ids": [16],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 16,
+            "source_ids": [17],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 17,
+            "source_ids": [18],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 18,
+            "source_ids": [19],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 19,
+            "source_ids": [20],
+            "furigana_ids": []
+          }
+        ],
+        "uncertainties": [],
+        "ocr_lines": [
+          {
+            "id": 0,
+            "text": "ライドウォッチ必殺技遊び",
+            "bbox": [
+              0.040507860481739044, 0.01652892492711544, 0.3041112348437309, 0.008677687495946884
+            ]
+          },
+          {
+            "id": 1,
+            "text": "①ライドウォッチスロットをセットします。",
+            "bbox": [
+              0.04353083297610283, 0.034504130482673645, 0.45888756588101387, 0.008677687495946884
+            ]
+          },
+          {
+            "id": 2,
+            "text": "②ボタンとピンを同時押しし、鳴らしたい必殺技をセレクトします。",
+            "bbox": [
+              0.04292624071240425, 0.29173552989959717, 0.7551390640437603, 0.008677691221237183
+            ]
+          },
+          {
+            "id": 3,
+            "text": "→セレクトに応じたライダー名が鳴ります。",
+            "bbox": [
+              0.04474002495408058, 0.30413222312927246, 0.49818622693419456, 0.009090930223464966
+            ]
+          },
+          {
+            "id": 4,
+            "text": "ボタン",
+            "bbox": [
+              0.7273277044296265, 0.3117768466472626, 0.05743652582168579, 0.005785137414932251
+            ]
+          },
+          {
+            "id": 5,
+            "text": "ピン",
+            "bbox": [
+              0.7944377064704895, 0.5167355537414551, 0.0417170524597168, 0.006818175315856934
+            ]
+          },
+          {
+            "id": 6,
+            "text": "モード",
+            "bbox": [
+              0.12636034190654755, 0.5991735458374023, 0.07678355276584625, 0.008264482021331787
+            ]
+          },
+          {
+            "id": 7,
+            "text": "ケンモード",
+            "bbox": [
+              0.09975816309452057, 0.6159090995788574, 0.12938331067562103, 0.008264482021331787
+            ]
+          },
+          {
+            "id": 8,
+            "text": "セレクト無し",
+            "bbox": [
+              0.3125755786895752, 0.5989669561386108, 0.1511487364768982, 0.009090900421142578
+            ]
+          },
+          {
+            "id": 9,
+            "text": "汎用必殺技",
+            "bbox": [
+              0.31922611594200134, 0.6159090995788574, 0.13603386282920837, 0.008884310722351074
+            ]
+          },
+          {
+            "id": 10,
+            "text": "同時押し1回目",
+            "bbox": [
+              0.521765410900116, 0.5989669561386108, 0.17533254623413086, 0.009297490119934082
+            ]
+          },
+          {
+            "id": 11,
+            "text": "ジオウ",
+            "bbox": [
+              0.5719467997550964, 0.6157024502754211, 0.07678353786468506, 0.008264482021331787
+            ]
+          },
+          {
+            "id": 12,
+            "text": "同時押し2回目",
+            "bbox": [
+              0.7454655170440674, 0.5989669561386108, 0.17533254623413086, 0.009090900421142578
+            ]
+          },
+          {
+            "id": 13,
+            "text": "オーズ",
+            "bbox": [
+              0.7950423359870911, 0.6150826215744019, 0.08041113615036011, 0.009090960025787354
+            ]
+          },
+          {
+            "id": 14,
+            "text": "ジュウモード",
+            "bbox": [
+              0.08887545019388199, 0.6320247650146484, 0.15175332874059677, 0.009297549724578857
+            ]
+          },
+          {
+            "id": 15,
+            "text": "汎用必殺技",
+            "bbox": [
+              0.31922611594200134, 0.6326446533203125, 0.1330108940601349, 0.008884251117706299
+            ]
+          },
+          {
+            "id": 16,
+            "text": "W",
+            "bbox": [
+              0.5961306095123291, 0.6336776614189148, 0.025997579097747803, 0.005991756916046143
+            ]
+          },
+          {
+            "id": 17,
+            "text": "フォーゼ",
+            "bbox": [
+              0.7841596007347107, 0.6322314143180847, 0.10338574647903442, 0.009090900421142578
+            ]
+          },
+          {
+            "id": 18,
+            "text": "③ライドウォッチをセットします。",
+            "bbox": [
+              0.04353083297610283, 0.6605371832847595, 0.3669891245663166, 0.00867772102355957
+            ]
+          },
+          {
+            "id": 19,
+            "text": "「必殺技待機音」が鳴ります。",
+            "bbox": [
+              0.07134220004081726, 0.6733471155166626, 0.3282950520515442, 0.008884310722351074
+            ]
+          },
+          {
+            "id": 20,
+            "text": "④トリガーを引きます。",
+            "bbox": [
+              0.04292624071240425, 0.6971074342727661, 0.2605804018676281, 0.009090900421142578
+            ]
+          },
+          {
+            "id": 21,
+            "text": "→ライドウォッチ:「ライダー名音声」",
+            "bbox": [
+              0.044135428965091705, 0.7097107172012329, 0.42805319279432297, 0.009297549724578857
+            ]
+          },
+          {
+            "id": 22,
+            "text": "→ジカンギレード:セレクトした「必殺技音」",
+            "bbox": [
+              0.04353083297610283, 0.7214875817298889, 0.4999999888241291, 0.009090960025787354
+            ]
+          },
+          {
+            "id": 23,
+            "text": "CO",
+            "bbox": [
+              0.495163232088089, 0.9917355179786682, 0.00846436619758606, 0.004752099514007568
+            ]
+          },
+          {
+            "id": 24,
+            "text": "6",
+            "bbox": [
+              0.493954062461853, 0.9923553466796875, 0.011487305164337158, 0.004338860511779785
+            ]
+          },
+          {
+            "id": 25,
+            "text": "が鳴ります。",
+            "bbox": [
+              0.5556227564811707, 0.714669406414032, 0.14147520065307617, 0.008471071720123291
+            ]
+          }
+        ]
+      }
     },
     {
-      "image": "pages/page-6.webp",
       "blocks": [
+        {
+          "text": "ライドウォッチスロットの外し方",
+          "translation": "How to remove the Ridewatch slot",
+          "bbox": [0.039, 0.0479, 0.3724153578281403, 0.0296197788476944],
+          "layout": "panel"
+        },
+        {
+          "text": "解除ボタンを上に上げ、ツメを下に下げながら、スロットを引き抜きます。",
+          "translation": "Lift the release button upward, and while lowering the tab, pull the slot out.",
+          "bbox": [0.0414, 0.10109579867124557, 0.8301121045112609, 0.030812115848064425],
+          "layout": "panel"
+        },
+        {
+          "text": "7",
+          "translation": "7",
+          "bbox": [0.4933, 0.9778, 0.0121, 0.013]
+        },
+        {
+          "text": "解除ボタン",
+          "translation": "Release button",
+          "bbox": [0.6771, 0.7522, 0.0992, 0.0192]
+        },
+        {
+          "text": "ツメ",
+          "translation": "Tab",
+          "bbox": [0.8077, 0.5859, 0.0375, 0.0167]
+        }
+      ],
+      "image": "pages/page-6.webp",
+      "source_blocks": [
         {
           "text": "ライドウォッチスロットの外し方",
           "translation": "How to remove the Ridewatch slot",
@@ -685,11 +3287,145 @@
           "translation": "Tab",
           "bbox": [0.8077, 0.5859, 0.0375, 0.0167]
         }
-      ]
+      ],
+      "layout_provenance": {
+        "version": 2,
+        "plan": {
+          "panels": [
+            {
+              "id": "p0",
+              "kind": "heading",
+              "source_ids": [0]
+            },
+            {
+              "id": "p1",
+              "kind": "prose",
+              "source_ids": [1]
+            }
+          ],
+          "furigana": [],
+          "notes": []
+        },
+        "mapping": [
+          {
+            "display_index": 0,
+            "panel_id": "p0",
+            "source_ids": [0],
+            "furigana_ids": [],
+            "japanese_items": ["ライドウォッチスロットの外し方"]
+          },
+          {
+            "display_index": 1,
+            "panel_id": "p1",
+            "source_ids": [1],
+            "furigana_ids": [],
+            "japanese_items": [
+              "解除ボタンを上に上げ、ツメを下に下げながら、スロットを引き抜きます。"
+            ]
+          },
+          {
+            "display_index": 2,
+            "source_ids": [2],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 3,
+            "source_ids": [3],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 4,
+            "source_ids": [4],
+            "furigana_ids": []
+          }
+        ],
+        "uncertainties": [],
+        "ocr_lines": [
+          {
+            "id": 0,
+            "text": "ライドウォッチスロットの外し方",
+            "bbox": [
+              0.040507860481739044, 0.04944375902414322, 0.3694074973464012, 0.026576019823551178
+            ]
+          },
+          {
+            "id": 1,
+            "text": "解除ボタンを上に上げ、ツメを下に下げながら、スロットを引き抜きます。",
+            "bbox": [
+              0.04292624071240425, 0.10259579867124557, 0.8270858637988567, 0.027812115848064423
+            ]
+          },
+          {
+            "id": 2,
+            "text": "7",
+            "bbox": [
+              0.49334946274757385, 0.977750301361084, 0.012091904878616333, 0.012978971004486084
+            ]
+          },
+          {
+            "id": 3,
+            "text": "解除ボタン",
+            "bbox": [
+              0.677146315574646, 0.7521631717681885, 0.09915357828140259, 0.019159436225891113
+            ]
+          },
+          {
+            "id": 4,
+            "text": "ツメ",
+            "bbox": [
+              0.8077388405799866, 0.5859085321426392, 0.03748488426208496, 0.01668727397918701
+            ]
+          }
+        ]
+      }
     },
     {
-      "image": "pages/page-7.webp",
       "blocks": [
+        {
+          "text": "BGM遊び",
+          "translation": "BGM Play",
+          "bbox": [
+            0.039599999999999996, 0.039088535368442534, 0.12940000000000002, 0.023311464631557463
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "ボタンを長押しする度に、下記5曲が再生・停止できます。",
+          "translation": "Each time you long-press the button, the following five tracks can be played or stopped.",
+          "bbox": [0.0426, 0.0832, 0.661439324760437, 0.04619999999999999],
+          "layout": "panel"
+        },
+        {
+          "text": "1 『Over \"Quartzer\"』 (TV size)",
+          "translation": "1 \"Over \"Quartzer\"\" (TV size)",
+          "bbox": [
+            0.06258706307411194, 0.12889065897464752, 0.4232129369258881, 0.04460934102535247
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "2 『ジオウ誕生』\n3 『ジオウ変身』\n4 『アーマータイム』",
+          "translation": "2 \"Birth of Zi-O\"\n3 \"Zi-O Transformation\"\n4 \"Armor Time\"",
+          "bbox": [0.0641, 0.1745, 0.2527, 0.1055]
+        },
+        {
+          "text": "5 『P.A.R.T.Y.~ユニバース・フェスティバル』 (ショートver.)",
+          "translation": "5 \"P.A.R.T.Y. ~Universe Festival~\" (Short ver.)",
+          "bbox": [0.0659, 0.2998, 0.7062, 0.0213]
+        },
+        {
+          "text": "8",
+          "translation": "8",
+          "bbox": [0.494, 0.9817, 0.0097, 0.0101]
+        },
+        {
+          "text": "ボタン",
+          "translation": "Button",
+          "bbox": [0.6572, 0.3658, 0.0568, 0.0147]
+        }
+      ],
+      "image": "pages/page-7.webp",
+      "source_blocks": [
         {
           "text": "BGM遊び",
           "translation": "BGM Play",
@@ -725,7 +3461,140 @@
           "translation": "Button",
           "bbox": [0.6572, 0.3658, 0.0568, 0.0147]
         }
-      ]
+      ],
+      "layout_provenance": {
+        "version": 2,
+        "plan": {
+          "panels": [
+            {
+              "id": "p0",
+              "kind": "heading",
+              "source_ids": [0]
+            },
+            {
+              "id": "p1-a-a",
+              "kind": "prose",
+              "source_ids": [1]
+            },
+            {
+              "id": "p1-a-b",
+              "kind": "prose",
+              "source_ids": [2]
+            }
+          ],
+          "furigana": [],
+          "notes": ["Panel p1-b retained original English after failed automatic checks"]
+        },
+        "mapping": [
+          {
+            "display_index": 0,
+            "panel_id": "p0",
+            "source_ids": [0],
+            "furigana_ids": [],
+            "japanese_items": ["BGM遊び"]
+          },
+          {
+            "display_index": 1,
+            "panel_id": "p1-a-a",
+            "source_ids": [1],
+            "furigana_ids": [],
+            "japanese_items": ["ボタンを長押しする度に、下記5曲が再生・停止できます。"]
+          },
+          {
+            "display_index": 2,
+            "panel_id": "p1-a-b",
+            "source_ids": [2],
+            "furigana_ids": [],
+            "japanese_items": ["1 『Over \"Quartzer\"』 (TV size)"]
+          },
+          {
+            "display_index": 3,
+            "source_ids": [3],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 4,
+            "source_ids": [4],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 5,
+            "source_ids": [5],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 6,
+            "source_ids": [6],
+            "furigana_ids": []
+          }
+        ],
+        "uncertainties": [],
+        "ocr_lines": [
+          {
+            "id": 0,
+            "text": "BGM遊び",
+            "bbox": [
+              0.04111245647072792, 0.040588535368442535, 0.12636033818125725, 0.02029426395893097
+            ]
+          },
+          {
+            "id": 1,
+            "text": "ボタンを長押しする度に、下記5曲が再生・停止できます。",
+            "bbox": [
+              0.044135428965091705, 0.08472856134176254, 0.6584038957953453, 0.022831052541732788
+            ]
+          },
+          {
+            "id": 2,
+            "text": "1 『Over \"Quartzer\"』 (TV size)",
+            "bbox": [
+              0.06892382353544235, 0.13039065897464752, 0.41535670310258865, 0.024860486388206482
+            ]
+          },
+          {
+            "id": 3,
+            "text": "2 『ジオウ誕生』",
+            "bbox": [
+              0.06590084731578827, 0.17453069984912872, 0.19649334251880646, 0.022831052541732788
+            ]
+          },
+          {
+            "id": 4,
+            "text": "3 『ジオウ変身』",
+            "bbox": [
+              0.06590084731578827, 0.21511922776699066, 0.1977025419473648, 0.023845762014389038
+            ]
+          },
+          {
+            "id": 5,
+            "text": "4 『アーマータイム』",
+            "bbox": [
+              0.06408706307411194, 0.25722983479499817, 0.2521160840988159, 0.022831052541732788
+            ]
+          },
+          {
+            "id": 6,
+            "text": "5 『P.A.R.T.Y.~ユニバース・フェスティバル』 (ショートver.)",
+            "bbox": [
+              0.06590084731578827, 0.2998477816581726, 0.7061668783426285, 0.021308988332748413
+            ]
+          },
+          {
+            "id": 7,
+            "text": "8",
+            "bbox": [
+              0.493954062461853, 0.9817351698875427, 0.009673535823822021, 0.0101470947265625
+            ]
+          },
+          {
+            "id": 8,
+            "text": "ボタン",
+            "bbox": [
+              0.6571946740150452, 0.36580416560173035, 0.056831955909729004, 0.0147133469581604
+            ]
+          }
+        ]
+      }
     }
   ]
 }

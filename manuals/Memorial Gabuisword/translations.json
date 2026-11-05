@@ -7,14 +7,128 @@
     "source_url": "",
     "blog_url": "",
     "pages": 10,
-    "blocks": 217,
+    "blocks": 198,
     "thumbnail": "pages/page-0.webp",
-    "tags": ["kamen-rider", "memorial"]
+    "tags": ["kamen-rider", "memorial"],
+    "semantic_layout": 1
   },
   "pages": [
     {
-      "image": "pages/page-0.webp",
       "blocks": [
+        {
+          "text": "△ 注意 お買い上げのお客様へ 必ずお読みください。\n●本商品の対象年齢は15才以上です。 対象年齢未満のお子様には絶対に与えないでください。 ボタン電池、電池ぶた、ねじなどの誤飲事故に\n注意してください。 ●尖った部分や鋭い部分がありますので、取扱いや保管場所に注意してください。思わぬケガをする恐れがあります。●耳の\n近くで使用してはいけません。 誤って使用すると、聴覚を損なう恐れがあります。●本商品には電子部品を使用しております。 ペースメーカーを\nご使用の方は、本商品を身体に近づけないように注意してください。 ●LEDの光の点滅を見続けないでください。 気分が悪くなったりする恐れが\nあります。 付属の電池は玩具です。思わぬ事故につながる恐れがあるので、他の用途には使用しないでください。 《電池を誤使用すると発熱・\n破裂・液漏れの恐れがあります。 下記に注意してください》 ●万一、 ボタン電池を飲み込んだとき、ボタン電池から漏れた液が目に入ったときは、\nすぐに医師に相談してください。 漏れた液が皮膚や服に付いたときは水で洗ってください。 ●ボタン電池は飲み込むと危険です。 お子様の手の\n届かないところに保管してください。●古い電池と新しい電池、いろいろな種類の電池をまぜて使わないでください。 ●十一 (プラスマイナス) を正しく\nセットしてください。●ショートさせたり充電、分解、加熱、火の中に入れたりしないでください。 廃棄するときは、 自治体の廃棄物処理の指示に\n従ってください。",
+          "translation": "△ Caution — To customers who purchased this product: Please read carefully.\n● This product is for Ages 15+. Do not give it to children under the recommended age. Be careful to prevent accidental ingestion of button batteries, battery covers, screws, etc. ● This product has pointed or sharp parts; handle and store with care to avoid accidental injury. ● Do not use near the ear. Improper use may impair hearing. ● This product contains electronic parts. If you use a pacemaker, keep this product away from your body. ● Do not stare at flashing LED light; it may cause you to feel unwell. ● The included batteries are intended for use with this toy. Do not use them for other purposes, as this may cause an accident. 《Improper use of batteries may cause heat generation, rupture, or leakage. Observe the following》 ● If a button battery is swallowed, or battery fluid leaks into the eye, consult a doctor immediately. If leaked fluid gets on skin or clothing, wash with water. ● Button batteries are dangerous if swallowed. Keep out of reach of children. ● Do not mix old and new batteries or different types of batteries. ● Insert batteries with the (+) and (−) terminals set correctly. ● Do not short-circuit, recharge, disassemble, heat, or throw batteries into a fire. When disposing of batteries, follow local municipal disposal instructions.",
+          "bbox": [0.0867, 0.54, 0.8272, 0.13719999999999988],
+          "layout": "panel"
+        },
+        {
+          "text": "<使用上の注意> ●本商品は精密に作られています。無理な力を加えたり、落としたりすると破損する恐れがあります。 本商品は精密な電子部品で\n構成されています。 落としたり、水にぬらしたり、汚したり、分解したりしないでください。 また、高温・低温になるところでの使用、保管は避けてください。\n●プラスチック梱包材は、開封後はすぐに捨ててください。 本商品には塗装部分がありますので、 保管の際には他のもの (樹脂製品や家具、\nソファー)と接触しないようにしてください。色が移る場合があります。 ●可動部分・取付部分を無理な方向に強く引っ張ったり、曲げたりしないでくだ\nさい。発音の一部にイントネーションが違っていたり、 商品の特性上聞き取りにくいものがありますが、ご了承ください。 ●ガブリカリバー\n-MEMORIAL EDITION-には、対応している商品以外はセットしないでください。故障や破損の原因となります。 ●付属の獣電池は、対応している\n商品以外にはセットしないでください。故障や破損の原因となります。",
+          "translation": "• Precautions for Use\n• This product is precision-made. Applying excessive force or dropping it may cause damage.\n• This product contains precision electronic components. Do not drop it, get it wet, soil it, or disassemble it. Also avoid using or storing it in places of high or low temperature.\n• Dispose of plastic packaging materials immediately after opening. This product has painted parts; when storing, avoid contact with other items (plastic products, furniture, sofas), as color transfer may occur.\n• Do not strongly pull or bend movable parts or mounting parts in unreasonable directions. Some pronunciations may have different intonation or may be difficult to hear due to the product's characteristics; please understand this.\n• Do not set anything other than compatible items into GABURI RIVER -MEMORIAL EDITION-. Doing so may cause malfunction or damage.\n• Do not install the included beast battery in devices other than those it is compatible with. Doing so may cause malfunction or damage.",
+          "bbox": [0.0794667706489563, 0.6889000000000001, 0.8411332293510436, 0.08282188901901233],
+          "layout": "panel"
+        },
+        {
+          "text": "! 注意",
+          "translation": "! Caution",
+          "bbox": [0.1471, 0.8306, 0.13717945518493652, 0.030241442584991396],
+          "layout": "panel"
+        },
+        {
+          "text": "この枠内では、本商品を\nご使用になるときに、\n注意していただきたいことを\n記載しております。",
+          "translation": "This section lists precautions you should observe when using this product.",
+          "bbox": [
+            0.1078655601143837, 0.8900533423423768, 0.19883443988561633, 0.05418107795715321
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "! 振り回さない!!",
+          "translation": "Do not swing it around!",
+          "bbox": [0.3477, 0.8066603646278382, 0.21452509288787835, 0.02133963537216177],
+          "layout": "panel"
+        },
+        {
+          "text": "! 落とさない!!",
+          "translation": "Do not drop it!",
+          "bbox": [
+            0.6130000000000001, 0.8066603646278382, 0.19333382940292343, 0.02023963537216178
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "本製品は精密機器のため、\n高所から落とさないよう\nご注意ください。",
+          "translation": "Because this product is a precision instrument, take care not to drop it from a height.",
+          "bbox": [0.6111888394355774, 0.8385, 0.1800392656326293, 0.04059999999999986],
+          "layout": "panel"
+        },
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0369, 0.0297, 0.1656, 0.0129]
+        },
+        {
+          "text": "©東映",
+          "translation": "©Toei",
+          "bbox": [0.2991, 0.0537, 0.0314, 0.0057]
+        },
+        {
+          "text": "ガブリカリバー",
+          "translation": "Gaburicalibur",
+          "bbox": [0.2737, 0.1009, 0.339, 0.0279]
+        },
+        {
+          "text": "-MEMORIAL EDITION- の遊び方",
+          "translation": "How to Play the -MEMORIAL EDITION-",
+          "bbox": [0.1529, 0.1328, 0.6834, 0.0251]
+        },
+        {
+          "text": "セット内容",
+          "translation": "Set Contents",
+          "bbox": [0.1082, 0.2133, 0.1148, 0.014]
+        },
+        {
+          "text": "ガブリカリバー -MEMORIAL EDITION-1",
+          "translation": "Gaburicalibur -MEMORIAL EDITION- ... 1",
+          "bbox": [0.2918, 0.2892, 0.4139, 0.0115]
+        },
+        {
+          "text": "通常刃パーツ･･･1",
+          "translation": "Standard blade part... 1",
+          "bbox": [0.2399, 0.3776, 0.1492, 0.0118]
+        },
+        {
+          "text": "獣電池(パラサガン)･･･1",
+          "translation": "Beast Battery (Parasagun)... 1",
+          "bbox": [0.2767, 0.4345, 0.2097, 0.0122]
+        },
+        {
+          "text": "※WEB取扱説明書内の画像はイメージです。",
+          "translation": "*The images in the online instruction manual are for illustrative purposes only.",
+          "bbox": [0.0731, 0.4896, 0.3317, 0.0104]
+        },
+        {
+          "text": "合体用差し替え刃パーツ... 1",
+          "translation": "Blade part for combination (interchangeable) ... 1",
+          "bbox": [0.5861, 0.378, 0.2495, 0.0115]
+        },
+        {
+          "text": "獣電池 (ザクトル)…1",
+          "translation": "Beast Battery (Zakutor)... 1",
+          "bbox": [0.687, 0.4345, 0.1873, 0.0125]
+        },
+        {
+          "text": "xx",
+          "translation": "xx",
+          "bbox": [0.4876, 0.8908, 0.206, 0.0476]
+        },
+        {
+          "text": "1",
+          "translation": "1",
+          "bbox": [0.4931, 0.9749, 0.0097, 0.0093]
+        }
+      ],
+      "image": "pages/page-0.webp",
+      "source_blocks": [
         {
           "text": "WEB取扱説明書",
           "translation": "WEB Instruction Manual",
@@ -120,11 +234,569 @@
           "translation": "1",
           "bbox": [0.4931, 0.9749, 0.0097, 0.0093]
         }
-      ]
+      ],
+      "layout_provenance": {
+        "version": 2,
+        "plan": {
+          "panels": [
+            {
+              "id": "p0",
+              "kind": "heading",
+              "source_ids": [11]
+            },
+            {
+              "id": "p1",
+              "kind": "prose",
+              "source_ids": [12]
+            },
+            {
+              "id": "p2",
+              "kind": "heading",
+              "source_ids": [15]
+            },
+            {
+              "id": "p3",
+              "kind": "prose",
+              "source_ids": [16, 17]
+            },
+            {
+              "id": "p4",
+              "kind": "heading",
+              "source_ids": [13]
+            },
+            {
+              "id": "p5",
+              "kind": "heading",
+              "source_ids": [14]
+            },
+            {
+              "id": "p6",
+              "kind": "prose",
+              "source_ids": [18]
+            }
+          ],
+          "furigana": [],
+          "notes": [
+            "Source 11 contains both the yellow 注意 heading and its warning body in one OCR region; kept together because it cannot be split by source ID. Set contents/product labels and diagram-only marks were left ungrouped."
+          ]
+        },
+        "mapping": [
+          {
+            "display_index": 0,
+            "panel_id": "p0",
+            "source_ids": [11],
+            "furigana_ids": [],
+            "japanese_items": [
+              "△ 注意 お買い上げのお客様へ 必ずお読みください。\n●本商品の対象年齢は15才以上です。 対象年齢未満のお子様には絶対に与えないでください。 ボタン電池、電池ぶた、ねじなどの誤飲事故に\n注意してください。 ●尖った部分や鋭い部分がありますので、取扱いや保管場所に注意してください。思わぬケガをする恐れがあります。●耳の\n近くで使用してはいけません。 誤って使用すると、聴覚を損なう恐れがあります。●本商品には電子部品を使用しております。 ペースメーカーを\nご使用の方は、本商品を身体に近づけないように注意してください。 ●LEDの光の点滅を見続けないでください。 気分が悪くなったりする恐れが\nあります。 付属の電池は玩具です。思わぬ事故につながる恐れがあるので、他の用途には使用しないでください。 《電池を誤使用すると発熱・\n破裂・液漏れの恐れがあります。 下記に注意してください》 ●万一、 ボタン電池を飲み込んだとき、ボタン電池から漏れた液が目に入ったときは、\nすぐに医師に相談してください。 漏れた液が皮膚や服に付いたときは水で洗ってください。 ●ボタン電池は飲み込むと危険です。 お子様の手の\n届かないところに保管してください。●古い電池と新しい電池、いろいろな種類の電池をまぜて使わないでください。 ●十一 (プラスマイナス) を正しく\nセットしてください。●ショートさせたり充電、分解、加熱、火の中に入れたりしないでください。 廃棄するときは、 自治体の廃棄物処理の指示に\n従ってください。"
+            ]
+          },
+          {
+            "display_index": 1,
+            "panel_id": "p1",
+            "source_ids": [12],
+            "furigana_ids": [],
+            "japanese_items": [
+              "使用上の注意",
+              "本商品は精密に作られています。無理な力を加えたり、落としたりすると破損する恐れがあります。",
+              "本商品は精密な電子部品で構成されています。落としたり、水にぬらしたり、汚したり、分解したりしないでください。また、高温・低温になるところでの使用、保管は避けてください。",
+              "プラスチック梱包材は、開封後はすぐに捨ててください。本商品には塗装部分がありますので、保管の際には他のもの（樹脂製品や家具、ソファー）と接触しないようにしてください。色が移る場合があります。",
+              "可動部分・取付部分を無理な方向に強く引っ張ったり、曲げたりしないでください。発音の一部にイントネーションが違っていたり、商品の特性上聞き取りにくいものがありますが、ご了承ください。",
+              "ガブリカリバー-MEMORIAL EDITION-には、対応している商品以外はセットしないでください。故障や破損の原因となります。",
+              "付属の獣電池は、対応している商品以外にはセットしないでください。故障や破損の原因となります。"
+            ]
+          },
+          {
+            "display_index": 2,
+            "panel_id": "p2",
+            "source_ids": [15],
+            "furigana_ids": [],
+            "japanese_items": ["! 注意"]
+          },
+          {
+            "display_index": 3,
+            "panel_id": "p3",
+            "source_ids": [16, 17],
+            "furigana_ids": [],
+            "japanese_items": [
+              "この枠内では、本商品を\nご使用になるときに、\n注意していただきたいことを\n記載しております。"
+            ]
+          },
+          {
+            "display_index": 4,
+            "panel_id": "p4",
+            "source_ids": [13],
+            "furigana_ids": [],
+            "japanese_items": ["! 振り回さない!!"]
+          },
+          {
+            "display_index": 5,
+            "panel_id": "p5",
+            "source_ids": [14],
+            "furigana_ids": [],
+            "japanese_items": ["! 落とさない!!"]
+          },
+          {
+            "display_index": 6,
+            "panel_id": "p6",
+            "source_ids": [18],
+            "furigana_ids": [],
+            "japanese_items": ["本製品は精密機器のため、高所から落とさないようご注意ください。"]
+          },
+          {
+            "display_index": 7,
+            "source_ids": [0],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 8,
+            "source_ids": [1],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 9,
+            "source_ids": [2],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 10,
+            "source_ids": [3],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 11,
+            "source_ids": [4],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 12,
+            "source_ids": [5],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 13,
+            "source_ids": [6],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 14,
+            "source_ids": [7],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 15,
+            "source_ids": [8],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 16,
+            "source_ids": [9],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 17,
+            "source_ids": [10],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 18,
+            "source_ids": [19],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 19,
+            "source_ids": [20],
+            "furigana_ids": []
+          }
+        ],
+        "uncertainties": [],
+        "ocr_lines": [
+          {
+            "id": 0,
+            "text": "WEB取扱説明書",
+            "bbox": [
+              0.036858007311820984, 0.02970651350915432, 0.16555890440940857, 0.012884752824902534
+            ]
+          },
+          {
+            "id": 1,
+            "text": "©東映",
+            "bbox": [
+              0.29909366369247437, 0.0536864697933197, 0.03141993284225464, 0.005726557224988937
+            ]
+          },
+          {
+            "id": 2,
+            "text": "ガブリカリバー",
+            "bbox": [
+              0.273716002702713, 0.10093056410551071, 0.3389728367328644, 0.027916960418224335
+            ]
+          },
+          {
+            "id": 3,
+            "text": "-MEMORIAL EDITION- の遊び方",
+            "bbox": [
+              0.1528700888156891, 0.13278454542160034, 0.6833836734294891, 0.025053679943084717
+            ]
+          },
+          {
+            "id": 4,
+            "text": "セット内容",
+            "bbox": [
+              0.10815709829330444, 0.2133142501115799, 0.11480362713336945, 0.013958483934402466
+            ]
+          },
+          {
+            "id": 5,
+            "text": "ガブリカリバー -MEMORIAL EDITION-1",
+            "bbox": [
+              0.29184290766716003, 0.2891911268234253, 0.41389724612236023, 0.011453121900558472
+            ]
+          },
+          {
+            "id": 6,
+            "text": "通常刃パーツ･･･1",
+            "bbox": [
+              0.23987916111946106, 0.37759485840797424, 0.14924469590187073, 0.011811017990112305
+            ]
+          },
+          {
+            "id": 7,
+            "text": "獣電池(パラサガン)･･･1",
+            "bbox": [
+              0.27673715353012085, 0.434502512216568, 0.20966768264770508, 0.012168914079666138
+            ]
+          },
+          {
+            "id": 8,
+            "text": "※WEB取扱説明書内の画像はイメージです。",
+            "bbox": [
+              0.07311177998781204, 0.4896206259727478, 0.33172204345464706, 0.010379374027252197
+            ]
+          },
+          {
+            "id": 9,
+            "text": "合体用差し替え刃パーツ... 1",
+            "bbox": [
+              0.5861027240753174, 0.3779527544975281, 0.2495468258857727, 0.011453121900558472
+            ]
+          },
+          {
+            "id": 10,
+            "text": "獣電池 (ザクトル)…1",
+            "bbox": [
+              0.6870090365409851, 0.434502512216568, 0.18731123208999634, 0.012526839971542358
+            ]
+          },
+          {
+            "id": 11,
+            "text": "△ 注意 お買い上げのお客様へ 必ずお読みください。",
+            "bbox": [
+              0.10574018210172653, 0.5415175557136536, 0.4706948474049568, 0.01252681016921997
+            ]
+          },
+          {
+            "id": 12,
+            "text": "●本商品の対象年齢は15才以上です。 対象年齢未満のお子様には絶対に与えないでください。 ボタン電池、電池ぶた、ねじなどの誤飲事故に",
+            "bbox": [
+              0.08882175385951996, 0.5608446598052979, 0.8217522650957108, 0.007874011993408203
+            ]
+          },
+          {
+            "id": 13,
+            "text": "注意してください。 ●尖った部分や鋭い部分がありますので、取扱いや保管場所に注意してください。思わぬケガをする恐れがあります。●耳の",
+            "bbox": [
+              0.08882175385951996, 0.5726556777954102, 0.8223564773797989, 0.007516145706176758
+            ]
+          },
+          {
+            "id": 14,
+            "text": "近くで使用してはいけません。 誤って使用すると、聴覚を損なう恐れがあります。●本商品には電子部品を使用しております。 ペースメーカーを",
+            "bbox": [
+              0.08882175385951996, 0.5848246216773987, 0.8229607492685318, 0.007158219814300537
+            ]
+          },
+          {
+            "id": 15,
+            "text": "ご使用の方は、本商品を身体に近づけないように注意してください。 ●LEDの光の点滅を見続けないでください。 気分が悪くなったりする恐れが",
+            "bbox": [
+              0.09003020823001862, 0.596635639667511, 0.8223565071821213, 0.007516086101531982
+            ]
+          },
+          {
+            "id": 16,
+            "text": "あります。 付属の電池は玩具です。思わぬ事故につながる恐れがあるので、他の用途には使用しないでください。 《電池を誤使用すると発熱・",
+            "bbox": [
+              0.08882175385951996, 0.6084466576576233, 0.8235649615526199, 0.007516145706176758
+            ]
+          },
+          {
+            "id": 17,
+            "text": "破裂・液漏れの恐れがあります。 下記に注意してください》 ●万一、 ボタン電池を飲み込んだとき、ボタン電池から漏れた液が目に入ったときは、",
+            "bbox": [
+              0.08821751922369003, 0.6206156015396118, 0.8217522874474525, 0.007516086101531982
+            ]
+          },
+          {
+            "id": 18,
+            "text": "すぐに医師に相談してください。 漏れた液が皮膚や服に付いたときは水で洗ってください。 ●ボタン電池は飲み込むと危険です。 お子様の手の",
+            "bbox": [
+              0.08882175385951996, 0.6320686936378479, 0.8229607492685318, 0.007874011993408203
+            ]
+          },
+          {
+            "id": 19,
+            "text": "届かないところに保管してください。●古い電池と新しい電池、いろいろな種類の電池をまぜて使わないでください。 ●十一 (プラスマイナス) を正しく",
+            "bbox": [
+              0.08821751922369003, 0.6442376375198364, 0.8241691961884499, 0.007874011993408203
+            ]
+          },
+          {
+            "id": 20,
+            "text": "セットしてください。●ショートさせたり充電、分解、加熱、火の中に入れたりしないでください。 廃棄するときは、 自治体の廃棄物処理の指示に",
+            "bbox": [
+              0.08882175385951996, 0.6560486555099487, 0.8217522650957108, 0.007874011993408203
+            ]
+          },
+          {
+            "id": 21,
+            "text": "従ってください。",
+            "bbox": [
+              0.08821751922369003, 0.6685755252838135, 0.08882176131010056, 0.006800293922424316
+            ]
+          },
+          {
+            "id": 22,
+            "text": "<使用上の注意> ●本商品は精密に作られています。無理な力を加えたり、落としたりすると破損する恐れがあります。 本商品は精密な電子部品で",
+            "bbox": [
+              0.08277945965528488, 0.6904079914093018, 0.8356495574116707, 0.008589863777160645
+            ]
+          },
+          {
+            "id": 23,
+            "text": "構成されています。 落としたり、水にぬらしたり、汚したり、分解したりしないでください。 また、高温・低温になるところでの使用、保管は避けてください。",
+            "bbox": [
+              0.0809667706489563, 0.7025769352912903, 0.8362537622451782, 0.007874011993408203
+            ]
+          },
+          {
+            "id": 24,
+            "text": "●プラスチック梱包材は、開封後はすぐに捨ててください。 本商品には塗装部分がありますので、 保管の際には他のもの (樹脂製品や家具、",
+            "bbox": [
+              0.09063444286584854, 0.7143879532814026, 0.8247733935713768, 0.008231937885284424
+            ]
+          },
+          {
+            "id": 25,
+            "text": "ソファー)と接触しないようにしてください。色が移る場合があります。 ●可動部分・取付部分を無理な方向に強く引っ張ったり、曲げたりしないでくだ",
+            "bbox": [
+              0.08157099783420563, 0.7261989712715149, 0.8374622315168381, 0.008231937885284424
+            ]
+          },
+          {
+            "id": 26,
+            "text": "さい。発音の一部にイントネーションが違っていたり、 商品の特性上聞き取りにくいものがありますが、ご了承ください。 ●ガブリカリバー",
+            "bbox": [
+              0.0809667706489563, 0.738010048866272, 0.8374622464179993, 0.008231878280639648
+            ]
+          },
+          {
+            "id": 27,
+            "text": "-MEMORIAL EDITION-には、対応している商品以外はセットしないでください。故障や破損の原因となります。 ●付属の獣電池は、対応している",
+            "bbox": [
+              0.0809667706489563, 0.7501789331436157, 0.8380664587020874, 0.008589863777160645
+            ]
+          },
+          {
+            "id": 28,
+            "text": "商品以外にはセットしないでください。故障や破損の原因となります。",
+            "bbox": [
+              0.08157099783420563, 0.7623478770256042, 0.3867069333791733, 0.007874011993408203
+            ]
+          },
+          {
+            "id": 29,
+            "text": "! 振り回さない!!",
+            "bbox": [
+              0.34924471378326416, 0.8081603646278381, 0.21148037910461426, 0.0182533860206604
+            ]
+          },
+          {
+            "id": 30,
+            "text": "! 落とさない!!",
+            "bbox": [
+              0.6145015358924866, 0.8081603646278381, 0.190332293510437, 0.017179667949676514
+            ]
+          },
+          {
+            "id": 31,
+            "text": "! 注意",
+            "bbox": [
+              0.1486404836177826, 0.832140326499939, 0.13413897156715393, 0.02720111608505249
+            ]
+          },
+          {
+            "id": 32,
+            "text": "この枠内では、本商品を",
+            "bbox": [
+              0.1093655601143837, 0.8915533423423767, 0.16132929176092148, 0.00930565595626831
+            ]
+          },
+          {
+            "id": 33,
+            "text": "ご使用になるときに、",
+            "bbox": [
+              0.11299093812704086, 0.9055117964744568, 0.13897279649972916, 0.00894773006439209
+            ]
+          },
+          {
+            "id": 34,
+            "text": "注意していただきたいことを",
+            "bbox": [
+              0.10996978729963303, 0.9191123843193054, 0.195166178047657, 0.00930565595626831
+            ]
+          },
+          {
+            "id": 35,
+            "text": "記載しております。",
+            "bbox": [
+              0.10996978729963303, 0.9330708384513855, 0.1268882229924202, 0.009663581848144531
+            ]
+          },
+          {
+            "id": 36,
+            "text": "本製品は精密機器のため、",
+            "bbox": [
+              0.6126888394355774, 0.8400143384933472, 0.1770392656326294, 0.010021448135375977
+            ]
+          },
+          {
+            "id": 37,
+            "text": "高所から落とさないよう",
+            "bbox": [
+              0.6138972640037537, 0.8543307185173035, 0.16374623775482178, 0.00894773006439209
+            ]
+          },
+          {
+            "id": 38,
+            "text": "ご注意ください。",
+            "bbox": [
+              0.6138972640037537, 0.8675733804702759, 0.10996979475021362, 0.010021448135375977
+            ]
+          },
+          {
+            "id": 39,
+            "text": "xx",
+            "bbox": [
+              0.4876132905483246, 0.8908374905586243, 0.2060423195362091, 0.04760199785232544
+            ]
+          },
+          {
+            "id": 40,
+            "text": "1",
+            "bbox": [
+              0.49305135011672974, 0.9749463200569153, 0.009667694568634033, 0.00930565595626831
+            ]
+          }
+        ]
+      }
     },
     {
-      "image": "pages/page-1.webp",
       "blocks": [
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.03596223449707031, 0.0402, 0.1686377655029297, 0.02112905998826027],
+          "layout": "panel"
+        },
+        {
+          "text": "各部名称",
+          "translation": "Parts Identification",
+          "bbox": [0.1906, 0.1422908560037613, 0.1190570863723755, 0.02763549375534058],
+          "layout": "panel"
+        },
+        {
+          "text": "ガブリカリバー",
+          "translation": "Gabuisword",
+          "bbox": [0.1776, 0.2283, 0.1438, 0.0176]
+        },
+        {
+          "text": "-MEMORIAL EDITION-",
+          "translation": "-MEMORIAL EDITION-",
+          "bbox": [0.1166, 0.2514, 0.2489, 0.0156]
+        },
+        {
+          "text": "ポンプ",
+          "translation": "Pump",
+          "bbox": [0.5511, 0.2589, 0.0508, 0.0126]
+        },
+        {
+          "text": "トリガー",
+          "translation": "Trigger",
+          "bbox": [0.6332, 0.2846, 0.058, 0.0136]
+        },
+        {
+          "text": "【正面】",
+          "translation": "[Front]",
+          "bbox": [0.2, 0.3112, 0.0471, 0.0146]
+        },
+        {
+          "text": "【背面】",
+          "translation": "[Back]",
+          "bbox": [0.2006, 0.4505, 0.0453, 0.0136]
+        },
+        {
+          "text": "グリップ",
+          "translation": "Grip",
+          "bbox": [0.6266, 0.3781, 0.061, 0.0141]
+        },
+        {
+          "text": "下アゴ",
+          "translation": "Lower Jaw",
+          "bbox": [0.2749, 0.3881, 0.0508, 0.0141]
+        },
+        {
+          "text": "グリップロック解除ボタン",
+          "translation": "Grip Lock Release Button",
+          "bbox": [0.4435, 0.4118, 0.1891, 0.0136]
+        },
+        {
+          "text": "通常刃パーツ",
+          "translation": "Standard Blade Part",
+          "bbox": [0.1692, 0.6259, 0.1353, 0.0161]
+        },
+        {
+          "text": "【天面】 ロック解除ボタン",
+          "translation": "[Top] Lock Release Button",
+          "bbox": [0.5946, 0.6234, 0.2012, 0.0151]
+        },
+        {
+          "text": "獣電池",
+          "translation": "Beast Battery",
+          "bbox": [0.2018, 0.7738, 0.0701, 0.0176]
+        },
+        {
+          "text": "ボタン",
+          "translation": "Button",
+          "bbox": [0.3994, 0.7843, 0.0489, 0.0121]
+        },
+        {
+          "text": "プレート",
+          "translation": "Plate",
+          "bbox": [0.4804, 0.7858, 0.0634, 0.0136]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.49, 0.9628, 0.0181, 0.0196]
+        },
+        {
+          "text": "スリット",
+          "translation": "Slit",
+          "bbox": [0.5795, 0.7335, 0.0586, 0.0121]
+        }
+      ],
+      "image": "pages/page-1.webp",
+      "source_blocks": [
         {
           "text": "WEB取扱説明書",
           "translation": "WEB Instruction Manual",
@@ -215,11 +887,331 @@
           "translation": "Slit",
           "bbox": [0.5795, 0.7335, 0.0586, 0.0121]
         }
-      ]
+      ],
+      "layout_provenance": {
+        "version": 2,
+        "plan": {
+          "panels": [
+            {
+              "id": "p0",
+              "kind": "heading",
+              "source_ids": [0]
+            },
+            {
+              "id": "p1",
+              "kind": "heading",
+              "source_ids": [1]
+            }
+          ],
+          "furigana": [],
+          "notes": [
+            "The remaining regions are product names, part labels, view labels, or page number associated with diagrams/part overview, so they are left ungrouped."
+          ]
+        },
+        "mapping": [
+          {
+            "display_index": 0,
+            "panel_id": "p0",
+            "source_ids": [0],
+            "furigana_ids": [],
+            "japanese_items": ["WEB取扱説明書"]
+          },
+          {
+            "display_index": 1,
+            "panel_id": "p1",
+            "source_ids": [1],
+            "furigana_ids": [],
+            "japanese_items": ["各部名称"]
+          },
+          {
+            "display_index": 2,
+            "source_ids": [2],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 3,
+            "source_ids": [3],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 4,
+            "source_ids": [4],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 5,
+            "source_ids": [5],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 6,
+            "source_ids": [6],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 7,
+            "source_ids": [7],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 8,
+            "source_ids": [8],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 9,
+            "source_ids": [9],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 10,
+            "source_ids": [10],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 11,
+            "source_ids": [11],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 12,
+            "source_ids": [12],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 13,
+            "source_ids": [13],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 14,
+            "source_ids": [14],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 15,
+            "source_ids": [15],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 16,
+            "source_ids": [16],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 17,
+            "source_ids": [17],
+            "furigana_ids": []
+          }
+        ],
+        "uncertainties": [],
+        "ocr_lines": [
+          {
+            "id": 0,
+            "text": "WEB取扱説明書",
+            "bbox": [
+              0.03746223449707031, 0.04172951355576515, 0.16555891931056976, 0.018099546432495117
+            ]
+          },
+          {
+            "id": 1,
+            "text": "各部名称",
+            "bbox": [
+              0.19214501976966858, 0.1437908560037613, 0.11601206660270691, 0.024635493755340576
+            ]
+          },
+          {
+            "id": 2,
+            "text": "ガブリカリバー",
+            "bbox": [
+              0.17764350771903992, 0.22825540602207184, 0.14380663633346558, 0.017596781253814697
+            ]
+          },
+          {
+            "id": 3,
+            "text": "-MEMORIAL EDITION-",
+            "bbox": [
+              0.11661631613969803, 0.25138261914253235, 0.24894260615110397, 0.015585720539093018
+            ]
+          },
+          {
+            "id": 4,
+            "text": "ポンプ",
+            "bbox": [
+              0.5510573983192444, 0.25892409682273865, 0.05075526237487793, 0.012569129467010498
+            ]
+          },
+          {
+            "id": 5,
+            "text": "トリガー",
+            "bbox": [
+              0.6332326531410217, 0.28456512093544006, 0.05800598859786987, 0.013574659824371338
+            ]
+          },
+          {
+            "id": 6,
+            "text": "【正面】",
+            "bbox": [
+              0.20000000298023224, 0.3112116754055023, 0.04712989926338196, 0.014580190181732178
+            ]
+          },
+          {
+            "id": 7,
+            "text": "【背面】",
+            "bbox": [
+              0.20060423016548157, 0.45047762989997864, 0.04531721770763397, 0.013574659824371338
+            ]
+          },
+          {
+            "id": 8,
+            "text": "グリップ",
+            "bbox": [
+              0.6265860795974731, 0.37807944416999817, 0.06102722883224487, 0.014077425003051758
+            ]
+          },
+          {
+            "id": 9,
+            "text": "下アゴ",
+            "bbox": [
+              0.27492445707321167, 0.38813474774360657, 0.05075529217720032, 0.014077425003051758
+            ]
+          },
+          {
+            "id": 10,
+            "text": "グリップロック解除ボタン",
+            "bbox": [
+              0.44350454211235046, 0.4117647111415863, 0.18912383913993835, 0.013574659824371338
+            ]
+          },
+          {
+            "id": 11,
+            "text": "通常刃パーツ",
+            "bbox": [
+              0.16918429732322693, 0.6259427070617676, 0.1353474259376526, 0.016088485717773438
+            ]
+          },
+          {
+            "id": 12,
+            "text": "【天面】 ロック解除ボタン",
+            "bbox": [
+              0.5945619344711304, 0.6234288811683655, 0.2012084722518921, 0.015082955360412598
+            ]
+          },
+          {
+            "id": 13,
+            "text": "獣電池",
+            "bbox": [
+              0.20181268453598022, 0.773755669593811, 0.070090651512146, 0.017596781253814697
+            ]
+          },
+          {
+            "id": 14,
+            "text": "ボタン",
+            "bbox": [
+              0.39939576387405396, 0.7843137383460999, 0.04894259572029114, 0.012066364288330078
+            ]
+          },
+          {
+            "id": 15,
+            "text": "プレート",
+            "bbox": [
+              0.48036253452301025, 0.7858220338821411, 0.06344413757324219, 0.013574659824371338
+            ]
+          },
+          {
+            "id": 16,
+            "text": "2",
+            "bbox": [
+              0.4900301992893219, 0.9627953767776489, 0.018126875162124634, 0.019607841968536377
+            ]
+          },
+          {
+            "id": 17,
+            "text": "スリット",
+            "bbox": [
+              0.5794562101364136, 0.7335344552993774, 0.05861026048660278, 0.012066364288330078
+            ]
+          }
+        ]
+      }
     },
     {
-      "image": "pages/page-2.webp",
       "blocks": [
+        {
+          "text": "通常刃パーツの取り付け方 / 取り外し方",
+          "translation": "How to attach/remove the Standard Blade Part",
+          "bbox": [
+            0.10846978729963302, 0.18975325977802276, 0.47853021270036694, 0.03174674022197724
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "取り付け方",
+          "translation": "Attaching",
+          "bbox": [0.1018, 0.2661, 0.09970000298023224, 0.025217243814468382],
+          "layout": "panel"
+        },
+        {
+          "text": "通常刃パーツをガブリカリバーにまっすぐ取り付けます。",
+          "translation": "Attach the regular blade part straight to the Gaburi Kariba.",
+          "bbox": [0.0873, 0.3216, 0.40543868346214296, 0.021299999999999986],
+          "layout": "panel"
+        },
+        {
+          "text": "取り外し方",
+          "translation": "Removing",
+          "bbox": [0.1012, 0.5957585082054139, 0.09849999999999999, 0.026541491794586092],
+          "layout": "panel"
+        },
+        {
+          "text": "通常刃パーツの天面にある\nロック解除ボタンを押しながら\n矢印の方向に取り外します。",
+          "translation": "While pressing the lock-release button on the top surface of the standard blade part, remove it in the direction of the arrow.",
+          "bbox": [0.0873, 0.6531997427940369, 0.22114863200187684, 0.07220025720596301],
+          "layout": "panel"
+        },
+        {
+          "text": "WEB取扱説明書 矢印一覧 ■ 取り付けます。 |",
+          "translation": "WEB Instruction Manual — Arrow List — ■ Attach.",
+          "bbox": [0.0375, 0.0509, 0.5372, 0.0274]
+        },
+        {
+          "text": "取り外します。 | 可動させます。",
+          "translation": "Remove. | Make movable.",
+          "bbox": [0.6284, 0.0503, 0.3196, 0.0255]
+        },
+        {
+          "text": "ガブリカリバー-MEMORIAL EDITION-",
+          "translation": "GaburiCalibur -MEMORIAL EDITION-",
+          "bbox": [0.5885, 0.3316, 0.3148, 0.017]
+        },
+        {
+          "text": "通常刃パーツ 【拡大図】",
+          "translation": "Standard Blade Part [Enlarged View]",
+          "bbox": [0.3063, 0.4504, 0.1867, 0.03]
+        },
+        {
+          "text": "スリット",
+          "translation": "Slit",
+          "bbox": [0.5426, 0.5294, 0.058, 0.017]
+        },
+        {
+          "text": "※スリットを合わせて\n取り付けます。",
+          "translation": "※Align the slits and attach.",
+          "bbox": [0.623, 0.5013, 0.1547, 0.0424]
+        },
+        {
+          "text": "【天面】 ロック解除ボタン",
+          "translation": "[Top] Lock release button",
+          "bbox": [0.4943, 0.5933, 0.2006, 0.0176]
+        },
+        {
+          "text": "3",
+          "translation": "3",
+          "bbox": [0.49, 0.9537, 0.0181, 0.0209]
+        }
+      ],
+      "image": "pages/page-2.webp",
+      "source_blocks": [
         {
           "text": "WEB取扱説明書 矢印一覧 ■ 取り付けます。 |",
           "translation": "WEB Instruction Manual — Arrow List — ■ Attach.",
@@ -285,11 +1277,423 @@
           "translation": "3",
           "bbox": [0.49, 0.9537, 0.0181, 0.0209]
         }
-      ]
+      ],
+      "layout_provenance": {
+        "version": 2,
+        "plan": {
+          "panels": [
+            {
+              "id": "p0",
+              "kind": "heading",
+              "source_ids": [2]
+            },
+            {
+              "id": "p1",
+              "kind": "heading",
+              "source_ids": [3]
+            },
+            {
+              "id": "p2",
+              "kind": "prose",
+              "source_ids": [4]
+            },
+            {
+              "id": "p3",
+              "kind": "heading",
+              "source_ids": [6]
+            },
+            {
+              "id": "p4",
+              "kind": "prose",
+              "source_ids": [7]
+            }
+          ],
+          "furigana": [],
+          "notes": []
+        },
+        "mapping": [
+          {
+            "display_index": 0,
+            "panel_id": "p0",
+            "source_ids": [2],
+            "furigana_ids": [],
+            "japanese_items": ["通常刃パーツの取り付け方 / 取り外し方"]
+          },
+          {
+            "display_index": 1,
+            "panel_id": "p1",
+            "source_ids": [3],
+            "furigana_ids": [],
+            "japanese_items": ["取り付け方"]
+          },
+          {
+            "display_index": 2,
+            "panel_id": "p2",
+            "source_ids": [4],
+            "furigana_ids": [],
+            "japanese_items": ["通常刃パーツをガブリカリバーにまっすぐ取り付けます。"]
+          },
+          {
+            "display_index": 3,
+            "panel_id": "p3",
+            "source_ids": [6],
+            "furigana_ids": [],
+            "japanese_items": ["取り外し方"]
+          },
+          {
+            "display_index": 4,
+            "panel_id": "p4",
+            "source_ids": [7],
+            "furigana_ids": [],
+            "japanese_items": [
+              "通常刃パーツの天面にあるロック解除ボタンを押しながら矢印の方向に取り外します。"
+            ]
+          },
+          {
+            "display_index": 5,
+            "source_ids": [0],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 6,
+            "source_ids": [1],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 7,
+            "source_ids": [5],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 8,
+            "source_ids": [8],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 9,
+            "source_ids": [9],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 10,
+            "source_ids": [10],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 11,
+            "source_ids": [11],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 12,
+            "source_ids": [12],
+            "furigana_ids": []
+          }
+        ],
+        "uncertainties": [
+          "Romanization/translation of the product name 'ガブリカリバー' is uncertain; rendered as 'Gaburi Kariba'."
+        ],
+        "ocr_lines": [
+          {
+            "id": 0,
+            "text": "WEB取扱説明書 矢印一覧 ■ 取り付けます。 |",
+            "bbox": [
+              0.03746223449707031, 0.05091383680701256, 0.5371600985527039, 0.027415145188570023
+            ]
+          },
+          {
+            "id": 1,
+            "text": "取り外します。 | 可動させます。",
+            "bbox": [
+              0.6283987760543823, 0.05026109516620636, 0.3196374773979187, 0.025456920266151428
+            ]
+          },
+          {
+            "id": 2,
+            "text": "通常刃パーツの取り付け方 / 取り外し方",
+            "bbox": [
+              0.10996978729963303, 0.19125325977802277, 0.4755287244915962, 0.028720632195472717
+            ]
+          },
+          {
+            "id": 3,
+            "text": "取り付け方",
+            "bbox": [
+              0.10332326591014862, 0.26762402057647705, 0.09667673707008362, 0.022193223237991333
+            ]
+          },
+          {
+            "id": 4,
+            "text": "通常刃パーツをガブリカリバーにまっすぐ取り付けます。",
+            "bbox": [
+              0.08882175385951996, 0.3231070637702942, 0.402416929602623, 0.018276751041412354
+            ]
+          },
+          {
+            "id": 5,
+            "text": "ガブリカリバー-MEMORIAL EDITION-",
+            "bbox": [
+              0.5885196328163147, 0.3315926790237427, 0.3148036003112793, 0.016971290111541748
+            ]
+          },
+          {
+            "id": 6,
+            "text": "取り外し方",
+            "bbox": [
+              0.1027190312743187, 0.5972585082054138, 0.09546827524900436, 0.02349865436553955
+            ]
+          },
+          {
+            "id": 7,
+            "text": "通常刃パーツの天面にある",
+            "bbox": [
+              0.08882175385951996, 0.6546997427940369, 0.1969788521528244, 0.016971290111541748
+            ]
+          },
+          {
+            "id": 8,
+            "text": "ロック解除ボタンを押しながら",
+            "bbox": [
+              0.09003020823001862, 0.6788511872291565, 0.21691842377185822, 0.01958221197128296
+            ]
+          },
+          {
+            "id": 9,
+            "text": "矢印の方向に取り外します。",
+            "bbox": [
+              0.08882175385951996, 0.7056135535240173, 0.20000000298023224, 0.01762402057647705
+            ]
+          },
+          {
+            "id": 10,
+            "text": "通常刃パーツ 【拡大図】",
+            "bbox": [
+              0.3063444197177887, 0.45039165019989014, 0.18670693039894104, 0.030026108026504517
+            ]
+          },
+          {
+            "id": 11,
+            "text": "スリット",
+            "bbox": [
+              0.5425981879234314, 0.5293733477592468, 0.05800604820251465, 0.016971290111541748
+            ]
+          },
+          {
+            "id": 12,
+            "text": "※スリットを合わせて",
+            "bbox": [
+              0.6229607462882996, 0.5006527304649353, 0.15468275547027588, 0.01762402057647705
+            ]
+          },
+          {
+            "id": 13,
+            "text": "取り付けます。",
+            "bbox": [
+              0.6374622583389282, 0.5267624258995056, 0.1069486141204834, 0.016971230506896973
+            ]
+          },
+          {
+            "id": 14,
+            "text": "【天面】 ロック解除ボタン",
+            "bbox": [
+              0.4942598044872284, 0.5933420658111572, 0.20060423016548157, 0.01762402057647705
+            ]
+          },
+          {
+            "id": 15,
+            "text": "3",
+            "bbox": [
+              0.4900301992893219, 0.9536553621292114, 0.018126875162124634, 0.02088773250579834
+            ]
+          }
+        ]
+      }
     },
     {
-      "image": "pages/page-3.webp",
       "blocks": [
+        {
+          "text": "電池の入れ方",
+          "translation": "How to insert the batteries",
+          "bbox": [0.1749, 0.1277, 0.1613432017326355, 0.020613184022903436],
+          "layout": "panel"
+        },
+        {
+          "text": "※音が小さくなって聞き取りにくくなったり、\n音が止まるなどの誤動作をする場合や、\nLEDの発光が弱くなった場合は、\nすべて新しい電池に交換してください。",
+          "translation": "If the sound becomes quieter and hard to hear, if the sound stops or other malfunctions occur, or if the LED’s light becomes weak, replace all batteries with new ones.",
+          "bbox": [0.0794667706489563, 0.1787, 0.3884984939098358, 0.09190000000000001],
+          "layout": "panel"
+        },
+        {
+          "text": "①カバーパーツを取り外します。",
+          "translation": "1. Remove the cover parts.",
+          "bbox": [0.0794667706489563, 0.2701, 0.2591933398246765, 0.019899999999999973],
+          "layout": "panel"
+        },
+        {
+          "text": "【背面】",
+          "translation": "Back",
+          "bbox": [0.4178, 0.2736648426055908, 0.05016526455879211, 0.01533515739440916],
+          "layout": "panel"
+        },
+        {
+          "text": "②電池ぶたを取り外します。\n②-1 ガブリカリバー背面の",
+          "translation": "• ② Remove the battery cover.\n• ②-1 On the back of the Gabrikali Bar",
+          "bbox": [0.0794667706489563, 0.2894890115261078, 0.303302118062973, 0.03961098847389222],
+          "layout": "panel"
+        },
+        {
+          "text": "電源の入れ方",
+          "translation": "How to turn on the power",
+          "bbox": [0.1749, 0.5919000000000001, 0.16073895964622498, 0.021499999999999853],
+          "layout": "panel"
+        },
+        {
+          "text": "※カバーパーツを取り外した状態から始めます。",
+          "translation": "Begin with the cover parts removed.",
+          "bbox": [
+            0.46556947684288025, 0.5941000000000001, 0.4229396073818206, 0.017509865665435664
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "本体背面の電源スイッチをON)にします。\n→LEDが光り、起動音が鳴ります。",
+          "translation": "• Set the power switch on the back of the unit to ON.\n• The LED will light and a startup sound will play.",
+          "bbox": [0.0988, 0.6464000000000001, 0.3377453317165375, 0.035499999999999865],
+          "layout": "panel"
+        },
+        {
+          "text": "WEB取扱説明書 矢印一覧",
+          "translation": "Web Instruction Manual: List of Arrows",
+          "bbox": [0.0369, 0.0352, 0.3088, 0.0171]
+        },
+        {
+          "text": "取り付けます。 |",
+          "translation": "Attach.",
+          "bbox": [0.4181, 0.0347, 0.1553, 0.0167]
+        },
+        {
+          "text": "取り外します。 | 可動させます。",
+          "translation": "Remove. | Make movable.",
+          "bbox": [0.6284, 0.0343, 0.3196, 0.0171]
+        },
+        {
+          "text": "ボタン電池は",
+          "translation": "Button cell batteries:",
+          "bbox": [0.5221, 0.2255, 0.0634, 0.007]
+        },
+        {
+          "text": "LR44 × 3",
+          "translation": "LR44 × 3",
+          "bbox": [0.8145, 0.16, 0.0659, 0.0136]
+        },
+        {
+          "text": "ボタン電池(LR44) 3個使用(付)",
+          "translation": "Uses 3 button cell batteries (LR44) (included)",
+          "bbox": [0.7668, 0.1908, 0.1378, 0.0079]
+        },
+        {
+          "text": "●セットされている電池は、テスト用です。",
+          "translation": "● The included batteries are for testing purposes.",
+          "bbox": [0.7571, 0.2079, 0.1613, 0.0066]
+        },
+        {
+          "text": "上側が土に下側がに\nなるようにセットします。",
+          "translation": "Set the button batteries so the top side is + and the bottom side is -.",
+          "bbox": [0.5215, 0.2382, 0.1166, 0.0193]
+        },
+        {
+          "text": "電池ぶた",
+          "translation": "Battery cover",
+          "bbox": [0.7571, 0.2334, 0.0665, 0.0105]
+        },
+        {
+          "text": "ネジー",
+          "translation": "Screw",
+          "bbox": [0.6731, 0.2523, 0.0429, 0.0114]
+        },
+        {
+          "text": "ポン",
+          "translation": "Pon",
+          "bbox": [0.7631, 0.2681, 0.0133, 0.0035]
+        },
+        {
+          "text": "+ +",
+          "translation": "+ +",
+          "bbox": [0.606, 0.273, 0.0435, 0.007]
+        },
+        {
+          "text": "+",
+          "translation": "+",
+          "bbox": [0.6616, 0.273, 0.0157, 0.007]
+        },
+        {
+          "text": "②-2",
+          "translation": "②-2",
+          "bbox": [0.7118, 0.2866, 0.0338, 0.0092]
+        },
+        {
+          "text": "電池ぶたのネジを+または、",
+          "translation": "Turn the battery cover screw with a + or - screwdriver.",
+          "bbox": [0.1378, 0.3301, 0.1994, 0.011]
+        },
+        {
+          "text": "ドライバーで矢印の方向に回し、",
+          "translation": "Turn it in the direction of the arrow using a screwdriver,",
+          "bbox": [0.1583, 0.3481, 0.223, 0.0119]
+        },
+        {
+          "text": "②-2 電池ぶたを\n矢印の方向に取り外します。\n③ボタン電池を入れます。\n古いボタン電池を取り外して、\n新しいボタン電池3個 (LR44・別売り)を\n+に注意してセットします。\n④電池ぶたを戻します。\n⑤カバーパーツを戻します。",
+          "translation": "②-2 Remove the battery cover in the direction of the arrow.\n③ Insert the button batteries. Remove the old button batteries and insert three new button batteries (LR44; sold separately), taking care to observe the + and - polarities.\n④ Replace the battery cover.\n⑤ Replace the cover part.",
+          "bbox": [0.0804, 0.364, 0.3021, 0.1402]
+        },
+        {
+          "text": "⑤",
+          "translation": "⑤",
+          "bbox": [0.8133, 0.4422, 0.0097, 0.0105]
+        },
+        {
+          "text": "カバーパーツ",
+          "translation": "Cover part",
+          "bbox": [0.7698, 0.5284, 0.1015, 0.011]
+        },
+        {
+          "text": "【背面】",
+          "translation": "[Back]",
+          "bbox": [0.1807, 0.7046, 0.0471, 0.0123]
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.4882, 0.9697, 0.0193, 0.0119]
+        },
+        {
+          "text": "ボタン",
+          "translation": "Button",
+          "bbox": [0.545, 0.8659, 0.0218, 0.0044]
+        },
+        {
+          "text": "入れたりしないで",
+          "translation": "Don't put it in.",
+          "bbox": [0.5444, 0.8716, 0.0562, 0.0053]
+        },
+        {
+          "text": "ON",
+          "translation": "ON",
+          "bbox": [0.7378, 0.8884, 0.0272, 0.0092]
+        },
+        {
+          "text": "OFF",
+          "translation": "OFF",
+          "bbox": [0.6308, 0.9174, 0.0393, 0.0092]
+        },
+        {
+          "text": "電源スイッチ",
+          "translation": "Power switch",
+          "bbox": [0.7124, 0.9116, 0.0943, 0.0119]
+        }
+      ],
+      "image": "pages/page-3.webp",
+      "source_blocks": [
         {
           "text": "WEB取扱説明書 矢印一覧",
           "translation": "Web Instruction Manual: List of Arrows",
@@ -465,11 +1869,692 @@
           "translation": "Power switch",
           "bbox": [0.7124, 0.9116, 0.0943, 0.0119]
         }
-      ]
+      ],
+      "layout_provenance": {
+        "version": 2,
+        "plan": {
+          "panels": [
+            {
+              "id": "p1",
+              "kind": "heading",
+              "source_ids": [3]
+            },
+            {
+              "id": "p2-a-a",
+              "kind": "prose",
+              "source_ids": [4]
+            },
+            {
+              "id": "p2-a-b",
+              "kind": "prose",
+              "source_ids": [5]
+            },
+            {
+              "id": "p2-b-a",
+              "kind": "prose",
+              "source_ids": [14]
+            },
+            {
+              "id": "p2-b-b",
+              "kind": "prose",
+              "source_ids": [18, 19]
+            },
+            {
+              "id": "p4",
+              "kind": "heading",
+              "source_ids": [25]
+            },
+            {
+              "id": "p5",
+              "kind": "prose",
+              "source_ids": [28]
+            },
+            {
+              "id": "p6",
+              "kind": "prose",
+              "source_ids": [26]
+            }
+          ],
+          "furigana": [],
+          "notes": [
+            "Top arrow legend and diagram labels were left ungrouped.",
+            "Conservative panel fallback: Panel p2 would mask unrelated source 5"
+          ]
+        },
+        "mapping": [
+          {
+            "display_index": 0,
+            "panel_id": "p1",
+            "source_ids": [3],
+            "furigana_ids": [],
+            "japanese_items": ["電池の入れ方"]
+          },
+          {
+            "display_index": 1,
+            "panel_id": "p2-a-a",
+            "source_ids": [4],
+            "furigana_ids": [],
+            "japanese_items": [
+              "※音が小さくなって聞き取りにくくなったり、音が止まるなどの誤動作をする場合や、LEDの発光が弱くなった場合は、すべて新しい電池に交換してください。"
+            ]
+          },
+          {
+            "display_index": 2,
+            "panel_id": "p2-a-b",
+            "source_ids": [5],
+            "furigana_ids": [],
+            "japanese_items": ["①カバーパーツを取り外します。"]
+          },
+          {
+            "display_index": 3,
+            "panel_id": "p2-b-a",
+            "source_ids": [14],
+            "furigana_ids": [],
+            "japanese_items": ["【背面】"]
+          },
+          {
+            "display_index": 4,
+            "panel_id": "p2-b-b",
+            "source_ids": [18, 19],
+            "furigana_ids": [],
+            "japanese_items": ["②電池ぶたを取り外します。", "②-1 ガブリカリバー背面の"]
+          },
+          {
+            "display_index": 5,
+            "panel_id": "p4",
+            "source_ids": [25],
+            "furigana_ids": [],
+            "japanese_items": ["電源の入れ方"]
+          },
+          {
+            "display_index": 6,
+            "panel_id": "p5",
+            "source_ids": [28],
+            "furigana_ids": [],
+            "japanese_items": ["※カバーパーツを取り外した状態から始めます。"]
+          },
+          {
+            "display_index": 7,
+            "panel_id": "p6",
+            "source_ids": [26],
+            "furigana_ids": [],
+            "japanese_items": [
+              "本体背面の電源スイッチをＯ（ON）にします。",
+              "→LEDが光り、起動音が鳴ります。"
+            ]
+          },
+          {
+            "display_index": 8,
+            "source_ids": [0],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 9,
+            "source_ids": [1],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 10,
+            "source_ids": [2],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 11,
+            "source_ids": [6],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 12,
+            "source_ids": [7],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 13,
+            "source_ids": [8],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 14,
+            "source_ids": [9],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 15,
+            "source_ids": [10],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 16,
+            "source_ids": [11],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 17,
+            "source_ids": [12],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 18,
+            "source_ids": [13],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 19,
+            "source_ids": [15],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 20,
+            "source_ids": [16],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 21,
+            "source_ids": [17],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 22,
+            "source_ids": [20],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 23,
+            "source_ids": [21],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 24,
+            "source_ids": [22],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 25,
+            "source_ids": [23],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 26,
+            "source_ids": [24],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 27,
+            "source_ids": [27],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 28,
+            "source_ids": [29],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 29,
+            "source_ids": [30],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 30,
+            "source_ids": [31],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 31,
+            "source_ids": [32],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 32,
+            "source_ids": [33],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 33,
+            "source_ids": [34],
+            "furigana_ids": []
+          }
+        ],
+        "uncertainties": [
+          "The second line ends with the particle 'の' and appears incomplete in the image; the object or action referred to after '背面の' is missing.",
+          "Original OCR showed a stray closing parenthesis after ON (\"ON)\"); corrected to a standard enclosing parenthesis form \"Ｏ（ON）\" for the Japanese line."
+        ],
+        "ocr_lines": [
+          {
+            "id": 0,
+            "text": "WEB取扱説明書 矢印一覧",
+            "bbox": [
+              0.036858007311820984, 0.035164836794137955, 0.3087613135576248, 0.017142854630947113
+            ]
+          },
+          {
+            "id": 1,
+            "text": "取り付けます。 |",
+            "bbox": [
+              0.4181268811225891, 0.03472527489066124, 0.1552870273590088, 0.016703296452760696
+            ]
+          },
+          {
+            "id": 2,
+            "text": "取り外します。 | 可動させます。",
+            "bbox": [
+              0.6283987760543823, 0.034285712987184525, 0.3196374773979187, 0.01714285835623741
+            ]
+          },
+          {
+            "id": 3,
+            "text": "電池の入れ方",
+            "bbox": [
+              0.17643503844738007, 0.12923076748847961, 0.15830816328525543, 0.017582416534423828
+            ]
+          },
+          {
+            "id": 4,
+            "text": "※音が小さくなって聞き取りにくくなったり、",
+            "bbox": [
+              0.09063444286584854, 0.18021978437900543, 0.37522657960653305, 0.01362636685371399
+            ]
+          },
+          {
+            "id": 5,
+            "text": "音が止まるなどの誤動作をする場合や、",
+            "bbox": [
+              0.10815709829330444, 0.2013186812400818, 0.33776435256004333, 0.014065936207771301
+            ]
+          },
+          {
+            "id": 6,
+            "text": "LEDの発光が弱くなった場合は、",
+            "bbox": [
+              0.10876133292913437, 0.2215384542942047, 0.2815709784626961, 0.014065936207771301
+            ]
+          },
+          {
+            "id": 7,
+            "text": "すべて新しい電池に交換してください。",
+            "bbox": [
+              0.10876133292913437, 0.24263736605644226, 0.3323262706398964, 0.01362636685371399
+            ]
+          },
+          {
+            "id": 8,
+            "text": "①カバーパーツを取り外します。",
+            "bbox": [
+              0.0809667706489563, 0.2716483473777771, 0.22900301218032837, 0.01362636685371399
+            ]
+          },
+          {
+            "id": 9,
+            "text": "ボタン電池は",
+            "bbox": [
+              0.5220543742179871, 0.22549450397491455, 0.06344413757324219, 0.0070329755544662476
+            ]
+          },
+          {
+            "id": 10,
+            "text": "LR44 × 3",
+            "bbox": [
+              0.8145015239715576, 0.1599999964237213, 0.06586098670959473, 0.013626381754875183
+            ]
+          },
+          {
+            "id": 11,
+            "text": "ボタン電池(LR44) 3個使用(付)",
+            "bbox": [
+              0.7667673826217651, 0.190769225358963, 0.1377643346786499, 0.007912099361419678
+            ]
+          },
+          {
+            "id": 12,
+            "text": "●セットされている電池は、テスト用です。",
+            "bbox": [
+              0.7570996880531311, 0.20791208744049072, 0.16132932901382446, 0.0065934062004089355
+            ]
+          },
+          {
+            "id": 13,
+            "text": "上側が土に下側がに",
+            "bbox": [
+              0.5214501619338989, 0.2382417619228363, 0.10936552286148071, 0.007032960653305054
+            ]
+          },
+          {
+            "id": 14,
+            "text": "なるようにセットします。",
+            "bbox": [
+              0.5214501619338989, 0.25054946541786194, 0.11661630868911743, 0.007032960653305054
+            ]
+          },
+          {
+            "id": 15,
+            "text": "電池ぶた",
+            "bbox": [
+              0.7570996880531311, 0.23340658843517303, 0.06646525859832764, 0.010549455881118774
+            ]
+          },
+          {
+            "id": 16,
+            "text": "ネジー",
+            "bbox": [
+              0.6731117963790894, 0.2523076832294464, 0.042900264263153076, 0.011428594589233398
+            ]
+          },
+          {
+            "id": 17,
+            "text": "ポン",
+            "bbox": [
+              0.7631419897079468, 0.26813188195228577, 0.013293027877807617, 0.003516465425491333
+            ]
+          },
+          {
+            "id": 18,
+            "text": "【背面】",
+            "bbox": [
+              0.41933533549308777, 0.2751648426055908, 0.047129929065704346, 0.012307673692703247
+            ]
+          },
+          {
+            "id": 19,
+            "text": "+ +",
+            "bbox": [
+              0.6060423254966736, 0.27296704053878784, 0.04350447654724121, 0.007032960653305054
+            ]
+          },
+          {
+            "id": 20,
+            "text": "+",
+            "bbox": [
+              0.6616314053535461, 0.27296704053878784, 0.015709996223449707, 0.007032960653305054
+            ]
+          },
+          {
+            "id": 21,
+            "text": "②-2",
+            "bbox": [
+              0.7117824554443359, 0.28659340739250183, 0.03383690118789673, 0.009230762720108032
+            ]
+          },
+          {
+            "id": 22,
+            "text": "②電池ぶたを取り外します。",
+            "bbox": [
+              0.0809667706489563, 0.2909890115261078, 0.19818732142448425, 0.011868119239807129
+            ]
+          },
+          {
+            "id": 23,
+            "text": "②-1 ガブリカリバー背面の",
+            "bbox": [
+              0.09728096425533295, 0.3085714280605316, 0.19154079258441925, 0.012747257947921753
+            ]
+          },
+          {
+            "id": 24,
+            "text": "電池ぶたのネジを+または、",
+            "bbox": [
+              0.1377643495798111, 0.3301098942756653, 0.19939576089382172, 0.010989010334014893
+            ]
+          },
+          {
+            "id": 25,
+            "text": "ドライバーで矢印の方向に回し、",
+            "bbox": [
+              0.15830816328525543, 0.34813186526298523, 0.2229607254266739, 0.011868149042129517
+            ]
+          },
+          {
+            "id": 26,
+            "text": "②-2 電池ぶたを",
+            "bbox": [
+              0.09728096425533295, 0.3639560341835022, 0.11722055077552795, 0.011428594589233398
+            ]
+          },
+          {
+            "id": 27,
+            "text": "矢印の方向に取り外します。",
+            "bbox": [
+              0.1359516680240631, 0.38241758942604065, 0.19395768642425537, 0.012307673692703247
+            ]
+          },
+          {
+            "id": 28,
+            "text": "③ボタン電池を入れます。",
+            "bbox": [
+              0.0809667706489563, 0.4008791148662567, 0.18489426374435425, 0.01142856478691101
+            ]
+          },
+          {
+            "id": 29,
+            "text": "古いボタン電池を取り外して、",
+            "bbox": [
+              0.09788519889116287, 0.41934067010879517, 0.20906343311071396, 0.012307673692703247
+            ]
+          },
+          {
+            "id": 30,
+            "text": "新しいボタン電池3個 (LR44・別売り)を",
+            "bbox": [
+              0.09728096425533295, 0.4373626410961151, 0.28519637882709503, 0.011868119239807129
+            ]
+          },
+          {
+            "id": 31,
+            "text": "+に注意してセットします。",
+            "bbox": [
+              0.0984894260764122, 0.4558241665363312, 0.20906344801187515, 0.011428594589233398
+            ]
+          },
+          {
+            "id": 32,
+            "text": "④電池ぶたを戻します。",
+            "bbox": [
+              0.0809667706489563, 0.47428572177886963, 0.16797582805156708, 0.010989010334014893
+            ]
+          },
+          {
+            "id": 33,
+            "text": "⑤カバーパーツを戻します。",
+            "bbox": [
+              0.08036253601312637, 0.49186813831329346, 0.1993957683444023, 0.012747228145599365
+            ]
+          },
+          {
+            "id": 34,
+            "text": "⑤",
+            "bbox": [
+              0.8132930397987366, 0.4421977996826172, 0.009667694568634033, 0.010549455881118774
+            ]
+          },
+          {
+            "id": 35,
+            "text": "カバーパーツ",
+            "bbox": [
+              0.7697885036468506, 0.5283516645431519, 0.10151058435440063, 0.010989010334014893
+            ]
+          },
+          {
+            "id": 36,
+            "text": "電源の入れ方",
+            "bbox": [
+              0.17643503844738007, 0.593406617641449, 0.1577039211988449, 0.018461525440216064
+            ]
+          },
+          {
+            "id": 37,
+            "text": "本体背面の電源スイッチをON)にします。",
+            "bbox": [
+              0.10030211508274078, 0.6483516693115234, 0.3347432166337967, 0.014065921306610107
+            ]
+          },
+          {
+            "id": 38,
+            "text": "→LEDが光り、起動音が鳴ります。",
+            "bbox": [
+              0.10030211508274078, 0.6676923036575317, 0.2513595074415207, 0.012307703495025635
+            ]
+          },
+          {
+            "id": 39,
+            "text": "【背面】",
+            "bbox": [
+              0.18066465854644775, 0.7046154141426086, 0.04712989926338196, 0.01230764389038086
+            ]
+          },
+          {
+            "id": 40,
+            "text": "※カバーパーツを取り外した状態から始めます。",
+            "bbox": [
+              0.46706947684288025, 0.595604419708252, 0.4199396073818207, 0.014505445957183838
+            ]
+          },
+          {
+            "id": 41,
+            "text": "4",
+            "bbox": [
+              0.4882175326347351, 0.9696703553199768, 0.01933532953262329, 0.011868119239807129
+            ]
+          },
+          {
+            "id": 42,
+            "text": "ボタン",
+            "bbox": [
+              0.5450150966644287, 0.8659340739250183, 0.02175229787826538, 0.004395604133605957
+            ]
+          },
+          {
+            "id": 43,
+            "text": "入れたりしないで",
+            "bbox": [
+              0.5444108843803406, 0.871648371219635, 0.05619335174560547, 0.005274713039398193
+            ]
+          },
+          {
+            "id": 44,
+            "text": "ON",
+            "bbox": [
+              0.7377643585205078, 0.8883516192436218, 0.027190327644348145, 0.00923079252243042
+            ]
+          },
+          {
+            "id": 45,
+            "text": "OFF",
+            "bbox": [
+              0.6308156847953796, 0.917362630367279, 0.03927493095397949, 0.00923079252243042
+            ]
+          },
+          {
+            "id": 46,
+            "text": "電源スイッチ",
+            "bbox": [
+              0.7123867273330688, 0.9116483330726624, 0.09425979852676392, 0.011868178844451904
+            ]
+          }
+        ]
+      }
     },
     {
-      "image": "pages/page-4.webp",
       "blocks": [
+        {
+          "text": "獣電池の遊び方",
+          "translation": "How to use Beast Batteries",
+          "bbox": [0.1605, 0.17458951032161713, 0.18864209389686584, 0.02951048967838288],
+          "layout": "panel"
+        },
+        {
+          "text": "※獣電池(パラサガン)を例に説明します。",
+          "translation": "Note: The Beast Battery (Parasagan) is used as an example.",
+          "bbox": [0.4652, 0.1734, 0.36459505205154413, 0.021300000000000013],
+          "layout": "panel"
+        },
+        {
+          "text": "ボタンを押します\nボタンを押すたびにプレートが回転し、\nブレイブイン状態とチャージ状態が\n交互に切り替わります。",
+          "translation": "• Press the button\n• Each time you press the button, the plate rotates and alternately switches between Brave In state and Charge state.",
+          "bbox": [
+            0.09886275535821915, 0.24349410390853882, 0.3017372446417808, 0.08780589609146122
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "通常攻撃遊び",
+          "translation": "Normal attack play",
+          "bbox": [0.1738, 0.5762, 0.16385478873252868, 0.028362450885772605],
+          "layout": "panel"
+        },
+        {
+          "text": "ガブリカリバーのトリガーを短押しします\nLEDが発光し、剣撃音が鳴ります。",
+          "translation": "• Briefly press the trigger of the Gaburi Karibā.\n• The LED lights up and a sword-strike sound plays.",
+          "bbox": [
+            0.09825816309452057, 0.6445542082786561, 0.29744183690547943, 0.06944579172134391
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "WEB取扱説明書 矢印一覧",
+          "translation": "WEB Instruction Manual: Arrow Legend",
+          "bbox": [0.0369, 0.0483, 0.3083, 0.023]
+        },
+        {
+          "text": "■■■ 取り付けます。 |",
+          "translation": "■■■ Attach. |",
+          "bbox": [0.3869, 0.0471, 0.188, 0.0206]
+        },
+        {
+          "text": "取り外します。 |",
+          "translation": "Remove. |",
+          "bbox": [0.627, 0.0459, 0.1433, 0.0236]
+        },
+        {
+          "text": "可動させます。",
+          "translation": "Make movable.",
+          "bbox": [0.8192, 0.0489, 0.1294, 0.0183]
+        },
+        {
+          "text": "チャージ状態",
+          "translation": "Charge state",
+          "bbox": [0.4655, 0.2309, 0.1149, 0.0188]
+        },
+        {
+          "text": "ボタン",
+          "translation": "Button",
+          "bbox": [0.7189, 0.2291, 0.0484, 0.0135]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.6911, 0.2927, 0.0266, 0.0306]
+        },
+        {
+          "text": "【正面】",
+          "translation": "[Front]",
+          "bbox": [0.1657, 0.715, 0.0478, 0.0183]
+        },
+        {
+          "text": "ブレイブイン状態",
+          "translation": "Brave-In state",
+          "bbox": [0.4395, 0.394, 0.1548, 0.0212]
+        },
+        {
+          "text": "2",
+          "translation": "2",
+          "bbox": [0.6935, 0.4588, 0.0157, 0.023]
+        },
+        {
+          "text": "LO",
+          "translation": "LO",
+          "bbox": [0.4915, 0.9564, 0.0157, 0.0218]
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.4891, 0.9588, 0.02, 0.0188]
+        },
+        {
+          "text": "トリガー",
+          "translation": "Trigger",
+          "bbox": [0.7068, 0.8339, 0.0593, 0.0153]
+        }
+      ],
+      "image": "pages/page-4.webp",
+      "source_blocks": [
         {
           "text": "WEB取扱説明書 矢印一覧",
           "translation": "WEB Instruction Manual: Arrow Legend",
@@ -565,11 +2650,503 @@
           "translation": "Trigger",
           "bbox": [0.7068, 0.8339, 0.0593, 0.0153]
         }
-      ]
+      ],
+      "layout_provenance": {
+        "version": 2,
+        "plan": {
+          "panels": [
+            {
+              "id": "p1",
+              "kind": "heading",
+              "source_ids": [4]
+            },
+            {
+              "id": "p2",
+              "kind": "prose",
+              "source_ids": [5]
+            },
+            {
+              "id": "p3",
+              "kind": "prose",
+              "source_ids": [8, 9]
+            },
+            {
+              "id": "p4",
+              "kind": "heading",
+              "source_ids": [11]
+            },
+            {
+              "id": "p5",
+              "kind": "prose",
+              "source_ids": [12]
+            }
+          ],
+          "furigana": [],
+          "notes": [
+            "Diagram/state labels, button/trigger labels, toy numbers, page footer, and top arrow legend are left ungrouped."
+          ]
+        },
+        "mapping": [
+          {
+            "display_index": 0,
+            "panel_id": "p1",
+            "source_ids": [4],
+            "furigana_ids": [],
+            "japanese_items": ["獣電池の遊び方"]
+          },
+          {
+            "display_index": 1,
+            "panel_id": "p2",
+            "source_ids": [5],
+            "furigana_ids": [],
+            "japanese_items": ["※獣電池(パラサガン)を例に説明します。"]
+          },
+          {
+            "display_index": 2,
+            "panel_id": "p3",
+            "source_ids": [8, 9],
+            "furigana_ids": [],
+            "japanese_items": [
+              "ボタンを押します",
+              "ボタンを押すたびにプレートが回転し、ブレイブイン状態とチャージ状態が交互に切り替わります。"
+            ]
+          },
+          {
+            "display_index": 3,
+            "panel_id": "p4",
+            "source_ids": [11],
+            "furigana_ids": [],
+            "japanese_items": ["通常攻撃遊び"]
+          },
+          {
+            "display_index": 4,
+            "panel_id": "p5",
+            "source_ids": [12],
+            "furigana_ids": [],
+            "japanese_items": [
+              "ガブリカリバーのトリガーを短押しします",
+              "LEDが発光し、剣撃音が鳴ります。"
+            ]
+          },
+          {
+            "display_index": 5,
+            "source_ids": [0],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 6,
+            "source_ids": [1],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 7,
+            "source_ids": [2],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 8,
+            "source_ids": [3],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 9,
+            "source_ids": [6],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 10,
+            "source_ids": [7],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 11,
+            "source_ids": [10],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 12,
+            "source_ids": [13],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 13,
+            "source_ids": [14],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 14,
+            "source_ids": [15],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 15,
+            "source_ids": [16],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 16,
+            "source_ids": [17],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 17,
+            "source_ids": [18],
+            "furigana_ids": []
+          }
+        ],
+        "uncertainties": [
+          "Translation of the product name ガブリカリバー rendered as 'Gaburi Karibā'—original intended English name is uncertain."
+        ],
+        "ocr_lines": [
+          {
+            "id": 0,
+            "text": "WEB取扱説明書 矢印一覧",
+            "bbox": [
+              0.03688029199838638, 0.04829210788011551, 0.30834340304136276, 0.022968195378780365
+            ]
+          },
+          {
+            "id": 1,
+            "text": "■■■ 取り付けます。 |",
+            "bbox": [
+              0.38694074749946594, 0.04711425304412842, 0.18802902102470398, 0.020612485706806183
+            ]
+          },
+          {
+            "id": 2,
+            "text": "取り外します。 |",
+            "bbox": [
+              0.6269649267196655, 0.04593639448285103, 0.14328902959823608, 0.023557130247354507
+            ]
+          },
+          {
+            "id": 3,
+            "text": "可動させます。",
+            "bbox": [
+              0.8192261457443237, 0.048881035298109055, 0.12938326597213745, 0.018256772309541702
+            ]
+          },
+          {
+            "id": 4,
+            "text": "獣電池の遊び方",
+            "bbox": [
+              0.16203144192695618, 0.17608951032161713, 0.18561065196990967, 0.026501774787902832
+            ]
+          },
+          {
+            "id": 5,
+            "text": "※獣電池(パラサガン)を例に説明します。",
+            "bbox": [
+              0.4667472839355469, 0.17491166293621063, 0.3615477681159973, 0.018256768584251404
+            ]
+          },
+          {
+            "id": 6,
+            "text": "チャージ状態",
+            "bbox": [
+              0.4655380845069885, 0.23085983097553253, 0.11487305164337158, 0.018845707178115845
+            ]
+          },
+          {
+            "id": 7,
+            "text": "ボタン",
+            "bbox": [
+              0.7188633680343628, 0.2290930449962616, 0.04836755990982056, 0.01354534924030304
+            ]
+          },
+          {
+            "id": 8,
+            "text": "ボタンを押します",
+            "bbox": [
+              0.10036275535821915, 0.24499410390853882, 0.1275695338845253, 0.015312135219573975
+            ]
+          },
+          {
+            "id": 9,
+            "text": "ボタンを押すたびにプレートが回転し、",
+            "bbox": [
+              0.11668682098388672, 0.26737338304519653, 0.28234583139419556, 0.017078906297683716
+            ]
+          },
+          {
+            "id": 10,
+            "text": "ブレイブイン状態とチャージ状態が",
+            "bbox": [
+              0.11668682098388672, 0.28975266218185425, 0.25937122106552124, 0.017667829990386963
+            ]
+          },
+          {
+            "id": 11,
+            "text": "交互に切り替わります。",
+            "bbox": [
+              0.11608222126960754, 0.3138987123966217, 0.16989117860794067, 0.01590105891227722
+            ]
+          },
+          {
+            "id": 12,
+            "text": "2",
+            "bbox": [
+              0.6910520195960999, 0.2926972806453705, 0.02660214900970459, 0.03062427043914795
+            ]
+          },
+          {
+            "id": 13,
+            "text": "通常攻撃遊び",
+            "bbox": [
+              0.17533253133296967, 0.5777385234832764, 0.16082225739955902, 0.025323927402496338
+            ]
+          },
+          {
+            "id": 14,
+            "text": "ガブリカリバーのトリガーを短押しします",
+            "bbox": [
+              0.09975816309452057, 0.646054208278656, 0.2944377213716507, 0.015901029109954834
+            ]
+          },
+          {
+            "id": 15,
+            "text": "LEDが発光し、剣撃音が鳴ります。",
+            "bbox": [
+              0.1172914132475853, 0.6696113348007202, 0.250302292406559, 0.015901029109954834
+            ]
+          },
+          {
+            "id": 16,
+            "text": "【正面】",
+            "bbox": [
+              0.16565901041030884, 0.7149587869644165, 0.04776298999786377, 0.018256783485412598
+            ]
+          },
+          {
+            "id": 17,
+            "text": "ブレイブイン状態",
+            "bbox": [
+              0.4395405054092407, 0.39399293065071106, 0.15477627515792847, 0.021201401948928833
+            ]
+          },
+          {
+            "id": 18,
+            "text": "2",
+            "bbox": [
+              0.6934703588485718, 0.45877504348754883, 0.015719473361968994, 0.022968173027038574
+            ]
+          },
+          {
+            "id": 19,
+            "text": "LO",
+            "bbox": [
+              0.49153566360473633, 0.9564192891120911, 0.015719473361968994, 0.021790385246276855
+            ]
+          },
+          {
+            "id": 20,
+            "text": "5",
+            "bbox": [
+              0.489117294549942, 0.9587750434875488, 0.019951611757278442, 0.018845677375793457
+            ]
+          },
+          {
+            "id": 21,
+            "text": "トリガー",
+            "bbox": [
+              0.7067714333534241, 0.833922266960144, 0.0592503547668457, 0.015312135219573975
+            ]
+          }
+        ]
+      }
     },
     {
-      "image": "pages/page-5.webp",
       "blocks": [
+        {
+          "text": "WEB取扱説明書 矢印一覧",
+          "translation": "WEB Instruction Manual — Arrow Guide",
+          "bbox": [
+            0.03535800731182098, 0.025462457224726676, 0.311241992688179, 0.017037542775273327
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "■ 取り付けます。| 取り外します。 | 可動させます。",
+          "translation": "■ Attach. | Detach. | Movable.",
+          "bbox": [0.3912, 0.025099999999999997, 0.558336253452301, 0.01564914821982384],
+          "layout": "panel"
+        },
+        {
+          "text": "モード切り替え",
+          "translation": "Mode switching",
+          "bbox": [0.129, 0.10049999999999999, 0.18065708637237549, 0.01806484854221345],
+          "layout": "panel"
+        },
+        {
+          "text": "※獣電池が装填されていない状態でのみ行えます。\n※起動時はガブティラモードです。",
+          "translation": "• Can only be performed when the Beast Battery is not installed.\n• At startup, it is in Gabutira mode.",
+          "bbox": [0.3906, 0.08789999999999999, 0.4495706709861755, 0.02895836011171342],
+          "layout": "panel"
+        },
+        {
+          "text": "ポンプを前後に動かします。\n→動かすたびにモード切り替え音声が鳴り、 モードが表の順番に切り替わります。",
+          "translation": "• Move the pump back and forth.\n• →Each time you move it, a mode-change voice will sound and the mode will switch in the order shown in the table.",
+          "bbox": [0.0988, 0.1394556269645691, 0.5879, 0.02654949712753296],
+          "layout": "panel"
+        },
+        {
+          "text": "順番",
+          "translation": "Order",
+          "bbox": [
+            0.09638519889116287, 0.179387371301651, 0.04531480110883712, 0.014612628698349006
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "モード",
+          "translation": "Mode",
+          "bbox": [0.219, 0.1804, 0.06044560790061951, 0.013250175571441647],
+          "layout": "panel"
+        },
+        {
+          "text": "モード切り替え音声",
+          "translation": "Mode-change voice",
+          "bbox": [0.3501616225242615, 0.1804, 0.1752383774757385, 0.01393276796340942],
+          "layout": "panel"
+        },
+        {
+          "text": "① ガブティラモード\n② パラサガンモード\n3 ステゴッチモード",
+          "translation": "• ① Gabutira Mode\n• ② Parasagan Mode\n• ③ Stegotch Mode",
+          "bbox": [0.10665709829330444, 0.2005, 0.2175015001296997, 0.05990000000000001],
+          "layout": "panel"
+        },
+        {
+          "text": "4",
+          "translation": "4",
+          "bbox": [0.11269939249753952, 0.2599, 0.011500607502460486, 0.008500000000000008],
+          "layout": "panel"
+        },
+        {
+          "text": "ザクトルモード",
+          "translation": "Zaktor Mode",
+          "bbox": [
+            0.1628504500389099, 0.25788567519187927, 0.11304954996109007, 0.02031432480812073
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "5",
+          "translation": "5",
+          "bbox": [0.1133, 0.279, 0.010900000000000007, 0.008506838083267187],
+          "layout": "panel"
+        },
+        {
+          "text": "ドリケラモード",
+          "translation": "Dorikera Mode",
+          "bbox": [
+            0.16345467722415924, 0.2776808843612671, 0.10934532277584075, 0.011532434701919558
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "6",
+          "translation": "6",
+          "bbox": [0.1139, 0.2974761233329773, 0.010300000000000004, 0.009143331527709964],
+          "layout": "panel"
+        },
+        {
+          "text": "⑦\nプレズオンモード\n※⑦の後は①に戻ります。",
+          "translation": "• 7 Press‑on mode\n• ※After 7, it returns to 1.",
+          "bbox": [
+            0.08067522501945495, 0.3148822591304779, 0.21512477498054505, 0.032351532459259036
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "必殺技遊び",
+          "translation": "Special Move Play",
+          "bbox": [
+            0.14895316517353058, 0.38416553592681885, 0.1371468348264694, 0.018734464073181134
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "※獣電池の認識はしません。",
+          "translation": "※Does not recognize Beast Batteries.",
+          "bbox": [0.3906, 0.3845, 0.24715377416610712, 0.01392834019660949],
+          "layout": "panel"
+        },
+        {
+          "text": "①ガブリカリバーのトリガーを長押しします。\n現在のモードに対応した\nブレイブイン効果音が鳴ります。\n②チャージ状態の獣電池のボタンを押します。\n→ブレイブイン状態に切り替わります。\n③ガブリカリバーの下アゴを開きます。\n口開き音が鳴ります。\n④獣電池をガブリカリバーの装填口に\n装填します。\n装填音が鳴ります。\n⑤ ガブリカリバーの下アゴを閉じます。\n→LEDが発光し、\nセリフ「ガブリンチョ!」が鳴ります。\n⑥ポンプを前後に動かします。\n→LEDが発光し、 必殺技待機音が鳴ります。\n⑦ガブリカリバーのトリガーを短押しします。\n→LEDが発光し、セリフ「バモラ!」と\n現在のモードに対応した必殺技音が鳴ります。\n※プテラゴードンモードのみ⑦のセリフが\nセリフ「バモラ!ドッドーン!」に変わります。",
+          "translation": "• 1. Press and hold the Gabrikali Bar trigger. A Brave In sound effect corresponding to the current mode will play.\n• 2. Press the button on a charged Beast Battery. → It switches to Brave In state.\n• 3. Open the Gabrikali Bar lower jaw. → A mouth-opening sound will play.\n• 4. Load the Beast Battery into the Gabrikali Bar loading port. A loading sound will play.\n• 5. Close the Gabrikali Bar lower jaw. → The LED will light and the line \"GABURINCHO!\" will play.\n• 6. Move the pump back and forth. → The LED will light and the finisher standby sound will play.\n• 7. Tap the Gabrikali Bar trigger. → The LED will light, the line \"BAMORA!\" will play, and the finisher sound corresponding to the current mode will play.\n• Note: Only in Pteragordon mode the line in step 7 changes to \"BAMORA! DODDOON!\".",
+          "bbox": [
+            0.09819788789749145, 0.42409728026390076, 0.35470211210250857, 0.26520271973609916
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "ガブティラ!",
+          "translation": "Gabutyra!",
+          "bbox": [0.3462, 0.2031, 0.084, 0.0089]
+        },
+        {
+          "text": "パラサガン!",
+          "translation": "Parasagan!",
+          "bbox": [0.348, 0.2225, 0.0858, 0.0082]
+        },
+        {
+          "text": "ステゴッチ!",
+          "translation": "Stegocchi!",
+          "bbox": [0.3468, 0.2413, 0.0852, 0.0085]
+        },
+        {
+          "text": "ザクトル!",
+          "translation": "Zactor!",
+          "bbox": [0.3468, 0.2597, 0.0695, 0.0096]
+        },
+        {
+          "text": "ドリケラ!",
+          "translation": "Dricera!",
+          "bbox": [0.3474, 0.2785, 0.0659, 0.0096]
+        },
+        {
+          "text": "プテラゴードンモード",
+          "translation": "Pteragordon Mode",
+          "bbox": [0.1644, 0.298, 0.1583, 0.0089]
+        },
+        {
+          "text": "プテラゴードン!",
+          "translation": "Pteragordon!",
+          "bbox": [0.3468, 0.298, 0.1166, 0.0092]
+        },
+        {
+          "text": "プレズオン!",
+          "translation": "Pres-On!",
+          "bbox": [0.3468, 0.3167, 0.0876, 0.0089]
+        },
+        {
+          "text": "ポンプ",
+          "translation": "Pump",
+          "bbox": [0.7517, 0.2051, 0.0508, 0.0082]
+        },
+        {
+          "text": "①",
+          "translation": "①",
+          "bbox": [0.7843, 0.4154, 0.0211, 0.0082]
+        },
+        {
+          "text": "【別角度】",
+          "translation": "[Different angle]",
+          "bbox": [0.255, 0.7113, 0.0628, 0.0099]
+        },
+        {
+          "text": "装填口",
+          "translation": "Loading port",
+          "bbox": [0.2532, 0.7969, 0.0483, 0.0089]
+        },
+        {
+          "text": "[6",
+          "translation": "[6",
+          "bbox": [0.4912, 0.9741, 0.0151, 0.0157]
+        }
+      ],
+      "image": "pages/page-5.webp",
+      "source_blocks": [
         {
           "text": "WEB取扱説明書 矢印一覧",
           "translation": "WEB Instruction Manual — Arrow Guide",
@@ -760,11 +3337,791 @@
           "translation": "[6",
           "bbox": [0.4912, 0.9741, 0.0151, 0.0157]
         }
-      ]
+      ],
+      "layout_provenance": {
+        "version": 2,
+        "plan": {
+          "panels": [
+            {
+              "id": "p0",
+              "kind": "heading",
+              "source_ids": [0]
+            },
+            {
+              "id": "p1",
+              "kind": "heading",
+              "source_ids": [1]
+            },
+            {
+              "id": "p2",
+              "kind": "heading",
+              "source_ids": [2]
+            },
+            {
+              "id": "p3",
+              "kind": "prose",
+              "source_ids": [3]
+            },
+            {
+              "id": "p4",
+              "kind": "prose",
+              "source_ids": [4, 5]
+            },
+            {
+              "id": "p5-a",
+              "kind": "heading",
+              "source_ids": [6]
+            },
+            {
+              "id": "p5-b-a",
+              "kind": "heading",
+              "source_ids": [7]
+            },
+            {
+              "id": "p5-b-b",
+              "kind": "heading",
+              "source_ids": [8]
+            },
+            {
+              "id": "p6-a-a",
+              "kind": "prose",
+              "source_ids": [9, 11, 13]
+            },
+            {
+              "id": "p6-a-b-a",
+              "kind": "prose",
+              "source_ids": [15]
+            },
+            {
+              "id": "p6-a-b-b-a",
+              "kind": "prose",
+              "source_ids": [16]
+            },
+            {
+              "id": "p6-a-b-b-b",
+              "kind": "prose",
+              "source_ids": [18]
+            },
+            {
+              "id": "p6-b-a-a",
+              "kind": "prose",
+              "source_ids": [19]
+            },
+            {
+              "id": "p6-b-a-b-a",
+              "kind": "prose",
+              "source_ids": [21]
+            },
+            {
+              "id": "p6-b-b",
+              "kind": "prose",
+              "source_ids": [24, 25, 27]
+            },
+            {
+              "id": "p7",
+              "kind": "heading",
+              "source_ids": [29]
+            },
+            {
+              "id": "p8",
+              "kind": "prose",
+              "source_ids": [30]
+            },
+            {
+              "id": "p9",
+              "kind": "prose",
+              "source_ids": [32, 33, 34]
+            }
+          ],
+          "furigana": [],
+          "notes": [
+            "Diagram labels and step-number callouts (28, 31, 35, 36) left ungrouped.",
+            "p6: excluded other-column members; retained separately",
+            "Retained p6 source IDs [22] unchanged: illustration-mask check"
+          ]
+        },
+        "mapping": [
+          {
+            "display_index": 0,
+            "panel_id": "p0",
+            "source_ids": [0],
+            "furigana_ids": [],
+            "japanese_items": ["WEB取扱説明書 矢印一覧"]
+          },
+          {
+            "display_index": 1,
+            "panel_id": "p1",
+            "source_ids": [1],
+            "furigana_ids": [],
+            "japanese_items": ["■ 取り付けます。| 取り外します。 | 可動させます。"]
+          },
+          {
+            "display_index": 2,
+            "panel_id": "p2",
+            "source_ids": [2],
+            "furigana_ids": [],
+            "japanese_items": ["モード切り替え"]
+          },
+          {
+            "display_index": 3,
+            "panel_id": "p3",
+            "source_ids": [3],
+            "furigana_ids": [],
+            "japanese_items": [
+              "※獣電池が装填されていない状態でのみ行えます。",
+              "※起動時はガブティラモードです。"
+            ]
+          },
+          {
+            "display_index": 4,
+            "panel_id": "p4",
+            "source_ids": [4, 5],
+            "furigana_ids": [],
+            "japanese_items": [
+              "ポンプを前後に動かします。",
+              "→動かすたびにモード切り替え音声が鳴り、モードが表の順番に切り替わります。"
+            ]
+          },
+          {
+            "display_index": 5,
+            "panel_id": "p5-a",
+            "source_ids": [6],
+            "furigana_ids": [],
+            "japanese_items": ["順番"]
+          },
+          {
+            "display_index": 6,
+            "panel_id": "p5-b-a",
+            "source_ids": [7],
+            "furigana_ids": [],
+            "japanese_items": ["モード"]
+          },
+          {
+            "display_index": 7,
+            "panel_id": "p5-b-b",
+            "source_ids": [8],
+            "furigana_ids": [],
+            "japanese_items": ["モード切り替え音声"]
+          },
+          {
+            "display_index": 8,
+            "panel_id": "p6-a-a",
+            "source_ids": [9, 11, 13],
+            "furigana_ids": [],
+            "japanese_items": ["① ガブティラモード", "② パラサガンモード", "③ ステゴッチモード"]
+          },
+          {
+            "display_index": 9,
+            "panel_id": "p6-a-b-a",
+            "source_ids": [15],
+            "furigana_ids": [],
+            "japanese_items": ["4"]
+          },
+          {
+            "display_index": 10,
+            "panel_id": "p6-a-b-b-a",
+            "source_ids": [16],
+            "furigana_ids": [],
+            "japanese_items": ["ザクトルモード"]
+          },
+          {
+            "display_index": 11,
+            "panel_id": "p6-a-b-b-b",
+            "source_ids": [18],
+            "furigana_ids": [],
+            "japanese_items": ["5"]
+          },
+          {
+            "display_index": 12,
+            "panel_id": "p6-b-a-a",
+            "source_ids": [19],
+            "furigana_ids": [],
+            "japanese_items": ["ドリケラモード"]
+          },
+          {
+            "display_index": 13,
+            "panel_id": "p6-b-a-b-a",
+            "source_ids": [21],
+            "furigana_ids": [],
+            "japanese_items": ["6"]
+          },
+          {
+            "display_index": 14,
+            "panel_id": "p6-b-b",
+            "source_ids": [24, 25, 27],
+            "furigana_ids": [],
+            "japanese_items": ["⑦　プレズオンモード", "※⑦の後は①に戻ります。"]
+          },
+          {
+            "display_index": 15,
+            "panel_id": "p7",
+            "source_ids": [29],
+            "furigana_ids": [],
+            "japanese_items": ["必殺技遊び"]
+          },
+          {
+            "display_index": 16,
+            "panel_id": "p8",
+            "source_ids": [30],
+            "furigana_ids": [],
+            "japanese_items": ["※獣電池の認識はしません。"]
+          },
+          {
+            "display_index": 17,
+            "panel_id": "p9",
+            "source_ids": [32, 33, 34],
+            "furigana_ids": [],
+            "japanese_items": [
+              "①ガブリカリバーのトリガーを長押しします。現在のモードに対応したブレイブイン効果音が鳴ります。",
+              "②チャージ状態の獣電池のボタンを押します。→ブレイブイン状態に切り替わります。",
+              "③ガブリカリバーの下アゴを開きます。→口開き音が鳴ります。",
+              "④獣電池をガブリカリバーの装填口に装填します。装填音が鳴ります。",
+              "⑤ ガブリカリバーの下アゴを閉じます。→LEDが発光し、セリフ「ガブリンチョ!」が鳴ります。",
+              "⑥ポンプを前後に動かします。→LEDが発光し、必殺技待機音が鳴ります。",
+              "⑦ガブリカリバーのトリガーを短押しします。→LEDが発光し、セリフ「バモラ!」と現在のモードに対応した必殺技音が鳴ります。",
+              "※プテラゴードンモードのみ⑦のセリフがセリフ「バモラ!ドッドーン!」に変わります。"
+            ]
+          },
+          {
+            "display_index": 18,
+            "source_ids": [10],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 19,
+            "source_ids": [12],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 20,
+            "source_ids": [14],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 21,
+            "source_ids": [17],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 22,
+            "source_ids": [20],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 23,
+            "source_ids": [22],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 24,
+            "source_ids": [23],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 25,
+            "source_ids": [26],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 26,
+            "source_ids": [28],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 27,
+            "source_ids": [31],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 28,
+            "source_ids": [35],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 29,
+            "source_ids": [36],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 30,
+            "source_ids": [37],
+            "furigana_ids": []
+          }
+        ],
+        "uncertainties": [
+          "The katakana ザクトル may represent a coined name; English rendering 'Zaktor' is a best-effort transliteration and may be incorrect."
+        ],
+        "ocr_lines": [
+          {
+            "id": 0,
+            "text": "WEB取扱説明書 矢印一覧",
+            "bbox": [
+              0.036858007311820984, 0.026962457224726677, 0.3081571012735367, 0.013993175700306892
+            ]
+          },
+          {
+            "id": 1,
+            "text": "■ 取り付けます。| 取り外します。 | 可動させます。",
+            "bbox": [
+              0.39274924993515015, 0.02662116102874279, 0.5552870035171509, 0.012627987191081047
+            ]
+          },
+          {
+            "id": 2,
+            "text": "モード切り替え",
+            "bbox": [
+              0.13051359355449677, 0.10204777866601944, 0.17764349281787872, 0.015017069876194
+            ]
+          },
+          {
+            "id": 3,
+            "text": "※獣電池が装填されていない状態でのみ行えます。",
+            "bbox": [
+              0.3921450078487396, 0.08941979706287384, 0.4465256631374359, 0.011262796819210052
+            ]
+          },
+          {
+            "id": 4,
+            "text": "※起動時はガブティラモードです。",
+            "bbox": [
+              0.3921450078487396, 0.10443685948848724, 0.2972809970378876, 0.010921500623226166
+            ]
+          },
+          {
+            "id": 5,
+            "text": "ポンプを前後に動かします。",
+            "bbox": [
+              0.10211480408906937, 0.1409556269645691, 0.19758307188749313, 0.01023891568183899
+            ]
+          },
+          {
+            "id": 6,
+            "text": "→動かすたびにモード切り替え音声が鳴り、 モードが表の順番に切り替わります。",
+            "bbox": [
+              0.10030211508274078, 0.15494880080223083, 0.5848942846059799, 0.009556323289871216
+            ]
+          },
+          {
+            "id": 7,
+            "text": "順番",
+            "bbox": [
+              0.09788519889116287, 0.180887371301651, 0.04229607433080673, 0.011604100465774536
+            ]
+          },
+          {
+            "id": 8,
+            "text": "モード",
+            "bbox": [
+              0.22054380178451538, 0.18191125988960266, 0.057401806116104126, 0.01023891568183899
+            ]
+          },
+          {
+            "id": 9,
+            "text": "モード切り替え音声",
+            "bbox": [
+              0.3516616225242615, 0.18191125988960266, 0.17220544815063477, 0.010921508073806763
+            ]
+          },
+          {
+            "id": 10,
+            "text": "① ガブティラモード",
+            "bbox": [
+              0.10815709829330444, 0.20204778015613556, 0.1812688708305359, 0.010580211877822876
+            ]
+          },
+          {
+            "id": 11,
+            "text": "ガブティラ!",
+            "bbox": [
+              0.3462235629558563, 0.20307166874408722, 0.08398792147636414, 0.008873730897903442
+            ]
+          },
+          {
+            "id": 12,
+            "text": "② パラサガンモード",
+            "bbox": [
+              0.10876133292913437, 0.22218430042266846, 0.18670693784952164, 0.008873715996742249
+            ]
+          },
+          {
+            "id": 13,
+            "text": "パラサガン!",
+            "bbox": [
+              0.3480362594127655, 0.22252559661865234, 0.08580058813095093, 0.008191123604774475
+            ]
+          },
+          {
+            "id": 14,
+            "text": "3 ステゴッチモード",
+            "bbox": [
+              0.11540785431861877, 0.2409556359052658, 0.17643505334854126, 0.009556308388710022
+            ]
+          },
+          {
+            "id": 15,
+            "text": "ステゴッチ!",
+            "bbox": [
+              0.34682780504226685, 0.2412969321012497, 0.08519637584686279, 0.008532419800758362
+            ]
+          },
+          {
+            "id": 16,
+            "text": "4",
+            "bbox": [
+              0.11419939249753952, 0.2614334523677826, 0.008459217846393585, 0.0054607391357421875
+            ]
+          },
+          {
+            "id": 17,
+            "text": "ザクトルモード",
+            "bbox": [
+              0.1643504500389099, 0.2593856751918793, 0.10996979475021362, 0.009897589683532715
+            ]
+          },
+          {
+            "id": 18,
+            "text": "ザクトル!",
+            "bbox": [
+              0.34682780504226685, 0.25972697138786316, 0.06948637962341309, 0.009556293487548828
+            ]
+          },
+          {
+            "id": 19,
+            "text": "5",
+            "bbox": [
+              0.11480362713336945, 0.28054606914520264, 0.00785498321056366, 0.005460768938064575
+            ]
+          },
+          {
+            "id": 20,
+            "text": "ドリケラモード",
+            "bbox": [
+              0.16495467722415924, 0.2791808843612671, 0.10634441673755646, 0.008532434701919556
+            ]
+          },
+          {
+            "id": 21,
+            "text": "ドリケラ!",
+            "bbox": [
+              0.347432017326355, 0.2784982919692993, 0.0658610463142395, 0.009556323289871216
+            ]
+          },
+          {
+            "id": 22,
+            "text": "6",
+            "bbox": [
+              0.11540785431861877, 0.2989761233329773, 0.007250756025314331, 0.006143331527709961
+            ]
+          },
+          {
+            "id": 23,
+            "text": "プテラゴードンモード",
+            "bbox": [
+              0.1643504500389099, 0.29795220494270325, 0.15830814838409424, 0.008873730897903442
+            ]
+          },
+          {
+            "id": 24,
+            "text": "プテラゴードン!",
+            "bbox": [
+              0.34682780504226685, 0.29795220494270325, 0.11661630868911743, 0.009215027093887329
+            ]
+          },
+          {
+            "id": 25,
+            "text": "⑦",
+            "bbox": [
+              0.10876133292913437, 0.3163822591304779, 0.01993957906961441, 0.009214997291564941
+            ]
+          },
+          {
+            "id": 26,
+            "text": "プレズオンモード",
+            "bbox": [
+              0.1643504500389099, 0.3163822591304779, 0.12990936636924744, 0.009897589683532715
+            ]
+          },
+          {
+            "id": 27,
+            "text": "プレズオン!",
+            "bbox": [
+              0.34682780504226685, 0.3167235553264618, 0.08761328458786011, 0.008873701095581055
+            ]
+          },
+          {
+            "id": 28,
+            "text": "※⑦の後は①に戻ります。",
+            "bbox": [
+              0.08217522501945496, 0.3372013568878174, 0.18731117248535156, 0.008532434701919556
+            ]
+          },
+          {
+            "id": 29,
+            "text": "ポンプ",
+            "bbox": [
+              0.7516616582870483, 0.20511946082115173, 0.05075526237487793, 0.008191123604774475
+            ]
+          },
+          {
+            "id": 30,
+            "text": "必殺技遊び",
+            "bbox": [
+              0.15045316517353058, 0.38566553592681885, 0.13413898646831512, 0.015699654817581177
+            ]
+          },
+          {
+            "id": 31,
+            "text": "※獣電池の認識はしません。",
+            "bbox": [
+              0.3921450078487396, 0.38600683212280273, 0.24410876631736755, 0.010921508073806763
+            ]
+          },
+          {
+            "id": 32,
+            "text": "①",
+            "bbox": [
+              0.7842900156974792, 0.41535836458206177, 0.02114802598953247, 0.008191108703613281
+            ]
+          },
+          {
+            "id": 33,
+            "text": "①ガブリカリバーのトリガーを長押しします。",
+            "bbox": [
+              0.09969788789749146, 0.42559728026390076, 0.31842899322509766, 0.009556293487548828
+            ]
+          },
+          {
+            "id": 34,
+            "text": "現在のモードに対応した",
+            "bbox": [
+              0.11661631613969803, 0.4392491579055786, 0.17764350026845932, 0.009214997291564941
+            ]
+          },
+          {
+            "id": 35,
+            "text": "ブレイブイン効果音が鳴ります。",
+            "bbox": [
+              0.11722054332494736, 0.4522184431552887, 0.23444107919931412, 0.009897589683532715
+            ]
+          },
+          {
+            "id": 36,
+            "text": "②チャージ状態の獣電池のボタンを押します。",
+            "bbox": [
+              0.09969788789749146, 0.46621161699295044, 0.33111780881881714, 0.009214997291564941
+            ]
+          },
+          {
+            "id": 37,
+            "text": "→ブレイブイン状態に切り替わります。",
+            "bbox": [
+              0.10030211508274078, 0.47883957624435425, 0.2815709859132767, 0.01023891568183899
+            ]
+          },
+          {
+            "id": 38,
+            "text": "③ガブリカリバーの下アゴを開きます。",
+            "bbox": [
+              0.09969788789749146, 0.4921501576900482, 0.27915406227111816, 0.008873730897903442
+            ]
+          },
+          {
+            "id": 39,
+            "text": "口開き音が鳴ります。",
+            "bbox": [0.11842900514602661, 0.50614333152771, 0.1534743309020996, 0.00887376070022583]
+          },
+          {
+            "id": 40,
+            "text": "④獣電池をガブリカリバーの装填口に",
+            "bbox": [
+              0.09969788789749146, 0.5191126465797424, 0.273716002702713, 0.009556293487548828
+            ]
+          },
+          {
+            "id": 41,
+            "text": "装填します。",
+            "bbox": [
+              0.11661631613969803, 0.532423198223114, 0.08821751922369003, 0.008873701095581055
+            ]
+          },
+          {
+            "id": 42,
+            "text": "装填音が鳴ります。",
+            "bbox": [
+              0.11661631613969803, 0.5464164018630981, 0.13957702368497849, 0.008532404899597168
+            ]
+          },
+          {
+            "id": 43,
+            "text": "⑤ ガブリカリバーの下アゴを閉じます。",
+            "bbox": [
+              0.09969788789749146, 0.5587030649185181, 0.2761329412460327, 0.008873701095581055
+            ]
+          },
+          {
+            "id": 44,
+            "text": "→LEDが発光し、",
+            "bbox": [
+              0.10090634226799011, 0.5723549723625183, 0.12749244272708893, 0.008532404899597168
+            ]
+          },
+          {
+            "id": 45,
+            "text": "セリフ「ガブリンチョ!」が鳴ります。",
+            "bbox": [
+              0.11722054332494736, 0.585324227809906, 0.25075528770685196, 0.009214997291564941
+            ]
+          },
+          {
+            "id": 46,
+            "text": "⑥ポンプを前後に動かします。",
+            "bbox": [
+              0.09969788789749146, 0.5982935428619385, 0.2163141965866089, 0.009897589683532715
+            ]
+          },
+          {
+            "id": 47,
+            "text": "→LEDが発光し、 必殺技待機音が鳴ります。",
+            "bbox": [
+              0.10090634226799011, 0.611945390701294, 0.31842899322509766, 0.009214997291564941
+            ]
+          },
+          {
+            "id": 48,
+            "text": "⑦ガブリカリバーのトリガーを短押しします。",
+            "bbox": [
+              0.09969788789749146, 0.6242320537567139, 0.3178247809410095, 0.010580241680145264
+            ]
+          },
+          {
+            "id": 49,
+            "text": "→LEDが発光し、セリフ「バモラ!」と",
+            "bbox": [
+              0.10030211508274078, 0.6385665535926819, 0.26344411075115204, 0.008873701095581055
+            ]
+          },
+          {
+            "id": 50,
+            "text": "現在のモードに対応した必殺技音が鳴ります。",
+            "bbox": [
+              0.11661631613969803, 0.6518771052360535, 0.3347431942820549, 0.009215056896209717
+            ]
+          },
+          {
+            "id": 51,
+            "text": "※プテラゴードンモードのみ⑦のセリフが",
+            "bbox": [
+              0.10151057690382004, 0.6651877164840698, 0.3045317307114601, 0.008873701095581055
+            ]
+          },
+          {
+            "id": 52,
+            "text": "セリフ「バモラ!ドッドーン!」に変わります。",
+            "bbox": [
+              0.11722054332494736, 0.6781569719314575, 0.3039274886250496, 0.009556353092193604
+            ]
+          },
+          {
+            "id": 53,
+            "text": "【別角度】",
+            "bbox": [
+              0.25498488545417786, 0.7112628221511841, 0.06283989548683167, 0.009897589683532715
+            ]
+          },
+          {
+            "id": 54,
+            "text": "装填口",
+            "bbox": [
+              0.25317221879959106, 0.796928346157074, 0.048338353633880615, 0.008873701095581055
+            ]
+          },
+          {
+            "id": 55,
+            "text": "[6",
+            "bbox": [
+              0.49123868346214294, 0.9740614295005798, 0.015105754137039185, 0.015699684619903564
+            ]
+          }
+        ]
+      }
     },
     {
-      "image": "pages/page-6.webp",
       "blocks": [
+        {
+          "text": "特殊必殺技遊び",
+          "translation": "Special Finishing Move Play",
+          "bbox": [0.12357553398609161, 0.1517, 0.19212446601390837, 0.025499999999999995],
+          "layout": "panel"
+        },
+        {
+          "text": "※獣電池が装填されている状態でのみ行えます。",
+          "translation": "Can only be performed when the Beast Battery is installed.",
+          "bbox": [0.39, 0.14916394209861755, 0.43023112916946404, 0.02043605790138245],
+          "layout": "panel"
+        },
+        {
+          "text": "トリガーを長押しします。\n長押しするたびに表の順番に音声が鳴ります。",
+          "translation": "• Press and hold the trigger.\n• Each time you press and hold, audio will play in the order listed in the table.",
+          "bbox": [0.09638519889116287, 0.2099, 0.35891480110883706, 0.05979999999999999],
+          "layout": "panel"
+        },
+        {
+          "text": "順番\n音声",
+          "translation": "• Order\n• Voice\n• 1. Slashing Musou Sword Sound",
+          "bbox": [
+            0.09638519889116287, 0.2691843614578247, 0.17943504589796067, 0.04998672890663147
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "※②の後は①に戻ります。",
+          "translation": "After ②, return to ①.",
+          "bbox": [0.08067522501945495, 0.3606, 0.18972477498054507, 0.01629999999999998],
+          "layout": "panel"
+        },
+        {
+          "text": "獣電池の取り外し方",
+          "translation": "How to remove the Beast Battery",
+          "bbox": [0.0994, 0.4944, 0.23805165610313417, 0.02803970775604242],
+          "layout": "panel"
+        },
+        {
+          "text": "①本体の下アゴを開きます。\n→取り外し音が鳴り、獣電池が少し飛び出します。\n②獣電池を手で取り外します。",
+          "translation": "• ① Open the lower jaw of the main unit. → A removal sound will be heard, and the Beast Battery will pop out slightly.\n• ② Remove the Beast Battery by hand.",
+          "bbox": [
+            0.09819788789749145, 0.5546797618865967, 0.3619123785495758, 0.08222023811340329
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "※獣電池が勢いよく飛び出す可能性が\nあります。必ず本体を上向きにした状態で\n下アゴを開き、人や物には向けないよう\n注意してください。",
+          "translation": "The beast battery may shoot out forcefully. Always hold the main unit facing upward and open the lower jaw, and take care not to point it at people or objects.",
+          "bbox": [0.1, 0.6363958225250245, 0.32325227403640744, 0.07603369045257558],
+          "layout": "panel"
+        },
+        {
+          "text": "WEB取扱説明書 矢印一覧 ■取り付けます。 | 取り外します。 |",
+          "translation": "WEB Instruction Manual — Arrow legend: ■ Attach. | Remove. | Make movable.",
+          "bbox": [0.0369, 0.0393, 0.7347, 0.022]
+        },
+        {
+          "text": "可動させます。",
+          "translation": "Make movable.",
+          "bbox": [0.8193, 0.0424, 0.1281, 0.0158]
+        },
+        {
+          "text": "① 斬撃無双剣音\n2 トリニティストレイザー音",
+          "translation": "① Zangeki Musou-ken sound\n② Trinity Strazor sound",
+          "bbox": [0.1082, 0.3029, 0.2423, 0.0439]
+        },
+        {
+          "text": "7",
+          "translation": "7",
+          "bbox": [0.4906, 0.9632, 0.0187, 0.0153]
+        }
+      ],
+      "image": "pages/page-6.webp",
+      "source_blocks": [
         {
           "text": "WEB取扱説明書 矢印一覧 ■取り付けます。 | 取り外します。 |",
           "translation": "WEB Instruction Manual — Arrow legend: ■ Attach. | Remove. | Make movable.",
@@ -830,11 +4187,433 @@
           "translation": "7",
           "bbox": [0.4906, 0.9632, 0.0187, 0.0153]
         }
-      ]
+      ],
+      "layout_provenance": {
+        "version": 2,
+        "plan": {
+          "panels": [
+            {
+              "id": "p0",
+              "kind": "heading",
+              "source_ids": [2]
+            },
+            {
+              "id": "p1",
+              "kind": "prose",
+              "source_ids": [3]
+            },
+            {
+              "id": "p2",
+              "kind": "prose",
+              "source_ids": [4]
+            },
+            {
+              "id": "p3-a",
+              "kind": "prose",
+              "source_ids": [5, 6]
+            },
+            {
+              "id": "p3-b-b",
+              "kind": "prose",
+              "source_ids": [8]
+            },
+            {
+              "id": "p4",
+              "kind": "heading",
+              "source_ids": [9]
+            },
+            {
+              "id": "p5",
+              "kind": "prose",
+              "source_ids": [10]
+            },
+            {
+              "id": "p6",
+              "kind": "prose",
+              "source_ids": [11]
+            }
+          ],
+          "furigana": [],
+          "notes": ["Retained p3 source IDs [7] unchanged: illustration-mask check"]
+        },
+        "mapping": [
+          {
+            "display_index": 0,
+            "panel_id": "p0",
+            "source_ids": [2],
+            "furigana_ids": [],
+            "japanese_items": ["特殊必殺技遊び"]
+          },
+          {
+            "display_index": 1,
+            "panel_id": "p1",
+            "source_ids": [3],
+            "furigana_ids": [],
+            "japanese_items": ["※獣電池が装填されている状態でのみ行えます。"]
+          },
+          {
+            "display_index": 2,
+            "panel_id": "p2",
+            "source_ids": [4],
+            "furigana_ids": [],
+            "japanese_items": [
+              "トリガーを長押しします。",
+              "長押しするたびに表の順番に音声が鳴ります。"
+            ]
+          },
+          {
+            "display_index": 3,
+            "panel_id": "p3-a",
+            "source_ids": [5, 6],
+            "furigana_ids": [],
+            "japanese_items": ["順番", "音声", "① 斬撃無双剣音"]
+          },
+          {
+            "display_index": 4,
+            "panel_id": "p3-b-b",
+            "source_ids": [8],
+            "furigana_ids": [],
+            "japanese_items": ["※②の後は①に戻ります。"]
+          },
+          {
+            "display_index": 5,
+            "panel_id": "p4",
+            "source_ids": [9],
+            "furigana_ids": [],
+            "japanese_items": ["獣電池の取り外し方"]
+          },
+          {
+            "display_index": 6,
+            "panel_id": "p5",
+            "source_ids": [10],
+            "furigana_ids": [],
+            "japanese_items": [
+              "①本体の下アゴを開きます。→取り外し音が鳴り、獣電池が少し飛び出します。",
+              "②獣電池を手で取り外します。"
+            ]
+          },
+          {
+            "display_index": 7,
+            "panel_id": "p6",
+            "source_ids": [11],
+            "furigana_ids": [],
+            "japanese_items": [
+              "※獣電池が勢いよく飛び出す可能性があります。必ず本体を上向きにした状態で下アゴを開き、人や物には向けないよう注意してください。"
+            ]
+          },
+          {
+            "display_index": 8,
+            "source_ids": [0],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 9,
+            "source_ids": [1],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 10,
+            "source_ids": [7],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 11,
+            "source_ids": [12],
+            "furigana_ids": []
+          }
+        ],
+        "uncertainties": [],
+        "ocr_lines": [
+          {
+            "id": 0,
+            "text": "WEB取扱説明書 矢印一覧 ■取り付けます。 | 取り外します。 |",
+            "bbox": [
+              0.036858007311820984, 0.03932584449648857, 0.7347431927919388, 0.021961182355880737
+            ]
+          },
+          {
+            "id": 1,
+            "text": "可動させます。",
+            "bbox": [
+              0.8193353414535522, 0.04239019379019737, 0.12809669971466064, 0.015832483768463135
+            ]
+          },
+          {
+            "id": 2,
+            "text": "特殊必殺技遊び",
+            "bbox": [
+              0.1250755339860916, 0.15321756899356842, 0.18912385404109955, 0.022471904754638672
+            ]
+          },
+          {
+            "id": 3,
+            "text": "※獣電池が装填されている状態でのみ行えます。",
+            "bbox": [
+              0.3915407955646515, 0.15066394209861755, 0.4271903336048126, 0.017364665865898132
+            ]
+          },
+          {
+            "id": 4,
+            "text": "トリガーを長押しします。",
+            "bbox": [
+              0.10151057690382004, 0.21144025027751923, 0.1752265766263008, 0.014811024069786072
+            ]
+          },
+          {
+            "id": 5,
+            "text": "長押しするたびに表の順番に音声が鳴ります。",
+            "bbox": [
+              0.11661631613969803, 0.23186925053596497, 0.3371601328253746, 0.014300316572189331
+            ]
+          },
+          {
+            "id": 6,
+            "text": "順番",
+            "bbox": [
+              0.09788519889116287, 0.2706843614578247, 0.041691847145557404, 0.01787540316581726
+            ]
+          },
+          {
+            "id": 7,
+            "text": "音声",
+            "bbox": [
+              0.23383685946464539, 0.27119508385658264, 0.04048338532447815, 0.017364680767059326
+            ]
+          },
+          {
+            "id": 8,
+            "text": "① 斬撃無双剣音",
+            "bbox": [
+              0.10815709829330444, 0.3028600513935089, 0.15709969401359558, 0.014811038970947266
+            ]
+          },
+          {
+            "id": 9,
+            "text": "2 トリニティストレイザー音",
+            "bbox": [
+              0.11117824912071228, 0.3319714069366455, 0.23927491903305054, 0.014811038970947266
+            ]
+          },
+          {
+            "id": 10,
+            "text": "※②の後は①に戻ります。",
+            "bbox": [
+              0.08217522501945496, 0.3621041774749756, 0.18670696020126343, 0.013278871774673462
+            ]
+          },
+          {
+            "id": 11,
+            "text": "獣電池の取り外し方",
+            "bbox": [
+              0.10090634226799011, 0.49591419100761414, 0.23504531383514404, 0.025025516748428345
+            ]
+          },
+          {
+            "id": 12,
+            "text": "①本体の下アゴを開きます。",
+            "bbox": [
+              0.09969788789749146, 0.5561797618865967, 0.20422959327697754, 0.014811038970947266
+            ]
+          },
+          {
+            "id": 13,
+            "text": "→取り外し音が鳴り、獣電池が少し飛び出します。",
+            "bbox": [
+              0.10030211508274078, 0.5766087770462036, 0.3583081513643265, 0.014300286769866943
+            ]
+          },
+          {
+            "id": 14,
+            "text": "②獣電池を手で取り外します。",
+            "bbox": [
+              0.09969788789749146, 0.5965270400047302, 0.21812689304351807, 0.014300346374511719
+            ]
+          },
+          {
+            "id": 15,
+            "text": "※獣電池が勢いよく飛び出す可能性が",
+            "bbox": [
+              0.10151057690382004, 0.6378958225250244, 0.28096676617860794, 0.013789594173431396
+            ]
+          },
+          {
+            "id": 16,
+            "text": "あります。必ず本体を上向きにした状態で",
+            "bbox": [
+              0.11722054332494736, 0.657814085483551, 0.3045317307114601, 0.013789594173431396
+            ]
+          },
+          {
+            "id": 17,
+            "text": "下アゴを開き、人や物には向けないよう",
+            "bbox": [
+              0.11661631613969803, 0.6767109036445618, 0.28761329501867294, 0.014300346374511719
+            ]
+          },
+          {
+            "id": 18,
+            "text": "注意してください。",
+            "bbox": [
+              0.11661631613969803, 0.697650671005249, 0.13716011494398117, 0.013278841972351074
+            ]
+          },
+          {
+            "id": 19,
+            "text": "7",
+            "bbox": [
+              0.4906344413757324, 0.9632278084754944, 0.018731117248535156, 0.015321731567382812
+            ]
+          }
+        ]
+      }
     },
     {
-      "image": "pages/page-7.webp",
       "blocks": [
+        {
+          "text": "ガブルキャノンへの合体",
+          "translation": "Combining to form the Gabble Cannon",
+          "bbox": [0.11209516531229019, 0.0868, 0.2864048346877098, 0.015766984236240386],
+          "layout": "panel"
+        },
+        {
+          "text": "※セット内容の状態から始めます。\n※別売りのガブリボルバー-MEMORIAL EDITION-を使用します。",
+          "translation": "• Start from the condition of the items as included in the set.\n• Use the separately sold Gaburivolver -MEMORIAL EDITION-.",
+          "bbox": [0.09457250988483429, 0.12, 0.6139274901151657, 0.03790000000000002],
+          "layout": "panel"
+        },
+        {
+          "text": "ガブリカリバー-MEMORIAL EDITION-の合体準備",
+          "translation": "Preparing the GaburiCalibur -MEMORIAL EDITION- for combination",
+          "bbox": [0.1, 0.1573618904352188, 0.4797477259635925, 0.013438109564781198],
+          "layout": "panel"
+        },
+        {
+          "text": "①グリップロック解除ボタンを押しながら\n図のように変形します。\n②合体用差し替え刃パーツを矢印の方向に\n取り付けます。",
+          "translation": "• ① While pressing the grip-lock release button, transform as shown in the illustration.\n• ② Attach the replacement blade part for combination in the direction of the arrow.",
+          "bbox": [
+            0.09819788789749145, 0.18285092270374298, 0.3148021121025086, 0.04514907729625703
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "※スリットを合わせて\n取り付けます。",
+          "translation": "Attach by aligning the slits.",
+          "bbox": [
+            0.0969894260764122, 0.36216331577301025, 0.15891057392358782, 0.0229366842269898
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "※取り外す場合は②の矢印の逆方向に取り外します。",
+          "translation": "If removing, remove in the direction opposite to arrow ②.",
+          "bbox": [0.0843, 0.4273678169250488, 0.3885, 0.011032183074951185],
+          "layout": "panel"
+        },
+        {
+          "text": "ガブリボルバー-MEMORIAL EDITION- の合体準備",
+          "translation": "Preparing the Gaburevolver -MEMORIAL EDITION- for combination",
+          "bbox": [0.1, 0.4531532332897186, 0.484, 0.012846766710281343],
+          "layout": "panel"
+        },
+        {
+          "text": "レバーを下げます。\n口が開き、口開き音が鳴ります。",
+          "translation": "• Lower the lever.\n• The mouth opens, and a mouth-opening sound plays.",
+          "bbox": [0.0994, 0.4783, 0.2501362594127655, 0.0237],
+          "layout": "panel"
+        },
+        {
+          "text": "合体方法",
+          "translation": "How to combine",
+          "bbox": [
+            0.09457250988483429, 0.5995670065879822, 0.08462749011516574, 0.012532993412017635
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "ガブリボルバーのレール部分に\nガブリカリバーの窪みを\nスライドさせ取り付けます。\n合体音が鳴ります。",
+          "translation": "• Slide the recess of the Gabri Caliber into the rail section of the Gabri Revolver to attach it.\n• The combining sound will play.",
+          "bbox": [0.0988, 0.6238705024719239, 0.22900000000000004, 0.046272078037261855],
+          "layout": "panel"
+        },
+        {
+          "text": "ガブルキャノン完成!!",
+          "translation": "Gabble Cannon Complete!",
+          "bbox": [
+            0.09517673707008362, 0.9288000000000001, 0.3341232629299164, 0.021721935462951536
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "※ガブルキャノンが完成した状態で起動すると、\n単品で起動された状態ではなく、合体状態で起動されます。",
+          "translation": "If the Gaburu Cannon is powered on while fully assembled, it will start up in its combined (joined) state, not as an individual unit.",
+          "bbox": [
+            0.45046375250816345, 0.9297000000000001, 0.44953624749183657, 0.023199999999999887
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "WEB取扱説明書 矢印一覧 ■取り付けます。|",
+          "translation": "WEB Instruction Manual — Arrow legend  ■ Attach.",
+          "bbox": [0.0369, 0.0234, 0.5366, 0.0113]
+        },
+        {
+          "text": "取り外します。 | 可動させます。",
+          "translation": "Remove. | Make movable.",
+          "bbox": [0.6284, 0.0231, 0.319, 0.0113]
+        },
+        {
+          "text": "【拡大図】",
+          "translation": "[Enlarged view]",
+          "bbox": [0.0937, 0.2848, 0.0634, 0.0089]
+        },
+        {
+          "text": "スリット",
+          "translation": "Slot",
+          "bbox": [0.1009, 0.3471, 0.058, 0.0074]
+        },
+        {
+          "text": "合体用差し替え刃パーツ",
+          "translation": "Interchangeable blade part for combination",
+          "bbox": [0.2973, 0.2662, 0.1849, 0.0077]
+        },
+        {
+          "text": "グリップロック解除ボタン",
+          "translation": "Grip lock release button",
+          "bbox": [0.6659, 0.16, 0.1879, 0.0089]
+        },
+        {
+          "text": "ガブリボルバー-MEMORIAL EDITION-",
+          "translation": "Gaburevolver -MEMORIAL EDITION-",
+          "bbox": [0.3837, 0.5691, 0.3172, 0.0077]
+        },
+        {
+          "text": "【別角度】",
+          "translation": "[Alternate view]",
+          "bbox": [0.3692, 0.5999, 0.0628, 0.0086]
+        },
+        {
+          "text": "窪み",
+          "translation": "Indentation",
+          "bbox": [0.5305, 0.6621, 0.0356, 0.0077]
+        },
+        {
+          "text": "レール",
+          "translation": "Rail",
+          "bbox": [0.6139, 0.7822, 0.0502, 0.0068]
+        },
+        {
+          "text": "レバー",
+          "translation": "Lever",
+          "bbox": [0.7752, 0.5056, 0.0477, 0.0071]
+        },
+        {
+          "text": "8",
+          "translation": "8",
+          "bbox": [0.4894, 0.9793, 0.0181, 0.0083]
+        }
+      ],
+      "image": "pages/page-7.webp",
+      "source_blocks": [
         {
           "text": "WEB取扱説明書 矢印一覧 ■取り付けます。|",
           "translation": "WEB Instruction Manual — Arrow legend  ■ Attach.",
@@ -975,11 +4754,561 @@
           "translation": "8",
           "bbox": [0.4894, 0.9793, 0.0181, 0.0083]
         }
-      ]
+      ],
+      "layout_provenance": {
+        "version": 2,
+        "plan": {
+          "panels": [
+            {
+              "id": "p1",
+              "kind": "heading",
+              "source_ids": [2]
+            },
+            {
+              "id": "p2",
+              "kind": "prose",
+              "source_ids": [3, 4]
+            },
+            {
+              "id": "p3",
+              "kind": "heading",
+              "source_ids": [5]
+            },
+            {
+              "id": "p4",
+              "kind": "prose",
+              "source_ids": [6]
+            },
+            {
+              "id": "p5",
+              "kind": "prose",
+              "source_ids": [9]
+            },
+            {
+              "id": "p6",
+              "kind": "prose",
+              "source_ids": [11]
+            },
+            {
+              "id": "p7",
+              "kind": "heading",
+              "source_ids": [12]
+            },
+            {
+              "id": "p8",
+              "kind": "prose",
+              "source_ids": [13]
+            },
+            {
+              "id": "p9",
+              "kind": "heading",
+              "source_ids": [16]
+            },
+            {
+              "id": "p10",
+              "kind": "prose",
+              "source_ids": [18, 19, 20, 21]
+            },
+            {
+              "id": "p11",
+              "kind": "heading",
+              "source_ids": [22]
+            },
+            {
+              "id": "p12",
+              "kind": "prose",
+              "source_ids": [26]
+            }
+          ],
+          "furigana": [],
+          "notes": [
+            "Conservative panel fallback: Panel crosses page columns",
+            "Retained p0 unchanged: Panel crosses page columns"
+          ]
+        },
+        "mapping": [
+          {
+            "display_index": 0,
+            "panel_id": "p1",
+            "source_ids": [2],
+            "furigana_ids": [],
+            "japanese_items": ["ガブルキャノンへの合体"]
+          },
+          {
+            "display_index": 1,
+            "panel_id": "p2",
+            "source_ids": [3, 4],
+            "furigana_ids": [],
+            "japanese_items": [
+              "※セット内容の状態から始めます。",
+              "※別売りのガブリボルバー-MEMORIAL EDITION-を使用します。"
+            ]
+          },
+          {
+            "display_index": 2,
+            "panel_id": "p3",
+            "source_ids": [5],
+            "furigana_ids": [],
+            "japanese_items": ["ガブリカリバー-MEMORIAL EDITION-の合体準備"]
+          },
+          {
+            "display_index": 3,
+            "panel_id": "p4",
+            "source_ids": [6],
+            "furigana_ids": [],
+            "japanese_items": [
+              "①グリップロック解除ボタンを押しながら図のように変形します。",
+              "②合体用差し替え刃パーツを矢印の方向に取り付けます。"
+            ]
+          },
+          {
+            "display_index": 4,
+            "panel_id": "p5",
+            "source_ids": [9],
+            "furigana_ids": [],
+            "japanese_items": ["※スリットを合わせて取り付けます。"]
+          },
+          {
+            "display_index": 5,
+            "panel_id": "p6",
+            "source_ids": [11],
+            "furigana_ids": [],
+            "japanese_items": ["※取り外す場合は②の矢印の逆方向に取り外します。"]
+          },
+          {
+            "display_index": 6,
+            "panel_id": "p7",
+            "source_ids": [12],
+            "furigana_ids": [],
+            "japanese_items": ["ガブリボルバー-MEMORIAL EDITION- の合体準備"]
+          },
+          {
+            "display_index": 7,
+            "panel_id": "p8",
+            "source_ids": [13],
+            "furigana_ids": [],
+            "japanese_items": ["レバーを下げます。", "口が開き、口開き音が鳴ります。"]
+          },
+          {
+            "display_index": 8,
+            "panel_id": "p9",
+            "source_ids": [16],
+            "furigana_ids": [],
+            "japanese_items": ["合体方法"]
+          },
+          {
+            "display_index": 9,
+            "panel_id": "p10",
+            "source_ids": [18, 19, 20, 21],
+            "furigana_ids": [],
+            "japanese_items": [
+              "ガブリボルバーのレール部分にガブリカリバーの窪みをスライドさせ取り付けます。",
+              "合体音が鳴ります。"
+            ]
+          },
+          {
+            "display_index": 10,
+            "panel_id": "p11",
+            "source_ids": [22],
+            "furigana_ids": [],
+            "japanese_items": ["ガブルキャノン完成!!"]
+          },
+          {
+            "display_index": 11,
+            "panel_id": "p12",
+            "source_ids": [26],
+            "furigana_ids": [],
+            "japanese_items": [
+              "※ガブルキャノンが完成した状態で起動すると、単品で起動された状態ではなく、合体状態で起動されます。"
+            ]
+          },
+          {
+            "display_index": 12,
+            "source_ids": [0],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 13,
+            "source_ids": [1],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 14,
+            "source_ids": [7],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 15,
+            "source_ids": [8],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 16,
+            "source_ids": [10],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 17,
+            "source_ids": [14],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 18,
+            "source_ids": [15],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 19,
+            "source_ids": [17],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 20,
+            "source_ids": [23],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 21,
+            "source_ids": [24],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 22,
+            "source_ids": [25],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 23,
+            "source_ids": [27],
+            "furigana_ids": []
+          }
+        ],
+        "uncertainties": [],
+        "ocr_lines": [
+          {
+            "id": 0,
+            "text": "WEB取扱説明書 矢印一覧 ■取り付けます。|",
+            "bbox": [
+              0.036858007311820984, 0.02341434545814991, 0.5365559011697769, 0.011262597516179085
+            ]
+          },
+          {
+            "id": 1,
+            "text": "取り外します。 | 可動させます。",
+            "bbox": [
+              0.6283987760543823, 0.02311796136200428, 0.31903326511383057, 0.011262597516179085
+            ]
+          },
+          {
+            "id": 2,
+            "text": "ガブルキャノンへの合体",
+            "bbox": [
+              0.11359516531229019, 0.0883224681019783, 0.28338368982076645, 0.012744516134262085
+            ]
+          },
+          {
+            "id": 3,
+            "text": "※セット内容の状態から始めます。",
+            "bbox": [
+              0.09607250988483429, 0.12151748687028885, 0.29909364879131317, 0.010077066719532013
+            ]
+          },
+          {
+            "id": 4,
+            "text": "※別売りのガブリボルバー-MEMORIAL EDITION-を使用します。",
+            "bbox": [
+              0.09788519889116287, 0.13455839455127716, 0.6090634390711784, 0.010077059268951416
+            ]
+          },
+          {
+            "id": 5,
+            "text": "ガブリカリバー-MEMORIAL EDITION-の合体準備",
+            "bbox": [
+              0.10151057690382004, 0.1588618904352188, 0.4767371490597725, 0.010373443365097046
+            ]
+          },
+          {
+            "id": 6,
+            "text": "①グリップロック解除ボタンを押しながら",
+            "bbox": [
+              0.09969788789749146, 0.18435092270374298, 0.29486405849456787, 0.008298754692077637
+            ]
+          },
+          {
+            "id": 7,
+            "text": "図のように変形します。",
+            "bbox": [
+              0.11782477051019669, 0.19620628654956818, 0.16435044258832932, 0.007705986499786377
+            ]
+          },
+          {
+            "id": 8,
+            "text": "②合体用差し替え刃パーツを矢印の方向に",
+            "bbox": [
+              0.09969788789749146, 0.20776526629924774, 0.31178247928619385, 0.008002370595932007
+            ]
+          },
+          {
+            "id": 9,
+            "text": "取り付けます。",
+            "bbox": [
+              0.11661631613969803, 0.2193242460489273, 0.10392748564481735, 0.007113218307495117
+            ]
+          },
+          {
+            "id": 10,
+            "text": "【拡大図】",
+            "bbox": [
+              0.09365558624267578, 0.2848251461982727, 0.0634441077709198, 0.008891522884368896
+            ]
+          },
+          {
+            "id": 11,
+            "text": "スリット",
+            "bbox": [
+              0.10090634226799011, 0.347065806388855, 0.05800604820251465, 0.007409602403640747
+            ]
+          },
+          {
+            "id": 12,
+            "text": "※スリットを合わせて",
+            "bbox": [
+              0.0984894260764122, 0.36366331577301025, 0.15589124709367752, 0.008298754692077637
+            ]
+          },
+          {
+            "id": 13,
+            "text": "取り付けます。",
+            "bbox": [
+              0.11299093812704086, 0.3758150637149811, 0.10574018210172653, 0.007409602403640747
+            ]
+          },
+          {
+            "id": 14,
+            "text": "合体用差し替え刃パーツ",
+            "bbox": [
+              0.2972809672355652, 0.266152948141098, 0.18489426374435425, 0.007705986499786377
+            ]
+          },
+          {
+            "id": 15,
+            "text": "※取り外す場合は②の矢印の逆方向に取り外します。",
+            "bbox": [
+              0.08580060303211212, 0.42886781692504883, 0.3854984790086746, 0.008002370595932007
+            ]
+          },
+          {
+            "id": 16,
+            "text": "ガブリボルバー-MEMORIAL EDITION- の合体準備",
+            "bbox": [
+              0.10151057690382004, 0.45465323328971863, 0.480966754257679, 0.009780675172805786
+            ]
+          },
+          {
+            "id": 17,
+            "text": "レバーを下げます。",
+            "bbox": [
+              0.10090634226799011, 0.47984588146209717, 0.13655589520931244, 0.008298754692077637
+            ]
+          },
+          {
+            "id": 18,
+            "text": "口が開き、口開き音が鳴ります。",
+            "bbox": [
+              0.11842900514602661, 0.491997629404068, 0.2296072542667389, 0.008002370595932007
+            ]
+          },
+          {
+            "id": 19,
+            "text": "グリップロック解除ボタン",
+            "bbox": [
+              0.6658610105514526, 0.16004742681980133, 0.18791544437408447, 0.008891522884368896
+            ]
+          },
+          {
+            "id": 20,
+            "text": "ガブリボルバー-MEMORIAL EDITION-",
+            "bbox": [
+              0.38368579745292664, 0.5690575242042542, 0.317220538854599, 0.007705986499786377
+            ]
+          },
+          {
+            "id": 21,
+            "text": "合体方法",
+            "bbox": [
+              0.09607250988483429, 0.6010670065879822, 0.08157099783420563, 0.009484291076660156
+            ]
+          },
+          {
+            "id": 22,
+            "text": "【別角度】",
+            "bbox": [
+              0.369184285402298, 0.5998814702033997, 0.06283989548683167, 0.008595108985900879
+            ]
+          },
+          {
+            "id": 23,
+            "text": "ガブリボルバーのレール部分に",
+            "bbox": [
+              0.10030211508274078, 0.6253705024719238, 0.22598187625408173, 0.008595108985900879
+            ]
+          },
+          {
+            "id": 24,
+            "text": "ガブリカリバーの窪みを",
+            "bbox": [
+              0.10030211508274078, 0.637225866317749, 0.1728096753358841, 0.00800234079360962
+            ]
+          },
+          {
+            "id": 25,
+            "text": "スライドさせ取り付けます。",
+            "bbox": [
+              0.10030211508274078, 0.6490812301635742, 0.19577039778232574, 0.007705986499786377
+            ]
+          },
+          {
+            "id": 26,
+            "text": "合体音が鳴ります。",
+            "bbox": [
+              0.11661631613969803, 0.6609365940093994, 0.13836856931447983, 0.007705986499786377
+            ]
+          },
+          {
+            "id": 27,
+            "text": "ガブルキャノン完成!!",
+            "bbox": [
+              0.09667673707008362, 0.9303497076034546, 0.3311178386211395, 0.01867222785949707
+            ]
+          },
+          {
+            "id": 28,
+            "text": "窪み",
+            "bbox": [0.5305135846138, 0.6621221303939819, 0.03564953804016113, 0.007705986499786377]
+          },
+          {
+            "id": 29,
+            "text": "レール",
+            "bbox": [
+              0.6138972640037537, 0.7821576595306396, 0.050151050090789795, 0.006816864013671875
+            ]
+          },
+          {
+            "id": 30,
+            "text": "レバー",
+            "bbox": [
+              0.7752265930175781, 0.5056313276290894, 0.04773414134979248, 0.007113218307495117
+            ]
+          },
+          {
+            "id": 31,
+            "text": "※ガブルキャノンが完成した状態で起動すると、",
+            "bbox": [
+              0.45196375250816345, 0.9312388896942139, 0.3504531681537628, 0.008595108985900879
+            ]
+          },
+          {
+            "id": 32,
+            "text": "単品で起動された状態ではなく、合体状態で起動されます。",
+            "bbox": [
+              0.46767371892929077, 0.9430942535400391, 0.4308156967163086, 0.008298754692077637
+            ]
+          },
+          {
+            "id": 33,
+            "text": "8",
+            "bbox": [
+              0.48942598700523376, 0.9792531132698059, 0.018126875162124634, 0.008298754692077637
+            ]
+          }
+        ]
+      }
     },
     {
-      "image": "pages/page-8.webp",
       "blocks": [
+        {
+          "text": "ガブルキャノンの遊び方",
+          "translation": "How to play with the Gabble Cannon",
+          "bbox": [0.11149093812704086, 0.0927, 0.2870090618729591, 0.016643138277530667],
+          "layout": "panel"
+        },
+        {
+          "text": "※ガブルキャノンが完成した状態で行います。",
+          "translation": "Perform this with the Gabul Cannon fully assembled.",
+          "bbox": [
+            0.46556947684288025, 0.0917953804731369, 0.4018305231571197, 0.014104619526863094
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "剣撃遊び",
+          "translation": "Swordplay",
+          "bbox": [
+            0.09638519889116287, 0.12879727339744568, 0.08521480110883711, 0.011902726602554314
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "①合体用差し替え刃パーツを矢印の方向に\n動かします。",
+          "translation": "①Move the replacement blade part for combining in the direction of the arrow.",
+          "bbox": [
+            0.09819788789749145, 0.15567899799346924, 0.3148021121025086, 0.023872861146926883
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "②トリガーを短押しします。\n剣撃音が鳴ります。\n※3回に1回ガブリボルバーの現在のモードに対応したキャラクターのセリフが鳴ります。",
+          "translation": "• ② Short-press the trigger.\n• A sword-slash sound will play.\n• One time in three, a character line corresponding to the Gabri Revolver's current mode will play.",
+          "bbox": [0.09819788789749145, 0.3527, 0.6525468020439147, 0.03589999999999999],
+          "layout": "panel"
+        },
+        {
+          "text": "銃撃遊び",
+          "translation": "Shooting play",
+          "bbox": [
+            0.09638519889116287, 0.5377000000000001, 0.08461480110883712, 0.012503372478484986
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "①合体用差し替え刃パーツを矢印の方向に\n動かします。",
+          "translation": "1. Move the replacement blade part for combining in the direction of the arrow.",
+          "bbox": [0.0988, 0.564597378730774, 0.3148, 0.023556628704070937],
+          "layout": "panel"
+        },
+        {
+          "text": "WEB取扱説明書 矢印一覧",
+          "translation": "WEB Instruction Manual — Arrow Legend",
+          "bbox": [0.0369, 0.0256, 0.3082, 0.012]
+        },
+        {
+          "text": "取り付けます。 | 取り外します。 | 可動させます。",
+          "translation": "Attach. | Remove. | Move.",
+          "bbox": [0.4181, 0.0247, 0.5299, 0.012]
+        },
+        {
+          "text": "②トリガーを長押しします。\n長押ししている間、連射銃撃音が鳴ります。\n※トリガーを離すことで音声が止まります。",
+          "translation": "② Press and hold the trigger.\nWhile the trigger is held, rapid-fire shooting sounds will play.\n※Releasing the trigger will stop the sounds.",
+          "bbox": [0.0997, 0.7577, 0.3287, 0.0329]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.4888, 0.9772, 0.0224, 0.0108]
+        },
+        {
+          "text": "トリガー",
+          "translation": "Trigger",
+          "bbox": [0.6272, 0.4927, 0.0586, 0.0079]
+        },
+        {
+          "text": "9",
+          "translation": "9",
+          "bbox": [0.6453, 0.8444, 0.0091, 0.0028]
+        }
+      ],
+      "image": "pages/page-8.webp",
+      "source_blocks": [
         {
           "text": "WEB取扱説明書 矢印一覧",
           "translation": "WEB Instruction Manual — Arrow Legend",
@@ -1060,11 +5389,371 @@
           "translation": "9",
           "bbox": [0.6453, 0.8444, 0.0091, 0.0028]
         }
-      ]
+      ],
+      "layout_provenance": {
+        "version": 2,
+        "plan": {
+          "panels": [
+            {
+              "id": "p0",
+              "kind": "heading",
+              "source_ids": [2]
+            },
+            {
+              "id": "p1",
+              "kind": "prose",
+              "source_ids": [3]
+            },
+            {
+              "id": "p2",
+              "kind": "heading",
+              "source_ids": [4]
+            },
+            {
+              "id": "p3",
+              "kind": "prose",
+              "source_ids": [5, 6]
+            },
+            {
+              "id": "p4",
+              "kind": "prose",
+              "source_ids": [7, 8]
+            },
+            {
+              "id": "p5",
+              "kind": "heading",
+              "source_ids": [9]
+            },
+            {
+              "id": "p6",
+              "kind": "prose",
+              "source_ids": [10, 11]
+            }
+          ],
+          "furigana": [],
+          "notes": ["Panel p7 retained original English after failed automatic checks"]
+        },
+        "mapping": [
+          {
+            "display_index": 0,
+            "panel_id": "p0",
+            "source_ids": [2],
+            "furigana_ids": [],
+            "japanese_items": ["ガブルキャノンの遊び方"]
+          },
+          {
+            "display_index": 1,
+            "panel_id": "p1",
+            "source_ids": [3],
+            "furigana_ids": [],
+            "japanese_items": ["※ガブルキャノンが完成した状態で行います。"]
+          },
+          {
+            "display_index": 2,
+            "panel_id": "p2",
+            "source_ids": [4],
+            "furigana_ids": [],
+            "japanese_items": ["剣撃遊び"]
+          },
+          {
+            "display_index": 3,
+            "panel_id": "p3",
+            "source_ids": [5, 6],
+            "furigana_ids": [],
+            "japanese_items": ["①合体用差し替え刃パーツを矢印の方向に\n動かします。"]
+          },
+          {
+            "display_index": 4,
+            "panel_id": "p4",
+            "source_ids": [7, 8],
+            "furigana_ids": [],
+            "japanese_items": [
+              "②トリガーを短押しします。",
+              "剣撃音が鳴ります。",
+              "※3回に1回ガブリボルバーの現在のモードに対応したキャラクターのセリフが鳴ります。"
+            ]
+          },
+          {
+            "display_index": 5,
+            "panel_id": "p5",
+            "source_ids": [9],
+            "furigana_ids": [],
+            "japanese_items": ["銃撃遊び"]
+          },
+          {
+            "display_index": 6,
+            "panel_id": "p6",
+            "source_ids": [10, 11],
+            "furigana_ids": [],
+            "japanese_items": ["①合体用差し替え刃パーツを矢印の方向に動かします。"]
+          },
+          {
+            "display_index": 7,
+            "source_ids": [0],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 8,
+            "source_ids": [1],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 9,
+            "source_ids": [12],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 10,
+            "source_ids": [13],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 11,
+            "source_ids": [14],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 12,
+            "source_ids": [15],
+            "furigana_ids": []
+          }
+        ],
+        "uncertainties": [
+          "Romanization of ガブルキャノン rendered as 'Gabul Cannon' — original product name spelling not provided.",
+          "Transliteration of 「ガブリボルバー」 rendered as \"Gabri Revolver\" — original romanization uncertain."
+        ],
+        "ocr_lines": [
+          {
+            "id": 0,
+            "text": "WEB取扱説明書 矢印一覧",
+            "bbox": [
+              0.036858007311820984, 0.02561669796705246, 0.3081571012735367, 0.012017711997032166
+            ]
+          },
+          {
+            "id": 1,
+            "text": "取り付けます。 | 取り外します。 | 可動させます。",
+            "bbox": [
+              0.4181268811225891, 0.024667931720614433, 0.5299093723297119, 0.012017710134387016
+            ]
+          },
+          {
+            "id": 2,
+            "text": "ガブルキャノンの遊び方",
+            "bbox": [
+              0.11299093812704086, 0.09424415230751038, 0.2839879170060158, 0.013598985970020294
+            ]
+          },
+          {
+            "id": 3,
+            "text": "※ガブルキャノンが完成した状態で行います。",
+            "bbox": [
+              0.46706947684288025, 0.0932953804731369, 0.39879152178764343, 0.011068947613239288
+            ]
+          },
+          {
+            "id": 4,
+            "text": "剣撃遊び",
+            "bbox": [
+              0.09788519889116287, 0.13029727339744568, 0.08217521756887436, 0.008855164051055908
+            ]
+          },
+          {
+            "id": 5,
+            "text": "①合体用差し替え刃パーツを矢印の方向に",
+            "bbox": [
+              0.09969788789749146, 0.15717899799346924, 0.31178247928619385, 0.008538901805877686
+            ]
+          },
+          {
+            "id": 6,
+            "text": "動かします。",
+            "bbox": [
+              0.11661631613969803, 0.16951297223567963, 0.08700906485319138, 0.008538886904716492
+            ]
+          },
+          {
+            "id": 7,
+            "text": "②トリガーを短押しします。",
+            "bbox": [
+              0.09969788789749146, 0.3542062044143677, 0.1945619285106659, 0.00790637731552124
+            ]
+          },
+          {
+            "id": 8,
+            "text": "剣撃音が鳴ります。",
+            "bbox": [
+              0.11661631613969803, 0.3668564260005951, 0.1377643570303917, 0.008222639560699463
+            ]
+          },
+          {
+            "id": 9,
+            "text": "※3回に1回ガブリボルバーの現在のモードに対応したキャラクターのセリフが鳴ります。",
+            "bbox": [
+              0.10090634226799011, 0.37855786085128784, 0.6483383476734161, 0.008538901805877686
+            ]
+          },
+          {
+            "id": 10,
+            "text": "銃撃遊び",
+            "bbox": [
+              0.09788519889116287, 0.5392156839370728, 0.08157099038362503, 0.009487688541412354
+            ]
+          },
+          {
+            "id": 11,
+            "text": "①合体用差し替え刃パーツを矢印の方向に",
+            "bbox": [
+              0.10030211508274078, 0.5660973787307739, 0.31178246438503265, 0.008538901805877686
+            ]
+          },
+          {
+            "id": 12,
+            "text": "動かします。",
+            "bbox": [
+              0.11661631613969803, 0.5784313678741455, 0.0876132920384407, 0.008222639560699463
+            ]
+          },
+          {
+            "id": 13,
+            "text": "②トリガーを長押しします。",
+            "bbox": [
+              0.09969788789749146, 0.7577482461929321, 0.19395768642425537, 0.008222639560699463
+            ]
+          },
+          {
+            "id": 14,
+            "text": "長押ししている間、連射銃撃音が鳴ります。",
+            "bbox": [
+              0.11661631613969803, 0.7700822353363037, 0.31178247183561325, 0.008538901805877686
+            ]
+          },
+          {
+            "id": 15,
+            "text": "※トリガーを離すことで音声が止まります。",
+            "bbox": [
+              0.10151057690382004, 0.7820999622344971, 0.3123866990208626, 0.008538901805877686
+            ]
+          },
+          {
+            "id": 16,
+            "text": "9",
+            "bbox": [
+              0.48882174491882324, 0.9772295951843262, 0.022356510162353516, 0.010752677917480469
+            ]
+          },
+          {
+            "id": 17,
+            "text": "トリガー",
+            "bbox": [
+              0.627190351486206, 0.4927261173725128, 0.05861026048660278, 0.007906407117843628
+            ]
+          },
+          {
+            "id": 18,
+            "text": "9",
+            "bbox": [
+              0.6453171968460083, 0.8444022536277771, 0.009063482284545898, 0.0028463006019592285
+            ]
+          }
+        ]
+      }
     },
     {
-      "image": "pages/page-9.webp",
       "blocks": [
+        {
+          "text": "矢印一覧",
+          "translation": "Arrow legend",
+          "bbox": [0.2613, 0.028499999999999998, 0.08521510858535769, 0.015100000000000002],
+          "layout": "panel"
+        },
+        {
+          "text": "取り外します。 | 可動させます。",
+          "translation": "• Remove.\n• Make movable.",
+          "bbox": [
+            0.6268987760543824, 0.027050513088703154, 0.3226374773979186, 0.016949486911296843
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "ガブルキャノンの遊び方",
+          "translation": "How to play with the Gaburu Cannon",
+          "bbox": [
+            0.11209516531229019, 0.10757759517431259, 0.2864048346877098, 0.018739388763904574
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "強銃撃遊び",
+          "translation": "Power Shot Play",
+          "bbox": [0.09638519889116287, 0.1493, 0.10451480110883715, 0.014000000000000012],
+          "layout": "panel"
+        },
+        {
+          "text": "①ポンプを1回前後に動かします。\n→セリフ「バモラ!」が鳴ります。\n②トリガーを短押しします。\n強銃撃音が鳴ります。\n③ポンプをもう1回前後に動かします。\nセリフ「ムーチョ!」が鳴ります。\n④トリガーを短押しします。\n強銃撃音が鳴ります。\n※ポンプを動かすたびに、\nセリフ「バモラ!」とセリフ「ムーチョ!」が\n交互に鳴ります。",
+          "translation": "• 1) Move the pump back and forth one time. → The line \"Bamora!\" will play.\n• 2) Press the trigger briefly. → A strong gunshot sound will play.\n• 3) Move the pump back and forth one more time. → The line \"Mucho!\" will play.\n• 4) Press the trigger briefly. → A strong gunshot sound will play.\n• ※ Each time you move the pump, the line \"Bamora!\" and the line \"Mucho!\" will play alternately.",
+          "bbox": [0.09819788789749145, 0.1800519779920578, 0.3045105724334717, 0.1556480220079422],
+          "layout": "panel"
+        },
+        {
+          "text": "ガブルキャノンの合体解除の仕方",
+          "translation": "How to separate the Gaburu Cannon",
+          "bbox": [
+            0.11028247630596161, 0.5607000000000001, 0.3939365683794021, 0.019130874443054058
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "ガブリボルバー底面の\n合体ロック解除ボタンを押しながら、\n矢印の方向にガブリカリバーを取り外します。\n合体解除音が鳴ります。",
+          "translation": "• While pressing the combination lock release button on the bottom of the Gaburi Revolver, remove the Gaburi Caliber in the direction of the arrow.\n• A separation-release sound will play.",
+          "bbox": [
+            0.09819788789749145, 0.6031851873397828, 0.32750211210250857, 0.05571481266021716
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "WEB取扱説明書",
+          "translation": "WEB Instruction Manual",
+          "bbox": [0.0375, 0.0326, 0.1662, 0.0143]
+        },
+        {
+          "text": "取り付けます。 |",
+          "translation": "Attach. |",
+          "bbox": [0.4181, 0.0289, 0.1553, 0.0132]
+        },
+        {
+          "text": "【底面】",
+          "translation": "[Bottom]",
+          "bbox": [0.2598, 0.8071, 0.0465, 0.0099]
+        },
+        {
+          "text": "合体ロック解除ボタン",
+          "translation": "Combination lock release button",
+          "bbox": [0.4743, 0.8152, 0.1625, 0.0102]
+        },
+        {
+          "text": "合体ロック解除ボタン",
+          "translation": "Combination lock release button",
+          "bbox": [0.4743, 0.9242, 0.1625, 0.0099]
+        },
+        {
+          "text": "10",
+          "translation": "10",
+          "bbox": [0.4846, 0.9736, 0.0356, 0.0128]
+        },
+        {
+          "text": "②④",
+          "translation": "②④",
+          "bbox": [0.7063, 0.4312, 0.0332, 0.0084]
+        },
+        {
+          "text": "0",
+          "translation": "0",
+          "bbox": [0.8211, 0.4433, 0.0091, 0.0059]
+        }
+      ],
+      "image": "pages/page-9.webp",
+      "source_blocks": [
         {
           "text": "WEB取扱説明書",
           "translation": "WEB Instruction Manual",
@@ -1145,7 +5834,350 @@
           "translation": "0",
           "bbox": [0.8211, 0.4433, 0.0091, 0.0059]
         }
-      ]
+      ],
+      "layout_provenance": {
+        "version": 2,
+        "plan": {
+          "panels": [
+            {
+              "id": "p0",
+              "kind": "heading",
+              "source_ids": [1]
+            },
+            {
+              "id": "p1",
+              "kind": "prose",
+              "source_ids": [3]
+            },
+            {
+              "id": "p2",
+              "kind": "heading",
+              "source_ids": [4]
+            },
+            {
+              "id": "p3",
+              "kind": "heading",
+              "source_ids": [5]
+            },
+            {
+              "id": "p4",
+              "kind": "prose",
+              "source_ids": [6, 7]
+            },
+            {
+              "id": "p5",
+              "kind": "heading",
+              "source_ids": [8]
+            },
+            {
+              "id": "p6",
+              "kind": "prose",
+              "source_ids": [9]
+            }
+          ],
+          "furigana": [],
+          "notes": ["p1: excluded other-column members; retained separately"]
+        },
+        "mapping": [
+          {
+            "display_index": 0,
+            "panel_id": "p0",
+            "source_ids": [1],
+            "furigana_ids": [],
+            "japanese_items": ["矢印一覧"]
+          },
+          {
+            "display_index": 1,
+            "panel_id": "p1",
+            "source_ids": [3],
+            "furigana_ids": [],
+            "japanese_items": ["取り外します。", "可動させます。"]
+          },
+          {
+            "display_index": 2,
+            "panel_id": "p2",
+            "source_ids": [4],
+            "furigana_ids": [],
+            "japanese_items": ["ガブルキャノンの遊び方"]
+          },
+          {
+            "display_index": 3,
+            "panel_id": "p3",
+            "source_ids": [5],
+            "furigana_ids": [],
+            "japanese_items": ["強銃撃遊び"]
+          },
+          {
+            "display_index": 4,
+            "panel_id": "p4",
+            "source_ids": [6, 7],
+            "furigana_ids": [],
+            "japanese_items": [
+              "①ポンプを1回前後に動かします。→セリフ「バモラ!」が鳴ります。",
+              "②トリガーを短押しします。→強銃撃音が鳴ります。",
+              "③ポンプをもう1回前後に動かします。→セリフ「ムーチョ!」が鳴ります。",
+              "④トリガーを短押しします。→強銃撃音が鳴ります。",
+              "※ポンプを動かすたびに、セリフ「バモラ!」とセリフ「ムーチョ!」が交互に鳴ります。"
+            ]
+          },
+          {
+            "display_index": 5,
+            "panel_id": "p5",
+            "source_ids": [8],
+            "furigana_ids": [],
+            "japanese_items": ["ガブルキャノンの合体解除の仕方"]
+          },
+          {
+            "display_index": 6,
+            "panel_id": "p6",
+            "source_ids": [9],
+            "furigana_ids": [],
+            "japanese_items": [
+              "ガブリボルバー底面の合体ロック解除ボタンを押しながら、矢印の方向にガブリカリバーを取り外します。",
+              "合体解除音が鳴ります。"
+            ]
+          },
+          {
+            "display_index": 7,
+            "source_ids": [0],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 8,
+            "source_ids": [2],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 9,
+            "source_ids": [10],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 10,
+            "source_ids": [11],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 11,
+            "source_ids": [12],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 12,
+            "source_ids": [13],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 13,
+            "source_ids": [14],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 14,
+            "source_ids": [15],
+            "furigana_ids": []
+          }
+        ],
+        "uncertainties": [],
+        "ocr_lines": [
+          {
+            "id": 0,
+            "text": "WEB取扱説明書",
+            "bbox": [
+              0.03746223449707031, 0.03257686644792557, 0.1661631464958191, 0.014275256544351578
+            ]
+          },
+          {
+            "id": 1,
+            "text": "矢印一覧",
+            "bbox": [
+              0.2628398835659027, 0.03001464158296585, 0.08217522501945496, 0.012079063802957535
+            ]
+          },
+          {
+            "id": 2,
+            "text": "取り付けます。 |",
+            "bbox": [
+              0.4181268811225891, 0.02891654521226883, 0.1552870273590088, 0.013177160173654556
+            ]
+          },
+          {
+            "id": 3,
+            "text": "取り外します。 | 可動させます。",
+            "bbox": [
+              0.6283987760543823, 0.028550513088703156, 0.3196374773979187, 0.013909224420785904
+            ]
+          },
+          {
+            "id": 4,
+            "text": "ガブルキャノンの遊び方",
+            "bbox": [
+              0.11359516531229019, 0.10907759517431259, 0.28338368982076645, 0.01573938876390457
+            ]
+          },
+          {
+            "id": 5,
+            "text": "強銃撃遊び",
+            "bbox": [
+              0.09788519889116287, 0.15080526471138, 0.10151057690382004, 0.010980978608131409
+            ]
+          },
+          {
+            "id": 6,
+            "text": "①ポンプを1回前後に動かします。",
+            "bbox": [
+              0.09969788789749146, 0.1815519779920578, 0.2471299171447754, 0.010248899459838867
+            ]
+          },
+          {
+            "id": 7,
+            "text": "→セリフ「バモラ!」が鳴ります。",
+            "bbox": [
+              0.10030211508274078, 0.19509516656398773, 0.22477342188358307, 0.010614931583404541
+            ]
+          },
+          {
+            "id": 8,
+            "text": "②トリガーを短押しします。",
+            "bbox": [
+              0.09969788789749146, 0.20973645150661469, 0.19395768642425537, 0.010248914361000061
+            ]
+          },
+          {
+            "id": 9,
+            "text": "強銃撃音が鳴ります。",
+            "bbox": [
+              0.11661631613969803, 0.2247437834739685, 0.1552870199084282, 0.009882867336273193
+            ]
+          },
+          {
+            "id": 10,
+            "text": "③ポンプをもう1回前後に動かします。",
+            "bbox": [
+              0.09969788789749146, 0.23792093992233276, 0.2761329412460327, 0.011346995830535889
+            ]
+          },
+          {
+            "id": 11,
+            "text": "セリフ「ムーチョ!」が鳴ります。",
+            "bbox": [
+              0.11782477051019669, 0.2529282569885254, 0.21993958204984665, 0.009882867336273193
+            ]
+          },
+          {
+            "id": 12,
+            "text": "④トリガーを短押しします。",
+            "bbox": [
+              0.09969788789749146, 0.26720350980758667, 0.1945619285106659, 0.00951683521270752
+            ]
+          },
+          {
+            "id": 13,
+            "text": "強銃撃音が鳴ります。",
+            "bbox": [
+              0.11722054332494736, 0.28147876262664795, 0.15407855063676834, 0.010248899459838867
+            ]
+          },
+          {
+            "id": 14,
+            "text": "※ポンプを動かすたびに、",
+            "bbox": [
+              0.10151057690382004, 0.29575401544570923, 0.1879153922200203, 0.00951683521270752
+            ]
+          },
+          {
+            "id": 15,
+            "text": "セリフ「バモラ!」とセリフ「ムーチョ!」が",
+            "bbox": [
+              0.11782477051019669, 0.30966323614120483, 0.28338368982076645, 0.010248929262161255
+            ]
+          },
+          {
+            "id": 16,
+            "text": "交互に鳴ります。",
+            "bbox": [
+              0.11661631613969803, 0.3235724866390228, 0.12265860289335251, 0.010614931583404541
+            ]
+          },
+          {
+            "id": 17,
+            "text": "ガブルキャノンの合体解除の仕方",
+            "bbox": [
+              0.11178247630596161, 0.5622254610061646, 0.39093656837940216, 0.01610541343688965
+            ]
+          },
+          {
+            "id": 18,
+            "text": "ガブリボルバー底面の",
+            "bbox": [
+              0.10030211508274078, 0.6046851873397827, 0.16072507202625275, 0.009882867336273193
+            ]
+          },
+          {
+            "id": 19,
+            "text": "合体ロック解除ボタンを押しながら、",
+            "bbox": [
+              0.10030211508274078, 0.618960440158844, 0.2604229599237442, 0.009882926940917969
+            ]
+          },
+          {
+            "id": 20,
+            "text": "矢印の方向にガブリカリバーを取り外します。",
+            "bbox": [
+              0.09969788789749146, 0.6328697204589844, 0.32447129487991333, 0.010248899459838867
+            ]
+          },
+          {
+            "id": 21,
+            "text": "合体解除音が鳴ります。",
+            "bbox": [
+              0.11661631613969803, 0.6475110054016113, 0.1728096529841423, 0.009882867336273193
+            ]
+          },
+          {
+            "id": 22,
+            "text": "【底面】",
+            "bbox": [
+              0.2598187327384949, 0.8071010112762451, 0.04652568697929382, 0.009882867336273193
+            ]
+          },
+          {
+            "id": 23,
+            "text": "合体ロック解除ボタン",
+            "bbox": [
+              0.4743202328681946, 0.8151537179946899, 0.16253775358200073, 0.010248899459838867
+            ]
+          },
+          {
+            "id": 24,
+            "text": "合体ロック解除ボタン",
+            "bbox": [
+              0.4743202328681946, 0.9242313504219055, 0.16253775358200073, 0.009882867336273193
+            ]
+          },
+          {
+            "id": 25,
+            "text": "10",
+            "bbox": [
+              0.48459213972091675, 0.9736456871032715, 0.03564953804016113, 0.012811124324798584
+            ]
+          },
+          {
+            "id": 26,
+            "text": "②④",
+            "bbox": [
+              0.7063444256782532, 0.43118593096733093, 0.03323262929916382, 0.008418768644332886
+            ]
+          },
+          {
+            "id": 27,
+            "text": "0",
+            "bbox": [
+              0.8211480379104614, 0.44326502084732056, 0.009063422679901123, 0.005856513977050781
+            ]
+          }
+        ]
+      }
     }
   ]
 }

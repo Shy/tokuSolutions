@@ -9,12 +9,96 @@
     "pages": 5,
     "blocks": 77,
     "thumbnail": "pages/page-0.webp",
-    "tags": ["dx", "kamen-rider", "sentai"]
+    "tags": ["dx", "kamen-rider", "sentai"],
+    "semantic_layout": 1
   },
   "pages": [
     {
-      "image": "pages/page-0.webp",
       "blocks": [
+        {
+          "text": "Use the patterns below with your Master Ressha to unlock various sounds in\nyour DX ToQ Changer.",
+          "translation": "Use the patterns below with your Master Ressha to unlock various sounds in your DX ToQ Changer.",
+          "bbox": [0.23673529481887817, 0.047099999999999996, 0.7024117498397826, 0.0496],
+          "layout": "panel"
+        },
+        {
+          "text": "Blue means that the peg should be raised, while White pegs should be pressed\nin. To reset all pegs, press the button on top of the Master Ressha",
+          "translation": "Blue means that the peg should be raised, while White pegs should be pressed in. To reset all pegs, press the button on top of the Master Ressha",
+          "bbox": [0.2367, 0.0962, 0.7024470446586608, 0.03393636016845704],
+          "layout": "panel"
+        },
+        {
+          "text": "Rangers & Power Ups",
+          "translation": "Rangers & Power-Ups",
+          "bbox": [
+            0.037899999999999996, 0.1948636428117752, 0.24183528647422792, 0.020336357188224796
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "Aux & Weapons",
+          "translation": "Aux & Weapons",
+          "bbox": [0.0373, 0.7171000000000001, 0.17714116973876953, 0.02030910434722888],
+          "layout": "panel"
+        },
+        {
+          "text": "RED RESSHA",
+          "translation": "RED RESSHA",
+          "bbox": [0.0788, 0.2632, 0.0906, 0.0082]
+        },
+        {
+          "text": "BLUE RESSHA",
+          "translation": "BLUE RESSHA",
+          "bbox": [0.2629, 0.2632, 0.0982, 0.0077]
+        },
+        {
+          "text": "YELLOW RESSHA",
+          "translation": "YELLOW RESSHA",
+          "bbox": [0.44, 0.2632, 0.12, 0.0077]
+        },
+        {
+          "text": "GREEN RESSHA",
+          "translation": "GREEN RESSHA",
+          "bbox": [0.6329, 0.2632, 0.1106, 0.0082]
+        },
+        {
+          "text": "PINK RESSHA",
+          "translation": "PINK RESSHA",
+          "bbox": [0.83, 0.2632, 0.0935, 0.0082]
+        },
+        {
+          "text": "BUILD RESSHA",
+          "translation": "BUILD RESSHA",
+          "bbox": [0.0724, 0.4877, 0.1029, 0.0077]
+        },
+        {
+          "text": "DRILL RESSHA",
+          "translation": "DRILL RESSHA",
+          "bbox": [0.0735, 0.7914, 0.1012, 0.0077]
+        },
+        {
+          "text": "FIRE RESSHA",
+          "translation": "FIRE RESSHA",
+          "bbox": [0.2659, 0.7914, 0.0918, 0.0077]
+        },
+        {
+          "text": "DIESEL RESSHA",
+          "translation": "DIESEL RESSHA",
+          "bbox": [0.4453, 0.7914, 0.11, 0.0077]
+        },
+        {
+          "text": "TANK RESSHA",
+          "translation": "TANK RESSHA",
+          "bbox": [0.6394, 0.7914, 0.0976, 0.0077]
+        },
+        {
+          "text": "CAR CARRIER\nRESSHA",
+          "translation": "CAR CARRIER\nRESSHA",
+          "bbox": [0.8288, 0.7859, 0.0959, 0.0186]
+        }
+      ],
+      "image": "pages/page-0.webp",
+      "source_blocks": [
         {
           "text": "Use the patterns below with your Master Ressha to unlock various sounds in\nyour DX ToQ Changer.",
           "translation": "Use the patterns below with your Master Ressha to unlock various sounds in your DX ToQ Changer.",
@@ -90,11 +174,356 @@
           "translation": "CAR CARRIER\nRESSHA",
           "bbox": [0.8288, 0.7859, 0.0959, 0.0186]
         }
-      ]
+      ],
+      "layout_provenance": {
+        "version": 2,
+        "plan": {
+          "panels": [
+            {
+              "id": "p0",
+              "kind": "prose",
+              "source_ids": [0]
+            },
+            {
+              "id": "p1",
+              "kind": "prose",
+              "source_ids": [1]
+            },
+            {
+              "id": "p2",
+              "kind": "heading",
+              "source_ids": [2]
+            },
+            {
+              "id": "p3",
+              "kind": "heading",
+              "source_ids": [9]
+            }
+          ],
+          "furigana": [],
+          "notes": []
+        },
+        "mapping": [
+          {
+            "display_index": 0,
+            "panel_id": "p0",
+            "source_ids": [0],
+            "furigana_ids": [],
+            "japanese_items": [
+              "下のパターンをMaster Resshaで使って、DX ToQ Changerのさまざまなサウンドをアンロックしてください。"
+            ]
+          },
+          {
+            "display_index": 1,
+            "panel_id": "p1",
+            "source_ids": [1],
+            "furigana_ids": [],
+            "japanese_items": [
+              "青はペグを上げることを意味し、白はペグを押し込むことを意味します。すべてのペグをリセットするには、Master Resshaの上部にあるボタンを押してください。"
+            ]
+          },
+          {
+            "display_index": 2,
+            "panel_id": "p2",
+            "source_ids": [2],
+            "furigana_ids": [],
+            "japanese_items": ["Rangers & Power Ups"]
+          },
+          {
+            "display_index": 3,
+            "panel_id": "p3",
+            "source_ids": [9],
+            "furigana_ids": [],
+            "japanese_items": ["Aux & Weapons"]
+          },
+          {
+            "display_index": 4,
+            "source_ids": [3],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 5,
+            "source_ids": [4],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 6,
+            "source_ids": [5],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 7,
+            "source_ids": [6],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 8,
+            "source_ids": [7],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 9,
+            "source_ids": [8],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 10,
+            "source_ids": [10],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 11,
+            "source_ids": [11],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 12,
+            "source_ids": [12],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 13,
+            "source_ids": [13],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 14,
+            "source_ids": [14],
+            "furigana_ids": []
+          }
+        ],
+        "uncertainties": [],
+        "ocr_lines": [
+          {
+            "id": 0,
+            "text": "Use the patterns below with your Master Ressha to unlock various sounds in",
+            "bbox": [
+              0.25294119119644165, 0.048636361956596375, 0.6705881953239441, 0.013181820511817932
+            ]
+          },
+          {
+            "id": 1,
+            "text": "your DX ToQ Changer.",
+            "bbox": [
+              0.4882352948188782, 0.0663636326789856, 0.1970587968826294, 0.013181820511817932
+            ]
+          },
+          {
+            "id": 2,
+            "text": "Blue means that the peg should be raised, while White pegs should be pressed",
+            "bbox": [
+              0.23823529481887817, 0.09772727638483047, 0.6994117498397827, 0.014545448124408722
+            ]
+          },
+          {
+            "id": 3,
+            "text": "in. To reset all pegs, press the button on top of the Master Ressha",
+            "bbox": [
+              0.3029411733150482, 0.11500000208616257, 0.5711764991283417, 0.013636358082294464
+            ]
+          },
+          {
+            "id": 4,
+            "text": "Rangers & Power Ups",
+            "bbox": [
+              0.0394117645919323, 0.1963636428117752, 0.2388235218822956, 0.017272725701332092
+            ]
+          },
+          {
+            "id": 5,
+            "text": "RED RESSHA",
+            "bbox": [
+              0.0788235291838646, 0.26318180561065674, 0.09058823436498642, 0.008181840181350708
+            ]
+          },
+          {
+            "id": 6,
+            "text": "BLUE RESSHA",
+            "bbox": [
+              0.2629411816596985, 0.26318180561065674, 0.09823527932167053, 0.007727295160293579
+            ]
+          },
+          {
+            "id": 7,
+            "text": "YELLOW RESSHA",
+            "bbox": [
+              0.4399999976158142, 0.26318180561065674, 0.12000000476837158, 0.007727295160293579
+            ]
+          },
+          {
+            "id": 8,
+            "text": "GREEN RESSHA",
+            "bbox": [
+              0.6329411864280701, 0.26318180561065674, 0.11058825254440308, 0.008181840181350708
+            ]
+          },
+          {
+            "id": 9,
+            "text": "PINK RESSHA",
+            "bbox": [
+              0.8299999833106995, 0.26318180561065674, 0.09352940320968628, 0.008181840181350708
+            ]
+          },
+          {
+            "id": 10,
+            "text": "BUILD RESSHA",
+            "bbox": [
+              0.07235293835401535, 0.4877272844314575, 0.10294117778539658, 0.007727265357971191
+            ]
+          },
+          {
+            "id": 11,
+            "text": "Aux & Weapons",
+            "bbox": [
+              0.038823530077934265, 0.7186363339424133, 0.17411763966083527, 0.017272770404815674
+            ]
+          },
+          {
+            "id": 12,
+            "text": "DRILL RESSHA",
+            "bbox": [
+              0.07352941483259201, 0.7913636565208435, 0.10117646306753159, 0.007727265357971191
+            ]
+          },
+          {
+            "id": 13,
+            "text": "FIRE RESSHA",
+            "bbox": [
+              0.26588234305381775, 0.7913636565208435, 0.09176471829414368, 0.007727265357971191
+            ]
+          },
+          {
+            "id": 14,
+            "text": "DIESEL RESSHA",
+            "bbox": [
+              0.4452941119670868, 0.7913636565208435, 0.10999998450279236, 0.007727265357971191
+            ]
+          },
+          {
+            "id": 15,
+            "text": "TANK RESSHA",
+            "bbox": [
+              0.6394117474555969, 0.7913636565208435, 0.09764707088470459, 0.007727265357971191
+            ]
+          },
+          {
+            "id": 16,
+            "text": "CAR CARRIER",
+            "bbox": [
+              0.8288235068321228, 0.785909116268158, 0.0958823561668396, 0.007727265357971191
+            ]
+          },
+          {
+            "id": 17,
+            "text": "RESSHA",
+            "bbox": [
+              0.8482353091239929, 0.7977272868156433, 0.05705881118774414, 0.006818175315856934
+            ]
+          }
+        ]
+      }
     },
     {
-      "image": "pages/page-1.webp",
       "blocks": [
+        {
+          "text": "Sentai Teams",
+          "translation": "Sentai Teams",
+          "bbox": [
+            0.037899999999999996, 0.4775908992290497, 0.14830588326454164, 0.015309100770950324
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "Most of these Ressha were released in the subway-car style aside from a few that got transforming releases like Shinkenger & Kyoryuger",
+          "translation": "Most of these Ressha were released in the subway-car style aside from a few that got transforming releases like Shinkenger & Kyoryuger",
+          "bbox": [
+            0.037899999999999996, 0.4998636350631714, 0.9083059035301208, 0.013536364936828471
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "POLICE RESSHA",
+          "translation": "POLICE RESSHA",
+          "bbox": [0.0676, 0.0218, 0.1129, 0.0077]
+        },
+        {
+          "text": "SHIELD RESSHA",
+          "translation": "SHIELD RESSHA",
+          "bbox": [0.2565, 0.0218, 0.1106, 0.0077]
+        },
+        {
+          "text": "ENERGY RESSHA",
+          "translation": "ENERGY RESSHA",
+          "bbox": [0.4412, 0.0218, 0.1182, 0.0077]
+        },
+        {
+          "text": "SCOPE RESSHA",
+          "translation": "SCOPE RESSHA",
+          "bbox": [0.6335, 0.0218, 0.1094, 0.0077]
+        },
+        {
+          "text": "HYPER RESSHA",
+          "translation": "HYPER RESSHA",
+          "bbox": [0.8229, 0.0209, 0.1076, 0.0086]
+        },
+        {
+          "text": "SAFARI RESSHA",
+          "translation": "SAFARI RESSHA",
+          "bbox": [0.0682, 0.2459, 0.1112, 0.0077]
+        },
+        {
+          "text": "GORENGER",
+          "translation": "GORENGER",
+          "bbox": [0.0841, 0.5582, 0.0788, 0.0073]
+        },
+        {
+          "text": "JAKQ",
+          "translation": "JAKQ",
+          "bbox": [0.2929, 0.5582, 0.0376, 0.0077]
+        },
+        {
+          "text": "BATTLE FEVER J",
+          "translation": "BATTLE FEVER J",
+          "bbox": [0.4435, 0.5582, 0.1135, 0.0073]
+        },
+        {
+          "text": "DENZIMAN",
+          "translation": "DENZIMAN",
+          "bbox": [0.6524, 0.5582, 0.0712, 0.0073]
+        },
+        {
+          "text": "SUN VULCAN",
+          "translation": "SUN VULCAN",
+          "bbox": [0.8318, 0.5577, 0.0882, 0.0077]
+        },
+        {
+          "text": "GOGGLE-V",
+          "translation": "GOGGLE-V",
+          "bbox": [0.0871, 0.7814, 0.0741, 0.0082]
+        },
+        {
+          "text": "DYNAMAN",
+          "translation": "DYNAMAN",
+          "bbox": [0.2776, 0.7814, 0.0682, 0.0082]
+        },
+        {
+          "text": "CHANGEMAN",
+          "translation": "CHANGEMAN",
+          "bbox": [0.4547, 0.7814, 0.0894, 0.0086]
+        },
+        {
+          "text": "FLASHMAN",
+          "translation": "FLASHMAN",
+          "bbox": [0.65, 0.7814, 0.0759, 0.0082]
+        },
+        {
+          "text": "MASKMAN",
+          "translation": "MASKMAN",
+          "bbox": [0.8406, 0.7823, 0.0706, 0.0073]
+        }
+      ],
+      "image": "pages/page-1.webp",
+      "source_blocks": [
         {
           "text": "POLICE RESSHA",
           "translation": "POLICE RESSHA",
@@ -185,10 +614,255 @@
           "translation": "MASKMAN",
           "bbox": [0.8406, 0.7823, 0.0706, 0.0073]
         }
-      ]
+      ],
+      "layout_provenance": {
+        "version": 2,
+        "plan": {
+          "panels": [
+            {
+              "id": "p1",
+              "kind": "heading",
+              "source_ids": [6]
+            },
+            {
+              "id": "p2",
+              "kind": "prose",
+              "source_ids": [7]
+            }
+          ],
+          "furigana": [],
+          "notes": ["Product/card labels are treated as diagram labels and left ungrouped."]
+        },
+        "mapping": [
+          {
+            "display_index": 0,
+            "panel_id": "p1",
+            "source_ids": [6],
+            "furigana_ids": [],
+            "japanese_items": ["Sentai Teams"]
+          },
+          {
+            "display_index": 1,
+            "panel_id": "p2",
+            "source_ids": [7],
+            "furigana_ids": [],
+            "japanese_items": [
+              "Most of these Resshaは地下鉄タイプの車両として発売され、変形する仕様で発売されたものはシンケンジャーやキョウリュウジャーのようなごく一部だけである。"
+            ]
+          },
+          {
+            "display_index": 2,
+            "source_ids": [0],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 3,
+            "source_ids": [1],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 4,
+            "source_ids": [2],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 5,
+            "source_ids": [3],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 6,
+            "source_ids": [4],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 7,
+            "source_ids": [5],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 8,
+            "source_ids": [8],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 9,
+            "source_ids": [9],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 10,
+            "source_ids": [10],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 11,
+            "source_ids": [11],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 12,
+            "source_ids": [12],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 13,
+            "source_ids": [13],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 14,
+            "source_ids": [14],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 15,
+            "source_ids": [15],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 16,
+            "source_ids": [16],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 17,
+            "source_ids": [17],
+            "furigana_ids": []
+          }
+        ],
+        "uncertainties": [],
+        "ocr_lines": [
+          {
+            "id": 0,
+            "text": "POLICE RESSHA",
+            "bbox": [
+              0.0676470622420311, 0.02181818149983883, 0.11294116824865341, 0.007727272808551788
+            ]
+          },
+          {
+            "id": 1,
+            "text": "SHIELD RESSHA",
+            "bbox": [
+              0.25647059082984924, 0.02181818149983883, 0.11058822274208069, 0.007727272808551788
+            ]
+          },
+          {
+            "id": 2,
+            "text": "ENERGY RESSHA",
+            "bbox": [
+              0.44117647409439087, 0.02181818149983883, 0.11823529005050659, 0.007727272808551788
+            ]
+          },
+          {
+            "id": 3,
+            "text": "SCOPE RESSHA",
+            "bbox": [
+              0.6335294246673584, 0.02181818149983883, 0.10941177606582642, 0.007727272808551788
+            ]
+          },
+          {
+            "id": 4,
+            "text": "HYPER RESSHA",
+            "bbox": [
+              0.8229411840438843, 0.02090909145772457, 0.10764706134796143, 0.008636362850666046
+            ]
+          },
+          {
+            "id": 5,
+            "text": "SAFARI RESSHA",
+            "bbox": [
+              0.06823529303073883, 0.24590909481048584, 0.11117647588253021, 0.007727265357971191
+            ]
+          },
+          {
+            "id": 6,
+            "text": "Sentai Teams",
+            "bbox": [
+              0.0394117645919323, 0.4790908992290497, 0.14529411867260933, 0.012272745370864868
+            ]
+          },
+          {
+            "id": 7,
+            "text": "Most of these Ressha were released in the subway-car style aside from a few that got transforming releases like Shinkenger & Kyoryuger",
+            "bbox": [
+              0.0394117645919323, 0.5013636350631714, 0.9052941389381886, 0.010454535484313965
+            ]
+          },
+          {
+            "id": 8,
+            "text": "GORENGER",
+            "bbox": [
+              0.08411764353513718, 0.5581818222999573, 0.0788235291838646, 0.0072727203369140625
+            ]
+          },
+          {
+            "id": 9,
+            "text": "JAKQ",
+            "bbox": [
+              0.2929411828517914, 0.5581818222999573, 0.03764703869819641, 0.007727265357971191
+            ]
+          },
+          {
+            "id": 10,
+            "text": "BATTLE FEVER J",
+            "bbox": [
+              0.4435293972492218, 0.5581818222999573, 0.11352941393852234, 0.0072727203369140625
+            ]
+          },
+          {
+            "id": 11,
+            "text": "DENZIMAN",
+            "bbox": [
+              0.6523529291152954, 0.5581818222999573, 0.07117646932601929, 0.0072727203369140625
+            ]
+          },
+          {
+            "id": 12,
+            "text": "SUN VULCAN",
+            "bbox": [
+              0.8317646980285645, 0.5577272772789001, 0.08823531866073608, 0.007727265357971191
+            ]
+          },
+          {
+            "id": 13,
+            "text": "GOGGLE-V",
+            "bbox": [
+              0.08705881983041763, 0.7813636660575867, 0.07411765307188034, 0.00818181037902832
+            ]
+          },
+          {
+            "id": 14,
+            "text": "DYNAMAN",
+            "bbox": [
+              0.2776470482349396, 0.7813636660575867, 0.06823530793190002, 0.00818181037902832
+            ]
+          },
+          {
+            "id": 15,
+            "text": "CHANGEMAN",
+            "bbox": [
+              0.4547058939933777, 0.7813636660575867, 0.08941173553466797, 0.00863635540008545
+            ]
+          },
+          {
+            "id": 16,
+            "text": "FLASHMAN",
+            "bbox": [
+              0.6499999761581421, 0.7813636660575867, 0.07588237524032593, 0.00818181037902832
+            ]
+          },
+          {
+            "id": 17,
+            "text": "MASKMAN",
+            "bbox": [
+              0.8405882120132446, 0.7822727560997009, 0.07058823108673096, 0.0072727203369140625
+            ]
+          }
+        ]
+      }
     },
     {
-      "image": "pages/page-2.webp",
       "blocks": [
         {
           "text": "LIVEMAN",
@@ -295,11 +969,472 @@
           "translation": "SHINKENGER",
           "bbox": [0.8312, 0.6855, 0.0906, 0.0077]
         }
-      ]
+      ],
+      "image": "pages/page-2.webp",
+      "source_blocks": [
+        {
+          "text": "LIVEMAN",
+          "translation": "LIVEMAN",
+          "bbox": [0.0929, 0.0136, 0.06, 0.0068]
+        },
+        {
+          "text": "TURBORANGER",
+          "translation": "TURBORANGER",
+          "bbox": [0.2582, 0.0127, 0.1076, 0.0082]
+        },
+        {
+          "text": "FIVEMAN",
+          "translation": "FIVEMAN",
+          "bbox": [0.4694, 0.0127, 0.06, 0.0086]
+        },
+        {
+          "text": "ZYURANGER",
+          "translation": "ZYURANGER",
+          "bbox": [0.6447, 0.0136, 0.0871, 0.0073]
+        },
+        {
+          "text": "DAIRANGER",
+          "translation": "DAIRANGER",
+          "bbox": [0.8353, 0.0136, 0.0829, 0.0073]
+        },
+        {
+          "text": "III",
+          "translation": "III",
+          "bbox": [0.06, 0.1464, 0.1247, 0.0468]
+        },
+        {
+          "text": "KAKURANGER",
+          "translation": "KAKURANGER",
+          "bbox": [0.0741, 0.2373, 0.0976, 0.0082]
+        },
+        {
+          "text": "OH RANGER",
+          "translation": "OH RANGER",
+          "bbox": [0.2694, 0.2382, 0.0853, 0.0073]
+        },
+        {
+          "text": "CARRANGER",
+          "translation": "CARRANGER",
+          "bbox": [0.4553, 0.2377, 0.0888, 0.0077]
+        },
+        {
+          "text": "MEGARANGER",
+          "translation": "MEGARANGER",
+          "bbox": [0.6382, 0.2377, 0.1, 0.0077]
+        },
+        {
+          "text": "GINGAMAN",
+          "translation": "GINGAMAN",
+          "bbox": [0.8388, 0.2377, 0.0747, 0.0077]
+        },
+        {
+          "text": "GOGO V",
+          "translation": "GOGO V",
+          "bbox": [0.0959, 0.4614, 0.0547, 0.0068]
+        },
+        {
+          "text": "TIMERANGER",
+          "translation": "TIMERANGER",
+          "bbox": [0.2659, 0.4609, 0.0924, 0.0077]
+        },
+        {
+          "text": "GAORANGER",
+          "translation": "GAORANGER",
+          "bbox": [0.4547, 0.4614, 0.0906, 0.0073]
+        },
+        {
+          "text": "HURRICANEGER",
+          "translation": "HURRICANEGER",
+          "bbox": [0.6324, 0.4605, 0.1118, 0.0086]
+        },
+        {
+          "text": "ABARANGER",
+          "translation": "ABARANGER",
+          "bbox": [0.8318, 0.4614, 0.0894, 0.0068]
+        },
+        {
+          "text": "DEKARANGER",
+          "translation": "DEKARANGER",
+          "bbox": [0.0747, 0.6859, 0.0976, 0.0073]
+        },
+        {
+          "text": "BOUKENGER",
+          "translation": "BOUKENGER",
+          "bbox": [0.2682, 0.685, 0.0871, 0.0082]
+        },
+        {
+          "text": "GEKIRANGER",
+          "translation": "GEKIRANGER",
+          "bbox": [0.4541, 0.6859, 0.0924, 0.0073]
+        },
+        {
+          "text": "GO-ONGER",
+          "translation": "GO-ONGER",
+          "bbox": [0.6506, 0.6855, 0.0753, 0.0077]
+        },
+        {
+          "text": "SHINKENGER",
+          "translation": "SHINKENGER",
+          "bbox": [0.8312, 0.6855, 0.0906, 0.0077]
+        }
+      ],
+      "layout_provenance": {
+        "version": 2,
+        "plan": {
+          "panels": [],
+          "furigana": [],
+          "notes": [
+            "Page consists of diagram/product labels only; no prose panels or furigana identified."
+          ]
+        },
+        "mapping": [
+          {
+            "display_index": 0,
+            "source_ids": [0],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 1,
+            "source_ids": [1],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 2,
+            "source_ids": [2],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 3,
+            "source_ids": [3],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 4,
+            "source_ids": [4],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 5,
+            "source_ids": [5],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 6,
+            "source_ids": [6],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 7,
+            "source_ids": [7],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 8,
+            "source_ids": [8],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 9,
+            "source_ids": [9],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 10,
+            "source_ids": [10],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 11,
+            "source_ids": [11],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 12,
+            "source_ids": [12],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 13,
+            "source_ids": [13],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 14,
+            "source_ids": [14],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 15,
+            "source_ids": [15],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 16,
+            "source_ids": [16],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 17,
+            "source_ids": [17],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 18,
+            "source_ids": [18],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 19,
+            "source_ids": [19],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 20,
+            "source_ids": [20],
+            "furigana_ids": []
+          }
+        ],
+        "uncertainties": [],
+        "ocr_lines": [
+          {
+            "id": 0,
+            "text": "LIVEMAN",
+            "bbox": [
+              0.09294117987155914, 0.013636363670229912, 0.06000000238418579, 0.006818180903792381
+            ]
+          },
+          {
+            "id": 1,
+            "text": "TURBORANGER",
+            "bbox": [
+              0.25823530554771423, 0.01272727269679308, 0.10764706134796143, 0.008181818760931492
+            ]
+          },
+          {
+            "id": 2,
+            "text": "FIVEMAN",
+            "bbox": [
+              0.4694117605686188, 0.01272727269679308, 0.06000003218650818, 0.00863636378198862
+            ]
+          },
+          {
+            "id": 3,
+            "text": "ZYURANGER",
+            "bbox": [
+              0.6447058916091919, 0.013636363670229912, 0.08705884218215942, 0.007272727787494659
+            ]
+          },
+          {
+            "id": 4,
+            "text": "DAIRANGER",
+            "bbox": [
+              0.8352941274642944, 0.013636363670229912, 0.08294117450714111, 0.007272727787494659
+            ]
+          },
+          {
+            "id": 5,
+            "text": "III",
+            "bbox": [
+              0.05999999865889549, 0.14636363089084625, 0.12470588460564613, 0.04681818187236786
+            ]
+          },
+          {
+            "id": 6,
+            "text": "KAKURANGER",
+            "bbox": [
+              0.07411764562129974, 0.2372727245092392, 0.0976470559835434, 0.008181825280189514
+            ]
+          },
+          {
+            "id": 7,
+            "text": "OH RANGER",
+            "bbox": [
+              0.26941177248954773, 0.23818181455135345, 0.08529409766197205, 0.007272735238075256
+            ]
+          },
+          {
+            "id": 8,
+            "text": "CARRANGER",
+            "bbox": [
+              0.455294132232666, 0.23772726953029633, 0.08882349729537964, 0.007727280259132385
+            ]
+          },
+          {
+            "id": 9,
+            "text": "MEGARANGER",
+            "bbox": [
+              0.6382352709770203, 0.23772726953029633, 0.10000002384185791, 0.007727280259132385
+            ]
+          },
+          {
+            "id": 10,
+            "text": "GINGAMAN",
+            "bbox": [
+              0.8388235569000244, 0.23772726953029633, 0.07470583915710449, 0.007727280259132385
+            ]
+          },
+          {
+            "id": 11,
+            "text": "GOGO V",
+            "bbox": [
+              0.0958823561668396, 0.46136364340782166, 0.054705873131752014, 0.006818175315856934
+            ]
+          },
+          {
+            "id": 12,
+            "text": "TIMERANGER",
+            "bbox": [
+              0.26588234305381775, 0.4609090983867645, 0.092352956533432, 0.007727265357971191
+            ]
+          },
+          {
+            "id": 13,
+            "text": "GAORANGER",
+            "bbox": [
+              0.4547058939933777, 0.46136364340782166, 0.09058821201324463, 0.0072727203369140625
+            ]
+          },
+          {
+            "id": 14,
+            "text": "HURRICANEGER",
+            "bbox": [
+              0.6323529481887817, 0.4604545533657074, 0.11176466941833496, 0.00863635540008545
+            ]
+          },
+          {
+            "id": 15,
+            "text": "ABARANGER",
+            "bbox": [
+              0.8317646980285645, 0.46136364340782166, 0.08941179513931274, 0.006818175315856934
+            ]
+          },
+          {
+            "id": 16,
+            "text": "DEKARANGER",
+            "bbox": [
+              0.07470588386058807, 0.6859090924263, 0.0976470559835434, 0.0072727203369140625
+            ]
+          },
+          {
+            "id": 17,
+            "text": "BOUKENGER",
+            "bbox": [
+              0.26823529601097107, 0.6850000023841858, 0.08705881237983704, 0.00818181037902832
+            ]
+          },
+          {
+            "id": 18,
+            "text": "GEKIRANGER",
+            "bbox": [
+              0.45411765575408936, 0.6859090924263, 0.09235292673110962, 0.0072727203369140625
+            ]
+          },
+          {
+            "id": 19,
+            "text": "GO-ONGER",
+            "bbox": [
+              0.6505882143974304, 0.6854545474052429, 0.0752941370010376, 0.007727265357971191
+            ]
+          },
+          {
+            "id": 20,
+            "text": "SHINKENGER",
+            "bbox": [
+              0.8311764597892761, 0.6854545474052429, 0.0905882716178894, 0.007727265357971191
+            ]
+          }
+        ]
+      }
     },
     {
-      "image": "pages/page-3.webp",
       "blocks": [
+        {
+          "text": "Special",
+          "translation": "Special",
+          "bbox": [0.0373, 0.2444, 0.0842, 0.01800908050537109],
+          "layout": "panel"
+        },
+        {
+          "text": "Special editions of ressha available in various campaigns",
+          "translation": "Special editions of ressha are available in various campaigns",
+          "bbox": [0.036699999999999997, 0.2662, 0.3806823490142822, 0.013500000000000012],
+          "layout": "panel"
+        },
+        {
+          "text": "Unused",
+          "translation": "Unused",
+          "bbox": [0.03849999910593033, 0.7921, 0.08420000089406968, 0.014854552173614421],
+          "layout": "panel"
+        },
+        {
+          "text": "These Ressha did not appear in show or have any known merchandise",
+          "translation": "These Ressha did not appear in the show or have any known merchandise.",
+          "bbox": [0.0373, 0.8139545426368714, 0.4724352757453918, 0.01354545736312851],
+          "layout": "panel"
+        },
+        {
+          "text": "GOSEIGER",
+          "translation": "GOSEIGER",
+          "bbox": [0.0876, 0.0132, 0.0718, 0.0073]
+        },
+        {
+          "text": "GOKAIGER",
+          "translation": "GOKAIGER",
+          "bbox": [0.2753, 0.0132, 0.0729, 0.0077]
+        },
+        {
+          "text": "GO-BUSTERS",
+          "translation": "GO-BUSTERS",
+          "bbox": [0.4541, 0.0127, 0.0912, 0.0082]
+        },
+        {
+          "text": "KYORYUGER",
+          "translation": "KYORYUGER",
+          "bbox": [0.6441, 0.0127, 0.0882, 0.0082]
+        },
+        {
+          "text": "TOQGER",
+          "translation": "TOQGER",
+          "bbox": [0.8471, 0.0132, 0.0582, 0.0077]
+        },
+        {
+          "text": "RAINBOW RESSHA",
+          "translation": "RAINBOW RESSHA",
+          "bbox": [0.06, 0.3245, 0.1282, 0.0077]
+        },
+        {
+          "text": "CHRISTMAS RESSHA",
+          "translation": "CHRISTMAS RESSHA",
+          "bbox": [0.2406, 0.3245, 0.1424, 0.0077]
+        },
+        {
+          "text": "CHOCO RESSHA",
+          "translation": "CHOCO RESSHA",
+          "bbox": [0.4435, 0.3245, 0.1129, 0.0082]
+        },
+        {
+          "text": "PREMIERE RESSHA",
+          "translation": "PREMIERE RESSHA",
+          "bbox": [0.6224, 0.3245, 0.1324, 0.0077]
+        },
+        {
+          "text": "TV QUIZ RESSHA",
+          "translation": "TV QUIZ RESSHA",
+          "bbox": [0.8188, 0.3245, 0.1159, 0.0086]
+        },
+        {
+          "text": "TV ASAHI BUILD\nRESSHA",
+          "translation": "TV ASAHI BUILD\nRESSHA",
+          "bbox": [0.0688, 0.5486, 0.1088, 0.02]
+        },
+        {
+          "text": "CLAW RESSHA",
+          "translation": "CLAW RESSHA",
+          "bbox": [0.2612, 0.555, 0.1018, 0.0077]
+        }
+      ],
+      "image": "pages/page-3.webp",
+      "source_blocks": [
         {
           "text": "GOSEIGER",
           "translation": "GOSEIGER",
@@ -380,10 +1515,252 @@
           "translation": "These Ressha did not appear in the show and have no known merchandise.",
           "bbox": [0.0388, 0.8155, 0.4694, 0.0105]
         }
-      ]
+      ],
+      "layout_provenance": {
+        "version": 2,
+        "plan": {
+          "panels": [
+            {
+              "id": "p1",
+              "kind": "heading",
+              "source_ids": [5]
+            },
+            {
+              "id": "p2",
+              "kind": "prose",
+              "source_ids": [6]
+            },
+            {
+              "id": "p3",
+              "kind": "heading",
+              "source_ids": [14]
+            },
+            {
+              "id": "p4",
+              "kind": "prose",
+              "source_ids": [15]
+            }
+          ],
+          "furigana": [],
+          "notes": []
+        },
+        "mapping": [
+          {
+            "display_index": 0,
+            "panel_id": "p1",
+            "source_ids": [5],
+            "furigana_ids": [],
+            "japanese_items": ["Special"]
+          },
+          {
+            "display_index": 1,
+            "panel_id": "p2",
+            "source_ids": [6],
+            "furigana_ids": [],
+            "japanese_items": ["Special editions of ressha available in various campaigns"]
+          },
+          {
+            "display_index": 2,
+            "panel_id": "p3",
+            "source_ids": [14],
+            "furigana_ids": [],
+            "japanese_items": ["Unused"]
+          },
+          {
+            "display_index": 3,
+            "panel_id": "p4",
+            "source_ids": [15],
+            "furigana_ids": [],
+            "japanese_items": ["これらのResshaは番組に登場せず、既知の関連商品もありません。"]
+          },
+          {
+            "display_index": 4,
+            "source_ids": [0],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 5,
+            "source_ids": [1],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 6,
+            "source_ids": [2],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 7,
+            "source_ids": [3],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 8,
+            "source_ids": [4],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 9,
+            "source_ids": [7],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 10,
+            "source_ids": [8],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 11,
+            "source_ids": [9],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 12,
+            "source_ids": [10],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 13,
+            "source_ids": [11],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 14,
+            "source_ids": [12],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 15,
+            "source_ids": [13],
+            "furigana_ids": []
+          }
+        ],
+        "uncertainties": [
+          "The term \"ressha\" may be a transliteration from Japanese and its exact intended meaning is uncertain."
+        ],
+        "ocr_lines": [
+          {
+            "id": 0,
+            "text": "GOSEIGER",
+            "bbox": [
+              0.08764705806970596, 0.013181817717850208, 0.07176470011472702, 0.007272726856172085
+            ]
+          },
+          {
+            "id": 1,
+            "text": "GOKAIGER",
+            "bbox": [
+              0.27529412508010864, 0.013181817717850208, 0.07294115424156189, 0.007727273739874363
+            ]
+          },
+          {
+            "id": 2,
+            "text": "GO-BUSTERS",
+            "bbox": [
+              0.45411765575408936, 0.01272727269679308, 0.09117645025253296, 0.008181818760931492
+            ]
+          },
+          {
+            "id": 3,
+            "text": "KYORYUGER",
+            "bbox": [
+              0.6441176533699036, 0.01272727269679308, 0.08823525905609131, 0.008181818760931492
+            ]
+          },
+          {
+            "id": 4,
+            "text": "TOQGER",
+            "bbox": [
+              0.8470588326454163, 0.013181817717850208, 0.0582352876663208, 0.007727273739874363
+            ]
+          },
+          {
+            "id": 5,
+            "text": "Special",
+            "bbox": [
+              0.038823530077934265, 0.24590909481048584, 0.08117646723985672, 0.014999985694885254
+            ]
+          },
+          {
+            "id": 6,
+            "text": "Special editions of ressha available in various campaigns",
+            "bbox": [
+              0.038235295563936234, 0.2677272856235504, 0.377647053450346, 0.010454535484313965
+            ]
+          },
+          {
+            "id": 7,
+            "text": "RAINBOW RESSHA",
+            "bbox": [
+              0.05999999865889549, 0.3245454430580139, 0.12823529914021492, 0.007727295160293579
+            ]
+          },
+          {
+            "id": 8,
+            "text": "CHRISTMAS RESSHA",
+            "bbox": [
+              0.2405882328748703, 0.3245454430580139, 0.14235295355319977, 0.007727295160293579
+            ]
+          },
+          {
+            "id": 9,
+            "text": "CHOCO RESSHA",
+            "bbox": [
+              0.4435293972492218, 0.3245454430580139, 0.11294117569923401, 0.008181840181350708
+            ]
+          },
+          {
+            "id": 10,
+            "text": "PREMIERE RESSHA",
+            "bbox": [
+              0.6223529577255249, 0.3245454430580139, 0.13235294818878174, 0.007727295160293579
+            ]
+          },
+          {
+            "id": 11,
+            "text": "TV QUIZ RESSHA",
+            "bbox": [
+              0.818823516368866, 0.3245454430580139, 0.11588233709335327, 0.008636385202407837
+            ]
+          },
+          {
+            "id": 12,
+            "text": "TV ASAHI BUILD",
+            "bbox": [
+              0.06882353127002716, 0.5490909218788147, 0.10882352292537689, 0.007727265357971191
+            ]
+          },
+          {
+            "id": 13,
+            "text": "RESSHA",
+            "bbox": [
+              0.09470587968826294, 0.5600000023841858, 0.057058826088905334, 0.00863635540008545
+            ]
+          },
+          {
+            "id": 14,
+            "text": "CLAW RESSHA",
+            "bbox": [
+              0.2611764669418335, 0.5550000071525574, 0.10176470875740051, 0.007727265357971191
+            ]
+          },
+          {
+            "id": 15,
+            "text": "Unused",
+            "bbox": [
+              0.03999999910593033, 0.7936363816261292, 0.08117647469043732, 0.011818170547485352
+            ]
+          },
+          {
+            "id": 16,
+            "text": "These Ressha did not appear in show or have any known merchandise",
+            "bbox": [
+              0.038823530077934265, 0.8154545426368713, 0.4694117456674576, 0.010454535484313965
+            ]
+          }
+        ]
+      }
     },
     {
-      "image": "pages/page-4.webp",
       "blocks": [
         {
           "text": "DUMP RESSHA",
@@ -420,7 +1797,142 @@
           "translation": "SILENCE",
           "bbox": [0.2824, 0.2382, 0.0582, 0.0073]
         }
-      ]
+      ],
+      "image": "pages/page-4.webp",
+      "source_blocks": [
+        {
+          "text": "DUMP RESSHA",
+          "translation": "DUMP RESSHA",
+          "bbox": [0.0735, 0.0132, 0.1012, 0.0073]
+        },
+        {
+          "text": "CRANE RESSHA",
+          "translation": "CRANE RESSHA",
+          "bbox": [0.2571, 0.0132, 0.1094, 0.0082]
+        },
+        {
+          "text": "MIXER RESSHA",
+          "translation": "MIXER RESSHA",
+          "bbox": [0.4482, 0.0132, 0.1047, 0.0077]
+        },
+        {
+          "text": "DOZER RESSHA",
+          "translation": "DOZER RESSHA",
+          "bbox": [0.6341, 0.0132, 0.1088, 0.0082]
+        },
+        {
+          "text": "BLIZZARD RESSHA",
+          "translation": "BLIZZARD RESSHA",
+          "bbox": [0.8118, 0.0132, 0.13, 0.0077]
+        },
+        {
+          "text": "JET RESSHA",
+          "translation": "JET RESSHA",
+          "bbox": [0.0806, 0.2382, 0.0871, 0.0073]
+        },
+        {
+          "text": "SILENCE",
+          "translation": "SILENCE",
+          "bbox": [0.2824, 0.2382, 0.0582, 0.0073]
+        }
+      ],
+      "layout_provenance": {
+        "version": 2,
+        "plan": {
+          "panels": [],
+          "furigana": [],
+          "notes": ["Diagram-only page with product labels; labels left ungrouped."]
+        },
+        "mapping": [
+          {
+            "display_index": 0,
+            "source_ids": [0],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 1,
+            "source_ids": [1],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 2,
+            "source_ids": [2],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 3,
+            "source_ids": [3],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 4,
+            "source_ids": [4],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 5,
+            "source_ids": [5],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 6,
+            "source_ids": [6],
+            "furigana_ids": []
+          }
+        ],
+        "uncertainties": [],
+        "ocr_lines": [
+          {
+            "id": 0,
+            "text": "DUMP RESSHA",
+            "bbox": [
+              0.07352941483259201, 0.013181817717850208, 0.10117646306753159, 0.007272726856172085
+            ]
+          },
+          {
+            "id": 1,
+            "text": "CRANE RESSHA",
+            "bbox": [
+              0.2570588290691376, 0.013181817717850208, 0.10941174626350403, 0.008181818760931492
+            ]
+          },
+          {
+            "id": 2,
+            "text": "MIXER RESSHA",
+            "bbox": [
+              0.44823530316352844, 0.013181817717850208, 0.10470589995384216, 0.007727273739874363
+            ]
+          },
+          {
+            "id": 3,
+            "text": "DOZER RESSHA",
+            "bbox": [
+              0.6341176629066467, 0.013181817717850208, 0.10882353782653809, 0.008181818760931492
+            ]
+          },
+          {
+            "id": 4,
+            "text": "BLIZZARD RESSHA",
+            "bbox": [
+              0.8117647171020508, 0.013181817717850208, 0.12999999523162842, 0.007727273739874363
+            ]
+          },
+          {
+            "id": 5,
+            "text": "JET RESSHA",
+            "bbox": [
+              0.08058823645114899, 0.23818181455135345, 0.08705882728099823, 0.007272735238075256
+            ]
+          },
+          {
+            "id": 6,
+            "text": "SILENCE",
+            "bbox": [
+              0.2823529541492462, 0.23818181455135345, 0.0582352876663208, 0.007272735238075256
+            ]
+          }
+        ]
+      }
     }
   ]
 }
