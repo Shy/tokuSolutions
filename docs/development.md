@@ -172,6 +172,16 @@ is `gpt-5.5` (`LAYOUT_MODEL`); panel translation uses `OPENAI_MODEL`, default
 `gpt-5-mini`. Existing valid single-heading translations are reused. The official
 Temporal Agents plugin owns all model calls. Page and panel fan-out is bounded.
 
+The existing panel translation call also handles English style: direct verbs,
+natural sentence structure and concise wording. Courtesy filler is omitted only
+when it adds no practical meaning. Safety facts, actions, conditions, negations,
+quantities, codes, consequences and useful qualifications remain required, as do
+accepted glossary terms. The same instructions apply to the bounded repair;
+there is no additional style-only model pass or regex deletion of repeated words.
+Deterministic request tests check these instructions and source preservation,
+not the quality of unseen model output. Changed prompts require a new repair run
+ID; exact-request caches still apply.
+
 Furigana is omitted only from English display; source text, boxes and attached
 parent IDs persist in the manual JSON. Candidates include small hiragana,
 katakana and mixed-kana readings above kanji or acronyms such as DX. The planner

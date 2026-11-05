@@ -319,6 +319,76 @@ def test_editorial_uncertainty_is_not_inserted_into_translated_instructions() ->
         validate_translations(ContextPage.model_validate(source), plan, texts)
 
 
+def test_panel_requests_keep_concise_english_rules_and_glossary_on_repair(
+    tmp_path: Path,
+) -> None:
+    """Check the real request contract, not model quality from a fake reply."""
+    import json
+
+    from PIL import Image
+
+    from src.activities.semantic_layout import _check_translation, _plan_page
+    from src.agent_models import AgentReply
+    from src.quality.semantic_layout import TRANSLATE_INSTRUCTIONS
+
+    source, plan, _ = example()
+    page = ContextPage.model_validate(source)
+    (tmp_path / "source-page.json").write_text(page.model_dump_json())
+    (tmp_path / "lines.json").write_text("[]")
+    (tmp_path / "glossary.json").write_text(
+        json.dumps({"電池": "batteries"}, ensure_ascii=False)
+    )
+    Image.new("RGB", (600, 800), "white").save(tmp_path / "scan.jpg")
+    paths = _plan_page(
+        str(tmp_path / "plan.request.json"),
+        AgentReply(output_json=plan.model_dump_json()),
+    )
+    assert len(paths) == 1
+    repair_path = _check_translation(paths[0], AgentReply(output_json="{}"), False)
+    assert repair_path
+    for path in [paths[0], repair_path]:
+        request = json.loads(Path(path).read_bytes())
+        instructions = request["instructions"]
+        assert instructions.startswith(TRANSLATE_INSTRUCTIONS)
+        for rule in (
+            "direct, concise, natural English",
+            "Use direct verbs",
+            '"please understand this"',
+            "only when it adds no practical meaning",
+            "useful qualifications",
+            "Never summarize",
+            "negation, condition, quantity",
+            "Keep codes/literal labels",
+            "Do not mechanically delete repeated words",
+        ):
+            assert rule in instructions
+        payload = json.loads(request["input_items"][0]["content"][0]["text"])
+        assert payload["accepted_glossary"] == {"電池": "batteries"}
+        assert payload["source_text"] == "電池を入れてください。"
+    assert "validation_error" in payload
+
+
+def test_concise_caregiver_english_keeps_actions_and_exact_source_ledger() -> None:
+    """Removing courtesy wording must leave reading/explanation instructions."""
+    source, plan, texts = example()
+    blocks = source["blocks"]
+    assert isinstance(blocks, list)
+    blocks[0]["text"] = "保護者の方へ。よくお読みいただき、お子様へご説明ください。"
+    texts.panels[0].japanese_items = [blocks[0]["text"]]
+    texts.panels[0].english_items = [
+        "Parents: read carefully and explain these instructions to your child."
+    ]
+    page = ContextPage.model_validate(source)
+    grouped = assemble_page(page, plan, texts)
+    assert grouped["blocks"][0]["translation"] == texts.panels[0].english_items[0]
+    assert grouped["source_blocks"] == [
+        block.model_dump(mode="json", exclude_none=True) for block in page.blocks
+    ]
+    texts.panels[0].english_items = ["Parents: read carefully."]
+    with pytest.raises(ValueError, match="safety fact missing"):
+        assemble_page(page, plan, texts)
+
+
 def test_confirmed_katakana_guides_are_not_translation_reference_words() -> None:
     """DX's Deluxe reading is excluded while real katakana mode text is retained."""
     from src.quality.page_grouping import OCRLine
