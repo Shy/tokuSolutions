@@ -173,7 +173,12 @@ is `gpt-5.5` (`LAYOUT_MODEL`); panel translation uses `OPENAI_MODEL`, default
 Temporal Agents plugin owns all model calls. Page and panel fan-out is bounded.
 
 Furigana is omitted only from English display; source text, boxes and attached
-parent IDs persist in the manual JSON. Ambiguous kana stays retained. Geometry
+parent IDs persist in the manual JSON. Candidates include small hiragana,
+katakana and mixed-kana readings above kanji or acronyms such as DX. The planner
+must confirm the reading relationship, including guides above headings and
+diagram labels whose base text stays ungrouped. Confirmed guide-only OCR rows
+are excluded from panel translation context; ordinary katakana labels stay.
+Ambiguous kana stays retained. Geometry
 comes from source regions and rich OCR lines, with checks against neighboring
 regions and large connected illustration ink. Solid background color is allowed.
 The planner cannot submit coordinates. Panels that include illustration ink are

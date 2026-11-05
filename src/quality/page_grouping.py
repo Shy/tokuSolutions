@@ -1,6 +1,7 @@
 """Source-linked semantic panels; confirmed ruby is retained only in provenance."""
 
 import re
+import unicodedata
 from collections import Counter
 from typing import Literal, NotRequired, TypedDict
 
@@ -71,6 +72,44 @@ def panel_box(
     return left, top, right - left, bottom - top
 
 
+def eligible_ruby_parents(page: ContextPage, identifier: int) -> list[int]:
+    """Find possible bases for small hiragana, katakana or mixed reading guides.
+
+    This supplies candidates, not an automatic deletion decision. The planner
+    must still confirm that the kana pronounces the base rather than being a label.
+    """
+    guide = page.blocks[identifier]
+    reading = unicodedata.normalize("NFKC", guide.text.strip())
+    if (
+        not guide.bbox
+        or not re.fullmatch(r"[ぁ-ゖァ-ヺ\s・ー]+", reading)
+        or not re.search(r"[ぁ-ゖァ-ヺ]", reading)
+    ):
+        return []
+    small = guide.bbox
+    candidates = []
+    for parent_id, parent in enumerate(page.blocks):
+        if parent_id == identifier or not parent.bbox:
+            continue
+        base_text = unicodedata.normalize("NFKC", parent.text)
+        if not re.search(
+            r"[一-龯]|(?<![A-Za-z0-9])[A-Z]{2,6}(?![A-Za-z0-9])", base_text
+        ):
+            continue
+        large = parent.bbox
+        overlap = min(small[0] + small[2], large[0] + large[2]) - max(
+            small[0], large[0]
+        )
+        if (
+            small[3] <= large[3] * 0.75
+            and overlap > 0
+            and small[1] <= large[1] + large[3]
+            and small[1] + small[3] >= large[1] - large[3] * 1.5
+        ):
+            candidates.append((abs(small[1] + small[3] - large[1]), parent_id))
+    return [parent_id for _, parent_id in sorted(candidates)]
+
+
 def validate_plan(page: ContextPage, plan: PagePlan) -> None:
     """Reject ungrounded ruby, duplicate assignments and unrelated content masking."""
     if len({panel.id for panel in plan.panels}) != len(plan.panels):
@@ -84,21 +123,7 @@ def validate_plan(page: ContextPage, plan: PagePlan) -> None:
     for ruby in plan.furigana:
         if ruby.parent_id in ruby_ids or ruby.parent_id == ruby.source_id:
             raise ValueError("Ruby parent must be retained main text")
-        small = _box(page, ruby.source_id)
-        large = _box(page, ruby.parent_id)
-        guide = page.blocks[ruby.source_id]
-        parent = page.blocks[ruby.parent_id]
-        overlap = min(small[0] + small[2], large[0] + large[2]) - max(
-            small[0], large[0]
-        )
-        if (
-            not re.fullmatch(r"[ぁ-ゖ\s・ー]+", guide.text.strip())
-            or not re.search(r"[一-龯]", parent.text)
-            or small[3] > large[3] * 0.75
-            or overlap <= 0
-            or small[1] > large[1] + large[3]
-            or small[1] + small[3] < large[1] - large[3] * 1.5
-        ):
+        if ruby.parent_id not in eligible_ruby_parents(page, ruby.source_id):
             raise ValueError(
                 f"Unconfirmed furigana: {ruby.source_id} -> {ruby.parent_id}"
             )

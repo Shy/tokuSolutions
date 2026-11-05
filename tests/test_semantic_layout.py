@@ -317,3 +317,40 @@ def test_editorial_uncertainty_is_not_inserted_into_translated_instructions() ->
     texts.panels[0].english_items[0] += " (sentence incomplete in source)"
     with pytest.raises(ValueError, match="uncertainty"):
         validate_translations(ContextPage.model_validate(source), plan, texts)
+
+
+def test_confirmed_katakana_guides_are_not_translation_reference_words() -> None:
+    """DX's Deluxe reading is excluded while real katakana mode text is retained."""
+    from src.quality.page_grouping import OCRLine
+    from src.quality.semantic_layout import panel_references
+
+    page = ContextPage.model_validate(
+        {
+            "image": "scan.png",
+            "blocks": [
+                {
+                    "text": "デラックス ひでん",
+                    "translation": "Deluxe Hiden",
+                    "bbox": [0.1, 0.18, 0.13, 0.012],
+                },
+                {
+                    "text": "DX飛電ゼロワンドライバー\nリセット",
+                    "translation": "DX Hiden Zero-One Driver\nReset",
+                    "bbox": [0.1, 0.2, 0.4, 0.08],
+                },
+            ],
+        }
+    )
+    plan = PagePlan(
+        panels=[Panel(id="body", kind="prose", source_ids=[1])],
+        furigana=[RubyLink(source_id=0, parent_id=1)],
+        notes=[],
+    )
+    lines = [
+        OCRLine(id=0, text="デラックス ひでん", bbox=(0.1, 0.18, 0.13, 0.012)),
+        OCRLine(id=1, text="DX飛電ゼロワンドライバー", bbox=(0.1, 0.2, 0.4, 0.03)),
+        OCRLine(id=2, text="リセット", bbox=(0.1, 0.24, 0.2, 0.025)),
+    ]
+    reference = panel_references(page, plan, lines)["body"]
+    assert "デラックス" not in reference
+    assert "リセット" in reference

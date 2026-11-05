@@ -7,7 +7,7 @@
     "source_url": "https://toy.bandai.co.jp/manuals/files/2782856.pdf?ver=t0mbvd",
     "blog_url": "",
     "pages": 4,
-    "blocks": 291,
+    "blocks": 252,
     "thumbnail": "pages/page-0.webp",
     "tags": ["dx", "kamen-rider"],
     "semantic_layout": 1
@@ -53,36 +53,30 @@
         },
         {
           "text": "●セットされているボタン電池はテスト用です。",
-          "translation": "The button battery installed is for testing.",
+          "translation": "The button battery installed is for testing purposes.",
           "bbox": [
             0.6732279167175294, 0.30556537413597107, 0.2992515354156493, 0.021034625864028933
           ],
           "layout": "panel"
         },
         {
-          "text": "音声が小さくなる、 同じ音を繰り返すなど誤動作を",
-          "translation": "If the sound becomes faint, the same sound is repeated, or other malfunctions occur, replace all button batteries with new ones.",
+          "text": "音声が小さくなる、 同じ音を繰り返すなど誤動作を\nしてください。●本商品は精密な電子部品で構成されています。",
+          "translation": "• If the sound becomes faint, the same sound repeats, or other malfunctions occur, replace all button cell batteries with new ones.\n• This product is made up of precision electronic components.",
           "bbox": [
-            0.5849570736885071, 0.32130058312416077, 0.3875429263114928, 0.03709941687583923
+            0.58415092086792, 0.32130058312416077, 0.38834907913207994, 0.052999416875839256
           ],
           "layout": "panel"
         },
         {
-          "text": "してください。●本商品は精密な電子部品で構成されています。\n落としたり、水にぬらしたり、汚したり、分解したりしないでください。",
-          "translation": "• This product is made up of precision electronic components.\n• Do not drop it, get it wet, soil it, or disassemble it.",
-          "bbox": [0.5845540270805359, 0.3579, 0.3879254250526427, 0.031799999999999995],
+          "text": "落としたり、水にぬらしたり、汚したり、分解したりしないでください。\nまた、高温・低温になる所での使用、保管はさけてください。\nプラ\nスチック梱包材は、開封後はすぐに捨ててください。●本商品には\n家具、ソファー)と接触しないようにしてください。色が移る場合があり",
+          "translation": "• Do not drop, wet, soil, or disassemble the product.\n• Also avoid using or storing it in places that become very hot or very cold.\n• Dispose of plastic packaging materials immediately after opening.\n• This product has painted surfaces, so when storing it keep it from contacting other items (plastic products, furniture, sofas). The color may transfer.",
+          "bbox": [0.5844, 0.3738, 0.38869999999999993, 0.07540000000000002],
           "layout": "panel"
         },
         {
-          "text": "プラ\nスチック梱包材は、開封後はすぐに捨ててください。●本商品には\nまた、高温・低温になる所での使用、保管はさけてください。\n家具、ソファー)と接触しないようにしてください。色が移る場合があり\nます。 ●可動部分・取付部分を無理な方向に強く引っ張ったり、曲げ",
-          "translation": "• Avoid using or storing in places that become extremely hot or extremely cold.\n• Discard plastic packing materials immediately after opening.\n• This product has painted parts, so do not let it contact other items (plastic products, furniture, sofas) during storage. Color transfer may occur.\n• Do not strongly pull or bend movable parts or mounting parts in unnatural directions.",
-          "bbox": [0.5844, 0.3892, 0.38929999999999987, 0.07590000000000002],
-          "layout": "panel"
-        },
-        {
-          "text": "※QRコードは株式会社デンソーウェーブの登録商標です。\nHOYA Voice Text JAMES",
-          "translation": "• The QR Code is a registered trademark of DENSO WAVE INCORPORATED.\n• HOYA VoiceText JAMES",
-          "bbox": [0.6905596361160279, 0.6086, 0.28030756998062123, 0.026999999999999913],
+          "text": "ます。 ●可動部分・取付部分を無理な方向に強く引っ張ったり、曲げ\nたりしないでください。 発音の一部にイントネーションが違っていた\nしょうひん とくせいじょうき と\nり、商品の特性上聞き取りにくいものがありますが、ご了承ください。\n●誤動作した場合はリセットボタンを押し電源を入れ直してください。\n●プログライズキー背面のQRコードが剥がれたり、傷がついた\n場合や、汚れが付着している場合にQRコードを読み取れないことが\nありますのでご注意ください。 ●DX飛電ゼロワンドライバーにはプログ\nライズキーシリーズ以外は取り付けないでください。 他のものを無理に\n取り付けると破損する場合があります。",
+          "translation": "• Do not strongly pull or bend movable parts or attachment parts in unreasonable directions.\n• Some pronunciations may have different intonation, and due to the characteristics of the product there may be parts that are difficult to hear; please understand this.\n• If a malfunction occurs, press the reset button and turn the power back on.\n• If the QR code on the back of the Progrise Key peels off, becomes scratched, or becomes soiled, the QR code may not be readable, so please be careful.\n• Do not attach anything other than the Progrise Key series to the DX Hiden Zero-One Driver. Forcibly attaching other items may cause damage.",
+          "bbox": [0.5844, 0.4469536051750183, 0.38929999999999987, 0.14514639482498165],
           "layout": "panel"
         },
         {
@@ -93,7 +87,7 @@
         },
         {
           "text": "この枠内では、本商品をご使用になるときに、\n注意していただきたいことを記載しております。\nよくお読みいただき、お子様へご説明ください。",
-          "translation": "• This frame describes things you should be careful of when using this product.\n• Please read carefully and explain them to your child.",
+          "translation": "• This frame lists things you should pay attention to when using this product.\n• Please read carefully and explain them to your child.",
           "bbox": [0.7137, 0.6839000000000001, 0.24849999999999983, 0.043861556148528935],
           "layout": "panel"
         },
@@ -105,7 +99,7 @@
         },
         {
           "text": "プログライズキーを挿入すると\nカバーパーツが勢いよく\n動きますので、 移動範囲に指などを\n置かないでください。",
-          "translation": "When inserting the Progrise Key, the cover parts will move forcefully, so do not place fingers or other body parts in the movement range.",
+          "translation": "When you insert the Progrise Key, the cover parts will move forcefully, so do not place fingers or other body parts in the range of movement.",
           "bbox": [
             0.6607329950332642, 0.7570458755493165, 0.18397537755966176, 0.05454639482498158
           ],
@@ -213,95 +207,22 @@
           "bbox": [0.8748, 0.164, 0.0756, 0.0077]
         },
         {
-          "text": "たりしないでください。 発音の一部にイントネーションが違っていた\nしょうひん とくせいじょうき と\nり、商品の特性上聞き取りにくいものがありますが、ご了承ください。",
-          "translation": "Please note that due to the nature of the product, some parts may be difficult to hear due to the incorrect intonation.",
-          "bbox": [0.5850000000000001, 0.4629, 0.3868999999999999, 0.03350000000000003],
-          "layout": "panel"
-        },
-        {
-          "text": "●誤動作した場合はリセットボタンを押し電源を入れ直してください。",
-          "translation": "●If a malfunction occurs, press the reset button and turn the power back on.",
-          "bbox": [0.5952000000000001, 0.4946, 0.3759999999999999, 0.01809999999999995],
-          "layout": "panel"
-        },
-        {
-          "text": "●プログライズキー背面のQRコードが剥がれたり、傷がついた",
-          "translation": "●If the QR code on the back of the Progrise Key peels off or is damaged,",
-          "bbox": [
-            0.5958000000000001, 0.5101000000000001, 0.37659999999999993, 0.017699999999999827
-          ],
-          "layout": "panel"
-        },
-        {
-          "text": "場合や、汚れが付着している場合にQRコードを読み取れないことが",
-          "translation": "If the QR code is scratched, peeling, or soiled, it may not be readable.",
-          "bbox": [0.5844, 0.5264000000000001, 0.38869999999999993, 0.017699999999999827],
-          "layout": "panel"
-        },
-        {
-          "text": "デラックス ひでん",
-          "translation": "Deluxe Hiden",
-          "bbox": [0.76, 0.5442, 0.0508, 0.0037]
-        },
-        {
-          "text": "ありますのでご注意ください。 ●DX飛電ゼロワンドライバーにはプログ",
-          "translation": "Please be aware of this. ●The DX Hiden Zero-One Driver contains built-in programming.",
-          "bbox": [
-            0.5850000000000001, 0.5414000000000001, 0.3880999999999999, 0.018099999999999783
-          ],
-          "layout": "panel"
-        },
-        {
-          "text": "ライズキーシリーズ以外は取り付けないでください。 他のものを無理に",
-          "translation": "Do not attach anything other than the Progrise Key series. Forcing other items into place may cause damage.",
-          "bbox": [0.5856, 0.5577000000000001, 0.3868999999999999, 0.018099999999999783],
-          "layout": "panel"
-        },
-        {
-          "text": "取り付けると破損する場合があります。",
-          "translation": "Forcing other items into place may cause damage.",
-          "bbox": [0.5844, 0.5740000000000001, 0.22129999999999994, 0.018099999999999894],
-          "layout": "panel"
-        },
-        {
-          "text": "かく ぶ",
-          "translation": "Kakubu",
-          "bbox": [0.0574, 0.6561, 0.0381, 0.0049]
-        },
-        {
-          "text": "めい しょう",
-          "translation": "Name",
-          "bbox": [0.1106, 0.6557, 0.0435, 0.0049]
-        },
-        {
-          "text": "ひでん",
-          "translation": "Hiden",
-          "bbox": [0.2207, 0.6602, 0.029, 0.0037]
-        },
-        {
           "text": "各部名称",
           "translation": "Part names",
-          "bbox": [0.052, 0.6634, 0.1076, 0.0171]
+          "bbox": [0.050499999999999996, 0.6542, 0.1106, 0.027799999999999936],
+          "layout": "panel"
         },
         {
           "text": "飛電ゼロワンドライバー",
           "translation": "Hiden Zero-One Driver",
-          "bbox": [0.2098, 0.6642, 0.2007, 0.0122]
-        },
-        {
-          "text": "しょうめん",
-          "translation": "Showmen",
-          "bbox": [0.4383, 0.6691, 0.0193, 0.0028]
-        },
-        {
-          "text": "み",
-          "translation": "fruit",
-          "bbox": [0.48, 0.6695, 0.006, 0.0028]
+          "bbox": [0.20829999999999999, 0.6587000000000001, 0.2037, 0.019199999999999884],
+          "layout": "panel"
         },
         {
           "text": "【正面から見た図】",
           "translation": "[Front view]",
-          "bbox": [0.4347, 0.6724, 0.0774, 0.0069]
+          "bbox": [0.4332, 0.6676000000000001, 0.08039999999999997, 0.013199999999999878],
+          "layout": "panel"
         },
         {
           "text": "カバーパーツ",
@@ -334,19 +255,10 @@
           "bbox": [0.3803, 0.8189, 0.0514, 0.0061]
         },
         {
-          "text": "しょうめん",
-          "translation": "Showmen",
-          "bbox": [0.1354, 0.8221, 0.0187, 0.0028]
-        },
-        {
-          "text": "み",
-          "translation": "fruit",
-          "bbox": [0.1771, 0.8221, 0.0048, 0.0028]
-        },
-        {
           "text": "【正面から見た図】",
           "translation": "[Front view]",
-          "bbox": [0.1318, 0.8258, 0.0786, 0.0069]
+          "bbox": [0.1303, 0.8206000000000001, 0.0816, 0.013599999999999834],
+          "layout": "panel"
         },
         {
           "text": "リセットボタン",
@@ -354,24 +266,16 @@
           "bbox": [0.1493, 0.8604, 0.0611, 0.0057]
         },
         {
-          "text": "はいめん",
-          "translation": "Haimen",
-          "bbox": [0.1518, 0.8873, 0.0187, 0.0033]
-        },
-        {
-          "text": "そくめん",
-          "translation": "Sokumen",
-          "bbox": [0.052, 0.8917, 0.0187, 0.0028]
-        },
-        {
           "text": "【側面から見た図】",
           "translation": "[Side view]",
-          "bbox": [0.0478, 0.895, 0.078, 0.0069]
+          "bbox": [0.0463, 0.8902000000000001, 0.08099999999999999, 0.013199999999999878],
+          "layout": "panel"
         },
         {
           "text": "【背面から見た図】",
           "translation": "[View from the back]",
-          "bbox": [0.1475, 0.8913, 0.0774, 0.0069]
+          "bbox": [0.146, 0.8858, 0.0804, 0.013899999999999912],
+          "layout": "panel"
         },
         {
           "text": "QRコード",
@@ -379,14 +283,10 @@
           "bbox": [0.2455, 0.8921, 0.0459, 0.0065]
         },
         {
-          "text": "けんしゅつ",
-          "translation": "Examination",
-          "bbox": [0.0459, 0.9548, 0.0206, 0.0024]
-        },
-        {
           "text": "検出スイッチ(2種)",
           "translation": "Detection switches (2 types)",
-          "bbox": [0.0459, 0.9581, 0.0834, 0.0065]
+          "bbox": [0.0444, 0.9533, 0.0864, 0.012799999999999812],
+          "layout": "panel"
         },
         {
           "text": "HEICH ONISHI",
@@ -394,14 +294,21 @@
           "bbox": [0.3519, 0.8661, 0.0671, 0.0041]
         },
         {
-          "text": "そくめん",
-          "translation": "Sokumen",
-          "bbox": [0.4172, 0.8938, 0.0187, 0.0024]
-        },
-        {
           "text": "【側面から見た図】",
           "translation": "[Side view]",
-          "bbox": [0.4129, 0.897, 0.0768, 0.0069]
+          "bbox": [0.4114, 0.8923000000000001, 0.07979999999999998, 0.01309999999999989],
+          "layout": "panel"
+        },
+        {
+          "text": "※QRコードは株式会社デンソーウェーブの登録商標です。",
+          "translation": "QR Code is a registered trademark of DENSO WAVE INCORPORATED.",
+          "bbox": [0.6908000000000001, 0.6086, 0.2792999999999999, 0.015599999999999947],
+          "layout": "panel"
+        },
+        {
+          "text": "HOYA Voice Text JAMES",
+          "translation": "HOYA Voice Text JAMES",
+          "bbox": [0.8356, 0.6268, 0.133, 0.0073]
         }
       ],
       "image": "pages/page-0.webp",
@@ -1457,52 +1364,47 @@
               "source_ids": [28, 29, 32, 38, 45, 59, 68, 75, 80, 84, 90, 118, 126, 132, 140]
             },
             {
-              "id": "p_usage_precautions_heading",
+              "id": "p_usage_heading",
               "kind": "heading",
               "source_ids": [23]
             },
             {
-              "id": "p_usage_precautions_body-a-a-a-a",
+              "id": "p_usage_body-a-a-a",
               "kind": "prose",
               "source_ids": [24]
             },
             {
-              "id": "p_usage_precautions_body-a-a-a-b",
+              "id": "p_usage_body-a-a-b",
               "kind": "prose",
-              "source_ids": [25]
+              "source_ids": [25, 26]
             },
             {
-              "id": "p_usage_precautions_body-a-a-b",
+              "id": "p_usage_body-a-b",
               "kind": "prose",
-              "source_ids": [26, 27]
+              "source_ids": [27, 30, 31, 39]
             },
             {
-              "id": "p_usage_precautions_body-a-b",
+              "id": "p_usage_body-b",
               "kind": "prose",
-              "source_ids": [31, 30, 39, 48]
+              "source_ids": [48, 69, 95, 99, 110, 113, 119, 133]
             },
             {
-              "id": "p_qr_trademark_note",
-              "kind": "prose",
-              "source_ids": [178, 179]
-            },
-            {
-              "id": "p_guardian_heading",
+              "id": "p_parent_heading",
               "kind": "heading",
               "source_ids": [182]
             },
             {
-              "id": "p_guardian_body",
+              "id": "p_parent_body",
               "kind": "prose",
               "source_ids": [186, 189, 192]
             },
             {
-              "id": "p_finger_caution_heading",
+              "id": "p_finger_heading",
               "kind": "heading",
               "source_ids": [194]
             },
             {
-              "id": "p_finger_caution_body",
+              "id": "p_finger_body",
               "kind": "prose",
               "source_ids": [197, 199, 201]
             },
@@ -1774,6 +1676,10 @@
               "parent_id": 113
             },
             {
+              "source_id": 112,
+              "parent_id": 113
+            },
+            {
               "source_id": 114,
               "parent_id": 119
             },
@@ -1858,6 +1764,50 @@
               "parent_id": 140
             },
             {
+              "source_id": 141,
+              "parent_id": 144
+            },
+            {
+              "source_id": 142,
+              "parent_id": 144
+            },
+            {
+              "source_id": 143,
+              "parent_id": 145
+            },
+            {
+              "source_id": 146,
+              "parent_id": 148
+            },
+            {
+              "source_id": 147,
+              "parent_id": 148
+            },
+            {
+              "source_id": 155,
+              "parent_id": 157
+            },
+            {
+              "source_id": 156,
+              "parent_id": 157
+            },
+            {
+              "source_id": 159,
+              "parent_id": 162
+            },
+            {
+              "source_id": 160,
+              "parent_id": 161
+            },
+            {
+              "source_id": 164,
+              "parent_id": 165
+            },
+            {
+              "source_id": 167,
+              "parent_id": 168
+            },
+            {
               "source_id": 170,
               "parent_id": 171
             },
@@ -1939,9 +1889,7 @@
             }
           ],
           "notes": [
-            "Set contents and part-name diagrams/labels were left ungrouped as illustration/label material.",
-            "Source 112 appears as ruby-like OCR over DX飛電 but has no eligible parent and was left unchanged.",
-            "Panel p_usage_precautions_body-b retained original English after failed automatic checks"
+            "Some warning/caution headings include parenthesized readings in the same OCR region, so they are retained as main text rather than listed as separate furigana."
           ]
         },
         "mapping": [
@@ -2004,69 +1952,66 @@
           },
           {
             "display_index": 5,
-            "panel_id": "p_usage_precautions_heading",
+            "panel_id": "p_usage_heading",
             "source_ids": [23],
             "furigana_ids": [],
             "japanese_items": ["しよう じょう ちゅうい\n<使用上の注意>"]
           },
           {
             "display_index": 6,
-            "panel_id": "p_usage_precautions_body-a-a-a-a",
+            "panel_id": "p_usage_body-a-a-a",
             "source_ids": [24],
             "furigana_ids": [],
             "japanese_items": ["セットされているボタン電池はテスト用です。"]
           },
           {
             "display_index": 7,
-            "panel_id": "p_usage_precautions_body-a-a-a-b",
-            "source_ids": [25],
+            "panel_id": "p_usage_body-a-a-b",
+            "source_ids": [25, 26],
             "furigana_ids": [],
             "japanese_items": [
-              "音声が小さくなる、同じ音を繰り返すなど誤動作をする場合は、ボタン電池をすべて新しいものに交換してください。"
+              "音声が小さくなる、同じ音を繰り返すなど誤動作をする場合は、ボタン電池をすべて新しいものに交換してください。",
+              "●本商品は精密な電子部品で構成されています。"
             ]
           },
           {
             "display_index": 8,
-            "panel_id": "p_usage_precautions_body-a-a-b",
-            "source_ids": [26, 27],
-            "furigana_ids": [],
+            "panel_id": "p_usage_body-a-b",
+            "source_ids": [27, 30, 31, 39],
+            "furigana_ids": [33],
             "japanese_items": [
-              "本商品は精密な電子部品で構成されています。",
-              "落としたり、水にぬらしたり、汚したり、分解したりしないでください。"
+              "落としたり、水にぬらしたり、汚したり、分解したりしないでください。",
+              "また、高温・低温になる所での使用、保管はさけてください。",
+              "プラスチック梱包材は、開封後はすぐに捨ててください。",
+              "本商品には塗装部分がありますので、保管の際には他のもの（樹脂製品や家具、ソファー）と接触しないようにしてください。色が移る場合があります。"
             ]
           },
           {
             "display_index": 9,
-            "panel_id": "p_usage_precautions_body-a-b",
-            "source_ids": [31, 30, 39, 48],
-            "furigana_ids": [33, 40, 41],
+            "panel_id": "p_usage_body-b",
+            "source_ids": [48, 69, 95, 99, 110, 113, 119, 133],
+            "furigana_ids": [
+              40, 41, 49, 50, 70, 93, 94, 96, 97, 98, 100, 101, 102, 103, 104, 105, 108, 109, 111,
+              112, 114, 115, 120, 121
+            ],
             "japanese_items": [
-              "また、高温・低温になる所での使用、保管はさけてください。",
-              "プラスチック梱包材は、開封後はすぐに捨ててください。",
-              "本商品には塗装部分がありますので、保管の際には他のもの（樹脂製品や家具、ソファー）と接触しないようにしてください。色が移る場合があります。",
-              "可動部分・取付部分を無理な方向に強く引っ張ったり、曲げたりしないでください。"
+              "可動部分・取付部分を無理な方向に強く引っ張ったり、曲げたりしないでください。",
+              "発音の一部にイントネーションが違っていたり、商品の特性上聞き取りにくいものがありますが、ご了承ください。",
+              "誤動作した場合はリセットボタンを押し電源を入れ直してください。",
+              "プログライズキー背面のQRコードが剥がれたり、傷がついた場合や、汚れが付着している場合にQRコードを読み取れないことがありますのでご注意ください。",
+              "DX飛電ゼロワンドライバーにはプログライズキーシリーズ以外は取り付けないでください。他のものを無理に取り付けると破損する場合があります。"
             ]
           },
           {
             "display_index": 10,
-            "panel_id": "p_qr_trademark_note",
-            "source_ids": [178, 179],
-            "furigana_ids": [134, 135],
-            "japanese_items": [
-              "※QRコードは株式会社デンソーウェーブの登録商標です。",
-              "HOYA VoiceText JAMES"
-            ]
-          },
-          {
-            "display_index": 11,
-            "panel_id": "p_guardian_heading",
+            "panel_id": "p_parent_heading",
             "source_ids": [182],
             "furigana_ids": [180, 181],
             "japanese_items": ["! 保護者の方へ"]
           },
           {
-            "display_index": 12,
-            "panel_id": "p_guardian_body",
+            "display_index": 11,
+            "panel_id": "p_parent_body",
             "source_ids": [186, 189, 192],
             "furigana_ids": [183, 184, 185, 187, 188, 190, 191],
             "japanese_items": [
@@ -2075,23 +2020,23 @@
             ]
           },
           {
-            "display_index": 13,
-            "panel_id": "p_finger_caution_heading",
+            "display_index": 12,
+            "panel_id": "p_finger_heading",
             "source_ids": [194],
             "furigana_ids": [193, 195],
             "japanese_items": ["! 指はさみ注意!!"]
           },
           {
-            "display_index": 14,
-            "panel_id": "p_finger_caution_body",
+            "display_index": 13,
+            "panel_id": "p_finger_body",
             "source_ids": [197, 199, 201],
             "furigana_ids": [196, 198, 200, 202],
             "japanese_items": [
-              "プログライズキーを挿入すると\nカバーパーツが勢いよく\n動きますので、移動範囲に指などを\n置かないでください。"
+              "プログライズキーを挿入するとカバーパーツが勢いよく動きますので、移動範囲に指などを置かないでください。"
             ]
           },
           {
-            "display_index": 15,
+            "display_index": 14,
             "panel_id": "p_key_gap_note",
             "source_ids": [169, 171, 173, 177],
             "furigana_ids": [170, 172, 174, 175, 176],
@@ -2100,278 +2045,193 @@
             ]
           },
           {
-            "display_index": 16,
+            "display_index": 15,
             "source_ids": [0],
             "furigana_ids": []
           },
           {
-            "display_index": 17,
+            "display_index": 16,
             "source_ids": [1],
             "furigana_ids": []
           },
           {
-            "display_index": 18,
+            "display_index": 17,
             "source_ids": [2],
             "furigana_ids": []
           },
           {
-            "display_index": 19,
+            "display_index": 18,
             "source_ids": [3],
             "furigana_ids": []
           },
           {
-            "display_index": 20,
+            "display_index": 19,
             "source_ids": [4],
             "furigana_ids": []
           },
           {
-            "display_index": 21,
+            "display_index": 20,
             "source_ids": [5],
             "furigana_ids": []
           },
           {
-            "display_index": 22,
+            "display_index": 21,
             "source_ids": [6],
             "furigana_ids": []
           },
           {
-            "display_index": 23,
+            "display_index": 22,
             "source_ids": [7],
             "furigana_ids": []
           },
           {
-            "display_index": 24,
+            "display_index": 23,
             "source_ids": [8],
             "furigana_ids": []
           },
           {
-            "display_index": 25,
+            "display_index": 24,
             "source_ids": [9],
             "furigana_ids": []
           },
           {
-            "display_index": 26,
+            "display_index": 25,
             "source_ids": [10],
             "furigana_ids": []
           },
           {
-            "display_index": 27,
+            "display_index": 26,
             "source_ids": [11],
             "furigana_ids": []
           },
           {
-            "display_index": 28,
+            "display_index": 27,
             "source_ids": [12],
             "furigana_ids": []
           },
           {
-            "display_index": 29,
+            "display_index": 28,
             "source_ids": [13],
             "furigana_ids": []
           },
           {
-            "display_index": 30,
+            "display_index": 29,
             "source_ids": [14],
             "furigana_ids": []
           },
           {
-            "display_index": 31,
+            "display_index": 30,
             "source_ids": [15],
             "furigana_ids": []
           },
           {
-            "display_index": 32,
+            "display_index": 31,
             "source_ids": [16],
             "furigana_ids": []
           },
           {
-            "display_index": 33,
+            "display_index": 32,
             "source_ids": [21],
             "furigana_ids": []
           },
           {
-            "display_index": 34,
+            "display_index": 33,
             "source_ids": [22],
             "furigana_ids": []
           },
           {
+            "display_index": 34,
+            "source_ids": [144],
+            "furigana_ids": [141, 142]
+          },
+          {
             "display_index": 35,
-            "source_ids": [69],
-            "furigana_ids": [49, 50, 70]
+            "source_ids": [145],
+            "furigana_ids": [143]
           },
           {
             "display_index": 36,
-            "source_ids": [95],
-            "furigana_ids": [93, 94, 104, 105]
+            "source_ids": [148],
+            "furigana_ids": [146, 147]
           },
           {
             "display_index": 37,
-            "source_ids": [99],
-            "furigana_ids": [96, 97, 98]
-          },
-          {
-            "display_index": 38,
-            "source_ids": [110],
-            "furigana_ids": [100, 101, 102, 108, 109]
-          },
-          {
-            "display_index": 39,
-            "source_ids": [112],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 40,
-            "source_ids": [113],
-            "furigana_ids": [111]
-          },
-          {
-            "display_index": 41,
-            "source_ids": [119],
-            "furigana_ids": [103, 114, 115]
-          },
-          {
-            "display_index": 42,
-            "source_ids": [133],
-            "furigana_ids": [120, 121]
-          },
-          {
-            "display_index": 43,
-            "source_ids": [141],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 44,
-            "source_ids": [142],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 45,
-            "source_ids": [143],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 46,
-            "source_ids": [144],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 47,
-            "source_ids": [145],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 48,
-            "source_ids": [146],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 49,
-            "source_ids": [147],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 50,
-            "source_ids": [148],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 51,
             "source_ids": [149],
             "furigana_ids": []
           },
           {
-            "display_index": 52,
+            "display_index": 38,
             "source_ids": [150],
             "furigana_ids": []
           },
           {
-            "display_index": 53,
+            "display_index": 39,
             "source_ids": [151],
             "furigana_ids": []
           },
           {
-            "display_index": 54,
+            "display_index": 40,
             "source_ids": [152],
             "furigana_ids": []
           },
           {
-            "display_index": 55,
+            "display_index": 41,
             "source_ids": [153],
             "furigana_ids": []
           },
           {
-            "display_index": 56,
+            "display_index": 42,
             "source_ids": [154],
             "furigana_ids": []
           },
           {
-            "display_index": 57,
-            "source_ids": [155],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 58,
-            "source_ids": [156],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 59,
+            "display_index": 43,
             "source_ids": [157],
-            "furigana_ids": []
+            "furigana_ids": [155, 156]
           },
           {
-            "display_index": 60,
+            "display_index": 44,
             "source_ids": [158],
             "furigana_ids": []
           },
           {
-            "display_index": 61,
-            "source_ids": [159],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 62,
-            "source_ids": [160],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 63,
+            "display_index": 45,
             "source_ids": [161],
-            "furigana_ids": []
+            "furigana_ids": [160]
           },
           {
-            "display_index": 64,
+            "display_index": 46,
             "source_ids": [162],
-            "furigana_ids": []
+            "furigana_ids": [159]
           },
           {
-            "display_index": 65,
+            "display_index": 47,
             "source_ids": [163],
             "furigana_ids": []
           },
           {
-            "display_index": 66,
-            "source_ids": [164],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 67,
+            "display_index": 48,
             "source_ids": [165],
-            "furigana_ids": []
+            "furigana_ids": [164]
           },
           {
-            "display_index": 68,
+            "display_index": 49,
             "source_ids": [166],
             "furigana_ids": []
           },
           {
-            "display_index": 69,
-            "source_ids": [167],
-            "furigana_ids": []
+            "display_index": 50,
+            "source_ids": [168],
+            "furigana_ids": [167]
           },
           {
-            "display_index": 70,
-            "source_ids": [168],
+            "display_index": 51,
+            "source_ids": [178],
+            "furigana_ids": [134, 135]
+          },
+          {
+            "display_index": 52,
+            "source_ids": [179],
             "furigana_ids": []
           },
           {
@@ -2385,9 +2245,7 @@
           "OCR showed '竒動部' — interpreted as '可動部' (moving part).",
           "OCR showed '十一 (プラスマイナス)' — interpreted as '+−（プラスマイナス）' meaning plus/minus polarity.",
           "Minor punctuation and line-break restorations performed to form complete clauses; no content was added or omitted.",
-          "The original scan did not show the sentence-ending phrase; I reconstructed the likely polite imperative 'してください' to complete the printed instruction.",
-          "The final sentence in the source image was cut off after '曲げ'. It was reconstructed as '曲げたりしないでください。' (Do not ... bend) to form a complete warning; this reconstruction may be uncertain.",
-          "Line break in the source split 'プラスチック' across lines; this was corrected to 'プラスチック梱包材'."
+          "The final sentence appears partly cropped in the source image; translated the likely completion as '色が移る場合があります。' (The color may transfer)."
         ],
         "ocr_lines": [
           {
@@ -4419,23 +4277,27 @@
           "layout": "panel"
         },
         {
-          "text": "※必ず保護者の方が行ってください。\nオフ\n※電源スイッチがX (OFF)になっていることを確認してください。",
-          "translation": "• ※Be sure that a guardian performs this.\n• ※Confirm that the power switch is X (OFF).",
-          "bbox": [0.039209391236305235, 0.0742, 0.47135951507091517, 0.049199999999999994],
+          "text": "※必ず保護者の方が行ってください。",
+          "translation": "Be sure to have a parent or guardian perform this.",
+          "bbox": [0.0475, 0.0742, 0.24501169109344484, 0.019349017548561095],
           "layout": "panel"
         },
         {
-          "text": "※音が小さくなって聞きとりにくくなったり、音が繰り返し鳴るなどの\n誤動作をする場合やLEDの発光が弱くなった場合は、すべて新しい電池に\n交換してください。",
-          "translation": "If the sound becomes faint and hard to hear, if the sound repeats or other malfunctions occur, or if the LED's illumination becomes weak, replace all batteries with new ones.",
-          "bbox": [
-            0.038403264492750167, 0.1207570538520813, 0.47216564181447024, 0.0680429461479187
-          ],
+          "text": "※電源スイッチがX (OFF)になっていることを確認してください。\n※音が小さくなって聞きとりにくくなったり、音が繰り返し鳴るなどの\n誤動作をする場合やLEDの発光が弱くなった場合は、すべて新しい電池に\n交換してください。",
+          "translation": "• Check that the power switch is set to X (OFF).\n• If the sound becomes low and difficult to hear, if the sound repeatedly sounds or other malfunction occurs, or if the LED’s illumination becomes weak, replace all batteries with new ones.",
+          "bbox": [0.038403264492750167, 0.1028, 0.47216564181447024, 0.086],
           "layout": "panel"
         },
         {
-          "text": "①電池ぶたを取り外します。\n①-1 飛電ゼロワンドライバー本体背面の電池ぶたの穴を先の細い\n棒などで押しながら、\n①-2 電池ぶたを取り外します。\n②乾電池を入れます。\nプラスマイナス\n単4乾電池3本(別売り)の土日をそれぞれ間違えないように入れます。\n③電池ぶたを戻します。",
-          "translation": "• 1. Remove the battery cover.\n• 1-1 While pressing the hole of the battery cover on the back of the Hiden Zero One Driver main body with a pointed thin rod or similar,\n• 1-2 remove the battery cover.\n• 2. Insert the dry batteries.\n• Insert three AAA dry batteries (sold separately), making sure not to mix up the + and - polarities for each battery.\n• 3. Replace the battery cover.",
-          "bbox": [0.0378, 0.18829766964912414, 0.37, 0.10830233035087583],
+          "text": "①電池ぶたを取り外します。\n①-1 飛電ゼロワンドライバー本体背面の電池ぶたの穴を先の細い",
+          "translation": "• Remove the battery cover.\n• 1-1 On the back of the Hiden Zero One Driver main unit, the hole of the battery cover is (use) a thin pointed",
+          "bbox": [0.0378, 0.18829766964912414, 0.3531, 0.030902330350875862],
+          "layout": "panel"
+        },
+        {
+          "text": "②乾電池を入れます。\n単4乾電池3本(別売り)の土日をそれぞれ間違えないように入れます。\n③電池ぶたを戻します。\n電池ぶたの突起と本体のミゾを合わせ、 電池ぶたを閉じます。",
+          "translation": "• 2. Insert batteries. Insert three AAA (R03) batteries (sold separately), making sure the + and − polarities for each are not reversed.\n• 3. Replace the battery cover. Align the projection on the battery cover with the groove on the main body, then close the battery cover.",
+          "bbox": [0.0378, 0.2498536512851715, 0.37, 0.0620463487148285],
           "layout": "panel"
         },
         {
@@ -4445,16 +4307,16 @@
           "layout": "panel"
         },
         {
-          "text": "飛電ゼロワンドライバー本体背面の電源スイッチを\nオン\nO(ON)にします。\n→起動音が鳴ります。",
-          "translation": "• Turn the power switch on the back of the Hiden Zero-One Driver main unit to O (ON).\n• A startup sound will play.",
+          "text": "飛電ゼロワンドライバー本体背面の電源スイッチを\nO(ON)にします。\n→起動音が鳴ります。",
+          "translation": "• Set the power switch on the back of the Hiden Zero-One Driver main unit to O (ON).\n• A startup sound will play.",
           "bbox": [
             0.038403264492750167, 0.3647011921405792, 0.2635967355072498, 0.04809880785942078
           ],
           "layout": "panel"
         },
         {
-          "text": "※遊び終わった後は、\n必ず電源スイッチを\nオフ\nX (OFF)にしてください。",
-          "translation": "After you finish playing, be sure to set the power switch to X (OFF).",
+          "text": "※遊び終わった後は、\n必ず電源スイッチを\nX (OFF)にしてください。",
+          "translation": "After you finish playing, always switch the power switch to X (OFF).",
           "bbox": [0.8044, 0.4111, 0.12978841505050653, 0.04067074217796324],
           "layout": "panel"
         },
@@ -4465,14 +4327,34 @@
           "layout": "panel"
         },
         {
+          "text": "初めて遊ぶ前に･･",
+          "translation": "Before you play for the first time...",
+          "bbox": [0.0366, 0.5650000000000001, 0.173283709192276, 0.0230999999999999],
+          "layout": "panel"
+        },
+        {
+          "text": "DXプログライズキーの",
+          "translation": "How to remove the DX Progrise Key insulation sheet",
+          "bbox": [0.0384, 0.5889000000000001, 0.2654, 0.02702005634307847],
+          "layout": "panel"
+        },
+        {
+          "text": "絶縁シートの外し方",
+          "translation": "How to remove the insulation sheet",
+          "bbox": [
+            0.03598488426208496, 0.6184000000000001, 0.22191511573791506, 0.02829804716110218
+          ],
+          "layout": "panel"
+        },
+        {
           "text": "① プログライズキー本体背面から出ている絶縁シートを\nやじるし ほうこう ひ ぬ\n矢印の方向に引き抜きます。",
-          "translation": "1. Pull out the insulating sheet protruding from the back of the Proglaize Key in the direction of the arrow.",
+          "translation": "1. Pull the insulating sheet protruding from the back of the Progrise Key out in the direction of the arrow.",
           "bbox": [0.0384, 0.6505000000000001, 0.286, 0.03979999999999995],
           "layout": "panel"
         },
         {
           "text": "②リセットボタンを先の細い棒などで軽く押します。",
-          "translation": "2. Lightly press the reset button with a thin-tipped stick or similar object.",
+          "translation": "②Lightly press the reset button with the tip of a thin stick or similar object.",
           "bbox": [0.0378, 0.8168000000000001, 0.2623699044704437, 0.023599999999999954],
           "layout": "panel"
         },
@@ -4484,7 +4366,7 @@
         },
         {
           "text": "※必ず保護者の方が行ってください。",
-          "translation": "This must be carried out by a parent or guardian.",
+          "translation": "This must be performed by a guardian.",
           "bbox": [
             0.6671819791793824, 0.5750175223350525, 0.24564407157897938, 0.018958964824676405
           ],
@@ -4492,39 +4374,39 @@
         },
         {
           "text": "※音が小さくなって聞きとりにくくなったり、\n音が止まるなどの誤動作をする場合や、\nLEDの発光が弱くなった場合は、\nすべて新しい電池に交換してください。",
-          "translation": "If the sound becomes quieter and difficult to hear, if the sound stops or other malfunctions occur, or if the LED’s illumination becomes weak, replace all batteries with new ones.",
+          "translation": "If the sound becomes low and hard to hear, if malfunctions such as the sound stopping occur, or if the LED’s illumination becomes weak, replace all batteries with new ones.",
           "bbox": [
             0.3834254250526428, 0.6063655123710633, 0.27897457494735717, 0.08022997665405263
           ],
           "layout": "panel"
         },
         {
-          "text": "①電池ぶたを取り外します。\n①-1 プログライズキー背面の電池ぶたの穴を\n先の細い棒などで押し、\n①-2 電池ぶたを取り外します。\n② ボタン電池を入れます。\n古いボタン電池を取り外して、 新しいボタン電池\nプラスマイナス ちゅうい\n3個(LR44・別売り)を+に注意してセットします。",
-          "translation": "• 1. Remove the battery cover.\n• 1-1. Press the hole of the battery cover on the back of the Progrise Key with a thin pointed stick or similar object,\n• 1-2. Remove the battery cover.\n• 2. Insert the button batteries.\n• Remove the old button batteries and set three new button batteries (LR44, sold separately), taking care with the +/− polarity.",
+          "text": "①電池ぶたを取り外します。\n①-1 プログライズキー背面の電池ぶたの穴を\n先の細い棒などで押し、\n①-2 電池ぶたを取り外します。\n② ボタン電池を入れます。\n古いボタン電池を取り外して、 新しいボタン電池\n3個(LR44・別売り)を+に注意してセットします。",
+          "translation": "• 1. Remove the battery cover.\n• 1-1 Press the hole of the battery cover on the back of the Progrise Key with a thin pointed tool,\n• 1-2 and remove the battery cover.\n• 2. Insert button batteries.\n• Remove the old button batteries and set three new button batteries (LR44, sold separately), taking care to observe the +/− polarity.",
           "bbox": [0.3842, 0.7031000000000001, 0.2738999999999999, 0.10599999999999987],
           "layout": "panel"
         },
         {
           "text": "③電池ぶたを戻します。\n電池ぶたの突起と本体のミゾを合わせ、\n電池ぶたを閉じます。",
-          "translation": "• 3. Replace the battery cover.\n• Align the projection on the battery cover with the slot on the main unit,\n• and close the battery cover.",
+          "translation": "• 3. Replace the battery cover.\n• Align the projection on the battery cover with the groove on the main body,\n• and close the battery cover.",
           "bbox": [0.3842, 0.8069924221038819, 0.2150428555488586, 0.04574725914001454],
           "layout": "panel"
         },
         {
           "text": "ボタン電池(LR44) 3個使用(付)",
-          "translation": "Uses three button batteries (LR44) (included)",
+          "translation": "Uses 3 LR44 button batteries (included)",
           "bbox": [0.4051908359527588, 0.892, 0.14125070858001704, 0.018100000000000005],
           "layout": "panel"
         },
         {
           "text": "●セットされている電池は、テスト用です。",
-          "translation": "The batteries installed are for testing purposes.",
+          "translation": "The battery installed is for testing.",
           "bbox": [0.39027751541137695, 0.9091, 0.17027125644683833, 0.014599999999999946],
           "layout": "panel"
         },
         {
           "text": "うえがわ プラスしたがわ\nボタン電池は上側が十に下側が\nマイナス\nになるようにセットします。",
-          "translation": "Set the button battery so the upper side is + and the lower side is −.",
+          "translation": "Set the button cell so that the top is + and the bottom is −.",
           "bbox": [0.40116022086143494, 0.9322, 0.14608747649192805, 0.029972557353973306],
           "layout": "panel"
         },
@@ -4555,9 +4437,15 @@
           "bbox": [0.6983, 0.0881, 0.0206, 0.0064]
         },
         {
-          "text": "電池ぶたの突起と本体のミゾを合わせ、 電池ぶたを閉じます。",
-          "translation": "Align the protrusion on the battery cover with the groove on the main unit, then close the battery cover.",
-          "bbox": [0.0499, 0.2961, 0.3101, 0.015800000000000036],
+          "text": "棒などで押しながら、",
+          "translation": "While pressing with a thin pointed tool (e.g., a stick),",
+          "bbox": [0.0771, 0.2187, 0.10880000000000001, 0.01579999999999998],
+          "layout": "panel"
+        },
+        {
+          "text": "①-2 電池ぶたを取り外します。",
+          "translation": "①-2 Remove the battery cover.",
+          "bbox": [0.0499, 0.2345, 0.1596, 0.016199999999999992],
           "layout": "panel"
         },
         {
@@ -4648,42 +4536,15 @@
           "layout": "panel"
         },
         {
-          "text": "でんち プラスマイナスス まちが",
-          "translation": "Correct polarity",
-          "bbox": [0.3591, 0.5105, 0.0919, 0.0043]
-        },
-        {
           "text": "※電池のを間違えないように入れてください。",
           "translation": "*Make sure to insert the batteries with the correct polarity.",
-          "bbox": [0.3461, 0.5098, 0.25999999999999995, 0.014999999999999902],
+          "bbox": [0.3461, 0.509, 0.25999999999999995, 0.015799999999999925],
           "layout": "panel"
         },
         {
           "text": "次の項目に注意してください。 ※遊び終わったら電源をOFFにしてください。また、長時間使用しないときは必ず乾電池を取り外してください。",
           "translation": "Please pay attention to the following points: ※Turn off the power after playing. Also, be sure to remove the batteries if the product will not be used for an extended period.",
           "bbox": [0.0868, 0.5188, 0.8289, 0.022299999999999986],
-          "layout": "panel"
-        },
-        {
-          "text": "初めて遊ぶ前に･･",
-          "translation": "Before you play for the first time...",
-          "bbox": [0.0366, 0.5650000000000001, 0.16140000000000002, 0.0230999999999999],
-          "layout": "panel"
-        },
-        {
-          "text": "デラックス",
-          "translation": "Deluxe",
-          "bbox": [0.0417, 0.5904, 0.0357, 0.006]
-        },
-        {
-          "text": "DXプログライズキーの",
-          "translation": "How to remove the DX Progrise Key insulation sheet",
-          "bbox": [0.0399, 0.5968, 0.2624, 0.0171]
-        },
-        {
-          "text": "絶縁シートの外し方",
-          "translation": "How to remove the insulation sheet",
-          "bbox": [0.0366, 0.6184000000000001, 0.22130000000000002, 0.028199999999999892],
           "layout": "panel"
         },
         {
@@ -5994,87 +5855,107 @@
               "source_ids": [4]
             },
             {
-              "id": "p3-a",
+              "id": "p3",
               "kind": "prose",
-              "source_ids": [8, 10, 12]
+              "source_ids": [8]
             },
             {
-              "id": "p3-b",
+              "id": "p4-a",
               "kind": "prose",
-              "source_ids": [18, 32, 34]
+              "source_ids": [12, 18, 32, 34]
             },
             {
-              "id": "p4",
+              "id": "p4-b-a",
               "kind": "prose",
-              "source_ids": [37, 41, 43, 46, 49, 51, 53, 56]
+              "source_ids": [37, 41]
             },
             {
-              "id": "p7",
+              "id": "p6",
+              "kind": "prose",
+              "source_ids": [49, 53, 56, 62]
+            },
+            {
+              "id": "p8",
               "kind": "heading",
               "source_ids": [66]
             },
             {
-              "id": "p8",
-              "kind": "prose",
-              "source_ids": [69, 70, 71, 74]
-            },
-            {
               "id": "p9",
               "kind": "prose",
-              "source_ids": [100, 102, 103, 104]
+              "source_ids": [69, 71, 74]
             },
             {
               "id": "p10",
+              "kind": "prose",
+              "source_ids": [100, 102, 104]
+            },
+            {
+              "id": "p11",
               "kind": "heading",
               "source_ids": [108]
             },
             {
               "id": "p13",
+              "kind": "heading",
+              "source_ids": [132]
+            },
+            {
+              "id": "p14-a",
+              "kind": "heading",
+              "source_ids": [134]
+            },
+            {
+              "id": "p14-b",
+              "kind": "heading",
+              "source_ids": [138]
+            },
+            {
+              "id": "p15",
               "kind": "prose",
               "source_ids": [142, 143]
             },
             {
-              "id": "p14",
+              "id": "p16",
               "kind": "prose",
               "source_ids": [152]
             },
             {
-              "id": "p15",
+              "id": "p17",
               "kind": "heading",
               "source_ids": [159]
             },
             {
-              "id": "p16",
+              "id": "p18",
               "kind": "prose",
               "source_ids": [164]
             },
             {
-              "id": "p17",
+              "id": "p19",
               "kind": "prose",
               "source_ids": [167, 174, 178, 182]
             },
             {
-              "id": "p18",
+              "id": "p20",
               "kind": "prose",
-              "source_ids": [185, 189, 192, 195, 197, 202, 205, 206]
+              "source_ids": [185, 189, 192, 195, 197, 202, 206]
             },
             {
-              "id": "p20",
+              "id": "p22",
               "kind": "prose",
               "source_ids": [209, 213, 216]
             },
             {
-              "id": "p21-a-a",
+              "id": "p23-a-a",
               "kind": "prose",
               "source_ids": [228]
             },
             {
-              "id": "p21-a-b",
+              "id": "p23-a-b",
               "kind": "prose",
               "source_ids": [231]
             },
             {
-              "id": "p21-b",
+              "id": "p23-b",
               "kind": "prose",
               "source_ids": [233, 234, 235]
             }
@@ -6106,6 +5987,10 @@
             },
             {
               "source_id": 9,
+              "parent_id": 12
+            },
+            {
+              "source_id": 10,
               "parent_id": 12
             },
             {
@@ -6213,6 +6098,10 @@
               "parent_id": 53
             },
             {
+              "source_id": 51,
+              "parent_id": 53
+            },
+            {
               "source_id": 52,
               "parent_id": 53
             },
@@ -6263,6 +6152,10 @@
             {
               "source_id": 68,
               "parent_id": 69
+            },
+            {
+              "source_id": 70,
+              "parent_id": 71
             },
             {
               "source_id": 72,
@@ -6317,6 +6210,10 @@
               "parent_id": 102
             },
             {
+              "source_id": 103,
+              "parent_id": 104
+            },
+            {
               "source_id": 105,
               "parent_id": 108
             },
@@ -6369,6 +6266,10 @@
               "parent_id": 119
             },
             {
+              "source_id": 120,
+              "parent_id": 122
+            },
+            {
               "source_id": 121,
               "parent_id": 122
             },
@@ -6403,6 +6304,10 @@
             {
               "source_id": 131,
               "parent_id": 132
+            },
+            {
+              "source_id": 133,
+              "parent_id": 134
             },
             {
               "source_id": 135,
@@ -6593,6 +6498,10 @@
               "parent_id": 206
             },
             {
+              "source_id": 205,
+              "parent_id": 206
+            },
+            {
               "source_id": 207,
               "parent_id": 209
             },
@@ -6658,9 +6567,10 @@
             }
           ],
           "notes": [
-            "Some OCR lines combine furigana and base text in one source region, so they were retained as main text rather than linked as separate ruby.",
-            "Conservative panel fallback: Panel p11 would mask unrelated source 105",
-            "Retained p12 unchanged: Panel p12 would mask unrelated source 133"
+            "Source 22, 143, 221 and 233 appear to contain ruby and base text combined by OCR, so they are retained as main source regions rather than split as furigana.",
+            "Source 95 appears to be a reading for a diagram label, but no confirmed parent candidate is provided.",
+            "Conservative panel fallback: Panel p12 would mask unrelated source 105",
+            "Panel p4-b-b retained original English after failed automatic checks"
           ]
         },
         "mapping": [
@@ -6680,101 +6590,126 @@
           },
           {
             "display_index": 2,
-            "panel_id": "p3-a",
-            "source_ids": [8, 10, 12],
-            "furigana_ids": [5, 6, 7, 9, 11],
-            "japanese_items": [
-              "※必ず保護者の方が行ってください。",
-              "※電源スイッチがX (OFF)になっていることを確認してください。"
-            ]
+            "panel_id": "p3",
+            "source_ids": [8],
+            "furigana_ids": [5, 6, 7],
+            "japanese_items": ["※必ず保護者の方が行ってください。"]
           },
           {
             "display_index": 3,
-            "panel_id": "p3-b",
-            "source_ids": [18, 32, 34],
-            "furigana_ids": [13, 14, 15, 16, 17, 19, 26, 27, 28, 29, 30, 31, 33],
+            "panel_id": "p4-a",
+            "source_ids": [12, 18, 32, 34],
+            "furigana_ids": [9, 10, 11, 13, 14, 15, 16, 17, 19, 26, 27, 28, 29, 30, 31, 33],
             "japanese_items": [
+              "※電源スイッチがX (OFF)になっていることを確認してください。",
               "※音が小さくなって聞きとりにくくなったり、音が繰り返し鳴るなどの誤動作をする場合やLEDの発光が弱くなった場合は、すべて新しい電池に交換してください。"
             ]
           },
           {
             "display_index": 4,
-            "panel_id": "p4",
-            "source_ids": [37, 41, 43, 46, 49, 51, 53, 56],
-            "furigana_ids": [35, 36, 38, 39, 40, 42, 44, 45, 47, 48, 50, 52, 54, 55],
+            "panel_id": "p4-b-a",
+            "source_ids": [37, 41],
+            "furigana_ids": [35, 36, 38, 39, 40],
             "japanese_items": [
-              "① 電池ぶたを取り外します。",
-              "①-1 飛電ゼロワンドライバー本体背面の電池ぶたの穴を先の細い棒などで押しながら、",
-              "①-2 電池ぶたを取り外します。",
-              "② 乾電池を入れます。",
-              "単4乾電池3本（別売り）の⊕⊖をそれぞれ間違えないように入れます。",
-              "③ 電池ぶたを戻します。"
+              "①電池ぶたを取り外します。",
+              "①-1 飛電ゼロワンドライバー本体背面の電池ぶたの穴を先の細い"
             ]
           },
           {
             "display_index": 5,
-            "panel_id": "p7",
+            "panel_id": "p6",
+            "source_ids": [49, 53, 56, 62],
+            "furigana_ids": [47, 48, 50, 51, 52, 54, 55, 57, 58, 59, 60, 61],
+            "japanese_items": [
+              "②乾電池を入れます。単4乾電池3本（別売り）の＋−をそれぞれ間違えないように入れます。",
+              "③電池ぶたを戻します。電池ぶたの突起と本体のミゾを合わせ、電池ぶたを閉じます。"
+            ]
+          },
+          {
+            "display_index": 6,
+            "panel_id": "p8",
             "source_ids": [66],
             "furigana_ids": [63, 64, 65],
             "japanese_items": ["電源の入れ方"]
           },
           {
-            "display_index": 6,
-            "panel_id": "p8",
-            "source_ids": [69, 70, 71, 74],
-            "furigana_ids": [67, 68, 72, 73],
+            "display_index": 7,
+            "panel_id": "p9",
+            "source_ids": [69, 71, 74],
+            "furigana_ids": [67, 68, 70, 72, 73],
             "japanese_items": [
-              "飛電ゼロワンドライバー本体背面の電源スイッチをオン O(ON)にします。",
+              "飛電ゼロワンドライバー本体背面の電源スイッチをO(ON)にします。",
               "→起動音が鳴ります。"
             ]
           },
           {
-            "display_index": 7,
-            "panel_id": "p9",
-            "source_ids": [100, 102, 103, 104],
-            "furigana_ids": [97, 98, 99, 101],
-            "japanese_items": ["※遊び終わった後は、必ず電源スイッチをオフ X (OFF)にしてください。"]
-          },
-          {
             "display_index": 8,
             "panel_id": "p10",
+            "source_ids": [100, 102, 104],
+            "furigana_ids": [97, 98, 99, 101, 103],
+            "japanese_items": ["※遊び終わった後は、必ず電源スイッチをX(OFF)にしてください。"]
+          },
+          {
+            "display_index": 9,
+            "panel_id": "p11",
             "source_ids": [108],
             "furigana_ids": [105, 106, 107],
             "japanese_items": ["電池を使用する際は、"]
           },
           {
-            "display_index": 9,
+            "display_index": 10,
             "panel_id": "p13",
+            "source_ids": [132],
+            "furigana_ids": [129, 130, 131],
+            "japanese_items": ["初めて遊ぶ前に･･"]
+          },
+          {
+            "display_index": 11,
+            "panel_id": "p14-a",
+            "source_ids": [134],
+            "furigana_ids": [133],
+            "japanese_items": ["DXプログライズキーの"]
+          },
+          {
+            "display_index": 12,
+            "panel_id": "p14-b",
+            "source_ids": [138],
+            "furigana_ids": [135, 136, 137],
+            "japanese_items": ["絶縁シートの外し方"]
+          },
+          {
+            "display_index": 13,
+            "panel_id": "p15",
             "source_ids": [142, 143],
             "furigana_ids": [139, 140, 141],
             "japanese_items": [
-              "①プログライズキー本体背面から出ている絶縁シートを矢印の方向に引き抜きます。"
+              "① プログライズキー本体背面から出ている絶縁シートを矢印の方向に引き抜きます。"
             ]
           },
           {
-            "display_index": 10,
-            "panel_id": "p14",
+            "display_index": 14,
+            "panel_id": "p16",
             "source_ids": [152],
             "furigana_ids": [147, 148, 151],
             "japanese_items": ["②リセットボタンを先の細い棒などで軽く押します。"]
           },
           {
-            "display_index": 11,
-            "panel_id": "p15",
+            "display_index": 15,
+            "panel_id": "p17",
             "source_ids": [159],
             "furigana_ids": [157, 158],
             "japanese_items": ["ボタン電池の交換"]
           },
           {
-            "display_index": 12,
-            "panel_id": "p16",
+            "display_index": 16,
+            "panel_id": "p18",
             "source_ids": [164],
             "furigana_ids": [160, 161, 162, 163],
             "japanese_items": ["※必ず保護者の方が行ってください。"]
           },
           {
-            "display_index": 13,
-            "panel_id": "p17",
+            "display_index": 17,
+            "panel_id": "p19",
             "source_ids": [167, 174, 178, 182],
             "furigana_ids": [165, 166, 169, 172, 173, 175, 176, 177, 179, 180, 181],
             "japanese_items": [
@@ -6782,23 +6717,23 @@
             ]
           },
           {
-            "display_index": 14,
-            "panel_id": "p18",
-            "source_ids": [185, 189, 192, 195, 197, 202, 205, 206],
+            "display_index": 18,
+            "panel_id": "p20",
+            "source_ids": [185, 189, 192, 195, 197, 202, 206],
             "furigana_ids": [
-              183, 184, 186, 187, 188, 190, 191, 193, 194, 196, 198, 199, 200, 201, 203, 204
+              183, 184, 186, 187, 188, 190, 191, 193, 194, 196, 198, 199, 200, 201, 203, 204, 205
             ],
             "japanese_items": [
               "①電池ぶたを取り外します。",
               "①-1 プログライズキー背面の電池ぶたの穴を先の細い棒などで押し、",
               "①-2 電池ぶたを取り外します。",
               "②ボタン電池を入れます。",
-              "古いボタン電池を取り外して、新しいボタン電池3個(LR44・別売り)をプラスマイナスに注意してセットします。"
+              "古いボタン電池を取り外して、新しいボタン電池3個(LR44・別売り)を+に注意してセットします。"
             ]
           },
           {
-            "display_index": 15,
-            "panel_id": "p20",
+            "display_index": 19,
+            "panel_id": "p22",
             "source_ids": [209, 213, 216],
             "furigana_ids": [207, 208, 210, 211, 212, 214, 215],
             "japanese_items": [
@@ -6808,170 +6743,150 @@
             ]
           },
           {
-            "display_index": 16,
-            "panel_id": "p21-a-a",
+            "display_index": 20,
+            "panel_id": "p23-a-a",
             "source_ids": [228],
             "furigana_ids": [226, 227],
-            "japanese_items": ["ボタン電池(LR44)3個使用(付)"]
+            "japanese_items": ["ボタン電池(LR44) 3個使用(付)"]
           },
           {
-            "display_index": 17,
-            "panel_id": "p21-a-b",
+            "display_index": 21,
+            "panel_id": "p23-a-b",
             "source_ids": [231],
             "furigana_ids": [229, 230],
             "japanese_items": ["●セットされている電池は、テスト用です。"]
           },
           {
-            "display_index": 18,
-            "panel_id": "p21-b",
+            "display_index": 22,
+            "panel_id": "p23-b",
             "source_ids": [233, 234, 235],
             "furigana_ids": [232],
-            "japanese_items": ["ボタン電池は上側がプラスに下側がマイナスになるようにセットします。"]
+            "japanese_items": ["ボタン電池は上側が＋に下側が−になるようにセットします。"]
           },
           {
-            "display_index": 19,
+            "display_index": 23,
             "source_ids": [20],
             "furigana_ids": []
           },
           {
-            "display_index": 20,
+            "display_index": 24,
             "source_ids": [21],
             "furigana_ids": []
           },
           {
-            "display_index": 21,
+            "display_index": 25,
             "source_ids": [22],
             "furigana_ids": []
           },
           {
-            "display_index": 22,
+            "display_index": 26,
             "source_ids": [24],
             "furigana_ids": [23]
           },
           {
-            "display_index": 23,
+            "display_index": 27,
             "source_ids": [25],
             "furigana_ids": []
           },
           {
-            "display_index": 24,
-            "source_ids": [62],
-            "furigana_ids": [57, 58, 59, 60, 61]
+            "display_index": 28,
+            "source_ids": [43],
+            "furigana_ids": [42]
           },
           {
-            "display_index": 25,
+            "display_index": 29,
+            "source_ids": [46],
+            "furigana_ids": [44, 45]
+          },
+          {
+            "display_index": 30,
             "source_ids": [77],
             "furigana_ids": [75, 76]
           },
           {
-            "display_index": 26,
+            "display_index": 31,
             "source_ids": [78],
             "furigana_ids": []
           },
           {
-            "display_index": 27,
+            "display_index": 32,
             "source_ids": [79],
             "furigana_ids": []
           },
           {
-            "display_index": 28,
+            "display_index": 33,
             "source_ids": [80],
             "furigana_ids": []
           },
           {
-            "display_index": 29,
+            "display_index": 34,
             "source_ids": [81],
             "furigana_ids": []
           },
           {
-            "display_index": 30,
+            "display_index": 35,
             "source_ids": [82],
             "furigana_ids": []
           },
           {
-            "display_index": 31,
+            "display_index": 36,
             "source_ids": [83],
             "furigana_ids": []
           },
           {
-            "display_index": 32,
+            "display_index": 37,
             "source_ids": [86],
             "furigana_ids": [84]
           },
           {
-            "display_index": 33,
+            "display_index": 38,
             "source_ids": [87],
             "furigana_ids": []
           },
           {
-            "display_index": 34,
+            "display_index": 39,
             "source_ids": [89],
             "furigana_ids": [88]
           },
           {
-            "display_index": 35,
+            "display_index": 40,
             "source_ids": [90],
             "furigana_ids": [85]
           },
           {
-            "display_index": 36,
+            "display_index": 41,
             "source_ids": [92],
             "furigana_ids": [91]
           },
           {
-            "display_index": 37,
+            "display_index": 42,
             "source_ids": [93],
             "furigana_ids": []
           },
           {
-            "display_index": 38,
+            "display_index": 43,
             "source_ids": [95],
             "furigana_ids": []
           },
           {
-            "display_index": 39,
+            "display_index": 44,
             "source_ids": [96],
             "furigana_ids": [94]
           },
           {
-            "display_index": 40,
+            "display_index": 45,
             "source_ids": [119],
             "furigana_ids": [112, 113, 114, 115, 116, 117, 118]
           },
           {
-            "display_index": 41,
-            "source_ids": [120],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 42,
-            "source_ids": [122],
-            "furigana_ids": [121]
-          },
-          {
-            "display_index": 43,
-            "source_ids": [128],
-            "furigana_ids": [109, 110, 111, 123, 124, 125, 126, 127]
-          },
-          {
-            "display_index": 44,
-            "source_ids": [132],
-            "furigana_ids": [129, 130, 131]
-          },
-          {
-            "display_index": 45,
-            "source_ids": [133],
-            "furigana_ids": []
-          },
-          {
             "display_index": 46,
-            "source_ids": [134],
-            "furigana_ids": []
+            "source_ids": [122],
+            "furigana_ids": [120, 121]
           },
           {
             "display_index": 47,
-            "source_ids": [138],
-            "furigana_ids": [135, 136, 137]
+            "source_ids": [128],
+            "furigana_ids": [109, 110, 111, 123, 124, 125, 126, 127]
           },
           {
             "display_index": 48,
@@ -7055,7 +6970,9 @@
           }
         ],
         "uncertainties": [
-          "The battery polarity symbols in the image appear as ⊕ and ⊖; I preserved them as such — if different polarity symbols were printed, they are not certain from the scan."
+          "The second line is truncated in the image/OCR and the sentence is incomplete; the remainder of the instruction (what to do with a thin pointed object) is missing.",
+          "Reading of the product name '飛電ゼロワンドライバー' assumed as 'Hiden Zero One Driver' (proper noun transliteration).",
+          "Fresh OCR showed a stray '十' in the battery line; interpreted as polarity marks (+/−) for the three AAA batteries."
         ],
         "ocr_lines": [
           {
@@ -8852,7 +8769,7 @@
         },
         {
           "text": "※セット内容の状態から始めます。",
-          "translation": "Begin with the set contents as shown.",
+          "translation": "Begin from the state of the set contents.",
           "bbox": [0.5977, 0.029899999999999996, 0.20309999999999984, 0.01736785117387772],
           "layout": "panel"
         },
@@ -8864,24 +8781,48 @@
         },
         {
           "text": "①飛電ゼロワンドライバー本体の\nレールジョイント(下)を右端に移動させます。",
-          "translation": "1. Move the Rail Joint (lower) of the Hiden Zero-One Driver main unit to the right end.",
+          "translation": "Move the Rail Joint (lower) of the Hiden Zero-One Driver main unit to the right end.",
           "bbox": [0.0704, 0.0721, 0.24359999999999998, 0.029899999999999996],
           "layout": "panel"
         },
         {
+          "text": "②カバーパーツの凸ジョイントを\nレールジョイントに取り付けます。",
+          "translation": "②Attach the protruding joint of the cover part to the rail joint.",
+          "bbox": [0.03880632972717285, 0.2181, 0.18316928434371949, 0.027400000000000008],
+          "layout": "panel"
+        },
+        {
           "text": "飛電ゼロワンドライバー本体背面の\n凹ジョイントの刻印(R・L)と\nベルト右 (R) ・ベルト左 (L) 裏側の\n刻印 (R・L)を、矢印の向きに\n合わせてください。",
-          "translation": "Align the markings (R·L) on the recessed joint on the back of the Hiden Zero-One Driver main unit with the markings (R·L) on the back of the right belt (R) and the left belt (L) in the direction of the arrow.",
+          "translation": "Align the markings (R·L) on the recessed joint on the back of the Hiden Zero-One Driver main unit with the markings (R·L) on the back of the right belt (R) and left belt (L) so they face the direction of the arrows.",
           "bbox": [
             0.3628692135810852, 0.07339999999999999, 0.18463078641891478, 0.07505340394973756
           ],
           "layout": "panel"
         },
         {
-          "text": "※図のように\nやじるしうえ\n矢印が上を\n向きます。",
-          "translation": "As shown in the illustration, the arrow points upward.",
+          "text": "※図のように\n矢印が上を\n向きます。",
+          "translation": "The arrow points upward as shown.",
           "bbox": [
             0.8824000000000001, 0.08121298557519913, 0.06289999999999984, 0.03498235481977463
           ],
+          "layout": "panel"
+        },
+        {
+          "text": "①ベルト右(R)の着脱ボタンを押しながら、\n②飛電ゼロワンドライバー本体背面の凹ジョイント(R) に\nジョイントを合わせます。",
+          "translation": "• 1. While pressing the release/attach button on the right belt (R),\n• 2. Align the protruding joint with the recessed joint (R) on the back of the Hiden Zero-One Driver main unit.",
+          "bbox": [0.33039999999999997, 0.2499, 0.3063277398109436, 0.048099999999999976],
+          "layout": "panel"
+        },
+        {
+          "text": "呂 ジョイント\nベルト(R)",
+          "translation": "• Convex joint\n• Right belt (R)",
+          "bbox": [0.4628, 0.2970938787460327, 0.17469999999999997, 0.022806121253967304],
+          "layout": "panel"
+        },
+        {
+          "text": "③着脱ボタンを離して、凹凸ジョイントを\nしっかりとはめ込みます。\n※ベルト左(L)も同様に行います。",
+          "translation": "• 3. Release the attachment button and firmly engage the convex/concave joint.\n• ※Perform the same procedure for the left belt (L).",
+          "bbox": [0.672, 0.2499, 0.2069687647819518, 0.04569999999999996],
           "layout": "panel"
         },
         {
@@ -8892,7 +8833,7 @@
         },
         {
           "text": "ベルト留めにベルト右(R)を通します。",
-          "translation": "Thread the right belt (R) through the belt holder.",
+          "translation": "Pass the right belt (R) through the belt fastener.",
           "bbox": [0.07105139201879501, 0.4381, 0.19474860798120497, 0.01611575450897218],
           "layout": "panel"
         },
@@ -8903,27 +8844,21 @@
           "layout": "panel"
         },
         {
-          "text": "パチンと音がするまで、\nはめ込みます。\nとっき\n突起",
-          "translation": "• Push in until it snaps into place.\n• Protrusion",
+          "text": "パチンと音がするまで、\nはめ込みます。\n突起",
+          "translation": "• Insert until it clicks.\n• Protrusion",
           "bbox": [0.5353803143501282, 0.4282, 0.1045719175338744, 0.04229999999999995],
           "layout": "panel"
         },
         {
-          "text": "②ベルト留めを、ベルトが重なっている\n部分まで移動させます。",
-          "translation": "② Move the belt stopper until it reaches the part where the belt overlaps.",
-          "bbox": [0.7022, 0.4191, 0.19813112907409658, 0.03030000000000005],
+          "text": "5 カバーパーツの移動\nカバーパーツを\nやじるし ほうこう\n矢印の方向に",
+          "translation": "• 5 Moving the cover parts\n• Move the cover parts in the direction of the arrow.",
+          "bbox": [0.039, 0.5672, 0.15469999999999998, 0.05499999999999994],
           "layout": "panel"
         },
         {
-          "text": "5 カバーパーツの移動\nカバーパーツを\nやじるし ほうこう",
-          "translation": "5 Move the cover part\nMove the cover part in the direction of the arrow.",
-          "bbox": [0.039209391236305235, 0.5672, 0.15449060876369475, 0.044399999999999884],
-          "layout": "panel"
-        },
-        {
-          "text": "矢印の方向に\nカチッと鳴るまで\n移動させます。",
-          "translation": "Move in the direction of the arrow until it clicks.",
-          "bbox": [0.039, 0.6073000000000001, 0.09067412614822387, 0.038809868526458624],
+          "text": "カチッと鳴るまで\nい どう\n移動させます。",
+          "translation": "Move it until you hear a click.",
+          "bbox": [0.039, 0.6213287816047669, 0.09067412614822387, 0.024781086921691786],
           "layout": "panel"
         },
         {
@@ -8936,6 +8871,12 @@
           "text": "①着脱ボタンを上下同時に押しながら、\n②ベルト(R)を矢印の方向に引っぱって取り外します。\n※ベルト左(L)も同様に行います。",
           "translation": "• 1. While pressing the release buttons up and down at the same time,\n• 2. pull the right belt (R) in the direction of the arrow to remove it.\n• ※Perform the same procedure for the left belt (L).",
           "bbox": [0.5221, 0.5870000000000001, 0.2649703234672546, 0.04229158353805529],
+          "layout": "panel"
+        },
+        {
+          "text": "DXプログライズキーの単品遊び",
+          "translation": "DX Progrise Key single play",
+          "bbox": [0.0791126594543457, 0.752, 0.3266598074436188, 0.024520658969879094],
           "layout": "panel"
         },
         {
@@ -8957,14 +8898,20 @@
           "layout": "panel"
         },
         {
-          "text": "( 起動音) ジャンプ!\nグラスホッパーズアビリティ",
-          "translation": "• (startup sound) Jump!\n• Grasshoppers' Ability",
-          "bbox": [0.1182, 0.8881, 0.16740000000000002, 0.0401999999999999],
+          "text": "( 起動音) ジャンプ!",
+          "translation": "(Startup sound) Jump!",
+          "bbox": [0.11941898173093796, 0.8881, 0.10900564628839493, 0.016901510620117133],
           "layout": "panel"
         },
         {
-          "text": "※ボタンを押してから約30秒、\n「スキャン受付状態」になります。\n「スキャン受付状態」でないときに\n飛電ゼロワンドライバーの\nスキャンエリアにかざしても、\nデラックス\nDXプログライズキーは反応しません。",
-          "translation": "• ※About 30 seconds after you press the button, it will enter “scan ready” state.\n• If it is not in the “scan ready” state, placing the Hiden Zero-One Driver over the scan area will not make the Deluxe DX Progrise Key respond.",
+          "text": "グラスホッパーズアビリティ",
+          "translation": "Grasshopper's Ability",
+          "bbox": [0.1182, 0.915, 0.16740000000000002, 0.013299999999999867],
+          "layout": "panel"
+        },
+        {
+          "text": "※ボタンを押してから約30秒、\n「スキャン受付状態」になります。\n「スキャン受付状態」でないときに\n飛電ゼロワンドライバーの\nスキャンエリアにかざしても、\nDXプログライズキーは反応しません。",
+          "translation": "• About 30 seconds after you press the button, it will enter “scan ready” mode.\n• If it is not in “scan ready” mode, the DX Progrise Key will not respond even if you hold it over the Hiden Zero-One Driver’s scan area.",
           "bbox": [
             0.7282000000000001, 0.8694677457809449, 0.22412628726959216, 0.09646568584442128
           ],
@@ -8977,19 +8924,10 @@
           "layout": "panel"
         },
         {
-          "text": "はいめん",
-          "translation": "back side",
-          "bbox": [0.6354, 0.0769, 0.0187, 0.0025]
-        },
-        {
-          "text": "みず",
-          "translation": "water",
-          "bbox": [0.6765, 0.0769, 0.0254, 0.0033]
-        },
-        {
           "text": "【背面から見た図】",
           "translation": "[View from the back]",
-          "bbox": [0.6312, 0.0802, 0.078, 0.007]
+          "bbox": [0.6297, 0.0754, 0.08099999999999985, 0.013300000000000006],
+          "layout": "panel"
         },
         {
           "text": "レールジョイント (下)",
@@ -8997,54 +8935,28 @@
           "bbox": [0.1729, 0.1969, 0.0943, 0.0087]
         },
         {
-          "text": "②カバーパーツの凸ジョイントを",
-          "translation": "② Attach the convex joints of the cover part",
-          "bbox": [0.0405, 0.2196, 0.1651, 0.0079]
-        },
-        {
-          "text": "レールジョイントに取り付けます。",
-          "translation": "to the rail joints.",
-          "bbox": [0.0532, 0.2333, 0.1663, 0.0079]
-        },
-        {
-          "text": "こく いん",
-          "translation": "National",
-          "bbox": [0.5254, 0.17, 0.0181, 0.0029]
-        },
-        {
           "text": "刻印",
           "translation": "Engraving",
-          "bbox": [0.5242, 0.1737, 0.02, 0.007]
-        },
-        {
-          "text": "ひ",
-          "translation": "fire",
-          "bbox": [0.6016, 0.2208, 0.0054, 0.0021]
+          "bbox": [0.5227, 0.1685, 0.02299999999999991, 0.01369999999999999],
+          "layout": "panel"
         },
         {
           "text": "・ベルト左 (L)",
           "translation": "・Left belt (L)",
-          "bbox": [0.5719, 0.2237, 0.058, 0.0074]
-        },
-        {
-          "text": "おう",
-          "translation": "Ou",
-          "bbox": [0.6481, 0.2002, 0.0079, 0.0025]
+          "bbox": [0.5704, 0.2193, 0.06099999999999994, 0.013300000000000006],
+          "layout": "panel"
         },
         {
           "text": "凹ジョイント",
           "translation": "Concave joint",
-          "bbox": [0.6475, 0.2039, 0.055, 0.0066]
-        },
-        {
-          "text": "みぎ",
-          "translation": "right",
-          "bbox": [0.734, 0.2208, 0.0097, 0.0025]
+          "bbox": [0.646, 0.1987, 0.05799999999999994, 0.013300000000000006],
+          "layout": "panel"
         },
         {
           "text": "ベルト右(R)",
           "translation": "Belt Right (R)",
-          "bbox": [0.7056, 0.2237, 0.0556, 0.0079]
+          "bbox": [0.7041000000000001, 0.2193, 0.058599999999999874, 0.013800000000000007],
+          "layout": "panel"
         },
         {
           "text": "こくいん\n刻印",
@@ -9052,19 +8964,10 @@
           "bbox": [0.7902, 0.17, 0.0212, 0.0103]
         },
         {
-          "text": "ひでん",
-          "translation": "Hiden",
-          "bbox": [0.8138, 0.0604, 0.0163, 0.0029]
-        },
-        {
-          "text": "ほんたいがわ",
-          "translation": "The real side",
-          "bbox": [0.919, 0.06, 0.0284, 0.0033]
-        },
-        {
           "text": "電ゼロワンドライバー本体側】",
           "translation": "Electric Zero One Driver Main Unit Side",
-          "bbox": [0.8216, 0.0641, 0.1312, 0.0066]
+          "bbox": [0.8123, 0.058499999999999996, 0.1419999999999999, 0.013700000000000004],
+          "layout": "panel"
         },
         {
           "text": "※レールジョイントは(1)と(下)で仕様が異なり、",
@@ -9090,63 +8993,15 @@
           "layout": "panel"
         },
         {
-          "text": "①ベルト右(R)の着脱ボタンを押しながら、",
-          "translation": "① While pressing the detachment button on Belt Right (R),",
-          "bbox": [0.33039999999999997, 0.2499, 0.21999999999999992, 0.015500000000000014],
-          "layout": "panel"
-        },
-        {
-          "text": "②飛電ゼロワンドライバー本体背面の凹ジョイント(R) に\nジョイントを合わせます。",
-          "translation": "② Align the convex joint with the concave joint (R) on the back of the Hiden Zero‑One Driver main unit.",
-          "bbox": [0.33039999999999997, 0.2648, 0.28899999999999987, 0.03320000000000006],
-          "layout": "panel"
-        },
-        {
-          "text": "③着脱ボタンを離して、凹凸ジョイントを",
-          "translation": "③ Release the detachment button,",
-          "bbox": [0.672, 0.2499, 0.20669999999999988, 0.015500000000000014],
-          "layout": "panel"
-        },
-        {
-          "text": "しっかりとはめ込みます。",
-          "translation": "and firmly snap the convex/concave joint into place.",
-          "bbox": [0.6862, 0.2713, 0.1239, 0.007]
-        },
-        {
-          "text": "※ベルト左(L)も同様に行います。",
-          "translation": "※Do the same for Belt Left (L).",
-          "bbox": [0.6732, 0.2797, 0.17649999999999988, 0.01589999999999997],
-          "layout": "panel"
-        },
-        {
           "text": "カバーパーツ",
           "translation": "Cover parts",
           "bbox": [0.2328, 0.304, 0.0605, 0.0062]
         },
         {
-          "text": "呂 ジョイント",
-          "translation": "convex joint",
-          "bbox": [0.4643, 0.299, 0.055, 0.0083]
-        },
-        {
-          "text": "ベルト(R)",
-          "translation": "Belt(R)",
-          "bbox": [0.578, 0.3044, 0.058, 0.0066]
-        },
-        {
-          "text": "ちゃくだつ",
-          "translation": "Chakudai",
-          "bbox": [0.5514, 0.3209, 0.02, 0.0029]
-        },
-        {
           "text": "着脱ボタン",
           "translation": "attach/detach button",
-          "bbox": [0.552, 0.3242, 0.049, 0.007]
-        },
-        {
-          "text": "ちゃくだつ",
-          "translation": "Chakudai",
-          "bbox": [0.5405, 0.3888, 0.0193, 0.0037]
+          "bbox": [0.5499, 0.3194, 0.05259999999999998, 0.013299999999999979],
+          "layout": "panel"
         },
         {
           "text": "ジョイント",
@@ -9161,17 +9016,14 @@
         {
           "text": "着脱ボタン",
           "translation": "Detachable button",
-          "bbox": [0.5399, 0.3933, 0.0496, 0.0058]
-        },
-        {
-          "text": "おう",
-          "translation": "Ou",
-          "bbox": [0.3573, 0.3991, 0.0079, 0.0029]
+          "bbox": [0.5384000000000001, 0.3873, 0.05259999999999987, 0.013300000000000034],
+          "layout": "panel"
         },
         {
           "text": "凹ジョイント(R)",
           "translation": "Concave joint (R)",
-          "bbox": [0.3567, 0.4024, 0.0732, 0.007]
+          "bbox": [0.3552, 0.3976, 0.07619999999999999, 0.013299999999999979],
+          "layout": "panel"
         },
         {
           "text": "ベルト(R)",
@@ -9212,17 +9064,6 @@
           "bbox": [0.5345, 0.5041, 0.1342, 0.012]
         },
         {
-          "text": "デラックス",
-          "translation": "Deluxe",
-          "bbox": [0.0895, 0.7535, 0.0333, 0.005]
-        },
-        {
-          "text": "DXプログライズキーの単品遊び",
-          "translation": "DX Progrise Key single play",
-          "bbox": [0.0801, 0.7524000000000001, 0.324, 0.0240999999999999],
-          "layout": "panel"
-        },
-        {
           "text": "音声①",
           "translation": "Audio 1",
           "bbox": [0.0547, 0.8893000000000001, 0.0417, 0.017099999999999893],
@@ -9240,24 +9081,28 @@
           "bbox": [0.4123, 0.701, 0.0992, 0.024]
         },
         {
-          "text": "ちゃくだつ",
-          "translation": "Attach/Detach",
-          "bbox": [0.8537, 0.3151, 0.0193, 0.0025]
+          "text": "着脱ボタン",
+          "translation": "Attach/Detach button",
+          "bbox": [0.8522000000000001, 0.3136, 0.051999999999999935, 0.013000000000000012],
+          "layout": "panel"
         },
         {
           "text": "着脱ボタン",
           "translation": "Attach/Detach button",
-          "bbox": [0.8537, 0.3189, 0.049, 0.0062]
+          "bbox": [0.8516, 0.3757, 0.053199999999999914, 0.013299999999999979],
+          "layout": "panel"
         },
         {
-          "text": "ちゃくだつ",
-          "translation": "Attach/Detach",
-          "bbox": [0.8531, 0.3772, 0.02, 0.0029]
+          "text": "②ベルト留めを、ベルトが重なっている",
+          "translation": "② Move the belt fastener to the area where the belts overlap.",
+          "bbox": [0.7022, 0.4191, 0.19769999999999988, 0.015800000000000036],
+          "layout": "panel"
         },
         {
-          "text": "着脱ボタン",
-          "translation": "Attach/Detach button",
-          "bbox": [0.8537, 0.3813, 0.0496, 0.0062]
+          "text": "部分まで移動させます。",
+          "translation": "Move it to that area.",
+          "bbox": [0.7143, 0.434, 0.12269999999999992, 0.015400000000000025],
+          "layout": "panel"
         },
         {
           "text": "RISING HOPPER",
@@ -9280,14 +9125,10 @@
           "bbox": [0.8307, 0.5463, 0.0484, 0.0074]
         },
         {
-          "text": "ちゃくだつ",
-          "translation": "Attach/Detach",
-          "bbox": [0.8972, 0.6423, 0.0193, 0.0025]
-        },
-        {
           "text": "着脱ボタン",
           "translation": "Attach/Detach button",
-          "bbox": [0.8972, 0.646, 0.0496, 0.0058]
+          "bbox": [0.8957, 0.6408, 0.05259999999999987, 0.012499999999999956],
+          "layout": "panel"
         },
         {
           "text": "(R)",
@@ -9295,14 +9136,12 @@
           "bbox": [0.8374, 0.7089, 0.0157, 0.0074]
         },
         {
-          "text": "ちゃくだつ",
-          "translation": "Attach/Detach",
-          "bbox": [0.8869, 0.7105, 0.0187, 0.0029]
-        },
-        {
           "text": "着脱ボタン",
           "translation": "Attach/Detach button",
-          "bbox": [0.8869, 0.7146, 0.0508, 0.0058]
+          "bbox": [
+            0.8854000000000001, 0.7090000000000001, 0.05379999999999985, 0.012899999999999912
+          ],
+          "layout": "panel"
         }
       ],
       "image": "pages/page-2.webp",
@@ -10283,69 +10122,84 @@
         "plan": {
           "panels": [
             {
-              "id": "p0",
+              "id": "p01",
               "kind": "heading",
               "source_ids": [3]
             },
             {
-              "id": "p1",
+              "id": "p02",
               "kind": "prose",
               "source_ids": [6]
             },
             {
-              "id": "p2",
+              "id": "p03",
               "kind": "heading",
               "source_ids": [7]
             },
             {
-              "id": "p3",
+              "id": "p04",
               "kind": "prose",
               "source_ids": [16, 24]
             },
             {
-              "id": "p7",
+              "id": "p05",
+              "kind": "prose",
+              "source_ids": [35, 36]
+            },
+            {
+              "id": "p08",
               "kind": "prose",
               "source_ids": [18, 25, 29, 32, 33]
             },
             {
-              "id": "p8",
+              "id": "p09",
               "kind": "prose",
-              "source_ids": [49, 50, 51, 52]
+              "source_ids": [49, 51, 52]
+            },
+            {
+              "id": "p10-a",
+              "kind": "prose",
+              "source_ids": [65, 68]
+            },
+            {
+              "id": "p10-b",
+              "kind": "prose",
+              "source_ids": [78, 79]
             },
             {
               "id": "p11",
+              "kind": "prose",
+              "source_ids": [72, 73, 76]
+            },
+            {
+              "id": "p12",
               "kind": "heading",
               "source_ids": [88]
             },
             {
-              "id": "p12",
+              "id": "p13",
               "kind": "prose",
               "source_ids": [95]
             },
             {
-              "id": "p13",
+              "id": "p14",
               "kind": "heading",
               "source_ids": [89]
             },
             {
-              "id": "p15",
-              "kind": "prose",
-              "source_ids": [97, 98, 116]
-            },
-            {
               "id": "p16",
               "kind": "prose",
-              "source_ids": [154, 157]
+              "source_ids": [97, 116]
             },
             {
-              "id": "p17",
-              "kind": "heading",
-              "source_ids": [102]
-            },
-            {
-              "id": "p18",
+              "id": "p18-a",
               "kind": "prose",
-              "source_ids": [103, 104, 106]
+              "source_ids": [102, 103]
+            },
+            {
+              "id": "p18-b",
+              "kind": "prose",
+              "source_ids": [104, 105, 106]
             },
             {
               "id": "p19",
@@ -10356,6 +10210,11 @@
               "id": "p20",
               "kind": "prose",
               "source_ids": [161, 164, 167]
+            },
+            {
+              "id": "p21",
+              "kind": "heading",
+              "source_ids": [120]
             },
             {
               "id": "p22",
@@ -10375,12 +10234,17 @@
             {
               "id": "p25",
               "kind": "prose",
-              "source_ids": [138, 143]
+              "source_ids": [138]
             },
             {
               "id": "p26",
               "kind": "prose",
-              "source_ids": [183, 185, 187, 189, 190, 191, 193]
+              "source_ids": [143]
+            },
+            {
+              "id": "p27",
+              "kind": "prose",
+              "source_ids": [183, 185, 187, 189, 190, 193]
             }
           ],
           "furigana": [
@@ -10425,6 +10289,14 @@
               "parent_id": 18
             },
             {
+              "source_id": 14,
+              "parent_id": 19
+            },
+            {
+              "source_id": 15,
+              "parent_id": 19
+            },
+            {
               "source_id": 17,
               "parent_id": 24
             },
@@ -10463,6 +10335,34 @@
             {
               "source_id": 31,
               "parent_id": 32
+            },
+            {
+              "source_id": 37,
+              "parent_id": 38
+            },
+            {
+              "source_id": 39,
+              "parent_id": 40
+            },
+            {
+              "source_id": 41,
+              "parent_id": 42
+            },
+            {
+              "source_id": 43,
+              "parent_id": 44
+            },
+            {
+              "source_id": 46,
+              "parent_id": 48
+            },
+            {
+              "source_id": 47,
+              "parent_id": 48
+            },
+            {
+              "source_id": 50,
+              "parent_id": 51
             },
             {
               "source_id": 54,
@@ -10525,6 +10425,18 @@
               "parent_id": 76
             },
             {
+              "source_id": 80,
+              "parent_id": 81
+            },
+            {
+              "source_id": 82,
+              "parent_id": 85
+            },
+            {
+              "source_id": 86,
+              "parent_id": 87
+            },
+            {
               "source_id": 90,
               "parent_id": 89
             },
@@ -10537,24 +10449,24 @@
               "parent_id": 95
             },
             {
-              "source_id": 93,
-              "parent_id": 108
-            },
-            {
-              "source_id": 94,
-              "parent_id": 108
-            },
-            {
               "source_id": 96,
               "parent_id": 97
+            },
+            {
+              "source_id": 98,
+              "parent_id": 116
             },
             {
               "source_id": 101,
               "parent_id": 102
             },
             {
-              "source_id": 105,
-              "parent_id": 106
+              "source_id": 93,
+              "parent_id": 108
+            },
+            {
+              "source_id": 94,
+              "parent_id": 108
             },
             {
               "source_id": 109,
@@ -10577,92 +10489,8 @@
               "parent_id": 115
             },
             {
-              "source_id": 145,
-              "parent_id": 158
-            },
-            {
-              "source_id": 146,
-              "parent_id": 158
-            },
-            {
-              "source_id": 147,
-              "parent_id": 158
-            },
-            {
-              "source_id": 148,
-              "parent_id": 154
-            },
-            {
-              "source_id": 153,
-              "parent_id": 154
-            },
-            {
-              "source_id": 155,
-              "parent_id": 157
-            },
-            {
-              "source_id": 156,
-              "parent_id": 157
-            },
-            {
-              "source_id": 159,
-              "parent_id": 161
-            },
-            {
-              "source_id": 160,
-              "parent_id": 161
-            },
-            {
-              "source_id": 162,
-              "parent_id": 164
-            },
-            {
-              "source_id": 163,
-              "parent_id": 164
-            },
-            {
-              "source_id": 165,
-              "parent_id": 167
-            },
-            {
-              "source_id": 166,
-              "parent_id": 167
-            },
-            {
-              "source_id": 168,
-              "parent_id": 170
-            },
-            {
-              "source_id": 169,
-              "parent_id": 170
-            },
-            {
-              "source_id": 174,
-              "parent_id": 183
-            },
-            {
-              "source_id": 180,
-              "parent_id": 183
-            },
-            {
-              "source_id": 182,
-              "parent_id": 183
-            },
-            {
-              "source_id": 184,
-              "parent_id": 185
-            },
-            {
-              "source_id": 186,
-              "parent_id": 187
-            },
-            {
-              "source_id": 188,
-              "parent_id": 189
-            },
-            {
-              "source_id": 192,
-              "parent_id": 193
+              "source_id": 118,
+              "parent_id": 120
             },
             {
               "source_id": 119,
@@ -10723,45 +10551,152 @@
             {
               "source_id": 141,
               "parent_id": 142
+            },
+            {
+              "source_id": 145,
+              "parent_id": 158
+            },
+            {
+              "source_id": 146,
+              "parent_id": 158
+            },
+            {
+              "source_id": 147,
+              "parent_id": 158
+            },
+            {
+              "source_id": 148,
+              "parent_id": 154
+            },
+            {
+              "source_id": 153,
+              "parent_id": 154
+            },
+            {
+              "source_id": 149,
+              "parent_id": 150
+            },
+            {
+              "source_id": 151,
+              "parent_id": 152
+            },
+            {
+              "source_id": 155,
+              "parent_id": 157
+            },
+            {
+              "source_id": 156,
+              "parent_id": 157
+            },
+            {
+              "source_id": 159,
+              "parent_id": 161
+            },
+            {
+              "source_id": 160,
+              "parent_id": 161
+            },
+            {
+              "source_id": 162,
+              "parent_id": 164
+            },
+            {
+              "source_id": 163,
+              "parent_id": 164
+            },
+            {
+              "source_id": 165,
+              "parent_id": 167
+            },
+            {
+              "source_id": 166,
+              "parent_id": 167
+            },
+            {
+              "source_id": 168,
+              "parent_id": 170
+            },
+            {
+              "source_id": 169,
+              "parent_id": 170
+            },
+            {
+              "source_id": 174,
+              "parent_id": 183
+            },
+            {
+              "source_id": 180,
+              "parent_id": 183
+            },
+            {
+              "source_id": 182,
+              "parent_id": 183
+            },
+            {
+              "source_id": 176,
+              "parent_id": 177
+            },
+            {
+              "source_id": 179,
+              "parent_id": 181
+            },
+            {
+              "source_id": 184,
+              "parent_id": 185
+            },
+            {
+              "source_id": 186,
+              "parent_id": 187
+            },
+            {
+              "source_id": 188,
+              "parent_id": 189
+            },
+            {
+              "source_id": 191,
+              "parent_id": 193
+            },
+            {
+              "source_id": 192,
+              "parent_id": 193
             }
           ],
           "notes": [
-            "Diagram labels, part labels, sound-effect/product art text, and inset captions are left ungrouped.",
-            "Conservative panel fallback: Panel p21 would mask unrelated source 118",
-            "Retained p21 unchanged: Panel p21 would mask unrelated source 118",
-            "Panel p4 retained original English after failed automatic checks",
-            "Panel p6 retained original English after failed automatic checks",
-            "Panel p9-a retained original English after failed automatic checks",
-            "Panel p9-b retained original English after failed automatic checks",
-            "Panel p10 retained original English after failed automatic checks",
-            "Panel p14 retained original English after failed automatic checks"
+            "Source 102 combines the step 5 heading, body text, and an embedded ruby line in one OCR region, so it is kept as main text in a single prose panel.",
+            "Source 45 appears to combine ruby and base text in one OCR region; it is left ungrouped rather than split.",
+            "p25: excluded other-column members; retained separately",
+            "p26: excluded other-column members; retained separately",
+            "Panel p06 retained original English after failed automatic checks",
+            "Panel p07 retained original English after failed automatic checks",
+            "Panel p15 retained original English after failed automatic checks",
+            "Panel p17 retained original English after failed automatic checks"
           ]
         },
         "mapping": [
           {
             "display_index": 0,
-            "panel_id": "p0",
+            "panel_id": "p01",
             "source_ids": [3],
             "furigana_ids": [0, 1, 2],
             "japanese_items": ["飛電ゼロワンドライバーの組み立てと装着の仕方"]
           },
           {
             "display_index": 1,
-            "panel_id": "p1",
+            "panel_id": "p02",
             "source_ids": [6],
             "furigana_ids": [4, 5],
             "japanese_items": ["※セット内容の状態から始めます。"]
           },
           {
             "display_index": 2,
-            "panel_id": "p2",
+            "panel_id": "p03",
             "source_ids": [7],
             "furigana_ids": [],
             "japanese_items": ["1 カバーパーツの取り付け"]
           },
           {
             "display_index": 3,
-            "panel_id": "p3",
+            "panel_id": "p04",
             "source_ids": [16, 24],
             "furigana_ids": [10, 11, 17, 20, 21],
             "japanese_items": [
@@ -10770,78 +10705,105 @@
           },
           {
             "display_index": 4,
-            "panel_id": "p7",
-            "source_ids": [18, 25, 29, 32, 33],
-            "furigana_ids": [12, 13, 22, 23, 26, 27, 28, 30, 31],
-            "japanese_items": [
-              "飛電ゼロワンドライバー本体背面の凹ジョイントの刻印(R・L)とベルト右 (R) ・ベルト左 (L) 裏側の刻印 (R・L)を、矢印の向きに合わせてください。"
-            ]
+            "panel_id": "p05",
+            "source_ids": [35, 36],
+            "furigana_ids": [],
+            "japanese_items": ["②カバーパーツの凸ジョイントをレールジョイントに取り付けます。"]
           },
           {
             "display_index": 5,
-            "panel_id": "p8",
-            "source_ids": [49, 50, 51, 52],
-            "furigana_ids": [],
-            "japanese_items": ["※図のように矢印が上を向きます。"]
+            "panel_id": "p08",
+            "source_ids": [18, 25, 29, 32, 33],
+            "furigana_ids": [12, 13, 22, 23, 26, 27, 28, 30, 31],
+            "japanese_items": [
+              "飛電ゼロワンドライバー本体背面の凹ジョイントの刻印(R・L)とベルト右 (R)・ベルト左 (L) 裏側の刻印 (R・L)を、矢印の向きに合わせてください。"
+            ]
           },
           {
             "display_index": 6,
+            "panel_id": "p09",
+            "source_ids": [49, 51, 52],
+            "furigana_ids": [50],
+            "japanese_items": ["※図のように矢印が上を向きます。"]
+          },
+          {
+            "display_index": 7,
+            "panel_id": "p10-a",
+            "source_ids": [65, 68],
+            "furigana_ids": [62, 63, 64, 66, 67],
+            "japanese_items": [
+              "①ベルト右(R)の着脱ボタンを押しながら、",
+              "②飛電ゼロワンドライバー本体背面の凹ジョイント(R)に凸ジョイントを合わせます。"
+            ]
+          },
+          {
+            "display_index": 8,
+            "panel_id": "p10-b",
+            "source_ids": [78, 79],
+            "furigana_ids": [],
+            "japanese_items": ["凸ジョイント", "ベルト右 (R)"]
+          },
+          {
+            "display_index": 9,
             "panel_id": "p11",
+            "source_ids": [72, 73, 76],
+            "furigana_ids": [69, 70, 71, 74, 75],
+            "japanese_items": [
+              "③着脱ボタンを離して、凹凸ジョイントをしっかりとはめ込みます。",
+              "※ベルト左(L)も同様に行います。"
+            ]
+          },
+          {
+            "display_index": 10,
+            "panel_id": "p12",
             "source_ids": [88],
             "furigana_ids": [],
             "japanese_items": ["3 ベルト留めの取り付け"]
           },
           {
-            "display_index": 7,
-            "panel_id": "p12",
+            "display_index": 11,
+            "panel_id": "p13",
             "source_ids": [95],
             "furigana_ids": [91, 92],
             "japanese_items": ["ベルト留めにベルト右(R)を通します。"]
           },
           {
-            "display_index": 8,
-            "panel_id": "p13",
+            "display_index": 12,
+            "panel_id": "p14",
             "source_ids": [89],
             "furigana_ids": [90],
             "japanese_items": ["4 ベルトの調整"]
           },
           {
-            "display_index": 9,
-            "panel_id": "p15",
-            "source_ids": [97, 98, 116],
-            "furigana_ids": [96],
+            "display_index": 13,
+            "panel_id": "p16",
+            "source_ids": [97, 116],
+            "furigana_ids": [96, 98],
             "japanese_items": ["パチンと音がするまで、はめ込みます。", "突起"]
           },
           {
-            "display_index": 10,
-            "panel_id": "p16",
-            "source_ids": [154, 157],
-            "furigana_ids": [148, 153, 155, 156],
-            "japanese_items": ["②ベルト留めを、ベルトが重なっている部分まで移動させます。"]
-          },
-          {
-            "display_index": 11,
-            "panel_id": "p17",
-            "source_ids": [102],
+            "display_index": 14,
+            "panel_id": "p18-a",
+            "source_ids": [102, 103],
             "furigana_ids": [101],
-            "japanese_items": ["5 カバーパーツの移動\nカバーパーツを\nやじるし ほうこう"]
+            "japanese_items": ["5 カバーパーツの移動", "カバーパーツを矢印の方向に移動させる。"]
           },
           {
-            "display_index": 12,
-            "panel_id": "p18",
-            "source_ids": [103, 104, 106],
-            "furigana_ids": [105],
-            "japanese_items": ["矢印の方向にカチッと鳴るまで移動させます。"]
+            "display_index": 15,
+            "panel_id": "p18-b",
+            "source_ids": [104, 105, 106],
+            "furigana_ids": [],
+            "japanese_items": ["カチッと鳴るまで移動させます。"]
           },
           {
-            "display_index": 13,
+            "display_index": 16,
             "panel_id": "p19",
             "source_ids": [158],
             "furigana_ids": [145, 146, 147],
             "japanese_items": ["ベルトを取り外す時は···"]
           },
           {
-            "display_index": 14,
+            "display_index": 17,
             "panel_id": "p20",
             "source_ids": [161, 164, 167],
             "furigana_ids": [159, 160, 162, 163, 165, 166],
@@ -10852,21 +10814,28 @@
             ]
           },
           {
-            "display_index": 15,
+            "display_index": 18,
+            "panel_id": "p21",
+            "source_ids": [120],
+            "furigana_ids": [118, 119],
+            "japanese_items": ["DXプログライズキーの単品遊び"]
+          },
+          {
+            "display_index": 19,
             "panel_id": "p22",
             "source_ids": [170],
             "furigana_ids": [168, 169],
             "japanese_items": ["※セット内容の状態から始めます。"]
           },
           {
-            "display_index": 16,
+            "display_index": 20,
             "panel_id": "p23",
             "source_ids": [122],
             "furigana_ids": [121],
             "japanese_items": ["音声遊び"]
           },
           {
-            "display_index": 17,
+            "display_index": 21,
             "panel_id": "p24",
             "source_ids": [125, 128, 131, 136],
             "furigana_ids": [123, 124, 126, 127, 129, 130, 132, 133, 134, 135],
@@ -10877,346 +10846,234 @@
             ]
           },
           {
-            "display_index": 18,
+            "display_index": 22,
             "panel_id": "p25",
-            "source_ids": [138, 143],
+            "source_ids": [138],
             "furigana_ids": [137],
-            "japanese_items": ["（起動音）ジャンプ！", "グラスホッパーズアビリティ"]
+            "japanese_items": ["(起動音) ジャンプ!"]
           },
           {
-            "display_index": 19,
+            "display_index": 23,
             "panel_id": "p26",
-            "source_ids": [183, 185, 187, 189, 190, 191, 193],
-            "furigana_ids": [174, 180, 182, 184, 186, 188, 192],
+            "source_ids": [143],
+            "furigana_ids": [],
+            "japanese_items": ["グラスホッパーズアビリティ"]
+          },
+          {
+            "display_index": 24,
+            "panel_id": "p27",
+            "source_ids": [183, 185, 187, 189, 190, 193],
+            "furigana_ids": [174, 180, 182, 184, 186, 188, 191, 192],
             "japanese_items": [
               "※ボタンを押してから約30秒、「スキャン受付状態」になります。",
-              "「スキャン受付状態」でないときに飛電ゼロワンドライバーのスキャンエリアにかざしても、デラックスDXプログライズキーは反応しません。"
+              "「スキャン受付状態」でないときに飛電ゼロワンドライバーのスキャンエリアにかざしても、DXプログライズキーは反応しません。"
             ]
           },
           {
-            "display_index": 20,
+            "display_index": 25,
             "source_ids": [9],
             "furigana_ids": [8]
           },
           {
-            "display_index": 21,
-            "source_ids": [14],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 22,
-            "source_ids": [15],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 23,
-            "source_ids": [19],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 24,
-            "source_ids": [34],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 25,
-            "source_ids": [35],
-            "furigana_ids": []
-          },
-          {
             "display_index": 26,
-            "source_ids": [36],
-            "furigana_ids": []
+            "source_ids": [19],
+            "furigana_ids": [14, 15]
           },
           {
             "display_index": 27,
-            "source_ids": [37],
+            "source_ids": [34],
             "furigana_ids": []
           },
           {
             "display_index": 28,
             "source_ids": [38],
-            "furigana_ids": []
+            "furigana_ids": [37]
           },
           {
             "display_index": 29,
-            "source_ids": [39],
-            "furigana_ids": []
+            "source_ids": [40],
+            "furigana_ids": [39]
           },
           {
             "display_index": 30,
-            "source_ids": [40],
-            "furigana_ids": []
+            "source_ids": [42],
+            "furigana_ids": [41]
           },
           {
             "display_index": 31,
-            "source_ids": [41],
-            "furigana_ids": []
+            "source_ids": [44],
+            "furigana_ids": [43]
           },
           {
             "display_index": 32,
-            "source_ids": [42],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 33,
-            "source_ids": [43],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 34,
-            "source_ids": [44],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 35,
             "source_ids": [45],
             "furigana_ids": []
           },
           {
-            "display_index": 36,
-            "source_ids": [46],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 37,
-            "source_ids": [47],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 38,
+            "display_index": 33,
             "source_ids": [48],
-            "furigana_ids": []
+            "furigana_ids": [46, 47]
           },
           {
-            "display_index": 39,
+            "display_index": 34,
             "source_ids": [53],
             "furigana_ids": []
           },
           {
-            "display_index": 40,
+            "display_index": 35,
             "source_ids": [56],
             "furigana_ids": [54, 55]
           },
           {
-            "display_index": 41,
+            "display_index": 36,
             "source_ids": [59],
             "furigana_ids": [57, 58]
           },
           {
-            "display_index": 42,
+            "display_index": 37,
             "source_ids": [61],
             "furigana_ids": [60]
           },
           {
-            "display_index": 43,
-            "source_ids": [65],
-            "furigana_ids": [62, 63, 64]
-          },
-          {
-            "display_index": 44,
-            "source_ids": [68],
-            "furigana_ids": [66, 67]
-          },
-          {
-            "display_index": 45,
-            "source_ids": [72],
-            "furigana_ids": [69, 70, 71]
-          },
-          {
-            "display_index": 46,
-            "source_ids": [73],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 47,
-            "source_ids": [76],
-            "furigana_ids": [74, 75]
-          },
-          {
-            "display_index": 48,
+            "display_index": 38,
             "source_ids": [77],
             "furigana_ids": []
           },
           {
-            "display_index": 49,
-            "source_ids": [78],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 50,
-            "source_ids": [79],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 51,
-            "source_ids": [80],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 52,
+            "display_index": 39,
             "source_ids": [81],
-            "furigana_ids": []
+            "furigana_ids": [80]
           },
           {
-            "display_index": 53,
-            "source_ids": [82],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 54,
+            "display_index": 40,
             "source_ids": [83],
             "furigana_ids": []
           },
           {
-            "display_index": 55,
+            "display_index": 41,
             "source_ids": [84],
             "furigana_ids": []
           },
           {
-            "display_index": 56,
+            "display_index": 42,
             "source_ids": [85],
-            "furigana_ids": []
+            "furigana_ids": [82]
           },
           {
-            "display_index": 57,
-            "source_ids": [86],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 58,
+            "display_index": 43,
             "source_ids": [87],
-            "furigana_ids": []
+            "furigana_ids": [86]
           },
           {
-            "display_index": 59,
+            "display_index": 44,
             "source_ids": [99],
             "furigana_ids": []
           },
           {
-            "display_index": 60,
+            "display_index": 45,
             "source_ids": [100],
             "furigana_ids": []
           },
           {
-            "display_index": 61,
+            "display_index": 46,
             "source_ids": [107],
             "furigana_ids": []
           },
           {
-            "display_index": 62,
+            "display_index": 47,
             "source_ids": [108],
             "furigana_ids": [93, 94]
           },
           {
-            "display_index": 63,
+            "display_index": 48,
             "source_ids": [112],
             "furigana_ids": [109, 110, 111]
           },
           {
-            "display_index": 64,
+            "display_index": 49,
             "source_ids": [115],
             "furigana_ids": [113, 114]
           },
           {
-            "display_index": 65,
+            "display_index": 50,
             "source_ids": [117],
             "furigana_ids": []
           },
           {
-            "display_index": 66,
-            "source_ids": [118],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 67,
-            "source_ids": [120],
-            "furigana_ids": [119]
-          },
-          {
-            "display_index": 68,
+            "display_index": 51,
             "source_ids": [140],
             "furigana_ids": [139]
           },
           {
-            "display_index": 69,
+            "display_index": 52,
             "source_ids": [142],
             "furigana_ids": [141]
           },
           {
-            "display_index": 70,
+            "display_index": 53,
             "source_ids": [144],
             "furigana_ids": []
           },
           {
-            "display_index": 71,
-            "source_ids": [149],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 72,
+            "display_index": 54,
             "source_ids": [150],
-            "furigana_ids": []
+            "furigana_ids": [149]
           },
           {
-            "display_index": 73,
-            "source_ids": [151],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 74,
+            "display_index": 55,
             "source_ids": [152],
-            "furigana_ids": []
+            "furigana_ids": [151]
           },
           {
-            "display_index": 75,
+            "display_index": 56,
+            "source_ids": [154],
+            "furigana_ids": [148, 153]
+          },
+          {
+            "display_index": 57,
+            "source_ids": [157],
+            "furigana_ids": [155, 156]
+          },
+          {
+            "display_index": 58,
             "source_ids": [171],
             "furigana_ids": []
           },
           {
-            "display_index": 76,
+            "display_index": 59,
             "source_ids": [172],
             "furigana_ids": []
           },
           {
-            "display_index": 77,
+            "display_index": 60,
             "source_ids": [173],
             "furigana_ids": []
           },
           {
-            "display_index": 78,
+            "display_index": 61,
             "source_ids": [175],
             "furigana_ids": []
           },
           {
-            "display_index": 79,
-            "source_ids": [176],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 80,
+            "display_index": 62,
             "source_ids": [177],
-            "furigana_ids": []
+            "furigana_ids": [176]
           },
           {
-            "display_index": 81,
+            "display_index": 63,
             "source_ids": [178],
             "furigana_ids": []
           },
           {
-            "display_index": 82,
-            "source_ids": [179],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 83,
+            "display_index": 64,
             "source_ids": [181],
-            "furigana_ids": []
+            "furigana_ids": [179]
           }
         ],
         "uncertainties": [
-          "The second line '突起' appears to be a short label; translation rendered as 'Protrusion' but could also be 'tab' or 'projection' depending on context.",
-          "Translation of グラスホッパーズアビリティ: katakana uses a possessive -ズ (Hoppers) plus English-style 's; unclear whether intended as singular \"Grasshopper's Ability\" or plural possessive \"Grasshoppers' Ability.\" Rendered here as \"Grasshoppers' Ability.\""
+          "The single word '突起' may be a label or caption identifying a part (translated as 'Protrusion'); context in the panel is limited.",
+          "The original crop shows 'カバーパーツを 矢印の方向に' with the final verb omitted; reconstructed as '移動させる' to complete the instruction.",
+          "Unclear whether グラスホッパーズ is intended as singular possessive (Grasshopper's) or plural possessive (Grasshoppers')."
         ],
         "ocr_lines": [
           {
@@ -12926,20 +12783,28 @@
         },
         {
           "text": "→音声が鳴り、LEDが光り\n約30秒間 「スキャン受付状態」に\nなります。",
-          "translation": "A sound will play and the LED will light; for about 30 seconds it will enter the \"Scan Ready\" state.",
+          "translation": "→A sound will play and the LED will light, and it will enter \"scan reception mode\" for about 30 seconds.",
           "bbox": [0.07105139201879501, 0.1067, 0.18357233840227127, 0.041499999999999995],
           "layout": "panel"
         },
         {
-          "text": "スキャンエリアに、プログライズキーを図の向きにしてかざします。\nひでん",
-          "translation": "Hold the Progrise Key over the scan area with the orientation shown.",
-          "bbox": [0.3238, 0.1071, 0.3349, 0.023900000000000005],
+          "text": "スキャンエリアに、プログライズキーを図の向きにしてかざします。",
+          "translation": "Hold the Progrise Key over the scan area with it oriented as shown.",
+          "bbox": [
+            0.3233690068721771, 0.10707794433832168, 0.33633334326744074, 0.01762205566167832
+          ],
           "layout": "panel"
         },
         {
-          "text": "| 飛電ゼロワンドライバー\n→ 「スキャン音」の後、「変身待機音」が鳴り、",
-          "translation": "Hiden Zero-One Driver → After the “scan sound,” the “transformation standby sound” plays,",
-          "bbox": [0.3226, 0.128, 0.22222929849624629, 0.026999999999999996],
+          "text": "| 飛電ゼロワンドライバー",
+          "translation": "Hiden Zero-One Driver",
+          "bbox": [0.3226, 0.12389185583591461, 0.17224946274757386, 0.017008144164085387],
+          "layout": "panel"
+        },
+        {
+          "text": "→ 「スキャン音」の後、「変身待機音」が鳴り、",
+          "translation": "→ After the \"scan sound\", the \"transformation standby sound\" will play,",
+          "bbox": [0.3233690068721771, 0.1396, 0.22146029162406916, 0.015399999999999997],
           "layout": "panel"
         },
         {
@@ -12952,7 +12817,7 @@
         },
         {
           "text": "※スキャンをしても「オーソライズ」 の",
-          "translation": "※Even if you scan, \"Authorize\"'s",
+          "translation": "Even if scanned, the \"Authorize\"",
           "bbox": [0.6025, 0.1734, 0.1661999999999999, 0.010700000000000015],
           "layout": "panel"
         },
@@ -12972,7 +12837,7 @@
         },
         {
           "text": "「オーソライズ」の音声が鳴り、",
-          "translation": "The voice saying \"Authorize\" will sound,",
+          "translation": "The voice prompt \"Authorize\" sounds,",
           "bbox": [
             0.33586395835876465, 0.18744271552562713, 0.1589855043888092, 0.01505728447437285
           ],
@@ -12980,7 +12845,7 @@
         },
         {
           "text": "そのまま変身遊びを続けても",
-          "translation": "Even if you continue the transformation play as is",
+          "translation": "Even if you continue playing transformation like that",
           "bbox": [
             0.6119623289108277, 0.19456725871562958, 0.16341916608810414, 0.013532741284370431
           ],
@@ -12988,31 +12853,25 @@
         },
         {
           "text": "LEDが約30秒間点滅します。",
-          "translation": "The LED will blink for about 30 seconds.",
+          "translation": "The LED will blink for approximately 30 seconds.",
           "bbox": [0.3359, 0.20199999999999999, 0.15840000000000004, 0.015400000000000025],
           "layout": "panel"
         },
         {
           "text": "正しく変身できません。",
-          "translation": "Cannot transform correctly.",
+          "translation": "Cannot transform properly.",
           "bbox": [0.6119623289108277, 0.2076, 0.10416887092590321, 0.012899999999999995],
           "layout": "panel"
         },
         {
           "text": "※この状態でプログライズキーのボタンを押すと、\n1のボタンを押すところから操作を\n「ジャンプ!」の音声のみが鳴ります。\nやり直してください。",
-          "translation": "• Cannot transform correctly.\n• If you press the Progrise Key's button in this state, only the voice \"Jump!\" will sound when performing the operation starting from pressing button 1. Please try again.",
+          "translation": "• Cannot transform correctly.\n• If you press the Progrise Key button in this state, only the \"Jump!\" voice will play from the step where you press button 1. Please try again.",
           "bbox": [0.3244, 0.2157, 0.4515999999999999, 0.030299999999999994],
           "layout": "panel"
         },
         {
-          "text": "3 プログライズキーのキーパーツを\n180度展開します。",
-          "translation": "Step 3: Unfold the key part of the Progrise Key 180 degrees.",
-          "bbox": [0.0426, 0.258, 0.2019, 0.03161627626419067],
-          "layout": "panel"
-        },
-        {
           "text": "4 「変身待機音」が鳴っている間に、プログライズキーを\n飛電ゼロワンドライバーのスロットに奥までしっかりと",
-          "translation": "4 While the \"transformation standby sound\" is playing, firmly insert the Progrise Key all the way into the slot of the Hiden Zero-One Driver",
+          "translation": "4 While the \"Transformation Standby Sound\" is sounding, firmly insert the Progrise Key all the way into the slot of the Hiden Zero-One Driver.",
           "bbox": [
             0.36931822752952576, 0.2595430419445038, 0.30088177247047415, 0.031056958055496242
           ],
@@ -13027,23 +12886,77 @@
           "layout": "panel"
         },
         {
-          "text": "ひでん\n飛電ゼロワンドライバー",
-          "translation": "Hiden Zero-One Driver",
-          "bbox": [
-            0.40116022086143494, 0.3071349368095398, 0.12754655766487116, 0.014969238519668582
-          ],
+          "text": "カバーパーツがスライドし、",
+          "translation": "The cover part slides,",
+          "bbox": [0.4015632674694061, 0.3277, 0.16986823964118952, 0.010800000000000032],
           "layout": "panel"
         },
         {
-          "text": "カバーパーツがスライドし、\n「プログライズ!」の音声が鳴り、\nLEDが光ります。\n|プログライズキー\n「変身音」が鳴ります。\nスロット",
-          "translation": "• The cover parts slide open, the voice saying \"Progrise!\" plays, and the LED lights up.\n• Progrise Key: the \"transformation sound\" plays.",
-          "bbox": [0.3957, 0.3277, 0.23520000000000002, 0.08616820816993714],
+          "text": "「プログライズ!」の音声が鳴り、\nLEDが光ります。\n|プログライズキー\n「変身音」が鳴ります。\nスロット",
+          "translation": "• \"Progrise!\" voice plays and the LED lights up.\n• Progrise Key: the \"transformation sound\" plays.",
+          "bbox": [0.3957, 0.3379129276275635, 0.23520000000000002, 0.07595528054237366],
           "layout": "panel"
         },
         {
           "text": "必殺技遊び ※「変身遊び」の後に行います。",
           "translation": "Special Move Play *Perform after \"Transformation Play\".",
           "bbox": [0.0481, 0.4333, 0.3036619862556458, 0.021799999999999986],
+          "layout": "panel"
+        },
+        {
+          "text": "プログライズキーを押し込みます。\nプログライズキー\n「ライジング!」の音声と\n「必殺技音」が鳴ります。\n飛電ゼロワンドライバー",
+          "translation": "• Push the Progrise Key in.\n• Progrise Key\n• The voice \"Rising!\" and the \"finishing-move sound\" will play.\n• Hiden Zero-One Driver",
+          "bbox": [0.03880632972717285, 0.4619, 0.20251632618904114, 0.07450000000000001],
+          "layout": "panel"
+        },
+        {
+          "text": "「インパクト!」の音声と\n甘\n「必殺技音」が鳴り、LEDが光ります。",
+          "translation": "Plays the voice “Impact!” and the “special attack” sound, and the LED lights up.",
+          "bbox": [0.03880632972717285, 0.5359, 0.20251632618904114, 0.03599999999999992],
+          "layout": "panel"
+        },
+        {
+          "text": "パワーアップ必殺技遊び「変身遊び」の後に行います。\n1 別売りのプログライズキーを、ボタンを押さないまま、飛電ゼロワンドライバーの\nスキャンエリアに図の向きにしてかざします。\nスキャン回数に応じて下記の音声が鳴り、LEDが光ります。",
+          "translation": "• Power-Up Finishing Move Play — Performed after “Transformation Play.”\n• 1 Hold a separately sold Progrise Key over the Hiden Zero-One Driver’s scan area in the orientation shown, without pressing the button.\n• Depending on the number of scans, the following voice sounds will play and the LED will light.",
+          "bbox": [0.0444, 0.5710277662277222, 0.4341, 0.07396040248870839],
+          "layout": "panel"
+        },
+        {
+          "text": "※6回かざした場合の音声です。",
+          "translation": "※This is the sound when waved six times.",
+          "bbox": [0.4725, 0.6317288384437562, 0.14367152833938596, 0.014471161556243839],
+          "layout": "panel"
+        },
+        {
+          "text": "スキャン1回目\nビットライズ!\nスキャン2回目 バイトライズ!\nスキャン3回目 キロライズ!",
+          "translation": "• Scan 1st time: Bit Rise!\n• Scan 2nd time: Byte Rise!\n• Scan 3rd time: Kilo Rise!",
+          "bbox": [0.048882908433675765, 0.659, 0.21621709156632424, 0.07109999999999994],
+          "layout": "panel"
+        },
+        {
+          "text": "スキャン4回目\nメガライズ!\nスキャン5回目\nギガライズ!\nスキャン6回目以上 テラライズ!",
+          "translation": "• 4th scan: Megarize!\n• 5th scan: Gigarize!\n• 6th scan or more: Terarize!",
+          "bbox": [0.0487, 0.7296, 0.2059237304210663, 0.06459999999999999],
+          "layout": "panel"
+        },
+        {
+          "text": "2 スロットに挿入されている\nプログライズキーを押し込みます。\nプログライズキー\n→「ライジング!」の音声と",
+          "translation": "• Push the Progrise Key that is inserted in slot 2.\n• Progrise Key → the voice “Rising!” and",
+          "bbox": [0.0426, 0.8168000000000001, 0.2063808543920517, 0.05989999999999995],
+          "layout": "panel"
+        },
+        {
+          "text": "「必殺技音」が鳴ります。\n飛電ゼロワンドライバー",
+          "translation": "• The \"finishing-move\" sound will play.\n• Hiden Zero-One Driver",
+          "bbox": [
+            0.07629121398925781, 0.8759579763412476, 0.1489089070558548, 0.03194202365875243
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "→スキャン回数に応じた\n「パワーアップ必殺技音」が\n鳴り、LEDが光ります。",
+          "translation": "A \"Power-Up Special Move\" sound corresponding to the number of scans will play, and the LED will light.",
+          "bbox": [0.0723, 0.9074000000000001, 0.1529001210451126, 0.04489999999999983],
           "layout": "panel"
         },
         {
@@ -13054,7 +12967,7 @@
         },
         {
           "text": "①飛電ゼロワンドライバーのカバーパーツを図の方向に\n奥までしっかりとスライドさせます。\n「スライド音」が鳴り、プログライズキーのロックが解除され、\n少し飛び出します。 カバーパーツ",
-          "translation": "• Slide the Hiden Zero-One Driver cover part firmly all the way in the direction shown.\n• A \"slide\" sound will be heard, the Progrise Key's lock will be released, and it will pop out slightly.",
+          "translation": "• 1. Firmly slide the Hiden Zero-One Driver cover part all the way in the direction shown.\n• A “slide” sound will play, the Progrise Key lock will be released, and it will pop out slightly.  Cover part",
           "bbox": [
             0.6474318609237671, 0.45789013361930847, 0.31335876274108876, 0.0577164380550384
           ],
@@ -13067,89 +12980,37 @@
           "layout": "panel"
         },
         {
-          "text": "スキャンエリアに図の向きにしてかざします。\nスキャン回数に応じて下記の音声が鳴り、LEDが光ります。",
-          "translation": "• Hold it over the scan area in the orientation shown.\n• According to the number of scans, the following sounds will play and the LED will light.",
-          "bbox": [
-            0.07105139201879501, 0.6191896305084229, 0.3157771094441414, 0.025798538208007704
-          ],
-          "layout": "panel"
-        },
-        {
-          "text": "スキャン1回目\nビットライズ!\nスキャン2回目 バイトライズ!\nスキャン3回目 キロライズ!",
-          "translation": "• Scan 1 — Bit Rise!\n• Scan 2 — Byte Rise!\n• Scan 3 — Kilo Rise!",
-          "bbox": [0.048882908433675765, 0.659, 0.21621709156632424, 0.07109999999999994],
-          "layout": "panel"
-        },
-        {
-          "text": "スキャン4回目\nメガライズ!\nスキャン5回目\nギガライズ!\nスキャン6回目以上 テラライズ!",
-          "translation": "• 4th scan — Megarize!\n• 5th scan — Gigarize!\n• 6th scan or more — Terrarize!",
-          "bbox": [0.0487, 0.7296, 0.2059237304210663, 0.06459999999999999],
-          "layout": "panel"
-        },
-        {
-          "text": "※6回かざした場合の音声です。",
-          "translation": "This is the sound when waved six times.",
-          "bbox": [0.4725, 0.6317288384437562, 0.14367152833938596, 0.014471161556243839],
-          "layout": "panel"
-        },
-        {
-          "text": "2 スロットに挿入されている\nプログライズキーを押し込みます。\nプログライズキー\n→「ライジング!」の音声と",
-          "translation": "• Press the Progrise Key inserted in slot 2.\n• Progrise Key\n• → With the \"Rising!\" voice and",
-          "bbox": [0.0426, 0.8168000000000001, 0.2063808543920517, 0.05989999999999995],
-          "layout": "panel"
-        },
-        {
-          "text": "「必殺技音」が鳴ります。\n飛電ゼロワンドライバー",
-          "translation": "• The \"special attack sound\" will play.\n• Hiden Zero-One Driver",
-          "bbox": [
-            0.07629121398925781, 0.8759579763412476, 0.1489089070558548, 0.03194202365875243
-          ],
-          "layout": "panel"
-        },
-        {
-          "text": "→スキャン回数に応じた\n「パワーアップ必殺技音」が\n鳴り、LEDが光ります。",
-          "translation": "A “power-up special attack sound” corresponding to the number of scans will play, and the LED will light.",
-          "bbox": [0.0723, 0.9074000000000001, 0.1529001210451126, 0.04489999999999983],
-          "layout": "panel"
-        },
-        {
-          "text": "※6回かざした場合の音声です。",
-          "translation": "This is the voice heard when waved over it six times.",
-          "bbox": [0.4659, 0.8146869645118714, 0.14389999999999992, 0.014399269104003798],
-          "layout": "panel"
-        },
-        {
           "text": "スキャンエリアにかざさずに",
           "translation": "Without holding it over the scan area,",
           "bbox": [0.646, 0.6958000000000001, 0.21399999999999986, 0.014163966846465925],
           "layout": "panel"
         },
         {
-          "text": "デラックス",
-          "translation": "Deluxe",
+          "text": "DXプログライズキーを挿入した場合",
+          "translation": "When a DX Progrise Key is inserted",
           "bbox": [
-            0.6450135216712952, 0.7091000000000001, 0.031214395046234023, 0.00770348062515247
+            0.6450135216712952, 0.7091000000000001, 0.27788911151885975, 0.02049999999999985
           ],
           "layout": "panel"
         },
         {
           "text": "プログライズキーを飛電ゼロワンドライバーのスキャンエリアに\nかざすことなく、スロットに挿入します。",
-          "translation": "Insert the Progrise Key into the slot without holding it over the Hiden Zero-One Driver's scan area.",
+          "translation": "Insert the Progrise Key into the slot without holding it over the scan area of the Hiden Zero-One Driver.",
           "bbox": [0.6478, 0.7348921403884888, 0.31016917819976797, 0.031507859611511146],
           "layout": "panel"
         },
         {
-          "text": "ひでん",
-          "translation": "Hidden",
+          "text": "電ゼロワンドライバー",
+          "translation": "Den Zero‑One Driver",
           "bbox": [
-            0.6563000000000001, 0.7656701312065125, 0.02436160821914657, 0.006229868793487414
+            0.6563000000000001, 0.7656701312065125, 0.14124995250701888, 0.015824177742004286
           ],
           "layout": "panel"
         },
         {
-          "text": "電ゼロワンドライバー\nカバーパーツがスライドし、 「エラーライズ!」の音声が鳴り、",
-          "translation": "• Hiden Zero-One Driver\n• The cover parts slide and the voice \"Error Rise!\" sounds,",
-          "bbox": [0.6454165682792664, 0.7689, 0.3125526099205016, 0.028299999999999992],
+          "text": "カバーパーツがスライドし、 「エラーライズ!」の音声が鳴り、",
+          "translation": "→The cover part slides, and the voice \"Error Rise!\" sounds,",
+          "bbox": [0.6454165682792664, 0.781629096031189, 0.3125526099205016, 0.015570903968811],
           "layout": "panel"
         },
         {
@@ -13170,7 +13031,7 @@
         },
         {
           "text": "プログライズキー\n「グラスホッパーズアビリティ」の\n音声が鳴ります。",
-          "translation": "• Progrise Key\n• The voice for \"Grasshoppers Ability\" will play.",
+          "translation": "• Progrise Key\n• Plays the \"Grasshoppers Ability\" voice.",
           "bbox": [
             0.6454165682792664, 0.8158269033432007, 0.18438343172073357, 0.04289738225936879
           ],
@@ -13178,7 +13039,7 @@
         },
         {
           "text": "※プログライズキーのボタンを押さずに、飛竜ゼロワンドライバーのスキャン\nエリアにかざした場合、 「オーソライズ」が鳴らずに変身待機音が鳴ります。\nその状態でプログライズキーを挿入すると、 「プログライズ!」の音声の後に\n「グラスホッパーズアビリティ」の音声が鳴ります。",
-          "translation": "• If you hold the Progrise Key over the scan area of the Hiryu Zero-One Driver without pressing the Progrise Key button, the “Authorize” sound will not play and the transformation standby sound will play instead.\n• If you then insert the Progrise Key in that state, after the “Progrise!” voice the “Grasshoppers Ability” voice will play.",
+          "translation": "If you hold a Progrise Key over the Scan Area of the Hiryū Zero-One Driver without pressing the Progrise Key's button, \"Authorize\" will not play and the transformation standby sound will play. If you then insert the Progrise Key in that state, after the \"Progrise!\" voice the \"Grasshoppers Ability\" voice will play.",
           "bbox": [0.6478349671363831, 0.917280267238617, 0.3125525503158568, 0.053156772136688124],
           "layout": "panel"
         },
@@ -13213,6 +13074,17 @@
           "bbox": [0.1511, 0.1958, 0.0453, 0.0051]
         },
         {
+          "text": "3 プログライズキーのキーパーツを",
+          "translation": "3. Open the Progrise Key's key parts.",
+          "bbox": [0.0441, 0.2595, 0.1989, 0.0154]
+        },
+        {
+          "text": "180度展開します。",
+          "translation": "Unfold 180 degrees.",
+          "bbox": [0.07289999999999999, 0.2743, 0.10090000000000002, 0.014900000000000024],
+          "layout": "panel"
+        },
+        {
           "text": "飛び上がライズ!\nライジングホッパー!",
           "translation": "Jump up! Rising Hopper!",
           "bbox": [0.7031, 0.2672, 0.0973, 0.0214]
@@ -13226,6 +13098,12 @@
           "text": "キーパーツ",
           "translation": "Key Parts",
           "bbox": [0.3023, 0.3168, 0.0484, 0.0073]
+        },
+        {
+          "text": "飛電ゼロワンドライバー",
+          "translation": "Hiden Zero-One Driver",
+          "bbox": [0.4012, 0.3072, 0.12629999999999997, 0.014500000000000013],
+          "layout": "panel"
         },
         {
           "text": "プログライズ!",
@@ -13248,6 +13126,11 @@
           "bbox": [0.1983, 0.3959, 0.0762, 0.0051]
         },
         {
+          "text": "お",
+          "translation": "(marker)",
+          "bbox": [0.1451, 0.46, 0.0054, 0.003]
+        },
+        {
           "text": "ライジング!",
           "translation": "Rising!",
           "bbox": [0.471, 0.4455, 0.0865, 0.0133]
@@ -13256,46 +13139,6 @@
           "text": "インパクト!",
           "translation": "Impact!",
           "bbox": [0.532, 0.4814, 0.0877, 0.0128]
-        },
-        {
-          "text": "プログライズキーを押し込みます。\nプログライズキー\n「ライジング!」の音声と",
-          "translation": "Push the Progrise Key all the way in.\nProgrise Key\nYou will hear \"Rising!\"",
-          "bbox": [0.039599999999999996, 0.4585, 0.1765, 0.046599999999999864],
-          "layout": "panel"
-        },
-        {
-          "text": "「必殺技音」が鳴ります。",
-          "translation": "The \"special move\" sound will play.",
-          "bbox": [0.0511, 0.503, 0.1227, 0.016199999999999992],
-          "layout": "panel"
-        },
-        {
-          "text": "飛電ゼロワンドライバー",
-          "translation": "Hiden Zero One Driver",
-          "bbox": [0.0447, 0.525, 0.1427, 0.009]
-        },
-        {
-          "text": "「インパクト!」の音声と",
-          "translation": "The voice \"Impact!\"",
-          "bbox": [0.051699999999999996, 0.5359, 0.1179, 0.014999999999999902],
-          "layout": "panel"
-        },
-        {
-          "text": "甘",
-          "translation": "am",
-          "bbox": [0.1258, 0.5515, 0.006, 0.003]
-        },
-        {
-          "text": "「必殺技音」が鳴り、LEDが光ります。",
-          "translation": "The \"special move\" sound will play and the LED will light up.",
-          "bbox": [0.051699999999999996, 0.5492, 0.1892, 0.01619999999999988],
-          "layout": "panel"
-        },
-        {
-          "text": "パワーアップ必殺技遊び「変身遊び」の後に行います。\n1 別売りのプログライズキーを、ボタンを押さないまま、飛電ゼロワンドライバーの",
-          "translation": "Perform this after Power-Up Special Move Play (\"Transformation Play\").\n1 Hold the separately sold Progrise Key without pressing its button, and...",
-          "bbox": [0.0444, 0.5188, 0.4341, 0.10049999999999992],
-          "layout": "panel"
         },
         {
           "text": "FLYING FALCON",
@@ -13318,11 +13161,9 @@
           "bbox": [0.4625, 0.7294, 0.0363, 0.0244]
         },
         {
-          "text": "DXプログライズキーを挿入した場合",
-          "translation": "When a DX Progrise Key is inserted",
-          "bbox": [
-            0.6454000000000001, 0.7091000000000001, 0.27749999999999986, 0.02049999999999985
-          ],
+          "text": "※6回かざした場合の音声です。",
+          "translation": "*This is the sound when scanned 6 times.",
+          "bbox": [0.4659, 0.8155, 0.14389999999999992, 0.013299999999999867],
           "layout": "panel"
         },
         {
@@ -14429,207 +14270,212 @@
         "plan": {
           "panels": [
             {
-              "id": "p_title",
+              "id": "p1",
               "kind": "heading",
               "source_ids": [2]
             },
             {
-              "id": "p_h_transform",
+              "id": "p2",
               "kind": "heading",
               "source_ids": [4]
             },
             {
-              "id": "p_transform_step1-heading-5",
+              "id": "p3-heading-5",
               "kind": "heading",
               "source_ids": [5]
             },
             {
-              "id": "p_transform_step1",
+              "id": "p3",
               "kind": "prose",
               "source_ids": [9, 24, 25]
             },
             {
-              "id": "p_transform_step2_main-a-a-a",
+              "id": "p4-a-a-a",
               "kind": "prose",
-              "source_ids": [12, 13]
+              "source_ids": [12]
             },
             {
-              "id": "p_transform_step2_main-a-a-b",
+              "id": "p4-a-a-b-a",
               "kind": "prose",
-              "source_ids": [14, 18]
+              "source_ids": [14]
             },
             {
-              "id": "p_transform_step2_main-a-b-a-a",
+              "id": "p4-a-a-b-b",
+              "kind": "prose",
+              "source_ids": [18]
+            },
+            {
+              "id": "p4-a-b-a-a",
               "kind": "prose",
               "source_ids": [21]
             },
             {
-              "id": "p_transform_step2_main-a-b-a-b",
+              "id": "p4-a-b-a-b",
               "kind": "prose",
               "source_ids": [30]
             },
             {
-              "id": "p_transform_step2_main-a-b-b-a",
+              "id": "p4-a-b-b-a",
               "kind": "prose",
               "source_ids": [27]
             },
             {
-              "id": "p_transform_step2_main-a-b-b-b",
+              "id": "p4-a-b-b-b",
               "kind": "prose",
               "source_ids": [49]
             },
             {
-              "id": "p_transform_step2_main-b-a-a-a",
+              "id": "p4-b-a-a-a",
               "kind": "prose",
               "source_ids": [40]
             },
             {
-              "id": "p_transform_step2_main-b-a-a-b",
+              "id": "p4-b-a-a-b",
               "kind": "prose",
               "source_ids": [52]
             },
             {
-              "id": "p_transform_step2_main-b-a-b-a",
+              "id": "p4-b-a-b-a",
               "kind": "prose",
               "source_ids": [43]
             },
             {
-              "id": "p_transform_step2_main-b-a-b-b",
+              "id": "p4-b-a-b-b",
               "kind": "prose",
               "source_ids": [55]
             },
             {
-              "id": "p_transform_step2_main-b-b",
+              "id": "p4-b-b",
               "kind": "prose",
               "source_ids": [45, 58, 48, 60]
             },
             {
-              "id": "p_transform_step3",
-              "kind": "prose",
-              "source_ids": [36, 38]
-            },
-            {
-              "id": "p_transform_step4-a-a",
+              "id": "p7-a-a",
               "kind": "prose",
               "source_ids": [61, 63]
             },
             {
-              "id": "p_transform_step4-a-b-a",
+              "id": "p7-a-b-a",
               "kind": "prose",
               "source_ids": [66]
             },
             {
-              "id": "p_transform_step4-a-b-b",
+              "id": "p7-a-b-b-b",
               "kind": "prose",
-              "source_ids": [68, 70]
+              "source_ids": [75]
             },
             {
-              "id": "p_transform_step4-b",
+              "id": "p7-b",
               "kind": "prose",
-              "source_ids": [75, 78, 80, 81, 84, 85]
+              "source_ids": [78, 80, 81, 84, 85]
             },
             {
-              "id": "p_h_finisher",
+              "id": "p8",
               "kind": "heading",
               "source_ids": [91]
             },
             {
-              "id": "p_h_remove",
-              "kind": "heading",
-              "source_ids": [95]
-            },
-            {
-              "id": "p_remove_step1",
+              "id": "p9-a",
               "kind": "prose",
-              "source_ids": [102, 101, 105, 136]
+              "source_ids": [108, 111, 113]
             },
             {
-              "id": "p_remove_step2",
+              "id": "p9-b",
               "kind": "prose",
-              "source_ids": [138]
+              "source_ids": [115, 117, 119]
             },
             {
-              "id": "p_powerup_step1",
+              "id": "p10",
               "kind": "prose",
-              "source_ids": [124, 130]
+              "source_ids": [123, 124, 130]
             },
             {
-              "id": "p_powerup_scan_table-a",
-              "kind": "prose",
-              "source_ids": [132, 133, 143, 145]
-            },
-            {
-              "id": "p_powerup_scan_table-b",
-              "kind": "prose",
-              "source_ids": [147, 148, 150, 151, 153]
-            },
-            {
-              "id": "p_powerup_scan_note",
+              "id": "p11",
               "kind": "prose",
               "source_ids": [141]
             },
             {
-              "id": "p_powerup_step2-a",
+              "id": "p12-a",
+              "kind": "prose",
+              "source_ids": [132, 133, 143, 145]
+            },
+            {
+              "id": "p12-b",
+              "kind": "prose",
+              "source_ids": [147, 148, 150, 151, 153]
+            },
+            {
+              "id": "p13-a",
               "kind": "prose",
               "source_ids": [176, 181, 187, 189]
             },
             {
-              "id": "p_powerup_step2-b-a",
+              "id": "p13-b-a",
               "kind": "prose",
               "source_ids": [192, 194]
             },
             {
-              "id": "p_powerup_step2-b-b",
+              "id": "p13-b-b",
               "kind": "prose",
               "source_ids": [196, 198, 201]
             },
             {
-              "id": "p_powerup_step2_note",
-              "kind": "prose",
-              "source_ids": [177]
+              "id": "p14",
+              "kind": "heading",
+              "source_ids": [95]
             },
             {
-              "id": "p_h_no_scan_dx-a",
+              "id": "p15",
+              "kind": "prose",
+              "source_ids": [102, 101, 105, 136]
+            },
+            {
+              "id": "p16",
+              "kind": "prose",
+              "source_ids": [138]
+            },
+            {
+              "id": "p17-a",
               "kind": "heading",
               "source_ids": [156]
             },
             {
-              "id": "p_h_no_scan_dx-b-a",
+              "id": "p17-b",
               "kind": "heading",
-              "source_ids": [157]
+              "source_ids": [160]
             },
             {
-              "id": "p_no_scan_dx_body-a-a",
+              "id": "p18-a-a",
               "kind": "prose",
               "source_ids": [162, 164]
             },
             {
-              "id": "p_no_scan_dx_body-a-b-a",
+              "id": "p18-a-b-a",
               "kind": "prose",
-              "source_ids": [165]
+              "source_ids": [166]
             },
             {
-              "id": "p_no_scan_dx_body-a-b-b",
+              "id": "p18-a-b-b",
               "kind": "prose",
-              "source_ids": [166, 169]
+              "source_ids": [169]
             },
             {
-              "id": "p_no_scan_dx_body-b-a-a",
+              "id": "p18-b-a-a",
               "kind": "prose",
               "source_ids": [171]
             },
             {
-              "id": "p_no_scan_dx_body-b-a-b",
+              "id": "p18-b-a-b",
               "kind": "prose",
               "source_ids": [174]
             },
             {
-              "id": "p_no_scan_dx_body-b-b",
+              "id": "p18-b-b",
               "kind": "prose",
               "source_ids": [178, 182, 186]
             },
             {
-              "id": "p_no_scan_dx_note",
+              "id": "p19",
               "kind": "prose",
               "source_ids": [205, 208, 212, 214]
             }
@@ -14660,20 +14506,16 @@
               "parent_id": 9
             },
             {
-              "source_id": 22,
-              "parent_id": 24
-            },
-            {
               "source_id": 10,
-              "parent_id": 24
-            },
-            {
-              "source_id": 23,
               "parent_id": 24
             },
             {
               "source_id": 11,
               "parent_id": 12
+            },
+            {
+              "source_id": 13,
+              "parent_id": 14
             },
             {
               "source_id": 15,
@@ -14696,8 +14538,24 @@
               "parent_id": 21
             },
             {
+              "source_id": 22,
+              "parent_id": 24
+            },
+            {
+              "source_id": 23,
+              "parent_id": 24
+            },
+            {
               "source_id": 29,
               "parent_id": 40
+            },
+            {
+              "source_id": 31,
+              "parent_id": 49
+            },
+            {
+              "source_id": 37,
+              "parent_id": 38
             },
             {
               "source_id": 39,
@@ -14722,10 +14580,6 @@
             {
               "source_id": 47,
               "parent_id": 48
-            },
-            {
-              "source_id": 31,
-              "parent_id": 49
             },
             {
               "source_id": 50,
@@ -14756,16 +14610,16 @@
               "parent_id": 60
             },
             {
-              "source_id": 37,
-              "parent_id": 38
-            },
-            {
               "source_id": 62,
               "parent_id": 63
             },
             {
               "source_id": 65,
               "parent_id": 66
+            },
+            {
+              "source_id": 68,
+              "parent_id": 70
             },
             {
               "source_id": 76,
@@ -14792,14 +14646,6 @@
               "parent_id": 91
             },
             {
-              "source_id": 92,
-              "parent_id": 91
-            },
-            {
-              "source_id": 93,
-              "parent_id": 91
-            },
-            {
               "source_id": 88,
               "parent_id": 95
             },
@@ -14812,6 +14658,14 @@
               "parent_id": 95
             },
             {
+              "source_id": 92,
+              "parent_id": 91
+            },
+            {
+              "source_id": 93,
+              "parent_id": 91
+            },
+            {
               "source_id": 96,
               "parent_id": 102
             },
@@ -14822,6 +14676,10 @@
             {
               "source_id": 98,
               "parent_id": 101
+            },
+            {
+              "source_id": 99,
+              "parent_id": 108
             },
             {
               "source_id": 103,
@@ -14840,20 +14698,16 @@
               "parent_id": 136
             },
             {
-              "source_id": 86,
-              "parent_id": 108
-            },
-            {
-              "source_id": 99,
-              "parent_id": 108
-            },
-            {
               "source_id": 109,
               "parent_id": 111
             },
             {
               "source_id": 110,
               "parent_id": 111
+            },
+            {
+              "source_id": 112,
+              "parent_id": 113
             },
             {
               "source_id": 114,
@@ -14877,10 +14731,6 @@
             },
             {
               "source_id": 122,
-              "parent_id": 123
-            },
-            {
-              "source_id": 112,
               "parent_id": 123
             },
             {
@@ -14912,6 +14762,18 @@
               "parent_id": 143
             },
             {
+              "source_id": 137,
+              "parent_id": 138
+            },
+            {
+              "source_id": 139,
+              "parent_id": 141
+            },
+            {
+              "source_id": 140,
+              "parent_id": 141
+            },
+            {
               "source_id": 144,
               "parent_id": 145
             },
@@ -14928,16 +14790,8 @@
               "parent_id": 153
             },
             {
-              "source_id": 139,
-              "parent_id": 141
-            },
-            {
-              "source_id": 140,
-              "parent_id": 141
-            },
-            {
-              "source_id": 137,
-              "parent_id": 138
+              "source_id": 157,
+              "parent_id": 160
             },
             {
               "source_id": 158,
@@ -14954,6 +14808,10 @@
             {
               "source_id": 163,
               "parent_id": 164
+            },
+            {
+              "source_id": 165,
+              "parent_id": 166
             },
             {
               "source_id": 167,
@@ -15053,31 +14911,31 @@
             }
           ],
           "notes": [
-            "Some OCR regions are diagram labels, product labels, or speech-bubble sound text and were left ungrouped.",
-            "Conservative panel fallback: Panel p_transform_step2_main would mask unrelated source 31",
-            "Retained p_finisher_body unchanged: Panel p_finisher_body would mask unrelated source 112",
-            "Retained p_h_powerup unchanged: Panel p_h_powerup would mask unrelated source 113",
-            "Retained p_h_no_scan_dx source IDs [160] unchanged: illustration-mask check"
+            "Some OCR regions combine heading with body text, so those combined regions are kept in a prose/heading panel without splitting the source ID.",
+            "Diagram callouts, speech bubbles, product labels, and illustration text are left ungrouped unless the OCR source also contains contiguous prose.",
+            "Conservative panel fallback: Panel p4 would mask unrelated source 31",
+            "Retained p7 source IDs [70] unchanged: illustration-mask check",
+            "Panel p6 retained original English after failed automatic checks"
           ]
         },
         "mapping": [
           {
             "display_index": 0,
-            "panel_id": "p_title",
+            "panel_id": "p1",
             "source_ids": [2],
             "furigana_ids": [0, 1],
             "japanese_items": ["仮面ライダーゼロワン ライジングホッパーに変身!"]
           },
           {
             "display_index": 1,
-            "panel_id": "p_h_transform",
+            "panel_id": "p2",
             "source_ids": [4],
             "furigana_ids": [3],
             "japanese_items": ["変身遊び"]
           },
           {
             "display_index": 2,
-            "panel_id": "p_transform_step1-heading-5",
+            "panel_id": "p3-heading-5",
             "source_ids": [5],
             "furigana_ids": [],
             "japanese_items": [
@@ -15086,177 +14944,178 @@
           },
           {
             "display_index": 3,
-            "panel_id": "p_transform_step1",
+            "panel_id": "p3",
             "source_ids": [9, 24, 25],
-            "furigana_ids": [6, 7, 8, 22, 10, 23],
-            "japanese_items": ["→音声が鳴り、LEDが光り\n約30秒間「スキャン受付状態」に\nなります。"]
+            "furigana_ids": [6, 7, 8, 10, 22, 23],
+            "japanese_items": ["→音声が鳴り、LEDが光り、約30秒間「スキャン受付状態」になります。"]
           },
           {
             "display_index": 4,
-            "panel_id": "p_transform_step2_main-a-a-a",
-            "source_ids": [12, 13],
+            "panel_id": "p4-a-a-a",
+            "source_ids": [12],
             "furigana_ids": [11],
             "japanese_items": ["スキャンエリアに、プログライズキーを図の向きにしてかざします。"]
           },
           {
             "display_index": 5,
-            "panel_id": "p_transform_step2_main-a-a-b",
-            "source_ids": [14, 18],
-            "furigana_ids": [15, 16, 17],
-            "japanese_items": [
-              "飛電ゼロワンドライバー → 「スキャン音」の後、「変身待機音」が鳴り、"
-            ]
+            "panel_id": "p4-a-a-b-a",
+            "source_ids": [14],
+            "furigana_ids": [13],
+            "japanese_items": ["飛電ゼロワンドライバー"]
           },
           {
             "display_index": 6,
-            "panel_id": "p_transform_step2_main-a-b-a-a",
+            "panel_id": "p4-a-a-b-b",
+            "source_ids": [18],
+            "furigana_ids": [15, 16, 17],
+            "japanese_items": ["→ 「スキャン音」の後、「変身待機音」が鳴り、"]
+          },
+          {
+            "display_index": 7,
+            "panel_id": "p4-a-b-a-a",
             "source_ids": [21],
             "furigana_ids": [19, 20],
             "japanese_items": ["LEDが約30秒間点滅します。"]
           },
           {
-            "display_index": 7,
-            "panel_id": "p_transform_step2_main-a-b-a-b",
+            "display_index": 8,
+            "panel_id": "p4-a-b-a-b",
             "source_ids": [30],
             "furigana_ids": [],
             "japanese_items": ["※スキャンをしても「オーソライズ」の"]
           },
           {
-            "display_index": 8,
-            "panel_id": "p_transform_step2_main-a-b-b-a",
+            "display_index": 9,
+            "panel_id": "p4-a-b-b-a",
             "source_ids": [27],
             "furigana_ids": [],
             "japanese_items": ["プログライズキー"]
           },
           {
-            "display_index": 9,
-            "panel_id": "p_transform_step2_main-a-b-b-b",
+            "display_index": 10,
+            "panel_id": "p4-a-b-b-b",
             "source_ids": [49],
             "furigana_ids": [31],
             "japanese_items": ["音声が鳴らない場合は、"]
           },
           {
-            "display_index": 10,
-            "panel_id": "p_transform_step2_main-b-a-a-a",
+            "display_index": 11,
+            "panel_id": "p4-b-a-a-a",
             "source_ids": [40],
             "furigana_ids": [29, 39],
             "japanese_items": ["「オーソライズ」の音声が鳴り、"]
           },
           {
-            "display_index": 11,
-            "panel_id": "p_transform_step2_main-b-a-a-b",
+            "display_index": 12,
+            "panel_id": "p4-b-a-a-b",
             "source_ids": [52],
             "furigana_ids": [50, 51],
             "japanese_items": ["そのまま変身遊びを続けても"]
           },
           {
-            "display_index": 12,
-            "panel_id": "p_transform_step2_main-b-a-b-a",
+            "display_index": 13,
+            "panel_id": "p4-b-a-b-a",
             "source_ids": [43],
             "furigana_ids": [41, 42],
             "japanese_items": ["LEDが約30秒間点滅します。"]
           },
           {
-            "display_index": 13,
-            "panel_id": "p_transform_step2_main-b-a-b-b",
+            "display_index": 14,
+            "panel_id": "p4-b-a-b-b",
             "source_ids": [55],
             "furigana_ids": [53, 54],
             "japanese_items": ["正しく変身できません。"]
           },
           {
-            "display_index": 14,
-            "panel_id": "p_transform_step2_main-b-b",
+            "display_index": 15,
+            "panel_id": "p4-b-b",
             "source_ids": [45, 58, 48, 60],
             "furigana_ids": [44, 46, 47, 56, 57, 59],
             "japanese_items": [
               "正しく変身できません。",
-              "※この状態でプログライズキーのボタンを押すと、\n1のボタンを押すところから操作を\n「ジャンプ!」の音声のみが鳴ります。\nやり直してください。"
+              "※この状態でプログライズキーのボタンを押すと、1のボタンを押すところから操作を「ジャンプ!」の音声のみが鳴ります。やり直してください。"
             ]
           },
           {
-            "display_index": 15,
-            "panel_id": "p_transform_step3",
-            "source_ids": [36, 38],
-            "furigana_ids": [37],
-            "japanese_items": ["3 プログライズキーのキーパーツを180度展開します。"]
-          },
-          {
             "display_index": 16,
-            "panel_id": "p_transform_step4-a-a",
+            "panel_id": "p7-a-a",
             "source_ids": [61, 63],
             "furigana_ids": [62],
             "japanese_items": [
-              "4 「変身待機音」が鳴っている間に、プログライズキーを\n飛電ゼロワンドライバーのスロットに奥までしっかりと"
+              "4 「変身待機音」が鳴っている間に、プログライズキーを飛電ゼロワンドライバーのスロットに奥までしっかりと差し込む。"
             ]
           },
           {
             "display_index": 17,
-            "panel_id": "p_transform_step4-a-b-a",
+            "panel_id": "p7-a-b-a",
             "source_ids": [66],
             "furigana_ids": [65],
             "japanese_items": ["挿入します。"]
           },
           {
             "display_index": 18,
-            "panel_id": "p_transform_step4-a-b-b",
-            "source_ids": [68, 70],
+            "panel_id": "p7-a-b-b-b",
+            "source_ids": [75],
             "furigana_ids": [],
-            "japanese_items": ["飛電ゼロワンドライバー"]
+            "japanese_items": ["カバーパーツがスライドし、"]
           },
           {
             "display_index": 19,
-            "panel_id": "p_transform_step4-b",
-            "source_ids": [75, 78, 80, 81, 84, 85],
+            "panel_id": "p7-b",
+            "source_ids": [78, 80, 81, 84, 85],
             "furigana_ids": [76, 77, 79, 82, 83],
             "japanese_items": [
-              "カバーパーツがスライドし、「プログライズ！」の音声が鳴り、LEDが光ります。",
+              "「プログライズ!」の音声が鳴り、LEDが光ります。",
               "プログライズキー　「変身音」が鳴ります。"
             ]
           },
           {
             "display_index": 20,
-            "panel_id": "p_h_finisher",
+            "panel_id": "p8",
             "source_ids": [91],
             "furigana_ids": [87, 92, 93],
             "japanese_items": ["必殺技遊び ※「変身遊び」の後に行います。"]
           },
           {
             "display_index": 21,
-            "panel_id": "p_h_remove",
-            "source_ids": [95],
-            "furigana_ids": [88, 89, 90],
-            "japanese_items": ["プログライズキーの取り出し方"]
+            "panel_id": "p9-a",
+            "source_ids": [108, 111, 113],
+            "furigana_ids": [99, 109, 110, 112],
+            "japanese_items": [
+              "プログライズキーを押し込みます。",
+              "プログライズキー",
+              "「ライジング!」の音声と「必殺技音」が鳴ります。",
+              "飛電ゼロワンドライバー"
+            ]
           },
           {
             "display_index": 22,
-            "panel_id": "p_remove_step1",
-            "source_ids": [102, 101, 105, 136],
-            "furigana_ids": [96, 97, 98, 103, 104, 106, 107],
-            "japanese_items": [
-              "①飛電ゼロワンドライバーのカバーパーツを図の方向に奥までしっかりとスライドさせます。",
-              "「スライド音」が鳴り、プログライズキーのロックが解除され、少し飛び出します。"
-            ]
+            "panel_id": "p9-b",
+            "source_ids": [115, 117, 119],
+            "furigana_ids": [114, 116, 118],
+            "japanese_items": ["→「インパクト!」の音声と「必殺技音」が鳴り、LEDが光ります。"]
           },
           {
             "display_index": 23,
-            "panel_id": "p_remove_step2",
-            "source_ids": [138],
-            "furigana_ids": [137],
-            "japanese_items": ["② プログライズキーを手で掴んで取り出します。"]
-          },
-          {
-            "display_index": 24,
-            "panel_id": "p_powerup_step1",
-            "source_ids": [124, 130],
-            "furigana_ids": [125, 126, 127, 128, 129],
+            "panel_id": "p10",
+            "source_ids": [123, 124, 130],
+            "furigana_ids": [120, 121, 122, 125, 126, 127, 128, 129],
             "japanese_items": [
-              "スキャンエリアに図の向きにしてかざします。",
-              "スキャン回数に応じて下記の音声が鳴り、LEDが光ります。"
+              "パワーアップ必殺技遊び　※「変身遊び」の後に行います。",
+              "1　別売りのプログライズキーを、ボタンを押さないまま、飛電ゼロワンドライバーのスキャンエリアに図の向きにしてかざします。",
+              "→スキャン回数に応じて下記の音声が鳴り、LEDが光ります。"
             ]
           },
           {
+            "display_index": 24,
+            "panel_id": "p11",
+            "source_ids": [141],
+            "furigana_ids": [139, 140],
+            "japanese_items": ["※6回かざした場合の音声です。"]
+          },
+          {
             "display_index": 25,
-            "panel_id": "p_powerup_scan_table-a",
+            "panel_id": "p12-a",
             "source_ids": [132, 133, 143, 145],
             "furigana_ids": [131, 134, 144],
             "japanese_items": [
@@ -15267,43 +15126,35 @@
           },
           {
             "display_index": 26,
-            "panel_id": "p_powerup_scan_table-b",
+            "panel_id": "p12-b",
             "source_ids": [147, 148, 150, 151, 153],
             "furigana_ids": [146, 149, 152],
             "japanese_items": [
-              "スキャン4回目\nメガライズ!",
-              "スキャン5回目\nギガライズ!",
-              "スキャン6回目以上\nテラライズ!"
+              "スキャン4回目　メガライズ!",
+              "スキャン5回目　ギガライズ!",
+              "スキャン6回目以上　テラライズ!"
             ]
           },
           {
             "display_index": 27,
-            "panel_id": "p_powerup_scan_note",
-            "source_ids": [141],
-            "furigana_ids": [139, 140],
-            "japanese_items": ["※6回かざした場合の音声です。"]
-          },
-          {
-            "display_index": 28,
-            "panel_id": "p_powerup_step2-a",
+            "panel_id": "p13-a",
             "source_ids": [176, 181, 187, 189],
             "furigana_ids": [175, 179, 180, 188],
             "japanese_items": [
               "2 スロットに挿入されているプログライズキーを押し込みます。",
-              "プログライズキー",
-              "→「ライジング!」の音声と"
+              "プログライズキー →「ライジング!」の音声と"
             ]
           },
           {
-            "display_index": 29,
-            "panel_id": "p_powerup_step2-b-a",
+            "display_index": 28,
+            "panel_id": "p13-b-a",
             "source_ids": [192, 194],
             "furigana_ids": [190, 191, 193],
             "japanese_items": ["「必殺技音」が鳴ります。", "飛電ゼロワンドライバー"]
           },
           {
-            "display_index": 30,
-            "panel_id": "p_powerup_step2-b-b",
+            "display_index": 29,
+            "panel_id": "p13-b-b",
             "source_ids": [196, 198, 201],
             "furigana_ids": [195, 197, 199, 200],
             "japanese_items": [
@@ -15311,29 +15162,46 @@
             ]
           },
           {
+            "display_index": 30,
+            "panel_id": "p14",
+            "source_ids": [95],
+            "furigana_ids": [88, 89, 90],
+            "japanese_items": ["プログライズキーの取り出し方"]
+          },
+          {
             "display_index": 31,
-            "panel_id": "p_powerup_step2_note",
-            "source_ids": [177],
-            "furigana_ids": [172, 173],
-            "japanese_items": ["※6回かざした場合の音声です。"]
+            "panel_id": "p15",
+            "source_ids": [102, 101, 105, 136],
+            "furigana_ids": [96, 97, 98, 103, 104, 106, 107],
+            "japanese_items": [
+              "①飛電ゼロワンドライバーのカバーパーツを図の方向に奥までしっかりとスライドさせます。",
+              "「スライド音」が鳴り、プログライズキーのロックが解除され、少し飛び出します。　カバーパーツ"
+            ]
           },
           {
             "display_index": 32,
-            "panel_id": "p_h_no_scan_dx-a",
+            "panel_id": "p16",
+            "source_ids": [138],
+            "furigana_ids": [137],
+            "japanese_items": ["② プログライズキーを手で掴んで取り出します。"]
+          },
+          {
+            "display_index": 33,
+            "panel_id": "p17-a",
             "source_ids": [156],
             "furigana_ids": [],
             "japanese_items": ["スキャンエリアにかざさずに"]
           },
           {
-            "display_index": 33,
-            "panel_id": "p_h_no_scan_dx-b-a",
-            "source_ids": [157],
-            "furigana_ids": [],
-            "japanese_items": ["デラックス"]
+            "display_index": 34,
+            "panel_id": "p17-b",
+            "source_ids": [160],
+            "furigana_ids": [157, 158, 159],
+            "japanese_items": ["DXプログライズキーを挿入した場合"]
           },
           {
-            "display_index": 34,
-            "panel_id": "p_no_scan_dx_body-a-a",
+            "display_index": 35,
+            "panel_id": "p18-a-a",
             "source_ids": [162, 164],
             "furigana_ids": [161, 163],
             "japanese_items": [
@@ -15341,39 +15209,36 @@
             ]
           },
           {
-            "display_index": 35,
-            "panel_id": "p_no_scan_dx_body-a-b-a",
-            "source_ids": [165],
-            "furigana_ids": [],
-            "japanese_items": ["ひでん"]
-          },
-          {
             "display_index": 36,
-            "panel_id": "p_no_scan_dx_body-a-b-b",
-            "source_ids": [166, 169],
-            "furigana_ids": [167, 168],
-            "japanese_items": [
-              "飛電ゼロワンドライバー",
-              "カバーパーツがスライドし、「エラーライズ!」の音声が鳴り、"
-            ]
+            "panel_id": "p18-a-b-a",
+            "source_ids": [166],
+            "furigana_ids": [165],
+            "japanese_items": ["電ゼロワンドライバー"]
           },
           {
             "display_index": 37,
-            "panel_id": "p_no_scan_dx_body-b-a-a",
+            "panel_id": "p18-a-b-b",
+            "source_ids": [169],
+            "furigana_ids": [167, 168],
+            "japanese_items": ["→カバーパーツがスライドし、「エラーライズ!」の音声が鳴り、"]
+          },
+          {
+            "display_index": 38,
+            "panel_id": "p18-b-a-a",
             "source_ids": [171],
             "furigana_ids": [170],
             "japanese_items": ["LEDが光ります。"]
           },
           {
-            "display_index": 38,
-            "panel_id": "p_no_scan_dx_body-b-a-b",
+            "display_index": 39,
+            "panel_id": "p18-b-a-b",
             "source_ids": [174],
             "furigana_ids": [],
             "japanese_items": ["エラーライズ!"]
           },
           {
-            "display_index": 39,
-            "panel_id": "p_no_scan_dx_body-b-b",
+            "display_index": 40,
+            "panel_id": "p18-b-b",
             "source_ids": [178, 182, 186],
             "furigana_ids": [183],
             "japanese_items": [
@@ -15382,179 +15247,166 @@
             ]
           },
           {
-            "display_index": 40,
-            "panel_id": "p_no_scan_dx_note",
+            "display_index": 41,
+            "panel_id": "p19",
             "source_ids": [205, 208, 212, 214],
             "furigana_ids": [204, 206, 207, 209, 210, 211, 213],
             "japanese_items": [
-              "※プログライズキーのボタンを押さずに、飛竜ゼロワンドライバーのスキャンエリアにかざした場合、「オーソライズ」が鳴らずに変身待機音が鳴ります。",
-              "その状態でプログライズキーを挿入すると、「プログライズ!」の音声の後に「グラスホッパーズアビリティ」の音声が鳴ります。"
+              "※プログライズキーのボタンを押さずに、飛竜ゼロワンドライバーのスキャンエリアにかざした場合、「オーソライズ」が鳴らずに変身待機音が鳴ります。その状態でプログライズキーを挿入すると、「プログライズ!」の音声の後に「グラスホッパーズアビリティ」の音声が鳴ります。"
             ]
           },
           {
-            "display_index": 41,
+            "display_index": 42,
             "source_ids": [26],
             "furigana_ids": []
           },
           {
-            "display_index": 42,
+            "display_index": 43,
             "source_ids": [28],
             "furigana_ids": []
           },
           {
-            "display_index": 43,
+            "display_index": 44,
             "source_ids": [32],
             "furigana_ids": []
           },
           {
-            "display_index": 44,
+            "display_index": 45,
             "source_ids": [33],
             "furigana_ids": []
           },
           {
-            "display_index": 45,
+            "display_index": 46,
             "source_ids": [34],
             "furigana_ids": []
           },
           {
-            "display_index": 46,
+            "display_index": 47,
             "source_ids": [35],
             "furigana_ids": []
           },
           {
-            "display_index": 47,
-            "source_ids": [64],
-            "furigana_ids": []
-          },
-          {
             "display_index": 48,
-            "source_ids": [67],
+            "source_ids": [36],
             "furigana_ids": []
           },
           {
             "display_index": 49,
-            "source_ids": [69],
-            "furigana_ids": []
+            "source_ids": [38],
+            "furigana_ids": [37]
           },
           {
             "display_index": 50,
-            "source_ids": [71],
+            "source_ids": [64],
             "furigana_ids": []
           },
           {
             "display_index": 51,
-            "source_ids": [72],
+            "source_ids": [67],
             "furigana_ids": []
           },
           {
             "display_index": 52,
-            "source_ids": [73],
+            "source_ids": [69],
             "furigana_ids": []
           },
           {
             "display_index": 53,
-            "source_ids": [74],
-            "furigana_ids": []
+            "source_ids": [70],
+            "furigana_ids": [68]
           },
           {
             "display_index": 54,
-            "source_ids": [94],
+            "source_ids": [71],
             "furigana_ids": []
           },
           {
             "display_index": 55,
-            "source_ids": [100],
+            "source_ids": [72],
             "furigana_ids": []
           },
           {
             "display_index": 56,
-            "source_ids": [108],
-            "furigana_ids": [86, 99]
+            "source_ids": [73],
+            "furigana_ids": []
           },
           {
             "display_index": 57,
-            "source_ids": [111],
-            "furigana_ids": [109, 110]
+            "source_ids": [74],
+            "furigana_ids": []
           },
           {
             "display_index": 58,
-            "source_ids": [113],
+            "source_ids": [86],
             "furigana_ids": []
           },
           {
             "display_index": 59,
-            "source_ids": [115],
-            "furigana_ids": [114]
+            "source_ids": [94],
+            "furigana_ids": []
           },
           {
             "display_index": 60,
-            "source_ids": [117],
+            "source_ids": [100],
             "furigana_ids": []
           },
           {
             "display_index": 61,
-            "source_ids": [119],
-            "furigana_ids": [116, 118]
-          },
-          {
-            "display_index": 62,
-            "source_ids": [123],
-            "furigana_ids": [120, 121, 122, 112]
-          },
-          {
-            "display_index": 63,
             "source_ids": [135],
             "furigana_ids": []
           },
           {
-            "display_index": 64,
+            "display_index": 62,
             "source_ids": [142],
             "furigana_ids": []
           },
           {
-            "display_index": 65,
+            "display_index": 63,
             "source_ids": [154],
             "furigana_ids": []
           },
           {
-            "display_index": 66,
+            "display_index": 64,
             "source_ids": [155],
             "furigana_ids": []
           },
           {
-            "display_index": 67,
-            "source_ids": [160],
-            "furigana_ids": [158, 159]
+            "display_index": 65,
+            "source_ids": [177],
+            "furigana_ids": [172, 173]
           },
           {
-            "display_index": 68,
+            "display_index": 66,
             "source_ids": [184],
             "furigana_ids": []
           },
           {
-            "display_index": 69,
+            "display_index": 67,
             "source_ids": [185],
             "furigana_ids": []
           },
           {
-            "display_index": 70,
+            "display_index": 68,
             "source_ids": [202],
             "furigana_ids": []
           },
           {
-            "display_index": 71,
+            "display_index": 69,
             "source_ids": [203],
             "furigana_ids": []
           }
         ],
         "uncertainties": [
-          "The source text appears to be an incomplete fragment and the sentence is unfinished; the object or predicate following 「オーソライズ」の is missing, so the full meaning is uncertain.",
-          "Text appears to be a fragment with trailing punctuation; continuation or remaining instructions are missing from the provided crop.",
-          "The Japanese text appears to be a sentence fragment ending with a comma; the remainder of the sentence is not visible in the provided crop.",
-          "validation_error: explicit source quantity missing",
-          "The Japanese sentence appears to be incomplete in the provided crop (ends with しっかりと); the final verb or phrase may continue on the next panel.",
-          "Ambiguity in かざした: could mean 'waved' or 'held/hovered over' a sensor; source image does not clarify the gesture.",
-          "The panel text ends with '→「ライジング!」の音声と' which appears incomplete; the remainder of the sentence is not visible in the provided image."
+          "The sentence ends with a trailing comma in the image and appears to continue; the panel text may be incomplete.",
+          "The scanned crop appears to show only a fragment; the sentence is incomplete and trailing text is missing.",
+          "The Japanese text appears to be a sentence fragment and likely continues beyond the provided crop; full instruction may be missing.",
+          "Translation preserves the fragmentary form; further context could change the rendering to a complete instruction.",
+          "The Japanese text is a sentence fragment ending with a comma and appears to continue beyond the cropped image; continuation is not visible.",
+          "The original scanned line ends with 'と', indicating the verb was truncated. I reconstructed the clause as '差し込む' (insert) to complete the instruction; the original verb may differ.",
+          "Text is an incomplete clause; the continuation or consequence after 'slides,' is missing from the image.",
+          "The word \"スロット\" appears at the right edge of the crop; unclear whether it is part of this panel or belongs to an adjacent panel.",
+          "Uncertain whether the initial kanji is '電' as OCR shows, or part of '飛電' (Hiden); reading could be 'Den' or mean 'Electric' or be the proper name 'Hiden'.",
+          "The Japanese text appears to be a sentence fragment ending with a comma; the panel likely continues beyond the cropped area."
         ],
         "ocr_lines": [
           {

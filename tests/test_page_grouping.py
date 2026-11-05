@@ -230,3 +230,60 @@ def test_caregiver_instruction_cannot_be_reduced_to_a_heading() -> None:
         "This box lists precautions for using this product. Read them carefully and explain them to your child."
     ]
     validate_translations(page, plan, text)
+
+
+def test_mixed_kana_reading_guides_can_attach_to_acronyms_and_kanji() -> None:
+    """DX and Hiden pronunciation aids are not additional English product words."""
+    from src.quality.semantic_layout import source_candidates
+
+    page = ContextPage(
+        image="page.webp",
+        blocks=[
+            ContextBlock(
+                text="デラックス ひでん",
+                translation="Deluxe Hiden",
+                bbox=(0.1, 0.18, 0.13, 0.012),
+            ),
+            ContextBlock(
+                text="DX飛電ゼロワンドライバー",
+                translation="DX Hiden Zero-One Driver",
+                bbox=(0.1, 0.2, 0.4, 0.035),
+            ),
+            ContextBlock(
+                text="デラックス", translation="Deluxe", bbox=(0.6, 0.18, 0.08, 0.012)
+            ),
+            ContextBlock(text="DX", translation="DX", bbox=(0.6, 0.2, 0.1, 0.035)),
+        ],
+    )
+    plan = PagePlan(
+        panels=[],
+        furigana=[
+            RubyLink(source_id=0, parent_id=1),
+            RubyLink(source_id=2, parent_id=3),
+        ],
+        notes=[],
+    )
+    validate_plan(page, plan)
+    candidates = source_candidates(page)
+    assert candidates[0]["eligible_ruby_parents"] == [1]
+    assert candidates[2]["eligible_ruby_parents"] == [3]
+
+
+def test_katakana_instruction_at_normal_text_size_is_not_a_reading_guide() -> None:
+    """Allowing katakana must not erase ordinary mode names or instructions."""
+    page = ContextPage(
+        image="page.webp",
+        blocks=[
+            ContextBlock(
+                text="リセット", translation="Reset", bbox=(0.1, 0.18, 0.2, 0.035)
+            ),
+            ContextBlock(text="電源", translation="Power", bbox=(0.1, 0.2, 0.3, 0.035)),
+        ],
+    )
+    with pytest.raises(ValueError, match="Unconfirmed furigana"):
+        validate_plan(
+            page,
+            PagePlan(
+                panels=[], furigana=[RubyLink(source_id=0, parent_id=1)], notes=[]
+            ),
+        )
