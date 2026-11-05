@@ -1,6 +1,6 @@
-import { createViewerState } from './viewer-state.js?v=17';
-import { createReaderPreferences } from './reader-controls.js?v=17';
-import { createEditSession } from './edit-session.js?v=17';
+import { createViewerState } from './viewer-state.js?v=18';
+import { createReaderPreferences } from './reader-controls.js?v=18';
+import { createEditSession } from './edit-session.js?v=18';
 
 // Global application state
 export const state = {
@@ -47,12 +47,8 @@ export const DOM = {
   decreaseTextSizeBtn: null,
   resetTextSizeBtn: null,
   increaseTextSizeBtn: null,
-  printManualBtn: null,
-  printSettingsBtn: null,
-  printStatus: null,
-  printPreflightDialog: null,
-  printWarningsDialog: null,
-  printWarningsList: null,
+  downloadPdfBtn: null,
+  pdfStatus: null,
   largeTextPopover: null,
   largeTextPopoverContent: null,
   discardDraftBtn: null,

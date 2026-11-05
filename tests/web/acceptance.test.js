@@ -6,7 +6,6 @@ import { createDraftStore } from '../../web/js/draft-store.js';
 import { createEditSession } from '../../web/js/edit-session.js';
 import { serializeManual } from '../../web/js/manual-data.js';
 import { manualNameFromHash } from '../../web/js/navigation.js';
-import { createPrintPreparation } from '../../web/js/print-preparation.js';
 import { createViewerState, reduceViewerState } from '../../web/js/viewer-state.js';
 
 function manualFixture() {
@@ -75,27 +74,4 @@ test('desktop edit, bbox, undo, redo, draft restore, and export purity form one 
   for (const transient of ['undo', 'redo', 'draft', 'fingerprint', 'viewer']) {
     assert.equal(json.toLowerCase().includes(transient), false);
   }
-});
-
-test('full-manual print preparation waits for all pages and requires warning override', async () => {
-  const decoded = [];
-  let prints = 0;
-  const preparation = createPrintPreparation({
-    loadImage: async (_page, index) => {
-      decoded.push(index);
-      return { width: 800, height: 1200, decoded: true };
-    },
-    loadFont: async () => {},
-    render: () => ({ cleanup() {} }),
-    fit: () => [{ pageIndex: 0, blockIndex: 0, status: 'overflow' }],
-    print: () => {
-      prints += 1;
-    }
-  });
-  const warning = await preparation.prepare(manualFixture());
-  assert.deepEqual(decoded, [0]);
-  assert.equal(warning.status, 'warning');
-  assert.equal(prints, 0);
-  await preparation.prepare(manualFixture(), { printAnyway: true });
-  assert.equal(prints, 1);
 });

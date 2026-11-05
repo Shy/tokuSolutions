@@ -22,9 +22,9 @@ Download JSON to save edits, or use the GitHub action to copy the JSON and open
 the file editor for a pull request. Browser drafts are local to that browser;
 changes do not automatically update the repository.
 
-**Print Manual** prepares the complete manual for A4 and reports text-fit issues.
-Firefox's native print-preview matrix is still unverified; see the
-[viewer guide](docs/viewer.md#printing).
+**Download PDF** saves one PDF page per source scan using the desktop reader's
+geometry, fonts and current text edits. It works directly on the static site,
+including from phones; see the [PDF guide](docs/viewer.md#pdf-download).
 
 ## Translate a PDF
 
@@ -116,7 +116,7 @@ not left in the preview. Refresh the staged copy after generating or editing dat
    glossary. Source geometry and illustration-ink checks reject unsafe merges;
    one automatic repair is allowed before retaining an existing translation.
 6. **Audit:** validate every page, translation and image, then measure the real
-   Chrome viewer at desktop, phone and A4 print sizes. Overflow, small text and
+   Chrome viewer at desktop and phone sizes and the desktop PDF capture. Overflow, small text and
    unavailable browser checks become advisory warnings.
 7. **Publish:** move the completed manual into place, retain any previous version
    and refresh the catalog. Incomplete OCR or changed source data prevents
@@ -141,7 +141,7 @@ target; new runs use the `manual-translation` task queue. See the [quality exper
   dependencies, deployment and known limitations.
 - [Shared glossary](docs/glossary.md): automatic discovery, evidence, scope and
   maintenance.
-- [Viewer and manual format](docs/viewer.md): editing, export, printing and the
+- [Viewer and manual format](docs/viewer.md): editing, JSON/PDF export and the
   persisted JSON contract.
 - [Quality experiments](benchmarks/README.md): dedicated OCR/translation models,
   controlled comparisons and retained findings.

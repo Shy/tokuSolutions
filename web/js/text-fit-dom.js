@@ -1,4 +1,4 @@
-import { fitText } from './text-fit.js?v=17';
+import { fitText } from './text-fit.js?v=18';
 
 export const READER_FIT_DEFAULTS = Object.freeze({
   padding: 2,

@@ -121,18 +121,22 @@ await fitRenderedManual({root:document.getElementById('pagePanel'),manual:state.
         await page.set_viewport_size(VIEWS["desktop"])
         await page.evaluate("""async()=>{
 const {state}=await import('./js/state.js'+new URL(document.querySelector('script[type=module]').src).search);
-const {renderPrintDocument,fitPrintDocument}=await import('./js/print-renderer.js'+new URL(document.querySelector('script[type=module]').src).search);
-const image=document.querySelector('#page-0 img');
-const representation=renderPrintDocument(state.currentManual,[{width:image.naturalWidth,height:image.naturalHeight,src:image.src}]);
-await fitPrintDocument(representation);
+const {createDesktopCapture}=await import('./js/pdf-export.js'+new URL(document.querySelector('script[type=module]').src).search);
+window.auditPdfCapture=await createDesktopCapture();
+await window.auditPdfCapture.renderPage(state.currentManual.pages[0],state.currentManualName,{scale:1,correctedTextVisible:true});
+window.auditPdfCapture.frame.style.left='0';
+window.auditPdfCapture.frame.style.zIndex='10000';
 }""")
-        await page.emulate_media(media="print")
+        pdf_frame = page.frames[-1]
         values = TypeAdapter(list[RegionMetric]).validate_python(
-            await page.evaluate(METRICS_JS, ".print-overlay")
+            await pdf_frame.evaluate(METRICS_JS, ".overlay")
         )
-        metrics.append(ViewMetrics(view="print", blocks=values))
-        await page.locator(".print-page-content").screenshot(
-            path=str(directory / f"{phase}-print.png"),
+        metrics.append(ViewMetrics(view="pdf", blocks=values))
+        await pdf_frame.add_style_tag(
+            content="html,body,#viewerView,.viewer-container,.page-panel {overflow:visible !important}"
+        )
+        await pdf_frame.locator(".page").screenshot(
+            path=str(directory / f"{phase}-pdf.png"),
             animations="disabled",
             scale="css",
         )

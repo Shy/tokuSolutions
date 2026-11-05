@@ -1,15 +1,15 @@
 // Main application entry point - modular architecture
-import { state, DOM, EditSession } from './js/state.js?v=17';
-import { ImageLoader } from './js/image-loader.js?v=17';
-import { debounce, throttle } from './js/utils.js?v=17';
-import { UI_TIMINGS } from './js/config.js?v=17';
+import { state, DOM, EditSession } from './js/state.js?v=18';
+import { ImageLoader } from './js/image-loader.js?v=18';
+import { debounce, throttle } from './js/utils.js?v=18';
+import { UI_TIMINGS } from './js/config.js?v=18';
 import {
   renderManualList,
   renderTagFilters,
   highlightBlock,
   clearHighlights,
   scheduleManualFit
-} from './js/renderer.js?v=17';
+} from './js/renderer.js?v=18';
 import {
   commitBboxGesture,
   createTextBlock,
@@ -19,7 +19,7 @@ import {
   saveInspectorTranslation,
   syncInspectorBbox,
   undoLastEdit
-} from './js/editor.js?v=17';
+} from './js/editor.js?v=18';
 import {
   navigate,
   toggleTranslations,
@@ -29,9 +29,9 @@ import {
   jumpToPage,
   manualNameFromHash,
   updatePageIndicator
-} from './js/navigation.js?v=17';
-import { submitToGitHub, downloadJSON } from './js/github.js?v=17';
-import { createViewerState, reduceViewerState } from './js/viewer-state.js?v=17';
+} from './js/navigation.js?v=18';
+import { submitToGitHub, downloadJSON } from './js/github.js?v=18';
+import { createViewerState, reduceViewerState } from './js/viewer-state.js?v=18';
 import {
   DEFAULT_READER_FONT_SIZE,
   adjustReaderScale,
@@ -40,22 +40,19 @@ import {
   parseReaderPreferences,
   requiresLargeTextPopover,
   serializeReaderPreferences
-} from './js/reader-controls.js?v=17';
-import { createDraftAutosave, createDraftStore } from './js/draft-store.js?v=17';
+} from './js/reader-controls.js?v=18';
+import { createDraftAutosave, createDraftStore } from './js/draft-store.js?v=18';
 import {
   beginBboxGesture,
   cancelBboxGesture,
   commitBboxGesture as finalizeBboxGesture,
   updateBboxGesture
-} from './js/bbox-interaction.js?v=17';
-import { createPrintPreparation } from './js/print-preparation.js?v=17';
-import { fitPrintDocument, renderPrintDocument } from './js/print-renderer.js?v=17';
+} from './js/bbox-interaction.js?v=18';
+import { downloadManualPdf } from './js/pdf-export.js?v=18';
 
 const finePointerQuery = window.matchMedia('(pointer: fine)');
 const READER_PREFERENCES_KEY = 'tokusolutions:reader-preferences';
-const PRINT_PREFLIGHT_KEY = 'tokusolutions:print-preflight-dismissed:v1';
 let activeBboxGesture = null;
-let printPreparation = null;
 
 function gesturePointer(event, pageRect) {
   return {
@@ -116,80 +113,39 @@ function setDraftStatus(message, isError = false) {
   DOM.draftStatus.classList.toggle('is-error', isError);
 }
 
-function setPrintStatus(message, isError = false) {
-  DOM.printStatus.textContent = message;
-  DOM.printStatus.classList.toggle('is-error', isError);
-}
-
-function preloadPrintImage(page) {
-  return new Promise((resolve, reject) => {
-    const image = new Image();
-    image.onload = async () => {
-      try {
-        await image.decode();
-        resolve({
-          width: image.naturalWidth,
-          height: image.naturalHeight,
-          decoded: true,
-          src: image.src
-        });
-      } catch (error) {
-        reject(error);
-      }
-    };
-    image.onerror = () => reject(new Error(`Could not load ${page.image}`));
-    image.src = `../manuals/${state.currentManualName}/${page.image}`;
-  });
-}
-
-function showPrintWarnings(warnings) {
-  DOM.printWarningsList.innerHTML = '';
-  for (const warning of warnings) {
-    const item = document.createElement('li');
-    const button = document.createElement('button');
-    button.type = 'button';
-    button.className = 'warning-link';
-    button.textContent = `Page ${warning.pageIndex + 1}, block ${warning.blockIndex + 1}: ${
-      warning.status
-    }`;
-    button.addEventListener('click', () => {
-      DOM.printWarningsDialog.close();
-      document
-        .querySelector(
-          `.overlay[data-page-id="${warning.pageIndex}"][data-block-id="${warning.blockIndex}"]`
-        )
-        ?.scrollIntoView({ behavior: 'smooth', block: 'center' });
-    });
-    item.appendChild(button);
-    DOM.printWarningsList.appendChild(item);
+async function runPdfDownload() {
+  if (!state.currentManual || DOM.downloadPdfBtn.disabled) return;
+  if (state.viewer.mode === 'editing') {
+    saveInspectorTranslation();
+    const selection = state.editSession?.selectedBlock;
+    const block =
+      selection && state.currentManual.pages[selection.pageIndex].blocks[selection.blockIndex];
+    if (
+      block &&
+      DOM.inspectorBboxInputs.some((input, index) => input.value !== block.bbox[index].toFixed(3))
+    ) {
+      saveInspectorBbox();
+    }
   }
-  DOM.printWarningsDialog.showModal();
-}
-
-async function runPrintPreparation(printAnyway = false) {
-  setPrintStatus('Preparing all manual pages…');
-  const result = await printPreparation.prepare(state.currentManual, { printAnyway });
-  if (result.status === 'blocked') {
-    setPrintStatus(`Print blocked: ${result.error} failed to load`, true);
-  } else if (result.status === 'warning') {
-    setPrintStatus(`${result.warnings.length} print item(s) need review`, true);
-    showPrintWarnings(result.warnings);
-  } else {
-    setPrintStatus('Print preview opened');
-  }
-}
-
-function printPreflightDismissed() {
+  DOM.downloadPdfBtn.disabled = true;
+  DOM.pdfStatus.classList.remove('is-error');
+  DOM.pdfStatus.textContent = 'Preparing desktop PDF…';
   try {
-    return localStorage.getItem(PRINT_PREFLIGHT_KEY) === 'true';
-  } catch {
-    return false;
+    const result = await downloadManualPdf({
+      manual: state.currentManual,
+      manualName: state.currentManualName,
+      preferences: state.reader,
+      onProgress: (message) => {
+        DOM.pdfStatus.textContent = message;
+      }
+    });
+    DOM.pdfStatus.textContent = `Downloaded PDF: ${result.pageCount} pages`;
+  } catch (error) {
+    DOM.pdfStatus.textContent = `PDF download failed: ${error.message}`;
+    DOM.pdfStatus.classList.add('is-error');
+  } finally {
+    DOM.downloadPdfBtn.disabled = false;
   }
-}
-
-function openPrintPreflight() {
-  document.getElementById('dismissPrintPreflight').checked = false;
-  DOM.printPreflightDialog.showModal();
 }
 
 function prepareDraftForEditing() {
@@ -218,7 +174,7 @@ function dispatchViewer(action) {
   state.viewer = reduceViewerState(state.viewer, action);
 
   if (wasEditing && state.viewer.mode === 'reading') {
-    import('./js/editor.js?v=17').then(({ exitBlockEditMode }) => exitBlockEditMode());
+    import('./js/editor.js?v=18').then(({ exitBlockEditMode }) => exitBlockEditMode());
   }
 
   renderViewerState();
@@ -301,12 +257,8 @@ function initializeApp() {
   DOM.decreaseTextSizeBtn = document.getElementById('decreaseTextSizeBtn');
   DOM.resetTextSizeBtn = document.getElementById('resetTextSizeBtn');
   DOM.increaseTextSizeBtn = document.getElementById('increaseTextSizeBtn');
-  DOM.printManualBtn = document.getElementById('printManualBtn');
-  DOM.printSettingsBtn = document.getElementById('printSettingsBtn');
-  DOM.printStatus = document.getElementById('printStatus');
-  DOM.printPreflightDialog = document.getElementById('printPreflightDialog');
-  DOM.printWarningsDialog = document.getElementById('printWarningsDialog');
-  DOM.printWarningsList = document.getElementById('printWarningsList');
+  DOM.downloadPdfBtn = document.getElementById('downloadPdfBtn');
+  DOM.pdfStatus = document.getElementById('pdfStatus');
   DOM.largeTextPopover = document.getElementById('largeTextPopover');
   DOM.largeTextPopoverContent = document.getElementById('largeTextPopoverContent');
   DOM.discardDraftBtn = document.getElementById('discardDraftBtn');
@@ -343,20 +295,6 @@ function initializeApp() {
     }
     renderViewerState();
   };
-  printPreparation = createPrintPreparation({
-    loadImage: preloadPrintImage,
-    loadFont: async () => {
-      await document.fonts.load('16px "Source Sans 3"');
-      await document.fonts.ready;
-    },
-    render: renderPrintDocument,
-    fit: fitPrintDocument,
-    print: () => window.print(),
-    onState: (printState) => {
-      DOM.printManualBtn.disabled = !['idle', 'warning'].includes(printState);
-    }
-  });
-
   state.viewer = createViewerState(currentCapability());
   state.reader = loadReaderPreferences();
   state.viewer = reduceViewerState(state.viewer, {
@@ -403,36 +341,7 @@ function setupEventListeners() {
   DOM.decreaseTextSizeBtn.addEventListener('click', () => setReaderScale(-1));
   DOM.resetTextSizeBtn.addEventListener('click', () => setReaderScale(0));
   DOM.increaseTextSizeBtn.addEventListener('click', () => setReaderScale(1));
-  DOM.printManualBtn.addEventListener('click', () => {
-    if (printPreflightDismissed()) {
-      runPrintPreparation();
-    } else {
-      openPrintPreflight();
-    }
-  });
-  DOM.printSettingsBtn.addEventListener('click', openPrintPreflight);
-  document.getElementById('cancelPrintPreflight').addEventListener('click', () => {
-    DOM.printPreflightDialog.close();
-  });
-  document.getElementById('continuePrintPreflight').addEventListener('click', () => {
-    if (document.getElementById('dismissPrintPreflight').checked) {
-      try {
-        localStorage.setItem(PRINT_PREFLIGHT_KEY, 'true');
-      } catch {
-        setPrintStatus('Could not save print preference', true);
-      }
-    }
-    DOM.printPreflightDialog.close();
-    runPrintPreparation();
-  });
-  document.getElementById('cancelPrintWarnings').addEventListener('click', () => {
-    DOM.printWarningsDialog.close();
-    printPreparation.cleanup();
-  });
-  document.getElementById('printAnywayBtn').addEventListener('click', () => {
-    DOM.printWarningsDialog.close();
-    runPrintPreparation(true);
-  });
+  DOM.downloadPdfBtn.addEventListener('click', runPdfDownload);
   document.getElementById('closeLargeTextPopover').addEventListener('click', closeLargeTextPopover);
   document.addEventListener('click', (event) => {
     if (
@@ -497,7 +406,7 @@ function setupEventListeners() {
       if (state.viewer.mode === 'reading') {
         maybeOpenLargeTextPopover(pageIdx, blockIdx, overlay);
       } else {
-        import('./js/editor.js?v=17').then(({ enterBlockEditMode }) => {
+        import('./js/editor.js?v=18').then(({ enterBlockEditMode }) => {
           enterBlockEditMode(pageIdx, blockIdx);
         });
       }
@@ -593,7 +502,7 @@ function setupEventListeners() {
 
     highlightBlock(pageIdx, blockIdx);
     if (state.viewer.mode === 'editing') {
-      import('./js/editor.js?v=17').then(({ enterBlockEditMode }) => {
+      import('./js/editor.js?v=18').then(({ enterBlockEditMode }) => {
         enterBlockEditMode(pageIdx, blockIdx);
       });
     }

@@ -24,7 +24,8 @@ test('editor shell includes contextual inspector, drawer, history, and draft act
 
 test('renderer includes all eight resize handles for selected overlays', async () => {
   const source = await readFile(new URL('../../web/js/renderer.js', import.meta.url), 'utf8');
-  assert.match(source, /if \(selected\) attachResizeHandles\(overlay\)/);
+  assert.match(source, /selected\?\.pageIndex === pageIdx/);
+  assert.match(source, /attachResizeHandles\(overlay\)/);
   for (const handle of ['n', 's', 'e', 'w', 'ne', 'nw', 'se', 'sw']) {
     assert.match(source, new RegExp(`['"]${handle}['"]`));
   }

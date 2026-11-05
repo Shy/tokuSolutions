@@ -7,9 +7,14 @@
     "serve": "python3 -m http.server 8767 --bind 127.0.0.1 --directory _site",
     "test": "node --test tests/web/*.test.js",
     "lint": "prettier --check 'manuals/**/translations.json' 'web/**/*.{js,json,html,css}' '*.md' 'docs/**/*.md' 'benchmarks/**/*.md' 'credentials/**/*.md' '.github/workflows/*.{yml,yaml}'",
-    "format": "prettier --write 'manuals/**/translations.json' 'web/**/*.{js,json,html,css}' '*.md' 'docs/**/*.md' 'benchmarks/**/*.md' 'credentials/**/*.md' '.github/workflows/*.{yml,yaml}'"
+    "format": "prettier --write 'manuals/**/translations.json' 'web/**/*.{js,json,html,css}' '*.md' 'docs/**/*.md' 'benchmarks/**/*.md' 'credentials/**/*.md' '.github/workflows/*.{yml,yaml}'",
+    "vendor:pdf": "node scripts/vendor-pdf.mjs"
   },
   "devDependencies": {
     "prettier": "^3.9.10"
+  },
+  "dependencies": {
+    "html-to-image": "1.11.13",
+    "jspdf": "4.2.1"
   }
 }

@@ -8,7 +8,7 @@ backend for reading and exporting edits.
 
 Search by manual name/source and combine catalog tag filters. Deep links use the
 manual folder name in the URL fragment. Reader controls change corrected-text
-size, show/hide English, navigate pages and prepare the complete manual for print.
+size, show/hide English, navigate pages and download the complete manual as a PDF.
 
 Desktop and sufficiently capable tablet layouts expose **Edit translations**.
 Phones/coarse-pointer layouts remain reading-only. Editing supports text changes,
@@ -54,7 +54,7 @@ also contain source/blog URLs, tags, counts and thumbnail information. Export
 preserves metadata while keeping only persisted page/block fields: `image`,
 `blocks`, `text`, `translation`, `bbox`, plus optional semantic fields. A display
 block with `layout: "panel"` uses an opaque paragraph mask in both reader and
-print. Grouped pages retain `source_blocks` (all original regions) and
+PDF. Grouped pages retain `source_blocks` (all original regions) and
 `layout_provenance` (source-ID membership, guide-parent links, OCR line geometry
 and uncertainty notes). Export preserves these fields through final human edits.
 Readable original artwork can have a ledger entry with `display_index: -1`
@@ -72,19 +72,31 @@ history in `edit-session.js`; drafts in `draft-store.js`; proportional text fitt
 in `text-fit.js` and `text-fit-dom.js`. Catalog model/view and viewer state are
 separate modules. `tests/web/` covers these contracts and combined acceptance flows.
 
-## Printing
+## PDF download
 
-Print preparation loads all source pages, waits for images/fonts, derives an A4
-layout and warns about missing translations, overflow and text below the 9pt
-print floor. The preflight is advisory; it is not a translation approval step.
+**Download PDF** directly saves a complete manual, with no print dialog, paper
+settings, preflight or review gate. One source scan produces one PDF page with
+its original aspect ratio. Site controls, page badges, editor handles and browser
+chrome are excluded. The responsive reader and editing workspace remain available.
 
-In Firefox's native dialog select A4, one page per sheet, backgrounds enabled
-and headers/footers disabled. Check orientation and scaling against the preflight.
-The webpage cannot enforce all browser-dialog settings.
+The canonical desktop is a 1280×900 viewport with page content capped at 1200 CSS
+pixels. A same-origin frame loads the same stylesheet, shared manual-page DOM and
+reader text-fitting function, even when the download starts on a phone. It waits
+for each real scan and the bundled font, renders pages sequentially and captures
+them at 2× resolution. It uses current corrected-text visibility and text-size
+controls and a snapshot of the current edited document. Unsaved inspector text
+is committed before export. Unrestored drafts are not included. The document and
+source ledger are never rewritten by PDF generation.
 
-**Outstanding validation:** native Firefox preview has not been verified across
-the complete representative matrix. Check a short portrait manual, a long one,
-a landscape page, dense warnings and a forced-overflow case. Confirm one source
-page per sheet, complete overlays, sharp readable text, no blank lazy pages, no
-cropping and no site/browser chrome. Automated preparation tests do not replace
-this browser-specific visual check.
+The PDF embeds lossless page images at about 192 pixels per inch, preserving
+browser layout and original artwork. Text is rasterized, so it is not searchable
+or selectable. Raster antialiasing can differ slightly from a native screenshot;
+there is no independent text layout or font shrink. This avoids substituting a
+second approximate canvas typesetter. Files can be large (several MB per page),
+and long manuals use browser memory while assembling the final file. A failed
+image/font load reports an error and never downloads a partial manual.
+
+The browser regressions compare all pages of Zero One, landscape GoKaiKeys and
+dense Charmant against real desktop captures. Mobile export, current edits,
+reader settings and asset failures are checked separately. Chrome is the measured
+browser; Safari/Firefox capture and mobile device memory limits remain unverified.

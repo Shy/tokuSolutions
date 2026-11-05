@@ -111,7 +111,7 @@ def metrics(font: float, overflow: bool = False) -> list[ViewMetrics]:
             view=view,
             blocks=[RegionMetric(block_index=0, font_px=font, overflow=overflow)],
         )
-        for view in ("desktop", "mobile", "print")
+        for view in ("desktop", "mobile", "pdf")
     ]
 
 

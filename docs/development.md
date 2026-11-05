@@ -54,7 +54,7 @@ uv run mypy --strict --follow-imports=silent src/workflows/agent_workflows.py te
 | `src/cleanup.py`         | Structured cleanup schema and source-preserving application          |
 | `src/quality/`           | Shared browser metrics, experiments, glossary evidence and reporting |
 | `src/tagging.py`         | Shared catalog tag definitions                                       |
-| `web/`                   | Static catalog, reader, editor and print preparation                 |
+| `web/`                   | Static catalog, reader, editor and direct PDF export                 |
 | `tests/`                 | Python tests and `tests/web/` frontend tests                         |
 
 ## Worker behavior and recovery
@@ -105,7 +105,7 @@ Agents plugin.
 Each run owns `benchmark-runs/publication/<run-hash>/`. Its `staging/` folder is
 absent from the catalog. `source.json` preserves the pre-cleanup source. The audit
 freezes public viewer assets and the manual, then records desktop 1280×900, phone
-390×844 and A4 print metrics/screenshots per page. Browser measurements are
+390×844 and canonical desktop PDF metrics/screenshots per page. Browser measurements are
 deterministic checks, with no extra AI-coordinate edit or model call. The Chrome
 version and renderer/manual/image hashes identify what was measured.
 
@@ -113,7 +113,7 @@ version and renderer/manual/image hashes identify what was measured.
 small text, optional AI failures and unavailable/incomplete browser measurements
 are warnings and never require human approval. The CLI prints their summary and
 the local audit path. Layout warnings are heuristics, not semantic error counts
-or proof that native print output is correct.
+or proof of semantic accuracy.
 
 Publication checks that the staged data and renderer still match the audit and
 that published JSON has not changed since the run began. A local file lock
@@ -143,7 +143,7 @@ manuals, six model requests and three browser pages in flight. Graceful worker s
 five minutes for active calls to finish. Paid calls use the
 same official Temporal Agents integration as new translations.
 
-The run freezes the shared glossary and original JSON, audits desktop/phone/A4,
+The run freezes the shared glossary and original JSON, audits desktop/phone/PDF,
 normalizes reversed rectangle endpoints, restores literal labels and applies
 formatting rules. Numeric findings normalize common English number words and Japanese battery-size
 codes. Other number wording, diagram references and OCR fragments can still
@@ -248,10 +248,10 @@ editor changes. Use `--regroup` with a new run ID to explicitly retranslate
 previously grouped prose; this can replace final prose edits. Current standalone
 label edits are retained as the next draft. Exact-request reply and identical-scan
 OCR caches are reused across runs; changed inputs are checked again. No initial full retranslation of unchanged diagram labels is
-required. Final desktop/phone/A4 measurements precede replacement, with existing
+required. Final desktop/phone/PDF measurements precede replacement, with existing
 backup and concurrent-edit protections.
 
-Grouped paragraph masks improve desktop reading but do not solve all phone/A4
+Grouped paragraph masks improve desktop reading but do not solve all phone
 overflow. Fewer display regions or flags do not prove translation accuracy.
 
 ## Dependencies and credentials
@@ -305,10 +305,10 @@ do not regenerate it just to satisfy inventory counts.
 
 ## Known verification limits
 
-- Native Firefox A4 preview remains unchecked for the representative portrait,
-  landscape, dense and forced-overflow matrix. Automated print preparation and
-  warning tests pass; they do not certify browser-dialog output. Follow the
-  [printing checks](viewer.md#printing) when validating a release's print behavior.
+- PDF output rasterizes text for browser-layout fidelity; it is not searchable.
+  Actual Chrome downloads are compared with native desktop captures. Safari,
+  Firefox and real mobile-device memory limits remain unverified. See the
+  [PDF guide](viewer.md#pdf-download).
 - Native Windows execution and WSL/RTX 3090 inference have not been validated.
 - AI assessment and structural checks do not establish translation accuracy or
   zero errors. Preserve source scans and evaluate changes before replacing edited
@@ -325,6 +325,25 @@ RUN_LAYOUT_BROWSER_TESTS=1 uv run python -m pytest tests/test_layout_browser.py 
 
 Text fitting measures fractional text bounds and line height rather than integer
 scroll dimensions, and reserves the reader overlay's border space. Reader and
-print use the same probe helper. Module assets use version `v=17` so existing
+PDF capture use the same probe helper. Module assets use version `v=18` so existing
 browsers load the correction. The [rendered-layout trial](../benchmarks/README.md#rendered-layout-trial)
-records the Geartlinger measurement and remaining phone/print limitations.
+records the historical Geartlinger measurements.
+
+## Browser PDF export validation
+
+The static deployment includes checked-in browser bundles and upstream licenses
+under `web/vendor/`. Reproduce them after `npm ci` with `npm run vendor:pdf`.
+Versions are locked. Capture restores measured rectangles and fitted font sizes
+after CSS serialization, avoiding upstream font rounding and fractional-width
+loss. No runtime CDN or backend is required. Keep the generated files with dependency upgrades.
+
+Run the actual download and pixel comparisons using public-only temporary servers:
+
+```bash
+RUN_PDF_BROWSER_TESTS=1 uv run python -m pytest tests/test_pdf_export.py -q
+```
+
+Set `PDF_EVIDENCE_DIR` to retain PDFs, native screenshots and per-page comparison
+measurements. The audit's `pdf` view measures the actual desktop capture frame;
+it replaces the removed A4/print renderer. Old audit artifacts retain their old
+view names and hashes; remeasure touched manuals rather than relabeling history.

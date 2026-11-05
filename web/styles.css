@@ -592,47 +592,11 @@ footer {
   white-space: pre-wrap;
 }
 
-.print-dialog {
-  width: min(32rem, calc(100vw - 2rem));
-  padding: 1.25rem;
-  border: 1px solid var(--line);
-  border-top: 4px solid var(--brand);
-  border-radius: 6px;
-  color: var(--ink);
-  background: var(--surface-strong);
-  box-shadow: var(--shadow-md);
-}
-
-.print-dialog::backdrop {
-  background: rgba(23, 32, 51, 0.55);
-}
-
-.print-dialog h2,
-.print-dialog p,
-.print-dialog ul,
-.print-dialog label {
-  margin-bottom: 0.8rem;
-}
-
-.print-dialog ul {
-  padding-left: 1.25rem;
-}
-
 .dialog-actions {
   display: flex;
   justify-content: flex-end;
   gap: 0.5rem;
   margin-top: 1rem;
-}
-
-.warning-link {
-  padding: 0;
-  border: 0;
-  color: var(--brand);
-  background: transparent;
-  cursor: pointer;
-  text-align: left;
-  text-decoration: underline;
 }
 
 .submit-dialog-backdrop {
@@ -690,96 +654,6 @@ footer {
   border-left: 4px solid var(--brand);
   color: var(--brand);
   background: var(--surface);
-}
-
-.print-root {
-  position: fixed;
-  left: -100000px;
-  top: 0;
-  background: #fff;
-}
-
-.print-sheet {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  overflow: hidden;
-  background: #fff;
-  break-after: page;
-}
-
-.print-sheet--portrait {
-  width: 733px;
-  height: 1062px;
-}
-
-.print-sheet--landscape {
-  width: 1062px;
-  height: 733px;
-}
-
-.print-page-content {
-  position: relative;
-  flex: none;
-}
-
-.print-page-content > img {
-  display: block;
-  width: 100%;
-  height: 100%;
-}
-
-.print-overlay {
-  position: absolute;
-  box-sizing: border-box;
-  overflow: visible;
-  padding: 2px;
-  color: #000;
-  background: #fff;
-  font-family: 'Source Sans 3', sans-serif;
-  line-height: 1.15;
-  white-space: pre-wrap;
-  overflow-wrap: break-word;
-  word-break: break-word;
-}
-
-.print-fit-probe {
-  position: absolute;
-  left: -10000px;
-  top: 0;
-  box-sizing: border-box;
-  padding: 0;
-  visibility: hidden;
-  font-family: 'Source Sans 3', sans-serif;
-  white-space: pre-wrap;
-  overflow-wrap: break-word;
-  word-break: break-word;
-}
-
-@page manual-portrait {
-  size: A4 portrait;
-  margin: 8mm;
-}
-
-@page manual-landscape {
-  size: A4 landscape;
-  margin: 8mm;
-}
-
-@media print {
-  body > * {
-    display: none !important;
-  }
-
-  body > #printRoot {
-    display: block !important;
-    position: static;
-  }
-
-  .print-sheet {
-    margin: 0;
-    box-shadow: none;
-  }
 }
 
 .overlay:hover,
@@ -1126,8 +1000,7 @@ footer {
 }
 
 /* Source-derived semantic panels mask the original paragraph and its reading guides. */
-.overlay.semantic-panel,
-.print-overlay.semantic-panel {
+.overlay.semantic-panel {
   background: #fff;
   white-space: pre-line;
   padding: 2px;

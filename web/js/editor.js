@@ -1,12 +1,12 @@
-import { BBOX_DEFAULTS } from './config.js?v=17';
-import { state, DOM, EditSession } from './state.js?v=17';
+import { BBOX_DEFAULTS } from './config.js?v=18';
+import { state, DOM, EditSession } from './state.js?v=18';
 import {
   attachResizeHandles,
   renderPages,
   renderTextList,
   scheduleManualFit,
   showEditButtons
-} from './renderer.js?v=17';
+} from './renderer.js?v=18';
 
 function ensureEditSession() {
   if (state.editSession) return state.editSession;

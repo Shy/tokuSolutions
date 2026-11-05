@@ -13,7 +13,7 @@ test('reading toolbar exposes the required control labels', async () => {
     'A−',
     'Default text size',
     'A+',
-    'Print Manual',
+    'Download PDF',
     'Edit translations'
   ]) {
     assert.match(html, new RegExp(label.replace('+', '\\+')));

@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>TokuSolutions</title>
-    <link rel="stylesheet" href="styles.css?v=17" />
+    <link rel="stylesheet" href="styles.css?v=18" />
   </head>
 
   <body>
@@ -96,10 +96,7 @@
             </button>
             <button id="increaseTextSizeBtn" class="btn btn-secondary" type="button">A+</button>
           </div>
-          <button id="printManualBtn" class="btn btn-secondary" type="button">Print Manual</button>
-          <button id="printSettingsBtn" class="btn btn-secondary" type="button">
-            Print settings
-          </button>
+          <button id="downloadPdfBtn" class="btn btn-secondary" type="button">Download PDF</button>
           <button id="editTranslationsBtn" class="btn hidden" type="button">
             Edit translations
           </button>
@@ -125,7 +122,7 @@
             Discard draft
           </button>
           <span id="draftStatus" class="viewer-status" aria-live="polite"></span>
-          <span id="printStatus" class="viewer-status" aria-live="polite"></span>
+          <span id="pdfStatus" class="viewer-status" aria-live="polite"></span>
         </div>
       </header>
 
@@ -191,35 +188,8 @@
         </div>
         <p id="largeTextPopoverContent"></p>
       </div>
-
-      <dialog id="printPreflightDialog" class="print-dialog">
-        <h2>Firefox print setup</h2>
-        <p>In the print dialog, choose:</p>
-        <ul>
-          <li>A4 paper</li>
-          <li>Headers and footers off</li>
-          <li>Print backgrounds on</li>
-          <li>One page per sheet</li>
-        </ul>
-        <p>The site cannot change Firefox print-dialog settings for you.</p>
-        <label><input id="dismissPrintPreflight" type="checkbox" /> Do not show this again</label>
-        <div class="dialog-actions">
-          <button id="cancelPrintPreflight" class="btn btn-secondary" type="button">Cancel</button>
-          <button id="continuePrintPreflight" class="btn" type="button">Continue</button>
-        </div>
-      </dialog>
-
-      <dialog id="printWarningsDialog" class="print-dialog">
-        <h2>Print needs review</h2>
-        <p>Some corrected blocks cannot fit at 9pt or are missing text.</p>
-        <ul id="printWarningsList"></ul>
-        <div class="dialog-actions">
-          <button id="cancelPrintWarnings" class="btn btn-secondary" type="button">Cancel</button>
-          <button id="printAnywayBtn" class="btn" type="button">Print anyway</button>
-        </div>
-      </dialog>
     </div>
 
-    <script type="module" src="app.js?v=17"></script>
+    <script type="module" src="app.js?v=18"></script>
   </body>
 </html>

@@ -25,7 +25,7 @@ async def _heartbeat() -> None:
 
 @activity.defn
 async def audit_page_activity(prepared: AuditPreparation, page_index: int) -> PageAudit:
-    """Measure desktop/mobile/A4 without model calls or published-manual mutation."""
+    """Measure desktop/mobile/PDF without model calls or published-manual mutation."""
     if not 0 <= page_index < prepared.page_count:
         raise ValueError("Unknown source page")
     directory = Path(prepared.audit_dir) / "pages" / f"page-{page_index + 1:02d}"
@@ -80,7 +80,7 @@ async def audit_page_activity(prepared: AuditPreparation, page_index: int) -> Pa
 def _summarize(prepared: AuditPreparation, pages: list[PageAudit]) -> AuditSummary:
     counts = {
         view: {"regions": 0, "fit_overflow": 0, "dom_overflow": 0, "small_text": 0}
-        for view in ("desktop", "mobile", "print")
+        for view in ("desktop", "mobile", "pdf")
     }
     manual = ContextManual.model_validate_json(
         (

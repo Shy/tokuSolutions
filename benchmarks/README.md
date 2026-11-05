@@ -191,7 +191,7 @@ corrections belong directly in the overlay editor.
 ## Rendered-layout trial
 
 The isolated Geartlinger experiment measures the actual viewer at desktop
-1280×900, phone 390×844 and its A4 print representation. It sends rendered pages,
+1280×900, phone 390×844 and its canonical desktop PDF capture. It sends rendered pages,
 source scans and browser measurements to the configured OpenAI model, allows at
 most two proposal rounds per page, and retains only bounded box/whitespace edits
 that preserve words, source coverage, neighboring regions and near-white space.

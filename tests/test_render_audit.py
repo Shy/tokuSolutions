@@ -51,7 +51,7 @@ async def test_audit_summary_is_honest_about_coverage(
                 }
             ],
         }
-        for view in ("desktop", "mobile", "print")
+        for view in ("desktop", "mobile", "pdf")
     ]
     if failure == "incomplete-view":
         metrics.pop()

@@ -1,12 +1,14 @@
 // DOM rendering module
-import { state, DOM, EditSession } from './state.js?v=17';
-import { ImageLoader } from './image-loader.js?v=17';
-import { ErrorHandler } from './errors.js?v=17';
-import { validateManualDocument } from './manual-data.js?v=17';
-import { fitRenderedManual } from './text-fit-dom.js?v=17';
-import { buildCatalogView } from './catalog-view.js?v=17';
-import { formatPageIndicator } from './reader-controls.js?v=17';
-import { reduceViewerState } from './viewer-state.js?v=17';
+import { state, DOM, EditSession } from './state.js?v=18';
+import { ImageLoader } from './image-loader.js?v=18';
+import { ErrorHandler } from './errors.js?v=18';
+import { validateManualDocument } from './manual-data.js?v=18';
+import { fitRenderedManual } from './text-fit-dom.js?v=18';
+import { buildCatalogView } from './catalog-view.js?v=18';
+import { formatPageIndicator } from './reader-controls.js?v=18';
+import { reduceViewerState } from './viewer-state.js?v=18';
+
+import { createManualPage } from './manual-page.js?v=18';
 
 let pendingFitFrame = null;
 const RESIZE_HANDLES = ['n', 's', 'e', 'w', 'ne', 'nw', 'se', 'sw'];
@@ -120,7 +122,7 @@ export function renderManualList(filteredManuals) {
 
     card.append(artwork, content);
     const openManual = () => {
-      import('./navigation.js?v=17').then(({ navigate }) => {
+      import('./navigation.js?v=18').then(({ navigate }) => {
         navigate('viewer', manual.manualName);
       });
     };
@@ -154,7 +156,7 @@ export function renderTagFilters() {
     tagButton.dataset.tagId = tagId; // Store tag ID on button
     tagButton.onclick = () => {
       // Import toggleTagFilter dynamically
-      import('./navigation.js?v=17').then(({ toggleTagFilter }) => {
+      import('./navigation.js?v=18').then(({ toggleTagFilter }) => {
         toggleTagFilter(tagId);
       });
     };
@@ -176,36 +178,27 @@ export function renderPages(manualName, renderToken) {
   const fragment = document.createDocumentFragment();
 
   state.currentManual.pages.forEach((page, pageIdx) => {
-    const pageDiv = document.createElement('div');
-    pageDiv.className = 'page';
-    pageDiv.id = `page-${pageIdx}`;
-
-    const img = document.createElement('img');
-    // Use lazy loading for images beyond the first 2 pages
-    if (pageIdx < 2) {
-      img.src = `../manuals/${manualName}/${page.image}`;
-    } else {
-      img.dataset.src = `../manuals/${manualName}/${page.image}`;
-      img.src =
-        'data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1 1"%3E%3C/svg%3E';
-    }
-    img.alt = `Page ${pageIdx + 1}`;
-    img.onload = function () {
-      renderOverlays(pageDiv, page, pageIdx);
-      scheduleManualFit();
-    };
-
-    // Setup lazy loading
+    const src = `../manuals/${manualName}/${page.image}`;
+    const pageDiv = createManualPage(
+      page,
+      pageIdx,
+      pageIdx < 2
+        ? src
+        : 'data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1 1"%3E%3C/svg%3E',
+      { correctedTextVisible: state.viewer.correctedTextVisible }
+    );
+    const img = pageDiv.querySelector('img');
+    img.onload = scheduleManualFit;
     if (pageIdx >= 2) {
+      img.dataset.src = src;
       ImageLoader.observe(img);
     }
-
-    const label = document.createElement('div');
-    label.className = 'page-label';
-    label.textContent = `Page ${pageIdx + 1}`;
-
-    pageDiv.appendChild(img);
-    pageDiv.appendChild(label);
+    const selected = state.viewer.selectedBlock;
+    if (selected?.pageIndex === pageIdx) {
+      const overlay = pageDiv.querySelector(`[data-block-id="${selected.blockIndex}"]`);
+      overlay?.classList.add('is-selected');
+      attachResizeHandles(overlay);
+    }
     fragment.appendChild(pageDiv);
   });
 
@@ -214,42 +207,6 @@ export function renderPages(manualName, renderToken) {
   DOM.pageIndicator.textContent = formatPageIndicator(0, state.currentManual.pages.length);
   DOM.pageJumpInput.value = '1';
   DOM.pageJumpInput.max = String(state.currentManual.pages.length);
-}
-
-// Render overlays
-export function renderOverlays(pageDiv, page, pageIdx) {
-  const fragment = document.createDocumentFragment();
-
-  page.blocks.forEach((block, blockIdx) => {
-    const overlay = document.createElement('div');
-    overlay.className = 'overlay';
-    if (block.layout === 'panel') overlay.classList.add('semantic-panel');
-    overlay.textContent = block.translation;
-    overlay.dataset.pageId = pageIdx;
-    overlay.dataset.blockId = blockIdx;
-    const selected =
-      state.viewer.selectedBlock?.pageIndex === pageIdx &&
-      state.viewer.selectedBlock?.blockIndex === blockIdx;
-    if (selected) {
-      overlay.classList.add('is-selected');
-    }
-
-    // bbox is [x, y, w, h] normalized (0-1), convert to percentage
-    overlay.style.left = block.bbox[0] * 100 + '%';
-    overlay.style.top = block.bbox[1] * 100 + '%';
-    overlay.style.width = block.bbox[2] * 100 + '%';
-    overlay.style.height = block.bbox[3] * 100 + '%';
-
-    if (!state.viewer.correctedTextVisible) {
-      overlay.style.display = 'none';
-    }
-
-    if (selected) attachResizeHandles(overlay);
-
-    fragment.appendChild(overlay);
-  });
-
-  pageDiv.appendChild(fragment);
 }
 
 // Render text list

@@ -47,7 +47,7 @@ class RegionMetric(Artifact):
 class ViewMetrics(Artifact):
     """One complete page measured in a target view."""
 
-    view: Literal["desktop", "mobile", "print"]
+    view: Literal["desktop", "mobile", "pdf"]
     blocks: list[RegionMetric]
 
 
@@ -167,7 +167,7 @@ def measured_improvement(before: list[ViewMetrics], after: list[ViewMetrics]) ->
         if len(metrics) != 3 or {view.view for view in metrics} != {
             "desktop",
             "mobile",
-            "print",
+            "pdf",
         }:
             return False
         if any(
