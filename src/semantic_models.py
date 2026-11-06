@@ -29,3 +29,4 @@ class SemanticLayoutInput:
     page_count: int
     pdf_path: str = ""
     glossary_path: str = ""
+    layout_index: str = ""

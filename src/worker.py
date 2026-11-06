@@ -14,6 +14,7 @@ from src.activities.agent_pipeline import (
     save_agent_reply_activity,
 )
 from src.activities.cleanup import ftfy_cleanup_activity, rule_based_cleanup_activity
+from src.activities.combined_layout import build_combined_index_activity
 from src.activities.ocr import get_pdf_page_count_activity, ocr_page_activity
 from src.activities.product_search import search_product_url_activity
 from src.activities.publication import (
@@ -30,6 +31,7 @@ from src.activities.semantic_layout import (
     load_semantic_request_activity,
     plan_semantic_page_activity,
     prepare_semantic_page_activity,
+    prepare_structure_activity,
     save_semantic_reply_activity,
 )
 from src.activities.site_generation import generate_site_activity
@@ -43,6 +45,7 @@ from src.workflows.agent_workflows import (
 
 # Import all workflows (parent + children)
 from src.workflows.cleanup_workflow import CleanupWorkflow
+from src.workflows.combined_layout_workflow import CombinedLayoutWorkflow
 from src.workflows.ocr_workflow import OCRWorkflow
 from src.workflows.page_grouping_workflow import PageGroupingAgentWorkflow
 from src.workflows.pdf_translation_workflow import PDFTranslationWorkflow
@@ -54,6 +57,7 @@ from src.workflows.site_generation_workflow import SiteGenerationWorkflow
 from src.workflows.translation_workflow import TranslationWorkflow
 
 WORKFLOWS = (
+    CombinedLayoutWorkflow,
     PageGroupingAgentWorkflow,
     SemanticLayoutWorkflow,
     SemanticPageWorkflow,
@@ -68,6 +72,7 @@ WORKFLOWS = (
 )
 
 ACTIVITIES = (
+    build_combined_index_activity,
     apply_semantic_manual_activity,
     cached_semantic_reply_activity,
     check_semantic_translation_activity,
@@ -75,6 +80,7 @@ ACTIVITIES = (
     load_semantic_request_activity,
     plan_semantic_page_activity,
     prepare_semantic_page_activity,
+    prepare_structure_activity,
     save_semantic_reply_activity,
     prepare_publication_activity,
     prepare_audit_activity,

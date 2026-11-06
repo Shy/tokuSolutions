@@ -1,9 +1,9 @@
 // Navigation and routing module
-import { state, DOM, EditSession } from './state.js?v=18';
-import { renderManualList, loadManual } from './renderer.js?v=18';
-import { filterManuals as filterCatalogManuals } from './catalog-model.js?v=18';
-import { reduceViewerState } from './viewer-state.js?v=18';
-import { formatPageIndicator } from './reader-controls.js?v=18';
+import { state, DOM, EditSession } from './state.js?v=22';
+import { renderManualList, loadManual } from './renderer.js?v=22';
+import { filterManuals as filterCatalogManuals } from './catalog-model.js?v=22';
+import { reduceViewerState } from './viewer-state.js?v=22';
+import { formatPageIndicator } from './reader-controls.js?v=22';
 
 export function manualNameFromHash(hash) {
   const value = hash.replace(/^#/, '');
@@ -42,7 +42,7 @@ export function toggleTranslations() {
     type: 'set-corrected-text-visible',
     visible: !state.viewer.correctedTextVisible
   });
-  document.querySelectorAll('.overlay').forEach((overlay) => {
+  document.querySelectorAll('.overlay,.readability-mask').forEach((overlay) => {
     overlay.style.display = state.viewer.correctedTextVisible ? 'flex' : 'none';
   });
   DOM.translationsBtn.textContent = `Corrected text: ${

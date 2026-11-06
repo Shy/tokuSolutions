@@ -2,6 +2,7 @@
 
 import asyncio
 import json
+from collections import Counter
 from dataclasses import asdict
 from pathlib import Path
 from typing import cast
@@ -15,6 +16,7 @@ from src.quality.browser_audit import capture, public_server
 from src.quality.cleanup_context import ContextManual
 from src.quality.core import write_bytes
 from src.quality.layout import ViewMetrics
+from src.quality.table_rows import projected_block_indices
 
 
 async def _heartbeat() -> None:
@@ -114,10 +116,20 @@ def _summarize(prepared: AuditPreparation, pages: list[PageAudit]) -> AuditSumma
                     for block in view.blocks
                 ):
                     raise ValueError("Incomplete fit/DOM evidence")
-                if sorted(block.block_index for block in view.blocks) != list(
-                    range(len(manual.pages[page.page].blocks))
+                expected = projected_block_indices(manual.pages[page.page])
+                if Counter(block.block_index for block in view.blocks) != Counter(
+                    expected
                 ):
                     raise ValueError("Incomplete region coverage")
+                projected = sorted(
+                    (block.projection_index, block.block_index)
+                    for block in view.blocks
+                    if block.projection_index is not None
+                )
+                if (
+                    len(expected) != len(manual.pages[page.page].blocks) or projected
+                ) and projected != list(enumerate(expected)):
+                    raise ValueError("Incomplete projected region coverage")
         except (OSError, ValueError) as error:
             warnings.append(
                 f"Browser audit unavailable on page {page.page + 1}: {error}"

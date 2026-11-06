@@ -62,3 +62,19 @@ def numeric_tokens(text: str) -> Counter[str]:
     for matched in re.findall(pattern, normalized):
         numbers[str(sum(values[word] for word in re.split(r"[- ]+", matched)))] += 1
     return numbers
+
+
+def reconcile_polarity_symbols(source: str, reference: str) -> str:
+    """Resolve circled-digit polarity OCR only with a matching independent clause."""
+    if "電池" not in source:
+        return source
+    compact = re.sub(r"\s+", "", reference)
+
+    def replace(match: re.Match[str]) -> str:
+        prefix = match.group(1)
+        for symbol in ("+", "＋", "−", "－", "⊕", "⊖"):
+            if prefix + symbol + "に" in compact:
+                return prefix + symbol + "に"
+        return match.group(0)
+
+    return re.sub(r"((?:上側|下側|表側|裏側)が)[①-⑳]に", replace, source)

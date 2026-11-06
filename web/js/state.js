@@ -1,6 +1,6 @@
-import { createViewerState } from './viewer-state.js?v=18';
-import { createReaderPreferences } from './reader-controls.js?v=18';
-import { createEditSession } from './edit-session.js?v=18';
+import { createViewerState } from './viewer-state.js?v=22';
+import { createReaderPreferences } from './reader-controls.js?v=22';
+import { createEditSession } from './edit-session.js?v=22';
 
 // Global application state
 export const state = {

@@ -15,15 +15,24 @@ from pydantic import JsonValue, TypeAdapter
 from temporalio import activity
 
 from src.agent_models import AgentReply
-from src.quality.cleanup_context import ContextManual, ContextPage, ManualData
+from src.layout_models import LayoutPage
+from src.quality.cleanup_context import (
+    ContextManual,
+    ContextPage,
+    ManualData,
+    source_matched_previous,
+)
 from src.quality.core import write_bytes
+from src.quality.core import write_json as _write
 from src.quality.english_overlays import (
+    accepted_quote_equivalents,
     include_untranslated_labels,
     normalize_battery_codes,
     normalize_parallel_quotes,
     unexpected_letters,
 )
 from src.quality.glossary import load_glossary, resolve_glossary
+from src.quality.instruction_numbering import normalize_step_markers
 from src.quality.page_grouping import (
     OCRLine,
     PagePlan,
@@ -41,18 +50,71 @@ from src.quality.semantic_layout import (
     panel_geometry,
     panel_preserves_illustrations,
     panel_references,
+    preserve_complete_panels,
     recover_clause_panels,
     safe_plan,
     source_candidates,
     split_illustrated_panel,
 )
+from src.quality.structure_evidence import (
+    StructureEvidence,
+    build_evidence,
+    constrain_plan,
+)
+from src.quality.table_rows import project_table_rows
 from src.semantic_models import GroupingRequest
 
 ROOT = Path(__file__).resolve().parents[2]
 
 
-def _write(path: Path, value: object) -> None:
-    write_bytes(path, (json.dumps(value, ensure_ascii=False, indent=2) + "\n").encode())
+def _prepare_structure(
+    json_path: str, pdf_path: str, index_path: str, run_dir: str
+) -> str:
+    index_file = Path(index_path)
+    index = json.loads(index_file.read_bytes())
+    if (
+        not pdf_path
+        or hashlib.sha256(Path(pdf_path).read_bytes()).hexdigest()
+        != index["source_sha256"]
+    ):
+        raise ValueError("Structural evidence does not match the source PDF")
+    manual = ContextManual.model_validate_json(Path(json_path).read_bytes())
+    if len(index["pages"]) != len(manual.pages):
+        raise ValueError("Structural evidence page count mismatch")
+    output = Path(run_dir) / "structure"
+    for page_index, (page, files) in enumerate(
+        zip(manual.pages, index["pages"], strict=True)
+    ):
+        layouts = []
+        for record in files:
+            path = index_file.parent / record["path"]
+            payload = path.read_bytes()
+            if hashlib.sha256(payload).hexdigest() != record["sha256"]:
+                raise ValueError("Structural evidence artifact changed")
+            layout = LayoutPage.model_validate_json(payload)
+            if layout.page != page_index + 1:
+                raise ValueError("Structural evidence page identity mismatch")
+            layouts.append(layout)
+        evidence = build_evidence(page, layouts)
+        _write(output / f"page-{page_index:04d}.json", evidence.model_dump(mode="json"))
+    _write(
+        output / "inputs.json",
+        {
+            "index": index,
+            "manual_sha256": hashlib.sha256(Path(json_path).read_bytes()).hexdigest(),
+        },
+    )
+    return str(output)
+
+
+@activity.defn
+async def prepare_structure_activity(
+    json_path: str, pdf_path: str, index_path: str, run_dir: str
+) -> str:
+    """Validate frozen layout inputs and match them to existing OCR in a separate Activity."""
+    return await asyncio.to_thread(
+        _prepare_structure, json_path, pdf_path, index_path, run_dir
+    )
 
 
 def _picture(
@@ -165,7 +227,12 @@ async def save_semantic_reply_activity(request_path: str, reply: AgentReply) -> 
 
 
 def _prepare_page(
-    json_path: str, page_index: int, directory: str, pdf_path: str, glossary_path: str
+    json_path: str,
+    page_index: int,
+    directory: str,
+    pdf_path: str,
+    glossary_path: str,
+    structure_path: str = "",
 ) -> str:
     output = Path(directory)
     output.mkdir(parents=True, exist_ok=True)
@@ -198,6 +265,20 @@ def _prepare_page(
             with Image.open(Path(json_path).parent / page.image) as scan:
                 scan.convert("RGB").save(image, "JPEG", quality=95)
     product = Path(json_path).parent.name
+    source_image = Path(json_path).parent / page.image
+    if source_image.is_file():
+        original = output / ("source-scan" + source_image.suffix.lower())
+        original_bytes = source_image.read_bytes()
+        if original.exists() and original.read_bytes() != original_bytes:
+            raise ValueError("Original scan changed after semantic preparation")
+        write_bytes(original, original_bytes)
+        _write(
+            output / "source-image.json",
+            {
+                "path": str(original.absolute()),
+                "sha256": hashlib.sha256(original_bytes).hexdigest(),
+            },
+        )
     from src.quality.ocr_source import cached_page_lines
 
     cached_page_lines(page, image, output / "lines.json", page_index)
@@ -215,22 +296,43 @@ def _prepare_page(
         output / "glossary.json",
         {key: entry.english for key, entry in resolution.terms.items()},
     )
+    payload: dict[str, object] = {
+        "page": page_index + 1,
+        "source_regions": source_candidates(page),
+    }
+    if structure_path:
+        evidence = StructureEvidence.model_validate_json(
+            Path(structure_path).read_bytes()
+        )
+        _write(output / "structure.json", evidence.model_dump(mode="json"))
+        payload["structural_evidence"] = evidence.model_dump(mode="json")
     return _request(
         output / "plan.request.json",
         "plan",
         PLAN_INSTRUCTIONS,
-        {"page": page_index + 1, "source_regions": source_candidates(page)},
+        payload,
         image,
     )
 
 
 @activity.defn
 async def prepare_semantic_page_activity(
-    json_path: str, page_index: int, directory: str, pdf_path: str, glossary_path: str
+    json_path: str,
+    page_index: int,
+    directory: str,
+    pdf_path: str,
+    glossary_path: str,
+    structure_path: str = "",
 ) -> str:
     """Freeze one page and prepare a source-ID-only planning request."""
     return await asyncio.to_thread(
-        _prepare_page, json_path, page_index, directory, pdf_path, glossary_path
+        _prepare_page,
+        json_path,
+        page_index,
+        directory,
+        pdf_path,
+        glossary_path,
+        structure_path,
     )
 
 
@@ -271,6 +373,17 @@ def _plan_page(request_path: str, reply: AgentReply) -> list[str]:
                 )
     plan.panels = safe_panels
     plan = recover_clause_panels(page, plan, directory / "scan.jpg", lines)
+    if (directory / "structure.json").exists():
+        plan = safe_plan(
+            page,
+            constrain_plan(
+                plan,
+                StructureEvidence.model_validate_json(
+                    (directory / "structure.json").read_bytes()
+                ),
+            ),
+            recover_omissions=False,
+        )
     references = panel_references(page, plan, lines)
     _write(directory / "plan.json", plan.model_dump(mode="json"))
     paths = []
@@ -418,6 +531,13 @@ def _finish_page(directory: str) -> str:
     output = Path(directory)
     page = ContextPage.model_validate_json((output / "source-page.json").read_bytes())
     plan = PagePlan.model_validate_json((output / "plan.json").read_bytes())
+    evidence = (
+        StructureEvidence.model_validate_json((output / "structure.json").read_bytes())
+        if (output / "structure.json").exists()
+        else None
+    )
+    if evidence:
+        plan = safe_plan(page, constrain_plan(plan, evidence), recover_omissions=False)
     panels = []
     translations = []
     uncertainties = []
@@ -455,11 +575,40 @@ def _finish_page(directory: str) -> str:
         PanelTranslations(panels=translations, uncertainties=uncertainties),
         lines,
     )
+    previous = (page.layout_provenance or {}).get("previous_page")
+    accepted_quotes: dict[str, str] = {}
+    if previous:
+        previous_page = ContextPage.model_validate(previous)
+        if source_matched_previous(page) is not None:
+            accepted_quotes = accepted_quote_equivalents(previous_page)
+        grouped = preserve_complete_panels(previous_page, grouped, evidence)
+        readability = (previous_page.layout_provenance or {}).get("readability")
+        if readability:
+            grouped["layout_provenance"]["readability"] = readability
+    if evidence:
+        grouped["layout_provenance"]["structure"] = evidence.model_dump(mode="json")
     for block in grouped["blocks"]:
         block["translation"] = normalize_battery_codes(
             block["text"],
-            normalize_parallel_quotes(block["text"], block["translation"]),
+            normalize_step_markers(
+                block["text"],
+                normalize_parallel_quotes(
+                    block["text"], block["translation"], accepted_quotes
+                ),
+            ),
         )
+    layout_image = output / "scan.jpg"
+    if (output / "source-image.json").exists():
+        source_image = json.loads((output / "source-image.json").read_bytes())
+        layout_image = Path(source_image["path"])
+        if (
+            hashlib.sha256(layout_image.read_bytes()).hexdigest()
+            != source_image["sha256"]
+        ):
+            raise ValueError("Original scan changed during semantic layout")
+    grouped["layout_provenance"]["row_layout"] = TypeAdapter(JsonValue).validate_python(
+        project_table_rows(grouped, layout_image)
+    )
     _write(output / "result.json", grouped)
     return str(output / "result.json")
 

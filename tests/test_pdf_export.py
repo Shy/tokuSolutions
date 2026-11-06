@@ -58,6 +58,17 @@ for(const image of document.querySelectorAll('.page img')){
 }
 await fitRenderedManual({root:document.getElementById('pagePanel'),manual:state.currentManual,generation:0,isCurrentGeneration:()=>true});
 }""")
+            if any(
+                item.get("layout_provenance", {}).get("readability")
+                for item in manual["pages"]
+            ):
+                assert (
+                    await page.locator(".readability-notes,.readability-marker").count()
+                    == 0
+                )
+                assert await page.evaluate(
+                    """()=>[...document.querySelectorAll('.page')].every(element=>Math.abs(element.getBoundingClientRect().height-element.querySelector('img').getBoundingClientRect().height)<0.1)"""
+                )
             await page.evaluate("""async()=>{
 await import('./vendor/html-to-image.js');
 window.exportedSvgPages=[];window.exportedNativePages=[];
@@ -67,23 +78,29 @@ window.lineMetrics=root=>[...root.querySelectorAll('.overlay')].map(overlay=>{
  const range=document.createRange();range.selectNodeContents(overlay);
  const bounds=overlay.getBoundingClientRect();
  const page=overlay.closest('.page').getBoundingClientRect();
- return {text:overlay.textContent,bounds:[bounds.left-page.left,bounds.top-page.top,bounds.width,bounds.height],whiteSpace:getComputedStyle(overlay).whiteSpace,font:getComputedStyle(overlay).fontSize,lines:[...range.getClientRects()].map(rect=>rect.width)};
+ return {style:["font","letter-spacing","font-kerning","font-optical-sizing","font-feature-settings","font-variation-settings","font-size-adjust","text-rendering","zoom"].map(key=>[key,getComputedStyle(overlay).getPropertyValue(key)]), token:overlay.style.getPropertyValue("--readability-font-size"), text:overlay.textContent,bounds:[bounds.left-page.left,bounds.top-page.top,bounds.width,bounds.height],whiteSpace:getComputedStyle(overlay).whiteSpace,font:getComputedStyle(overlay).fontSize,lines:[...range.getClientRects()].map(rect=>rect.width)};
 });
 window.desktopLines=[...document.querySelectorAll('.page')].map(window.lineMetrics);
+window.desktopPageSizes=[...document.querySelectorAll('.page')].map(element=>{const box=element.getBoundingClientRect();return {width:box.width,height:box.height}});
 }""")
             await page.add_style_tag(
                 content="html,body,#viewerView,.viewer-container,.page-panel {overflow:visible !important}.page-label{display:none}"
             )
             for index in range(len(manual["pages"])):
-                # Align the capture origin to the device pixel grid. The page's
-                # internal geometry stays unchanged; toolbar offsets are chrome.
-                await page.locator(f"#page-{index}").evaluate(
-                    "element=>{element.style.transform=`translateY(${-element.getBoundingClientRect().top % 0.5}px)`}"
-                )
-                await page.locator(f"#page-{index}").screenshot(
-                    path=str(evidence / f"desktop-{index + 1}.png"),
-                    animations="disabled",
-                )
+                # Reparent temporarily so the viewer's nested scroll/flex box
+                # cannot clip a landscape or off-screen source page to blank.
+                await page.locator(f"#page-{index}").evaluate("""element=>{
+const parent=element.parentNode,next=element.nextSibling,body=[...document.body.childNodes],style=document.body.style.cssText,own=element.style.cssText,width=element.getBoundingClientRect().width;
+window.restoreNativeCapture=()=>{parent.insertBefore(element,next);document.body.replaceChildren(...body);document.body.style.cssText=style;element.style.cssText=own;};
+document.body.replaceChildren(element);document.body.style.cssText='height:auto;overflow:visible;display:block';element.style.cssText+=`;margin:0;transform:none;width:${width}px`;
+}""")
+                try:
+                    await page.locator(f"#page-{index}").screenshot(
+                        path=str(evidence / f"desktop-{index + 1}.png"),
+                        animations="disabled",
+                    )
+                finally:
+                    await page.evaluate("window.restoreNativeCapture()")
             async with page.expect_download() as pending:
                 await page.locator("#downloadPdfBtn").click()
             download = await pending.value
@@ -117,6 +134,7 @@ return results;
                     assert actual_block["lines"] == pytest.approx(
                         expected_block["lines"], abs=0.05
                     )
+            desktop_sizes = await page.evaluate("window.desktopPageSizes")
             measurements: list[dict[str, float | int]] = []
             with pymupdf.open(pdf_path) as document:
                 assert document.page_count == len(manual["pages"])
@@ -131,9 +149,16 @@ return results;
                     expected = Image.open(
                         evidence / f"desktop-{index + 1}.png"
                     ).convert("RGB")
-                    # Fractional CSS page heights can differ by one raster row.
+                    # Require the actual PDF canvas to match desktop geometry;
+                    # nested-scroll screenshots may round both clip edges.
+                    assert pdf_page.rect.width / 0.75 == pytest.approx(
+                        desktop_sizes[index]["width"], abs=0.02
+                    )
+                    assert pdf_page.rect.height / 0.75 == pytest.approx(
+                        desktop_sizes[index]["height"], abs=0.02
+                    )
                     assert actual.width == expected.width
-                    assert abs(actual.height - expected.height) <= 1
+                    assert abs(actual.height - expected.height) <= 2
                     bounds = (0, 0, actual.width, min(actual.height, expected.height))
                     difference = ImageChops.difference(
                         actual.crop(bounds), expected.crop(bounds)
@@ -240,7 +265,7 @@ def test_mobile_edits_settings_and_failed_assets(tmp_path: Path) -> None:
             assert await download_pdf("mobile.pdf") == desktop_pixels
             await page.set_viewport_size({"width": 1280, "height": 900})
             await page.locator("#editTranslationsBtn").click()
-            await page.locator("#page-0 .overlay").first.click(force=True)
+            await page.locator("#page-0 .overlay").first.click()
             await page.locator("#inspectorTranslation").fill("Current local PDF edit")
             edited_pixels = await download_pdf("edited.pdf")
             assert edited_pixels != desktop_pixels
@@ -269,6 +294,9 @@ return toPersistedManual(state.currentManual);
             await page.locator("#increaseTextSizeBtn").click()
             assert await download_pdf("large.pdf") != edited_pixels
             await page.locator("#translationsBtn").click()
+            assert await page.evaluate(
+                """()=>[...document.querySelectorAll('.readability-mask')].every(mask=>getComputedStyle(mask).display==='none')"""
+            )
             assert await download_pdf("source-only.pdf") != desktop_pixels
             for pattern in ("**/pages/*.webp", "**/fonts/*.woff2"):
                 await page.route(pattern, lambda route: route.abort())

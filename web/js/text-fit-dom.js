@@ -1,4 +1,6 @@
-import { fitText } from './text-fit.js?v=18';
+import { fitReadabilityPage } from './readability-dom.js?v=22';
+import { usesReadabilityLayout } from './readability-layout.js?v=22';
+import { fitText } from './text-fit.js?v=22';
 
 export const READER_FIT_DEFAULTS = Object.freeze({
   padding: 2,
@@ -107,8 +109,27 @@ export async function fitRenderedManual({
   const results = [];
 
   try {
+    const pilotPages = new Set();
+    for (const [pageIndex, page] of manual.pages.entries()) {
+      if (!usesReadabilityLayout(page)) continue;
+      const element = root.querySelector(`#page-${pageIndex}`);
+      const image = element?.querySelector('img');
+      if (!image?.naturalWidth || image.dataset.src || !isCurrentGeneration(generation)) continue;
+      results.push(
+        ...fitReadabilityPage({
+          element,
+          page,
+          pageIndex,
+          probe,
+          measureProbeText,
+          scale: readerScale
+        })
+      );
+      pilotPages.add(pageIndex);
+    }
     for (const overlay of root.querySelectorAll('.overlay')) {
       const pageIndex = Number(overlay.dataset.pageId);
+      if (pilotPages.has(pageIndex)) continue;
       const blockIndex = Number(overlay.dataset.blockId);
       const block = manual.pages[pageIndex].blocks[blockIndex];
       const image = overlay.closest('.page')?.querySelector('img');

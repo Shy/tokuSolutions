@@ -105,10 +105,31 @@ def cached_page_lines(
     import json
     import os
 
+    from src.quality.cleanup_context import source_matched_previous
+    from src.quality.core import write_bytes
     from src.quality.page_grouping import OCRLine
     from src.quality.providers import google_credentials
 
     root = Path(__file__).resolve().parents[2]
+    previous = source_matched_previous(page)
+    if (
+        previous is not None
+        and previous.layout_provenance
+        and "ocr_lines" in previous.layout_provenance
+    ):
+        lines = TypeAdapter(list[OCRLine]).validate_python(
+            previous.layout_provenance["ocr_lines"]
+        )
+        payload = TypeAdapter(list[OCRLine]).dump_json(lines)
+        if (
+            output.exists()
+            and TypeAdapter(list[OCRLine]).validate_json(output.read_bytes()) != lines
+        ):
+            raise ValueError(
+                "Existing OCR checkpoint differs from source-linked ledger; choose a new run"
+            )
+        write_bytes(output, payload)
+        return lines
     if output.exists():
         return TypeAdapter(list[OCRLine]).validate_json(output.read_bytes())
     shared = (
@@ -117,8 +138,6 @@ def cached_page_lines(
         / (hashlib.sha256(image.read_bytes()).hexdigest() + ".json")
     )
     if shared.exists():
-        from src.quality.core import write_bytes
-
         write_bytes(output, shared.read_bytes())
         return TypeAdapter(list[OCRLine]).validate_json(output.read_bytes())
     index_path = root / "benchmark-runs/semantic-ocr-index.json"
@@ -153,8 +172,6 @@ def cached_page_lines(
         ).document
         save_ocr_source(document, processor, image.read_bytes(), page_index)
     lines = source_lines(document)
-    from src.quality.core import write_bytes
-
     write_bytes(output, TypeAdapter(list[OCRLine]).dump_json(lines))
     write_bytes(shared, output.read_bytes())
     return lines

@@ -1,4 +1,4 @@
-import { toPersistedManual } from './manual-data.js?v=18';
+import { toPersistedManual } from './manual-data.js?v=22';
 
 export const DRAFT_SCHEMA_VERSION = 1;
 const DRAFT_PREFIX = `tokusolutions:draft:v${DRAFT_SCHEMA_VERSION}:`;

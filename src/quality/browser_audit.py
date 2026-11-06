@@ -17,6 +17,7 @@ from pydantic import JsonValue, TypeAdapter
 from src.quality.cleanup_context import ContextManual
 from src.quality.core import write_bytes
 from src.quality.layout import RegionMetric, ViewMetrics
+from src.quality.table_rows import projected_block_count
 
 VIEWS: dict[str, ViewportSize] = {
     "desktop": {"width": 1280, "height": 900},
@@ -41,6 +42,7 @@ def public_server(directory: Path) -> Iterator[str]:
 
 METRICS_JS = """(selector) => [...document.querySelectorAll(selector)].map(element => ({
 block_index:Number(element.dataset.blockId ?? element.dataset.blockIndex),
+projection_index:element.dataset.projectionIndex === undefined ? null : Number(element.dataset.projectionIndex),
 font_px:parseFloat(getComputedStyle(element).fontSize),
 overflow:element.dataset.fitStatus==='overflow' || element.scrollHeight>element.clientHeight+1 || element.scrollWidth>element.clientWidth+1,
 fit_overflow:element.dataset.fitStatus==='overflow',
@@ -83,7 +85,7 @@ async def capture(
         await page.wait_for_selector("#page-0 img")
         await page.wait_for_function(
             "count=>document.querySelectorAll('#page-0 .overlay').length===count",
-            arg=len(ContextManual.model_validate(data).pages[0].blocks),
+            arg=projected_block_count(ContextManual.model_validate(data).pages[0]),
         )
         await page.evaluate(
             "async()=>{await document.fonts.ready;await document.querySelector('#page-0 img').decode()}"

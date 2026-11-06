@@ -51,6 +51,96 @@ def test_parallel_japanese_quotes_keep_the_existing_english_equivalent() -> None
     )
 
 
+def test_parallel_quotes_accept_explicit_unquoted_english_with_nested_parentheses() -> (
+    None
+):
+    """Fallback source translations can contain a usable parenthesized equivalent."""
+    source = "「変身完了効果音(ティラノ)」が鳴ります。"
+    text = "“変身完了効果音(ティラノ)” (Transformation Complete sound effect (Tyranno)) plays."
+    assert (
+        normalize_parallel_quotes(source, text)
+        == '"Transformation Complete sound effect (Tyranno)" plays.'
+    )
+
+
+def test_accepted_quote_pairs_survive_later_source_fragment_fallback() -> None:
+    """Reuse only unambiguous, source-linked quotation pairs from the accepted page."""
+    from src.quality.english_overlays import accepted_quote_equivalents
+    from src.quality.page_grouping import Panel, PanelText, PanelTranslations
+    from src.quality.semantic_layout import assemble_page
+
+    page = ContextPage.model_validate(
+        {
+            "image": "scan.png",
+            "blocks": [
+                {
+                    "text": "「キアイ!」が鳴ります。",
+                    "translation": 'The line "キアイ!" plays.',
+                    "bbox": [0.1, 0.1, 0.4, 0.1],
+                }
+            ],
+        }
+    )
+    previous = ContextPage.model_validate(
+        assemble_page(
+            page,
+            PagePlan(
+                panels=[Panel(id="line", kind="prose", source_ids=[0])],
+                furigana=[],
+                notes=[],
+            ),
+            PanelTranslations(
+                panels=[
+                    PanelText(
+                        panel_id="line",
+                        japanese_items=[page.blocks[0].text],
+                        english_items=['The line "Kiai!" plays.'],
+                    )
+                ],
+                uncertainties=[],
+            ),
+        )
+    )
+    accepted = accepted_quote_equivalents(previous)
+    assert (
+        normalize_parallel_quotes(
+            page.blocks[0].text, page.blocks[0].translation, accepted
+        )
+        == 'The line "Kiai!" plays.'
+    )
+
+
+def test_regroup_uses_existing_ocr_ledger_before_render_image_cache(
+    tmp_path: Path,
+) -> None:
+    """Changing PDF canvas dimensions must not silently trigger different recognition."""
+    from src.quality.ocr_source import cached_page_lines
+
+    original = {
+        "text": "説明",
+        "translation": "Instructions",
+        "bbox": [0.1, 0.1, 0.2, 0.1],
+    }
+    lines = [{"id": 0, "text": "説明", "bbox": [0.1, 0.1, 0.2, 0.1]}]
+    previous = {
+        "image": "scan.png",
+        "blocks": [original],
+        "source_blocks": [original],
+        "layout_provenance": {"ocr_lines": lines},
+    }
+    page = ContextPage.model_validate(
+        {
+            "image": "scan.png",
+            "blocks": [original],
+            "layout_provenance": {"previous_page": previous},
+        }
+    )
+    output = tmp_path / "lines.json"
+    result = cached_page_lines(page, tmp_path / "not-yet-rendered.jpg", output, 0)
+    assert [line.model_dump(mode="json") for line in result] == lines
+    assert json.loads(output.read_bytes()) == lines
+
+
 def test_retained_labels_are_translated_but_guides_and_artwork_are_not_reclaimed() -> (
     None
 ):

@@ -1005,3 +1005,14 @@ footer {
   white-space: pre-line;
   padding: 2px;
 }
+
+/* Canvas-aware pilot: scan coordinates stay tied to the image, even with notes. */
+.readability-page .overlay {
+  word-break: normal;
+  overflow-wrap: normal;
+}
+/* Difficult fits stay contained; the existing side panel remains available. */
+.readability-page .overlay[data-fit-status='overflow'] {
+  overflow: hidden;
+  outline: none;
+}

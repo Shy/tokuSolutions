@@ -14,6 +14,7 @@ with workflow.unsafe.imports_passed_through():
         finish_semantic_page_activity,
         plan_semantic_page_activity,
         prepare_semantic_page_activity,
+        prepare_structure_activity,
     )
     from src.semantic_models import GroupingRequest, SemanticLayoutInput
     from src.workflows.page_grouping_workflow import PageGroupingAgentWorkflow
@@ -61,15 +62,20 @@ class SemanticPageWorkflow:
     @workflow.run
     async def run(self, request: SemanticLayoutInput, page_index: int) -> str:
         directory = f"{request.run_dir}/semantic/page-{page_index:04d}"
+        preparation_args: list[str | int] = [
+            request.json_path,
+            page_index,
+            directory,
+            request.pdf_path,
+            request.glossary_path,
+        ]
+        if request.layout_index:
+            preparation_args.append(
+                f"{request.run_dir}/structure/page-{page_index:04d}.json"
+            )
         plan_path = await workflow.execute_activity(
             prepare_semantic_page_activity,
-            args=[
-                request.json_path,
-                page_index,
-                directory,
-                request.pdf_path,
-                request.glossary_path,
-            ],
+            args=preparation_args,
             start_to_close_timeout=timedelta(minutes=2),
             retry_policy=IO_RETRY,
         )
@@ -85,13 +91,24 @@ class SemanticPageWorkflow:
             retry_policy=IO_RETRY,
         )
         # Bounded page-local fan-out; worker capacity limits model requests across pages.
-        for offset in range(0, len(paths), 3):
+        if workflow.patched("semantic-panel-window-v1"):
+            slots = asyncio.Semaphore(3)
+
+            async def translate(index: int, path: str) -> None:
+                async with slots:
+                    await self._translate(path, index)
+
             await asyncio.gather(
-                *(
-                    self._translate(path, offset + index)
-                    for index, path in enumerate(paths[offset : offset + 3])
-                )
+                *(translate(index, path) for index, path in enumerate(paths))
             )
+        else:
+            for offset in range(0, len(paths), 3):
+                await asyncio.gather(
+                    *(
+                        self._translate(path, offset + index)
+                        for index, path in enumerate(paths[offset : offset + 3])
+                    )
+                )
         return await workflow.execute_activity(
             finish_semantic_page_activity,
             directory,
@@ -106,20 +123,51 @@ class SemanticLayoutWorkflow:
 
     @workflow.run
     async def run(self, request: SemanticLayoutInput) -> list[str]:
+        if request.layout_index:
+            await workflow.execute_activity(
+                prepare_structure_activity,
+                args=[
+                    request.json_path,
+                    request.pdf_path,
+                    request.layout_index,
+                    request.run_dir,
+                ],
+                start_to_close_timeout=timedelta(minutes=5),
+                retry_policy=IO_RETRY,
+            )
         pages: list[str] = []
-        for offset in range(0, request.page_count, 3):
-            pages.extend(
-                await asyncio.gather(
-                    *(
-                        workflow.execute_child_workflow(
-                            SemanticPageWorkflow.run,
-                            args=[request, page],
-                            id=f"{workflow.info().workflow_id}-page-{page}",
-                        )
-                        for page in range(offset, min(offset + 3, request.page_count))
+        if workflow.patched("semantic-page-window-v1"):
+            slots = asyncio.Semaphore(3)
+
+            async def process(page: int) -> str:
+                async with slots:
+                    return await workflow.execute_child_workflow(
+                        SemanticPageWorkflow.run,
+                        args=[request, page],
+                        id=f"{workflow.info().workflow_id}-page-{page}",
                     )
+
+            pages = list(
+                await asyncio.gather(
+                    *(process(page) for page in range(request.page_count))
                 )
             )
+        else:
+            for offset in range(0, request.page_count, 3):
+                pages.extend(
+                    await asyncio.gather(
+                        *(
+                            workflow.execute_child_workflow(
+                                SemanticPageWorkflow.run,
+                                args=[request, page],
+                                id=f"{workflow.info().workflow_id}-page-{page}",
+                            )
+                            for page in range(
+                                offset, min(offset + 3, request.page_count)
+                            )
+                        )
+                    )
+                )
         return await workflow.execute_activity(
             apply_semantic_manual_activity,
             args=[request.json_path, pages],

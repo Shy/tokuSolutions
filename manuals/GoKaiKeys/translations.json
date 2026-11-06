@@ -7,7 +7,7 @@
     "source_url": "",
     "blog_url": "",
     "pages": 1,
-    "blocks": 48,
+    "blocks": 53,
     "thumbnail": "pages/page-0.webp",
     "tags": ["memorial", "sentai"],
     "semantic_layout": 1
@@ -16,21 +16,69 @@
     {
       "blocks": [
         {
-          "text": "レンジャーキー 35レッドセット\nMEMORIAL EDITION\nUSER MANUAL",
-          "translation": "Ranger Key 35 Red Set\nMEMORIAL EDITION\nUSER MANUAL",
-          "bbox": [0.0237, 0.0336, 0.3412, 0.11850000000000002],
-          "layout": "panel"
-        },
-        {
           "text": "セット内容",
           "translation": "Set contents",
           "bbox": [0.0926, 0.2093020931482315, 0.09280000000000001, 0.028392994284629824],
           "layout": "panel"
         },
         {
-          "text": "取扱説明書 (本書)......1\nレンジャーキー......各1\n(アカレンジャー・スペードエース・バトルジャパン\nダイナレッド・レッドワン・チェンジドラゴン\n・レッドフラッシュ・レッドマスク・レッドファルコン\n・レッドターボ・ファイブレッド・レッドホーク\n・ティラノレンジャー・リュウレンジャー\n・ニンジャレッド オーレッド・レッドレーサー\n・メガレッド・ギンガレッド・ゴーレッド\nタイムレッド・ガオレッド・ハリケンレッド\n・アバレッド・デカレッド・マジレッド・ボウケンレッド\nゲキレッド・ゴーオンレッド・シンケンレッド\n・ゴセイレッド・アカレッド)",
-          "translation": "• Instruction manual (this book) — 1\n• Ranger Key — one of each\n• (Aka Ranger, Spade Ace, Battle Japan, Denji Red, Baru Eagle, Goggle Red, Dyna Red, Red One, Change Dragon, Red Flash, Red Mask, Red Falcon, Red Turbo, Five Red, Red Hawk, Tyranno Ranger, Ryu Ranger, Ninja Red, O-Red, Red Racer, Mega Red, Ginga Red, Go Red, Time Red, Gao Red, Hurricane Red, Abaren Red, Dekar Red, Maji Red, Bouken Red, Geki Red, Go-On Red, Shinken Red, Gosei Red, Aka Red)",
-          "bbox": [0.0336, 0.2741952941417694, 0.21041922965049745, 0.34400470585823056],
+          "text": "取扱説明書 (本書)......1",
+          "translation": "Instruction manual (this book) ...... 1",
+          "bbox": [0.0887, 0.2741952941417694, 0.09960000000000002, 0.017107197523117068],
+          "layout": "panel"
+        },
+        {
+          "text": "レンジャーキー......各1\n(アカレンジャー・スペードエース・バトルジャパン\nダイナレッド・レッドワン・チェンジドラゴン\n・レッドフラッシュ・レッドマスク・レッドファルコン\n・レッドターボ・ファイブレッド・レッドホーク\n・ティラノレンジャー・リュウレンジャー\n・ニンジャレッド オーレッド・レッドレーサー\n・メガレッド・ギンガレッド・ゴーレッド\nタイムレッド・ガオレッド・ハリケンレッド\n・アバレッド・デカレッド・マジレッド・ボウケンレッド\nゲキレッド・ゴーオンレッド・シンケンレッド\n・ゴセイレッド・アカレッド)",
+          "translation": "• Ranger Key — 1 each\n• (Aka Ranger, Spade Ace, Battle Japan, Denji Red, Baru Eagle, Goggle Red, Dyna Red, Red One, Change Dragon, Red Flash, Red Mask, Red Falcon, Red Turbo, Five Red, Red Hawk, Tyranno Ranger, Ryu Ranger, Ninja Red, O-Red, Red Racer, Mega Red, Ginga Red, Go Red, Time Red, Gao Red, Hurricane Red, Abar Red, Deka Red, Maji Red, Bouken Red, Geki Red, Go-On Red, Shinken Red, Gosei Red, Aka Red)",
+          "bbox": [0.0336, 0.3002, 0.21041922965049745, 0.31799999999999995],
+          "layout": "panel"
+        },
+        {
+          "text": "豪快に変身",
+          "translation": "Magnificent Transformation",
+          "bbox": [0.5462, 0.03800020298361778, 0.07909999999999984, 0.02678072962164879],
+          "layout": "panel"
+        },
+        {
+          "text": "※アカレッドキーを例に説明します。\n※別売りのモバイレーツ MEMORIAL EDITION- を使用し、 「通常変身モード」の状態で行います。",
+          "translation": "• This uses the Aka Red Key as an example.\n• Use the separately sold Mobirates -MEMORIAL EDITION- and perform this while it is in “Normal Transformation Mode.”",
+          "bbox": [0.6693, 0.039599999999999996, 0.28774286241531366, 0.025999999999999995],
+          "layout": "panel"
+        },
+        {
+          "text": "セリフボタンを\n押します。",
+          "translation": "Press the dialogue button.",
+          "bbox": [0.5465193495750428, 0.0874, 0.0560065894126891, 0.030799999999999994],
+          "layout": "panel"
+        },
+        {
+          "text": "→変身アクション音が\n鳴ります。",
+          "translation": "A transformation action sound will play.",
+          "bbox": [0.5465193495750428, 0.1182, 0.08258065042495721, 0.029599999999999987],
+          "layout": "panel"
+        },
+        {
+          "text": "レンジャーキーを\n挿入します。\n→挿入音が鳴ります。",
+          "translation": "• Insert the Ranger Key.\n• An insertion sound will play.",
+          "bbox": [0.6559522852897645, 0.1176, 0.07994500684738148, 0.0455283804178238],
+          "layout": "panel"
+        },
+        {
+          "text": "90° ひねります。",
+          "translation": "Turn 90°.",
+          "bbox": [0.7719, 0.10289339280128479, 0.05804114303588859, 0.014285766959190371],
+          "layout": "panel"
+        },
+        {
+          "text": "クロスボーンが開き、\nひねり音と\nレンジャーキーに\n応じた音声が鳴ります。",
+          "translation": "The Cross Bone opens, a twisting sound plays, and a voice corresponding to the Ranger Key sounds.",
+          "bbox": [0.7716547355651856, 0.1182, 0.09077427673339833, 0.06040000000000001],
+          "layout": "panel"
+        },
+        {
+          "text": "レンジャーキーを\n挿入した状態で\nエンターキーを押します。\nレンジャーキーに",
+          "translation": "• With the Ranger Key inserted, press the Enter key.\n• A voice corresponding to the Ranger Key will play.",
+          "bbox": [0.8895000000000001, 0.088, 0.09279999999999988, 0.07593450343608857],
           "layout": "panel"
         },
         {
@@ -42,51 +90,13 @@
         {
           "text": "側面のボタンを押すことで、変形することが\nできます。",
           "translation": "Press the side button to transform.",
-          "bbox": [0.2797767028808594, 0.5426000000000001, 0.1660094051361084, 0.04159999999999997],
+          "bbox": [0.2871, 0.5426000000000001, 0.15868610801696775, 0.02963760032653795],
           "layout": "panel"
         },
         {
           "text": "① 両腕を上げます。\n② 側面のボタンを押します。\n※梱包時はキーモードの状態です。\n両腕と脚を展開してから遊んでください。",
-          "translation": "• 1. Raise both arms.\n• 2. Press the side button.\n• ※ When packaged, the toy is in key mode.\n• Unfold both arms and legs before playing.",
+          "translation": "① Raise both arms.\n② Press the side button.\n• When packaged, the unit is in key mode.\n• Open both the arms and legs before playing.",
           "bbox": [0.2794, 0.5837000000000001, 0.15869162521362307, 0.05987983016967757],
-          "layout": "panel"
-        },
-        {
-          "text": "豪快に変身",
-          "translation": "Magnificent Transformation",
-          "bbox": [0.5462, 0.03800020298361778, 0.07909999999999984, 0.02678072962164879],
-          "layout": "panel"
-        },
-        {
-          "text": "※アカレッドキーを例に説明します。\n※別売りのモバイレーツ MEMORIAL EDITION- を使用し、 「通常変身モード」の状態で行います。",
-          "translation": "• This explains using the Aka Red Key as an example.\n• Use the separately sold Mobirates -MEMORIAL EDITION- and perform this while in Normal Transformation Mode.",
-          "bbox": [0.6693, 0.039599999999999996, 0.28774286241531366, 0.025999999999999995],
-          "layout": "panel"
-        },
-        {
-          "text": "セリフボタンを\n押します。\n→変身アクション音が\n鳴ります。",
-          "translation": "• Press the line (speech) button.\n• A transformation action sound plays.",
-          "bbox": [0.5465193495750428, 0.0874, 0.08258065042495721, 0.06039999999999998],
-          "layout": "panel"
-        },
-        {
-          "text": "レンジャーキーを\n挿入します。\n→挿入音が鳴ります。",
-          "translation": "• Insert the Ranger Key.\n• An insertion sound will play.",
-          "bbox": [0.6559522852897645, 0.1176, 0.07994500684738148, 0.0455283804178238],
-          "layout": "panel"
-        },
-        {
-          "text": "90° ひねります。\nクロスボーンが開き、\nひねり音と\nレンジャーキーに\n応じた音声が鳴ります。",
-          "translation": "• Turn 90°.\n• The Cross Bone opens, and a twisting sound and a voice matching the Ranger Key will play.",
-          "bbox": [
-            0.7716547355651856, 0.10289339280128479, 0.09077427673339833, 0.07570660719871522
-          ],
-          "layout": "panel"
-        },
-        {
-          "text": "レンジャーキーを\n挿入した状態で\nエンターキーを押します。\nレンジャーキーに",
-          "translation": "• With the Ranger Key inserted, press the Enter key.\n• A voice corresponding to the Ranger Key will play.",
-          "bbox": [0.8895000000000001, 0.088, 0.09279999999999988, 0.07593450343608857],
           "layout": "panel"
         },
         {
@@ -97,36 +107,26 @@
         },
         {
           "text": "※アカレッドキーを例に説明します。\n※別売りのモバイレーツ-MEMORIAL EDITION- を使用し、 「通常身モード」の状態で行います。",
-          "translation": "• Example shown using the Aka Red Key.\n• Use the separately sold Mobirates -MEMORIAL EDITION- and perform this while in “Normal Transformation Mode.”",
+          "translation": "• We explain using the Aka Red Key as an example.\n• Use the separately sold Mobirates -MEMORIAL EDITION- and perform this while it is in Normal Transformation Mode.",
           "bbox": [0.6693, 0.39592040634155273, 0.28769999999999996, 0.02557153391838074],
           "layout": "panel"
         },
         {
           "text": "レンジャーキー挿入口に\nレンジャーキーを挿入します。\n→挿入音が鳴ります。",
-          "translation": "• Insert the Ranger Key into the Ranger Key slot.\n• An insertion sound plays.",
+          "translation": "• Insert the Ranger Key into the Ranger Key slot.\n• An insertion sound will play.",
           "bbox": [0.5466000000000001, 0.4465, 0.1076999999999999, 0.04593106389045715],
           "layout": "panel"
         },
         {
           "text": "レンジャーキーを90° ひねります。\n→クロスボーンが開き、 ひねり音と\nレンジャーキーに応じた\n音声が鳴ります。",
-          "translation": "• Turn the Ranger Key 90°.\n• The Crossbone opens, and a twist sound plus a voice matching the Ranger Key will play.",
+          "translation": "• Turn the Ranger Key 90°.\n• The Cross Bone opens, and a twisting sound plus the voice corresponding to the Ranger Key play.",
           "bbox": [0.6877000000000001, 0.4465, 0.12485726957321153, 0.06003826141357416],
           "layout": "panel"
         },
         {
-          "text": "BGMボタンを2回長押しします。\n→挿入されているレンジャーキーに\n応じた「スーパー戦隊ヒーロー\nゲッター」が鳴ります。",
-          "translation": "• Press and hold the BGM button two times.\n• The “Super Sentai Hero Getter” sound that matches the inserted Ranger Key will play.",
-          "bbox": [
-            0.8460348949432374, 0.44751248812675476, 0.12953177976608266, 0.05942887949943537
-          ],
-          "layout": "panel"
-        },
-        {
           "text": "△注意 お買い上げのお客様へ 必ずお読みください。\n●本商品の対象年齢は15才以上です。 対象年齢未満のお子様には絶対に与えないでください。\n●小さな部品、電池がありますので、小さなお子様が誤って飲み込まないように注意してください。 窒息などの危険があります。\n●尖った部分や鋭い部分がありますので、取扱や保管場所に注意してください。思わぬケガをする恐れがあります。",
-          "translation": "• Caution — Read before use.\n• This product is for ages 15 years and over. Do not give it to children younger than the specified age.\n• This product contains small parts and batteries. Keep it away from young children so they do not accidentally swallow anything; there is a risk of choking and other dangers.\n• This product has sharp or pointed parts. Take care when handling and storing it, as there is a risk of unexpected injury.",
-          "bbox": [
-            0.03155784985423088, 0.6873351440429688, 0.4099535620510578, 0.08006485595703117
-          ],
+          "translation": "• Caution — To customers who purchased this product: Read before use.\n• This product is for ages 15 and over. Never give it to children younger than the recommended age.\n• This product contains small parts and batteries. Keep it away from young children so they do not accidentally swallow them; there is a risk of choking.\n• This product has pointed and sharp parts. Handle and store it carefully; it may cause unexpected injury.",
+          "bbox": [0.0318, 0.6873351440429688, 0.4097114119052887, 0.06708709287643422],
           "layout": "panel"
         },
         {
@@ -137,9 +137,23 @@
         },
         {
           "text": "●本商品は精密に作られています。無理な力を加えたり、 落としたりすると破損する恐れがあります。\n●プラスチック梱包材は開封後はすぐに捨ててください。\n●本商品には塗装部分がありますので、保管の際には他のもの (樹脂製品や家具、 ソファー)と接触しないようにしてください。\n色が移る場合があります。\n■可動部分・取付部分を無理な方向に強く引っ張ったり、曲げたりしないでください。",
-          "translation": "• This product is precision-made. Applying excessive force or dropping it may cause damage.\n• Discard plastic packaging immediately after opening.\n• This product has painted surfaces; when storing it, avoid contact with other items (plastic goods, furniture, or sofas). The paint may transfer.\n• Do not pull or bend movable parts or attachment parts forcefully in directions they are not meant to move.",
+          "translation": "• This product is made with precision. Applying excessive force or dropping it may cause damage.\n• Dispose of plastic packing materials immediately after opening.\n• This product has painted parts. When storing it, avoid contact with other items (plastic goods, furniture, sofas), as color may transfer.\n• Do not pull or bend movable parts or attachment points forcefully in directions they are not meant to move.",
           "bbox": [
             0.030417925924062728, 0.7845000000000001, 0.43731178107857704, 0.08197378349304185
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "合わせてご覧ください。\nモバイレーツ -MEMORIAL EDITION- のWEB取説は、コチラから!!",
+          "translation": "• See also.\n• The Mobirates -MEMORIAL EDITION- web manual is available here.",
+          "bbox": [0.072, 0.886, 0.2938, 0.035290387153625424],
+          "layout": "panel"
+        },
+        {
+          "text": "●画像はイメージです。",
+          "translation": "The image is for illustrative purposes.",
+          "bbox": [
+            0.025858220890164374, 0.9507000000000001, 0.06256113152205944, 0.012508962917327726
           ],
           "layout": "panel"
         },
@@ -151,35 +165,32 @@
         },
         {
           "text": "※アカレッドキーを例に説明します。\n※別売りのモバイレーツ-MEMORIAL EDITION- を使用し、 「お宝ナビゲート」の状態で行います。",
-          "translation": "• Using the Aka Red Key as an example.\n• This uses the separately sold Mobirates -MEMORIAL EDITION- and must be done while in “Treasure Navigate” mode.",
+          "translation": "• Using the Aka Red Key as an example.\n• Use the separately sold Mobirates -MEMORIAL EDITION- and perform this while it is in \"Treasure Navigate\" mode.",
           "bbox": [0.6693, 0.7352996573448182, 0.28649999999999987, 0.026200342655181785],
           "layout": "panel"
         },
         {
           "text": "レンジャーキー\n挿入口に\nレンジャーキーを\n挿入します。\n→挿入音が\n鳴ります。",
-          "translation": "• Insert the Ranger Key into the Ranger Key slot.\n• →An insertion sound will play.",
+          "translation": "• Ranger Key\n• Insert the Ranger Key into the insertion slot.\n• An insertion sound will play.",
           "bbox": [0.5462343797683716, 0.7869, 0.06541095066070546, 0.09069999999999989],
           "layout": "panel"
         },
         {
-          "text": "90° ひねります。\nクロスボーンが開き、ひねり音と\n「レッツお宝ナビゲート!」が鳴り、\n挿入されている\nレンジャーキーに応じた\n音声が鳴ります。\n赤き海賊団の\nキャプテンは\nいづこに~?",
-          "translation": "• Turn 90°. The Cross Bone opens, a twisting sound plays and \"Let's Treasure Navigate!\" is announced, then the voice corresponding to the inserted Ranger Key plays.\n• Where is the captain of the Red Pirate Crew?",
-          "bbox": [0.7471463189125062, 0.802, 0.1401536810874937, 0.16403040838241567],
+          "text": "90° ひねります。",
+          "translation": "Rotate 90°.",
+          "bbox": [0.7471463189125062, 0.802, 0.05857137727737416, 0.015099999999999891],
           "layout": "panel"
         },
         {
-          "text": "合わせてご覧ください。\nモバイレーツ -MEMORIAL EDITION- のWEB取説は、コチラから!!\nhttps://toy.bandai.co.jp/manuals/pdf.php?id=2588450",
-          "translation": "• See also.\n• For the Mobirates -MEMORIAL EDITION- online manual, go here:\n• https://toy.bandai.co.jp/manuals/pdf.php?id=2588450",
-          "bbox": [0.072, 0.886, 0.2938, 0.06068339633941644],
+          "text": "クロスボーンが開き、ひねり音と\n「レッツお宝ナビゲート!」が鳴り、\n挿入されている\nレンジャーキーに応じた\n音声が鳴ります。\n赤き海賊団の\nキャプテンは\nいづこに~?",
+          "translation": "• The Crossbone opens, a twisting sound and “Let's Treasure Navigate!” play, and a voice matching the inserted Ranger Key will sound.\n• Where is the captain of the Red Pirate Crew...?",
+          "bbox": [0.7474313483238221, 0.8171, 0.1398686516761778, 0.14893040838241567],
           "layout": "panel"
         },
         {
-          "text": "●画像はイメージです。",
-          "translation": "The image is for illustrative purposes only.",
-          "bbox": [
-            0.025858220890164374, 0.9507000000000001, 0.06256113152205944, 0.012508962917327726
-          ],
-          "layout": "panel"
+          "text": "レンジャーキー 35レッドセット\nMEMORIAL EDITION\nUSER MANUAL",
+          "translation": "Ranger Key 35 Red Set\nMEMORIAL EDITION\nUSER MANUAL",
+          "bbox": [0.0252, 0.0351, 0.3382, 0.1155]
         },
         {
           "text": "海賊戰隊",
@@ -267,6 +278,11 @@
           "bbox": [0.9461, 0.3694, 0.0308, 0.0073]
         },
         {
+          "text": "BGMボタンを2回長押しします。\n→挿入されているレンジャーキーに\n応じた「スーパー戦隊ヒーロー\nゲッター」が鳴ります。",
+          "translation": "Press and hold the BGM button twice. →The \"Super Sentai Hero Getter\" corresponding to the inserted Ranger Key will play.",
+          "bbox": [0.8478, 0.4492, 0.1261, 0.0562]
+        },
+        {
           "text": "キーモード",
           "translation": "Key Mode",
           "bbox": [0.3942, 0.5151, 0.0436, 0.0121]
@@ -290,6 +306,11 @@
           "text": "ボタン",
           "translation": "Button",
           "bbox": [0.8559, 0.6264, 0.0158, 0.0073]
+        },
+        {
+          "text": "https://toy.bandai.co.jp/manuals/pdf.php?id=2588450",
+          "translation": "https://toy.bandai.co.jp/manuals/pdf.php?id=2588450",
+          "bbox": [0.1548, 0.9335, 0.1903, 0.0115]
         }
       ],
       "image": "pages/page-0.webp",
@@ -650,188 +671,265 @@
         "plan": {
           "panels": [
             {
-              "id": "p_title",
-              "kind": "heading",
-              "source_ids": [0]
-            },
-            {
-              "id": "p_set_heading",
+              "id": "p1",
               "kind": "heading",
               "source_ids": [1]
             },
             {
-              "id": "p_set_body",
+              "id": "p2",
               "kind": "prose",
-              "source_ids": [2, 3, 4, 5, 6, 7, 8, 45, 46, 47]
+              "source_ids": [2]
             },
             {
-              "id": "p_transform_heading",
-              "kind": "heading",
-              "source_ids": [25]
-            },
-            {
-              "id": "p_transform_body",
+              "id": "p3",
               "kind": "prose",
-              "source_ids": [49]
+              "source_ids": [3, 4, 5, 6, 7, 8, 45, 46, 47]
             },
             {
-              "id": "p_transform_steps",
-              "kind": "prose",
-              "source_ids": [50]
-            },
-            {
-              "id": "p_gokai_heading",
+              "id": "p4",
               "kind": "heading",
               "source_ids": [9]
             },
             {
-              "id": "p_gokai_notes",
+              "id": "p5",
               "kind": "prose",
               "source_ids": [12, 13]
             },
             {
-              "id": "p_gokai_step1",
+              "id": "p6-s0",
               "kind": "prose",
-              "source_ids": [14, 18]
+              "source_ids": [14]
             },
             {
-              "id": "p_gokai_step2",
+              "id": "p6-s1",
+              "kind": "prose",
+              "source_ids": [18]
+            },
+            {
+              "id": "p7",
               "kind": "prose",
               "source_ids": [19, 21]
             },
             {
-              "id": "p_gokai_step3",
+              "id": "p8-s0",
               "kind": "prose",
-              "source_ids": [16, 20, 35]
+              "source_ids": [16]
             },
             {
-              "id": "p_gokai_step4",
+              "id": "p8-s1",
+              "kind": "prose",
+              "source_ids": [20, 35]
+            },
+            {
+              "id": "p9",
               "kind": "prose",
               "source_ids": [22]
             },
             {
-              "id": "p_bgm_heading",
+              "id": "p10",
+              "kind": "heading",
+              "source_ids": [25]
+            },
+            {
+              "id": "p11",
+              "kind": "prose",
+              "source_ids": [49]
+            },
+            {
+              "id": "p12",
+              "kind": "prose",
+              "source_ids": [50]
+            },
+            {
+              "id": "p13",
               "kind": "heading",
               "source_ids": [38]
             },
             {
-              "id": "p_bgm_notes",
+              "id": "p14",
               "kind": "prose",
               "source_ids": [39, 40]
             },
             {
-              "id": "p_bgm_step1",
+              "id": "p15",
               "kind": "prose",
               "source_ids": [41]
             },
             {
-              "id": "p_bgm_step2",
+              "id": "p16",
               "kind": "prose",
               "source_ids": [42]
             },
             {
-              "id": "p_bgm_step3",
-              "kind": "prose",
-              "source_ids": [43]
-            },
-            {
-              "id": "p_caution_body",
+              "id": "p18",
               "kind": "prose",
               "source_ids": [54]
             },
             {
-              "id": "p_usage_heading",
+              "id": "p19",
               "kind": "heading",
               "source_ids": [55]
             },
             {
-              "id": "p_usage_body",
+              "id": "p20",
               "kind": "prose",
               "source_ids": [56, 57]
             },
             {
-              "id": "p_treasure_heading",
+              "id": "p21",
+              "kind": "prose",
+              "source_ids": [60, 61]
+            },
+            {
+              "id": "p23",
+              "kind": "prose",
+              "source_ids": [63]
+            },
+            {
+              "id": "p24",
               "kind": "heading",
               "source_ids": [58]
             },
             {
-              "id": "p_treasure_notes",
+              "id": "p25",
               "kind": "prose",
               "source_ids": [64, 65]
             },
             {
-              "id": "p_treasure_step1",
+              "id": "p26",
               "kind": "prose",
               "source_ids": [59]
             },
             {
-              "id": "p_treasure_step2",
+              "id": "p27-s0",
               "kind": "prose",
-              "source_ids": [66, 67, 68, 69]
+              "source_ids": [66]
             },
             {
-              "id": "p_web_info",
+              "id": "p27-s1",
               "kind": "prose",
-              "source_ids": [60, 61, 62]
-            },
-            {
-              "id": "p_image_note",
-              "kind": "prose",
-              "source_ids": [63]
+              "source_ids": [67, 68, 69]
             }
           ],
           "furigana": [],
           "notes": [
-            "Source 54 contains both the caution heading and body in one OCR region, so it is kept as one prose panel.",
-            "No confirmed furigana among supplied candidate parent links; candidates appear to be ordinary labels or cross-region OCR artifacts."
+            "Source 54 combines the caution heading and caution body in one OCR region, so it is kept as one prose panel rather than split.",
+            "p6: separated 2 independent structural units",
+            "p8: separated 2 independent structural units",
+            "p27: separated 2 independent structural units",
+            "Panel p17 retained original English after failed automatic checks",
+            "Panel p22 retained original English after failed automatic checks"
           ],
           "native_artwork": []
         },
         "mapping": [
           {
             "display_index": 0,
-            "panel_id": "p_title",
-            "source_ids": [0],
-            "furigana_ids": [],
-            "japanese_items": ["レンジャーキー 35レッドセット\nMEMORIAL EDITION\nUSER MANUAL"]
-          },
-          {
-            "display_index": 1,
-            "panel_id": "p_set_heading",
             "source_ids": [1],
             "furigana_ids": [],
+            "panel_id": "p1",
             "japanese_items": ["セット内容"]
           },
           {
-            "display_index": 2,
-            "panel_id": "p_set_body",
-            "source_ids": [2, 3, 4, 5, 6, 7, 8, 45, 46, 47],
+            "display_index": 1,
+            "source_ids": [2],
             "furigana_ids": [],
+            "panel_id": "p2",
+            "japanese_items": ["取扱説明書(本書)･･････1"]
+          },
+          {
+            "display_index": 2,
+            "source_ids": [3, 4, 5, 6, 7, 8, 45, 46, 47],
+            "furigana_ids": [],
+            "panel_id": "p3",
             "japanese_items": [
-              "取扱説明書(本書)･･････1",
-              "レンジャーキー･･････各1",
-              "（・アカレンジャー・スペードエース・バトルジャパン・デンジレッド・バルイーグル・ゴーグルレッド・ダイナレッド・レッドワン・チェンジドラゴン・レッドフラッシュ・レッドマスク・レッドファルコン・レッドターボ・ファイブレッド・レッドホーク・ティラノレンジャー・リュウレンジャー・ニンジャレッド・オーレッド・レッドレーサー・メガレッド・ギンガレッド・ゴーレッド・タイムレッド・ガオレッド・ハリケンレッド・アバレッド・デカレッド・マジレッド・ボウケンレッド・ゲキレッド・ゴーオンレッド・シンケンレッド・ゴセイレッド・アカレッド）"
+              "レンジャーキー……各1",
+              "(アカレンジャー・スペードエース・バトルジャパン・デンジレッド・バルイーグル・ゴーグルレッド・ダイナレッド・レッドワン・チェンジドラゴン・レッドフラッシュ・レッドマスク・レッドファルコン・レッドターボ・ファイブレッド・レッドホーク・ティラノレンジャー・リュウレンジャー・ニンジャレッド・オーレッド・レッドレーサー・メガレッド・ギンガレッド・ゴーレッド・タイムレッド・ガオレッド・ハリケンレッド・アバレッド・デカレッド・マジレッド・ボウケンレッド・ゲキレッド・ゴーオンレッド・シンケンレッド・ゴセイレッド・アカレッド)"
             ]
           },
           {
             "display_index": 3,
-            "panel_id": "p_transform_heading",
-            "source_ids": [25],
+            "source_ids": [9],
             "furigana_ids": [],
-            "japanese_items": ["レンジャーキーの変形方法"]
+            "panel_id": "p4",
+            "japanese_items": ["豪快に変身"]
           },
           {
             "display_index": 4,
-            "panel_id": "p_transform_body",
-            "source_ids": [49],
+            "source_ids": [12, 13],
             "furigana_ids": [],
-            "japanese_items": ["側面のボタンを押すことで、変形することができます。"]
+            "panel_id": "p5",
+            "japanese_items": [
+              "※アカレッドキーを例に説明します。",
+              "※別売りのモバイレーツ-MEMORIAL EDITION- を使用し、「通常変身モード」の状態で行います。"
+            ]
           },
           {
             "display_index": 5,
-            "panel_id": "p_transform_steps",
+            "source_ids": [14],
+            "furigana_ids": [],
+            "panel_id": "p6-s0",
+            "japanese_items": ["セリフボタンを\n押します。"]
+          },
+          {
+            "display_index": 6,
+            "source_ids": [18],
+            "furigana_ids": [],
+            "panel_id": "p6-s1",
+            "japanese_items": ["変身アクション音が鳴ります。"]
+          },
+          {
+            "display_index": 7,
+            "source_ids": [19, 21],
+            "furigana_ids": [],
+            "panel_id": "p7",
+            "japanese_items": ["レンジャーキーを挿入します。", "→挿入音が鳴ります。"]
+          },
+          {
+            "display_index": 8,
+            "source_ids": [16],
+            "furigana_ids": [],
+            "panel_id": "p8-s0",
+            "japanese_items": ["90° ひねります。"]
+          },
+          {
+            "display_index": 9,
+            "source_ids": [20, 35],
+            "furigana_ids": [],
+            "panel_id": "p8-s1",
+            "japanese_items": [
+              "クロスボーンが開き、ひねり音とレンジャーキーに応じた音声が鳴ります。"
+            ]
+          },
+          {
+            "display_index": 10,
+            "source_ids": [22],
+            "furigana_ids": [],
+            "panel_id": "p9",
+            "japanese_items": [
+              "レンジャーキーを挿入した状態でエンターキーを押します。",
+              "レンジャーキーに応じた音声が鳴ります。"
+            ]
+          },
+          {
+            "display_index": 11,
+            "source_ids": [25],
+            "furigana_ids": [],
+            "panel_id": "p10",
+            "japanese_items": ["レンジャーキーの変形方法"]
+          },
+          {
+            "display_index": 12,
+            "source_ids": [49],
+            "furigana_ids": [],
+            "panel_id": "p11",
+            "japanese_items": ["側面のボタンを押すことで、変形することができます。"]
+          },
+          {
+            "display_index": 13,
             "source_ids": [50],
             "furigana_ids": [],
+            "panel_id": "p12",
             "japanese_items": [
               "① 両腕を上げます。",
               "② 側面のボタンを押します。",
@@ -840,301 +938,272 @@
             ]
           },
           {
-            "display_index": 6,
-            "panel_id": "p_gokai_heading",
-            "source_ids": [9],
-            "furigana_ids": [],
-            "japanese_items": ["豪快に変身"]
-          },
-          {
-            "display_index": 7,
-            "panel_id": "p_gokai_notes",
-            "source_ids": [12, 13],
-            "furigana_ids": [],
-            "japanese_items": [
-              "※アカレッドキーを例に説明します。",
-              "※別売りのモバイレーツ-MEMORIAL EDITION- を使用し、 「通常変身モード」の状態で行います。"
-            ]
-          },
-          {
-            "display_index": 8,
-            "panel_id": "p_gokai_step1",
-            "source_ids": [14, 18],
-            "furigana_ids": [],
-            "japanese_items": ["セリフボタンを押します。", "変身アクション音が鳴ります。"]
-          },
-          {
-            "display_index": 9,
-            "panel_id": "p_gokai_step2",
-            "source_ids": [19, 21],
-            "furigana_ids": [],
-            "japanese_items": ["レンジャーキーを挿入します。", "→挿入音が鳴ります。"]
-          },
-          {
-            "display_index": 10,
-            "panel_id": "p_gokai_step3",
-            "source_ids": [16, 20, 35],
-            "furigana_ids": [],
-            "japanese_items": [
-              "90°ひねります。",
-              "クロスボーンが開き、ひねり音とレンジャーキーに応じた音声が鳴ります。"
-            ]
-          },
-          {
-            "display_index": 11,
-            "panel_id": "p_gokai_step4",
-            "source_ids": [22],
-            "furigana_ids": [],
-            "japanese_items": [
-              "レンジャーキーを挿入した状態でエンターキーを押します。",
-              "レンジャーキーに応じた音声が鳴ります。"
-            ]
-          },
-          {
-            "display_index": 12,
-            "panel_id": "p_bgm_heading",
+            "display_index": 14,
             "source_ids": [38],
             "furigana_ids": [],
+            "panel_id": "p13",
             "japanese_items": ["特殊BGM遊び"]
           },
           {
-            "display_index": 13,
-            "panel_id": "p_bgm_notes",
+            "display_index": 15,
             "source_ids": [39, 40],
             "furigana_ids": [],
+            "panel_id": "p14",
             "japanese_items": [
               "※アカレッドキーを例に説明します。",
               "※別売りのモバイレーツ-MEMORIAL EDITION-を使用し、「通常変身モード」の状態で行います。"
             ]
           },
           {
-            "display_index": 14,
-            "panel_id": "p_bgm_step1",
+            "display_index": 16,
             "source_ids": [41],
             "furigana_ids": [],
+            "panel_id": "p15",
             "japanese_items": [
               "レンジャーキー挿入口にレンジャーキーを挿入します。",
               "挿入音が鳴ります。"
             ]
           },
           {
-            "display_index": 15,
-            "panel_id": "p_bgm_step2",
+            "display_index": 17,
             "source_ids": [42],
             "furigana_ids": [],
+            "panel_id": "p16",
             "japanese_items": [
               "レンジャーキーを90°ひねります。",
               "クロスボーンが開き、ひねり音とレンジャーキーに応じた音声が鳴ります。"
             ]
           },
           {
-            "display_index": 16,
-            "panel_id": "p_bgm_step3",
-            "source_ids": [43],
-            "furigana_ids": [],
-            "japanese_items": [
-              "BGMボタンを2回長押しします。",
-              "→挿入されているレンジャーキーに\n応じた「スーパー戦隊ヒーロー\nゲッター」が鳴ります。"
-            ]
-          },
-          {
-            "display_index": 17,
-            "panel_id": "p_caution_body",
+            "display_index": 18,
             "source_ids": [54],
             "furigana_ids": [],
+            "panel_id": "p18",
             "japanese_items": [
-              "△注意　お買い上げのお客様へ　必ずお読みください。",
-              "●本商品の対象年齢は15才以上です。対象年齢未満のお子様には絶対に与えないでください。",
-              "●小さな部品、電池がありますので、小さなお子様が誤って飲み込まないように注意してください。窒息などの危険があります。",
+              "△注意 お買い上げのお客様へ 必ずお読みください。",
+              "●本商品の対象年齢は15才以上です。 対象年齢未満のお子様には絶対に与えないでください。",
+              "●小さな部品、電池がありますので、小さなお子様が誤って飲み込まないように注意してください。 窒息などの危険があります。",
               "●尖った部分や鋭い部分がありますので、取扱や保管場所に注意してください。思わぬケガをする恐れがあります。"
             ]
           },
           {
-            "display_index": 18,
-            "panel_id": "p_usage_heading",
+            "display_index": 19,
             "source_ids": [55],
             "furigana_ids": [],
+            "panel_id": "p19",
             "japanese_items": ["《使用上の注意》"]
           },
           {
-            "display_index": 19,
-            "panel_id": "p_usage_body",
+            "display_index": 20,
             "source_ids": [56, 57],
             "furigana_ids": [],
+            "panel_id": "p20",
             "japanese_items": [
               "本商品は精密に作られています。無理な力を加えたり、落としたりすると破損する恐れがあります。",
               "プラスチック梱包材は開封後はすぐに捨ててください。",
-              "本商品には塗装部分がありますので、保管の際には他のもの (樹脂製品や家具、ソファー)と接触しないようにしてください。色が移る場合があります。",
+              "本商品には塗装部分がありますので、保管の際には他のもの（樹脂製品や家具、ソファー）と接触しないようにしてください。色が移る場合があります。",
               "可動部分・取付部分を無理な方向に強く引っ張ったり、曲げたりしないでください。"
             ]
           },
           {
-            "display_index": 20,
-            "panel_id": "p_treasure_heading",
+            "display_index": 21,
+            "source_ids": [60, 61],
+            "furigana_ids": [],
+            "panel_id": "p21",
+            "japanese_items": [
+              "合わせてご覧ください。",
+              "モバイレーツ -MEMORIAL EDITION- のWEB取説は、コチラから!!"
+            ]
+          },
+          {
+            "display_index": 22,
+            "source_ids": [63],
+            "furigana_ids": [],
+            "panel_id": "p23",
+            "japanese_items": ["画像はイメージです。"]
+          },
+          {
+            "display_index": 23,
             "source_ids": [58],
             "furigana_ids": [],
+            "panel_id": "p24",
             "japanese_items": ["お宝ナビゲート"]
           },
           {
-            "display_index": 21,
-            "panel_id": "p_treasure_notes",
+            "display_index": 24,
             "source_ids": [64, 65],
             "furigana_ids": [],
+            "panel_id": "p25",
             "japanese_items": [
               "※アカレッドキーを例に説明します。",
               "※別売りのモバイレーツ-MEMORIAL EDITION- を使用し、 「お宝ナビゲート」の状態で行います。"
             ]
           },
           {
-            "display_index": 22,
-            "panel_id": "p_treasure_step1",
+            "display_index": 25,
             "source_ids": [59],
             "furigana_ids": [],
+            "panel_id": "p26",
             "japanese_items": [
-              "レンジャーキー挿入口にレンジャーキーを挿入します。",
+              "レンジャーキー",
+              "挿入口にレンジャーキーを挿入します。",
               "→挿入音が鳴ります。"
             ]
           },
           {
-            "display_index": 23,
-            "panel_id": "p_treasure_step2",
-            "source_ids": [66, 67, 68, 69],
-            "furigana_ids": [],
-            "japanese_items": [
-              "90°ひねります。→クロスボーンが開き、ひねり音と「レッツお宝ナビゲート!」が鳴り、挿入されているレンジャーキーに応じた音声が鳴ります。",
-              "赤き海賊団の\nキャプテンは\nいづこに〜?"
-            ]
-          },
-          {
-            "display_index": 24,
-            "panel_id": "p_web_info",
-            "source_ids": [60, 61, 62],
-            "furigana_ids": [],
-            "japanese_items": [
-              "合わせてご覧ください。",
-              "モバイレーツ -MEMORIAL EDITION- のWEB取説は、コチラから!!",
-              "https://toy.bandai.co.jp/manuals/pdf.php?id=2588450"
-            ]
-          },
-          {
-            "display_index": 25,
-            "panel_id": "p_image_note",
-            "source_ids": [63],
-            "furigana_ids": [],
-            "japanese_items": ["●画像はイメージです。"]
-          },
-          {
             "display_index": 26,
-            "source_ids": [10],
-            "furigana_ids": []
+            "source_ids": [66],
+            "furigana_ids": [],
+            "panel_id": "p27-s0",
+            "japanese_items": ["90° ひねります。"]
           },
           {
             "display_index": 27,
-            "source_ids": [11],
-            "furigana_ids": []
+            "source_ids": [67, 68, 69],
+            "furigana_ids": [],
+            "panel_id": "p27-s1",
+            "japanese_items": [
+              "→クロスボーンが開き、ひねり音と「レッツお宝ナビゲート！」が鳴り、挿入されているレンジャーキーに応じた音声が鳴ります。",
+              "赤き海賊団のキャプテンはいつゝこに〜？"
+            ]
           },
           {
             "display_index": 28,
-            "source_ids": [15],
+            "source_ids": [0],
             "furigana_ids": []
           },
           {
             "display_index": 29,
-            "source_ids": [17],
+            "source_ids": [10],
             "furigana_ids": []
           },
           {
             "display_index": 30,
-            "source_ids": [23],
+            "source_ids": [11],
             "furigana_ids": []
           },
           {
             "display_index": 31,
-            "source_ids": [24],
+            "source_ids": [15],
             "furigana_ids": []
           },
           {
             "display_index": 32,
-            "source_ids": [26],
+            "source_ids": [17],
             "furigana_ids": []
           },
           {
             "display_index": 33,
-            "source_ids": [27],
+            "source_ids": [23],
             "furigana_ids": []
           },
           {
             "display_index": 34,
-            "source_ids": [28],
+            "source_ids": [24],
             "furigana_ids": []
           },
           {
             "display_index": 35,
-            "source_ids": [29],
+            "source_ids": [26],
             "furigana_ids": []
           },
           {
             "display_index": 36,
-            "source_ids": [30],
+            "source_ids": [27],
             "furigana_ids": []
           },
           {
             "display_index": 37,
-            "source_ids": [31],
+            "source_ids": [28],
             "furigana_ids": []
           },
           {
             "display_index": 38,
-            "source_ids": [32],
+            "source_ids": [29],
             "furigana_ids": []
           },
           {
             "display_index": 39,
-            "source_ids": [33],
+            "source_ids": [30],
             "furigana_ids": []
           },
           {
             "display_index": 40,
-            "source_ids": [34],
+            "source_ids": [31],
             "furigana_ids": []
           },
           {
             "display_index": 41,
-            "source_ids": [36],
+            "source_ids": [32],
             "furigana_ids": []
           },
           {
             "display_index": 42,
-            "source_ids": [37],
+            "source_ids": [33],
             "furigana_ids": []
           },
           {
             "display_index": 43,
-            "source_ids": [44],
+            "source_ids": [34],
             "furigana_ids": []
           },
           {
             "display_index": 44,
-            "source_ids": [48],
+            "source_ids": [36],
             "furigana_ids": []
           },
           {
             "display_index": 45,
-            "source_ids": [51],
+            "source_ids": [37],
             "furigana_ids": []
           },
           {
             "display_index": 46,
-            "source_ids": [52],
+            "source_ids": [43],
             "furigana_ids": []
           },
           {
             "display_index": 47,
+            "source_ids": [44],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 48,
+            "source_ids": [48],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 49,
+            "source_ids": [51],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 50,
+            "source_ids": [52],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 51,
             "source_ids": [53],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 52,
+            "source_ids": [62],
             "furigana_ids": []
           }
         ],
-        "uncertainties": [],
+        "uncertainties": [
+          "バルイーグル romanization uncertain — image text could be 'バルイーグル' (Baru Eagle) or a different spacing/spelling.",
+          "ゴーグルレッド romanization and spacing uncertain — rendered as 'Goggle Red' but original romanization may vary.",
+          "ティラノレンジャー romanization uncertain — rendered as 'Tyranno Ranger'.",
+          "リュウレンジャー romanization uncertain — rendered as 'Ryu Ranger' (macrons/double vowels not indicated).",
+          "オーレッド romanization uncertain — rendered as 'O-Red' but could be 'Oh-Red' or 'Ored'.",
+          "ゴーレッド romanization ambiguous — rendered as 'Go Red' but could be 'Go-Red' (spacing).",
+          "アバレッド romanization uncertain — rendered as 'Abar Red' though some sources use 'AbarenRed' or similar.",
+          "The stylized question text in the image appears as いづこに〜 (archaic kana spelling) or いつゝこに; I rendered it as a modern phrasing and natural English. ",
+          "Assumed 'クロスボーン' (Crossbone) is a part name and kept it untranslated as 'Crossbone'."
+        ],
         "ocr_lines": [
           {
             "id": 0,
@@ -2065,7 +2134,1830 @@
               0.8082074522972107, 0.9387343525886536, 0.07438015937805176, 0.025796055793762207
             ]
           }
-        ]
+        ],
+        "structure": {
+          "version": 1,
+          "variants": [
+            {
+              "provider": "docling",
+              "regions": [
+                {
+                  "id": "#/texts/0",
+                  "kind": "text",
+                  "bbox": [
+                    0.0011875920383829747, 0.4999104303820144, 0.004354504140737575,
+                    0.021272784271575015
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/1",
+                  "kind": "text",
+                  "bbox": [
+                    0.02731461688280842, 0.7730977652380312, 0.0007917280255886512,
+                    0.0027990505620493844
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/2",
+                  "kind": "section_header",
+                  "bbox": [
+                    0.08392317071239688, 0.08509113708630026, 0.22207971117761627,
+                    0.017913923597115983
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/3",
+                  "kind": "section_header",
+                  "bbox": [
+                    0.10094532326255286, 0.11644050338125313, 0.18724367805171568,
+                    0.03246898651977246
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/4",
+                  "kind": "section_header",
+                  "bbox": [
+                    0.0954032270834323, 0.20936898204129162, 0.08906940287872313,
+                    0.03134936629495278
+                  ],
+                  "source_ids": [1]
+                },
+                {
+                  "id": "#/texts/5",
+                  "kind": "text",
+                  "bbox": [
+                    0.09104872294269474, 0.27430695508083663, 0.09500736307063797,
+                    0.020712974159165082
+                  ],
+                  "source_ids": [2]
+                },
+                {
+                  "id": "#/texts/6",
+                  "kind": "text",
+                  "bbox": [
+                    0.03641948917707789, 0.2994984101392808, 0.2062451506658433, 0.3174123337363965
+                  ],
+                  "source_ids": [3, 4, 5, 6, 7, 8, 45, 46, 47]
+                },
+                {
+                  "id": "#/texts/7",
+                  "kind": "section_header",
+                  "bbox": [
+                    0.04196158535619844, 0.6896860584889605, 0.04710781752252466,
+                    0.015114873035066504
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/pictures/0",
+                  "kind": "picture",
+                  "bbox": [
+                    0.37097428617104095, 0.03764595441370208, 0.10368957157519647,
+                    0.0857858593831926
+                  ],
+                  "source_ids": [10, 11]
+                },
+                {
+                  "id": "#/texts/8",
+                  "kind": "text",
+                  "bbox": [
+                    0.3934888287175589, 0.13323480675354923, 0.05819200988076576,
+                    0.018473733709525632
+                  ],
+                  "source_ids": [17]
+                },
+                {
+                  "id": "#/pictures/1",
+                  "kind": "picture",
+                  "bbox": [
+                    0.2744071118772242, 0.18718307290301225, 0.1798146384749407, 0.3172718790553561
+                  ],
+                  "source_ids": [25, 27, 28, 36]
+                },
+                {
+                  "id": "#/texts/9",
+                  "kind": "section_header",
+                  "bbox": [
+                    0.2889807293398572, 0.19033543821935595, 0.15874146913052428, 0.0195933539343455
+                  ],
+                  "source_ids": [25]
+                },
+                {
+                  "id": "#/texts/10",
+                  "kind": "text",
+                  "bbox": [
+                    0.28541795322470825, 0.5155851135294908, 0.06492169809826927,
+                    0.011756012360607282
+                  ],
+                  "source_ids": [48]
+                },
+                {
+                  "id": "#/texts/11",
+                  "kind": "text",
+                  "bbox": [
+                    0.3950722847687363, 0.5155851135294908, 0.042357449368992724,
+                    0.011756012360607282
+                  ],
+                  "source_ids": [44]
+                },
+                {
+                  "id": "#/texts/12",
+                  "kind": "section_header",
+                  "bbox": [
+                    0.2889807293398572, 0.544695239374804, 0.15557455702816966, 0.026870885395673786
+                  ],
+                  "source_ids": [49]
+                },
+                {
+                  "id": "#/texts/13",
+                  "kind": "list_item",
+                  "bbox": [
+                    0.2818551771095594, 0.583322137131085, 0.0680886102006239, 0.018473733709525725
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/14",
+                  "kind": "list_item",
+                  "bbox": [
+                    0.2830427691479423, 0.6124322629763984, 0.12430130001741801,
+                    0.019593353934345404
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/15",
+                  "kind": "text",
+                  "bbox": [
+                    0.10886260351843935, 0.6913654888261901, 0.18011812582141787,
+                    0.012315822473017119
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/16",
+                  "kind": "section_header",
+                  "bbox": [
+                    0.19595268633319082, 0.6863271978145012, 0.07402657039253877,
+                    0.022392404496394788
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/17",
+                  "kind": "list_item",
+                  "bbox": [
+                    0.03404430510031194, 0.7131980832101751, 0.3032318338004529,
+                    0.017354113484705953
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/18",
+                  "kind": "list_item",
+                  "bbox": [
+                    0.03246084904913464, 0.7411885888306685, 0.36775766788592784,
+                    0.016794303372296114
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/19",
+                  "kind": "list_item",
+                  "bbox": [
+                    0.03246084904913464, 0.7271933360204218, 0.4073440691653603,
+                    0.016794303372296114
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/20",
+                  "kind": "section_header",
+                  "bbox": [
+                    0.03483603312590059, 0.7691790944511621, 0.055420961791205495,
+                    0.010636392135787508
+                  ],
+                  "source_ids": [55]
+                },
+                {
+                  "id": "#/texts/21",
+                  "kind": "list_item",
+                  "bbox": [
+                    0.02731461688280842, 0.7842939674862286, 0.3297547226576727, 0.01791392359711589
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/22",
+                  "kind": "list_item",
+                  "bbox": [
+                    0.02731461688280842, 0.8033275113081642, 0.1971402783715738,
+                    0.010636392135787603
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/23",
+                  "kind": "list_item",
+                  "bbox": [
+                    0.02731461688280842, 0.8167629540060011, 0.43505455006096305,
+                    0.03694746741905145
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/24",
+                  "kind": "list_item",
+                  "bbox": [
+                    0.02731461688280842, 0.8514711809754131, 0.2957104175573607,
+                    0.018473733709525725
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/25",
+                  "kind": "text",
+                  "bbox": [
+                    0.07402657039253877, 0.886179407944825, 0.2921476414422117, 0.039186707868691
+                  ],
+                  "source_ids": [60, 61]
+                },
+                {
+                  "id": "#/texts/26",
+                  "kind": "text",
+                  "bbox": [
+                    0.15478282900258106, 0.9348828877244837, 0.1904105901540703,
+                    0.011196202248197538
+                  ],
+                  "source_ids": [62]
+                },
+                {
+                  "id": "#/pictures/2",
+                  "kind": "picture",
+                  "bbox": [
+                    0.3710859667505375, 0.8772252230036179, 0.015825518226849807,
+                    0.04864921825844169
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/pictures/3",
+                  "kind": "picture",
+                  "bbox": [
+                    0.3904186171851831, 0.8765185055316694, 0.03611485672449586, 0.05070198622325924
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/27",
+                  "kind": "list_item",
+                  "bbox": [
+                    0.2818551771095594, 0.5989968202785615, 0.09857013918578687,
+                    0.017354113484705953
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/28",
+                  "kind": "list_item",
+                  "bbox": [
+                    0.29056418539103446, 0.6281069461238747, 0.14567795670831155,
+                    0.019033543821935565
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/pictures/4",
+                  "kind": "picture",
+                  "bbox": [
+                    0.525923252671356, 0.07923455846389674, 0.01915573536430528, 0.04929032421752106
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/29",
+                  "kind": "text",
+                  "bbox": [
+                    0.5268950010292465, 0.07445474495051284, 0.016230424524567275,
+                    0.05374177079134757
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/30",
+                  "kind": "text",
+                  "bbox": [
+                    0.5486675217329343, 0.08621075731112013, 0.053837505740028165,
+                    0.029669935957723072
+                  ],
+                  "source_ids": [14]
+                },
+                {
+                  "id": "#/texts/31",
+                  "kind": "list_item",
+                  "bbox": [
+                    0.5486675217329343, 0.11979936405571236, 0.07917280255886494,
+                    0.03358860674459214
+                  ],
+                  "source_ids": [18]
+                },
+                {
+                  "id": "#/pictures/5",
+                  "kind": "picture",
+                  "bbox": [
+                    0.5310775738735357, 0.16993280705189542, 0.09532724835270234,
+                    0.21425723389491147
+                  ],
+                  "source_ids": [23, 24, 29, 30]
+                },
+                {
+                  "id": "#/texts/32",
+                  "kind": "text",
+                  "bbox": [
+                    0.5340205532595443, 0.17074208428501053, 0.02216838471648215,
+                    0.01623449325988618
+                  ],
+                  "source_ids": [23]
+                },
+                {
+                  "id": "#/texts/33",
+                  "kind": "text",
+                  "bbox": [
+                    0.5668772663214733, 0.17074208428501053, 0.019793200639716266,
+                    0.05038291011688825
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/34",
+                  "kind": "text",
+                  "bbox": [
+                    0.5918166991275157, 0.17689999552151905, 0.010688328345446772,
+                    0.006157911236508607
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/35",
+                  "kind": "text",
+                  "bbox": [
+                    0.6040884835241398, 0.17689999552151905, 0.009104872294269496,
+                    0.0067177213489184465
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/36",
+                  "kind": "text",
+                  "bbox": [
+                    0.6147768118695865, 0.1791392359711586, 0.004354504140737664,
+                    0.0016794303372296116
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/37",
+                  "kind": "text",
+                  "bbox": [
+                    0.6203189080487072, 0.177459805633929, 0.004354504140737529,
+                    0.0055981011240986735
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/38",
+                  "kind": "text",
+                  "bbox": [
+                    0.5751904105901541, 0.21216803260334088, 0.0007917280255886724,
+                    0.010636392135787508
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/pictures/6",
+                  "kind": "picture",
+                  "bbox": [
+                    0.5196040143321842, 0.38264705990784925, 0.020947366988248815,
+                    0.04933248430290472
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/39",
+                  "kind": "text",
+                  "bbox": [
+                    0.5205611768245373, 0.4013838505978772, 0.017022152550156017,
+                    0.01455506292265657
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/pictures/7",
+                  "kind": "picture",
+                  "bbox": [
+                    0.5260021712007896, 0.4381526972623479, 0.01861224734486208, 0.05041370775875632
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/40",
+                  "kind": "text",
+                  "bbox": [
+                    0.5272908650420408, 0.4400107483541582, 0.015834560511772972,
+                    0.047024049442429126
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/41",
+                  "kind": "text",
+                  "bbox": [
+                    0.5486675217329343, 0.44896771015271614, 0.10411223536490741,
+                    0.04646423933001929
+                  ],
+                  "source_ids": [41]
+                },
+                {
+                  "id": "#/pictures/8",
+                  "kind": "picture",
+                  "bbox": [
+                    0.5401629790716748, 0.5110287250288381, 0.11848237930243555, 0.21170468938430675
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/pictures/9",
+                  "kind": "picture",
+                  "bbox": [
+                    0.5194067904109207, 0.723530865355626, 0.020719299678417895, 0.04997519678717494
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/42",
+                  "kind": "section_header",
+                  "bbox": [
+                    0.6480293889443098, 0.7411885888306685, 0.007125552230297849,
+                    0.01791392359711589
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/pictures/10",
+                  "kind": "picture",
+                  "bbox": [
+                    0.5259855548682162, 0.7792547853201027, 0.01943444809738284,
+                    0.048945074913485744
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/43",
+                  "kind": "text",
+                  "bbox": [
+                    0.6583218532769624, 0.08789018764834973, 0.05462923376561684,
+                    0.03358860674459223
+                  ],
+                  "source_ids": [15]
+                },
+                {
+                  "id": "#/texts/44",
+                  "kind": "text",
+                  "bbox": [
+                    0.6599053093281396, 0.12147879439294197, 0.012271784396624118,
+                    0.008397151686148057
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/45",
+                  "kind": "text",
+                  "bbox": [
+                    0.6745522778015296, 0.1203591741681221, 0.04512849745855304, 0.01007658202337767
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/46",
+                  "kind": "text",
+                  "bbox": [
+                    0.6583218532769624, 0.1354740472031886, 0.04196158535619835,
+                    0.010636392135787603
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/47",
+                  "kind": "text",
+                  "bbox": [
+                    0.6895951102877139, 0.11811993371848274, 0.007917280255886588,
+                    0.018473733709525725
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/48",
+                  "kind": "text",
+                  "bbox": [
+                    0.6975123905436006, 0.11811993371848274, 0.006729688217503478,
+                    0.018473733709525725
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/49",
+                  "kind": "text",
+                  "bbox": [
+                    0.6836571500957991, 0.1354740472031886, 0.011480056371035512,
+                    0.010636392135787603
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/50",
+                  "kind": "text",
+                  "bbox": [
+                    0.7038462147483097, 0.11811993371848274, 0.007917280255886588,
+                    0.018473733709525725
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/51",
+                  "kind": "text",
+                  "bbox": [
+                    0.7113676309914019, 0.11811993371848274, 0.009104872294269428,
+                    0.018473733709525725
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/52",
+                  "kind": "list_item",
+                  "bbox": [
+                    0.6587177172897566, 0.15002911012584527, 0.07561002644371614,
+                    0.011756012360607282
+                  ],
+                  "source_ids": [21]
+                },
+                {
+                  "id": "#/texts/53",
+                  "kind": "text",
+                  "bbox": [
+                    0.6785109179294729, 0.13323480675354923, 0.005542096179120504,
+                    0.018473733709525632
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/54",
+                  "kind": "text",
+                  "bbox": [
+                    0.6947413424540402, 0.13323480675354923, 0.006729688217503478,
+                    0.018473733709525632
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/pictures/11",
+                  "kind": "picture",
+                  "bbox": [
+                    0.633467958208222, 0.17846250854082554, 0.11068092065632422, 0.2052547403629994
+                  ],
+                  "source_ids": [31, 33]
+                },
+                {
+                  "id": "#/texts/55",
+                  "kind": "text",
+                  "bbox": [
+                    0.756496128449955, 0.08844999776075947, 0.07877693854607071, 0.0347082269694121
+                  ],
+                  "source_ids": [16]
+                },
+                {
+                  "id": "#/pictures/12",
+                  "kind": "picture",
+                  "bbox": [
+                    0.7514370412588968, 0.0799335825363262, 0.019457544437648282,
+                    0.048794848806905995
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/56",
+                  "kind": "text",
+                  "bbox": [
+                    0.7572878564755435, 0.1158806932688432, 0.0019793200639717148,
+                    0.005038291011688835
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/57",
+                  "kind": "text",
+                  "bbox": [
+                    0.7549126723987776, 0.17410094495946976, 0.01583456051177304,
+                    0.017354113484705953
+                  ],
+                  "source_ids": [26]
+                },
+                {
+                  "id": "#/texts/58",
+                  "kind": "list_item",
+                  "bbox": [
+                    0.7739141450129051, 0.1203591741681221, 0.08788181084034014, 0.06269873258990556
+                  ],
+                  "source_ids": [20, 35]
+                },
+                {
+                  "id": "#/pictures/13",
+                  "kind": "picture",
+                  "bbox": [
+                    0.7561414544409845, 0.19550208277350306, 0.09620118056327856, 0.1892374281915242
+                  ],
+                  "source_ids": [32]
+                },
+                {
+                  "id": "#/texts/59",
+                  "kind": "text",
+                  "bbox": [
+                    0.7778727851408485, 0.19929240001791393, 0.05185818567605652,
+                    0.01623449325988628
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/60",
+                  "kind": "text",
+                  "bbox": [
+                    0.8261681947017561, 0.1970531595682744, 0.004750368153531899,
+                    0.025751265170854014
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/61",
+                  "kind": "text",
+                  "bbox": [
+                    0.6840530141085934, 0.39522593936136863, 0.08946526689151747,
+                    0.01623449325988618
+                  ],
+                  "source_ids": [39]
+                },
+                {
+                  "id": "#/pictures/14",
+                  "kind": "picture",
+                  "bbox": [
+                    0.8692680530842231, 0.08116546733267346, 0.017374312467563643,
+                    0.04867883976673934
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/62",
+                  "kind": "section_header",
+                  "bbox": [
+                    0.8918816208256141, 0.08844999776075947, 0.0625465140215033,
+                    0.034148416857002165
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/63",
+                  "kind": "list_item",
+                  "bbox": [
+                    0.8922774848384084, 0.12091898428053204, 0.0890694028787231,
+                    0.010636392135787603
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/64",
+                  "kind": "list_item",
+                  "bbox": [
+                    0.8918816208256141, 0.1321151865287294, 0.08669421880195716,
+                    0.030229746070133102
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/pictures/15",
+                  "kind": "picture",
+                  "bbox": [
+                    0.8686678378466043, 0.1743307433672399, 0.1037984284641905, 0.20990776215623697
+                  ],
+                  "source_ids": [34, 37]
+                },
+                {
+                  "id": "#/texts/65",
+                  "kind": "text",
+                  "bbox": [
+                    0.6713853656991751, 0.40866138205920555, 0.28581381723750254,
+                    0.015674683147476248
+                  ],
+                  "source_ids": [40]
+                },
+                {
+                  "id": "#/pictures/16",
+                  "kind": "picture",
+                  "bbox": [
+                    0.6671228736886492, 0.43775315252726504, 0.020016490352535624,
+                    0.05066691149001161
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/66",
+                  "kind": "text",
+                  "bbox": [
+                    0.6895951102877139, 0.44672846970307667, 0.12311370797903513,
+                    0.06381835281472524
+                  ],
+                  "source_ids": [42]
+                },
+                {
+                  "id": "#/pictures/17",
+                  "kind": "picture",
+                  "bbox": [
+                    0.6940217838309979, 0.5187533589817533, 0.0983569596585854, 0.206354845290216
+                  ],
+                  "source_ids": [52]
+                },
+                {
+                  "id": "#/texts/67",
+                  "kind": "text",
+                  "bbox": [
+                    0.7165138631577281, 0.5217430247659993, 0.05185818567605652, 0.01623449325988618
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/68",
+                  "kind": "text",
+                  "bbox": [
+                    0.7648092727186357, 0.5195037843163598, 0.004750368153531899,
+                    0.025751265170854108
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/69",
+                  "kind": "text",
+                  "bbox": [
+                    0.6713853656991751, 0.7355904877065699, 0.10213291530093582, 0.01623449325988628
+                  ],
+                  "source_ids": [64]
+                },
+                {
+                  "id": "#/pictures/18",
+                  "kind": "picture",
+                  "bbox": [
+                    0.8264785712299821, 0.43843657218369864, 0.018121794025244706,
+                    0.04982102157285551
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/70",
+                  "kind": "text",
+                  "bbox": [
+                    0.8269599227273448, 0.4400107483541582, 0.016230424524567275,
+                    0.047024049442429126
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/pictures/19",
+                  "kind": "picture",
+                  "bbox": [
+                    0.9605445002038848, 0.3843138521949717, 0.01991034855056348, 0.04649967475225461
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/71",
+                  "kind": "text",
+                  "bbox": [
+                    0.8487324434310326, 0.4377715079045188, 0.12667648409418406, 0.07445474495051274
+                  ],
+                  "source_ids": [43]
+                },
+                {
+                  "id": "#/pictures/20",
+                  "kind": "picture",
+                  "bbox": [
+                    0.821929171416259, 0.5212536498204173, 0.11808253748702549, 0.20463408399748328
+                  ],
+                  "source_ids": [51, 53]
+                },
+                {
+                  "id": "#/texts/72",
+                  "kind": "text",
+                  "bbox": [
+                    0.6713853656991751, 0.7473465000671772, 0.28462622519911956, 0.01791392359711589
+                  ],
+                  "source_ids": [65]
+                },
+                {
+                  "id": "#/pictures/21",
+                  "kind": "picture",
+                  "bbox": [
+                    0.6004231046810128, 0.7721491052000314, 0.12135649802138936, 0.19128141467203225
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/pictures/22",
+                  "kind": "picture",
+                  "bbox": [
+                    0.7268482719593342, 0.7789507360266359, 0.019804134346270725,
+                    0.04993771546639052
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/73",
+                  "kind": "text",
+                  "bbox": [
+                    0.7279939195287635, 0.7803752966993596, 0.016230424524567275,
+                    0.047024049442429126
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/74",
+                  "kind": "section_header",
+                  "bbox": [
+                    0.7493705762196571, 0.787093018048278, 0.062150650008709056, 0.02799050562049346
+                  ],
+                  "source_ids": [66]
+                },
+                {
+                  "id": "#/texts/75",
+                  "kind": "list_item",
+                  "bbox": [
+                    0.7493705762196571, 0.8167629540060011, 0.12944753218374425, 0.07949303596220159
+                  ],
+                  "source_ids": [67, 68]
+                },
+                {
+                  "id": "#/texts/76",
+                  "kind": "text",
+                  "bbox": [
+                    0.8087501781388058, 0.9270455461507456, 0.010292464332652403,
+                    0.01455506292265657
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/77",
+                  "kind": "text",
+                  "bbox": [
+                    0.8103336341899832, 0.9527968113215997, 0.009500736307063797,
+                    0.011756012360607282
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/78",
+                  "kind": "text",
+                  "bbox": [
+                    0.8226054185866071, 0.9292847866003852, 0.008313144268680824,
+                    0.010636392135787412
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/79",
+                  "kind": "text",
+                  "bbox": [
+                    0.8340854749576426, 0.9208876349142371, 0.03562776115148924,
+                    0.018473733709525725
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/80",
+                  "kind": "text",
+                  "bbox": [
+                    0.8368565230472028, 0.946638900085091, 0.009500736307063797,
+                    0.013995252810246826
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/81",
+                  "kind": "text",
+                  "bbox": [
+                    0.8720884201858978, 0.9186483944645976, 0.011875920383829747,
+                    0.01455506292265657
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/82",
+                  "kind": "text",
+                  "bbox": [
+                    0.8760470603138409, 0.9399211787361725, 0.0063338242047092435,
+                    0.009516771910967926
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/83",
+                  "kind": "text",
+                  "bbox": [
+                    0.8483365794182384, 0.9449594697478614, 0.033252577074723295,
+                    0.01455506292265676
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/84",
+                  "kind": "text",
+                  "bbox": [
+                    0.8562538596741248, 0.9186483944645976, 0.015438696498978671,
+                    0.02799050562049346
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/85",
+                  "kind": "text",
+                  "bbox": [
+                    0.96749164726933, 0.7417483989430784, 0.0015834560511773447, 0.01455506292265657
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/pictures/23",
+                  "kind": "picture",
+                  "bbox": [
+                    0.8781229292936313, 0.7730603314086095, 0.09581998234541812, 0.1901179576080117
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/pictures/24",
+                  "kind": "picture",
+                  "bbox": [
+                    0.6346519533566873, 0.08029012232018796, 0.01944581526171416,
+                    0.048590576888730856
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/86",
+                  "kind": "text",
+                  "bbox": [
+                    0.8198343704970469, 0.9365623180617133, 0.014251104460595698,
+                    0.03134936629495288
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/87",
+                  "kind": "text",
+                  "bbox": [
+                    0.9936186721137554, 0.6560974517443683, 0.004354504140737664,
+                    0.024631644946034238
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/88",
+                  "kind": "page_footer",
+                  "bbox": [
+                    0.027710480895602744, 0.9516771910967798, 0.05937960191914873,
+                    0.01455506292265676
+                  ],
+                  "source_ids": [63]
+                }
+              ],
+              "assignments": {
+                "1": "#/texts/4",
+                "2": "#/texts/5",
+                "3": "#/texts/6",
+                "4": "#/texts/6",
+                "5": "#/texts/6",
+                "6": "#/texts/6",
+                "7": "#/texts/6",
+                "8": "#/texts/6",
+                "14": "#/texts/30",
+                "15": "#/texts/43",
+                "16": "#/texts/55",
+                "17": "#/texts/8",
+                "18": "#/texts/31",
+                "20": "#/texts/58",
+                "21": "#/texts/52",
+                "23": "#/texts/32",
+                "25": "#/texts/9",
+                "26": "#/texts/57",
+                "35": "#/texts/58",
+                "39": "#/texts/61",
+                "40": "#/texts/65",
+                "41": "#/texts/41",
+                "42": "#/texts/66",
+                "43": "#/texts/71",
+                "44": "#/texts/11",
+                "45": "#/texts/6",
+                "46": "#/texts/6",
+                "47": "#/texts/6",
+                "48": "#/texts/10",
+                "49": "#/texts/12",
+                "55": "#/texts/20",
+                "60": "#/texts/25",
+                "61": "#/texts/25",
+                "62": "#/texts/26",
+                "63": "#/texts/88",
+                "64": "#/texts/69",
+                "65": "#/texts/72",
+                "66": "#/texts/74",
+                "67": "#/texts/75",
+                "68": "#/texts/75"
+              }
+            },
+            {
+              "provider": "google-layout-pretrained-layout-parser-v1.0-2024-06-03",
+              "regions": [
+                {
+                  "id": "1",
+                  "kind": "text",
+                  "bbox": [0.019764507, 0.034503274, 0.34188393300000003, 0.040452106],
+                  "source_ids": []
+                },
+                {
+                  "id": "2",
+                  "kind": "text",
+                  "bbox": [0.082422204, 0.082688875, 0.22329687599999998, 0.06543723500000001],
+                  "source_ids": []
+                },
+                {
+                  "id": "3",
+                  "kind": "text",
+                  "bbox": [0.28847772, 0.18917312, 0.15895708000000003, 0.02022604],
+                  "source_ids": [25]
+                },
+                {
+                  "id": "4",
+                  "kind": "text",
+                  "bbox": [0.09293524, 0.21118382, 0.08915054, 0.024390250000000002],
+                  "source_ids": [1]
+                },
+                {
+                  "id": "5",
+                  "kind": "text",
+                  "bbox": [0.08999159, 0.2760262, 0.09629941000000002, 0.013087400000000027],
+                  "source_ids": [2]
+                },
+                {
+                  "id": "6",
+                  "kind": "text",
+                  "bbox": [0.09041211, 0.3010113, 0.09587889000000001, 0.01368233000000002],
+                  "source_ids": [3]
+                },
+                {
+                  "id": "7",
+                  "kind": "text",
+                  "bbox": [0.03742641, 0.32599643, 0.19974769, 0.01368233000000002],
+                  "source_ids": [4]
+                },
+                {
+                  "id": "8",
+                  "kind": "text",
+                  "bbox": [0.04962153, 0.35098156, 0.17788058, 0.01308743999999995],
+                  "source_ids": []
+                },
+                {
+                  "id": "9",
+                  "kind": "text",
+                  "bbox": [0.051303618, 0.3759667, 0.175357442, 0.01427719999999999],
+                  "source_ids": [5]
+                },
+                {
+                  "id": "10",
+                  "kind": "text",
+                  "bbox": [0.2981497, 0.23022011, 0.018923469999999998, 0.011897679999999994],
+                  "source_ids": [27]
+                },
+                {
+                  "id": "11",
+                  "kind": "text",
+                  "bbox": [0.5470984, 0.039857227, 0.07611435, 0.023200479000000003],
+                  "source_ids": [9]
+                },
+                {
+                  "id": "12",
+                  "kind": "text",
+                  "bbox": [0.67115223, 0.04045211, 0.10176616999999999, 0.010113030000000002],
+                  "source_ids": [12]
+                },
+                {
+                  "id": "13",
+                  "kind": "text",
+                  "bbox": [0.6703112, 0.052944675, 0.2851135, 0.011897685000000005],
+                  "source_ids": [13]
+                },
+                {
+                  "id": "14",
+                  "kind": "text",
+                  "bbox": [0.40706477, 0.06543724, 0.03069805999999997, 0.009518140000000008],
+                  "source_ids": [10]
+                },
+                {
+                  "id": "15",
+                  "kind": "text",
+                  "bbox": [0.38141295, 0.07852469, 0.07989908000000001, 0.02498512],
+                  "source_ids": [11]
+                },
+                {
+                  "id": "16",
+                  "kind": "text",
+                  "bbox": [0.5475189, 0.0892326, 0.05340624999999999, 0.010707910000000001],
+                  "source_ids": []
+                },
+                {
+                  "id": "17",
+                  "kind": "text",
+                  "bbox": [0.656434, 0.08804283, 0.05508830000000009, 0.011302793999999991],
+                  "source_ids": [15]
+                },
+                {
+                  "id": "18",
+                  "kind": "text",
+                  "bbox": [0.7724979, 0.0892326, 0.06307820000000008, 0.010113023999999998],
+                  "source_ids": []
+                },
+                {
+                  "id": "19",
+                  "kind": "text",
+                  "bbox": [0.53195965, 0.09875074, 0.050462549999999995, 0.016656759999999993],
+                  "source_ids": []
+                },
+                {
+                  "id": "20",
+                  "kind": "text",
+                  "bbox": [0.6387721, 0.098155856, 0.05088310000000007, 0.017251643999999997],
+                  "source_ids": []
+                },
+                {
+                  "id": "21",
+                  "kind": "text",
+                  "bbox": [0.75609756, 0.098155856, 0.00925147000000004, 0.017251643999999997],
+                  "source_ids": []
+                },
+                {
+                  "id": "22",
+                  "kind": "text",
+                  "bbox": [0.7729184, 0.09756097, 0.05508833999999996, 0.01725164],
+                  "source_ids": [16]
+                },
+                {
+                  "id": "23",
+                  "kind": "text",
+                  "bbox": [0.8902439, 0.089827485, 0.06223719999999999, 0.010707905000000004],
+                  "source_ids": []
+                },
+                {
+                  "id": "24",
+                  "kind": "text",
+                  "bbox": [0.87426406, 0.09875074, 0.07401179999999996, 0.01844140999999999],
+                  "source_ids": []
+                },
+                {
+                  "id": "25",
+                  "kind": "text",
+                  "bbox": [0.5311186, 0.11421773, 0.007989899999999994, 0.01725164],
+                  "source_ids": []
+                },
+                {
+                  "id": "26",
+                  "kind": "text",
+                  "bbox": [0.3923465, 0.13444379, 0.05929354000000003, 0.011897669999999999],
+                  "source_ids": [17]
+                },
+                {
+                  "id": "27",
+                  "kind": "text",
+                  "bbox": [0.5550883, 0.11421773, 0.16526494999999997, 0.03152883999999999],
+                  "source_ids": [18, 19]
+                },
+                {
+                  "id": "28",
+                  "kind": "text",
+                  "bbox": [0.75735915, 0.1154075, 0.00672835000000005, 0.015466979999999991],
+                  "source_ids": []
+                },
+                {
+                  "id": "29",
+                  "kind": "text",
+                  "bbox": [0.7825904, 0.1154075, 0.07401179999999996, 0.015466979999999991],
+                  "source_ids": []
+                },
+                {
+                  "id": "30",
+                  "kind": "text",
+                  "bbox": [0.87468463, 0.1154075, 0.10639191000000003, 0.016061870000000006],
+                  "source_ids": []
+                },
+                {
+                  "id": "31",
+                  "kind": "text",
+                  "bbox": [0.6568545, 0.1338489, 0.04331370000000001, 0.012492560000000014],
+                  "source_ids": []
+                },
+                {
+                  "id": "32",
+                  "kind": "text",
+                  "bbox": [0.78090835, 0.1338489, 0.038687950000000026, 0.012492560000000014],
+                  "source_ids": []
+                },
+                {
+                  "id": "33",
+                  "kind": "text",
+                  "bbox": [0.88940287, 0.13503867, 0.07190919000000007, 0.010707899999999992],
+                  "source_ids": []
+                },
+                {
+                  "id": "34",
+                  "kind": "text",
+                  "bbox": [0.6560134, 0.14812611, 0.07821706000000006, 0.013682339999999987],
+                  "source_ids": [21]
+                },
+                {
+                  "id": "35",
+                  "kind": "text",
+                  "bbox": [0.7804878, 0.148721, 0.06307820000000008, 0.011302800000000002],
+                  "source_ids": []
+                },
+                {
+                  "id": "36",
+                  "kind": "text",
+                  "bbox": [0.89823383, 0.14931588, 0.07989906999999996, 0.01249256999999998],
+                  "source_ids": []
+                },
+                {
+                  "id": "37",
+                  "kind": "text",
+                  "bbox": [0.7804878, 0.1635931, 0.0794785400000001, 0.01308745],
+                  "source_ids": []
+                },
+                {
+                  "id": "38",
+                  "kind": "text",
+                  "bbox": [0.53195965, 0.17192148, 0.023549200000000048, 0.011897680000000022],
+                  "source_ids": [23]
+                },
+                {
+                  "id": "39",
+                  "kind": "text",
+                  "bbox": [0.58873004, 0.17549078, 0.035323800000000016, 0.0077334999999999765],
+                  "source_ids": [24]
+                },
+                {
+                  "id": "40",
+                  "kind": "text",
+                  "bbox": [0.7531539, 0.17251636, 0.017661900000000008, 0.01784653],
+                  "source_ids": [26]
+                },
+                {
+                  "id": "41",
+                  "kind": "text",
+                  "bbox": [0.4179983, 0.22843546, 0.012615660000000029, 0.011302800000000002],
+                  "source_ids": [28]
+                },
+                {
+                  "id": "42",
+                  "kind": "text",
+                  "bbox": [0.5332212, 0.21832243, 0.05719094000000002, 0.03152885999999999],
+                  "source_ids": []
+                },
+                {
+                  "id": "43",
+                  "kind": "text",
+                  "bbox": [0.5664424, 0.23676383, 0.050462600000000024, 0.030339100000000008],
+                  "source_ids": [30]
+                },
+                {
+                  "id": "44",
+                  "kind": "text",
+                  "bbox": [0.69596297, 0.24747175, 0.040370130000000004, 0.009518150000000003],
+                  "source_ids": []
+                },
+                {
+                  "id": "45",
+                  "kind": "text",
+                  "bbox": [0.70647603, 0.25758478, 0.018923469999999942, 0.009518150000000003],
+                  "source_ids": []
+                },
+                {
+                  "id": "46",
+                  "kind": "text",
+                  "bbox": [0.7569386, 0.24211779, 0.09377625999999994, 0.05234978000000001],
+                  "source_ids": [32]
+                },
+                {
+                  "id": "47",
+                  "kind": "text",
+                  "bbox": [0.7010093, 0.30636525, 0.03952894000000007, 0.00892325000000005],
+                  "source_ids": [33]
+                },
+                {
+                  "id": "48",
+                  "kind": "text",
+                  "bbox": [0.54037005, 0.338489, 0.017661949999999926, 0.017251640000000013],
+                  "source_ids": [29]
+                },
+                {
+                  "id": "49",
+                  "kind": "text",
+                  "bbox": [0.5689655, 0.33908388, 0.010933599999999988, 0.01249256999999998],
+                  "source_ids": []
+                },
+                {
+                  "id": "50",
+                  "kind": "text",
+                  "bbox": [0.8692178, 0.22546104, 0.10470989999999991, 0.054134420000000016],
+                  "source_ids": [34]
+                },
+                {
+                  "id": "51",
+                  "kind": "text",
+                  "bbox": [0.8801514, 0.2528257, 0.07863750000000003, 0.033313499999999996],
+                  "source_ids": []
+                },
+                {
+                  "id": "52",
+                  "kind": "text",
+                  "bbox": [0.94407064, 0.36763832, 0.03238015999999999, 0.009518150000000003],
+                  "source_ids": [37]
+                },
+                {
+                  "id": "53",
+                  "kind": "text",
+                  "bbox": [0.5466779, 0.3967876, 0.10092512999999992, 0.022605600000000003],
+                  "source_ids": [38]
+                },
+                {
+                  "id": "54",
+                  "kind": "text",
+                  "bbox": [0.6707317, 0.39619273, 0.10260720000000001, 0.009518150000000003],
+                  "source_ids": [39]
+                },
+                {
+                  "id": "55",
+                  "kind": "text",
+                  "bbox": [0.6707317, 0.4086853, 0.284693, 0.011897680000000022],
+                  "source_ids": [40]
+                },
+                {
+                  "id": "56",
+                  "kind": "text",
+                  "bbox": [0.5470984, 0.44854254, 0.08704793, 0.010707909999999987],
+                  "source_ids": []
+                },
+                {
+                  "id": "57",
+                  "kind": "text",
+                  "bbox": [0.6879731, 0.44735277, 0.11858705999999997, 0.012492559999999986],
+                  "source_ids": []
+                },
+                {
+                  "id": "58",
+                  "kind": "text",
+                  "bbox": [0.5315391, 0.45865557, 0.12111019999999995, 0.016061869999999978],
+                  "source_ids": []
+                },
+                {
+                  "id": "59",
+                  "kind": "text",
+                  "bbox": [0.53195965, 0.47352767, 0.09251469999999995, 0.017251629999999962],
+                  "source_ids": []
+                },
+                {
+                  "id": "60",
+                  "kind": "text",
+                  "bbox": [0.6707317, 0.4568709, 0.14045419999999997, 0.048185599999999995],
+                  "source_ids": [42]
+                },
+                {
+                  "id": "61",
+                  "kind": "text",
+                  "bbox": [0.83010936, 0.45806068, 0.01093354000000002, 0.017251640000000013],
+                  "source_ids": []
+                },
+                {
+                  "id": "62",
+                  "kind": "text",
+                  "bbox": [0.8469302, 0.44794765, 0.12741800000000003, 0.027364670000000035],
+                  "source_ids": []
+                },
+                {
+                  "id": "63",
+                  "kind": "text",
+                  "bbox": [0.8549201, 0.47769186, 0.10849450000000005, 0.027364639999999996],
+                  "source_ids": []
+                },
+                {
+                  "id": "64",
+                  "kind": "text",
+                  "bbox": [0.39360806, 0.51457465, 0.04331372, 0.012492590000000026],
+                  "source_ids": [44]
+                },
+                {
+                  "id": "65",
+                  "kind": "text",
+                  "bbox": [0.038687974, 0.40214157, 0.200588726, 0.01249256999999998],
+                  "source_ids": [6]
+                },
+                {
+                  "id": "66",
+                  "kind": "text",
+                  "bbox": [0.34608915, 0.43545508, 0.023549199999999992, 0.010113020000000028],
+                  "source_ids": [36]
+                },
+                {
+                  "id": "67",
+                  "kind": "text",
+                  "bbox": [0.050883096, 0.42653182, 0.174936924, 0.01308745],
+                  "source_ids": [7]
+                },
+                {
+                  "id": "68",
+                  "kind": "text",
+                  "bbox": [0.063498735, 0.45211184, 0.150967195, 0.013682340000000015],
+                  "source_ids": [8]
+                },
+                {
+                  "id": "69",
+                  "kind": "text",
+                  "bbox": [0.050462574, 0.47709697, 0.176619006, 0.013682329999999965],
+                  "source_ids": []
+                },
+                {
+                  "id": "70",
+                  "kind": "text",
+                  "bbox": [0.063498735, 0.5020821, 0.15054668499999999, 0.013682300000000036],
+                  "source_ids": []
+                },
+                {
+                  "id": "71",
+                  "kind": "text",
+                  "bbox": [0.056770395, 0.5276621, 0.163582835, 0.013682360000000005],
+                  "source_ids": []
+                },
+                {
+                  "id": "72",
+                  "kind": "text",
+                  "bbox": [0.035744324, 0.55324215, 0.206055506, 0.012492550000000047],
+                  "source_ids": []
+                },
+                {
+                  "id": "73",
+                  "kind": "text",
+                  "bbox": [0.052144658, 0.57763237, 0.173254842, 0.013682329999999965],
+                  "source_ids": []
+                },
+                {
+                  "id": "74",
+                  "kind": "text",
+                  "bbox": [0.0862069, 0.6038073, 0.10555087999999999, 0.012492499999999906],
+                  "source_ids": [47]
+                },
+                {
+                  "id": "75",
+                  "kind": "text",
+                  "bbox": [0.28301093, 0.51516956, 0.06602186999999998, 0.011897680000000022],
+                  "source_ids": [48]
+                },
+                {
+                  "id": "76",
+                  "kind": "text",
+                  "bbox": [0.28721616, 0.5431291, 0.15685448000000002, 0.027959499999999915],
+                  "source_ids": [49]
+                },
+                {
+                  "id": "77",
+                  "kind": "text",
+                  "bbox": [0.28090832, 0.58536583, 0.06896552, 0.011302829999999986],
+                  "source_ids": []
+                },
+                {
+                  "id": "78",
+                  "kind": "text",
+                  "bbox": [0.28174937, 0.60023797, 0.09882253000000002, 0.011897680000000022],
+                  "source_ids": []
+                },
+                {
+                  "id": "79",
+                  "kind": "text",
+                  "bbox": [0.28259042, 0.6145152, 0.12489486, 0.012492499999999906],
+                  "source_ids": []
+                },
+                {
+                  "id": "80",
+                  "kind": "text",
+                  "bbox": [0.28931874, 0.6299822, 0.14676201, 0.011897659999999921],
+                  "source_ids": []
+                },
+                {
+                  "id": "81",
+                  "kind": "text",
+                  "bbox": [0.568545, 0.6436645, 0.023969699999999983, 0.01665674000000006],
+                  "source_ids": []
+                },
+                {
+                  "id": "82",
+                  "kind": "text",
+                  "bbox": [0.6993272, 0.57882214, 0.09167364, 0.034503260000000036],
+                  "source_ids": [52]
+                },
+                {
+                  "id": "83",
+                  "kind": "text",
+                  "bbox": [0.8460891, 0.5258775, 0.023549199999999937, 0.012492500000000017],
+                  "source_ids": [51]
+                },
+                {
+                  "id": "84",
+                  "kind": "text",
+                  "bbox": [0.7367536, 0.63295656, 0.0075693599999999694, 0.005948839999999955],
+                  "source_ids": []
+                },
+                {
+                  "id": "85",
+                  "kind": "text",
+                  "bbox": [0.8549201, 0.6162998, 0.016400300000000034, 0.007138599999999995],
+                  "source_ids": []
+                },
+                {
+                  "id": "86",
+                  "kind": "text",
+                  "bbox": [0.8557612, 0.62581795, 0.01597974000000002, 0.007733550000000089],
+                  "source_ids": [53]
+                },
+                {
+                  "id": "87",
+                  "kind": "text",
+                  "bbox": [0.04037006, 0.68828076, 0.24810766, 0.015466989999999958],
+                  "source_ids": []
+                },
+                {
+                  "id": "88",
+                  "kind": "text",
+                  "bbox": [0.038267452, 0.71445566, 0.298570228, 0.010113039999999907],
+                  "source_ids": []
+                },
+                {
+                  "id": "89",
+                  "kind": "text",
+                  "bbox": [0.033641715, 0.7275431, 0.405803185, 0.011302840000000036],
+                  "source_ids": []
+                },
+                {
+                  "id": "90",
+                  "kind": "text",
+                  "bbox": [0.032800674, 0.74182034, 0.367115226, 0.010707910000000043],
+                  "source_ids": []
+                },
+                {
+                  "id": "91",
+                  "kind": "text",
+                  "bbox": [0.025651809, 0.7674004, 0.064339781, 0.012492500000000017],
+                  "source_ids": [55]
+                },
+                {
+                  "id": "92",
+                  "kind": "text",
+                  "bbox": [0.02649285, 0.78524685, 0.33052985, 0.012492599999999965],
+                  "source_ids": []
+                },
+                {
+                  "id": "93",
+                  "kind": "text",
+                  "bbox": [0.026072329, 0.80130875, 0.199747691, 0.012492549999999936],
+                  "source_ids": []
+                },
+                {
+                  "id": "94",
+                  "kind": "text",
+                  "bbox": [0.02649285, 0.8179655, 0.43986542, 0.0297442],
+                  "source_ids": []
+                },
+                {
+                  "id": "95",
+                  "kind": "text",
+                  "bbox": [0.032380152, 0.8524688, 0.290580318, 0.012492500000000017],
+                  "source_ids": []
+                },
+                {
+                  "id": "96",
+                  "kind": "text",
+                  "bbox": [0.07317073, 0.88816184, 0.08957106999999999, 0.011897620000000053],
+                  "source_ids": [60]
+                },
+                {
+                  "id": "97",
+                  "kind": "text",
+                  "bbox": [0.07106812, 0.9071981, 0.29310344, 0.013087399999999971],
+                  "source_ids": [61]
+                },
+                {
+                  "id": "98",
+                  "kind": "text",
+                  "bbox": [0.026913373, 0.9518144, 0.05971404699999999, 0.009518160000000053],
+                  "source_ids": [63]
+                },
+                {
+                  "id": "99",
+                  "kind": "text",
+                  "bbox": [0.15433137, 0.9339679, 0.19133727000000003, 0.011897700000000011],
+                  "source_ids": [62]
+                },
+                {
+                  "id": "100",
+                  "kind": "text",
+                  "bbox": [0.5231287, 0.7376562, 0.13204369999999999, 0.02320040000000001],
+                  "source_ids": [58]
+                },
+                {
+                  "id": "101",
+                  "kind": "text",
+                  "bbox": [0.5475189, 0.78881615, 0.05466784000000002, 0.010707919999999982],
+                  "source_ids": []
+                },
+                {
+                  "id": "102",
+                  "kind": "text",
+                  "bbox": [0.53069806, 0.79714453, 0.049621540000000075, 0.017846530000000027],
+                  "source_ids": []
+                },
+                {
+                  "id": "103",
+                  "kind": "text",
+                  "bbox": [0.53195965, 0.8138013, 0.07863748000000004, 0.016656749999999998],
+                  "source_ids": []
+                },
+                {
+                  "id": "104",
+                  "kind": "text",
+                  "bbox": [0.5475189, 0.8334325, 0.042893239999999944, 0.011897700000000011],
+                  "source_ids": []
+                },
+                {
+                  "id": "105",
+                  "kind": "text",
+                  "bbox": [0.5462574, 0.8488995, 0.04331366000000003, 0.011302749999999917],
+                  "source_ids": []
+                },
+                {
+                  "id": "106",
+                  "kind": "text",
+                  "bbox": [0.55550885, 0.8631767, 0.036164849999999915, 0.01308745],
+                  "source_ids": []
+                },
+                {
+                  "id": "107",
+                  "kind": "text",
+                  "bbox": [0.63246423, 0.9143367, 0.026913400000000087, 0.024985099999999982],
+                  "source_ids": []
+                },
+                {
+                  "id": "108",
+                  "kind": "text",
+                  "bbox": [0.6707317, 0.73706126, 0.10218669999999996, 0.009518139999999953],
+                  "source_ids": [64]
+                },
+                {
+                  "id": "109",
+                  "kind": "text",
+                  "bbox": [0.6703112, 0.74895895, 0.28385193, 0.011897649999999982],
+                  "source_ids": [65]
+                },
+                {
+                  "id": "110",
+                  "kind": "text",
+                  "bbox": [0.74768716, 0.78881615, 0.06307814, 0.010707919999999982],
+                  "source_ids": []
+                },
+                {
+                  "id": "111",
+                  "kind": "text",
+                  "bbox": [0.7312868, 0.79773945, 0.07317074999999995, 0.017251609999999973],
+                  "source_ids": [66]
+                },
+                {
+                  "id": "112",
+                  "kind": "text",
+                  "bbox": [0.73296887, 0.8138013, 0.007148829999999995, 0.016656749999999998],
+                  "source_ids": []
+                },
+                {
+                  "id": "113",
+                  "kind": "text",
+                  "bbox": [0.75777966, 0.8138013, 0.11269974000000005, 0.016656749999999998],
+                  "source_ids": []
+                },
+                {
+                  "id": "114",
+                  "kind": "text",
+                  "bbox": [0.75609756, 0.8334325, 0.12195124000000002, 0.026769749999999926],
+                  "source_ids": []
+                },
+                {
+                  "id": "115",
+                  "kind": "text",
+                  "bbox": [0.75567704, 0.86377156, 0.08788896000000002, 0.027959540000000005],
+                  "source_ids": []
+                },
+                {
+                  "id": "116",
+                  "kind": "text",
+                  "bbox": [0.80319595, 0.88994646, 0.08284270999999999, 0.0749554],
+                  "source_ids": [69]
+                }
+              ],
+              "assignments": {
+                "1": "4",
+                "2": "5",
+                "3": "6",
+                "4": "7",
+                "5": "9",
+                "6": "65",
+                "7": "67",
+                "8": "68",
+                "9": "11",
+                "10": "14",
+                "11": "15",
+                "12": "12",
+                "13": "13",
+                "15": "17",
+                "16": "22",
+                "17": "26",
+                "18": "27",
+                "19": "27",
+                "21": "34",
+                "23": "38",
+                "24": "39",
+                "25": "3",
+                "26": "40",
+                "27": "10",
+                "28": "41",
+                "29": "48",
+                "30": "43",
+                "32": "46",
+                "33": "47",
+                "34": "50",
+                "36": "66",
+                "37": "52",
+                "38": "53",
+                "39": "54",
+                "40": "55",
+                "42": "60",
+                "44": "64",
+                "47": "74",
+                "48": "75",
+                "49": "76",
+                "51": "83",
+                "52": "82",
+                "53": "86",
+                "55": "91",
+                "58": "100",
+                "60": "96",
+                "61": "97",
+                "62": "99",
+                "63": "98",
+                "64": "108",
+                "65": "109",
+                "66": "111",
+                "69": "116"
+              }
+            }
+          ],
+          "unmatched_source_ids": [0, 22, 31, 50, 54, 56, 57, 59],
+          "ambiguous_source_ids": [],
+          "conflicts": [],
+          "continuation_source_ids": [20, 22]
+        },
+        "row_layout": {
+          "52": {
+            "translation": "https://toy.bandai.co.jp/manuals/pdf.php?id=2588450",
+            "rows": [
+              {
+                "text": "https://toy.bandai.co.jp/manuals/pdf.php?id=2588450",
+                "translation": "https://toy.bandai.co.jp/manuals/pdf.php?id=2588450",
+                "bbox": [
+                  0.02678062678062678, 0.9315068493150684, 0.4461538461538462, 0.016116035455278
+                ],
+                "line_ids": [85]
+              }
+            ]
+          }
+        }
       }
     }
   ]

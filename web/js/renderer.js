@@ -1,14 +1,14 @@
 // DOM rendering module
-import { state, DOM, EditSession } from './state.js?v=18';
-import { ImageLoader } from './image-loader.js?v=18';
-import { ErrorHandler } from './errors.js?v=18';
-import { validateManualDocument } from './manual-data.js?v=18';
-import { fitRenderedManual } from './text-fit-dom.js?v=18';
-import { buildCatalogView } from './catalog-view.js?v=18';
-import { formatPageIndicator } from './reader-controls.js?v=18';
-import { reduceViewerState } from './viewer-state.js?v=18';
+import { state, DOM, EditSession } from './state.js?v=22';
+import { ImageLoader } from './image-loader.js?v=22';
+import { ErrorHandler } from './errors.js?v=22';
+import { validateManualDocument } from './manual-data.js?v=22';
+import { fitRenderedManual } from './text-fit-dom.js?v=22';
+import { buildCatalogView } from './catalog-view.js?v=22';
+import { formatPageIndicator } from './reader-controls.js?v=22';
+import { reduceViewerState } from './viewer-state.js?v=22';
 
-import { createManualPage } from './manual-page.js?v=18';
+import { createManualPage } from './manual-page.js?v=22';
 
 let pendingFitFrame = null;
 const RESIZE_HANDLES = ['n', 's', 'e', 'w', 'ne', 'nw', 'se', 'sw'];
@@ -122,7 +122,7 @@ export function renderManualList(filteredManuals) {
 
     card.append(artwork, content);
     const openManual = () => {
-      import('./navigation.js?v=18').then(({ navigate }) => {
+      import('./navigation.js?v=22').then(({ navigate }) => {
         navigate('viewer', manual.manualName);
       });
     };
@@ -156,7 +156,7 @@ export function renderTagFilters() {
     tagButton.dataset.tagId = tagId; // Store tag ID on button
     tagButton.onclick = () => {
       // Import toggleTagFilter dynamically
-      import('./navigation.js?v=18').then(({ toggleTagFilter }) => {
+      import('./navigation.js?v=22').then(({ toggleTagFilter }) => {
         toggleTagFilter(tagId);
       });
     };

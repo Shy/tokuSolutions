@@ -68,6 +68,13 @@ outside prose panels. Valid electrical units remain allowed. Source scans and
 source ledgers intentionally retain their original language. A bounded repair
 that cannot resolve an overlay safely retains it with an advisory warning.
 These are source records, not an instruction to the browser or a review gate.
+The combined readability process keeps English in boxes on the scan. It groups complete
+instructions within visual sections, preserves separate contents/table entries,
+and tries safe whitespace expansion before reducing text size. Sizes are relative
+to the page and text role. No linked footer or appended reading panel is generated.
+The webpage and PDF use the same layout; the existing text side panel remains
+available. It is enabled per page by the readability marker or validated structural
+evidence in the source-preserving layout ledger.
 Draft versions, fit measurements, undo
 history and UI state must never enter saved manual JSON.
 

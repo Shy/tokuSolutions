@@ -229,6 +229,29 @@ explicit regrouping preserve the source records and repeat the classification.
 These bounded rules do not certify OCR or model judgments.
 Source-ledger completeness is checked again before publication.
 
+Explicit regrouping carries the preceding page as private planning context.
+If a replacement only splits an accepted unit into fragments, final assembly
+keeps the complete prior unit; contents rows remain separate. The context is
+not copied into the published ledger. Dangling unclaimed clauses can seed the
+existing bounded continuation recovery, with column, artwork and printed-rule
+checks. Independent OCR can corroborate a circled-digit polarity error only in
+the matching upper/lower-side battery clause; other quantities stay protected.
+Numbered instructions use source-backed circled numerals, with bullets reserved
+for unnumbered items.
+
+Pages opt in through `layout_provenance.readability.version: 1` or validated
+`layout_provenance.structure.version: 1` from the combined pipeline. The latter
+activates the same fitter for regenerated manuals outside the original pilot.
+The shared browser/PDF fitter uses
+page-relative role scales, expands only through verified scan whitespace without
+crossing source regions or printed borders, and fits intact words inside the
+resulting boxes. Font consistency is a preference, not an absolute pixel floor.
+Overlapping text areas are partitioned; original masks and source coordinates
+remain distinct from the transient English layout. Constrained fits remain
+measurable. Text never moves into appended notes or a footer; the existing side
+panel already provides an alternative reading format. Pages without either
+versioned record retain the existing fitter.
+
 English overlays are checked for non-Latin letters across scripts, allowing
 electrical units µ, μ and Ω. Unclaimed untranslated labels enter the existing
 cropped translation stage; a failed bounded repair retains source-grounded text
@@ -358,3 +381,211 @@ Set `PDF_EVIDENCE_DIR` to retain PDFs, native screenshots and per-page compariso
 measurements. The audit's `pdf` view measures the actual desktop capture frame;
 it replaces the removed A4/print renderer. Old audit artifacts retain their old
 view names and hashes; remeasure touched manuals rather than relabeling history.
+
+## Layout-engine comparison
+
+`LayoutBenchmarkWorkflow` validates a frozen PDF manifest, then runs Docling,
+PyMuPDF and Google Layout Parser as independent Activities.
+Provider failures are isolated and saved page results are reusable. The original
+PDF, single-page inputs, raw outputs and normalized top-left geometry stay
+separate from public manual JSON. Table cells retain row/column spans; Docling's
+document tree supplies reading order. PyMuPDF native extraction and its
+Tesseract-assisted scan path are labeled separately.
+
+The optional Docling dependency runs in an isolated environment through
+`scripts/docling-layout.py`; production dependencies do not change. Model files,
+Japanese/English Tesseract data **and Tesseract config files** must be present.
+A missing `configs/tsv` causes plain-text output and an upstream `KeyError: text`.
+Frozen manifests can specify `docling_psm: 11` for a sparse-text diagnostic arm.
+Use a distinct output directory for each engine/configuration comparison.
+The inspection Activity fingerprints the manifest and Docling executable path,
+and rejects a changed configuration in an existing output directory. This guards
+against reusing page checkpoints after changing the page selection or OCR settings.
+
+```bash
+uv run --no-sync python -m src.quality.layout_compare \
+  --manifest benchmark-runs/layout-engine-comparison-2026-11-05/manifest.json \
+  --output benchmark-runs/layout-engine-comparison-2026-11-05/results-new \
+  --docling-python benchmark-runs/layout-engine-comparison-2026-11-05/.venv/bin/python \
+  --provider docling --provider pymupdf --address localhost:7235
+```
+
+Google requires an explicit Layout Parser resource; omitting it records a deferred
+result and never substitutes the existing OCR processor. For Google-only runs,
+add `--provider google --google-processor projects/PROJECT/locations/us/processors/ID`
+and an explicit `--google-version`. The default version is
+`pretrained-layout-parser-v1.0-2024-06-03`, with bounding boxes requested. Processor,
+version and source-page identity are checked before reusing raw responses.
+The CLI returns a failing exit status when a provider reports failure.
+
+Normalization retains nested reading order, list contents, merged-cell spans and
+coordinate-free blocks. Cell boxes are unions of supplied child-text extents,
+not guaranteed printed borders. Version 1.5 returned no boxes on the four Double
+Driver diagnostic pages; missing coordinates remain absent. Processing uses a
+worker thread, while the async Activity emits heartbeats on its event loop.
+Processor-management permissions are not required for processing: the pilot
+account could process documents despite being unable to read processor metadata.
+
+The benchmark performs extraction/layout analysis, not translation or publication.
+Its cached-Google-OCR text overlap is a diagnostic agreement score, not independently
+established OCR accuracy; comparisons within one provider can be correlated.
+
+## Docling-guided semantic layout
+
+The optional `SemanticLayoutInput.layout_index` connects frozen Docling outputs
+to the existing OCR/planning/translation pipeline. A separate
+`prepare_structure_activity` checks the source PDF hash, artifact hashes and page
+identities, then matches original OCR regions to normalized layout geometry.
+The planner receives region labels, source-ID matches, reading order, cells and
+picture bounds, without Docling's recognized text. Original Japanese and source
+boxes remain unchanged.
+
+An index has `source_sha256` and a `pages` array in source-page order. Each page
+contains zero or more `{ "path": "…", "sha256": "…" }` records referring to
+normalized `LayoutPage` JSON files. Paths resolve relative to the index; absolute
+paths are also supported. Multiple configurations remain separate hypotheses.
+Use a new run ID when changing evidence or settings:
+
+```bash
+uv run python -m src.quality.semantic_repair \
+  --run-id docling-guided-example --manual "CSM Double Driver v2" --regroup \
+  --layout-index /absolute/path/layout-index.json
+```
+
+The CLI accepts an index for exactly one selected manual. The normal application
+client uses its configured local Temporal address; a custom runner can connect to
+another server with the same registered Workflows and Activities.
+
+Matching requires at least 80% coverage of an OCR source rectangle. Ambiguous
+matches and disagreements stay advisory; an unmatched source never disappears.
+Clear independent list/cell/heading and bounded picture-membership boundaries split proposed panels after clause
+recovery, and previous-panel preservation respects the same checks. Source-backed
+subordinate clauses can continue across list-item hypotheses; printed cells remain
+independent. A shared container alone never forces a merge.
+
+The saved `layout_provenance.structure` retains the evidence and its disagreements.
+The browser/PDF whitespace fitter also rejects expansion that adds overlap with
+detected pictures or leaves an enclosing detected cell. Existing scan-pixel and
+source-region protections still apply. A picture hypothesis covering at least 65%
+of the page stays advisory, since a scanned table can be classified as a whole-page
+picture. Whitespace checks count newly covered ink outside the intersection with
+the original rounding allowance; ink outside a candidate cannot authorize its
+expansion. Ruled-cell projection uses an immutable, hashed copy of the original
+scan in the page's run directory when available,
+rather than a resized planning image. A single complete entry can occupy its
+enclosing printed cell only with strong text agreement, meaningful extra width,
+no competing translated region and no detected diagram overlap. This remains
+advisory structural evidence; imperfect detections are not proof of semantic correctness.
+Browser audits verify every rendered parent/projection pair, so distinct cells
+sharing an editor parent cannot hide a missing or duplicated measurement.
+
+## Combined Google v1.0 + Docling pilot workflow
+
+`CombinedLayoutWorkflow` composes the existing parser and semantic components.
+Its input contains a staged `SemanticLayoutInput`, frozen parser jobs and an
+explicit parser task queue. A parser worker registers input inspection, Docling
+and Google Activities; the model worker registers `WORKFLOWS` / `ACTIVITIES`.
+The pilot runs at most two parser jobs and eight model-worker Activities, with
+three concurrent semantic pages and three concurrent panel translations per page.
+
+```mermaid
+flowchart TD
+  F[Frozen PDF and existing OCR] --> D[Docling Activity with page checkpoints]
+  F --> G[Google v1.0 Activity with page checkpoints]
+  D --> I[Hash-checked combined index Activity]
+  G --> I
+  I --> S[Semantic layout child Workflow]
+  S --> P[Per-page child Workflows, bounded rolling window]
+  P --> M[Plan and panel Agent child Workflows]
+  M --> C[Validation, at most one repair, source fallback]
+  C --> A[Assembled staged manual]
+  A --> V[Existing parent or runner: source validation and browser audit]
+  V --> U[Recoverable local publication]
+```
+
+A required parser failure prevents fusion; it is not silently treated as a
+successful combined run. Every declared normalized page must exist, have the
+correct provider/page identity and match a source-verified manifest. Both Google
+and Docling must cover the complete manual; an additional sparse Docling variant
+may cover a subset. Parser Activities retain raw per-page checkpoints, so retries
+reuse completed pages. Docling stays batched to amortize isolated-model setup.
+The pilot imports already-verified raw results into run-owned caches, preserving
+the earlier benchmark artifacts.
+
+Google cell boxes are marked `text_extent` and become `cell_text` evidence. They
+can separate semantic entries but never constrain the renderer's maximum English
+box. Printed borders, neighboring source regions and scan pixels still determine
+usable space. Structurally split panels pass the existing geometry guard again;
+unsafe overlapping OCR proposals fall back to original overlays within the page.
+Omission recovery runs before structural splitting. Geometry fallback after that
+split cannot recover dropped neighboring source IDs; they retain original overlays.
+This prevents a conservative geometry fallback from undoing confirmed row boundaries.
+
+Rolling windows replace cohort barriers for new semantic Workflows. Patch IDs
+`semantic-page-window-v1` and `semantic-panel-window-v1` retain the old execution
+path when replaying histories without those markers. One slow page or panel no
+longer holds every later job in its cohort; global worker capacity still bounds
+model calls. Existing pre- and post-patch histories must replay before rollout.
+
+Orchestration stages pass file references. The official Agents integration still
+materializes vision prompts in individual Agent child histories, so not every
+payload is externalized. Measure their size; do not describe these as reference-only
+histories. The local artifact store assumes shared filesystem access and retained
+run directories. Distributed/Cloud workers would need a shared artifact store and
+an appropriate large-payload strategy before deployment.
+
+The completed local CSM Double Driver pilot is recorded in
+`benchmark-runs/google-docling-pilot-v2-2026-11-06/`: all 30 pages preserve existing
+OCR and original source regions, and all 64 imported parser responses retain their
+hashes. The successful parent and priority-page histories replay, as do five older
+histories. Browser/PDF audits and the actual downloaded PDF pass export checks;
+some combined table labels and dense dialogue cells remain for review. No other
+manual was regenerated. The peak saved model request is 1,204,245 bytes, so the
+Agent-history payload limitation above is measured rather than hypothetical.
+
+## Combined corpus regeneration
+
+The existing semantic corpus runner also composes the combined pipeline. Use
+`--regroup`, `--google-processor`, `--docling-python`, `--docling-assets` and an
+explicit `--address` to enable it. It retains the same source validation, cached
+model calls, browser audit and recoverable publication path as semantic-only runs.
+A separate parser worker allows two concurrent conversions; each model worker has
+eight Activity slots, with configurable manual concurrency and three browser
+audits at most. The current corpus run uses six concurrent manuals and three model
+worker processes (24 Activity slots). Additional
+workers poll the same model queue in separate processes; overlapping Workers on
+one queue in the same client process are rejected by the SDK.
+
+```bash
+uv run python -m src.quality.semantic_repair \
+  --run-id combined-corpus-2026-11-06 --regroup --address localhost:7235 --manual-concurrency 6 \
+  --google-processor projects/macro-nuance-466220-c0/locations/us/processors/5616b5a90d1e63fe \
+  --docling-python benchmark-runs/layout-engine-comparison-2026-11-05/.venv/bin/python \
+  --docling-assets benchmark-runs/layout-engine-comparison-2026-11-05
+```
+
+Select outstanding manuals with repeated `--manual` flags; the completed Double
+Driver pilot need not run again. Configuration is frozen under the run ID, and
+published manuals are skipped on recovery. Original PDFs are checked against the
+published page count and canvas aspect, with immutable per-page PDFs and hashes.
+If publication completed before runner status was saved, recovery verifies its
+durable receipt, JSON/scan hashes, source ledger and complete audit before recording
+it as published; a changed current manual is rejected rather than overwritten.
+When an original PDF is absent, a layout-only PDF embeds each existing scan at its
+own canvas dimensions without rescaling its pixels. All existing OCR lines and
+source regions must survive regeneration. Audit coverage must include every page
+before publication; text fitting warnings remain visible as advisory findings.
+
+For regrouping, the existing source-linked OCR ledger takes precedence over
+render-image caches, so a different PDF canvas does not trigger different
+recognition. Reuse requires matching image identity and original text/geometry;
+an incompatible existing checkpoint requires a fresh run namespace. Prior
+scan-confirmed native artwork is retained on that same source. Accepted English
+can repair a fallback with identical source membership, and explicit quotation
+equivalents can be retained from unambiguous aligned prior items. Conflicting or
+unmatched equivalents are not guessed. These rules preserve prior review decisions
+without per-manual names, page coordinates or a relaxed English-script validator.
+
+The rejected Custom Extractor experiment and its tests/runner were removed after
+evaluation. Its findings remain in `blog.md`; no Custom Extractor code is used by
+the combined pipeline. Prior Workflow patch branches remain necessary for replay.

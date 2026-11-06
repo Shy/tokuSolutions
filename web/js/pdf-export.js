@@ -27,7 +27,7 @@ export async function createDesktopCapture() {
         clearTimeout(timeout);
         reject(new Error('PDF renderer unavailable'));
       };
-      frame.src = new URL('../pdf-frame.html?v=18', import.meta.url).href;
+      frame.src = new URL('../pdf-frame.html?v=22', import.meta.url).href;
       document.body.appendChild(frame);
     });
     return {
@@ -92,7 +92,9 @@ export async function downloadManualPdf({
         preserveMeasuredStyle(
           style,
           'font-size',
-          original.style.fontSize || getComputedStyle(original).fontSize
+          original.style.getPropertyValue('--readability-font-size') ||
+            original.style.fontSize ||
+            getComputedStyle(original).fontSize
         );
         if (original.classList.contains('overlay')) {
           preserveMeasuredStyle(style, 'left', `${rectangle.left - origin.left}px`);

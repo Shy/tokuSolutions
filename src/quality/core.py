@@ -1,6 +1,7 @@
 """Freeze inputs and run independent machine-translation stages with diagnostics."""
 
 import hashlib
+import json
 import os
 import re
 import shutil
@@ -90,6 +91,11 @@ def write_bytes(path: Path, content: bytes) -> None:
         os.replace(temporary_name, path)
     finally:
         Path(temporary_name).unlink(missing_ok=True)
+
+
+def write_json(path: Path, value: object) -> None:
+    """Atomically persist readable Unicode JSON with stable checkpoint bytes."""
+    write_bytes(path, (json.dumps(value, ensure_ascii=False, indent=2) + "\n").encode())
 
 
 def prepare_suite(root: Path, manifest_path: Path, output: Path) -> Suite:

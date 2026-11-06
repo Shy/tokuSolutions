@@ -1,15 +1,15 @@
 // Main application entry point - modular architecture
-import { state, DOM, EditSession } from './js/state.js?v=18';
-import { ImageLoader } from './js/image-loader.js?v=18';
-import { debounce, throttle } from './js/utils.js?v=18';
-import { UI_TIMINGS } from './js/config.js?v=18';
+import { state, DOM, EditSession } from './js/state.js?v=22';
+import { ImageLoader } from './js/image-loader.js?v=22';
+import { debounce, throttle } from './js/utils.js?v=22';
+import { UI_TIMINGS } from './js/config.js?v=22';
 import {
   renderManualList,
   renderTagFilters,
   highlightBlock,
   clearHighlights,
   scheduleManualFit
-} from './js/renderer.js?v=18';
+} from './js/renderer.js?v=22';
 import {
   commitBboxGesture,
   createTextBlock,
@@ -19,7 +19,7 @@ import {
   saveInspectorTranslation,
   syncInspectorBbox,
   undoLastEdit
-} from './js/editor.js?v=18';
+} from './js/editor.js?v=22';
 import {
   navigate,
   toggleTranslations,
@@ -29,9 +29,9 @@ import {
   jumpToPage,
   manualNameFromHash,
   updatePageIndicator
-} from './js/navigation.js?v=18';
-import { submitToGitHub, downloadJSON } from './js/github.js?v=18';
-import { createViewerState, reduceViewerState } from './js/viewer-state.js?v=18';
+} from './js/navigation.js?v=22';
+import { submitToGitHub, downloadJSON } from './js/github.js?v=22';
+import { createViewerState, reduceViewerState } from './js/viewer-state.js?v=22';
 import {
   DEFAULT_READER_FONT_SIZE,
   adjustReaderScale,
@@ -40,15 +40,15 @@ import {
   parseReaderPreferences,
   requiresLargeTextPopover,
   serializeReaderPreferences
-} from './js/reader-controls.js?v=18';
-import { createDraftAutosave, createDraftStore } from './js/draft-store.js?v=18';
+} from './js/reader-controls.js?v=22';
+import { createDraftAutosave, createDraftStore } from './js/draft-store.js?v=22';
 import {
   beginBboxGesture,
   cancelBboxGesture,
   commitBboxGesture as finalizeBboxGesture,
   updateBboxGesture
-} from './js/bbox-interaction.js?v=18';
-import { downloadManualPdf } from './js/pdf-export.js?v=18';
+} from './js/bbox-interaction.js?v=22';
+import { downloadManualPdf } from './js/pdf-export.js?v=22';
 
 const finePointerQuery = window.matchMedia('(pointer: fine)');
 const READER_PREFERENCES_KEY = 'tokusolutions:reader-preferences';
@@ -174,7 +174,7 @@ function dispatchViewer(action) {
   state.viewer = reduceViewerState(state.viewer, action);
 
   if (wasEditing && state.viewer.mode === 'reading') {
-    import('./js/editor.js?v=18').then(({ exitBlockEditMode }) => exitBlockEditMode());
+    import('./js/editor.js?v=22').then(({ exitBlockEditMode }) => exitBlockEditMode());
   }
 
   renderViewerState();
@@ -406,7 +406,7 @@ function setupEventListeners() {
       if (state.viewer.mode === 'reading') {
         maybeOpenLargeTextPopover(pageIdx, blockIdx, overlay);
       } else {
-        import('./js/editor.js?v=18').then(({ enterBlockEditMode }) => {
+        import('./js/editor.js?v=22').then(({ enterBlockEditMode }) => {
           enterBlockEditMode(pageIdx, blockIdx);
         });
       }
@@ -502,7 +502,7 @@ function setupEventListeners() {
 
     highlightBlock(pageIdx, blockIdx);
     if (state.viewer.mode === 'editing') {
-      import('./js/editor.js?v=18').then(({ enterBlockEditMode }) => {
+      import('./js/editor.js?v=22').then(({ enterBlockEditMode }) => {
         enterBlockEditMode(pageIdx, blockIdx);
       });
     }

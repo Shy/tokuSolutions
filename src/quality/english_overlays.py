@@ -31,7 +31,42 @@ def normalize_battery_codes(source: str, translation: str) -> str:
     return translation
 
 
-def normalize_parallel_quotes(source: str, translation: str) -> str:
+def accepted_quote_equivalents(previous: "ContextPage") -> dict[str, str]:
+    """Reuse unambiguous quotation pairs from source-linked accepted translation items."""
+    from pydantic import TypeAdapter
+
+    from src.quality.page_grouping import SourceMapping
+
+    rows = TypeAdapter(list[SourceMapping]).validate_python(
+        (previous.layout_provenance or {}).get("mapping", [])
+    )
+    choices: dict[str, set[str]] = {}
+    for row in rows:
+        if row["display_index"] < 0:
+            continue
+        japanese = row.get("japanese_items", [])
+        english = previous.blocks[row["display_index"]].translation.splitlines()
+        if not japanese or len(japanese) != len(english):
+            continue
+        for original, translated in zip(japanese, english, strict=True):
+            source_quotes = re.findall(r'["「“]([^"「」“”]+)["」”]', original)
+            translated_quotes = re.findall(r'["「“]([^"「」“”]+)["」”]', translated)
+            if (
+                len(source_quotes) == len(translated_quotes) == 1
+                and unexpected_letters(source_quotes[0])
+                and not unexpected_letters(translated_quotes[0])
+            ):
+                choices.setdefault(source_quotes[0], set()).add(translated_quotes[0])
+    return {
+        original: next(iter(values))
+        for original, values in choices.items()
+        if len(values) == 1
+    }
+
+
+def normalize_parallel_quotes(
+    source: str, translation: str, accepted: dict[str, str] | None = None
+) -> str:
     """Keep an existing English equivalent instead of its duplicate source quotation."""
     compact_source = re.sub(r"\s+", "", source)
     equivalents: dict[str, set[str]] = {}
@@ -53,6 +88,16 @@ def normalize_parallel_quotes(source: str, translation: str) -> str:
         replace,
         translation,
     )
+    translation = re.sub(
+        r'["「“]([^"「」“”]+)["」”]\s*\(\s*((?:[^()]|\([^()]*\))*)\s*\)',
+        replace,
+        translation,
+    )
+    for original, english in (accepted or {}).items():
+        if re.sub(r"\s+", "", original) in compact_source and not unexpected_letters(
+            english
+        ):
+            equivalents.setdefault(original, set()).add(english)
     for original, choices in equivalents.items():
         if len(choices) == 1:
             english = next(iter(choices))

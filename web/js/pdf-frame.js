@@ -1,5 +1,5 @@
-import { createManualPage } from './manual-page.js?v=18';
-import { fitRenderedManual, waitForFitFont } from './text-fit-dom.js?v=18';
+import { createManualPage } from './manual-page.js?v=22';
+import { fitRenderedManual, waitForFitFont } from './text-fit-dom.js?v=22';
 
 // Executed inside a real 1280×900 browsing context, including on phones.
 window.renderPdfPage = async (page, manualName, preferences) => {

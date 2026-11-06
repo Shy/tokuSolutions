@@ -59,6 +59,21 @@ class ContextPage(BaseModel):
     layout_provenance: dict[str, JsonValue] | None = None
 
 
+def source_matched_previous(page: ContextPage) -> ContextPage | None:
+    """Return prior decisions only when image identity and original source regions match."""
+    value = (page.layout_provenance or {}).get("previous_page")
+    if not value:
+        return None
+    previous = ContextPage.model_validate(value)
+    if previous.image != page.image or previous.source_blocks is None:
+        return None
+    if [(block.text, block.bbox) for block in previous.source_blocks] != [
+        (block.text, block.bbox) for block in page.blocks
+    ]:
+        return None
+    return previous
+
+
 class ContextManual(BaseModel):
     """A validated projection of legacy and current manual JSON."""
 

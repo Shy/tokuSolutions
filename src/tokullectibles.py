@@ -1,13 +1,14 @@
 """Product search and metadata retrieval for Tokullectibles store."""
 
 import re
+
 import requests
 from pydantic import BaseModel
-from typing import Optional
 
 
 class BlogLink(BaseModel):
     """A single blog post link."""
+
     title: str
     url: str
     translated_url: str  # Google Translate wrapped URL
@@ -19,11 +20,11 @@ class ProductInfo(BaseModel):
     name: str
     url: str
     handle: str
-    description: Optional[str] = None
+    description: str | None = None
     blog_links: list[BlogLink] = []  # Multiple relevant blog posts
 
 
-def search_tokullectibles(query: str) -> Optional[ProductInfo]:
+def search_tokullectibles(query: str) -> ProductInfo | None:
     """
     Search tokullectibles.com for a product.
 
@@ -156,7 +157,7 @@ def _check_url_exists(url: str) -> bool:
         return False
 
 
-def _extract_product_name(url: str) -> Optional[str]:
+def _extract_product_name(url: str) -> str | None:
     """
     Extract the actual product name from a Tokullectibles product page.
 
@@ -206,7 +207,7 @@ def _extract_product_name(url: str) -> Optional[str]:
         return None
 
 
-def _extract_product_description(url: str) -> Optional[str]:
+def _extract_product_description(url: str) -> str | None:
     """
     Extract product description from a Tokullectibles product page.
 
@@ -277,7 +278,12 @@ def _get_bandai_blog_links(product_name: str, max_links: int = 3) -> list[BlogLi
 
     # Clean up product name for search (remove common prefixes/suffixes)
     search_name = product_name.replace("Complete Selection Modification", "CSM")
-    search_name = re.sub(r'\s+(Limited|Clear|Edition|Set|Memorial)\b', '', search_name, flags=re.IGNORECASE)
+    search_name = re.sub(
+        r"\s+(Limited|Clear|Edition|Set|Memorial)\b",
+        "",
+        search_name,
+        flags=re.IGNORECASE,
+    )
     search_name = search_name.strip()
 
     # Try to find specific blog posts by searching
@@ -288,9 +294,11 @@ def _get_bandai_blog_links(product_name: str, max_links: int = 3) -> list[BlogLi
 
     try:
         # Perform Google search to find results
-        search_url = f"https://www.google.com/search?q={urllib.parse.quote(search_query)}"
+        search_url = (
+            f"https://www.google.com/search?q={urllib.parse.quote(search_query)}"
+        )
         headers = {
-            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
         }
         response = requests.get(search_url, headers=headers, timeout=10)
 
@@ -302,21 +310,27 @@ def _get_bandai_blog_links(product_name: str, max_links: int = 3) -> list[BlogLi
             # Filter out the blog homepage and deduplicate
             seen_urls = set()
             for match in matches:
-                if match not in seen_urls and match != f"https://{blog_domain}/" and not match.endswith("/blog/"):
+                if (
+                    match not in seen_urls
+                    and match != f"https://{blog_domain}/"
+                    and not match.endswith("/blog/")
+                ):
                     seen_urls.add(match)
 
                     # Try to extract title from URL (use last path segment)
-                    path_parts = match.rstrip('/').split('/')
-                    title = path_parts[-1].replace('-', ' ').title() if path_parts else "Blog Post"
+                    path_parts = match.rstrip("/").split("/")
+                    title = (
+                        path_parts[-1].replace("-", " ").title()
+                        if path_parts
+                        else "Blog Post"
+                    )
 
                     # Wrap in Google Translate
                     translate_url = f"https://translate.google.com/translate?sl=ja&tl=en&u={urllib.parse.quote(match)}"
 
-                    blog_links.append(BlogLink(
-                        title=title,
-                        url=match,
-                        translated_url=translate_url
-                    ))
+                    blog_links.append(
+                        BlogLink(title=title, url=match, translated_url=translate_url)
+                    )
 
                     if len(blog_links) >= max_links:
                         break
@@ -326,12 +340,16 @@ def _get_bandai_blog_links(product_name: str, max_links: int = 3) -> list[BlogLi
 
     # If no specific posts found, add a search link as fallback
     if not blog_links:
-        search_url = f"https://www.google.com/search?q={urllib.parse.quote(search_query)}"
-        blog_links.append(BlogLink(
-            title=f"Search: {search_name}",
-            url=search_url,
-            translated_url=search_url
-        ))
+        search_url = (
+            f"https://www.google.com/search?q={urllib.parse.quote(search_query)}"
+        )
+        blog_links.append(
+            BlogLink(
+                title=f"Search: {search_name}",
+                url=search_url,
+                translated_url=search_url,
+            )
+        )
 
     return blog_links
 

@@ -9,6 +9,7 @@ from pydantic import Field
 
 from src.quality.cleanup_context import ContextPage
 from src.quality.models import Artifact
+from src.quality.quantities import reconcile_polarity_symbols
 
 
 class Panel(Artifact):
@@ -378,9 +379,10 @@ def validate_translations(
         # Reconstructed Japanese may correct OCR errors, but both views must
         # retain the explicit source quantities rather than trusting the model.
         for output in ("\n".join(text.japanese_items), english):
-            if (numeric_tokens(source) | numeric_tokens(reference)) - numeric_tokens(
-                output
-            ):
+            if (
+                numeric_tokens(reconcile_polarity_symbols(source, reference))
+                | numeric_tokens(reference)
+            ) - numeric_tokens(output):
                 raise ValueError(f"{panel.id}: explicit source quantity missing")
         for japanese, pattern in required_terms.items():
             if (japanese in source or japanese in reference) and not re.search(
@@ -391,7 +393,9 @@ def validate_translations(
                 )
 
 
-def normalize_plan(page: ContextPage, proposed: PagePlan) -> PagePlan:
+def normalize_plan(
+    page: ContextPage, proposed: PagePlan, *, recover_omissions: bool = True
+) -> PagePlan:
     """Resolve redundant annotation membership and ground panels in physical columns.
 
     Rejected annotation links retain their original text. Regions excluded from
@@ -494,7 +498,7 @@ def normalize_plan(page: ContextPage, proposed: PagePlan) -> PagePlan:
     plan.panels = panels
     # Close small OCR omissions within each grounded panel, without stealing
     # another panel's regions or following text across a large vertical gap.
-    for panel in plan.panels:
+    for panel in plan.panels if recover_omissions else []:
         if panel.kind != "prose":
             continue
         for _round in range(3):
@@ -561,7 +565,9 @@ def grounded_panel(
         _box(page, identity)[3] / max(1, len(page.blocks[identity].text.splitlines()))
         for identity in panel.source_ids
     )
-    if panel.kind == "prose":
+    if panel.kind == "prose" and incomplete_source_clause(
+        "\n".join(page.blocks[identity].text for identity in panel.source_ids)
+    ):
         for _round in range(3):
             bottom = max(line.bbox[1] + line.bbox[3] for line in selected)
             extra = [

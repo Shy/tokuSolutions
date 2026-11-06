@@ -43,6 +43,7 @@ from src.quality.cleanup_context import (
     literal_label,
 )
 from src.quality.core import write_bytes
+from src.quality.core import write_json as _write
 from src.quality.glossary import (
     Glossary,
     glossary_flags,
@@ -218,10 +219,6 @@ def guard_repairs(
 
 def _read(path: Path) -> ManualData:
     return cast(ManualData, json.loads(path.read_bytes()))
-
-
-def _write(path: Path, value: object) -> None:
-    write_bytes(path, (json.dumps(value, ensure_ascii=False, indent=2) + "\n").encode())
 
 
 async def _audit(

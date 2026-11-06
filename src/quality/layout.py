@@ -38,6 +38,7 @@ class RegionMetric(Artifact):
     """A browser measurement at device scale one."""
 
     block_index: int
+    projection_index: int | None = None
     font_px: float = Field(gt=0)
     overflow: bool
     fit_overflow: bool | None = None

@@ -1,8 +1,8 @@
 // GitHub integration module
-import { GITHUB_CONFIG } from './config.js?v=18';
-import { state, EditSession } from './state.js?v=18';
-import { ErrorHandler } from './errors.js?v=18';
-import { serializeManual } from './manual-data.js?v=18';
+import { GITHUB_CONFIG } from './config.js?v=22';
+import { state, EditSession } from './state.js?v=22';
+import { ErrorHandler } from './errors.js?v=22';
+import { serializeManual } from './manual-data.js?v=22';
 
 // Submit edits via GitHub PR (Hybrid Approach: Copy JSON + Open GitHub Editor)
 export async function submitToGitHub(currentManual) {

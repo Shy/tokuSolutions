@@ -7,7 +7,7 @@
     "source_url": "",
     "blog_url": "",
     "pages": 8,
-    "blocks": 106,
+    "blocks": 108,
     "thumbnail": "pages/page-0.webp",
     "tags": ["dx", "kamen-rider", "premium"],
     "semantic_layout": 1
@@ -36,15 +36,31 @@
           "layout": "panel"
         },
         {
+          "text": "※構造上、振るとカタカタという物理音がします。\n(本体に装填されている刀身パーツも同様です。)",
+          "translation": "Due to the product's construction, shaking it can produce a rattling physical sound. (The blade parts installed in the main unit can also make this sound.)",
+          "bbox": [
+            0.06016868284344673, 0.8210000000000001, 0.4534313171565532, 0.019350200176238896
+          ],
+          "layout": "panel"
+        },
+        {
           "text": "△ 注意",
           "translation": "△ Caution",
           "bbox": [0.4416680738925934, 0.8567, 0.1136408536434173, 0.011306993770599294],
           "layout": "panel"
         },
         {
-          "text": "お買い上げのお客様へ 必ずお読みください。\n●本商品の対象年齢は15才以上です。 対象年齢未満のお子様には絶対に与えないでください。 ●小さな部品がありますので、小さなお子様が誤って飲み込まない\nように注意してください。 窒息などの危険があります。 ●耳の近くで使用してはいけません。 誤って使用すると、聴覚を損なう恐れがあります。●可動部分には指などを\n入れないでください。はさまれてケガをする恐れがあります。 本商品には電子部品を使用しておりますので、ペースメーカーをご使用の方はご注意ください。 《電池を\n誤使用すると発熱・ 破裂 液漏れの恐れがあります。 下記に注意してください》 二次電池(充電式電池) は、絶対に使用しないでください。 ●古い電池と新しい\n電池、いろいろな種類の電池をまぜて使わないでください。 ●十一(プラスマイナス) を正しくセットしてください。 ●遊んだ後は必ずスイッチを切り電池をはずしてくだ\nさい。 電池を入れたままにしておくと、液漏れの恐れがあり危険です。ショートさせたり充電、分解、 加熱、 火の中に入れたりしないでください。 ●万一、電池から\n漏れた液が目に入ったときはすぐに大量の水で洗い、医師に相談してください。 皮膚や服に付いた時は水で洗ってください。 ●廃棄するときは、自治体の廃棄物\n処理の指示に従ってください。",
-          "translation": "• To the purchaser: Read before use.\n• This product is for ages 15 and up. Do not give it to children younger than the specified age under any circumstances.\n• This product contains small parts. Take care that young children do not swallow them, as they pose a choking hazard.\n• Do not use this product near the ear. Incorrect use may damage hearing.\n• Do not put fingers or other objects into moving parts. You may get pinched and injured.\n• This product contains electronic parts; people with pacemakers should take care.\n• Improper use of batteries can cause heating, bursting, or leakage. Observe the following precautions.\n• Do not use secondary (rechargeable) batteries under any circumstances.\n• Do not mix old and new batteries or different types of batteries.\n• Insert batteries with the correct +− (plus/minus) polarity.\n• After playing, always turn the switch off and remove the batteries. Leaving batteries installed may cause leakage and is dangerous.\n• Do not short-circuit, charge, disassemble, heat, or throw batteries into a fire.\n• If battery fluid gets into the eyes, rinse immediately with plenty of water and consult a physician. If it contacts skin or clothing, wash with water.\n• When disposing of this product or batteries, follow your local municipal waste disposal regulations.",
-          "bbox": [0.036589480251073836, 0.869362364768982, 0.9274256354868411, 0.069237635231018],
+          "text": "お買い上げのお客様へ 必ずお読みください。",
+          "translation": "To customers: Please read this carefully.",
+          "bbox": [0.3394915268421173, 0.869362364768982, 0.3216215460300445, 0.008737635231018004],
+          "layout": "panel"
+        },
+        {
+          "text": "●本商品の対象年齢は15才以上です。 対象年齢未満のお子様には絶対に与えないでください。 ●小さな部品がありますので、小さなお子様が誤って飲み込まない\nように注意してください。 窒息などの危険があります。 ●耳の近くで使用してはいけません。 誤って使用すると、聴覚を損なう恐れがあります。●可動部分には指などを\n入れないでください。はさまれてケガをする恐れがあります。 本商品には電子部品を使用しておりますので、ペースメーカーをご使用の方はご注意ください。 《電池を\n誤使用すると発熱・ 破裂 液漏れの恐れがあります。 下記に注意してください》 二次電池(充電式電池) は、絶対に使用しないでください。 ●古い電池と新しい\n電池、いろいろな種類の電池をまぜて使わないでください。 ●十一(プラスマイナス) を正しくセットしてください。 ●遊んだ後は必ずスイッチを切り電池をはずしてくだ\nさい。 電池を入れたままにしておくと、液漏れの恐れがあり危険です。ショートさせたり充電、分解、 加熱、 火の中に入れたりしないでください。 ●万一、電池から\n漏れた液が目に入ったときはすぐに大量の水で洗い、医師に相談してください。 皮膚や服に付いた時は水で洗ってください。 ●廃棄するときは、自治体の廃棄物\n処理の指示に従ってください。",
+          "translation": "• This product is for ages 15 and up. Do not give it to children under 15.\n• This product contains small parts. Keep it away from young children to prevent accidental swallowing. There is a risk of choking.\n• Do not use this product near the ear. Accidental use may damage hearing.\n• Do not put fingers or other objects into moving parts. They may get pinched and cause injury.\n• This product contains electronic components; people with pacemakers should take care.\n• If you use batteries incorrectly they can overheat, rupture, or leak. Follow the precautions below.\n• Do not use secondary (rechargeable) batteries under any circumstances.\n• Do not mix old and new batteries or different types of batteries.\n• Insert the batteries with the correct +/− (polarity).\n• Always turn the power off and remove the batteries after playing. Leaving batteries installed may cause leakage and is dangerous.\n• Do not short-circuit batteries, charge them, disassemble them, heat them, or put them in fire.\n• If battery fluid gets into the eyes, rinse immediately with plenty of water and consult a doctor. If it contacts skin or clothing, wash it with water.\n• When disposing of the product or batteries, follow your local municipality's waste disposal instructions.",
+          "bbox": [
+            0.036589480251073836, 0.8804686174392701, 0.9274256354868411, 0.058131382560729916
+          ],
           "layout": "panel"
         },
         {
@@ -55,7 +71,7 @@
         },
         {
           "text": "●本商品は精密な電子部品で構成されています。 落としたり、水にぬらしたり、 汚したり、 分解したりしないでください。 また、 高温・低温になる所での使用、保管はさけて\nください。プラスチック梱包材は開封後にはすぐに捨ててください。●本商品を樹脂製のソファーやシート、タイルなどの上に置かないでください。 長時間接触して\nいると色が移る場合があります。 ●可動部分・取付部分を無理な方向に強く引っ張ったり、曲げたりしないでください。 ●発音の一部にイントネーションが違っていたり、\n商品の特性上聞き取りにくいものがありますが、ご了承ください。",
-          "translation": "• This product contains delicate electronic components. Do not drop it, get it wet, soil it, or disassemble it. Also avoid using or storing it in places that become very hot or very cold. Throw away plastic packaging immediately after opening.\n• Do not place this product on resin sofas, seats, tiles, or similar surfaces. Prolonged contact may cause color transfer.\n• Do not strongly pull or bend movable or attached parts in directions they are not meant to go.\n• Some voice lines may have different intonation or may be hard to hear because of the product’s characteristics.",
+          "translation": "• This product contains precision electronic components. Do not drop it, get it wet, soil it, or disassemble it. Also avoid using or storing it where it will become very hot or very cold. Throw away plastic packaging immediately after opening.\n• Do not place this product on resin sofas, seats, tiles or similar surfaces. Color may transfer if it stays in contact for a long time.\n• Do not pull or bend movable parts or attachment parts forcefully in unnatural directions.\n• Some voice lines have different intonation or may be hard to hear because of the product's characteristics; please understand this.",
           "bbox": [0.0269, 0.9532, 0.9401380845069884, 0.02959999999999985],
           "layout": "panel"
         },
@@ -128,11 +144,6 @@
           "text": "背面ボタン",
           "translation": "Back button",
           "bbox": [0.7044, 0.4939, 0.0979, 0.0065]
-        },
-        {
-          "text": "※構造上、振るとカタカタという物理音がします。\n(本体に装填されている刀身パーツも同様です。)",
-          "translation": "*Because of the structure, shaking it may produce a rattling noise. (The blade part installed in the main unit behaves the same.)",
-          "bbox": [0.0617, 0.8225, 0.4504, 0.0163]
         }
       ],
       "image": "pages/page-0.webp",
@@ -268,7 +279,7 @@
         "plan": {
           "panels": [
             {
-              "id": "p1-native-b",
+              "id": "p1",
               "kind": "heading",
               "source_ids": [2]
             },
@@ -284,68 +295,90 @@
             },
             {
               "id": "p4",
+              "kind": "prose",
+              "source_ids": [18]
+            },
+            {
+              "id": "p5",
               "kind": "heading",
               "source_ids": [19]
             },
             {
-              "id": "p5",
-              "kind": "prose",
-              "source_ids": [20, 21]
+              "id": "p6",
+              "kind": "heading",
+              "source_ids": [20]
             },
             {
-              "id": "p6",
+              "id": "p7",
+              "kind": "prose",
+              "source_ids": [21]
+            },
+            {
+              "id": "p8",
               "kind": "heading",
               "source_ids": [22]
             },
             {
-              "id": "p7",
+              "id": "p9",
               "kind": "prose",
               "source_ids": [23]
             }
           ],
           "furigana": [],
-          "notes": [
-            "Conservative panel fallback: Panel p1 would mask native artwork 0",
-            "Retained p1-native-a unchanged: Panel p1-native-a would mask native artwork 0"
-          ],
+          "notes": ["p3: excluded other-column members; retained separately"],
           "native_artwork": [0, 24]
         },
         "mapping": [
           {
             "display_index": 0,
-            "panel_id": "p1-native-b",
             "source_ids": [2],
             "furigana_ids": [],
+            "panel_id": "p1",
             "japanese_items": ["の遊び方"]
           },
           {
             "display_index": 1,
-            "panel_id": "p2",
             "source_ids": [3],
             "furigana_ids": [],
+            "panel_id": "p2",
             "japanese_items": ["セット内容"]
           },
           {
             "display_index": 2,
-            "panel_id": "p3",
             "source_ids": [5],
             "furigana_ids": [],
+            "panel_id": "p3",
             "japanese_items": ["ケンモード用刀身パーツ... 1"]
           },
           {
             "display_index": 3,
-            "panel_id": "p4",
-            "source_ids": [19],
+            "source_ids": [18],
             "furigana_ids": [],
-            "japanese_items": ["△ 注意"]
+            "panel_id": "p4",
+            "japanese_items": [
+              "※構造上、振るとカタカタという物理音がします。 (本体に装填されている刀身パーツも同様です。)"
+            ]
           },
           {
             "display_index": 4,
-            "panel_id": "p5",
-            "source_ids": [20, 21],
+            "source_ids": [19],
             "furigana_ids": [],
+            "panel_id": "p5",
+            "japanese_items": ["△ 注意"]
+          },
+          {
+            "display_index": 5,
+            "source_ids": [20],
+            "furigana_ids": [],
+            "panel_id": "p6",
+            "japanese_items": ["お買い上げのお客様へ 必ずお読みください。"]
+          },
+          {
+            "display_index": 6,
+            "source_ids": [21],
+            "furigana_ids": [],
+            "panel_id": "p7",
             "japanese_items": [
-              "お買い上げのお客様へ　必ずお読みください。",
               "本商品の対象年齢は15才以上です。対象年齢未満のお子様には絶対に与えないでください。",
               "小さな部品がありますので、小さなお子様が誤って飲み込まないように注意してください。窒息などの危険があります。",
               "耳の近くで使用してはいけません。誤って使用すると、聴覚を損なう恐れがあります。",
@@ -356,23 +389,23 @@
               "古い電池と新しい電池、いろいろな種類の電池をまぜて使わないでください。",
               "＋−（プラスマイナス）を正しくセットしてください。",
               "遊んだ後は必ずスイッチを切り電池をはずしてください。電池を入れたままにしておくと、液漏れの恐れがあり危険です。",
-              "ショートさせたり充電、分解、加熱、火の中に入れたりしないでください。",
+              "電池をショートさせたり、充電、分解、加熱、火の中に入れたりしないでください。",
               "万一、電池から漏れた液が目に入ったときはすぐに大量の水で洗い、医師に相談してください。皮膚や服に付いた時は水で洗ってください。",
               "廃棄するときは、自治体の廃棄物処理の指示に従ってください。"
             ]
           },
           {
-            "display_index": 5,
-            "panel_id": "p6",
+            "display_index": 7,
             "source_ids": [22],
             "furigana_ids": [],
+            "panel_id": "p8",
             "japanese_items": ["<使用上の注意>"]
           },
           {
-            "display_index": 6,
-            "panel_id": "p7",
+            "display_index": 8,
             "source_ids": [23],
             "furigana_ids": [],
+            "panel_id": "p9",
             "japanese_items": [
               "本商品は精密な電子部品で構成されています。落としたり、水にぬらしたり、汚したり、分解したりしないでください。また、高温・低温になる所での使用、保管はさけてください。プラスチック梱包材は開封後にはすぐに捨ててください。",
               "本商品を樹脂製のソファーやシート、タイルなどの上に置かないでください。長時間接触していると色が移る場合があります。",
@@ -387,78 +420,73 @@
             "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 7,
+            "display_index": 9,
             "source_ids": [1],
             "furigana_ids": []
           },
           {
-            "display_index": 8,
+            "display_index": 10,
             "source_ids": [4],
             "furigana_ids": []
           },
           {
-            "display_index": 9,
+            "display_index": 11,
             "source_ids": [6],
             "furigana_ids": []
           },
           {
-            "display_index": 10,
+            "display_index": 12,
             "source_ids": [7],
             "furigana_ids": []
           },
           {
-            "display_index": 11,
+            "display_index": 13,
             "source_ids": [8],
             "furigana_ids": []
           },
           {
-            "display_index": 12,
+            "display_index": 14,
             "source_ids": [9],
             "furigana_ids": []
           },
           {
-            "display_index": 13,
+            "display_index": 15,
             "source_ids": [10],
             "furigana_ids": []
           },
           {
-            "display_index": 14,
+            "display_index": 16,
             "source_ids": [11],
             "furigana_ids": []
           },
           {
-            "display_index": 15,
+            "display_index": 17,
             "source_ids": [12],
             "furigana_ids": []
           },
           {
-            "display_index": 16,
+            "display_index": 18,
             "source_ids": [13],
             "furigana_ids": []
           },
           {
-            "display_index": 17,
+            "display_index": 19,
             "source_ids": [14],
             "furigana_ids": []
           },
           {
-            "display_index": 18,
+            "display_index": 20,
             "source_ids": [15],
             "furigana_ids": []
           },
           {
-            "display_index": 19,
+            "display_index": 21,
             "source_ids": [16],
             "furigana_ids": []
           },
           {
-            "display_index": 20,
+            "display_index": 22,
             "source_ids": [17],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 21,
-            "source_ids": [18],
             "furigana_ids": []
           },
           {
@@ -736,7 +764,864 @@
               0.493954062461853, 0.9919425249099731, 0.008464336395263672, 0.004790902137756348
             ]
           }
-        ]
+        ],
+        "structure": {
+          "version": 1,
+          "variants": [
+            {
+              "provider": "docling",
+              "regions": [
+                {
+                  "id": "#/texts/0",
+                  "kind": "section_header",
+                  "bbox": [
+                    0.3526803708182184, 0.006452445476835767, 0.11196202248197414,
+                    0.01109014066331135
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/pictures/0",
+                  "kind": "picture",
+                  "bbox": [
+                    0.2552532221646917, 0.018086228145797738, 0.5727210844923185,
+                    0.029874890430085982
+                  ],
+                  "source_ids": [1, 2]
+                },
+                {
+                  "id": "#/texts/1",
+                  "kind": "text",
+                  "bbox": [
+                    0.26534999328227865, 0.02036553103626279, 0.160105692149223, 0.02762453219770284
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/2",
+                  "kind": "text",
+                  "bbox": [
+                    0.42489587531909173, 0.02036553103626279, 0.1281965157418603,
+                    0.02762453219770284
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/3",
+                  "kind": "text",
+                  "bbox": [
+                    0.5525325809485422, 0.02036553103626279, 0.10300506068341614,
+                    0.02762453219770284
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/4",
+                  "kind": "text",
+                  "bbox": [
+                    0.6549778315195485, 0.02036553103626279, 0.07725379551256213,
+                    0.02762453219770284
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/5",
+                  "kind": "text",
+                  "bbox": [
+                    0.3319673966590532, 0.043957284810943395, 0.10748354158269519,
+                    0.0024196670538133955
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/6",
+                  "kind": "text",
+                  "bbox": [
+                    0.4288145461059608, 0.035286811201445306, 0.01791392359711584,
+                    0.01532455800748493
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/7",
+                  "kind": "text",
+                  "bbox": [
+                    0.4786376461104393, 0.043957284810943395, 0.025191455058444175,
+                    0.0024196670538133955
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/8",
+                  "kind": "text",
+                  "bbox": [
+                    0.5245420753280486, 0.043957284810943395, 0.008397151686148057,
+                    0.0024196670538133955
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/9",
+                  "kind": "text",
+                  "bbox": [
+                    0.5497335303864929, 0.035286811201445306, 0.013995252810246826,
+                    0.01532455800748493
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/10",
+                  "kind": "text",
+                  "bbox": [
+                    0.5777240360069864, 0.043957284810943395, 0.00783734157373822,
+                    0.0024196670538133955
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/11",
+                  "kind": "text",
+                  "bbox": [
+                    0.6023556809530207, 0.043957284810943395, 0.008956961798557896,
+                    0.0024196670538133955
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/12",
+                  "kind": "text",
+                  "bbox": [
+                    0.7025616910743875, 0.03750483933410763, 0.02743069550808372,
+                    0.009073751451800232
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/13",
+                  "kind": "text",
+                  "bbox": [
+                    0.7400689686058488, 0.036496644728352005, 0.05598101124098702,
+                    0.010686862821009209
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/14",
+                  "kind": "text",
+                  "bbox": [
+                    0.7982892202964753, 0.03669828364950321, 0.028550315732903397, 0.010485223899858
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/pictures/1",
+                  "kind": "picture",
+                  "bbox": [
+                    0.027558742753611316, 0.051286547475166734, 0.9418869146564663,
+                    0.7975957932754757
+                  ],
+                  "source_ids": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
+                },
+                {
+                  "id": "#/texts/15",
+                  "kind": "text",
+                  "bbox": [
+                    0.2015316404675534, 0.05726545360691707, 0.23735948766178508,
+                    0.008065556846044606
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/16",
+                  "kind": "text",
+                  "bbox": [
+                    0.26702942361950827, 0.05645889792231251, 0.0414259483183304,
+                    0.010485223899858138
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/17",
+                  "kind": "text",
+                  "bbox": [
+                    0.3078955618254288, 0.05645889792231251, 0.02015316404675534,
+                    0.010485223899858138
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/18",
+                  "kind": "text",
+                  "bbox": [
+                    0.32748891575977424, 0.05645889792231251, 0.024631644946034287,
+                    0.010485223899858138
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/19",
+                  "kind": "text",
+                  "bbox": [
+                    0.3515607505933987, 0.05645889792231251, 0.03974651798110079,
+                    0.010485223899858138
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/20",
+                  "kind": "text",
+                  "bbox": [
+                    0.3907474584620896, 0.05645889792231251, 0.02966993595772317,
+                    0.010485223899858138
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/21",
+                  "kind": "text",
+                  "bbox": [
+                    0.4198575843074029, 0.05645889792231251, 0.03414841685700207,
+                    0.010485223899858138
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/22",
+                  "kind": "text",
+                  "bbox": [
+                    0.4786376461104393, 0.05746709252806814, 0.043665188767969904,
+                    0.007662279003742465
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/23",
+                  "kind": "text",
+                  "bbox": [
+                    0.5251018854404585, 0.05787037037037042, 0.03582784719423168,
+                    0.007057362240288978
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/24",
+                  "kind": "text",
+                  "bbox": [
+                    0.5732455551077074, 0.05746709252806814, 0.014555062922656665,
+                    0.007662279003742465
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/25",
+                  "kind": "text",
+                  "bbox": [
+                    0.5900398584800035, 0.05766873144921921, 0.021272784271575113,
+                    0.007662279003742465
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/26",
+                  "kind": "text",
+                  "bbox": [
+                    0.6163509337632674, 0.05726545360691707, 0.0632585427023154,
+                    0.008065556846044606
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/27",
+                  "kind": "text",
+                  "bbox": [
+                    0.6846477674772716, 0.05645889792231251, 0.029110125845313237,
+                    0.010485223899858138
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/28",
+                  "kind": "text",
+                  "bbox": [
+                    0.7131980832101751, 0.05807200929152149, 0.015114873035066504,
+                    0.007057362240289116
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/29",
+                  "kind": "text",
+                  "bbox": [
+                    0.7311120068072908, 0.05787037037037042, 0.034708226969412004,
+                    0.006855723319137908
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/30",
+                  "kind": "text",
+                  "bbox": [
+                    0.20041202024273364, 0.07037198348173954, 0.04198575843074031,
+                    0.007460640082591394
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/31",
+                  "kind": "text",
+                  "bbox": [
+                    0.246316449460343, 0.07017034456058847, 0.03694746741905145,
+                    0.007662279003742465
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/32",
+                  "kind": "text",
+                  "bbox": [
+                    0.28774239777867344, 0.07158181700864624, 0.015674683147476342,
+                    0.006250806555684696
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/33",
+                  "kind": "text",
+                  "bbox": [
+                    0.306775941600609, 0.07198509485094852, 0.01623449325988628,
+                    0.0058475287133824185
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/34",
+                  "kind": "text",
+                  "bbox": [
+                    0.328608535984594, 0.07037198348173954, 0.017354113484706002,
+                    0.007460640082591394
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/35",
+                  "kind": "text",
+                  "bbox": [
+                    0.34820188991893947, 0.07077526132404181, 0.021272784271575064,
+                    0.007057362240289116
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/36",
+                  "kind": "text",
+                  "bbox": [
+                    0.3728335348649738, 0.07077526132404181, 0.03638765730664157,
+                    0.007057362240289116
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/37",
+                  "kind": "text",
+                  "bbox": [
+                    0.41537910340812395, 0.07017034456058847, 0.015114873035066456,
+                    0.007662279003742465
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/38",
+                  "kind": "text",
+                  "bbox": [
+                    0.4332930270052398, 0.07057362240289075, 0.03414841685700207,
+                    0.006654084397986837
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/39",
+                  "kind": "section_header",
+                  "bbox": [
+                    0.3442832191320704, 0.08791456962188665, 0.28774239777867344,
+                    0.022785198090076186
+                  ],
+                  "source_ids": [7]
+                },
+                {
+                  "id": "#/texts/40",
+                  "kind": "text",
+                  "bbox": [
+                    0.7714183349008016, 0.10727190605239381, 0.034148416857002165,
+                    0.006654084397986837
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/41",
+                  "kind": "text",
+                  "bbox": [
+                    0.8106050427694925, 0.10787682281584716, 0.017354113484705953,
+                    0.0060491676345334885
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/42",
+                  "kind": "text",
+                  "bbox": [
+                    0.3073357517130189, 0.2746322106078204, 0.11420126293161359,
+                    0.007057362240289116
+                  ],
+                  "source_ids": [12]
+                },
+                {
+                  "id": "#/texts/43",
+                  "kind": "text",
+                  "bbox": [
+                    0.3655560034036454, 0.273825654923216, 0.026870885395673786,
+                    0.009678668215253582
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/44",
+                  "kind": "text",
+                  "bbox": [
+                    0.3924268887993192, 0.273825654923216, 0.013435442697836893,
+                    0.009678668215253582
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/45",
+                  "kind": "text",
+                  "bbox": [
+                    0.4058623314971561, 0.273825654923216, 0.01791392359711589, 0.009678668215253582
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/46",
+                  "kind": "text",
+                  "bbox": [
+                    0.7053607416364368, 0.4938137178990838, 0.03750727753146129,
+                    0.006855723319137908
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/47",
+                  "kind": "text",
+                  "bbox": [
+                    0.7462268798423574, 0.4938137178990838, 0.018473733709525725,
+                    0.006654084397986837
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/48",
+                  "kind": "text",
+                  "bbox": [
+                    0.7669398540015226, 0.4930071622144793, 0.022952214608804627,
+                    0.010686862821009141
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/49",
+                  "kind": "text",
+                  "bbox": [
+                    0.7893322584979174, 0.49441863466253716, 0.013435442697836893,
+                    0.005847528713382349
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/50",
+                  "kind": "text",
+                  "bbox": [
+                    0.16794303372296115, 0.5151874435411021, 0.07893322584979175,
+                    0.006855723319137977
+                  ],
+                  "source_ids": [11]
+                },
+                {
+                  "id": "#/texts/51",
+                  "kind": "text",
+                  "bbox": [
+                    0.2188857539522594, 0.5143808878564977, 0.015114873035066504, 0.010485223899858
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/52",
+                  "kind": "text",
+                  "bbox": [
+                    0.233440816874916, 0.5143808878564977, 0.015114873035066504, 0.010485223899858
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/53",
+                  "kind": "text",
+                  "bbox": [
+                    0.5256616955528685, 0.5537004774809653, 0.05598101124098702,
+                    0.0070573622402890475
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/54",
+                  "kind": "text",
+                  "bbox": [
+                    0.5855613775807246, 0.5528939217963609, 0.022952214608804627,
+                    0.009678668215253582
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/55",
+                  "kind": "text",
+                  "bbox": [
+                    0.6085135921895293, 0.5555152277713253, 0.011196202248197442,
+                    0.004839334107626791
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/56",
+                  "kind": "text",
+                  "bbox": [
+                    0.6219490348873661, 0.5541037553232675, 0.016794303372296114,
+                    0.006250806555684628
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/57",
+                  "kind": "section_header",
+                  "bbox": [
+                    0.3375654977831519, 0.6377839076009808, 0.32916834609700385,
+                    0.011090140663311487
+                  ],
+                  "source_ids": [15]
+                },
+                {
+                  "id": "#/texts/58",
+                  "kind": "section_header",
+                  "bbox": [
+                    0.32357024497290515, 0.7392082849399924, 0.35827847194231716,
+                    0.01693766937669377
+                  ],
+                  "source_ids": [16]
+                },
+                {
+                  "id": "#/texts/59",
+                  "kind": "text",
+                  "bbox": [
+                    0.06325854270231536, 0.8216786036907988, 0.44616865959066676,
+                    0.02036553103626279
+                  ],
+                  "source_ids": [18]
+                },
+                {
+                  "id": "#/texts/60",
+                  "kind": "text",
+                  "bbox": [
+                    0.037507277531461325, 0.8579736094979997, 0.001119620224819743,
+                    0.008872112530649163
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/61",
+                  "kind": "section_header",
+                  "bbox": [
+                    0.4444892292534372, 0.8567637759710931, 0.10972278203233458,
+                    0.011493418505613629
+                  ],
+                  "source_ids": [19]
+                },
+                {
+                  "id": "#/texts/62",
+                  "kind": "text",
+                  "bbox": [
+                    0.341484168570021, 0.8700719447670667, 0.3168525236239867, 0.007863917924893535
+                  ],
+                  "source_ids": [20]
+                },
+                {
+                  "id": "#/texts/63",
+                  "kind": "text",
+                  "bbox": [
+                    0.038626897756281066, 0.8813637243515293, 0.9242464955886963,
+                    0.056055620080010374
+                  ],
+                  "source_ids": [21]
+                },
+                {
+                  "id": "#/texts/64",
+                  "kind": "text",
+                  "bbox": [
+                    0.030789556182542876, 0.9464930958833399, 0.09740695955931747,
+                    0.007662279003742327
+                  ],
+                  "source_ids": [22]
+                },
+                {
+                  "id": "#/texts/65",
+                  "kind": "text",
+                  "bbox": [
+                    0.029110125845313264, 0.9541553748870822, 0.9371221281741232,
+                    0.029036004645760744
+                  ],
+                  "source_ids": [23]
+                },
+                {
+                  "id": "#/pictures/2",
+                  "kind": "picture",
+                  "bbox": [
+                    0.027649226604692087, 0.9533951931161201, 0.015132904052734377,
+                    0.0062895732173896155
+                  ],
+                  "source_ids": []
+                }
+              ],
+              "assignments": {
+                "7": "#/texts/39",
+                "11": "#/texts/50",
+                "12": "#/texts/42",
+                "15": "#/texts/57",
+                "16": "#/texts/58",
+                "18": "#/texts/59",
+                "19": "#/texts/61",
+                "20": "#/texts/62",
+                "21": "#/texts/63",
+                "22": "#/texts/64",
+                "23": "#/texts/65"
+              }
+            },
+            {
+              "provider": "google-layout-pretrained-layout-parser-v1.0-2024-06-03",
+              "regions": [
+                {
+                  "id": "1",
+                  "kind": "text",
+                  "bbox": [0.036666665, 0.06122449, 0.12499999499999999, 0.009603839999999995],
+                  "source_ids": [3]
+                },
+                {
+                  "id": "2",
+                  "kind": "text",
+                  "bbox": [0.059166666, 0.0882353, 0.08250000399999999, 0.0072028749999999975],
+                  "source_ids": [6]
+                },
+                {
+                  "id": "3",
+                  "kind": "text",
+                  "bbox": [0.061666667, 0.1077431, 0.06333333299999999, 0.008103236],
+                  "source_ids": [8]
+                },
+                {
+                  "id": "4",
+                  "kind": "text",
+                  "bbox": [0.060833335, 0.41356543, 0.064166665, 0.008403369999999966],
+                  "source_ids": [10]
+                },
+                {
+                  "id": "5",
+                  "kind": "text",
+                  "bbox": [0.30916667, 0.0069027613, 0.15500000000000003, 0.009903962699999998],
+                  "source_ids": [0]
+                },
+                {
+                  "id": "6",
+                  "kind": "text",
+                  "bbox": [0.33, 0.043817528, 0.10833333, 0.0024009619999999995],
+                  "source_ids": []
+                },
+                {
+                  "id": "7",
+                  "kind": "text",
+                  "bbox": [0.50166667, 0.043817528, 0.08249998000000003, 0.0024009619999999995],
+                  "source_ids": []
+                },
+                {
+                  "id": "8",
+                  "kind": "text",
+                  "bbox": [0.7008333, 0.036314525, 0.12416669999999996, 0.010804320999999999],
+                  "source_ids": [2]
+                },
+                {
+                  "id": "9",
+                  "kind": "text",
+                  "bbox": [0.19916667, 0.05672269, 0.56583333, 0.021008405],
+                  "source_ids": [4, 5]
+                },
+                {
+                  "id": "10",
+                  "kind": "text",
+                  "bbox": [0.16666667, 0.5153061, 0.07916667000000002, 0.006902770000000058],
+                  "source_ids": [11]
+                },
+                {
+                  "id": "11",
+                  "kind": "text",
+                  "bbox": [0.34416667, 0.09363745, 0.28416666, 0.012605050000000007],
+                  "source_ids": [7]
+                },
+                {
+                  "id": "12",
+                  "kind": "text",
+                  "bbox": [0.76916665, 0.1077431, 0.05833335000000006, 0.006002396000000007],
+                  "source_ids": [9]
+                },
+                {
+                  "id": "13",
+                  "kind": "text",
+                  "bbox": [0.30416667, 0.27430972, 0.11749998, 0.007503010000000032],
+                  "source_ids": [12]
+                },
+                {
+                  "id": "14",
+                  "kind": "text",
+                  "bbox": [0.44666666, 0.31542617, 0.06999999000000001, 0.006602649999999988],
+                  "source_ids": [13]
+                },
+                {
+                  "id": "15",
+                  "kind": "text",
+                  "bbox": [0.525, 0.5534214, 0.11333329999999997, 0.007202840000000044],
+                  "source_ids": [14]
+                },
+                {
+                  "id": "16",
+                  "kind": "text",
+                  "bbox": [0.33666667, 0.6377551, 0.32750003, 0.011404569999999947],
+                  "source_ids": [15]
+                },
+                {
+                  "id": "17",
+                  "kind": "text",
+                  "bbox": [0.32166666, 0.74009603, 0.35750004, 0.011704669999999973],
+                  "source_ids": [16]
+                },
+                {
+                  "id": "18",
+                  "kind": "text",
+                  "bbox": [0.7033333, 0.49369746, 0.0983333999999999, 0.006902740000000074],
+                  "source_ids": [17]
+                },
+                {
+                  "id": "19",
+                  "kind": "text",
+                  "bbox": [0.061666667, 0.8220288, 0.425000013, 0.007803160000000031],
+                  "source_ids": []
+                },
+                {
+                  "id": "20",
+                  "kind": "text",
+                  "bbox": [0.0825, 0.8316327, 0.4233333, 0.008103170000000048],
+                  "source_ids": []
+                },
+                {
+                  "id": "21",
+                  "kind": "text",
+                  "bbox": [0.44166666, 0.8580432, 0.11000003999999997, 0.008403350000000032],
+                  "source_ids": [19]
+                },
+                {
+                  "id": "22",
+                  "kind": "text",
+                  "bbox": [0.34, 0.8709484, 0.31749999999999995, 0.006302499999999989],
+                  "source_ids": [20]
+                },
+                {
+                  "id": "23",
+                  "kind": "text",
+                  "bbox": [0.035833333, 0.88205284, 0.925833307, 0.05582231000000004],
+                  "source_ids": [21]
+                },
+                {
+                  "id": "24",
+                  "kind": "text",
+                  "bbox": [0.028333334, 0.9471789, 0.096666666, 0.0054021499999999945],
+                  "source_ids": [22]
+                },
+                {
+                  "id": "25",
+                  "kind": "text",
+                  "bbox": [0.026666667, 0.9546819, 0.938333333, 0.027310900000000027],
+                  "source_ids": [23]
+                },
+                {
+                  "id": "26",
+                  "kind": "text",
+                  "bbox": [0.49083334, 0.992497, 0.014166659999999998, 0.0045018],
+                  "source_ids": [24]
+                }
+              ],
+              "assignments": {
+                "0": "5",
+                "2": "8",
+                "3": "1",
+                "4": "9",
+                "5": "9",
+                "6": "2",
+                "7": "11",
+                "8": "3",
+                "9": "12",
+                "10": "4",
+                "11": "10",
+                "12": "13",
+                "13": "14",
+                "14": "15",
+                "15": "16",
+                "16": "17",
+                "17": "18",
+                "19": "21",
+                "20": "22",
+                "21": "23",
+                "22": "24",
+                "23": "25",
+                "24": "26"
+              }
+            }
+          ],
+          "unmatched_source_ids": [1],
+          "ambiguous_source_ids": [],
+          "conflicts": [],
+          "continuation_source_ids": []
+        },
+        "row_layout": {
+          "1": {
+            "translation": "Set Contents",
+            "rows": [
+              {
+                "text": "セット内容",
+                "translation": "Set Contents",
+                "bbox": [
+                  0.029008863819500404, 0.050522648083623695, 0.16680096696212732,
+                  0.03077816492450639
+                ],
+                "line_ids": [4]
+              }
+            ]
+          },
+          "21": {
+            "translation": "Ken Mode blade part",
+            "rows": [
+              {
+                "text": "ケンモード用刀身パーツ",
+                "translation": "Ken Mode blade part",
+                "bbox": [
+                  0.03384367445608381, 0.7366434378629501, 0.9323126510878323, 0.03281068524970964
+                ],
+                "line_ids": [18]
+              }
+            ]
+          }
+        }
       }
     },
     {
@@ -751,10 +1636,28 @@
         },
         {
           "text": "※電源スイッチが× (OFF)になっていることを確認してください。\n※音が小さくなって聞きとりにくくなったり、\n音が繰り返し鳴るなどの誤動作をする場合、\nすべて新しい電池に交換してください。",
-          "translation": "• Make sure the power switch is set to × (OFF).\n• If the sound becomes low and hard to hear, or the sound repeats or other malfunctions occur, replace all batteries with new ones.",
+          "translation": "• Confirm the power switch is set to × (OFF).\n• If the sound becomes low and hard to hear, or if the sound repeats or the unit malfunctions, replace all batteries with new ones.",
           "bbox": [
-            0.043199999999999995, 0.06366547501087189, 0.7684571798324584, 0.0987345249891281
+            0.043199999999999995, 0.06366547501087189, 0.7666434104919433, 0.0798345249891281
           ],
+          "layout": "panel"
+        },
+        {
+          "text": "①電池ぶたを取り外します。\n①-1 背面の電池ぶたのネジを⊕または、\n○ドライバーで矢印の方向に回し、\n①-2 電池ぶたを取り外します。",
+          "translation": "• Step 1: Remove the battery cover.\n• Step 1-1: Use a Phillips (+) or flathead (–) screwdriver and turn the screw on the back battery cover in the direction of the arrow, Step 1-2: Remove the battery cover.",
+          "bbox": [0.0438, 0.1619, 0.49881248254775995, 0.0802],
+          "layout": "panel"
+        },
+        {
+          "text": "②乾電池を入れます。\n単4乾電池2本(別売り)の土日を\nそれぞれ間違えないように入れます。\n③電池ぶたを戻します。",
+          "translation": "• Step 2: Insert batteries. Insert two AAA (size) batteries (sold separately), making sure you do not mix up the + and − orientations.\n• Step 3: Replace the battery cover.",
+          "bbox": [0.043199999999999995, 0.2455, 0.45648620085716246, 0.07943909144401551],
+          "layout": "panel"
+        },
+        {
+          "text": "電池ぶたの突起とミゾを合わせ、\n電池ぶたを閉じます。\n電池ぶたのネジを\n②-1と逆方向に回して閉じます。",
+          "translation": "• Align the projection on the battery cover with the groove, then close the battery cover.\n• Turn the battery-cover screw in the opposite direction from step ② -1 to tighten and close it.",
+          "bbox": [0.0704, 0.3284, 0.3785002420902252, 0.08046949443817136],
           "layout": "panel"
         },
         {
@@ -765,20 +1668,15 @@
         },
         {
           "text": "本体背面の電源スイッチをO(ON)にします。\n→「起動音」が鳴ります。",
-          "translation": "• Set the power switch on the back of the unit to O (ON).\n• A startup sound will play.",
+          "translation": "• Set the power switch on the back of the unit to O (ON).\n• The “startup sound” will play.",
           "bbox": [0.0438, 0.6426000000000001, 0.5236008622169495, 0.03887270822525013],
           "layout": "panel"
         },
         {
           "text": "※遊び終わった後は、必ず電源スイッチをX (OFF)にしてください。",
-          "translation": "After playing, always set the power switch to X (OFF).",
+          "translation": "After playing, always switch the power to X (OFF).",
           "bbox": [0.0656, 0.9333, 0.5931, 0.014299999999999868],
           "layout": "panel"
-        },
-        {
-          "text": "①電池ぶたを取り外します。\n①-1 背面の電池ぶたのネジを⊕または、\n○ドライバーで矢印の方向に回し、",
-          "translation": "① Remove the battery cover.\n①-1 Turn the screw on the rear battery cover with a Phillips (⊕) or flat (−) screwdriver in the direction of the arrow,",
-          "bbox": [0.0453, 0.1634, 0.4958, 0.0563]
         },
         {
           "text": "単4",
@@ -795,16 +1693,6 @@
           "translation": "Requires 2AAA batteries (sold separately)",
           "bbox": [0.7337, 0.1875, 0.2115999999999999, 0.018699999999999994],
           "layout": "panel"
-        },
-        {
-          "text": "①-2 電池ぶたを取り外します。",
-          "translation": "①-2 Remove the battery cover.",
-          "bbox": [0.0719, 0.2259, 0.3579, 0.0147]
-        },
-        {
-          "text": "②乾電池を入れます。\n単4乾電池2本(別売り)の土日を",
-          "translation": "② Insert the batteries.\nInsert two AAA batteries (sold separately), making sure the + and − polarities are placed correctly.",
-          "bbox": [0.0447, 0.247, 0.4105, 0.0355]
         },
         {
           "text": "●アルカリ電池専用",
@@ -826,16 +1714,6 @@
           "text": "突起",
           "translation": "Protrusion",
           "bbox": [0.5393, 0.2767, 0.0399, 0.0113]
-        },
-        {
-          "text": "それぞれ間違えないように入れます。\n③電池ぶたを戻します。",
-          "translation": "Insert them so they are not placed incorrectly.\n③ Replace the battery cover.",
-          "bbox": [0.0459, 0.2886, 0.4522, 0.0348]
-        },
-        {
-          "text": "電池ぶたの突起とミゾを合わせ、\n電池ぶたを閉じます。\n電池ぶたのネジを\n②-1と逆方向に回して閉じます。",
-          "translation": "Align the protrusion on the battery cover with the groove, and close the battery cover.\nTurn the battery cover screw in the direction opposite to ②-1 to close it.",
-          "bbox": [0.0719, 0.3299, 0.3755, 0.0774]
         },
         {
           "text": "電池ぶた",
@@ -967,7 +1845,7 @@
         },
         {
           "text": "②乾電池を入れます。\n単4乾電池2本(別売り)の土日を",
-          "translation": "② Insert the batteries.\nInsert two AAA (単4) batteries (sold separately), making sure the + and − polarities are placed correctly.",
+          "translation": "② Insert the batteries.\nInsert two AAA batteries (sold separately), making sure the + and − polarities are placed correctly.",
           "bbox": [0.0447, 0.247, 0.4105, 0.0355]
         },
         {
@@ -1136,17 +2014,32 @@
               "source_ids": [1]
             },
             {
+              "id": "p2",
+              "kind": "prose",
+              "source_ids": [2, 10]
+            },
+            {
               "id": "p3",
-              "kind": "heading",
-              "source_ids": [22]
+              "kind": "prose",
+              "source_ids": [11, 16]
             },
             {
               "id": "p4",
               "kind": "prose",
-              "source_ids": [32, 33]
+              "source_ids": [17]
             },
             {
               "id": "p5",
+              "kind": "heading",
+              "source_ids": [22]
+            },
+            {
+              "id": "p6",
+              "kind": "prose",
+              "source_ids": [32, 33]
+            },
+            {
+              "id": "p7",
               "kind": "prose",
               "source_ids": [35]
             }
@@ -1169,22 +2062,24 @@
               "parent_id": 12
             }
           ],
-          "notes": ["Panel p2 retained original English after failed automatic checks"],
+          "notes": [
+            "Source 16 contains both the end of step 2 and the start of step 3, so it cannot be split by source ID."
+          ],
           "native_artwork": [26, 31, 36, 39, 40, 41]
         },
         "mapping": [
           {
             "display_index": 0,
-            "panel_id": "p0",
             "source_ids": [0],
             "furigana_ids": [],
+            "panel_id": "p0",
             "japanese_items": ["乾電池の入れ方"]
           },
           {
             "display_index": 1,
-            "panel_id": "p1",
             "source_ids": [1],
             "furigana_ids": [],
+            "panel_id": "p1",
             "japanese_items": [
               "※電源スイッチが× (OFF)になっていることを確認してください。",
               "※音が小さくなって聞きとりにくくなったり、音が繰り返し鳴るなどの誤動作をする場合、すべて新しい電池に交換してください。"
@@ -1192,54 +2087,69 @@
           },
           {
             "display_index": 2,
-            "panel_id": "p3",
-            "source_ids": [22],
+            "source_ids": [2, 10],
             "furigana_ids": [],
-            "japanese_items": ["電源の入れ方"]
+            "panel_id": "p2",
+            "japanese_items": [
+              "①電池ぶたを取り外します。",
+              "①-1 背面の電池ぶたのネジを⊕または⊖ドライバーで矢印の方向に回し、\n①-2 電池ぶたを取り外します。"
+            ]
           },
           {
             "display_index": 3,
-            "panel_id": "p4",
-            "source_ids": [32, 33],
+            "source_ids": [11, 16],
             "furigana_ids": [],
-            "japanese_items": ["本体背面の電源スイッチをO(ON)にします。", "→「起動音」が鳴ります。"]
+            "panel_id": "p3",
+            "japanese_items": [
+              "②乾電池を入れます。単4乾電池2本（別売り）の＋−をそれぞれ間違えないように入れます。",
+              "③電池ぶたを戻します。"
+            ]
           },
           {
             "display_index": 4,
-            "panel_id": "p5",
-            "source_ids": [35],
+            "source_ids": [17],
             "furigana_ids": [],
-            "japanese_items": ["※遊び終わった後は、必ず電源スイッチをX (OFF)にしてください。"]
+            "panel_id": "p4",
+            "japanese_items": [
+              "電池ぶたの突起とミゾを合わせ、電池ぶたを閉じます。",
+              "電池ぶたのネジを②-1と逆方向に回して閉じます。"
+            ]
           },
           {
             "display_index": 5,
-            "source_ids": [2],
-            "furigana_ids": []
+            "source_ids": [22],
+            "furigana_ids": [],
+            "panel_id": "p5",
+            "japanese_items": ["電源の入れ方"]
           },
           {
             "display_index": 6,
+            "source_ids": [32, 33],
+            "furigana_ids": [],
+            "panel_id": "p6",
+            "japanese_items": ["本体背面の電源スイッチをO(ON)にします。", "→「起動音」が鳴ります。"]
+          },
+          {
+            "display_index": 7,
+            "source_ids": [35],
+            "furigana_ids": [],
+            "panel_id": "p7",
+            "japanese_items": ["※遊び終わった後は、必ず電源スイッチをX (OFF)にしてください。"]
+          },
+          {
+            "display_index": 8,
             "source_ids": [4],
             "furigana_ids": []
           },
           {
-            "display_index": 7,
+            "display_index": 9,
             "source_ids": [5],
             "furigana_ids": []
           },
           {
-            "display_index": 8,
+            "display_index": 10,
             "source_ids": [8],
             "furigana_ids": [3, 6, 7]
-          },
-          {
-            "display_index": 9,
-            "source_ids": [10],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 10,
-            "source_ids": [11],
-            "furigana_ids": []
           },
           {
             "display_index": 11,
@@ -1263,46 +2173,36 @@
           },
           {
             "display_index": 15,
-            "source_ids": [16],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 16,
-            "source_ids": [17],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 17,
             "source_ids": [18],
             "furigana_ids": []
           },
           {
-            "display_index": 18,
+            "display_index": 16,
             "source_ids": [19],
             "furigana_ids": []
           },
           {
-            "display_index": 19,
+            "display_index": 17,
             "source_ids": [20],
             "furigana_ids": []
           },
           {
-            "display_index": 20,
+            "display_index": 18,
             "source_ids": [21],
             "furigana_ids": []
           },
           {
-            "display_index": 21,
+            "display_index": 19,
             "source_ids": [23],
             "furigana_ids": []
           },
           {
-            "display_index": 22,
+            "display_index": 20,
             "source_ids": [24],
             "furigana_ids": []
           },
           {
-            "display_index": 23,
+            "display_index": 21,
             "source_ids": [25],
             "furigana_ids": []
           },
@@ -1313,22 +2213,22 @@
             "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 24,
+            "display_index": 22,
             "source_ids": [27],
             "furigana_ids": []
           },
           {
-            "display_index": 25,
+            "display_index": 23,
             "source_ids": [28],
             "furigana_ids": []
           },
           {
-            "display_index": 26,
+            "display_index": 24,
             "source_ids": [29],
             "furigana_ids": []
           },
           {
-            "display_index": 27,
+            "display_index": 25,
             "source_ids": [30],
             "furigana_ids": []
           },
@@ -1339,7 +2239,7 @@
             "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 28,
+            "display_index": 26,
             "source_ids": [34],
             "furigana_ids": []
           },
@@ -1350,12 +2250,12 @@
             "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 29,
+            "display_index": 27,
             "source_ids": [37],
             "furigana_ids": []
           },
           {
-            "display_index": 30,
+            "display_index": 28,
             "source_ids": [38],
             "furigana_ids": []
           },
@@ -1756,7 +2656,698 @@
               0.9002418518066406, 0.39508700370788574, 0.012091875076293945, 0.0109177827835083
             ]
           }
-        ]
+        ],
+        "structure": {
+          "version": 1,
+          "variants": [
+            {
+              "provider": "docling",
+              "regions": [
+                {
+                  "id": "#/texts/0",
+                  "kind": "section_header",
+                  "bbox": [
+                    0.04142594831833042, 0.025904444191718085, 0.18529714720766713,
+                    0.021481734207766348
+                  ],
+                  "source_ids": [0]
+                },
+                {
+                  "id": "#/texts/1",
+                  "kind": "list_item",
+                  "bbox": [
+                    0.04646423933001925, 0.06381338691130574, 0.7602221326526041,
+                    0.02148173420776624
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/2",
+                  "kind": "list_item",
+                  "bbox": [
+                    0.04646423933001925, 0.08466330540707889, 0.5362980876886559,
+                    0.06286566334331595
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/3",
+                  "kind": "list_item",
+                  "bbox": [
+                    0.04590442921760938, 0.16206073012623676, 0.32468986519772486,
+                    0.02021810278378006
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/4",
+                  "kind": "text",
+                  "bbox": [
+                    0.7187961843342737, 0.16206073012623676, 0.011756012360607282,
+                    0.024956720623728505
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/5",
+                  "kind": "list_item",
+                  "bbox": [
+                    0.07277531461328317, 0.18227883291001684, 0.46744144386224196,
+                    0.022429457775755928
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/6",
+                  "kind": "list_item",
+                  "bbox": [
+                    0.07277531461328317, 0.226190024893539, 0.35491961126785787, 0.01453176137584193
+                  ],
+                  "source_ids": [10]
+                },
+                {
+                  "id": "#/texts/7",
+                  "kind": "list_item",
+                  "bbox": [
+                    0.04590442921760938, 0.24514449625333287, 0.4523265708271754,
+                    0.05781113764737101
+                  ],
+                  "source_ids": [11]
+                },
+                {
+                  "id": "#/texts/8",
+                  "kind": "list_item",
+                  "bbox": [
+                    0.04590442921760938, 0.3083260674526453, 0.2743069550808365, 0.02116582635176986
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/9",
+                  "kind": "text",
+                  "bbox": [
+                    0.0738949348381029, 0.33043961737240485, 0.3728335348649738, 0.01421585351984533
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/10",
+                  "kind": "text",
+                  "bbox": [
+                    0.0738949348381029, 0.32917598594841846, 0.25751265170854043,
+                    0.06254975548731945
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/11",
+                  "kind": "list_item",
+                  "bbox": [
+                    0.07277531461328317, 0.3914098335797414, 0.3722737247525639,
+                    0.020218102783779952
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/pictures/0",
+                  "kind": "picture",
+                  "bbox": [
+                    0.06387549918769991, 0.4286009181629528, 0.77220199252135, 0.15423667792117957
+                  ],
+                  "source_ids": [18, 19, 20, 21, 28, 29, 30, 31]
+                },
+                {
+                  "id": "#/texts/12",
+                  "kind": "text",
+                  "bbox": [
+                    0.07501455506292265, 0.45427549692305735, 0.05933987191544628,
+                    0.01263631423986266
+                  ],
+                  "source_ids": [19]
+                },
+                {
+                  "id": "#/texts/13",
+                  "kind": "text",
+                  "bbox": [
+                    0.3269291056473644, 0.45648685191503346, 0.03694746741905145,
+                    0.010740867103883067
+                  ],
+                  "source_ids": [20]
+                },
+                {
+                  "id": "#/texts/14",
+                  "kind": "section_header",
+                  "bbox": [
+                    0.04198575843074029, 0.6138089642013217, 0.15898607192440323,
+                    0.02179764206376284
+                  ],
+                  "source_ids": [22]
+                },
+                {
+                  "id": "#/texts/15",
+                  "kind": "list_item",
+                  "bbox": [
+                    0.04590442921760938, 0.6435043026649986, 0.5200635944287697, 0.02116582635176975
+                  ],
+                  "source_ids": [32]
+                },
+                {
+                  "id": "#/texts/17",
+                  "kind": "list_item",
+                  "bbox": [
+                    0.0682968337140042, 0.9341395301818365, 0.5889202382551837, 0.016743116367817907
+                  ],
+                  "source_ids": [35]
+                },
+                {
+                  "id": "#/pictures/1",
+                  "kind": "picture",
+                  "bbox": [
+                    0.048765064085889986, 0.6584534500584458, 0.8692148483839612,
+                    0.25969707604610553
+                  ],
+                  "source_ids": [33, 34, 37, 38, 39]
+                },
+                {
+                  "id": "#/texts/16",
+                  "kind": "list_item",
+                  "bbox": [
+                    0.04646423933001925, 0.6643542211607718, 0.27374714496842667,
+                    0.02148173420776624
+                  ],
+                  "source_ids": [33]
+                },
+                {
+                  "id": "#/texts/18",
+                  "kind": "text",
+                  "bbox": [
+                    0.5273411258900981, 0.23029682702149434, 0.0587800618030364,
+                    0.012636314239862443
+                  ],
+                  "source_ids": [13]
+                },
+                {
+                  "id": "#/texts/19",
+                  "kind": "text",
+                  "bbox": [
+                    0.7187961843342737, 0.18796517431795495, 0.010636392135787508,
+                    0.02179764206376284
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/20",
+                  "kind": "text",
+                  "bbox": [
+                    0.6885664382641408, 0.23345590558146, 0.03638765730664162, 0.010424959247886468
+                  ],
+                  "source_ids": [14]
+                },
+                {
+                  "id": "#/texts/21",
+                  "kind": "text",
+                  "bbox": [
+                    0.7730977652380312, 0.1667993479661852, 0.09684714944690763,
+                    0.017690839935807487
+                  ],
+                  "source_ids": [4]
+                },
+                {
+                  "id": "#/texts/22",
+                  "kind": "text",
+                  "bbox": [
+                    0.7546240315285054, 0.18954471359793773, 0.12539746517981104,
+                    0.01516357708783502
+                  ],
+                  "source_ids": [6]
+                },
+                {
+                  "id": "#/texts/23",
+                  "kind": "text",
+                  "bbox": [
+                    0.8878588382820546, 0.16964251867015429, 0.02911012584531333,
+                    0.010740867103883174
+                  ],
+                  "source_ids": [5]
+                },
+                {
+                  "id": "#/texts/24",
+                  "kind": "text",
+                  "bbox": [
+                    0.886179407944825, 0.18954471359793773, 0.05822025169062666, 0.01516357708783502
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/25",
+                  "kind": "text",
+                  "bbox": [
+                    0.7428680191678981, 0.22208322276558376, 0.033028796632182396,
+                    0.012004498527869355
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/26",
+                  "kind": "text",
+                  "bbox": [
+                    0.7809351068117694, 0.22176731490958715, 0.16346455282368225,
+                    0.012636314239862553
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/27",
+                  "kind": "text",
+                  "bbox": [
+                    0.946638900085091, 0.16206073012623676, 0.011756012360607282,
+                    0.024956720623728505
+                  ],
+                  "source_ids": []
+                }
+              ],
+              "assignments": {
+                "0": "#/texts/0",
+                "4": "#/texts/21",
+                "5": "#/texts/23",
+                "6": "#/texts/22",
+                "10": "#/texts/6",
+                "11": "#/texts/7",
+                "13": "#/texts/18",
+                "14": "#/texts/20",
+                "19": "#/texts/12",
+                "20": "#/texts/13",
+                "22": "#/texts/14",
+                "32": "#/texts/15",
+                "33": "#/texts/16",
+                "35": "#/texts/17"
+              }
+            },
+            {
+              "provider": "google-layout-pretrained-layout-parser-v1.0-2024-06-03",
+              "regions": [
+                {
+                  "id": "1",
+                  "kind": "text",
+                  "bbox": [0.03994674, 0.027047332, 0.18375498999999998, 0.014650638],
+                  "source_ids": [0]
+                },
+                {
+                  "id": "2",
+                  "kind": "text",
+                  "bbox": [0.04660453, 0.064237416, 0.75898801, 0.015777609999999997],
+                  "source_ids": []
+                },
+                {
+                  "id": "3",
+                  "kind": "text",
+                  "bbox": [0.04593875, 0.08527423, 0.51131825, 0.015401959999999992],
+                  "source_ids": []
+                },
+                {
+                  "id": "4",
+                  "kind": "text",
+                  "bbox": [0.06924101, 0.106311046, 0.5133155899999999, 0.015777609999999997],
+                  "source_ids": []
+                },
+                {
+                  "id": "5",
+                  "kind": "text",
+                  "bbox": [0.06990679, 0.12734786, 0.45539281, 0.015401959999999992],
+                  "source_ids": []
+                },
+                {
+                  "id": "6",
+                  "kind": "text",
+                  "bbox": [0.048601866, 0.16303532, 0.322237014, 0.015026279999999975],
+                  "source_ids": []
+                },
+                {
+                  "id": "7",
+                  "kind": "text",
+                  "bbox": [0.07323568, 0.18444778, 0.46737682, 0.014274979999999993],
+                  "source_ids": []
+                },
+                {
+                  "id": "8",
+                  "kind": "text",
+                  "bbox": [0.1391478, 0.20510894, 0.39547270000000007, 0.01465064000000002],
+                  "source_ids": []
+                },
+                {
+                  "id": "9",
+                  "kind": "text",
+                  "bbox": [0.07123835, 0.22539444, 0.35685753, 0.015026289999999998],
+                  "source_ids": [10]
+                },
+                {
+                  "id": "10",
+                  "kind": "text",
+                  "bbox": [0.049267642, 0.2468069, 0.246338228, 0.014650659999999982],
+                  "source_ids": []
+                },
+                {
+                  "id": "11",
+                  "kind": "text",
+                  "bbox": [0.07323568, 0.2670924, 0.38082556, 0.015401969999999987],
+                  "source_ids": []
+                },
+                {
+                  "id": "12",
+                  "kind": "text",
+                  "bbox": [0.07256991, 0.28850487, 0.42476699, 0.014650629999999998],
+                  "source_ids": []
+                },
+                {
+                  "id": "13",
+                  "kind": "text",
+                  "bbox": [0.049267642, 0.30916604, 0.270972058, 0.014650660000000038],
+                  "source_ids": []
+                },
+                {
+                  "id": "14",
+                  "kind": "text",
+                  "bbox": [0.07323568, 0.3298272, 0.373502, 0.014650629999999998],
+                  "source_ids": []
+                },
+                {
+                  "id": "15",
+                  "kind": "text",
+                  "bbox": [0.07390147, 0.35048836, 0.24034619999999998, 0.015401940000000003],
+                  "source_ids": []
+                },
+                {
+                  "id": "16",
+                  "kind": "text",
+                  "bbox": [0.07390147, 0.37190083, 0.20705723, 0.013899319999999993],
+                  "source_ids": []
+                },
+                {
+                  "id": "17",
+                  "kind": "text",
+                  "bbox": [0.07456724, 0.39256197, 0.36950733, 0.015026299999999992],
+                  "source_ids": []
+                },
+                {
+                  "id": "18",
+                  "kind": "text",
+                  "bbox": [0.5226365, 0.22952667, 0.06458053000000008, 0.013523670000000015],
+                  "source_ids": [13]
+                },
+                {
+                  "id": "19",
+                  "kind": "text",
+                  "bbox": [0.6870839, 0.2329076, 0.036617800000000034, 0.010142740000000011],
+                  "source_ids": [14]
+                },
+                {
+                  "id": "20",
+                  "kind": "text",
+                  "bbox": [0.53928095, 0.2768595, 0.04194408999999999, 0.011269740000000028],
+                  "source_ids": [15]
+                },
+                {
+                  "id": "21",
+                  "kind": "text",
+                  "bbox": [0.6358189, 0.2753569, 0.07256990000000008, 0.030052560000000006],
+                  "source_ids": [23]
+                },
+                {
+                  "id": "22",
+                  "kind": "text",
+                  "bbox": [0.677763, 0.351991, 0.009320899999999965, 0.031555200000000005],
+                  "source_ids": []
+                },
+                {
+                  "id": "23",
+                  "kind": "text",
+                  "bbox": [0.7723036, 0.17205109, 0.010652459999999975, 0.0067618299999999965],
+                  "source_ids": []
+                },
+                {
+                  "id": "24",
+                  "kind": "text",
+                  "bbox": [0.8189081, 0.17054845, 0.033288949999999984, 0.009015790000000024],
+                  "source_ids": [4]
+                },
+                {
+                  "id": "25",
+                  "kind": "text",
+                  "bbox": [0.88149136, 0.16867018, 0.03861517000000003, 0.010894060000000011],
+                  "source_ids": [5]
+                },
+                {
+                  "id": "26",
+                  "kind": "text",
+                  "bbox": [0.7343542, 0.18858002, 0.20838880000000004, 0.016153260000000003],
+                  "source_ids": [3, 6, 7, 8]
+                },
+                {
+                  "id": "27",
+                  "kind": "text",
+                  "bbox": [0.8475366, 0.21337341, 0.09454059999999997, 0.007137489999999996],
+                  "source_ids": [9]
+                },
+                {
+                  "id": "28",
+                  "kind": "text",
+                  "bbox": [0.7310253, 0.22163786, 0.21238350000000006, 0.012396690000000016],
+                  "source_ids": [12]
+                },
+                {
+                  "id": "29",
+                  "kind": "text",
+                  "bbox": [0.76830894, 0.35837716, 0.04127829999999999, 0.010894060000000039],
+                  "source_ids": [25]
+                },
+                {
+                  "id": "30",
+                  "kind": "text",
+                  "bbox": [0.88215715, 0.35762584, 0.02197069000000007, 0.008640110000000034],
+                  "source_ids": []
+                },
+                {
+                  "id": "31",
+                  "kind": "text",
+                  "bbox": [0.9167776, 0.3790383, 0.02263654000000004, 0.008264500000000008],
+                  "source_ids": [40]
+                },
+                {
+                  "id": "32",
+                  "kind": "text",
+                  "bbox": [0.7756325, 0.39706987, 0.01997334000000006, 0.0075131300000000345],
+                  "source_ids": []
+                },
+                {
+                  "id": "33",
+                  "kind": "text",
+                  "bbox": [0.6231691, 0.4117205, 0.049267699999999914, 0.009767100000000029],
+                  "source_ids": [26]
+                },
+                {
+                  "id": "34",
+                  "kind": "text",
+                  "bbox": [0.7343542, 0.4135988, 0.013981340000000064, 0.0067618200000000295],
+                  "source_ids": []
+                },
+                {
+                  "id": "35",
+                  "kind": "text",
+                  "bbox": [0.07390147, 0.4534185, 0.059254329999999994, 0.013147999999999993],
+                  "source_ids": [19]
+                },
+                {
+                  "id": "36",
+                  "kind": "text",
+                  "bbox": [0.3255659, 0.45642373, 0.037949419999999956, 0.010142769999999968],
+                  "source_ids": [20]
+                },
+                {
+                  "id": "37",
+                  "kind": "text",
+                  "bbox": [0.47736353, 0.45041323, 0.07856187000000003, 0.010142739999999983],
+                  "source_ids": [18]
+                },
+                {
+                  "id": "38",
+                  "kind": "text",
+                  "bbox": [0.792277, 0.43501127, 0.04061249999999994, 0.010894059999999983],
+                  "source_ids": [28]
+                },
+                {
+                  "id": "39",
+                  "kind": "text",
+                  "bbox": [0.09786951, 0.48459804, 0.03661784, 0.010518399999999983],
+                  "source_ids": [21]
+                },
+                {
+                  "id": "40",
+                  "kind": "text",
+                  "bbox": [0.64380825, 0.46543953, 0.01997338999999998, 0.009767069999999989],
+                  "source_ids": []
+                },
+                {
+                  "id": "41",
+                  "kind": "text",
+                  "bbox": [0.6424767, 0.46619084, 0.04260984999999995, 0.018407200000000012],
+                  "source_ids": []
+                },
+                {
+                  "id": "42",
+                  "kind": "text",
+                  "bbox": [0.6517976, 0.5593539, 0.12583224999999998, 0.010894049999999988],
+                  "source_ids": [30]
+                },
+                {
+                  "id": "43",
+                  "kind": "text",
+                  "bbox": [0.5193076, 0.57362884, 0.04194404000000007, 0.009767120000000018],
+                  "source_ids": [31]
+                },
+                {
+                  "id": "44",
+                  "kind": "text",
+                  "bbox": [0.041278295, 0.6149512, 0.156458055, 0.014650599999999958],
+                  "source_ids": [22]
+                },
+                {
+                  "id": "45",
+                  "kind": "text",
+                  "bbox": [0.04527297, 0.6442524, 0.5206391300000001, 0.036438800000000104],
+                  "source_ids": [32, 33]
+                },
+                {
+                  "id": "46",
+                  "kind": "text",
+                  "bbox": [0.5619174, 0.68820435, 0.26498004, 0.027798649999999925],
+                  "source_ids": [34]
+                },
+                {
+                  "id": "47",
+                  "kind": "text",
+                  "bbox": [0.06724367, 0.93463564, 0.5892144300000001, 0.011645360000000049],
+                  "source_ids": [35]
+                },
+                {
+                  "id": "48",
+                  "kind": "text",
+                  "bbox": [0.49201065, 0.98647636, 0.015978700000000012, 0.0075131099999999895],
+                  "source_ids": [36]
+                },
+                {
+                  "id": "49",
+                  "kind": "text",
+                  "bbox": [0.6617843, 0.84147257, 0.034620500000000054, 0.012772380000000028],
+                  "source_ids": []
+                },
+                {
+                  "id": "50",
+                  "kind": "text",
+                  "bbox": [0.75432754, 0.78512394, 0.03395475999999997, 0.009015800000000018],
+                  "source_ids": []
+                },
+                {
+                  "id": "51",
+                  "kind": "text",
+                  "bbox": [0.75432754, 0.80390686, 0.03994679000000001, 0.011269689999999999],
+                  "source_ids": []
+                },
+                {
+                  "id": "52",
+                  "kind": "text",
+                  "bbox": [0.7496671, 0.82043576, 0.11850865, 0.011269740000000028],
+                  "source_ids": [38]
+                },
+                {
+                  "id": "53",
+                  "kind": "text",
+                  "bbox": [0.752996, 0.8437265, 0.04660454000000003, 0.009015799999999907],
+                  "source_ids": [39]
+                }
+              ],
+              "assignments": {
+                "0": "1",
+                "3": "26",
+                "4": "24",
+                "5": "25",
+                "6": "26",
+                "7": "26",
+                "8": "26",
+                "9": "27",
+                "10": "9",
+                "12": "28",
+                "13": "18",
+                "14": "19",
+                "15": "20",
+                "18": "37",
+                "19": "35",
+                "20": "36",
+                "21": "39",
+                "22": "44",
+                "23": "21",
+                "25": "29",
+                "26": "33",
+                "28": "38",
+                "30": "42",
+                "31": "43",
+                "32": "45",
+                "33": "45",
+                "34": "46",
+                "35": "47",
+                "36": "48",
+                "38": "52",
+                "39": "53",
+                "40": "31"
+              }
+            }
+          ],
+          "unmatched_source_ids": [1, 2, 16, 17, 24, 27, 29, 37, 41],
+          "ambiguous_source_ids": [],
+          "conflicts": ["Layout variants disagree on source 32/33"],
+          "continuation_source_ids": [2, 11]
+        },
+        "row_layout": {
+          "0": {
+            "translation": "How to insert the batteries",
+            "rows": [
+              {
+                "text": "乾電池の入れ方",
+                "translation": "How to insert the batteries",
+                "bbox": [
+                  0.029008863819500404, 0.01637107776261937, 0.9419822723609992,
+                  0.030923146884947704
+                ],
+                "line_ids": [0]
+              }
+            ]
+          },
+          "5": {
+            "translation": "How to turn on the power",
+            "rows": [
+              {
+                "text": "電源の入れ方",
+                "translation": "How to turn on the power",
+                "bbox": [
+                  0.029008863819500404, 0.6043656207366985, 0.9419822723609992, 0.030468394724874944
+                ],
+                "line_ids": [32]
+              }
+            ]
+          },
+          "8": {
+            "translation": "AAA",
+            "rows": [
+              {
+                "text": "単4",
+                "translation": "AAA",
+                "bbox": [
+                  0.7751813053988719, 0.16825829922692132, 0.10475423045930701, 0.01455206912232833
+                ],
+                "line_ids": [9]
+              }
+            ]
+          }
+        }
       }
     },
     {
@@ -1769,7 +3360,7 @@
         },
         {
           "text": "①背面ボタンを押しながら、 刀身を回転させます。\n「ケン!」と鳴ります。\n背面ボタン",
-          "translation": "• ①Press and hold the rear button, and rotate the blade.\n• It will make a \"Ken!\" sound.\n• Rear button",
+          "translation": "① While holding the rear button, rotate the blade.\n• It will make a “Ken!” sound.\n• Rear button",
           "bbox": [
             0.040799999999999996, 0.036575216114521025, 0.5719454533576965, 0.04154239732027054
           ],
@@ -1777,27 +3368,19 @@
         },
         {
           "text": "② 「ケ」を外します。",
-          "translation": "2. Remove the part labeled \"ke\".",
+          "translation": "② Remove the part labeled \"ke\".",
           "bbox": [0.0414, 0.34117693758010864, 0.2207, 0.013044395923614505],
           "layout": "panel"
         },
         {
           "text": "破損の恐れがあるため、\nゆっくり慎重に外してください。",
-          "translation": "To avoid damage, remove slowly and carefully.",
+          "translation": "Remove slowly and carefully to avoid damage.",
           "bbox": [0.06379625505208969, 0.3671, 0.27930374494791027, 0.021225501918792744],
           "layout": "panel"
         },
         {
-          "text": "④ ケンモード用刀身パーツを挿し、\n⑤ 「ケ」を付けます。",
-          "translation": "④ Insert the blade part for Ken Mode. ⑤ Attach the \"Ke\".",
-          "bbox": [
-            0.040799999999999996, 0.7111839756965638, 0.39963590569496155, 0.027816024303436215
-          ],
-          "layout": "panel"
-        },
-        {
           "text": "※ジュウモードへの変形は逆の手順で行ってください。",
-          "translation": "To transform into Juu Mode, perform the steps in reverse order.",
+          "translation": "To change into Ju Mode, perform the steps in reverse order.",
           "bbox": [0.06258706307411194, 0.9534, 0.6366154639720916, 0.013299999999999867],
           "layout": "panel"
         },
@@ -1825,6 +3408,11 @@
           "text": "ロック",
           "translation": "Lock",
           "bbox": [0.5109, 0.5345, 0.0544, 0.0068]
+        },
+        {
+          "text": "④ ケンモード用刀身パーツを挿し、\n⑤ 「ケ」を付けます。",
+          "translation": "④ Insert the blade part for Ken Mode. ⑤ Attach the \"Ke\".",
+          "bbox": [0.0423, 0.7127, 0.3966, 0.0248]
         },
         {
           "text": "GO",
@@ -1920,53 +3508,52 @@
         "plan": {
           "panels": [
             {
-              "id": "p1",
+              "id": "p0",
               "kind": "heading",
               "source_ids": [0]
             },
             {
-              "id": "p2",
+              "id": "p1",
               "kind": "prose",
               "source_ids": [1, 5]
             },
             {
-              "id": "p3",
+              "id": "p2",
               "kind": "prose",
               "source_ids": [2]
             },
             {
-              "id": "p4",
+              "id": "p3",
               "kind": "prose",
               "source_ids": [3, 4]
             },
             {
               "id": "p6",
               "kind": "prose",
-              "source_ids": [11]
-            },
-            {
-              "id": "p7",
-              "kind": "prose",
               "source_ids": [13]
             }
           ],
           "furigana": [],
-          "notes": ["Panel p5 retained original English after failed automatic checks"],
+          "notes": [
+            "Source IDs 5 and 10 are diagram labels and left ungrouped. Source IDs 6, 7, 8, and 12 appear to be OCR noise or product artwork within illustrations and are left unchanged.",
+            "Panel p4 retained original English after failed automatic checks",
+            "Panel p5 retained original English after failed automatic checks"
+          ],
           "native_artwork": [14, 15]
         },
         "mapping": [
           {
             "display_index": 0,
-            "panel_id": "p1",
             "source_ids": [0],
             "furigana_ids": [],
+            "panel_id": "p0",
             "japanese_items": ["ケンモードへの変形"]
           },
           {
             "display_index": 1,
-            "panel_id": "p2",
             "source_ids": [1, 5],
             "furigana_ids": [],
+            "panel_id": "p1",
             "japanese_items": [
               "①背面ボタンを押しながら、刀身を回転させます。",
               "「ケン!」と鳴ります。",
@@ -1975,55 +3562,53 @@
           },
           {
             "display_index": 2,
-            "panel_id": "p3",
             "source_ids": [2],
             "furigana_ids": [],
+            "panel_id": "p2",
             "japanese_items": ["② 「ケ」を外します。"]
           },
           {
             "display_index": 3,
-            "panel_id": "p4",
             "source_ids": [3, 4],
             "furigana_ids": [],
-            "japanese_items": ["破損の恐れがあるため、\nゆっくり慎重に外してください。"]
+            "panel_id": "p3",
+            "japanese_items": ["破損の恐れがあるため、ゆっくり慎重に外してください。"]
           },
           {
             "display_index": 4,
-            "panel_id": "p6",
-            "source_ids": [11],
-            "furigana_ids": [],
-            "japanese_items": ["④ ケンモード用刀身パーツを挿し、\n⑤ 「ケ」を付けます。"]
-          },
-          {
-            "display_index": 5,
-            "panel_id": "p7",
             "source_ids": [13],
             "furigana_ids": [],
+            "panel_id": "p6",
             "japanese_items": ["※ジュウモードへの変形は逆の手順で行ってください。"]
           },
           {
-            "display_index": 6,
+            "display_index": 5,
             "source_ids": [6],
             "furigana_ids": []
           },
           {
-            "display_index": 7,
+            "display_index": 6,
             "source_ids": [7],
             "furigana_ids": []
           },
           {
-            "display_index": 8,
+            "display_index": 7,
             "source_ids": [8],
             "furigana_ids": []
           },
           {
-            "display_index": 9,
+            "display_index": 8,
             "source_ids": [9],
             "furigana_ids": []
           },
           {
-            "display_index": 10,
+            "display_index": 9,
             "source_ids": [10],
+            "furigana_ids": []
+          },
+          {
+            "display_index": 10,
+            "source_ids": [11],
             "furigana_ids": []
           },
           {
@@ -2172,7 +3757,284 @@
               0.746070146560669, 0.7694463729858398, 0.021765410900115967, 0.00677412748336792
             ]
           }
-        ]
+        ],
+        "structure": {
+          "version": 1,
+          "variants": [
+            {
+              "provider": "docling",
+              "regions": [
+                {
+                  "id": "#/texts/0",
+                  "kind": "section_header",
+                  "bbox": [
+                    0.042545568543150156, 0.015572685509616133, 0.22840252586322718,
+                    0.009732928443510083
+                  ],
+                  "source_ids": [0]
+                },
+                {
+                  "id": "#/pictures/0",
+                  "kind": "picture",
+                  "bbox": [
+                    0.029954225424952154, 0.03214260947379626, 0.9387644377330806, 0.942927497834083
+                  ],
+                  "source_ids": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15]
+                },
+                {
+                  "id": "#/texts/1",
+                  "kind": "section_header",
+                  "bbox": [
+                    0.043665188767969904, 0.0374177026828277, 0.5682072640960185,
+                    0.029198785330530247
+                  ],
+                  "source_ids": [1]
+                },
+                {
+                  "id": "#/texts/2",
+                  "kind": "text",
+                  "bbox": [
+                    0.043665188767969904, 0.3428153685102996, 0.07613417528774238,
+                    0.009949215742254703
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/3",
+                  "kind": "text",
+                  "bbox": [
+                    0.08789018764834967, 0.34195021931532094, 0.019593353934345463,
+                    0.014491249015892814
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/4",
+                  "kind": "text",
+                  "bbox": [
+                    0.10692373147028526, 0.34195021931532094, 0.019033543821935603,
+                    0.014491249015892814
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/5",
+                  "kind": "text",
+                  "bbox": [
+                    0.125397465179811, 0.34324794310778894, 0.021272784271575064,
+                    0.008867779248531384
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/6",
+                  "kind": "text",
+                  "bbox": [
+                    0.1533879708003045, 0.3428153685102996, 0.043665188767969904,
+                    0.009732928443510083
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/7",
+                  "kind": "text",
+                  "bbox": [
+                    0.20041202024273364, 0.34324794310778894, 0.038067087643871206,
+                    0.009084066547276077
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/8",
+                  "kind": "text",
+                  "bbox": [
+                    0.250794930359622, 0.3488714128751503, 0.008956961798557896,
+                    0.0034605967799147207
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/9",
+                  "kind": "text",
+                  "bbox": [
+                    0.06605759326436472, 0.36768840786593643, 0.27486676519324643,
+                    0.022061304471956186
+                  ],
+                  "source_ids": [3, 4]
+                },
+                {
+                  "id": "#/texts/10",
+                  "kind": "list_item",
+                  "bbox": [
+                    0.04142594831833042, 0.7120177874674487, 0.39690536969859824,
+                    0.014707536314637507
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/11",
+                  "kind": "list_item",
+                  "bbox": [
+                    0.043665188767969904, 0.7262927491845967, 0.21944556406466922,
+                    0.014491249015892889
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/12",
+                  "kind": "caption",
+                  "bbox": [
+                    0.06605759326436472, 0.9542595620614776, 0.6309059966859241,
+                    0.012977237924680111
+                  ],
+                  "source_ids": [13]
+                }
+              ],
+              "assignments": {
+                "0": "#/texts/0",
+                "1": "#/texts/1",
+                "3": "#/texts/9",
+                "4": "#/texts/9",
+                "13": "#/texts/12"
+              }
+            },
+            {
+              "provider": "google-layout-pretrained-layout-parser-v1.0-2024-06-03",
+              "regions": [
+                {
+                  "id": "1",
+                  "kind": "text",
+                  "bbox": [0.041029766, 0.014609885, 0.227674974, 0.010568853],
+                  "source_ids": [0]
+                },
+                {
+                  "id": "2",
+                  "kind": "text",
+                  "bbox": [0.045052294, 0.037612684, 0.567176156, 0.010568849999999998],
+                  "source_ids": []
+                },
+                {
+                  "id": "3",
+                  "kind": "text",
+                  "bbox": [0.041834272, 0.05222257, 0.255832668, 0.010568849999999998],
+                  "source_ids": []
+                },
+                {
+                  "id": "4",
+                  "kind": "text",
+                  "bbox": [0.045052294, 0.34224433, 0.21399840600000003, 0.010258020000000034],
+                  "source_ids": [2]
+                },
+                {
+                  "id": "5",
+                  "kind": "text",
+                  "bbox": [0.06436042, 0.3683556, 0.21158488, 0.007771230000000018],
+                  "source_ids": [3]
+                },
+                {
+                  "id": "6",
+                  "kind": "text",
+                  "bbox": [0.06596943, 0.37830275, 0.27353177, 0.008082089999999986],
+                  "source_ids": [4]
+                },
+                {
+                  "id": "7",
+                  "kind": "text",
+                  "bbox": [0.41753823, 0.06931924, 0.09814957000000002, 0.0071495199999999925],
+                  "source_ids": [5]
+                },
+                {
+                  "id": "8",
+                  "kind": "text",
+                  "bbox": [0.045052294, 0.5035748, 0.613837506, 0.010879700000000048],
+                  "source_ids": [9]
+                },
+                {
+                  "id": "9",
+                  "kind": "text",
+                  "bbox": [0.5084473, 0.53372705, 0.0571199, 0.007460420000000023],
+                  "source_ids": [10]
+                },
+                {
+                  "id": "10",
+                  "kind": "text",
+                  "bbox": [0.045052294, 0.7127759, 0.394207566, 0.02455704000000003],
+                  "source_ids": [11]
+                },
+                {
+                  "id": "11",
+                  "kind": "text",
+                  "bbox": [0.49879324, 0.6142369, 0.09814966000000003, 0.0074603500000000045],
+                  "source_ids": []
+                },
+                {
+                  "id": "12",
+                  "kind": "text",
+                  "bbox": [0.06436042, 0.95430523, 0.63153662, 0.010879670000000008],
+                  "source_ids": [13]
+                },
+                {
+                  "id": "13",
+                  "kind": "text",
+                  "bbox": [0.4907482, 0.99160707, 0.017699100000000023, 0.004973589999999972],
+                  "source_ids": [14]
+                },
+                {
+                  "id": "14",
+                  "kind": "text",
+                  "bbox": [0.74094933, 0.76903945, 0.029766669999999995, 0.006527850000000002],
+                  "source_ids": [15]
+                }
+              ],
+              "assignments": {
+                "0": "1",
+                "2": "4",
+                "3": "5",
+                "4": "6",
+                "5": "7",
+                "9": "8",
+                "10": "9",
+                "11": "10",
+                "13": "12",
+                "14": "13",
+                "15": "14"
+              }
+            }
+          ],
+          "unmatched_source_ids": [6, 7, 8, 12],
+          "ambiguous_source_ids": [],
+          "conflicts": [],
+          "continuation_source_ids": []
+        },
+        "row_layout": {
+          "0": {
+            "translation": "Transforming to Ken Mode",
+            "rows": [
+              {
+                "text": "ケンモードへの変形",
+                "translation": "Transforming to Ken Mode",
+                "bbox": [
+                  0.029008863819500404, 0.008097165991902834, 0.9419822723609992,
+                  0.02117720336343818
+                ],
+                "line_ids": [0]
+              }
+            ]
+          },
+          "2": {
+            "translation": "② Remove the part labeled \"ke\".",
+            "rows": [
+              {
+                "text": "② 「ケ」を外します。",
+                "translation": "② Remove the part labeled \"ke\".",
+                "bbox": [
+                  0.0346494762288477, 0.33852382435378386, 0.9307010475423045, 0.022111491747119277
+                ],
+                "line_ids": [3]
+              }
+            ]
+          }
+        }
       }
     },
     {
@@ -2184,9 +4046,15 @@
           "layout": "panel"
         },
         {
-          "text": "トリガーを引きます。\n→ケンモード: 剣戟音\n→ジュウモード: 銃撃音",
-          "translation": "• Pull the trigger.\n• Ken Mode: sword-clashing sound\n• Juu Mode: gunfire sound",
-          "bbox": [0.041999999999999996, 0.0985, 0.2720755786895752, 0.10481818306446075],
+          "text": "トリガーを引きます。\n→ケンモード: 剣戟音",
+          "translation": "• Pull the trigger.\n• →Ken Mode: sword-clashing sound",
+          "bbox": [0.041999999999999996, 0.0985, 0.2720755786895752, 0.06670000000000001],
+          "layout": "panel"
+        },
+        {
+          "text": "→ジュウモード: 銃撃音",
+          "translation": "→Juu Mode: gunshot sound",
+          "bbox": [0.041999999999999996, 0.173, 0.2720755786895752, 0.03031818306446077],
           "layout": "panel"
         },
         {
@@ -2248,41 +4116,52 @@
               "source_ids": [0]
             },
             {
-              "id": "p1",
+              "id": "p1-s0",
               "kind": "prose",
-              "source_ids": [1, 2, 4]
+              "source_ids": [1, 2]
+            },
+            {
+              "id": "p1-s1",
+              "kind": "prose",
+              "source_ids": [4]
             }
           ],
           "furigana": [],
-          "notes": ["p1: excluded other-column members; retained separately"],
+          "notes": [
+            "p1: excluded other-column members; retained separately",
+            "p1: separated 2 independent structural units"
+          ],
           "native_artwork": [6]
         },
         "mapping": [
           {
             "display_index": 0,
-            "panel_id": "p0",
             "source_ids": [0],
             "furigana_ids": [],
+            "panel_id": "p0",
             "japanese_items": ["通常遊び 図示はジュウモードです。"]
           },
           {
             "display_index": 1,
-            "panel_id": "p1",
-            "source_ids": [1, 2, 4],
+            "source_ids": [1, 2],
             "furigana_ids": [],
-            "japanese_items": [
-              "トリガーを引きます。",
-              "→ケンモード: 剣戟音",
-              "→ジュウモード: 銃撃音"
-            ]
+            "panel_id": "p1-s0",
+            "japanese_items": ["トリガーを引きます。", "→ケンモード: 剣戟音"]
           },
           {
             "display_index": 2,
+            "source_ids": [4],
+            "furigana_ids": [],
+            "panel_id": "p1-s1",
+            "japanese_items": ["→ジュウモード: 銃撃音"]
+          },
+          {
+            "display_index": 3,
             "source_ids": [3],
             "furigana_ids": []
           },
           {
-            "display_index": 3,
+            "display_index": 4,
             "source_ids": [5],
             "furigana_ids": []
           },
@@ -2344,7 +4223,157 @@
               0.49334946274757385, 0.978787899017334, 0.01269647479057312, 0.012121200561523438
             ]
           }
-        ]
+        ],
+        "structure": {
+          "version": 1,
+          "variants": [
+            {
+              "provider": "docling",
+              "regions": [
+                {
+                  "id": "#/texts/0",
+                  "kind": "section_header",
+                  "bbox": [
+                    0.04142594831833042, 0.044893378226711494, 0.36835505396569485,
+                    0.03423120089786763
+                  ],
+                  "source_ids": [0]
+                },
+                {
+                  "id": "#/texts/1",
+                  "kind": "section_header",
+                  "bbox": [
+                    0.047024049442429126, 0.10157126823793497, 0.23064176631286668,
+                    0.02581369248035902
+                  ],
+                  "source_ids": [1]
+                },
+                {
+                  "id": "#/texts/2",
+                  "kind": "list_item",
+                  "bbox": [
+                    0.04534461910519951, 0.13916947250280587, 0.16962246406019077,
+                    0.02413019079685743
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/3",
+                  "kind": "list_item",
+                  "bbox": [
+                    0.04534461910519951, 0.17564534231200896, 0.26814904384432797,
+                    0.02581369248035921
+                  ],
+                  "source_ids": [4]
+                },
+                {
+                  "id": "#/texts/4",
+                  "kind": "text",
+                  "bbox": [
+                    0.22448385507635807, 0.13860830527497192, 0.23903891799901472,
+                    0.042648709315376045
+                  ],
+                  "source_ids": [3]
+                },
+                {
+                  "id": "#/pictures/0",
+                  "kind": "picture",
+                  "bbox": [
+                    0.0467756098548838, 0.2710471105093908, 0.8961831451262404, 0.6584734162096223
+                  ],
+                  "source_ids": [5]
+                }
+              ],
+              "assignments": {
+                "0": "#/texts/0",
+                "1": "#/texts/1",
+                "3": "#/texts/4",
+                "4": "#/texts/3"
+              }
+            },
+            {
+              "provider": "google-layout-pretrained-layout-parser-v1.0-2024-06-03",
+              "regions": [
+                {
+                  "id": "1",
+                  "kind": "text",
+                  "bbox": [0.037962038, 0.047070608, 0.37162838200000003, 0.027040551999999995],
+                  "source_ids": [0]
+                },
+                {
+                  "id": "2",
+                  "kind": "text",
+                  "bbox": [0.04695305, 0.10065097, 0.23026973, 0.026539809999999997],
+                  "source_ids": [1]
+                },
+                {
+                  "id": "3",
+                  "kind": "text",
+                  "bbox": [0.043456543, 0.13820732, 0.268731277, 0.026539800000000002],
+                  "source_ids": [2]
+                },
+                {
+                  "id": "4",
+                  "kind": "text",
+                  "bbox": [0.066933066, 0.1752629, 0.24575423400000002, 0.026539800000000002],
+                  "source_ids": [4]
+                },
+                {
+                  "id": "5",
+                  "kind": "text",
+                  "bbox": [0.32317683, 0.15523285, 0.14035963999999995, 0.026539809999999997],
+                  "source_ids": [3]
+                },
+                {
+                  "id": "6",
+                  "kind": "text",
+                  "bbox": [0.06943057, 0.329995, 0.35214783000000005, 0.15623433000000003],
+                  "source_ids": []
+                },
+                {
+                  "id": "7",
+                  "kind": "text",
+                  "bbox": [0.44555444, 0.81622434, 0.06993006000000002, 0.018027059999999984],
+                  "source_ids": [5]
+                },
+                {
+                  "id": "8",
+                  "kind": "text",
+                  "bbox": [0.4925075, 0.9774662, 0.01448550000000004, 0.014021000000000061],
+                  "source_ids": [6]
+                }
+              ],
+              "assignments": {
+                "0": "1",
+                "1": "2",
+                "2": "3",
+                "3": "5",
+                "4": "4",
+                "5": "7",
+                "6": "8"
+              }
+            }
+          ],
+          "unmatched_source_ids": [],
+          "ambiguous_source_ids": [],
+          "conflicts": [],
+          "continuation_source_ids": []
+        },
+        "row_layout": {
+          "0": {
+            "translation": "Standard play  ※The illustration shows Ju Mode.",
+            "rows": [
+              {
+                "text": "通常遊び 図示はジュウモードです。",
+                "translation": "Standard play  ※The illustration shows Ju Mode.",
+                "bbox": [
+                  0.028203062046736505, 0.02988691437802908, 0.9419822723609992, 0.05411954765751212
+                ],
+                "line_ids": [0]
+              }
+            ]
+          }
+        }
       }
     },
     {
@@ -2358,11 +4387,25 @@
           "layout": "panel"
         },
         {
-          "text": "②トリガーを引きます。\n→ケンモード: 「ギリギリ斬り!」\n→ジュウモード: 「スレスレ撃ち!」",
-          "translation": "• 2. Pull the trigger.\n• Ken Mode: \"Barely Slash!\"\n• Juu Mode: \"Near‑Miss Shot!\"",
+          "text": "①ボタンを押します。",
+          "translation": "Press button ① .",
           "bbox": [
-            0.043199999999999995, 0.18989999999999999, 0.38699999999999996, 0.08272171053886415
+            0.041999999999999996, 0.07869093424081802, 0.24486880016326906, 0.02260906575918198
           ],
+          "layout": "panel"
+        },
+        {
+          "text": "②トリガーを引きます。",
+          "translation": "② Pull the trigger.",
+          "bbox": [
+            0.043199999999999995, 0.18989999999999999, 0.26603881077766417, 0.024499999999999994
+          ],
+          "layout": "panel"
+        },
+        {
+          "text": "→ケンモード: 「ギリギリ斬り!」\n→ジュウモード: 「スレスレ撃ち!」",
+          "translation": "• Ken Mode: \"Barely‑Cut Slash!\"\n• Juu Mode: \"Near‑Miss Shot!\"",
+          "bbox": [0.0444, 0.2195, 0.3858, 0.053121710538864136],
           "layout": "panel"
         },
         {
@@ -2370,11 +4413,6 @@
           "translation": "If you pull the trigger while the countdown sound is playing, a minor special-attack sound will play.",
           "bbox": [0.0438, 0.32069570875167847, 0.7847858526229858, 0.02400429124832154],
           "layout": "panel"
-        },
-        {
-          "text": "①ボタンを押します。",
-          "translation": "① Press the button.",
-          "bbox": [0.0435, 0.0802, 0.2418, 0.0196]
         },
         {
           "text": "→ 「タイムチャージ!」 の後に「5・4･3･2･1!ゼロタイム!」の",
@@ -2475,9 +4513,19 @@
               "source_ids": [0]
             },
             {
-              "id": "p2",
+              "id": "p1-s0",
               "kind": "prose",
-              "source_ids": [4, 5, 7]
+              "source_ids": [1]
+            },
+            {
+              "id": "p2-s0",
+              "kind": "prose",
+              "source_ids": [4]
+            },
+            {
+              "id": "p2-s1",
+              "kind": "prose",
+              "source_ids": [5, 7]
             },
             {
               "id": "p3",
@@ -2488,58 +4536,65 @@
           "furigana": [],
           "notes": [
             "p2: excluded other-column members; retained separately",
-            "Panel p1 retained original English after failed automatic checks"
+            "p1: separated 2 independent structural units",
+            "p2: separated 2 independent structural units",
+            "Panel p1-s1 retained original English after failed automatic checks"
           ],
           "native_artwork": [10]
         },
         "mapping": [
           {
             "display_index": 0,
-            "panel_id": "p0",
             "source_ids": [0],
             "furigana_ids": [],
+            "panel_id": "p0",
             "japanese_items": ["必殺技遊び"]
           },
           {
             "display_index": 1,
-            "panel_id": "p2",
-            "source_ids": [4, 5, 7],
+            "source_ids": [1],
             "furigana_ids": [],
-            "japanese_items": [
-              "②トリガーを引きます。",
-              "→ケンモード:「ギリギリ斬り!」",
-              "→ジュウモード:「スレスレ撃ち!」"
-            ]
+            "panel_id": "p1-s0",
+            "japanese_items": ["①ボタンを押します。"]
           },
           {
             "display_index": 2,
-            "panel_id": "p3",
-            "source_ids": [8],
+            "source_ids": [4],
             "furigana_ids": [],
-            "japanese_items": ["カウントダウン音の途中でトリガーを引くと、小必殺技音が鳴ります。"]
+            "panel_id": "p2-s0",
+            "japanese_items": ["②トリガーを引きます。"]
           },
           {
             "display_index": 3,
-            "source_ids": [1],
-            "furigana_ids": []
+            "source_ids": [5, 7],
+            "furigana_ids": [],
+            "panel_id": "p2-s1",
+            "japanese_items": ["→ケンモード: 「ギリギリ斬り!」", "→ジュウモード: 「スレスレ撃ち!」"]
           },
           {
             "display_index": 4,
+            "source_ids": [8],
+            "furigana_ids": [],
+            "panel_id": "p3",
+            "japanese_items": ["カウントダウン音の途中でトリガーを引くと、小必殺技音が鳴ります。"]
+          },
+          {
+            "display_index": 5,
             "source_ids": [2],
             "furigana_ids": []
           },
           {
-            "display_index": 5,
+            "display_index": 6,
             "source_ids": [3],
             "furigana_ids": []
           },
           {
-            "display_index": 6,
+            "display_index": 7,
             "source_ids": [6],
             "furigana_ids": []
           },
           {
-            "display_index": 7,
+            "display_index": 8,
             "source_ids": [9],
             "furigana_ids": []
           },
@@ -2550,7 +4605,7 @@
             "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 8,
+            "display_index": 9,
             "source_ids": [11],
             "furigana_ids": []
           }
@@ -2641,7 +4696,237 @@
               0.6420798301696777, 0.41145583987236023, 0.05804109573364258, 0.013842493295669556
             ]
           }
-        ]
+        ],
+        "structure": {
+          "version": 1,
+          "variants": [
+            {
+              "provider": "docling",
+              "regions": [
+                {
+                  "id": "#/texts/0",
+                  "kind": "section_header",
+                  "bbox": [
+                    0.04142594831833042, 0.03624149208874751, 0.13323480675354918,
+                    0.030495889684433834
+                  ],
+                  "source_ids": [0]
+                },
+                {
+                  "id": "#/texts/1",
+                  "kind": "list_item",
+                  "bbox": [
+                    0.04422499888037977, 0.07822858658180853, 0.23959872811142457,
+                    0.029611950853001022
+                  ],
+                  "source_ids": [1]
+                },
+                {
+                  "id": "#/texts/2",
+                  "kind": "list_item",
+                  "bbox": [
+                    0.04534461910519951, 0.10739856801909307, 0.687446818039321, 0.05878193229028556
+                  ],
+                  "source_ids": [2, 3]
+                },
+                {
+                  "id": "#/texts/3",
+                  "kind": "list_item",
+                  "bbox": [
+                    0.04646423933001925, 0.19269866525236456, 0.25975189215817995,
+                    0.02033059312295579
+                  ],
+                  "source_ids": [4]
+                },
+                {
+                  "id": "#/texts/4",
+                  "kind": "list_item",
+                  "bbox": [
+                    0.047024049442429126, 0.21568107486961896, 0.5312597966769671,
+                    0.03977724741447892
+                  ],
+                  "source_ids": [5, 6]
+                },
+                {
+                  "id": "#/texts/5",
+                  "kind": "list_item",
+                  "bbox": [
+                    0.047024049442429126, 0.25059665871121717, 0.14499081911415646,
+                    0.019446654291522977
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/6",
+                  "kind": "text",
+                  "bbox": [
+                    0.25527341125890096, 0.25103862812693367, 0.17130189439742038,
+                    0.02033059312295579
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/7",
+                  "kind": "list_item",
+                  "bbox": [
+                    0.1231582247301715, 0.2329178820825598, 0.2110484123785212, 0.0464067886502254
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/8",
+                  "kind": "text",
+                  "bbox": [
+                    0.04646423933001925, 0.3213117652258464, 0.7814949169241792,
+                    0.029611950853000946
+                  ],
+                  "source_ids": [8]
+                },
+                {
+                  "id": "#/pictures/0",
+                  "kind": "picture",
+                  "bbox": [
+                    0.04760888118871906, 0.4061113168072227, 0.890055586027619, 0.5291236725864032
+                  ],
+                  "source_ids": [9, 11]
+                }
+              ],
+              "assignments": {
+                "0": "#/texts/0",
+                "1": "#/texts/1",
+                "2": "#/texts/2",
+                "3": "#/texts/2",
+                "4": "#/texts/3",
+                "5": "#/texts/4",
+                "6": "#/texts/4",
+                "8": "#/texts/8"
+              }
+            },
+            {
+              "provider": "google-layout-pretrained-layout-parser-v1.0-2024-06-03",
+              "regions": [
+                {
+                  "id": "1",
+                  "kind": "text",
+                  "bbox": [0.03995498, 0.037777778, 0.1328081, 0.019999999000000004],
+                  "source_ids": [0]
+                },
+                {
+                  "id": "2",
+                  "kind": "text",
+                  "bbox": [0.046707936, 0.08044445, 0.237478904, 0.019999989999999995],
+                  "source_ids": [1]
+                },
+                {
+                  "id": "3",
+                  "kind": "text",
+                  "bbox": [0.043894205, 0.10888889, 0.6882385950000001, 0.05022222],
+                  "source_ids": [2, 3]
+                },
+                {
+                  "id": "4",
+                  "kind": "text",
+                  "bbox": [0.047833428, 0.19244444, 0.258300502, 0.020444440000000008],
+                  "source_ids": [4]
+                },
+                {
+                  "id": "5",
+                  "kind": "text",
+                  "bbox": [0.045019697, 0.22133334, 0.37253800299999995, 0.02088888],
+                  "source_ids": [5]
+                },
+                {
+                  "id": "6",
+                  "kind": "text",
+                  "bbox": [0.045019697, 0.25066668, 0.379853683, 0.02088886000000001],
+                  "source_ids": [7]
+                },
+                {
+                  "id": "7",
+                  "kind": "text",
+                  "bbox": [0.4383793, 0.23422222, 0.13956104000000003, 0.021777779999999997],
+                  "source_ids": [6]
+                },
+                {
+                  "id": "8",
+                  "kind": "text",
+                  "bbox": [0.04727068, 0.32311112, 0.78052902, 0.02088888],
+                  "source_ids": [8]
+                },
+                {
+                  "id": "9",
+                  "kind": "text",
+                  "bbox": [0.07597074, 0.4751111, 0.32808104000000005, 0.10533336000000004],
+                  "source_ids": []
+                },
+                {
+                  "id": "10",
+                  "kind": "text",
+                  "bbox": [0.4175577, 0.73866665, 0.013505900000000015, 0.01066665],
+                  "source_ids": []
+                },
+                {
+                  "id": "11",
+                  "kind": "text",
+                  "bbox": [0.44569498, 0.844, 0.06978051999999996, 0.015555540000000034],
+                  "source_ids": [9]
+                },
+                {
+                  "id": "12",
+                  "kind": "text",
+                  "bbox": [0.49409115, 0.9817778, 0.010692179999999996, 0.01155553999999992],
+                  "source_ids": [10]
+                },
+                {
+                  "id": "13",
+                  "kind": "text",
+                  "bbox": [0.6409679, 0.412, 0.05908835000000001, 0.013333320000000037],
+                  "source_ids": [11]
+                },
+                {
+                  "id": "14",
+                  "kind": "text",
+                  "bbox": [0.7906584, 0.40888888, 0.012380440000000048, 0.01155558000000001],
+                  "source_ids": []
+                }
+              ],
+              "assignments": {
+                "0": "1",
+                "1": "2",
+                "2": "3",
+                "3": "3",
+                "4": "4",
+                "5": "5",
+                "6": "7",
+                "7": "6",
+                "8": "8",
+                "9": "11",
+                "10": "12",
+                "11": "13"
+              }
+            }
+          ],
+          "unmatched_source_ids": [],
+          "ambiguous_source_ids": [],
+          "conflicts": [],
+          "continuation_source_ids": [2]
+        },
+        "row_layout": {
+          "0": {
+            "translation": "Special Move Play",
+            "rows": [
+              {
+                "text": "必殺技遊び",
+                "translation": "Special Move Play",
+                "bbox": [
+                  0.028203062046736505, 0.023536895674300253, 0.9419822723609992,
+                  0.04262086513994911
+                ],
+                "line_ids": [0]
+              }
+            ]
+          }
+        }
       }
     },
     {
@@ -2654,7 +4939,7 @@
         },
         {
           "text": "②ボタンとピンを同時押しし、鳴らしたい必殺技をセレクトします。\n→セレクトに応じたライダー名が鳴ります。\nボタン",
-          "translation": "• ②Press the button and the pin at the same time to select the special move you want to play.\n• The rider name that matches your selection will play.\n• Button",
+          "translation": "② Press the button and the pin at the same time to select the special move you want to play.\n• The rider name that matches your selection will play.\n• Button",
           "bbox": [0.0414, 0.2902, 0.7581653047561645, 0.02889999999999998],
           "layout": "panel"
         },
@@ -2662,7 +4947,7 @@
           "text": "モード\nケンモード",
           "translation": "• Mode\n• Ken Mode",
           "bbox": [
-            0.08737545019388199, 0.5976735458374024, 0.15475332874059677, 0.03332645416259761
+            0.09825816309452057, 0.5976735458374024, 0.13244183690547942, 0.028226454162597503
           ],
           "layout": "panel"
         },
@@ -2670,21 +4955,27 @@
           "text": "セレクト無し",
           "translation": "No Select",
           "bbox": [
-            0.3110755786895752, 0.5974669561386109, 0.1541487364768982, 0.017433043861389108
+            0.3110755786895752, 0.5974669561386109, 0.1541487364768982, 0.012133043861389026
           ],
           "layout": "panel"
         },
         {
           "text": "汎用必殺技",
-          "translation": "Generic Special Attack",
-          "bbox": [0.3177, 0.6144000000000001, 0.13905997877120974, 0.017199999999999993],
+          "translation": "Generic special attack",
+          "bbox": [0.3177, 0.6144000000000001, 0.13905997877120974, 0.01189999999999991],
+          "layout": "panel"
+        },
+        {
+          "text": "同時押し1回目\nジオウ",
+          "translation": "• Simultaneous press — 1st time\n• Zi‑O",
+          "bbox": [0.520265410900116, 0.5974669561386109, 0.17833458909988398, 0.02823304386138903],
           "layout": "panel"
         },
         {
           "text": "オーズ",
           "translation": "O's",
           "bbox": [
-            0.7826596007347107, 0.6135826215744019, 0.10638574647903432, 0.017617378425598074
+            0.7935000000000001, 0.6135826215744019, 0.08345347213745102, 0.012117378425598013
           ],
           "layout": "panel"
         },
@@ -2713,14 +5004,20 @@
           "layout": "panel"
         },
         {
-          "text": "③ライドウォッチをセットします。\n「必殺技待機音」が鳴ります。",
-          "translation": "• 3. Set the Ride Watch.\n• The “Special Move Standby” sound will play.",
-          "bbox": [0.041999999999999996, 0.659, 0.37001995754241945, 0.024731426239013587],
+          "text": "③ライドウォッチをセットします。",
+          "translation": "③ Set the Ride Watch.",
+          "bbox": [0.041999999999999996, 0.659, 0.37001995754241945, 0.011714904308319007],
+          "layout": "panel"
+        },
+        {
+          "text": "「必殺技待機音」が鳴ります。",
+          "translation": "The \"Special Attack Standby\" sound plays.",
+          "bbox": [0.0698, 0.6718000000000001, 0.3313372520923614, 0.011931426239013554],
           "layout": "panel"
         },
         {
           "text": "④トリガーを引きます。\n→ライドウォッチ:「ライダー名音声」\n→ジカンギレード:セレクトした「必殺技音」",
-          "translation": "• ④ Pull the trigger.\n• → Ride Watch: plays the rider's name voice.\n• → Jikangireedo: plays the selected finisher (special move) sound.",
+          "translation": "④ Pull the trigger.\n• → Ride Watch: plays the rider's name voice.\n• → Jikangireedo: plays the selected finisher (special move) sound.",
           "bbox": [0.0414, 0.6956000000000001, 0.5036308218002319, 0.036699999999999844],
           "layout": "panel"
         },
@@ -2733,11 +5030,6 @@
           "text": "ピン",
           "translation": "Pin",
           "bbox": [0.7944, 0.5167, 0.0417, 0.0068]
-        },
-        {
-          "text": "同時押し1回目\nジオウ",
-          "translation": "Simultaneous press 1st time\nZi-O",
-          "bbox": [0.5218, 0.599, 0.1753, 0.0252]
         },
         {
           "text": "同時押し2回目",
@@ -2893,6 +5185,11 @@
               "source_ids": [7]
             },
             {
+              "id": "p6",
+              "kind": "prose",
+              "source_ids": [8]
+            },
+            {
               "id": "p8",
               "kind": "prose",
               "source_ids": [10]
@@ -2918,9 +5215,14 @@
               "source_ids": [14]
             },
             {
-              "id": "p13",
+              "id": "p13-s0",
               "kind": "prose",
-              "source_ids": [15, 16]
+              "source_ids": [15]
+            },
+            {
+              "id": "p13-s1",
+              "kind": "prose",
+              "source_ids": [16]
             },
             {
               "id": "p14",
@@ -2930,10 +5232,11 @@
           ],
           "furigana": [],
           "notes": [
-            "Source 18 appears to be a footer/OCR artifact near the page number, not main instructional text.",
+            "Source 5 and source 8 each appear to combine adjacent table entries in OCR and cannot be split by source ID.",
+            "Diagram labels 3 and 4 are left ungrouped.",
             "p14: excluded other-column members; retained separately",
+            "p13: separated 2 independent structural units",
             "Panel p1 retained original English after failed automatic checks",
-            "Panel p6 retained original English after failed automatic checks",
             "Panel p7 retained original English after failed automatic checks"
           ],
           "native_artwork": [19]
@@ -2941,16 +5244,16 @@
         "mapping": [
           {
             "display_index": 0,
-            "panel_id": "p0",
             "source_ids": [0],
             "furigana_ids": [],
+            "panel_id": "p0",
             "japanese_items": ["ライドウォッチ必殺技遊び"]
           },
           {
             "display_index": 1,
-            "panel_id": "p2",
             "source_ids": [2, 3],
             "furigana_ids": [],
+            "panel_id": "p2",
             "japanese_items": [
               "②ボタンとピンを同時押しし、鳴らしたい必殺技をセレクトします。",
               "→セレクトに応じたライダー名が鳴ります。",
@@ -2959,72 +5262,86 @@
           },
           {
             "display_index": 2,
-            "panel_id": "p3",
             "source_ids": [5],
             "furigana_ids": [],
+            "panel_id": "p3",
             "japanese_items": ["モード", "ケンモード"]
           },
           {
             "display_index": 3,
-            "panel_id": "p4",
             "source_ids": [6],
             "furigana_ids": [],
+            "panel_id": "p4",
             "japanese_items": ["セレクト無し"]
           },
           {
             "display_index": 4,
-            "panel_id": "p5",
             "source_ids": [7],
             "furigana_ids": [],
+            "panel_id": "p5",
             "japanese_items": ["汎用必殺技"]
           },
           {
             "display_index": 5,
-            "panel_id": "p8",
-            "source_ids": [10],
+            "source_ids": [8],
             "furigana_ids": [],
-            "japanese_items": ["オーズ"]
+            "panel_id": "p6",
+            "japanese_items": ["同時押し1回目", "ジオウ"]
           },
           {
             "display_index": 6,
-            "panel_id": "p9",
-            "source_ids": [11],
+            "source_ids": [10],
             "furigana_ids": [],
-            "japanese_items": ["ジュウモード"]
+            "panel_id": "p8",
+            "japanese_items": ["オーズ"]
           },
           {
             "display_index": 7,
-            "panel_id": "p10",
-            "source_ids": [12],
+            "source_ids": [11],
             "furigana_ids": [],
-            "japanese_items": ["汎用必殺技"]
+            "panel_id": "p9",
+            "japanese_items": ["ジュウモード"]
           },
           {
             "display_index": 8,
-            "panel_id": "p11",
-            "source_ids": [13],
+            "source_ids": [12],
             "furigana_ids": [],
-            "japanese_items": ["W"]
+            "panel_id": "p10",
+            "japanese_items": ["汎用必殺技"]
           },
           {
             "display_index": 9,
-            "panel_id": "p12",
-            "source_ids": [14],
+            "source_ids": [13],
             "furigana_ids": [],
-            "japanese_items": ["フォーゼ"]
+            "panel_id": "p11",
+            "japanese_items": ["W"]
           },
           {
             "display_index": 10,
-            "panel_id": "p13",
-            "source_ids": [15, 16],
+            "source_ids": [14],
             "furigana_ids": [],
-            "japanese_items": ["③ライドウォッチをセットします。", "「必殺技待機音」が鳴ります。"]
+            "panel_id": "p12",
+            "japanese_items": ["フォーゼ"]
           },
           {
             "display_index": 11,
-            "panel_id": "p14",
+            "source_ids": [15],
+            "furigana_ids": [],
+            "panel_id": "p13-s0",
+            "japanese_items": ["③ライドウォッチをセットします。"]
+          },
+          {
+            "display_index": 12,
+            "source_ids": [16],
+            "furigana_ids": [],
+            "panel_id": "p13-s1",
+            "japanese_items": ["「必殺技待機音」が鳴ります。"]
+          },
+          {
+            "display_index": 13,
             "source_ids": [17],
             "furigana_ids": [],
+            "panel_id": "p14",
             "japanese_items": [
               "④トリガーを引きます。",
               "→ライドウォッチ:「ライダー名音声」",
@@ -3032,27 +5349,22 @@
             ]
           },
           {
-            "display_index": 12,
+            "display_index": 14,
             "source_ids": [1],
             "furigana_ids": []
           },
           {
-            "display_index": 13,
+            "display_index": 15,
             "source_ids": [4],
             "furigana_ids": []
           },
           {
-            "display_index": 14,
-            "source_ids": [8],
-            "furigana_ids": []
-          },
-          {
-            "display_index": 15,
+            "display_index": 16,
             "source_ids": [9],
             "furigana_ids": []
           },
           {
-            "display_index": 16,
+            "display_index": 17,
             "source_ids": [18],
             "furigana_ids": []
           },
@@ -3063,14 +5375,12 @@
             "disposition": "native graphic retained without overlay"
           },
           {
-            "display_index": 17,
+            "display_index": 18,
             "source_ids": [20],
             "furigana_ids": []
           }
         ],
-        "uncertainties": [
-          "Unclear intended English rendering of オーズ (could be \"O's\", \"OOO\", or another stylized romanization)."
-        ],
+        "uncertainties": [],
         "ocr_lines": [
           {
             "id": 0,
@@ -3254,7 +5564,690 @@
               0.5556227564811707, 0.714669406414032, 0.14147520065307617, 0.008471071720123291
             ]
           }
-        ]
+        ],
+        "structure": {
+          "version": 1,
+          "variants": [
+            {
+              "provider": "docling",
+              "regions": [
+                {
+                  "id": "#/texts/0",
+                  "kind": "section_header",
+                  "bbox": [
+                    0.04198575843074029, 0.015687174778083825, 0.30117784047651036,
+                    0.01281756963575154
+                  ],
+                  "source_ids": [0]
+                },
+                {
+                  "id": "#/texts/1",
+                  "kind": "section_header",
+                  "bbox": [
+                    0.04422499888037977, 0.0338613406795225, 0.458484482063684, 0.012434955616773841
+                  ],
+                  "source_ids": [1]
+                },
+                {
+                  "id": "#/pictures/0",
+                  "kind": "picture",
+                  "bbox": [
+                    0.041230230523435864, 0.05184558774299199, 0.9064314061363271,
+                    0.23183631130969198
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/pictures/1",
+                  "kind": "picture",
+                  "bbox": [
+                    0.04863363624419142, 0.3174379297323221, 0.8993176101838183, 0.2697950003137551
+                  ],
+                  "source_ids": [4]
+                },
+                {
+                  "id": "#/texts/2",
+                  "kind": "caption",
+                  "bbox": [
+                    0.04422499888037977, 0.29097796143250687, 0.7574230820905549,
+                    0.025443832262014167
+                  ],
+                  "source_ids": [2]
+                },
+                {
+                  "id": "#/tables/0",
+                  "kind": "table",
+                  "bbox": [
+                    0.0486289254770983, 0.5940054862306368, 0.8994298493302108, 0.05159624267157913
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/3",
+                  "kind": "list_item",
+                  "bbox": [
+                    0.04422499888037977, 0.6602004897459443, 0.3666756236284652, 0.01281756963575154
+                  ],
+                  "source_ids": [15]
+                },
+                {
+                  "id": "#/texts/4",
+                  "kind": "list_item",
+                  "bbox": [
+                    0.04534461910519951, 0.6728267523722068, 0.35379999104303816,
+                    0.013200183654729108
+                  ],
+                  "source_ids": [16]
+                },
+                {
+                  "id": "#/texts/11",
+                  "kind": "list_item",
+                  "bbox": [
+                    0.04534461910519951, 0.7210361187633915, 0.4982310000447848,
+                    0.012434955616773841
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/5",
+                  "kind": "list_item",
+                  "bbox": [
+                    0.04198575843074029, 0.6969314355677991, 0.2625509427202293,
+                    0.012626262626262626
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/6",
+                  "kind": "list_item",
+                  "bbox": [
+                    0.04534461910519951, 0.7101316192225282, 0.4254556854315016, 0.00880012243648616
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/7",
+                  "kind": "text",
+                  "bbox": [
+                    0.5564512517354112, 0.7147229874502601, 0.038626897756281066,
+                    0.00880012243648616
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/8",
+                  "kind": "text",
+                  "bbox": [
+                    0.5950781494916924, 0.7147229874502601, 0.05150253034170812,
+                    0.008991429445974943
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/9",
+                  "kind": "text",
+                  "bbox": [
+                    0.6460208697209906, 0.7139577594123049, 0.03190917640736262,
+                    0.013008876645240324
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/10",
+                  "kind": "text",
+                  "bbox": [
+                    0.6863271978145012, 0.7200795837159474, 0.008956961798557896,
+                    0.0032522191613099834
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/pictures/2",
+                  "kind": "picture",
+                  "bbox": [
+                    0.046956955186472644, 0.7521644193963353, 0.8889836784977242, 0.22389565236392
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/tables/0/cell-0",
+                  "kind": "cell",
+                  "bbox": [
+                    0.5223028348784092, 0.5947734925007652, 0.1897756281069461, 0.018748086929905153
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/tables/0/cell-1",
+                  "kind": "cell",
+                  "bbox": [
+                    0.7210354247839132, 0.5947734925007652, 0.20153164046755348,
+                    0.018748086929905153
+                  ],
+                  "source_ids": [9]
+                },
+                {
+                  "id": "#/tables/0/cell-2",
+                  "kind": "cell",
+                  "bbox": [
+                    0.10132563034618657, 0.6161998775635139, 0.12539746517981099,
+                    0.008226201408019546
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/tables/0/cell-3",
+                  "kind": "cell",
+                  "bbox": [
+                    0.32077119441085583, 0.616008570554025, 0.13323480675354915, 0.00880012243648616
+                  ],
+                  "source_ids": [7]
+                },
+                {
+                  "id": "#/tables/0/cell-4",
+                  "kind": "cell",
+                  "bbox": [
+                    0.5738053652201173, 0.616008570554025, 0.0738949348381029, 0.00841750841750846
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/tables/0/cell-5",
+                  "kind": "cell",
+                  "bbox": [
+                    0.7960499798468359, 0.6163911845730027, 0.0766939854001522, 0.008034894398530761
+                  ],
+                  "source_ids": [10]
+                },
+                {
+                  "id": "#/tables/0/cell-6",
+                  "kind": "cell",
+                  "bbox": [
+                    0.09012942809798916, 0.632652280379553, 0.14723005956379598,
+                    0.008608815426997245
+                  ],
+                  "source_ids": [11]
+                },
+                {
+                  "id": "#/tables/0/cell-7",
+                  "kind": "cell",
+                  "bbox": [
+                    0.32077119441085583, 0.632652280379553, 0.13323480675354915,
+                    0.008991429445974943
+                  ],
+                  "source_ids": [12]
+                },
+                {
+                  "id": "#/tables/0/cell-8",
+                  "kind": "cell",
+                  "bbox": [
+                    0.5984370101661516, 0.6334175084175084, 0.025191455058444175,
+                    0.007269666360575364
+                  ],
+                  "source_ids": [13]
+                },
+                {
+                  "id": "#/tables/0/cell-9",
+                  "kind": "cell",
+                  "bbox": [
+                    0.7854135877110484, 0.6318870523415978, 0.09964620000895692,
+                    0.012817569635751409
+                  ],
+                  "source_ids": [14]
+                }
+              ],
+              "assignments": {
+                "0": "#/texts/0",
+                "1": "#/texts/1",
+                "2": "#/texts/2",
+                "7": "#/tables/0/cell-3",
+                "9": "#/tables/0/cell-1",
+                "10": "#/tables/0/cell-5",
+                "11": "#/tables/0/cell-6",
+                "12": "#/tables/0/cell-7",
+                "13": "#/tables/0/cell-8",
+                "14": "#/tables/0/cell-9",
+                "15": "#/texts/3",
+                "16": "#/texts/4"
+              }
+            },
+            {
+              "provider": "google-layout-pretrained-layout-parser-v1.0-2024-06-03",
+              "regions": [
+                {
+                  "id": "1",
+                  "kind": "text",
+                  "bbox": [0.041060735, 0.016369483, 0.299401205, 0.009061677],
+                  "source_ids": [0]
+                },
+                {
+                  "id": "2",
+                  "kind": "text",
+                  "bbox": [0.044482462, 0.03449284, 0.45851153800000005, 0.009061675000000005],
+                  "source_ids": [1]
+                },
+                {
+                  "id": "3",
+                  "kind": "text",
+                  "bbox": [0.0427716, 0.29172757, 0.75534645, 0.02163109000000002],
+                  "source_ids": [2]
+                },
+                {
+                  "id": "4",
+                  "kind": "text",
+                  "bbox": [0.72540635, 0.3118971, 0.05902481000000004, 0.005846259999999992],
+                  "source_ids": [3]
+                },
+                {
+                  "id": "5",
+                  "kind": "text",
+                  "bbox": [0.849444, 0.3162818, 0.029940100000000025, 0.006138560000000015],
+                  "source_ids": []
+                },
+                {
+                  "id": "6",
+                  "kind": "text",
+                  "bbox": [0.79213005, 0.5176849, 0.04106069000000001, 0.0055539399999999794],
+                  "source_ids": []
+                },
+                {
+                  "id": "7",
+                  "kind": "table",
+                  "bbox": [0.040205304, 0.5948553, 0.908468796, 0.0526162],
+                  "source_ids": []
+                },
+                {
+                  "id": "8",
+                  "kind": "text",
+                  "bbox": [0.12660393, 0.5989477, 0.07185628999999999, 0.00876934000000007],
+                  "source_ids": []
+                },
+                {
+                  "id": "9",
+                  "kind": "text",
+                  "bbox": [0.31137726, 0.59924, 0.14970058000000003, 0.008769339999999959],
+                  "source_ids": []
+                },
+                {
+                  "id": "10",
+                  "kind": "text",
+                  "bbox": [0.5218135, 0.59924, 0.15055604, 0.009353999999999973],
+                  "source_ids": []
+                },
+                {
+                  "id": "12",
+                  "kind": "text",
+                  "bbox": [0.67750216, 0.59924, 0.24294269000000002, 0.009353999999999973],
+                  "source_ids": []
+                },
+                {
+                  "id": "13",
+                  "kind": "text",
+                  "bbox": [0.09837468, 0.61560947, 0.12660392999999998, 0.008769389999999988],
+                  "source_ids": []
+                },
+                {
+                  "id": "14",
+                  "kind": "text",
+                  "bbox": [0.31736526, 0.61560947, 0.13686914, 0.009353990000000034],
+                  "source_ids": []
+                },
+                {
+                  "id": "15",
+                  "kind": "text",
+                  "bbox": [0.57057315, 0.61590177, 0.07869970999999998, 0.008477089999999965],
+                  "source_ids": []
+                },
+                {
+                  "id": "16",
+                  "kind": "text",
+                  "bbox": [0.67750216, 0.61560947, 0.04362704000000006, 0.009353990000000034],
+                  "source_ids": []
+                },
+                {
+                  "id": "17",
+                  "kind": "text",
+                  "bbox": [0.79298544, 0.61560947, 0.07955520999999999, 0.008769389999999988],
+                  "source_ids": []
+                },
+                {
+                  "id": "18",
+                  "kind": "text",
+                  "bbox": [0.08982036, 0.6322713, 0.14627887, 0.00876929999999998],
+                  "source_ids": []
+                },
+                {
+                  "id": "19",
+                  "kind": "text",
+                  "bbox": [0.31907612, 0.6322713, 0.13430282999999998, 0.009353999999999973],
+                  "source_ids": []
+                },
+                {
+                  "id": "20",
+                  "kind": "text",
+                  "bbox": [0.59195894, 0.6331482, 0.03507265999999998, 0.007015499999999952],
+                  "source_ids": []
+                },
+                {
+                  "id": "21",
+                  "kind": "text",
+                  "bbox": [0.67750216, 0.6322713, 0.04362704000000006, 0.009353999999999973],
+                  "source_ids": []
+                },
+                {
+                  "id": "22",
+                  "kind": "text",
+                  "bbox": [0.78272027, 0.6322713, 0.10179638999999996, 0.00876929999999998],
+                  "source_ids": []
+                },
+                {
+                  "id": "23",
+                  "kind": "text",
+                  "bbox": [0.046193328, 0.6606256, 0.365269452, 0.00876929999999998],
+                  "source_ids": [15]
+                },
+                {
+                  "id": "24",
+                  "kind": "text",
+                  "bbox": [0.07356715, 0.67290264, 0.32506415, 0.009646299999999997],
+                  "source_ids": [16]
+                },
+                {
+                  "id": "25",
+                  "kind": "text",
+                  "bbox": [0.04362703, 0.69687223, 0.26005132999999997, 0.009646370000000015],
+                  "source_ids": []
+                },
+                {
+                  "id": "26",
+                  "kind": "text",
+                  "bbox": [0.0427716, 0.709734, 0.42600512999999995, 0.009353959999999995],
+                  "source_ids": []
+                },
+                {
+                  "id": "27",
+                  "kind": "text",
+                  "bbox": [0.0427716, 0.7211342, 0.49871687, 0.009646300000000108],
+                  "source_ids": []
+                },
+                {
+                  "id": "28",
+                  "kind": "text",
+                  "bbox": [0.5534645, 0.714411, 0.14114629999999995, 0.009353959999999995],
+                  "source_ids": [20]
+                },
+                {
+                  "id": "29",
+                  "kind": "text",
+                  "bbox": [0.059880238, 0.76819646, 0.355859712, 0.06401634],
+                  "source_ids": []
+                },
+                {
+                  "id": "30",
+                  "kind": "text",
+                  "bbox": [0.49101797, 0.9923999, 0.017108629999999958, 0.004384669999999979],
+                  "source_ids": [18, 19]
+                },
+                {
+                  "id": "7/cell-0",
+                  "kind": "cell_text",
+                  "bbox": [0.12660393, 0.5989477, 0.07185628999999999, 0.00876934000000007],
+                  "source_ids": []
+                },
+                {
+                  "id": "7/cell-1",
+                  "kind": "cell_text",
+                  "bbox": [0.31137726, 0.59924, 0.14970058000000003, 0.008769339999999959],
+                  "source_ids": [6]
+                },
+                {
+                  "id": "7/cell-2",
+                  "kind": "cell_text",
+                  "bbox": [0.5218135, 0.59924, 0.15055604, 0.009353999999999973],
+                  "source_ids": []
+                },
+                {
+                  "id": "7/cell-4",
+                  "kind": "cell_text",
+                  "bbox": [0.67750216, 0.59924, 0.24294269000000002, 0.009353999999999973],
+                  "source_ids": [9]
+                },
+                {
+                  "id": "7/cell-5",
+                  "kind": "cell_text",
+                  "bbox": [0.09837468, 0.61560947, 0.12660392999999998, 0.008769389999999988],
+                  "source_ids": []
+                },
+                {
+                  "id": "7/cell-6",
+                  "kind": "cell_text",
+                  "bbox": [0.31736526, 0.61560947, 0.13686914, 0.009353990000000034],
+                  "source_ids": [7]
+                },
+                {
+                  "id": "7/cell-7",
+                  "kind": "cell_text",
+                  "bbox": [0.57057315, 0.61590177, 0.07869970999999998, 0.008477089999999965],
+                  "source_ids": []
+                },
+                {
+                  "id": "7/cell-8",
+                  "kind": "cell_text",
+                  "bbox": [0.67750216, 0.61560947, 0.04362704000000006, 0.009353990000000034],
+                  "source_ids": []
+                },
+                {
+                  "id": "7/cell-9",
+                  "kind": "cell_text",
+                  "bbox": [0.79298544, 0.61560947, 0.07955520999999999, 0.008769389999999988],
+                  "source_ids": [10]
+                },
+                {
+                  "id": "7/cell-10",
+                  "kind": "cell_text",
+                  "bbox": [0.08982036, 0.6322713, 0.14627887, 0.00876929999999998],
+                  "source_ids": [11]
+                },
+                {
+                  "id": "7/cell-11",
+                  "kind": "cell_text",
+                  "bbox": [0.31907612, 0.6322713, 0.13430282999999998, 0.009353999999999973],
+                  "source_ids": [12]
+                },
+                {
+                  "id": "7/cell-12",
+                  "kind": "cell_text",
+                  "bbox": [0.59195894, 0.6331482, 0.03507265999999998, 0.007015499999999952],
+                  "source_ids": [13]
+                },
+                {
+                  "id": "7/cell-13",
+                  "kind": "cell_text",
+                  "bbox": [0.67750216, 0.6322713, 0.04362704000000006, 0.009353999999999973],
+                  "source_ids": []
+                },
+                {
+                  "id": "7/cell-14",
+                  "kind": "cell_text",
+                  "bbox": [0.78272027, 0.6322713, 0.10179638999999996, 0.00876929999999998],
+                  "source_ids": [14]
+                }
+              ],
+              "assignments": {
+                "0": "1",
+                "1": "2",
+                "2": "3",
+                "3": "4",
+                "6": "7/cell-1",
+                "7": "7/cell-6",
+                "9": "7/cell-4",
+                "10": "7/cell-9",
+                "11": "7/cell-10",
+                "12": "7/cell-11",
+                "13": "7/cell-12",
+                "14": "7/cell-14",
+                "15": "23",
+                "16": "24",
+                "18": "30",
+                "19": "30",
+                "20": "28"
+              }
+            }
+          ],
+          "unmatched_source_ids": [4, 5, 8, 17],
+          "ambiguous_source_ids": [],
+          "conflicts": [],
+          "continuation_source_ids": []
+        },
+        "row_layout": {
+          "0": {
+            "translation": "Ridewatch Finisher Play",
+            "rows": [
+              {
+                "text": "ライドウォッチ必殺技遊び",
+                "translation": "Ridewatch Finisher Play",
+                "bbox": [
+                  0.028203062046736505, 0.010192837465564738, 0.9419822723609992,
+                  0.018457300275482095
+                ],
+                "line_ids": [0]
+              }
+            ]
+          },
+          "2": {
+            "translation": "• Mode\n• Ken Mode",
+            "rows": [
+              {
+                "text": "モード",
+                "translation": "Mode",
+                "bbox": [
+                  0.0515713134568896, 0.5955922865013774, 0.22240128928283642, 0.016253443526170797
+                ],
+                "line_ids": [6]
+              },
+              {
+                "text": "ケンモード",
+                "translation": "Ken Mode",
+                "bbox": [
+                  0.0531829170024174, 0.6123966942148761, 0.22078968573730862, 0.015702479338842976
+                ],
+                "line_ids": [7]
+              }
+            ]
+          },
+          "3": {
+            "translation": "No Select",
+            "rows": [
+              {
+                "text": "セレクト無し",
+                "translation": "No Select",
+                "bbox": [
+                  0.2771958098307816, 0.5955922865013774, 0.2199838839645447, 0.016253443526170797
+                ],
+                "line_ids": [8]
+              }
+            ]
+          },
+          "4": {
+            "translation": "Generic special attack",
+            "rows": [
+              {
+                "text": "汎用必殺技",
+                "translation": "Generic special attack",
+                "bbox": [
+                  0.2771958098307816, 0.6123966942148761, 0.2199838839645447, 0.015702479338842976
+                ],
+                "line_ids": [9]
+              }
+            ]
+          },
+          "5": {
+            "translation": "• Simultaneous press — 1st time\n• Zi‑O",
+            "rows": [
+              {
+                "text": "同時押し1回目",
+                "translation": "Simultaneous press — 1st time",
+                "bbox": [
+                  0.500402900886382, 0.5955922865013774, 0.22078968573730862, 0.016253443526170797
+                ],
+                "line_ids": [10]
+              },
+              {
+                "text": "ジオウ",
+                "translation": "Zi‑O",
+                "bbox": [
+                  0.500402900886382, 0.6123966942148761, 0.22078968573730862, 0.015702479338842976
+                ],
+                "line_ids": [11]
+              }
+            ]
+          },
+          "6": {
+            "translation": "O's",
+            "rows": [
+              {
+                "text": "オーズ",
+                "translation": "O's",
+                "bbox": [
+                  0.7244157937147462, 0.6123966942148761, 0.2199838839645447, 0.015702479338842976
+                ],
+                "line_ids": [13]
+              }
+            ]
+          },
+          "7": {
+            "translation": "Gun Mode",
+            "rows": [
+              {
+                "text": "ジュウモード",
+                "translation": "Gun Mode",
+                "bbox": [
+                  0.0531829170024174, 0.6292011019283746, 0.22078968573730862, 0.015702479338842976
+                ],
+                "line_ids": [14]
+              }
+            ]
+          },
+          "8": {
+            "translation": "Universal special attack",
+            "rows": [
+              {
+                "text": "汎用必殺技",
+                "translation": "Universal special attack",
+                "bbox": [
+                  0.2771958098307816, 0.6292011019283746, 0.2199838839645447, 0.015702479338842976
+                ],
+                "line_ids": [15]
+              }
+            ]
+          },
+          "9": {
+            "translation": "W",
+            "rows": [
+              {
+                "text": "W",
+                "translation": "W",
+                "bbox": [
+                  0.500402900886382, 0.6292011019283746, 0.22078968573730862, 0.015702479338842976
+                ],
+                "line_ids": [16]
+              }
+            ]
+          },
+          "10": {
+            "translation": "Foze",
+            "rows": [
+              {
+                "text": "フォーゼ",
+                "translation": "Foze",
+                "bbox": [
+                  0.7244157937147462, 0.6292011019283746, 0.2199838839645447, 0.015702479338842976
+                ],
+                "line_ids": [17]
+              }
+            ]
+          }
+        }
       }
     },
     {
@@ -3332,16 +6325,16 @@
         "mapping": [
           {
             "display_index": 0,
-            "panel_id": "p0",
             "source_ids": [0],
             "furigana_ids": [],
+            "panel_id": "p0",
             "japanese_items": ["ライドウォッチスロットの外し方"]
           },
           {
             "display_index": 1,
-            "panel_id": "p1",
             "source_ids": [1],
             "furigana_ids": [],
+            "panel_id": "p1",
             "japanese_items": [
               "解除ボタンを上に上げ、ツメを下に下げながら、スロットを引き抜きます。"
             ]
@@ -3400,7 +6393,119 @@
               0.8077388405799866, 0.5859085321426392, 0.03748488426208496, 0.01668727397918701
             ]
           }
-        ]
+        ],
+        "structure": {
+          "version": 1,
+          "variants": [
+            {
+              "provider": "docling",
+              "regions": [
+                {
+                  "id": "#/texts/0",
+                  "kind": "section_header",
+                  "bbox": [
+                    0.04198575843074029, 0.04978711715423705, 0.36779524385328494,
+                    0.025751957148743305
+                  ],
+                  "source_ids": [0]
+                },
+                {
+                  "id": "#/texts/1",
+                  "kind": "text",
+                  "bbox": [
+                    0.043665188767969904, 0.10129103145172366, 0.8268395360293789,
+                    0.03834180286590667
+                  ],
+                  "source_ids": [1]
+                },
+                {
+                  "id": "#/pictures/0",
+                  "kind": "picture",
+                  "bbox": [
+                    0.04344284454448111, 0.14121672955835252, 0.9202115391724862, 0.8003559799586929
+                  ],
+                  "source_ids": [3, 4]
+                },
+                {
+                  "id": "#/texts/2",
+                  "kind": "text",
+                  "bbox": [
+                    0.6779300461283533, 0.7496680858856384, 0.09796676967172731,
+                    0.030330082864075382
+                  ],
+                  "source_ids": [3]
+                }
+              ],
+              "assignments": {
+                "0": "#/texts/0",
+                "1": "#/texts/1",
+                "3": "#/texts/2"
+              }
+            },
+            {
+              "provider": "google-layout-pretrained-layout-parser-v1.0-2024-06-03",
+              "regions": [
+                {
+                  "id": "1",
+                  "kind": "text",
+                  "bbox": [0.041543026, 0.049544994, 0.367952534, 0.026289186],
+                  "source_ids": [0]
+                },
+                {
+                  "id": "2",
+                  "kind": "text",
+                  "bbox": [0.041543026, 0.103134476, 0.828387714, 0.027300303999999997],
+                  "source_ids": [1]
+                },
+                {
+                  "id": "3",
+                  "kind": "text",
+                  "bbox": [0.49208704, 0.97724974, 0.014836809999999978, 0.013144610000000001],
+                  "source_ids": [2]
+                },
+                {
+                  "id": "4",
+                  "kind": "text",
+                  "bbox": [0.67556876, 0.7512639, 0.09940654000000004, 0.020222440000000064],
+                  "source_ids": [3]
+                },
+                {
+                  "id": "5",
+                  "kind": "text",
+                  "bbox": [0.8051434, 0.5849343, 0.041543, 0.01921129999999993],
+                  "source_ids": [4]
+                }
+              ],
+              "assignments": {
+                "0": "1",
+                "1": "2",
+                "2": "3",
+                "3": "4",
+                "4": "5"
+              }
+            }
+          ],
+          "unmatched_source_ids": [],
+          "ambiguous_source_ids": [],
+          "conflicts": [],
+          "continuation_source_ids": []
+        },
+        "row_layout": {
+          "0": {
+            "translation": "How to remove the Ridewatch slot",
+            "rows": [
+              {
+                "text": "ライドウォッチスロットの外し方",
+                "translation": "How to remove the Ridewatch slot",
+                "bbox": [
+                  0.028203062046736505, 0.030477759472817133, 0.9419822723609992,
+                  0.05518945634266886
+                ],
+                "line_ids": [0]
+              }
+            ]
+          }
+        }
       }
     },
     {
@@ -3415,19 +6520,21 @@
         },
         {
           "text": "ボタンを長押しする度に、下記5曲が再生・停止できます。",
-          "translation": "Each time you long-press the button, you can play or stop the five songs listed below.",
-          "bbox": [0.0426, 0.0832, 0.661439324760437, 0.04619999999999999],
+          "translation": "Each time you long-press the button, the following five tracks will play or stop.",
+          "bbox": [0.0426, 0.0832, 0.661439324760437, 0.025859613883495336],
           "layout": "panel"
         },
         {
           "text": "1 『Over \"Quartzer\"』 (TV size)",
-          "translation": "1 \"Over 'Quartzer'\" (TV size)",
-          "bbox": [0.0689, 0.1304, 0.4154, 0.0249]
+          "translation": "1 \"Over \"Quartzer\"\" (TV size)",
+          "bbox": [0.0674, 0.12889065897464752, 0.4184, 0.027909341025352474],
+          "layout": "panel"
         },
         {
           "text": "2 『ジオウ誕生』\n3 『ジオウ変身』\n4 『アーマータイム』",
-          "translation": "2 \"Birth of Zi-O\"\n3 \"Zi-O Transformation\"\n4 \"Armor Time\"",
-          "bbox": [0.0641, 0.1745, 0.2527, 0.1055]
+          "translation": "• 2 \"Zi-O's Birth\"\n• 3 \"Zi-O Transformation\"\n• 4 \"Armor Time\"",
+          "bbox": [0.06258706307411194, 0.173, 0.25571293692588803, 0.10856088733673097],
+          "layout": "panel"
         },
         {
           "text": "5 『P.A.R.T.Y.~ユニバース・フェスティバル』 (ショートver.)",
@@ -3491,36 +6598,53 @@
               "id": "p1",
               "kind": "prose",
               "source_ids": [1]
+            },
+            {
+              "id": "p2",
+              "kind": "prose",
+              "source_ids": [2]
+            },
+            {
+              "id": "p3",
+              "kind": "prose",
+              "source_ids": [3]
             }
           ],
           "furigana": [],
-          "notes": ["Panel p2 retained original English after failed automatic checks"],
+          "notes": [
+            "Source 3 contains three separate table rows but cannot be split by source ID.",
+            "Panel p4 retained original English after failed automatic checks"
+          ],
           "native_artwork": [5]
         },
         "mapping": [
           {
             "display_index": 0,
-            "panel_id": "p0",
             "source_ids": [0],
             "furigana_ids": [],
+            "panel_id": "p0",
             "japanese_items": ["BGM遊び"]
           },
           {
             "display_index": 1,
-            "panel_id": "p1",
             "source_ids": [1],
             "furigana_ids": [],
+            "panel_id": "p1",
             "japanese_items": ["ボタンを長押しする度に、下記5曲が再生・停止できます。"]
           },
           {
             "display_index": 2,
             "source_ids": [2],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "panel_id": "p2",
+            "japanese_items": ["1 『Over \"Quartzer\"』 (TV size)"]
           },
           {
             "display_index": 3,
             "source_ids": [3],
-            "furigana_ids": []
+            "furigana_ids": [],
+            "panel_id": "p3",
+            "japanese_items": ["2 『ジオウ誕生』", "3 『ジオウ変身』", "4 『アーマータイム』"]
           },
           {
             "display_index": 4,
@@ -3604,7 +6728,365 @@
               0.6571946740150452, 0.36580416560173035, 0.056831955909729004, 0.0147133469581604
             ]
           }
-        ]
+        ],
+        "structure": {
+          "version": 1,
+          "variants": [
+            {
+              "provider": "docling",
+              "regions": [
+                {
+                  "id": "#/texts/0",
+                  "kind": "text",
+                  "bbox": [
+                    0.04534461910519951, 0.08315012120187158, 0.6555376416319584,
+                    0.03241445402784825
+                  ],
+                  "source_ids": [1]
+                },
+                {
+                  "id": "#/texts/1",
+                  "kind": "text",
+                  "bbox": [
+                    0.06605759326436472, 0.13529511246406226, 0.01903354382193559,
+                    0.14234173290489882
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/2",
+                  "kind": "list_item",
+                  "bbox": [
+                    0.11364145281920372, 0.1334160136798391, 0.3700344843029244, 0.02254918541067704
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/3",
+                  "kind": "list_item",
+                  "bbox": [
+                    0.11364145281920372, 0.17522596162880288, 0.14667024945138607,
+                    0.02160963601856539
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/4",
+                  "kind": "list_item",
+                  "bbox": [
+                    0.11364145281920372, 0.21515681079354337, 0.1477898696762058,
+                    0.029595805851513616
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/5",
+                  "kind": "list_item",
+                  "bbox": [
+                    0.11364145281920372, 0.2583760828306745, 0.19985221013032375,
+                    0.02160963601856539
+                  ],
+                  "source_ids": []
+                },
+                {
+                  "id": "#/texts/6",
+                  "kind": "list_item",
+                  "bbox": [
+                    0.06381835281472524, 0.2813950429374072, 0.7070401719736664,
+                    0.046037920213465734
+                  ],
+                  "source_ids": [4]
+                },
+                {
+                  "id": "#/pictures/0",
+                  "kind": "picture",
+                  "bbox": [
+                    0.05543106514335479, 0.36340031153719193, 0.8846760372187468, 0.5672989966164173
+                  ],
+                  "source_ids": [6]
+                }
+              ],
+              "assignments": {
+                "1": "#/texts/0",
+                "4": "#/texts/6"
+              }
+            },
+            {
+              "provider": "google-layout-pretrained-layout-parser-v1.0-2024-06-03",
+              "regions": [
+                {
+                  "id": "1",
+                  "kind": "text",
+                  "bbox": [0.041484717, 0.039853413, 0.12281658300000001, 0.020613834000000004],
+                  "source_ids": [0]
+                },
+                {
+                  "id": "2",
+                  "kind": "text",
+                  "bbox": [0.044759825, 0.08520385, 0.656113575, 0.021988085000000004],
+                  "source_ids": [1]
+                },
+                {
+                  "id": "3",
+                  "kind": "text",
+                  "bbox": [0.0709607, 0.13284472, 0.41211790000000004, 0.023362329999999987],
+                  "source_ids": [2]
+                },
+                {
+                  "id": "4",
+                  "kind": "text",
+                  "bbox": [0.06713974, 0.17453046, 0.19213976, 0.022446170000000015],
+                  "source_ids": []
+                },
+                {
+                  "id": "5",
+                  "kind": "text",
+                  "bbox": [0.06495633, 0.21575813, 0.19486899000000002, 0.022446170000000015],
+                  "source_ids": []
+                },
+                {
+                  "id": "6",
+                  "kind": "text",
+                  "bbox": [0.06550218, 0.25744388, 0.2489083, 0.022446179999999982],
+                  "source_ids": []
+                },
+                {
+                  "id": "7",
+                  "kind": "text",
+                  "bbox": [0.066593885, 0.29867154, 0.7030567550000001, 0.024736619999999987],
+                  "source_ids": []
+                },
+                {
+                  "id": "8",
+                  "kind": "text",
+                  "bbox": [0.06113537, 0.45167202, 0.30949781, 0.11360513999999994],
+                  "source_ids": []
+                },
+                {
+                  "id": "9",
+                  "kind": "text",
+                  "bbox": [0.49017468, 0.9812185, 0.018558950000000074, 0.011452160000000045],
+                  "source_ids": [5]
+                },
+                {
+                  "id": "10",
+                  "kind": "text",
+                  "bbox": [0.6572052, 0.36692625, 0.057314499999999935, 0.014658720000000014],
+                  "source_ids": [6]
+                },
+                {
+                  "id": "11",
+                  "kind": "table",
+                  "bbox": [0.044213973, 0.1177279, 0.907751127, 0.21575812],
+                  "source_ids": []
+                },
+                {
+                  "id": "12",
+                  "kind": "text",
+                  "bbox": [0.0709607, 0.13284472, 0.008187769999999997, 0.023362329999999987],
+                  "source_ids": []
+                },
+                {
+                  "id": "13",
+                  "kind": "text",
+                  "bbox": [0.123908296, 0.13284472, 0.35917030400000005, 0.023362329999999987],
+                  "source_ids": []
+                },
+                {
+                  "id": "14",
+                  "kind": "text",
+                  "bbox": [0.06713974, 0.17453046, 0.031659384, 0.022446170000000015],
+                  "source_ids": []
+                },
+                {
+                  "id": "15",
+                  "kind": "text",
+                  "bbox": [0.12445415, 0.17453046, 0.12609171000000002, 0.022446170000000015],
+                  "source_ids": []
+                },
+                {
+                  "id": "16",
+                  "kind": "text",
+                  "bbox": [0.06495633, 0.21575813, 0.01965066, 0.022446170000000015],
+                  "source_ids": []
+                },
+                {
+                  "id": "17",
+                  "kind": "text",
+                  "bbox": [0.123908296, 0.21575813, 0.126091704, 0.022446170000000015],
+                  "source_ids": []
+                },
+                {
+                  "id": "18",
+                  "kind": "text",
+                  "bbox": [0.06550218, 0.25790197, 0.02074236, 0.021529999999999994],
+                  "source_ids": []
+                },
+                {
+                  "id": "19",
+                  "kind": "text",
+                  "bbox": [0.123908296, 0.25790197, 0.179585144, 0.021529999999999994],
+                  "source_ids": []
+                },
+                {
+                  "id": "20",
+                  "kind": "text",
+                  "bbox": [0.066593885, 0.29912964, 0.018013105, 0.023362330000000042],
+                  "source_ids": []
+                },
+                {
+                  "id": "21",
+                  "kind": "text",
+                  "bbox": [0.123908296, 0.29912964, 0.6457423440000001, 0.023820430000000004],
+                  "source_ids": []
+                },
+                {
+                  "id": "11/cell-0",
+                  "kind": "cell_text",
+                  "bbox": [0.0709607, 0.13284472, 0.008187769999999997, 0.023362329999999987],
+                  "source_ids": []
+                },
+                {
+                  "id": "11/cell-1",
+                  "kind": "cell_text",
+                  "bbox": [0.123908296, 0.13284472, 0.35917030400000005, 0.023362329999999987],
+                  "source_ids": []
+                },
+                {
+                  "id": "11/cell-2",
+                  "kind": "cell_text",
+                  "bbox": [0.06713974, 0.17453046, 0.031659384, 0.022446170000000015],
+                  "source_ids": []
+                },
+                {
+                  "id": "11/cell-3",
+                  "kind": "cell_text",
+                  "bbox": [0.12445415, 0.17453046, 0.12609171000000002, 0.022446170000000015],
+                  "source_ids": []
+                },
+                {
+                  "id": "11/cell-4",
+                  "kind": "cell_text",
+                  "bbox": [0.06495633, 0.21575813, 0.01965066, 0.022446170000000015],
+                  "source_ids": []
+                },
+                {
+                  "id": "11/cell-5",
+                  "kind": "cell_text",
+                  "bbox": [0.123908296, 0.21575813, 0.126091704, 0.022446170000000015],
+                  "source_ids": []
+                },
+                {
+                  "id": "11/cell-6",
+                  "kind": "cell_text",
+                  "bbox": [0.06550218, 0.25790197, 0.02074236, 0.021529999999999994],
+                  "source_ids": []
+                },
+                {
+                  "id": "11/cell-7",
+                  "kind": "cell_text",
+                  "bbox": [0.123908296, 0.25790197, 0.179585144, 0.021529999999999994],
+                  "source_ids": []
+                },
+                {
+                  "id": "11/cell-8",
+                  "kind": "cell_text",
+                  "bbox": [0.066593885, 0.29912964, 0.018013105, 0.023362330000000042],
+                  "source_ids": []
+                },
+                {
+                  "id": "11/cell-9",
+                  "kind": "cell_text",
+                  "bbox": [0.123908296, 0.29912964, 0.6457423440000001, 0.023820430000000004],
+                  "source_ids": [4]
+                }
+              ],
+              "assignments": {
+                "0": "1",
+                "1": "2",
+                "2": "3",
+                "4": "11/cell-9",
+                "5": "9",
+                "6": "10"
+              }
+            }
+          ],
+          "unmatched_source_ids": [3],
+          "ambiguous_source_ids": [],
+          "conflicts": [],
+          "continuation_source_ids": []
+        },
+        "row_layout": {
+          "0": {
+            "translation": "BGM Play",
+            "rows": [
+              {
+                "text": "BGM遊び",
+                "translation": "BGM Play",
+                "bbox": [
+                  0.028203062046736505, 0.025016903313049357, 0.9419822723609992,
+                  0.045300878972278566
+                ],
+                "line_ids": [0]
+              }
+            ]
+          },
+          "1": {
+            "translation": "Each time you long-press the button, the following five tracks will play or stop.",
+            "rows": [
+              {
+                "text": "ボタンを長押しする度に、下記5曲が再生・停止できます。",
+                "translation": "Each time you long-press the button, the following five tracks will play or stop.",
+                "bbox": [
+                  0.032232070910556, 0.07167004732927654, 0.9339242546333602, 0.0486815415821501
+                ],
+                "line_ids": [1]
+              }
+            ]
+          },
+          "2": {
+            "translation": "1 \"Over \"Quartzer\"\" (TV size)",
+            "rows": [
+              {
+                "text": "1 『Over \"Quartzer\"』 (TV size)",
+                "translation": "1 \"Over \"Quartzer\"\" (TV size)",
+                "bbox": [
+                  0.0531829170024174, 0.12305611899932387, 0.8920225624496374, 0.0392156862745098
+                ],
+                "line_ids": [2]
+              }
+            ]
+          },
+          "3": {
+            "translation": "• 2 \"Zi-O's Birth\"\n• 3 \"Zi-O Transformation\"\n• 4 \"Armor Time\"",
+            "rows": [
+              {
+                "text": "2 『ジオウ誕生』",
+                "translation": "2 \"Zi-O's Birth\"",
+                "bbox": [
+                  0.0531829170024174, 0.1649763353617309, 0.8920225624496374, 0.0392156862745098
+                ],
+                "line_ids": [3]
+              },
+              {
+                "text": "3 『ジオウ変身』",
+                "translation": "3 \"Zi-O Transformation\"",
+                "bbox": [
+                  0.0531829170024174, 0.20689655172413793, 0.8920225624496374, 0.0392156862745098
+                ],
+                "line_ids": [4]
+              },
+              {
+                "text": "4 『アーマータイム』",
+                "translation": "4 \"Armor Time\"",
+                "bbox": [
+                  0.0531829170024174, 0.24881676808654496, 0.8920225624496374, 0.0392156862745098
+                ],
+                "line_ids": [5]
+              }
+            ]
+          }
+        }
       }
     }
   ]
